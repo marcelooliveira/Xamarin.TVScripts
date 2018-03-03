@@ -1,0 +1,491 @@
+The Economist
+2	00:00:00,000 --> 00:00:00,000	Written by	Edward Kitsis & Adam Horowitz
+4	00:00:00,000 --> 00:00:00,000	Directed by	Jack Bender
+6	00:00:00,000 --> 00:00:00,000		[Sayid kneels next to the helicopter, apparently praying. Naomi's corpse is seen. Jack and Juliet walk by.]
+8	00:00:00,000 --> 00:00:00,000	JACK	Did Ben ever mention knowing anyone off the island? You're sure of that?
+10	00:00:00,000 --> 00:00:00,000	JULIET	No.
+12	00:00:00,000 --> 00:00:00,000	MILES	Look, this is real simple. Do you know where he is or don't you?
+14	00:00:00,000 --> 00:00:00,000	JACK	[off-screen] What do you want with him?
+16	00:00:00,000 --> 00:00:00,000	MILES	[off-screen] I want to locate him.
+18	00:00:00,000 --> 00:00:00,000		[Sayid gets up and walks towards Naomi's corpse.]
+20	00:00:00,000 --> 00:00:00,000	MILES	The people who hired me told me his name's Benjamin Linus, I don't know anything else. They gave me the picture, that's all they told me.
+22	00:00:00,000 --> 00:00:00,000		[Daniel gives Kate a concerned look.]
+24	00:00:00,000 --> 00:00:00,000	MILES	[continues] They told me "find him," and for what they're paying me I don't need to know anything else, do you?
+26	00:00:00,000 --> 00:00:00,000	JACK	[off-screen] Okay, you want Ben. He's with Locke, and your friend-
+28	00:00:00,000 --> 00:00:00,000		[Sayid kneels next to Naomi and closes her eyes.]
+30	00:00:00,000 --> 00:00:00,000	MILES	[off-screen] Charlotte.
+32	00:00:00,000 --> 00:00:00,000		[Sayid pulls the blanket over Naomi's face.]
+34	00:00:00,000 --> 00:00:00,000	JACK	[off-screen] Charlotte. John's got her too. And we know where they're headed.
+36	00:00:00,000 --> 00:00:00,000	MILES	[off-screen] Locke's the guy who killed Naomi. Give me back my gun, Shepherd.
+38	00:00:00,000 --> 00:00:00,000		[Sayid pulls Naomi's left wrist out from underneath the blanket. Naomi is wearing a silver bracelet.]
+40	00:00:00,000 --> 00:00:00,000	JACK	[off-screen] You want your gun back? I want answers.
+42	00:00:00,000 --> 00:00:00,000		[Sayid takes off Naomi's bracelet and scrutinizes it. Inscribed on the inside is "N, I will always be with you, R.G."]
+44	00:00:00,000 --> 00:00:00,000	JACK	[continues] You don't trust me, I don't trust you.
+46	00:00:00,000 --> 00:00:00,000		[Cut to Miles.]
+48	00:00:00,000 --> 00:00:00,000	MILES	You're supposed to be dead. But am I asking a million questions? No. We both have the same problem, this Locke guy.
+50	00:00:00,000 --> 00:00:00,000	KATE	Even if Locke has your friend, you can't just waltz in there and grab her. They're armed.
+52	00:00:00,000 --> 00:00:00,000	MILES	Well how 'bout that? So are we! So why don't we move out?
+54	00:00:00,000 --> 00:00:00,000		[He gets cut off.]
+56	00:00:00,000 --> 00:00:00,000	SAYID	You're not going anywhere. [To Frank] Will that helicopter fly?
+58	00:00:00,000 --> 00:00:00,000		[Sayid walks toward Frank.]
+60	00:00:00,000 --> 00:00:00,000	FRANK	It's what she does.
+62	00:00:00,000 --> 00:00:00,000	SAYID	Then you can take me to your ship.
+64	00:00:00,000 --> 00:00:00,000	JACK	Sayid, wait a second.
+66	00:00:00,000 --> 00:00:00,000	SAYID	We did call these people to get us off this island, didn't we?
+68	00:00:00,000 --> 00:00:00,000		[Sayid turns to Frank.]
+70	00:00:00,000 --> 00:00:00,000	SAYID	Well?
+72	00:00:00,000 --> 00:00:00,000	FRANK	We burned a lot of fuel coming in, it can't carry much weight. I'll take three of you.
+74	00:00:00,000 --> 00:00:00,000	MILES	In case you zoned out while you were tweezing your goatee, one of these yahoos took Charlotte prisoner.
+76	00:00:00,000 --> 00:00:00,000	SAYID	I can bring her back. Safely. And if I do, will you take me to the ship?
+78	00:00:00,000 --> 00:00:00,000	FRANK	Absolutely. You bring Charlotte back safe, and I will take you off this island.
+80	00:00:00,000 --> 00:00:00,000		[Flash-forward - A man is teeing off on a golf course on a beach overlooking the ocean. The man is a longer-haired Sayid. A golf cart then approaches as Sayid walks towards his ball and sets his clubs down.]
+82	00:00:00,000 --> 00:00:00,000	MAN 1	[Italian accent] Good morning.
+84	00:00:00,000 --> 00:00:00,000	SAYID	Good morning.
+86	00:00:00,000 --> 00:00:00,000	MAN 1	[From golf cart] Long walk to the next hole. Want a ride?
+88	00:00:00,000 --> 00:00:00,000	SAYID	Thank you, but no. My ball is right here.
+90	00:00:00,000 --> 00:00:00,000	MAN 1	You know, you are the first person I have seen out here all morning?
+92	00:00:00,000 --> 00:00:00,000	SAYID	I believe we are paying quite a premium for that kind of privacy.
+94	00:00:00,000 --> 00:00:00,000	MAN 1	That we are.
+96	00:00:00,000 --> 00:00:00,000		[The man gets out of the golf cart. Sayid sizes up his next shot.]
+98	00:00:00,000 --> 00:00:00,000	MAN 1	Is this your first time in the Seychelles? Uh uh, I'd use the 5-iron.
+100	00:00:00,000 --> 00:00:00,000	SAYID	I think I'll stick with the 7.
+102	00:00:00,000 --> 00:00:00,000	MAN 1	Tell you what. Fifty Euros says mine goes closer to the pin with a 5.
+104	00:00:00,000 --> 00:00:00,000	SAYID	Let's make it 100.
+106	00:00:00,000 --> 00:00:00,000	MAN 1	Eccelente. Amazing, huh? How a wager makes just about anything more fun.
+108	00:00:00,000 --> 00:00:00,000		[Sayid hits his ball, which lands on the green.]
+110	00:00:00,000 --> 00:00:00,000	MAN 1	Not bad, not bad. [sighs] So, what do you do for a living, my friend?
+112	00:00:00,000 --> 00:00:00,000	SAYID	I do nothing.
+114	00:00:00,000 --> 00:00:00,000	MAN 1	Nothing? That doesn't pay for a vacation here.
+116	00:00:00,000 --> 00:00:00,000	SAYID	I was the recipient of a large settlement
+118	00:00:00,000 --> 00:00:00,000	MAN 1	Corporate merger?
+120	00:00:00,000 --> 00:00:00,000	SAYID	Actually, a plane crash. Oceanic Airlines flight 8-1-5. I'm Sayid Jarrah, one of the Oceanic Six.
+122	00:00:00,000 --> 00:00:00,000		[The man looks scared and shocked.]
+124	00:00:00,000 --> 00:00:00,000	MAN 1	Ah, that's- that's amazing. I remember reading all about it.
+126	00:00:00,000 --> 00:00:00,000	SAYID	Take your shot, my friend.
+128	00:00:00,000 --> 00:00:00,000		[The man glances at Sayid again, then hits his ball on the green, but closer to the pin than Sayid's.]
+130	00:00:00,000 --> 00:00:00,000	SAYID	It appears you were right about the 5-iron.
+132	00:00:00,000 --> 00:00:00,000		[The man walks back towards his golf cart.]
+134	00:00:00,000 --> 00:00:00,000	MAN 1	Well, uh, enjoy your round, don't worry about the wager. All in good fun.
+136	00:00:00,000 --> 00:00:00,000	SAYID	No, you won. Allow me to pay you.
+138	00:00:00,000 --> 00:00:00,000	MAN	No, it's fine. Thank you, it's-
+140	00:00:00,000 --> 00:00:00,000		[Sayid reaches for his golf bag.]
+142	00:00:00,000 --> 00:00:00,000	SAYID	I insist, Mr. Avellino.
+144	00:00:00,000 --> 00:00:00,000		[Sayid pulls a gun out of his golf bag and shoots Mr. Avellino, who falls over, dead. Sayid picks up his clubs and walks away from the scene as the sprinklers on the golf course come on.]
+146	00:00:00,000 --> 00:00:00,000		[A busy city street is seen through a window. A long-haired Sayid enters the building as several other people leave. Others are seen standing and drinking, and there are a large number of tables with patrons sitting at them. Sayid is carrying a folded-up laminated map and passes a sign advertising a CafÃƒÂ© Menu. He walks through the cafÃƒÂ©, apparently looking for someone. He spots an empty seat.]
+148	00:00:00,000 --> 00:00:00,000	SAYID	Ist frei? [Is it free?]
+150	00:00:00,000 --> 00:00:00,000		[The woman nods. Sayid smiles and sits, opening his map.]
+152	00:00:00,000 --> 00:00:00,000	WOMAN	Wohin mÃƒÂ¶chten Sie gehen? [Where would you like to go?]
+154	00:00:00,000 --> 00:00:00,000	SAYID	"Is it free" was the full extent of my German.
+156	00:00:00,000 --> 00:00:00,000	WOMAN	[laughs] What are you looking for?
+158	00:00:00,000 --> 00:00:00,000	SAYID	I love Europe. Everyone speaks English. [laughs] I'm looking for Potsdamer Platz.
+160	00:00:00,000 --> 00:00:00,000	WOMAN	You don't need a map. It's one block down right across the street.
+162	00:00:00,000 --> 00:00:00,000	SAYID	Thank you.
+164	00:00:00,000 --> 00:00:00,000		[Sayid glances around the cafÃƒÂ©.]
+166	00:00:00,000 --> 00:00:00,000	WOMAN	I'm Elsa.
+168	00:00:00,000 --> 00:00:00,000	SAYID	Sayid.
+170	00:00:00,000 --> 00:00:00,000	WAITER	Kann ich Ihnen etwas bringen? [May I bring you something?]
+172	00:00:00,000 --> 00:00:00,000	SAYID	Could I have an espresso, please.
+174	00:00:00,000 --> 00:00:00,000	WAITER	Ja, sofort. [Yes, immediately.]
+176	00:00:00,000 --> 00:00:00,000	ELSA	What sort of business brings you to Berlin?
+178	00:00:00,000 --> 00:00:00,000	SAYID	I'm a headhunter. A corporate recruiter. What do you do?
+180	00:00:00,000 --> 00:00:00,000	ELSA	My employer is an economist. He works in emerging markets. Actually, I don't really understand what he does; which doesn't matter, since all I do is shop for him. [Holds up pager] If this goes off, I'm at his side instantly. Which is wonderful, since he's only in Berlin once or twice a year.
+182	00:00:00,000 --> 00:00:00,000	SAYID	Which is why you are enjoying a luxuriously long mid-day coffee.
+184	00:00:00,000 --> 00:00:00,000	ELSA	Yes.
+186	00:00:00,000 --> 00:00:00,000	SAYID	[as waiter sets down his coffee] Danke. [smiles]
+188	00:00:00,000 --> 00:00:00,000	ELSA	Do I... know you from somewhere?
+190	00:00:00,000 --> 00:00:00,000	SAYID	I'll tell you exactly where you know me from... if you let me take you to dinner.
+192	00:00:00,000 --> 00:00:00,000	ELSA	Mm... [makes a mark on the map] This is the restaurant you're taking me to tonight. 8:00. Well - if you can find it. [leaves]
+194	00:00:00,000 --> 00:00:00,000		[Sayid is walking down a busy street. A police siren is heard in the distance. Sayid takes a cell phone out of his overcoat pocket. He dials.]
+196	00:00:00,000 --> 00:00:00,000	MAN 2	[on phone] Hello?
+198	00:00:00,000 --> 00:00:00,000	SAYID	I made contact.
+200	00:00:00,000 --> 00:00:00,000	MAN 2	[on phone] Good.
+202	00:00:00,000 --> 00:00:00,000		[Sayid hangs up and throws the phone into a garbage can, washing his fingers with some snow as he crosses the street.]
+204	00:00:00,000 --> 00:00:00,000		[On-Island - Sayid removes some papers from a backpack. He unfolds them. Jack, Juliet and Kate are sitting on the ground nearby. Sayid approaches.]
+206	00:00:00,000 --> 00:00:00,000	SAYID	Take a look at this.
+208	00:00:00,000 --> 00:00:00,000		[Jack stands.]
+210	00:00:00,000 --> 00:00:00,000	SAYID	Naomi had it with her.
+212	00:00:00,000 --> 00:00:00,000		[The paper is the picture of Desmond and Penny.]
+214	00:00:00,000 --> 00:00:00,000	SAYID	She was looking for Desmond. Whatever their real agenda is, it's clear they're not sharing it. Maybe Desmond can shed some light on this.
+216	00:00:00,000 --> 00:00:00,000		[Jack kneels back down.]
+218	00:00:00,000 --> 00:00:00,000	JACK	How long would it take to get to the beach and back?
+220	00:00:00,000 --> 00:00:00,000		[Kate begins to stand up, then realizes Jack is speaking to Juliet.]
+222	00:00:00,000 --> 00:00:00,000	JULIET	A couple of hours.
+224	00:00:00,000 --> 00:00:00,000	JACK	You mind?
+226	00:00:00,000 --> 00:00:00,000	JULIET	[shakes her head] Anything I can do to help.
+228	00:00:00,000 --> 00:00:00,000		[Kate looks at Jack.]
+230	00:00:00,000 --> 00:00:00,000	JACK	[going after Sayid] Sayid, so how are we going to do this?
+232	00:00:00,000 --> 00:00:00,000		[Sayid pauses as Jack catches up, the two resume walking away from Kate and Juliet.]
+234	00:00:00,000 --> 00:00:00,000	SAYID	You're not the best candidate for this kind of mission.
+236	00:00:00,000 --> 00:00:00,000	JACK	[chuckling] And what kind of mission is that?
+238	00:00:00,000 --> 00:00:00,000		[Jack and Sayid stop walking.]
+240	00:00:00,000 --> 00:00:00,000	SAYID	I'm going to make Locke release Charlotte. And I'm going to do it without any bloodshed.
+242	00:00:00,000 --> 00:00:00,000	JACK	As opposed to the way I'd do it.
+244	00:00:00,000 --> 00:00:00,000	SAYID	The last time you encountered him, you put a gun to his head and pulled the trigger.
+246	00:00:00,000 --> 00:00:00,000		[Jack huffs, apparently offended.]
+248	00:00:00,000 --> 00:00:00,000	SAYID	[continues] That's not good diplomacy.
+250	00:00:00,000 --> 00:00:00,000		[Miles puts on a backpack and approaches Sayid as Jack walks away.]
+252	00:00:00,000 --> 00:00:00,000	MILES	Hey, Jarrah, you think you're going after Charlotte without me?
+254	00:00:00,000 --> 00:00:00,000		[Jack pauses and puts a gun in his waistband.]
+256	00:00:00,000 --> 00:00:00,000	SAYID	Of course not.
+258	00:00:00,000 --> 00:00:00,000	MILES	[surprised] Oh. Well, good.
+260	00:00:00,000 --> 00:00:00,000	SAYID	[smiling slightly] Is there anything else?
+262	00:00:00,000 --> 00:00:00,000	MILES	Yeah, give me my gun back.
+264	00:00:00,000 --> 00:00:00,000	SAYID	[walking away] We leave in 10 minutes.
+266	00:00:00,000 --> 00:00:00,000		[Locke is walking through the jungle. Sawyer and Ben follow. Sawyer shoves Ben.]
+268	00:00:00,000 --> 00:00:00,000	SAWYER	You ready to give us the name, Gizmo?
+270	00:00:00,000 --> 00:00:00,000		[Locke looks back. Danielle is leading Ben by the rope tied around his hands.]
+272	00:00:00,000 --> 00:00:00,000	LOCKE	He's not going to tell you who his spy is on their boat, James.
+274	00:00:00,000 --> 00:00:00,000	SAWYER	Yeah, why not?
+276	00:00:00,000 --> 00:00:00,000	LOCKE	Because that's the only thing keeping him alive.
+278	00:00:00,000 --> 00:00:00,000	SAWYER	Well here's an idea: Why don't we take a gun, point it to his big toe, send that little piggy to market.
+280	00:00:00,000 --> 00:00:00,000		[Ben looks slightly amused.]
+282	00:00:00,000 --> 00:00:00,000	SAWYER	[continues] And if he still doesn't want to tell us, we'll move on to the roast beef. Now why don't we do that?
+284	00:00:00,000 --> 00:00:00,000	LOCKE	Because then we'd have to carry him.
+286	00:00:00,000 --> 00:00:00,000		[Sawyer pauses. Locke stops and looks into an empty clearing, concerned. He bends down to a line of grey ash on the ground and picks some up with his fingers. He looks to the clearing once again, a confused look on his face. Aaron begins to cry.]
+288	00:00:00,000 --> 00:00:00,000	CLAIRE	Hey, John, how much further is it? I need to feed Aaron.
+290	00:00:00,000 --> 00:00:00,000	LOCKE	It should be here, the cabin.
+292	00:00:00,000 --> 00:00:00,000	HURLEY	[confused] Maybe we got turned around. It could be anywhere.
+294	00:00:00,000 --> 00:00:00,000	LOCKE	[forcefully] No, it was here.
+296	00:00:00,000 --> 00:00:00,000	SAWYER	Well, what's in this cabin that's so important anyway?
+298	00:00:00,000 --> 00:00:00,000	BEN	John's looking for somebody to tell him what to do next.
+300	00:00:00,000 --> 00:00:00,000		[Locke turns to Ben, who smiles. Locke seemingly makes up his mind.]
+302	00:00:00,000 --> 00:00:00,000	LOCKE	I guess I was mistaken. It doesn't matter, the plan's the same. We keep moving. The Barracks aren't far.
+304	00:00:00,000 --> 00:00:00,000	DANIELLE	If her team is with Jack's group, they know we're going to the Barracks.
+306	00:00:00,000 --> 00:00:00,000		[Charlotte remains silent.]
+308	00:00:00,000 --> 00:00:00,000	SAWYER	Yeah, and Red here was wearing a vest. Which means her posse's gonna come expecting themselves a gun fight.
+310	00:00:00,000 --> 00:00:00,000	HURLEY	If all they want is her, maybe we should just let her go? I mean, I thought we were just gonna go hide. Why do we need to take prisoners?
+312	00:00:00,000 --> 00:00:00,000	LOCKE	We're keeping her because she's gonna be valuable.
+314	00:00:00,000 --> 00:00:00,000	HURLEY	[concerned] How's she going to be valuable?
+316	00:00:00,000 --> 00:00:00,000	CHARLOTTE	He means as a hostage, love.
+318	00:00:00,000 --> 00:00:00,000	HURLEY	Nuh uh, no, that's not what I signed up for.
+320	00:00:00,000 --> 00:00:00,000	LOCKE	What did you sign up for, Hugo?
+322	00:00:00,000 --> 00:00:00,000	HURLEY	Look, I'm just saying that if we let her go, they'll look at is as a sign of good faith.
+324	00:00:00,000 --> 00:00:00,000	LOCKE	They'll look at it as an act of foolishness, which is what it would be.
+326	00:00:00,000 --> 00:00:00,000	HURLEY	I'm just trying to come up with some kind of compromise-
+328	00:00:00,000 --> 00:00:00,000	LOCKE	We're beyond compromise. And right now, Hugo, I'm making the decisions. Is that going to be a problem for you?
+330	00:00:00,000 --> 00:00:00,000		[The helicopter sits in a field. Sayid is putting on a backpack. Jack is staring off into the distance.]
+332	00:00:00,000 --> 00:00:00,000	KATE	Kinda sucks, huh?
+334	00:00:00,000 --> 00:00:00,000		[Jack turns toward Kate.]
+336	00:00:00,000 --> 00:00:00,000	JACK	What's that?
+338	00:00:00,000 --> 00:00:00,000	KATE	Being told not to come along. [Jack chuckles] Now you know what it feels like to be me.
+340	00:00:00,000 --> 00:00:00,000	JACK	Does that mean I should wait 20 minutes and go anyway?
+342	00:00:00,000 --> 00:00:00,000		[Both laugh.]
+344	00:00:00,000 --> 00:00:00,000	KATE	[smiling] TouchÃƒÂ©.
+346	00:00:00,000 --> 00:00:00,000		[They smile at each other.]
+348	00:00:00,000 --> 00:00:00,000	JACK	You should go with them, Kate.
+350	00:00:00,000 --> 00:00:00,000	KATE	Are you serious?
+352	00:00:00,000 --> 00:00:00,000	JACK	Yeah.
+354	00:00:00,000 --> 00:00:00,000		[Sayid straightens his pack.]
+356	00:00:00,000 --> 00:00:00,000	KATE	What, don't you trust Sayid?
+358	00:00:00,000 --> 00:00:00,000	JACK	I don't trust Locke.
+360	00:00:00,000 --> 00:00:00,000	KATE	So what's preventing him from doing to me what he did to Naomi?
+362	00:00:00,000 --> 00:00:00,000	JACK	Sawyer won't let him.
+364	00:00:00,000 --> 00:00:00,000		[Kate walks toward Miles and Sayid, holding up her gun.]
+366	00:00:00,000 --> 00:00:00,000	KATE	Got room for one more?
+368	00:00:00,000 --> 00:00:00,000	MILES	Oh, yeah, she gets a gun.
+370	00:00:00,000 --> 00:00:00,000	SAYID	[quietly] Gun's a last resort, Kate.
+372	00:00:00,000 --> 00:00:00,000	KATE	You give Locke that same speech?
+374	00:00:00,000 --> 00:00:00,000	MILES	Hey. Let's move out.
+376	00:00:00,000 --> 00:00:00,000		[Sayid, Kate and Miles leave into the jungle. Jack reaches for a bottle of water in the helicopter. Frank is leaning into the front of the helicopter. Jack walks away from the helicopter.]
+378	00:00:00,000 --> 00:00:00,000	FRANK	Hey, this guy Sayid - where's he from?
+380	00:00:00,000 --> 00:00:00,000		[Jack stops, turns toward Frank.]
+382	00:00:00,000 --> 00:00:00,000	JACK	Iraq.
+384	00:00:00,000 --> 00:00:00,000	FRANK	Iraq? He's just gonna go and work everything out? What was he, a diplomat?
+386	00:00:00,000 --> 00:00:00,000	JACK	[chuckles] No. No, he was a torturer.
+388	00:00:00,000 --> 00:00:00,000		[Frank looks surprised. Sayid leads Kate and Miles out of the clearing.]
+390	00:00:00,000 --> 00:00:00,000		[Sayid looks at Naomi's bracelet. Miles and Kate follow him through the jungle.]
+392	00:00:00,000 --> 00:00:00,000	SAYID	Naomi, were you close to her?
+394	00:00:00,000 --> 00:00:00,000	MILES	Nope. Met her on the boat.
+396	00:00:00,000 --> 00:00:00,000	SAYID	You don't seem particularly affected by her death.
+398	00:00:00,000 --> 00:00:00,000	MILES	Sure I'm affected. She was hot and I dug her accent.
+400	00:00:00,000 --> 00:00:00,000	KATE	Nice.
+402	00:00:00,000 --> 00:00:00,000	SAYID	And this woman, Charlotte. You don't really care about her, do you?
+404	00:00:00,000 --> 00:00:00,000	MILES	Define care.
+406	00:00:00,000 --> 00:00:00,000	SAYID	So much for camaraderie.
+408	00:00:00,000 --> 00:00:00,000	MILES	Yeah, gee, who's the one going after one of their crash buddies with guns? Actually, I do care about Locke. [Stops walking] Maybe you can tell me how he managed to split your happy little family in half.
+410	00:00:00,000 --> 00:00:00,000	SAYID	[glances at Kate] There was a fundamental debate as to whether your people were coming to rescue us... or kill us.
+412	00:00:00,000 --> 00:00:00,000	MILES	And which side did you land on?
+414	00:00:00,000 --> 00:00:00,000	SAYID	I let you know when I decide. [Starts walking again.]
+416	00:00:00,000 --> 00:00:00,000		[Flash-forward - A door with a peephole is shown. Elsa opens the door, and Sayid is on the other side, wearing a tuxedo.]
+418	00:00:00,000 --> 00:00:00,000	ELSA	You look fantastic.
+420	00:00:00,000 --> 00:00:00,000		[They embrace.]
+422	00:00:00,000 --> 00:00:00,000	ELSA	[continues] This is why I wanted to take you to the opera.
+424	00:00:00,000 --> 00:00:00,000		[They kiss.]
+426	00:00:00,000 --> 00:00:00,000	SAYID	If a man can't wear his tuxedo by the fifth date, why bother?
+428	00:00:00,000 --> 00:00:00,000		[Elsa leads Sayid inside, to a mirror. Sayid stands behind her. She reaches for a necklace and holds it out for him to fasten around her neck. He does so. She reaches for her purse and pager, and pauses as she puts the pager into her purse. Sayid kisses her neck.]
+430	00:00:00,000 --> 00:00:00,000	ELSA	You know what? I'm not bringing it. If tonight's the night he calls, so be it.
+432	00:00:00,000 --> 00:00:00,000		[Elsa puts the pager back on the bench. Sayid glances at it, then picks it up.]
+434	00:00:00,000 --> 00:00:00,000	SAYID	I'll carry it. If he does call, I don't want you fired over me. You should tell your employer that there is newer technology.
+436	00:00:00,000 --> 00:00:00,000	ELSA	Well, I've tried. He's very old-fashioned. You know how bosses can be. [pauses] Do you have a boss?
+438	00:00:00,000 --> 00:00:00,000	SAYID	Everyone has a boss, Elsa.
+440	00:00:00,000 --> 00:00:00,000		[Elsa nods.]
+442	00:00:00,000 --> 00:00:00,000	SAYID	Come on, we don't want to be late.
+444	00:00:00,000 --> 00:00:00,000	ELSA	Why are you still here? When we met, you said you would only be in Berlin for one week.
+446	00:00:00,000 --> 00:00:00,000	SAYID	The job I'm on is proving harder to accomplish than I thought.
+448	00:00:00,000 --> 00:00:00,000	ELSA	Oh. [nods and laughs] Right. I was hoping it was because of me.
+450	00:00:00,000 --> 00:00:00,000		[Sayid smiles, and Elsa kisses his cheek.]
+452	00:00:00,000 --> 00:00:00,000	SAYID	Let's go. Strauss awaits.
+454	00:00:00,000 --> 00:00:00,000		[On-Island - The inside of the helicopter is seen. Daniel, looking frantic, takes a briefcase and a large metal pole from the helicopter. He glances around, calculating, then sets the briefcase down and opens the pole into a tripod. He opens the briefcase, revealing complicated-looking scientific equipment, which he assembles on top of the tripod.]
+456	00:00:00,000 --> 00:00:00,000	JACK	What's his story?
+458	00:00:00,000 --> 00:00:00,000	FRANK	Daniel?
+460	00:00:00,000 --> 00:00:00,000	JACK	Yeah.
+462	00:00:00,000 --> 00:00:00,000	FRANK	Couldn't tell ya. Half the stuff he says goes way over my head; the other half goes way, way over.
+464	00:00:00,000 --> 00:00:00,000	DANIEL	Hey, uh, Frank? Could I, uh, [almost runs into a tree branch] sorry to interrupt. May I please use the phone, just for a second?
+466	00:00:00,000 --> 00:00:00,000	FRANK	For what?
+468	00:00:00,000 --> 00:00:00,000	DANIEL	I just wanna call Regina on the boat. I figured since we're waiting I could just, you know, try to-
+470	00:00:00,000 --> 00:00:00,000	FRANK	What is it, Daniel?
+472	00:00:00,000 --> 00:00:00,000	DANIEL	I'd just like to do an experiment. Just, uh...
+474	00:00:00,000 --> 00:00:00,000	FRANK	Sure. You just keep it to that science stuff, alright?
+476	00:00:00,000 --> 00:00:00,000		[Frank hands Daniel a sat phone.]
+478	00:00:00,000 --> 00:00:00,000	DANIEL	Yeah.
+480	00:00:00,000 --> 00:00:00,000	FRANK	If Minkowski gets on there, you hang up right away.
+482	00:00:00,000 --> 00:00:00,000	DANIEL	Yeah, thank you.
+484	00:00:00,000 --> 00:00:00,000		[Daniel walks toward his equipment, dialing the phone. Jack stands up.]
+486	00:00:00,000 --> 00:00:00,000	REGINA	[on phone] Hello?
+488	00:00:00,000 --> 00:00:00,000	DANIEL	Regina? Hey, hi, it's Dan. Hang on.
+490	00:00:00,000 --> 00:00:00,000		[Daniel pushes a button on the phone and sets it on the ground next to his briefcase.]
+492	00:00:00,000 --> 00:00:00,000	DANIEL	Can you hear me?
+494	00:00:00,000 --> 00:00:00,000	REGINA	Yeah.
+496	00:00:00,000 --> 00:00:00,000	DANIEL	Yeah, hang on.
+498	00:00:00,000 --> 00:00:00,000		[Daniel pushes a button on his equipment, which beeps.]
+500	00:00:00,000 --> 00:00:00,000	DANIEL	I'm all, yes, [pushes a button] I'm all set here, I have a fix. Are you locked in?
+502	00:00:00,000 --> 00:00:00,000		[Jack looks confused and concerned.]
+504	00:00:00,000 --> 00:00:00,000	REGINA	Getting your signal pretty clear.
+506	00:00:00,000 --> 00:00:00,000	DANIEL	Oh, okay, great, then. OK. Fire the payload.
+508	00:00:00,000 --> 00:00:00,000	REGINA	Payload away.
+510	00:00:00,000 --> 00:00:00,000	FRANK	Don't sweat it. He does this kind of stuff on the boat all the time.
+512	00:00:00,000 --> 00:00:00,000		[Jack looks around, worried. Daniel looks around at the sky.]
+514	00:00:00,000 --> 00:00:00,000	REGINA	Forty kilometers to beacon. Thirty-five kilometers to beacon. Thirty kilometers to beacon. Twenty-five kilometers to beacon. Twenty kilometers to beacon.
+516	00:00:00,000 --> 00:00:00,000		[Daniel searches the sky, confused.]
+518	00:00:00,000 --> 00:00:00,000	REGINA	[continues] Fifteen kilometers to beacon. Ten kilometers to beacon.
+520	00:00:00,000 --> 00:00:00,000	DANIEL	Regina?
+522	00:00:00,000 --> 00:00:00,000	REGINA	Five kilometers to beacon.
+524	00:00:00,000 --> 00:00:00,000	DANIEL	Huh.
+526	00:00:00,000 --> 00:00:00,000	REGINA	Zero.
+528	00:00:00,000 --> 00:00:00,000	DANIEL	I don't have it.
+530	00:00:00,000 --> 00:00:00,000		[Jack looks at Frank, who is unconcerned.]
+532	00:00:00,000 --> 00:00:00,000	REGINA	That's weird.
+534	00:00:00,000 --> 00:00:00,000	DANIEL	That is far more than weird.
+536	00:00:00,000 --> 00:00:00,000		[Laundry flaps on a clothesline. Sayid moves stealthily through the jungle. Miles crouches on the ground. Kate moves behind Sayid. The Barracks are shown, in disarray. Grass is overgrown and furniture is overturned. A swing on the swing set moves with the wind.]
+538	00:00:00,000 --> 00:00:00,000	MILES	What's with the swing set? These people have daycare?
+540	00:00:00,000 --> 00:00:00,000	KATE	[to Sayid] You think they're here yet?
+542	00:00:00,000 --> 00:00:00,000	SAYID	Let's find out.
+544	00:00:00,000 --> 00:00:00,000		[Sayid, Miles and Kate walk into a yard, guns at the ready. A loud banging is heard. More laundry hangs on a line and a wind chime jingles. Sayid peers around the corner of a house, gun drawn. Miles and Kate follow. They pause at a tree, and muffled shouting is heard. Kate points.]
+546	00:00:00,000 --> 00:00:00,000	KATE	It's coming from in there.
+548	00:00:00,000 --> 00:00:00,000		[They run toward a house. Kate cocks her gun and Sayid kicks the door open. The house is in disarray, dishes spilled and furniture overturned. More shouting is heard, and Sayid rushes toward the sound. He pauses at a set of doors that are tied shut. He places his gun in his belt and unties the ropes from the doorknobs. He yanks open the door. Hurley is on the floor with a gag in his mouth.]
+550	00:00:00,000 --> 00:00:00,000	KATE	Hurley, what happened?
+552	00:00:00,000 --> 00:00:00,000	HURLEY	[scared] They left me.
+554	00:00:00,000 --> 00:00:00,000		[Hurley sits in a chair. Sayid is standing over him and Kate and Miles are near.]
+556	00:00:00,000 --> 00:00:00,000	HURLEY	Locke's gone off the reservation, man. I mean, he took this one chick hostage, he said Walt was the one who told him to kill the other chick, and, and he-
+558	00:00:00,000 --> 00:00:00,000	SAYID	[interrupting] Walt?
+560	00:00:00,000 --> 00:00:00,000	HURLEY	Dude, don't ask. I was, like, just trying to argue with him, so he would just like, you know, chill, but-
+562	00:00:00,000 --> 00:00:00,000	MILES	How about you stop babbling and just tell us what happened to them? Where are they?
+564	00:00:00,000 --> 00:00:00,000	HURLEY	Who are you?
+566	00:00:00,000 --> 00:00:00,000	MILES	Where the hell did they go, Tubby?
+568	00:00:00,000 --> 00:00:00,000	HURLEY	Oh, awesome. The ship sent us another Sawyer.
+570	00:00:00,000 --> 00:00:00,000	SAYID	[patiently] Hurley, where did they go?
+572	00:00:00,000 --> 00:00:00,000	HURLEY	Look, I guess they were too busy tying me up to tell me. I don't know.
+574	00:00:00,000 --> 00:00:00,000	KATE	So they all left, all together?
+576	00:00:00,000 --> 00:00:00,000	HURLEY	Yeah, they were freaked. Locke said the people on the ship were here to rescue Charlotte and then kill us. [turns to Miles] So... are you?
+578	00:00:00,000 --> 00:00:00,000	MILES	Not yet.
+580	00:00:00,000 --> 00:00:00,000		[Hurley looks frightened.]
+582	00:00:00,000 --> 00:00:00,000	SAYID	Did they say anything that suggested where they were going next?
+584	00:00:00,000 --> 00:00:00,000		[Kate hands Hurley a mug.]
+586	00:00:00,000 --> 00:00:00,000	HURLEY	Um, Locke said they were gonna go by Ben's house before they took off.
+588	00:00:00,000 --> 00:00:00,000	SAYID	Why would they go there?
+590	00:00:00,000 --> 00:00:00,000	HURLEY	[shrugs] For all I know, they could have locked Ben up in a closet too.
+592	00:00:00,000 --> 00:00:00,000	MILES	Where's Ben's house?
+594	00:00:00,000 --> 00:00:00,000		[Jack tightens a strap.]
+596	00:00:00,000 --> 00:00:00,000	JACK	Mind if I ask you a question?
+598	00:00:00,000 --> 00:00:00,000	FRANK	Shoot.
+600	00:00:00,000 --> 00:00:00,000	JACK	The Red Sox really win the Series?
+602	00:00:00,000 --> 00:00:00,000	FRANK	[looks up, agitated] Hey, don't get me started on that, alright? My dad's from the Bronx. I bleed Yankee blue.
+604	00:00:00,000 --> 00:00:00,000	JACK	[chuckling] I can't believe it's been a hundred days since I've seen a game.
+606	00:00:00,000 --> 00:00:00,000		[Daniel turns suddenly, looking at the sky. A high-pitched whistling is heard. Daniel looks happy and relieved.]
+608	00:00:00,000 --> 00:00:00,000	DANIEL	Oh. It's the payload! [points] It's finally here.
+610	00:00:00,000 --> 00:00:00,000		[An object leaving a contrail is seen in the sky, shooting towards the ground. It lands in the clearing, yards from the helicopter, Daniel, Frank and Jack. Daniel runs towards it, while Frank looks unimpressed and Jack looks shocked. Daniel pulls the object out of the ground and unscrews it into two halves. Jack approaches him.]
+612	00:00:00,000 --> 00:00:00,000	JACK	What is that?
+614	00:00:00,000 --> 00:00:00,000	DANIEL	It's a rocket.
+616	00:00:00,000 --> 00:00:00,000		[Daniel removes a small object from the rocket, standing up. As it beeps, he looks at it, then at his watch. Jack looks confused, Frank amused.]
+618	00:00:00,000 --> 00:00:00,000	DANIEL	Oh, no, no.
+620	00:00:00,000 --> 00:00:00,000		[Daniel rushes over to the tripod. He takes a timepiece off of it, the time on which reads "02:45:03" and counting. The object from the rocket is another timepiece, which reads "03:16:22" and counting.]
+622	00:00:00,000 --> 00:00:00,000	DANIEL	[to himself] Thirty-one minutes.
+624	00:00:00,000 --> 00:00:00,000		[Jack and Frank approach.]
+626	00:00:00,000 --> 00:00:00,000	DANIEL	Oh, no. This is not good.
+628	00:00:00,000 --> 00:00:00,000	FRANK	Your friends are back.
+630	00:00:00,000 --> 00:00:00,000		[Juliet appears around a corner, followed by Desmond, who is carrying a rifle. Desmond is amazed by the sight of the helicopter, and Juliet laughs.]
+632	00:00:00,000 --> 00:00:00,000	DESMOND	Well... look at that. [He smiles]
+634	00:00:00,000 --> 00:00:00,000		[Juliet nods.]
+636	00:00:00,000 --> 00:00:00,000		[A door opens on a room. A picture of a young girl is seen on the wall. Sayid, Miles, Hurley and Kate enter.]
+638	00:00:00,000 --> 00:00:00,000	SAYID	Look for anything that shows where they might have gone. I'll start in here.
+640	00:00:00,000 --> 00:00:00,000		[Miles glances around. Kate draws her gun and kicks through a door into Ben's bedroom. Tribal masks are seen on the walls and his bed still has the lift bar on it. Kate turns her attention to the closet, which she opens to reveal nothing but empty hangers and a small box on a shelf inside. Sayid runs his fingers along some books on a bookcase, then glances down. He kneels, noticing striations in the floor. He swings the book case out, revealing a dark hallway. He draws his gun and enters. He turns on a light, revealing racks of clothing, suitcases, and a desk. He opens a drawer that contains rubber banded foreign currency. He picks up a stack of British currency and rifles through it. He opens another drawer, which is full of passports. The top passport is from New Zealand. He shuffles through a few and opens the New Zealand one after closer consideration. Inside is a picture of Ben. Kate looks under Ben's bed. As she does so, someone enters the room wearing jeans and tan work boots. She stands up, gun at the ready. Sawyer holds a finger to his lips in a gesture of silence and closes the door.]
+642	00:00:00,000 --> 00:00:00,000	KATE	Sayid!
+644	00:00:00,000 --> 00:00:00,000		[Sayid puts the passports back in the drawer and exits the secret room. Locke steadies a gun on him.]
+646	00:00:00,000 --> 00:00:00,000	LOCKE	Don't worry, Kate's fine.
+648	00:00:00,000 --> 00:00:00,000		[Sayid glances across the room, where Danielle has a gun on Miles. Hurley approaches Locke.]
+650	00:00:00,000 --> 00:00:00,000	LOCKE	Good job, Hugo.
+652	00:00:00,000 --> 00:00:00,000		[Sayid looks let down.]
+654	00:00:00,000 --> 00:00:00,000	HURLEY	Sorry, dude.
+656	00:00:00,000 --> 00:00:00,000		[Sayid walks across the barracks, Danielle holding a rifle to his back and Hurley lagging behind.]
+658	00:00:00,000 --> 00:00:00,000	DANIELLE	Sorry, Sayid, nothing personal.
+660	00:00:00,000 --> 00:00:00,000	SAYID	Where's Locke?
+662	00:00:00,000 --> 00:00:00,000	HURLEY	He's talking to that angry Chinese guy.
+664	00:00:00,000 --> 00:00:00,000	SAYID	[glances back at Hurley] I'm not going to hurt you, Hurley.
+666	00:00:00,000 --> 00:00:00,000	HURLEY	Yeah... I saw you snap that guy's neck with that break dancing thing you do with your legs. I think I'll hang back here.
+668	00:00:00,000 --> 00:00:00,000		[Danielle opens a door and Sayid enters. Danielle locks the door after him. Ben is tied to a chair inside.]
+670	00:00:00,000 --> 00:00:00,000	BEN	Well... I guess they're running out of jail space.
+672	00:00:00,000 --> 00:00:00,000		[Sayid looks annoyed and rattles the metal grates on the windows. Sayid paces the room, looking for a way out.]
+674	00:00:00,000 --> 00:00:00,000	BEN	I lost a dollar, you know.
+676	00:00:00,000 --> 00:00:00,000	SAYID	How did you manage that?
+678	00:00:00,000 --> 00:00:00,000	BEN	I bet John that you wouldn't be stupid enough to fall for your friend as bait.
+680	00:00:00,000 --> 00:00:00,000	SAYID	What do you know about friendship?
+682	00:00:00,000 --> 00:00:00,000	BEN	I know it's no use having friends you can't trust.
+684	00:00:00,000 --> 00:00:00,000		[Kate moves the curtain aside and looks out the window, then turns and walks toward Sawyer.]
+686	00:00:00,000 --> 00:00:00,000	KATE	So what, I'm your prisoner?
+688	00:00:00,000 --> 00:00:00,000	SAWYER	If that sorta thing turns you on.
+690	00:00:00,000 --> 00:00:00,000		[Kate sits on the bed. Getting no reaction from Kate, Sawyer looks remorseful. Kate looks at Sawyer, angry.]
+692	00:00:00,000 --> 00:00:00,000	KATE	What are you doing here with Locke?
+694	00:00:00,000 --> 00:00:00,000	SAWYER	[mystified] I'm not with him.
+696	00:00:00,000 --> 00:00:00,000	KATE	Yeah, you are, James.
+698	00:00:00,000 --> 00:00:00,000	SAWYER	Then what are you doing with Jack?
+700	00:00:00,000 --> 00:00:00,000	KATE	I went with Jack because I believe he can get us off this island.
+702	00:00:00,000 --> 00:00:00,000		[Sawyer shakes his head and approaches Kate.]
+704	00:00:00,000 --> 00:00:00,000	SAWYER	I guess that's the difference between us.
+706	00:00:00,000 --> 00:00:00,000		[Sawyer sits next to Kate.]
+708	00:00:00,000 --> 00:00:00,000	SAWYER	[continues] I ain't looking to leave.
+710	00:00:00,000 --> 00:00:00,000	KATE	Why not?
+712	00:00:00,000 --> 00:00:00,000	SAWYER	[considers] 'Cause, I ain't got nothin' back there for me.
+714	00:00:00,000 --> 00:00:00,000	KATE	[flabbergasted] And what's here that's so much better?
+716	00:00:00,000 --> 00:00:00,000	SAWYER	Why do you want to go back, Kate? Seem to recall you being shuttled off to jail before we landed here. So if you think there's anything waiting for you back home other than handcuffs, then you really don't know how the world works. Look around us, Freckles. We've got roofs over our heads. Electricity, showers, beds.
+718	00:00:00,000 --> 00:00:00,000	KATE	Yeah, how long, Sawyer? How long do you think we can play house?
+720	00:00:00,000 --> 00:00:00,000	SAWYER	[lowers voice] Why don't we find out? [lowers his head earnestly]
+722	00:00:00,000 --> 00:00:00,000		[Sayid sits on a pool table with his arms crossed. Danielle opens the door and Locke enters, carrying a tray with a pitcher and several glasses on it. Ben glances at him with animosity.]
+724	00:00:00,000 --> 00:00:00,000	LOCKE	Iced tea.
+726	00:00:00,000 --> 00:00:00,000		[Locke sets the tray down on the pool table, and Sayid looks at him suspiciously. Locke pours a glass.]
+728	00:00:00,000 --> 00:00:00,000	LOCKE	I thought you might be thirsty.
+730	00:00:00,000 --> 00:00:00,000	BEN	[raises hand] I'm thirsty.
+732	00:00:00,000 --> 00:00:00,000		[Locke glances at Ben, then ignores him.]
+734	00:00:00,000 --> 00:00:00,000	LOCKE	I'm sorry about, um, all the theatrics, but uh, I didn't know how many of you there'd be, or whether you'd be armed. I covered my bases. [sits]
+736	00:00:00,000 --> 00:00:00,000	SAYID	What have you done with Miles and Kate?
+738	00:00:00,000 --> 00:00:00,000	LOCKE	Kate's with Sawyer. And Miles is somewhere else. [drinks] He's fine. All I did was ask him some questions.
+740	00:00:00,000 --> 00:00:00,000	SAYID	Did he answer any?
+742	00:00:00,000 --> 00:00:00,000	LOCKE	No.
+744	00:00:00,000 --> 00:00:00,000	SAYID	Did you have more luck with the woman you captured?
+746	00:00:00,000 --> 00:00:00,000		[Locke glances at Ben.]
+748	00:00:00,000 --> 00:00:00,000	LOCKE	Not particularly.
+750	00:00:00,000 --> 00:00:00,000	SAYID	Then why don't you turn her over to me?
+752	00:00:00,000 --> 00:00:00,000	LOCKE	Why would I do that?
+754	00:00:00,000 --> 00:00:00,000	SAYID	I agree that these people are liars and they're certainly not here to rescue us. But if I return safely with Charlotte, they'll take me to their ship. It's our best chance of finding out who they are and what they really want.
+756	00:00:00,000 --> 00:00:00,000		[Locke sets his glass on the floor and gets up, walking toward Sayid.]
+758	00:00:00,000 --> 00:00:00,000	LOCKE	Well, then, I can save you a lot of trouble, Sayid, because Ben says he's got a spy on the boat.
+760	00:00:00,000 --> 00:00:00,000		[Sayid stands up and approaches Ben.]
+762	00:00:00,000 --> 00:00:00,000	SAYID	Who?
+764	00:00:00,000 --> 00:00:00,000	BEN	It's a secret.
+766	00:00:00,000 --> 00:00:00,000	SAYID	Forgive me, but the day I start trusting him is the day I would have sold my soul. Give me Charlotte! Allow me to do things my way. Or war is coming, which we will both be powerless to stop.
+768	00:00:00,000 --> 00:00:00,000	LOCKE	Why would I give you Charlotte for nothing?
+770	00:00:00,000 --> 00:00:00,000	SAYID	Oh, I think you misunderstood me. I never expected you to give her to me for nothing. [smiles]
+772	00:00:00,000 --> 00:00:00,000		[Flash-forward - Elsa and Sayid lay in bed, curled together.]
+774	00:00:00,000 --> 00:00:00,000	ELSA	Should we get dressed?
+776	00:00:00,000 --> 00:00:00,000	SAYID	[kisses her stomach] No.
+778	00:00:00,000 --> 00:00:00,000	ELSA	[chuckles] Well we're going to have to get out of this bed at a certain point.
+780	00:00:00,000 --> 00:00:00,000	SAYID	Why?
+782	00:00:00,000 --> 00:00:00,000	ELSA	Well, for one thing, because I know that eventually you're going to have to go to that job of yours - you know, the one that you never talk about.
+784	00:00:00,000 --> 00:00:00,000	SAYID	There's nothing to talk about, it's just a job.
+786	00:00:00,000 --> 00:00:00,000	ELSA	I know nothing about you. I understand you don't want to talk about the crash, what happened to you. But what about life now, what about you? That's what you do when you're in love, right? [chuckles] You...
+788	00:00:00,000 --> 00:00:00,000	SAYID	In love?
+790	00:00:00,000 --> 00:00:00,000	ELSA	Yeah.
+792	00:00:00,000 --> 00:00:00,000		[They kiss passionately.]
+794	00:00:00,000 --> 00:00:00,000	SAYID	Okay. No more secrets. What do you want to know?
+796	00:00:00,000 --> 00:00:00,000		[Elsa's pager beeps.]
+798	00:00:00,000 --> 00:00:00,000	ELSA	He's here. My boss. I, um, I have to go.
+800	00:00:00,000 --> 00:00:00,000		[Elsa gets out of bed and checks her pager.]
+802	00:00:00,000 --> 00:00:00,000	SAYID	Now? Where?
+804	00:00:00,000 --> 00:00:00,000	ELSA	Hotel Adlon. Where's my dress?
+806	00:00:00,000 --> 00:00:00,000		[Elsa dresses. Sayid looks at her pager across the room. Sayid sighs, then blinks.]
+808	00:00:00,000 --> 00:00:00,000	SAYID	Elsa? You have to leave Berlin.
+810	00:00:00,000 --> 00:00:00,000	ELSA	What?
+812	00:00:00,000 --> 00:00:00,000		[Sayid gets out of bed, putting on pants.]
+814	00:00:00,000 --> 00:00:00,000	SAYID	You can't be here anymore.
+816	00:00:00,000 --> 00:00:00,000	ELSA	What do you mean? Why would I-
+818	00:00:00,000 --> 00:00:00,000	SAYID	People will be asking questions soon. About what happened to your employer. And you can't be around to answer them.
+820	00:00:00,000 --> 00:00:00,000		[Elsa pauses. Sayid continues to dress.]
+822	00:00:00,000 --> 00:00:00,000	ELSA	My employer? This... this is about my boss? Who are you?
+824	00:00:00,000 --> 00:00:00,000	SAYID	This has nothing to do with how-
+826	00:00:00,000 --> 00:00:00,000	ELSA	The cafÃƒÂ©? You meant to meet me there? You used me to get to my boss. What did you say, "people will ask what happened to him"?
+828	00:00:00,000 --> 00:00:00,000	SAYID	It's best you don't know.
+830	00:00:00,000 --> 00:00:00,000	ELSA	You gonna kill him? You're gonna kill him?! [voice breaks] Do you even know him?!
+832	00:00:00,000 --> 00:00:00,000		[Elsa returns to the bathroom, bending down for something.]
+834	00:00:00,000 --> 00:00:00,000	SAYID	His name is on a list.
+836	00:00:00,000 --> 00:00:00,000	ELSA	A list?! What list?! You have a list?!
+838	00:00:00,000 --> 00:00:00,000		[Elsa stands in front of the mirror.]
+840	00:00:00,000 --> 00:00:00,000	SAYID	It's my employer's.
+842	00:00:00,000 --> 00:00:00,000	ELSA	And who is that?!
+844	00:00:00,000 --> 00:00:00,000	SAYID	[angry] It doesn't matter who he is!
+846	00:00:00,000 --> 00:00:00,000	ELSA	You just kill people 'cause they're on a list? Innocent people?
+848	00:00:00,000 --> 00:00:00,000	SAYID	The man you are working for is not an economist.
+850	00:00:00,000 --> 00:00:00,000		[Ela glances in the mirror and tightens her lips, nodding. She turns towards Sayid and pulls a gun, shooting him once in the shoulder. He falls onto the bed, surprised. Elsa gets her cell phone off of the bedside table. She returns to the closet, dialing.]
+852	00:00:00,000 --> 00:00:00,000	ELSA	[on phone, in German] You were supposed to page me at ten-thirty, not ten. [indistinct] No, I didn't kill him. He's not going to give up the name now.
+854	00:00:00,000 --> 00:00:00,000		[Elsa disappears around the corner. Sayid picks something up off the table.]
+856	00:00:00,000 --> 00:00:00,000	ELSA	[continues] Why should I keep him alive? No. He had no idea. All right, all right. I'll bring him to you. Leave the hotel. I'll meet you at the safe house.
+858	00:00:00,000 --> 00:00:00,000		[Elsa hangs up the phone and Sayid hurls the object at the mirror in which he can see Elsa, shattering it. She runs back into the room and Sayid pulls a gun out of his coat.]
+860	00:00:00,000 --> 00:00:00,000	ELSA	What do you think you're do-
+862	00:00:00,000 --> 00:00:00,000		[Sayid shoots Elsa twice in the abdomen. She falls to the floor, breathing heavily. Sayid pushes himself across the floor to get to her. Elsa dies. Sayid caresses her hair and closes her eyes, beginning to cry. His hand trails down her arm and stops on a silver bracelet resembling the one he removed from Naomi's corpse.]
+864	00:00:00,000 --> 00:00:00,000		[On-Island - Daniel fusses with his equipment on the tripod as Frank crosses the field. Desmond follows him intently, holding the picture of himself and Penny.]
+866	00:00:00,000 --> 00:00:00,000	DESMOND	Hey. I'm gonna ask you one last time. Why was Naomi carrying this picture of me?
+868	00:00:00,000 --> 00:00:00,000	FRANK	Look, man, you gotta understand something. She was senior management. It's not like we hung around the cafeteria together. She stayed on her own.
+870	00:00:00,000 --> 00:00:00,000		[Frank and Desmond stop walking.]
+872	00:00:00,000 --> 00:00:00,000	DESMOND	Look, Naomi told me you people were hired by her! [points to Penny] So you look me right in the eye and tell me you've never seen or heard of Penelope Widmore.
+874	00:00:00,000 --> 00:00:00,000		[Frank glances at Daniel, who looks away. Desmond glances at Daniel and back at Frank. Frank shakes his head.]
+876	00:00:00,000 --> 00:00:00,000	DESMOND	Fine. You don't want to tell me the truth; I'll find someone who will. See when that takes off, [points to helicopter] I'm on it.
+878	00:00:00,000 --> 00:00:00,000		[Sayid appears over a ridge. Jack takes a drink of water and Juliet notices Sayid.]
+880	00:00:00,000 --> 00:00:00,000	JULIET	He's back.
+882	00:00:00,000 --> 00:00:00,000		[Jack and Juliet walk towards Sayid. Charlotte appears over the ridge. Daniel notices Charlotte and stands up. Frank steps toward them, concerned.]
+884	00:00:00,000 --> 00:00:00,000	JACK	Where's Kate?
+886	00:00:00,000 --> 00:00:00,000	SAYID	She decided to stay.
+888	00:00:00,000 --> 00:00:00,000		[Jack looks confused.]
+890	00:00:00,000 --> 00:00:00,000	FRANK	What happened to Miles?
+892	00:00:00,000 --> 00:00:00,000	SAYID	I traded him.
+894	00:00:00,000 --> 00:00:00,000	FRANK	Traded him?
+896	00:00:00,000 --> 00:00:00,000	SAYID	I promised you Charlotte, here she is.
+898	00:00:00,000 --> 00:00:00,000	FRANK	You cheated.
+900	00:00:00,000 --> 00:00:00,000	SAYID	Did I?
+902	00:00:00,000 --> 00:00:00,000	FRANK	Yes, you did. Lucky for you that guy's nothing but a pain in my ass.
+904	00:00:00,000 --> 00:00:00,000		[Daniel approaches Charlotte and puts an arm around her shoulder.]
+906	00:00:00,000 --> 00:00:00,000	CHARLOTTE	Hey.
+908	00:00:00,000 --> 00:00:00,000	DANIEL	You all right?
+910	00:00:00,000 --> 00:00:00,000	CHARLOTTE	Yeah.
+912	00:00:00,000 --> 00:00:00,000	FRANK	All right. That gives us room for one more. Charlotte?
+914	00:00:00,000 --> 00:00:00,000	CHARLOTTE	[chuckles] Go back? With all the fun I'm having here? No, I've got work to do.
+916	00:00:00,000 --> 00:00:00,000	FRANK	Seat's yours if you want it, Daniel.
+918	00:00:00,000 --> 00:00:00,000	DANIEL	I... no, thank you. I think I should probably just stay with Charlotte.
+920	00:00:00,000 --> 00:00:00,000	FRANK	All right.
+922	00:00:00,000 --> 00:00:00,000	DANIEL	[carrying suitcase] Hey, Frank. Frank? [quietly] Just one thing. Just be sure that you follow the same exact bearing that we came in on. No matter what. By that, I mean no matter what. Just - just stay on it.
+924	00:00:00,000 --> 00:00:00,000	FRANK	Roger that.
+926	00:00:00,000 --> 00:00:00,000		[Jack picks up a rifle and hands it to Sayid.]
+928	00:00:00,000 --> 00:00:00,000	JACK	Be careful.
+930	00:00:00,000 --> 00:00:00,000	SAYID	I don't have to talk you out of coming.
+932	00:00:00,000 --> 00:00:00,000	JACK	As much as I like helicopter rides, I think you got this one under control.
+934	00:00:00,000 --> 00:00:00,000	SAYID	Wish me luck.
+936	00:00:00,000 --> 00:00:00,000	JACK	Good luck. Send me a postcard.
+938	00:00:00,000 --> 00:00:00,000	SAYID	You said we have room for one more?
+940	00:00:00,000 --> 00:00:00,000	FRANK	Yeah, why?
+942	00:00:00,000 --> 00:00:00,000		[Sayid glances towards Naomi.]
+944	00:00:00,000 --> 00:00:00,000	SAYID	We should bring Naomi home.
+946	00:00:00,000 --> 00:00:00,000		[Frank nods. Sayid lays Naomi in the back of the helicopter. Desmond and Frank are in the front of the helicopter, and Frank readies the controls. Sayid covers Naomi's face back up and sits down in the back. The rotor begins to turn and Frank closes the door. The helicopter lifts off. Sayid watches the island recede out the door wistfully. The helicopter flies out over the ocean.]
+948	00:00:00,000 --> 00:00:00,000		[Flash-forward - A row of dog kennels is seen, with dogs yipping and barking. Sayid enters through a set of double doors, cradling his arm. Sayid stands in a doorway, sweaty, out of breath, and in obvious pain.]
+950	00:00:00,000 --> 00:00:00,000	MAN 2	Take your shirt off.
+952	00:00:00,000 --> 00:00:00,000		[Sayid removes his jacket. A procedure room is seen, with a light trained on a table covered in paper. Sayid takes his shirt off and sits. A man walks past him and trains the light on Sayid's wounded shoulder.]
+954	00:00:00,000 --> 00:00:00,000	MAN 2	Is she dead?
+956	00:00:00,000 --> 00:00:00,000	SAYID	[crying] Yes.
+958	00:00:00,000 --> 00:00:00,000	MAN 2	Why didn't she kill you?
+960	00:00:00,000 --> 00:00:00,000		[The man sticks a needle in Sayid's wound. Sayid grimaces.]
+962	00:00:00,000 --> 00:00:00,000	SAYID	She was trying to get information from me.
+964	00:00:00,000 --> 00:00:00,000	MAN 2	What sort of information?
+966	00:00:00,000 --> 00:00:00,000	SAYID	She wanted to know who I worked for. She wanted to know about you.
+968	00:00:00,000 --> 00:00:00,000	MAN2	Of course she did.
+970	00:00:00,000 --> 00:00:00,000		[The man is revealed to be Ben.]
+972	00:00:00,000 --> 00:00:00,000	BEN	Why are you crying? Because it hurts? Or because you were stupid enough to care for her? These people don't deserve our sympathies. Need I remind you what they did the last time you thought with your heart instead of your gun?
+974	00:00:00,000 --> 00:00:00,000	SAYID	You used that to recruit me into killing for you.
+976	00:00:00,000 --> 00:00:00,000	BEN	Do you want to protect your friends or not, Sayid? I have another name for you.
+978	00:00:00,000 --> 00:00:00,000	SAYID	But they know I'm after them now.
+980	00:00:00,000 --> 00:00:00,000	BEN	Good.

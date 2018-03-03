@@ -1,0 +1,405 @@
+The Substitute
+2	00:00:00,000 --> 00:00:00,000	Written by	Elizabeth Sarnoff & Melinda Hsu Taylor
+4	00:00:00,000 --> 00:00:00,000	Directed by	Tucker Gates
+6	00:00:00,000 --> 00:00:00,000		[Flash sideways - A large van navigates a suburban street bustling with activity. The van pulls into a driveway and the side door slides open.]
+8	00:00:00,000 --> 00:00:00,000		[Mechanical whirring.]
+10	00:00:00,000 --> 00:00:00,000		[A platform folds out and John Locke wheels himself on to it. He presses a lever that lowers the platform. The platform sputters as it grinds to a halt.]
+12	00:00:00,000 --> 00:00:00,000	JOHN	Oh, come on...
+14	00:00:00,000 --> 00:00:00,000		[John sighs, then musters his courage and attempts to roll off the platform and onto the lawn. He grunts as he falls face down, his wheelchair collapsing beside him. Then, the sprinklers come on.]
+16	00:00:00,000 --> 00:00:00,000	HELEN	John?
+18	00:00:00,000 --> 00:00:00,000		[Helen comes out the front door of the house and shuts off the sprinklers.]
+20	00:00:00,000 --> 00:00:00,000	HELEN	Are you okay?
+22	00:00:00,000 --> 00:00:00,000		[She runs to his side and kneels down next to him.]
+24	00:00:00,000 --> 00:00:00,000	JOHN	Yeah... I'm fine.
+26	00:00:00,000 --> 00:00:00,000	HELEN	Come on, let's... let's get you inside.
+28	00:00:00,000 --> 00:00:00,000	JOHN	Okay.
+30	00:00:00,000 --> 00:00:00,000		[Some time later, John sits in the bath tub.]
+32	00:00:00,000 --> 00:00:00,000	HELEN	Well how long will that take?
+34	00:00:00,000 --> 00:00:00,000		[Helen, off camera, is on the phone.]
+36	00:00:00,000 --> 00:00:00,000	HELEN	The wedding is in October. Look, I'm just gonna have to call you back. Yeah.
+38	00:00:00,000 --> 00:00:00,000		[Helen enters the washroom.]
+40	00:00:00,000 --> 00:00:00,000	HELEN	I am so sick of caterers... and bands and... picking fabrics for chair backs. What do you say we just get my parents and your dad and do it shotgun style in Vegas?
+42	00:00:00,000 --> 00:00:00,000	JOHN	No, you deserve better than that, Helen. We can do this. I know we can.
+44	00:00:00,000 --> 00:00:00,000		[John contemplates the fabric swatches he is holding.]
+46	00:00:00,000 --> 00:00:00,000	JOHN	I like... this one.
+48	00:00:00,000 --> 00:00:00,000		[He indicates a green swatch.]
+50	00:00:00,000 --> 00:00:00,000	HELEN	That one?
+52	00:00:00,000 --> 00:00:00,000	JOHN	I meant this one.
+54	00:00:00,000 --> 00:00:00,000		[He indicates a blue swatch.]
+56	00:00:00,000 --> 00:00:00,000	HELEN	You are a very sweet man.
+58	00:00:00,000 --> 00:00:00,000		[They kiss.]
+60	00:00:00,000 --> 00:00:00,000	JOHN	I know.
+62	00:00:00,000 --> 00:00:00,000	HELEN	So? How was the conference?
+64	00:00:00,000 --> 00:00:00,000	JOHN	Boring.
+66	00:00:00,000 --> 00:00:00,000		[Helen takes a card out of John's pocket.]
+68	00:00:00,000 --> 00:00:00,000	HELEN	Who's uh... who's Dr. Jack Shephard?
+70	00:00:00,000 --> 00:00:00,000	JOHN	Oh. I met him at lost luggage when I went to fill out the forms. He... he lost something too.
+72	00:00:00,000 --> 00:00:00,000	HELEN	He's a spinal surgeon?
+74	00:00:00,000 --> 00:00:00,000	JOHN	Yeah. Nice guy. He offered me a free consult.
+76	00:00:00,000 --> 00:00:00,000	HELEN	You should call him.
+78	00:00:00,000 --> 00:00:00,000	JOHN	Aw, he was just bein' polite, Helen.
+80	00:00:00,000 --> 00:00:00,000	HELEN	So what? I mean... what are the odds of you just running into a spinal surgeon? I mean, who knows? Maybe it's destiny.
+82	00:00:00,000 --> 00:00:00,000	JOHN	Maybe it is.
+84	00:00:00,000 --> 00:00:00,000		[On-Island - The sounds of the Monster are heard as the camera soars over treetops and slithers along creek beds. It pauses as it examines a house in the DHARMA Barracks from which breaking glass and rock music can be heard. Moving through the jungle once more, the form of John Locke emerges and picks up a discarded machete. He approaches what looks like a large bag suspended in midair by a rope. He severs the rope with the machete and lowers the bag to the ground. Richard Alpert crawls out.]
+86	00:00:00,000 --> 00:00:00,000	LOCKE	Alright, Richard. Time to talk.
+88	00:00:00,000 --> 00:00:00,000		[Electronic ding.]
+90	00:00:00,000 --> 00:00:00,000		[Flash sideways - John Locke exits the elevator and wheels across a crowded office and into his cubicle.]
+92	00:00:00,000 --> 00:00:00,000	RANDY	Welcome back, Colonel. Wow. You got a nice tan in Australia. Did you miss us?
+94	00:00:00,000 --> 00:00:00,000	JOHN	Sure I did, Randy.
+96	00:00:00,000 --> 00:00:00,000	RANDY	So? How was the conference, John?
+98	00:00:00,000 --> 00:00:00,000	JOHN	It was okay. I didn't really learn anything.
+100	00:00:00,000 --> 00:00:00,000	RANDY	No?
+102	00:00:00,000 --> 00:00:00,000	JOHN	But um... I made some good contacts, though.
+104	00:00:00,000 --> 00:00:00,000	RANDY	Really? That's interesting. See uh... Ken Fisher called and said you had to cancel your lunch with him.
+106	00:00:00,000 --> 00:00:00,000	JOHN	Right, right... I was a little under the weather that day. Probably jet lag.
+108	00:00:00,000 --> 00:00:00,000	RANDY	Really? 'Cause then the seminar people called and said you hadn't picked up your credentials. I did some checking... and it seems you didn't attend a single event. Since we sent you to Sydney on the company's dime... where the hell were you?
+110	00:00:00,000 --> 00:00:00,000	JOHN	Look, Randy... I'm really sorry. Why don't we just call it my vacation week?
+112	00:00:00,000 --> 00:00:00,000	RANDY	I thought you wanted that vacation week in October. You know, for your wedding.
+114	00:00:00,000 --> 00:00:00,000	JOHN	Please, Randy... look, I know I shouldn't have lied. But where I was... it's personal. And I... and I really don't want to talk about it.
+116	00:00:00,000 --> 00:00:00,000	RANDY	Okay, John. Hey... you're fired.
+118	00:00:00,000 --> 00:00:00,000		[Randy does a mocking salute and walks away.]
+120	00:00:00,000 --> 00:00:00,000		[On-Island - Locke kneels next to Richard and offers him a canteen.]
+122	00:00:00,000 --> 00:00:00,000	LOCKE	Thirsty?
+124	00:00:00,000 --> 00:00:00,000		[Richard drinks deeply.]
+126	00:00:00,000 --> 00:00:00,000	LOCKE	Richard, I'm sorry I hit you in the throat and dragged you off the beach but I had to do something.
+128	00:00:00,000 --> 00:00:00,000	RICHARD	What do you want?
+130	00:00:00,000 --> 00:00:00,000	LOCKE	What I've always wanted. For you to come with me.
+132	00:00:00,000 --> 00:00:00,000	RICHARD	Why do you look like John Locke?
+134	00:00:00,000 --> 00:00:00,000	LOCKE	I knew he'd get me access to Jacob. Because John's a candidate. Or at least he was a candidate...
+136	00:00:00,000 --> 00:00:00,000		[They both stand.]
+138	00:00:00,000 --> 00:00:00,000	RICHARD	What do you mean? What do you mean a candidate?
+140	00:00:00,000 --> 00:00:00,000	LOCKE	Didn't Jacob tell you any of this?
+142	00:00:00,000 --> 00:00:00,000	RICHARD	Any of what?
+144	00:00:00,000 --> 00:00:00,000	LOCKE	Oh, Richard... I'm sorry. You mean, you've been doing everything he told you all this time and he never said why?
+146	00:00:00,000 --> 00:00:00,000		[Richard does not reply.]
+148	00:00:00,000 --> 00:00:00,000	LOCKE	I would never have done that to you. I would never have kept you in the dark.
+150	00:00:00,000 --> 00:00:00,000	RICHARD	And what would you have done?
+152	00:00:00,000 --> 00:00:00,000	LOCKE	I would have treated you with respect. Come with me... and I promise I will tell you everything.
+154	00:00:00,000 --> 00:00:00,000	RICHARD	No.
+156	00:00:00,000 --> 00:00:00,000	LOCKE	Are you sure about that, Richard? Because people seldom get a second chance...
+158	00:00:00,000 --> 00:00:00,000	RICHARD	I'm not going anywhere with you.
+160	00:00:00,000 --> 00:00:00,000	LOCKE	Alright, I'll--
+162	00:00:00,000 --> 00:00:00,000		[Locke sees a blond boy with bloodied arms standing in the jungle. Richard cannot see him.]
+164	00:00:00,000 --> 00:00:00,000	RICHARD	What?
+166	00:00:00,000 --> 00:00:00,000	LOCKE	I'll be seeing you, Richard. Sooner than you think.
+168	00:00:00,000 --> 00:00:00,000		[Locke walks into the jungle.]
+170	00:00:00,000 --> 00:00:00,000		[In the foot of the statue, Ben approaches Ilana, who is weeping near the bodies of her friends.]
+172	00:00:00,000 --> 00:00:00,000	BEN	Am I interrupting?
+174	00:00:00,000 --> 00:00:00,000		[Ilana wipes at her eyes.]
+176	00:00:00,000 --> 00:00:00,000	ILANA	Tell me what happened to them.
+178	00:00:00,000 --> 00:00:00,000	BEN	Alright. But there's a fairly reasonable chance that you won't believe me...
+180	00:00:00,000 --> 00:00:00,000		[Ilana stands and walks over to him.]
+182	00:00:00,000 --> 00:00:00,000	ILANA	Try me.
+184	00:00:00,000 --> 00:00:00,000	BEN	John Locke killed them.
+186	00:00:00,000 --> 00:00:00,000	ILANA	All by himself?
+188	00:00:00,000 --> 00:00:00,000	BEN	Yes. He turned into a pillar of black smoke and killed them right before my eyes.
+190	00:00:00,000 --> 00:00:00,000	ILANA	Did he kill Jacob as well?
+192	00:00:00,000 --> 00:00:00,000	BEN	Yes...
+194	00:00:00,000 --> 00:00:00,000	ILANA	Then where's his body?
+196	00:00:00,000 --> 00:00:00,000	BEN	Locke kicked him into the fire and he burned away.
+198	00:00:00,000 --> 00:00:00,000		[Ilana approaches the fire pit and begins scooping the ashes into a pouch.]
+200	00:00:00,000 --> 00:00:00,000	BEN	Locke... do you know why he carried Richard into the jungle?
+202	00:00:00,000 --> 00:00:00,000	ILANA	He's recruiting.
+204	00:00:00,000 --> 00:00:00,000		[Locke marches through the DHARMA Barracks. He enters the house he had passed earlier, from which loud music continues to blare. The house is in shambles, he walks by the record player and finds Sawyer drinking on the floor in the bedroom.]
+206	00:00:00,000 --> 00:00:00,000	LOCKE	Hello, James.
+208	00:00:00,000 --> 00:00:00,000	SAWYER	I thought you were dead.
+210	00:00:00,000 --> 00:00:00,000	LOCKE	I am.
+212	00:00:00,000 --> 00:00:00,000		[Sawyer pours two large glasses of whiskey. he hands one to Locke as he enters the living room and sits on the couch.]
+214	00:00:00,000 --> 00:00:00,000	SAWYER	Here's to being dead.
+216	00:00:00,000 --> 00:00:00,000		[He drinks his whiskey.]
+218	00:00:00,000 --> 00:00:00,000	LOCKE	You're taking this extremely well.
+220	00:00:00,000 --> 00:00:00,000	SAWYER	Taking what extremely well?
+222	00:00:00,000 --> 00:00:00,000	LOCKE	That I'm here.
+224	00:00:00,000 --> 00:00:00,000	SAWYER	I don't give a damn if you're dead. Or time travellin' or... the ghost of Christmas past. All I care about is this whiskey. So bottoms up! Get the hell out of my house.
+226	00:00:00,000 --> 00:00:00,000		[Locke puts his whiskey down.]
+228	00:00:00,000 --> 00:00:00,000	LOCKE	This isn't your house, James.
+230	00:00:00,000 --> 00:00:00,000	SAWYER	The hell it ain't...
+232	00:00:00,000 --> 00:00:00,000	LOCKE	No. You just lived here for awhile. This was never your house.
+234	00:00:00,000 --> 00:00:00,000	SAWYER	Who are you? 'Cause you sure as hell ain't John Locke.
+236	00:00:00,000 --> 00:00:00,000	LOCKE	What makes you say that?
+238	00:00:00,000 --> 00:00:00,000	SAWYER	'Cause Locke was scared. Even when he was pretendin' he wasn't. But you? You ain't scared.
+240	00:00:00,000 --> 00:00:00,000	LOCKE	What if I told you I was the person who could answer the most important question in the world?
+242	00:00:00,000 --> 00:00:00,000		[Sawyer laughs.]
+244	00:00:00,000 --> 00:00:00,000	SAWYER	And what question is that?
+246	00:00:00,000 --> 00:00:00,000	LOCKE	Why are you on this island?
+248	00:00:00,000 --> 00:00:00,000	SAWYER	I'm on this island because my plane crashed. Because my raft blew up. Because the helicopter I was on was ridin' one too heavy.
+250	00:00:00,000 --> 00:00:00,000	LOCKE	That's not why you're here. And if you come with me, I can prove it.
+252	00:00:00,000 --> 00:00:00,000	SAWYER	Well, I guess I better put some pants on.
+254	00:00:00,000 --> 00:00:00,000		[Flash sideways - John wheels towards his van in the parking lot with a box of his belongings in his lap. He finds a yellow Hummer parked next to him, preventing him from boarding his van via the platform.]
+256	00:00:00,000 --> 00:00:00,000	JOHN	Okay! Okay!
+258	00:00:00,000 --> 00:00:00,000		[He uses a remote to activate the platform, hoping to strike the Hummer with it, but it fails again.]
+260	00:00:00,000 --> 00:00:00,000	JOHN	Come on!
+262	00:00:00,000 --> 00:00:00,000		[The throws his remote to the ground and bangs on the Hummer until the alarm sounds. Hurley comes running and shuts it off.]
+264	00:00:00,000 --> 00:00:00,000	HURLEY	Dude! Dude! What are you doin'?
+266	00:00:00,000 --> 00:00:00,000	JOHN	What am I doin'? What the hell are you doin'? Did you ever park a car in your life? You're practically in my spot!
+268	00:00:00,000 --> 00:00:00,000	HURLEY	I'm sorry...
+270	00:00:00,000 --> 00:00:00,000	JOHN	Yeah...
+272	00:00:00,000 --> 00:00:00,000	HURLEY	But... you know, there's a handicapped spot right over here.
+274	00:00:00,000 --> 00:00:00,000		[Hurley indicates a vacant handicapped spot right next to John's van.]
+276	00:00:00,000 --> 00:00:00,000	JOHN	Yeah? Yeah, okay... but I don't have to park there! I can park anywhere I want! You need to stay inside the lines!
+278	00:00:00,000 --> 00:00:00,000	HURLEY	I'm really sorry. They were supposed to reserve a spot for me, so... you know, I just... parked here.
+280	00:00:00,000 --> 00:00:00,000		[John sighs.]
+282	00:00:00,000 --> 00:00:00,000	JOHN	I haven't seen you before. Do you work here?
+284	00:00:00,000 --> 00:00:00,000	HURLEY	Actually, I own the company.
+286	00:00:00,000 --> 00:00:00,000		[They chuckle.]
+288	00:00:00,000 --> 00:00:00,000	HURLEY	Hugo Reyes.
+290	00:00:00,000 --> 00:00:00,000	JOHN	John Locke.
+292	00:00:00,000 --> 00:00:00,000		[They shake hands.]
+294	00:00:00,000 --> 00:00:00,000	HURLEY	Cool. What do you do here, John?
+296	00:00:00,000 --> 00:00:00,000	JOHN	Actually... nothing. My boss just fired me.
+298	00:00:00,000 --> 00:00:00,000	HURLEY	Oh? Who's your boss?
+300	00:00:00,000 --> 00:00:00,000	JOHN	His name is Randy. But uh--
+302	00:00:00,000 --> 00:00:00,000	HURLEY	Randy Nations?
+304	00:00:00,000 --> 00:00:00,000	JOHN	Yeah.
+306	00:00:00,000 --> 00:00:00,000	HURLEY	Yeah... that guy is a huge douche. Want me to talk to him for you?
+308	00:00:00,000 --> 00:00:00,000	JOHN	No. That's okay...
+310	00:00:00,000 --> 00:00:00,000	HURLEY	Tell you what, John. I own a temp agency too...
+312	00:00:00,000 --> 00:00:00,000		[Hurley takes a pen and paper from John's box and begins writing.]
+314	00:00:00,000 --> 00:00:00,000	HURLEY	Call this number and tell them that Hugo said to hook you up with a new job, pronto.
+316	00:00:00,000 --> 00:00:00,000		[He hands John the pen and paper.]
+318	00:00:00,000 --> 00:00:00,000	HURLEY	And chin up. Things are gonna work out.
+320	00:00:00,000 --> 00:00:00,000		[On-Island - On the beach, Frank covers Locke's body with a tarp.]
+322	00:00:00,000 --> 00:00:00,000	LAPIDUS	He's gettin' pretty ripe!
+324	00:00:00,000 --> 00:00:00,000		[Ilana exits the foot of the statue.]
+326	00:00:00,000 --> 00:00:00,000	ILANA	Where is everybody?
+328	00:00:00,000 --> 00:00:00,000	SUN	They left. They said they were going to the temple.
+330	00:00:00,000 --> 00:00:00,000	ILANA	Right now, that's the safest place on the island. We should go there too.
+332	00:00:00,000 --> 00:00:00,000	SUN	Are you alright?
+334	00:00:00,000 --> 00:00:00,000	ILANA	I'm fine. Come on, let's get out of here!
+336	00:00:00,000 --> 00:00:00,000	SUN	What makes you think that I'm going with you?
+338	00:00:00,000 --> 00:00:00,000	ILANA	Because... you want to find Jin.
+340	00:00:00,000 --> 00:00:00,000	SUN	What do you know about my husband?
+342	00:00:00,000 --> 00:00:00,000	ILANA	I know that if he's on the island... and if he's alive... then he'll be at the temple. Let's get moving!
+344	00:00:00,000 --> 00:00:00,000		[Ilana begins to walk away.]
+346	00:00:00,000 --> 00:00:00,000	SUN	What about John? We need to bury him.
+348	00:00:00,000 --> 00:00:00,000		[In the jungle, Sawyer follows Locke.]
+350	00:00:00,000 --> 00:00:00,000	LOCKE	What were you doing alone in that house, James?
+352	00:00:00,000 --> 00:00:00,000	SAWYER	Drinkin'.
+354	00:00:00,000 --> 00:00:00,000	LOCKE	Where are the rest of your friends?
+356	00:00:00,000 --> 00:00:00,000	SAWYER	Some temple somewhere...
+358	00:00:00,000 --> 00:00:00,000	LOCKE	Why aren't you with 'em?
+360	00:00:00,000 --> 00:00:00,000	SAWYER	You know what? How 'bout we just don't talk?
+362	00:00:00,000 --> 00:00:00,000	LOCKE	You got it.
+364	00:00:00,000 --> 00:00:00,000		[Sawyer sees the blond boy standing in the jungle. Locke sees him too.]
+366	00:00:00,000 --> 00:00:00,000	SAWYER	Who the hell's that?
+368	00:00:00,000 --> 00:00:00,000	LOCKE	You can see him?
+370	00:00:00,000 --> 00:00:00,000	SAWYER	The kid? Hell yeah I can see him.
+372	00:00:00,000 --> 00:00:00,000		[The boy begins to run.]
+374	00:00:00,000 --> 00:00:00,000	LOCKE	Hey!
+376	00:00:00,000 --> 00:00:00,000		[Locke chases him but trips on a root and falls. The boy stands over him.]
+378	00:00:00,000 --> 00:00:00,000	BOY	You know the rules. You can't kill him.
+380	00:00:00,000 --> 00:00:00,000	LOCKE	Don't tell me what I can't do...
+382	00:00:00,000 --> 00:00:00,000		[The boy shakes his head and walks away.]
+384	00:00:00,000 --> 00:00:00,000	LOCKE	Don't tell me what I can't do!
+386	00:00:00,000 --> 00:00:00,000		[Sawyer stands alone in the jungle.]
+388	00:00:00,000 --> 00:00:00,000	SAWYER	Locke! Locke! Look, whoever you are, you got about twenty seconds and then I'm outta here!
+390	00:00:00,000 --> 00:00:00,000		[Richard walks out of the jungle.]
+392	00:00:00,000 --> 00:00:00,000	RICHARD	Where is he?
+394	00:00:00,000 --> 00:00:00,000	SAWYER	What the hell are you doin' here?
+396	00:00:00,000 --> 00:00:00,000	RICHARD	Where is he?
+398	00:00:00,000 --> 00:00:00,000	SAWYER	Locke? He ran off into the jungle after some kid.
+400	00:00:00,000 --> 00:00:00,000	RICHARD	We need to go! Now!
+402	00:00:00,000 --> 00:00:00,000	SAWYER	Go where?
+404	00:00:00,000 --> 00:00:00,000	RICHARD	To the temple! Let's go! Let's go!
+406	00:00:00,000 --> 00:00:00,000	SAWYER	You know what? I've been to the temple and I think I'm stickin' with Locke.
+408	00:00:00,000 --> 00:00:00,000	RICHARD	That man is not John Locke!
+410	00:00:00,000 --> 00:00:00,000	SAWYER	I know.
+412	00:00:00,000 --> 00:00:00,000	RICHARD	Then why are you with him?
+414	00:00:00,000 --> 00:00:00,000	SAWYER	Because he's got answers. He says he knows why I'm on this island. Unless you wanna tell me why I'm here, Richard...
+416	00:00:00,000 --> 00:00:00,000	RICHARD	Don't be naive! He's not gonna tell you anthing, he's gonna kill you!
+418	00:00:00,000 --> 00:00:00,000	SAWYER	If he wanted to kill me he could have done it a dozen times already...
+420	00:00:00,000 --> 00:00:00,000	RICHARD	You don't understand what you're dealing with! He doesn't just want you dead, he wants everyone dead! Everyone you care about! All of 'em! And he won't stop--
+422	00:00:00,000 --> 00:00:00,000		[Richard hears footsteps in the jungle and runs away. Locke enters the clearing.]
+424	00:00:00,000 --> 00:00:00,000	LOCKE	Who were you talking to?
+426	00:00:00,000 --> 00:00:00,000	SAWYER	Nobody. You ever catch up to the kid?
+428	00:00:00,000 --> 00:00:00,000	LOCKE	What kid?
+430	00:00:00,000 --> 00:00:00,000	SAWYER	Right... let's get on with it, shall we?
+432	00:00:00,000 --> 00:00:00,000	LOCKE	Yes, James. Let's get on with it.
+434	00:00:00,000 --> 00:00:00,000		[They move on.]
+436	00:00:00,000 --> 00:00:00,000		[Flash sideways - John Locke sits in front a desk across from a woman.]
+438	00:00:00,000 --> 00:00:00,000	WOMAN	What kind of animal would you describe yourself as?
+440	00:00:00,000 --> 00:00:00,000	JOHN	Excuse me?
+442	00:00:00,000 --> 00:00:00,000	WOMAN	What kind of animal would you describe yourself as?
+444	00:00:00,000 --> 00:00:00,000	JOHN	What uh... I don't know what that has to do with--
+446	00:00:00,000 --> 00:00:00,000	WOMAN	Just say whatever comes to mind.
+448	00:00:00,000 --> 00:00:00,000		[John does not reply.]
+450	00:00:00,000 --> 00:00:00,000	WOMAN	Would you describe yourself as a people person?
+452	00:00:00,000 --> 00:00:00,000		[John sighs.]
+454	00:00:00,000 --> 00:00:00,000	JOHN	May I speak to your supervisor?
+456	00:00:00,000 --> 00:00:00,000	WOMAN	Of course. I'll go get her.
+458	00:00:00,000 --> 00:00:00,000		[The woman walks away. Rose approaches John.]
+460	00:00:00,000 --> 00:00:00,000	ROSE	Good morning, mister... Locke?
+462	00:00:00,000 --> 00:00:00,000	JOHN	Yeah.
+464	00:00:00,000 --> 00:00:00,000	ROSE	I'm Rose Nadler, the office supervisor. What can I do for you?
+466	00:00:00,000 --> 00:00:00,000	JOHN	Uh... what you can do, Mrs. Nadler, is spare me the questions about what kind of animal I am and hopefully place me in a job.
+468	00:00:00,000 --> 00:00:00,000		[Rose laughs.]
+470	00:00:00,000 --> 00:00:00,000	ROSE	Absolutely. What kind of placement are you looking for?
+472	00:00:00,000 --> 00:00:00,000	JOHN	Well, I see here that you have a listing for a site coordinator...
+474	00:00:00,000 --> 00:00:00,000	ROSE	Construction site coordinator. Uh... I'm not sure that's a good match.
+476	00:00:00,000 --> 00:00:00,000	JOHN	Well, if experience is the issue, I have--
+478	00:00:00,000 --> 00:00:00,000	ROSE	Experience isn't the issue.
+480	00:00:00,000 --> 00:00:00,000	JOHN	Look... Mr. Reyes told me if I came down here I would be taken care of.
+482	00:00:00,000 --> 00:00:00,000	ROSE	And Mr. Reyes is my boss, so if he said that, I can make it happen for you. If you want to work construction, you got it.
+484	00:00:00,000 --> 00:00:00,000	JOHN	Thank you.
+486	00:00:00,000 --> 00:00:00,000	ROSE	I'm not finished. I will send you down there tomorrow and then, the day after, you will be back in my office. Look, Mr. Locke... let's try to be a little more realistic.
+488	00:00:00,000 --> 00:00:00,000	JOHN	And what do you know about realistic?
+490	00:00:00,000 --> 00:00:00,000	ROSE	I have cancer. Terminal cancer.
+492	00:00:00,000 --> 00:00:00,000	JOHN	I'm sorry...
+494	00:00:00,000 --> 00:00:00,000	ROSE	When the doctors first told me, I had a hard time accepting it. But eventually... I got past the denial part. And I got back to living whatever life I've got left. So, how about we find you a job you can do?
+496	00:00:00,000 --> 00:00:00,000		[On-Island - Sawyer and Locke walk through the jungle.]
+498	00:00:00,000 --> 00:00:00,000	SAWYER	Do you read?
+500	00:00:00,000 --> 00:00:00,000	LOCKE	Excuse me?
+502	00:00:00,000 --> 00:00:00,000	SAWYER	Books. Do you read books?
+504	00:00:00,000 --> 00:00:00,000	LOCKE	Sure. Who doesn't?
+506	00:00:00,000 --> 00:00:00,000	SAWYER	My favorite's Steinbeck. Of Mice and Men. You know that one?
+508	00:00:00,000 --> 00:00:00,000	LOCKE	Nope. A little after my time...
+510	00:00:00,000 --> 00:00:00,000	SAWYER	It's about these two guys, George and Lennie. Lennie's kinda slow... causin' George problems... so George walks him into the woods and tells him to look out yonder and picture the pretty little house they're gonna live in some day. Then he shoots Lennie in the back of the head.
+512	00:00:00,000 --> 00:00:00,000	LOCKE	Well that doesn't sound like a happy ending.
+514	00:00:00,000 --> 00:00:00,000	SAWYER	It ain't.
+516	00:00:00,000 --> 00:00:00,000		[Sawyer points a gun at Locke.]
+518	00:00:00,000 --> 00:00:00,000	LOCKE	What's on your mind, James?
+520	00:00:00,000 --> 00:00:00,000	SAWYER	I'm wonderin' what would happen to you if I put a bullet in your head.
+522	00:00:00,000 --> 00:00:00,000	LOCKE	Why don't we find out?
+524	00:00:00,000 --> 00:00:00,000	SAWYER	What are you?
+526	00:00:00,000 --> 00:00:00,000	LOCKE	What I am is trapped. And I've been trapped for so long that I don't even remember what it feels like to be free. Maybe you can understand that. But before I was trapped, I was a man, James. Just like you.
+528	00:00:00,000 --> 00:00:00,000	SAWYER	I'm havin' a hard time believin' that...
+530	00:00:00,000 --> 00:00:00,000	LOCKE	You can believe whatever you want, that's the truth. I know what it's like to feel joy... to feel pain, anger, fear... to experience betrayal. I know what it's like to lose someone you love. So if you wanna shoot me, shoot me. But you're so close, James. It would be such a shame to turn back now.
+532	00:00:00,000 --> 00:00:00,000		[Locke walks deeper into the jungle. Sawyer sighs and follows.]
+534	00:00:00,000 --> 00:00:00,000		[Across the Island, Frank and Sun walk on ahead while Ben and Ilana carry Locke's corpse in a make-shift stretcher.]
+536	00:00:00,000 --> 00:00:00,000	BEN	Why did you have to bring him to the statue in the first place?
+538	00:00:00,000 --> 00:00:00,000	ILANA	Because the people there need to see the face of what they're up against.
+540	00:00:00,000 --> 00:00:00,000	BEN	And whats to stop what they're up against from changing his face?
+542	00:00:00,000 --> 00:00:00,000	ILANA	He can't; not anymore. Hes stuck this way.
+544	00:00:00,000 --> 00:00:00,000		[They arrive at the graveyard in the old beach camp.]
+546	00:00:00,000 --> 00:00:00,000		[Moments later, Ben and Frank are digging a grave while Ilana and Sun prepare Locke's corpse. They all lower Locke into his final resting place.]
+548	00:00:00,000 --> 00:00:00,000	ILANA	Does anyone want to say anything?
+550	00:00:00,000 --> 00:00:00,000		[No one responds initially.]
+552	00:00:00,000 --> 00:00:00,000	ILANA	Didn't any of you know him?
+554	00:00:00,000 --> 00:00:00,000	BEN	Alright, I knew him. John Locke was a...a believer, he was a man of faith, he was... a much better man than I will ever be. And I'm very sorry I murdered him.
+556	00:00:00,000 --> 00:00:00,000	LAPIDUS	Weirdest damn funeral I've ever been to.
+558	00:00:00,000 --> 00:00:00,000		[Frank and Ben then start to cover the body with dirt.]
+560	00:00:00,000 --> 00:00:00,000		[Flash sideways - John is already awake in bed when his alarm is ringing. He gets up and gets dressed. In his bathroom, after looking into a shaving mirror, he pushes it aside and looks at the contact card Jack gave him at the airport. He dials the number on his cell phone.]
+562	00:00:00,000 --> 00:00:00,000	WOMEN	Hello, Dr. Shephard's office?
+564	00:00:00,000 --> 00:00:00,000		[John takes the phone away from his ear, then puts it back.]
+566	00:00:00,000 --> 00:00:00,000	WOMAN	Hello? Can I help you?
+568	00:00:00,000 --> 00:00:00,000	JOHN	No, no you can't.
+570	00:00:00,000 --> 00:00:00,000		[As Helen is making the bed in the other room, he hangs up.]
+572	00:00:00,000 --> 00:00:00,000	HELEN	Who was that on the phone?
+574	00:00:00,000 --> 00:00:00,000	JOHN	No one.
+576	00:00:00,000 --> 00:00:00,000	HELEN	No one? John, I just heard you talking on the phone.
+578	00:00:00,000 --> 00:00:00,000	JOHN	I was uh, I was calling Dr. Shephard.
+580	00:00:00,000 --> 00:00:00,000	HELEN	Good for you. When are you going to see him?
+582	00:00:00,000 --> 00:00:00,000	JOHN	I'm not going to see him.
+584	00:00:00,000 --> 00:00:00,000	HELEN	Well, uh, I don't understand, why wouldn't you-
+586	00:00:00,000 --> 00:00:00,000	JOHN	I got fired, Helen.
+588	00:00:00,000 --> 00:00:00,000		[The doorbell rings.]
+590	00:00:00,000 --> 00:00:00,000	HELEN	Coming!
+592	00:00:00,000 --> 00:00:00,000	MAN	[off-camera at first] Ma'am, Oceanic courier. Delivering your lost luggage. Sign here to accept the delivery.
+594	00:00:00,000 --> 00:00:00,000	HELEN	Thanks.
+596	00:00:00,000 --> 00:00:00,000	MAN	Okay, thanks.
+598	00:00:00,000 --> 00:00:00,000		[Helen closes the door and brings the case inside to the kitchen.]
+600	00:00:00,000 --> 00:00:00,000	HELEN	Okay, John. Talk to me. How did you get fired?
+602	00:00:00,000 --> 00:00:00,000	JOHN	I lied to Randy, I didn't go to the conferences in Sydney.
+604	00:00:00,000 --> 00:00:00,000	HELEN	What?
+606	00:00:00,000 --> 00:00:00,000	JOHN	Open the case, Helen.
+608	00:00:00,000 --> 00:00:00,000		[Helen opens the case to find it is filled with knifes.]
+610	00:00:00,000 --> 00:00:00,000	HELEN	What are these for?
+612	00:00:00,000 --> 00:00:00,000	JOHN	My walkabout.
+614	00:00:00,000 --> 00:00:00,000	HELEN	Your, your what?
+616	00:00:00,000 --> 00:00:00,000	JOHN	My walkabout. An adventure in the outback. Man against nature. But they wouldn't let me go. And I sat there yelling at them. Shouting at them that they couldn't tell me what I can't do. But they were right. I'm sick of imagining of what my life could be out of this chair, Helen. What it would be like to walk down the isle with you because its not gonna happen. So if you need me to see more doctors, have more consults, if you need me to get out of this chair, I don't blame you. But I don't want you to spend your life waiting for a miracle because there is no such thing.
+618	00:00:00,000 --> 00:00:00,000		[Helen approaches John and crouches down beside him.]
+620	00:00:00,000 --> 00:00:00,000	HELEN	There are miracles, John. And the only thing I was ever waiting for was you.
+622	00:00:00,000 --> 00:00:00,000		[She rips up Jack's card, then kisses John.]
+624	00:00:00,000 --> 00:00:00,000		[On-Island - Sawyer and Locke come to a bamboo ladder on the edge of a cliff.]
+626	00:00:00,000 --> 00:00:00,000	SAWYER	Nice view. Now what?
+628	00:00:00,000 --> 00:00:00,000	LOCKE	Now we go down.
+630	00:00:00,000 --> 00:00:00,000	SAWYER	Down where?
+632	00:00:00,000 --> 00:00:00,000	LOCKE	Down there.
+634	00:00:00,000 --> 00:00:00,000		[There is a shot of a very tall cliffside.]
+636	00:00:00,000 --> 00:00:00,000	SAWYER	No offense, but you already died. So this is great that this isn't a big deal for you. But if you think I'm climbing down there first, your off your damn mind.
+638	00:00:00,000 --> 00:00:00,000	LOCKE	It's no problem, I'll go first.
+640	00:00:00,000 --> 00:00:00,000		[Locke walks to the ladder and starts to descend it. Sawyer approaches it and looks down at Locke.]
+642	00:00:00,000 --> 00:00:00,000	LOCKE	Coming, James?!
+644	00:00:00,000 --> 00:00:00,000		[Sawyer starts to climb down it as Locke moves across to rope ladder. When Sawyer is nearing the bottom of his ladder, one of the rungs snaps and leaves him clinging on for his life. He recovers and moves over to the rope ladder. Locke is now on another rope ladder further down. Sawyer breathes a sigh of relief as he looks down. Then, the rope ladder comes detached from the wall, sending him flying down the cliffside and bouncing as the ladder snaps tight. He still hangs onto the ladder.]
+646	00:00:00,000 --> 00:00:00,000	LOCKE	James!
+648	00:00:00,000 --> 00:00:00,000		[Locke starts to climb to help him.]
+650	00:00:00,000 --> 00:00:00,000	SAWYER	Locke!
+652	00:00:00,000 --> 00:00:00,000	LOCKE	Hold on, come on. Come on, I got you, come on. Come on. Come on.
+654	00:00:00,000 --> 00:00:00,000		[Sawyer manages to swing across to the bamboo ladder that Locke is now on with his help. They both descend and reach the bottom of the cliff. Then they come across a cave entrance with a set of scales on a wooden table. One black rock and one white rock balance the scales evenly.]
+656	00:00:00,000 --> 00:00:00,000	SAWYER	What is this place?
+658	00:00:00,000 --> 00:00:00,000		[Locke takes the white rock from the scale and tosses it into the sea.]
+660	00:00:00,000 --> 00:00:00,000	SAWYER	What the hell's that all about?
+662	00:00:00,000 --> 00:00:00,000	LOCKE	Inside joke.
+664	00:00:00,000 --> 00:00:00,000	SAWYER	So this is what you wanted me to see? A hole in the cliff; with some rocks on a scale; that's why I'm here?
+666	00:00:00,000 --> 00:00:00,000		[Locke lights a torch.]
+668	00:00:00,000 --> 00:00:00,000	LOCKE	No.
+670	00:00:00,000 --> 00:00:00,000		[Locke leads Sawyer inside the cave.]
+672	00:00:00,000 --> 00:00:00,000	LOCKE	That's why you're here.
+674	00:00:00,000 --> 00:00:00,000		[Sawyer takes the torch from Locke and examines the walls of the cave to find they are covered with hundreds of names, most of which are crossed out.]
+676	00:00:00,000 --> 00:00:00,000	LOCKE	That, James, is why you're all here.
+678	00:00:00,000 --> 00:00:00,000		[Flash sideways - Inside a school gym, dozens of students run back and forth across the court.]
+680	00:00:00,000 --> 00:00:00,000	JOHN	Alright, speed it up, all the way. No cheating, come on now. Come on, all the way, you can catch up. Bring it in, bring it in, all the way. Good job. Good job.
+682	00:00:00,000 --> 00:00:00,000		[Later, inside a class of students, John sits at the front desk. He opens a text book.]
+684	00:00:00,000 --> 00:00:00,000	JOHN	Alright, everyone, please open your textbooks to chapter four. Today, we are going to talk about... the Human reproductive system.
+686	00:00:00,000 --> 00:00:00,000		[Outside in the hall, the bell rings and students flood from the classrooms. John stops one of them.]
+688	00:00:00,000 --> 00:00:00,000	JOHN	Do you know where the- Excuse me, can you tell me where the teacher's lounge is?
+690	00:00:00,000 --> 00:00:00,000	KID	Yeah, its over there.
+692	00:00:00,000 --> 00:00:00,000		[He points.]
+694	00:00:00,000 --> 00:00:00,000	JOHN	Thank you.
+696	00:00:00,000 --> 00:00:00,000		[In the teacher's lounge, a man stands at the coffee machine with his back to the camera.]
+698	00:00:00,000 --> 00:00:00,000	MAN	Alright, I know I sound like a broken record, but how many times do we have to go over this? If you have the last cup of coffee, you remove the filter and throw it away. Fear not. I will make a fresh pot.
+700	00:00:00,000 --> 00:00:00,000	JOHN	Actually, I was just hoping for some Earl Grey.
+702	00:00:00,000 --> 00:00:00,000		[He turns around and we see it is Benjamin Linus.]
+704	00:00:00,000 --> 00:00:00,000	BEN	Tea? Now there's a gentleman drink. I don't believe we met.
+706	00:00:00,000 --> 00:00:00,000		[They shake hands.]
+708	00:00:00,000 --> 00:00:00,000	BEN	Ben Linus, European History.
+710	00:00:00,000 --> 00:00:00,000	JOHN	John Locke, Substitute.
+712	00:00:00,000 --> 00:00:00,000	BEN	Well, welcome.
+714	00:00:00,000 --> 00:00:00,000		[John smiles.]
+716	00:00:00,000 --> 00:00:00,000		[On-Island - Inside the cave.]
+718	00:00:00,000 --> 00:00:00,000	SAWYER	Who wrote all this?
+720	00:00:00,000 --> 00:00:00,000	LOCKE	His name was Jacob.
+722	00:00:00,000 --> 00:00:00,000	SAWYER	Was Jacob?
+724	00:00:00,000 --> 00:00:00,000	LOCKE	He died yesterday.
+726	00:00:00,000 --> 00:00:00,000		[We see Locke kick Jacob into the fire.]
+728	00:00:00,000 --> 00:00:00,000	SAWYER	You don't seem to upset about it?
+730	00:00:00,000 --> 00:00:00,000	LOCKE	I'm not.
+732	00:00:00,000 --> 00:00:00,000	SAWYER	Why are all the names crossed out?
+734	00:00:00,000 --> 00:00:00,000	LOCKE	There not all crossed out.
+736	00:00:00,000 --> 00:00:00,000		[Sawyer discovers "23-Sherhard" written on the wall.]
+738	00:00:00,000 --> 00:00:00,000	SAWYER	"Shephard". That Jack Shephard?
+740	00:00:00,000 --> 00:00:00,000		[We see Jack accepting the Apollo bar from Jacob.]
+742	00:00:00,000 --> 00:00:00,000	LOCKE	He's not the only one.
+744	00:00:00,000 --> 00:00:00,000		["8-Reyes" is on the wall.]
+746	00:00:00,000 --> 00:00:00,000	SAWYER	Reyes. That's Hugo, right?
+748	00:00:00,000 --> 00:00:00,000		[We see Jacob and Hurley in the taxi.]
+750	00:00:00,000 --> 00:00:00,000	SAWYER	What's the eight about?
+752	00:00:00,000 --> 00:00:00,000	LOCKE	Jacob had a thing for numbers. Sixteen, Jarrah.
+754	00:00:00,000 --> 00:00:00,000		["16-Jarrah" is on the wall. We see Jacob touch Sayid on the shoulder.]
+756	00:00:00,000 --> 00:00:00,000	LOCKE	Forty-Two, Kwon; I don't know if it's Sun or if it's Jin.
+758	00:00:00,000 --> 00:00:00,000		["42-Kwon" is on the wall. We see Jacob congratulate them at their wedding.]
+760	00:00:00,000 --> 00:00:00,000	LOCKE	Here, four, Locke. I think we both know him.
+762	00:00:00,000 --> 00:00:00,000		["4-Locke" is on the wall. We see Jacob touch Locke on the shoulder.]
+764	00:00:00,000 --> 00:00:00,000	LOCKE	Last but not least, number 15, Ford.
+766	00:00:00,000 --> 00:00:00,000		["15-Ford is on the wall.]
+768	00:00:00,000 --> 00:00:00,000	LOCKE	That would be you.
+770	00:00:00,000 --> 00:00:00,000	SAWYER	Why would he write my name on this wall? I never even met the guy.
+772	00:00:00,000 --> 00:00:00,000	LOCKE	Oh no, I'm sure you did meet Jacob.
+774	00:00:00,000 --> 00:00:00,000		[We see Jacob give young Sawyer a pen.]
+776	00:00:00,000 --> 00:00:00,000	LOCKE	At some point in your life, James, probably when you were young and miserable and vulnerable. He came to you, he manipulated you, pulled your strings like you were a puppet. And as a result, choices you thought were made, were never really choices at all. He was pushing you, James. Pushing you... to the Island.
+778	00:00:00,000 --> 00:00:00,000	SAWYER	Why the hell would he do that?
+780	00:00:00,000 --> 00:00:00,000	LOCKE	Because, you're a candidate.
+782	00:00:00,000 --> 00:00:00,000	SAWYER	Candidate for what?
+784	00:00:00,000 --> 00:00:00,000	LOCKE	He thought he was the protector of this place. And you, James, have been nominated to take that job.
+786	00:00:00,000 --> 00:00:00,000	SAWYER	And what does that mean?
+788	00:00:00,000 --> 00:00:00,000	LOCKE	It means you have three choices. First, you can do nothing and see how all this plays out. And possibly, your name will get crossed out.
+790	00:00:00,000 --> 00:00:00,000		[He crosses "4-Locke" out on the wall with chalk.]
+792	00:00:00,000 --> 00:00:00,000	LOCKE	Second option. You can accept the job. Become the new Jacob. And protect the Island.
+794	00:00:00,000 --> 00:00:00,000	SAWYER	Protect it from what?
+796	00:00:00,000 --> 00:00:00,000	LOCKE	From nothing, James. That's the joke, there is nothing to protect it from, its just a damn Island. And it will be perfectly fine without Jacob or you, or any of the other people; whose lives he wasted.
+798	00:00:00,000 --> 00:00:00,000	SAWYER	You said there were three choices?
+800	00:00:00,000 --> 00:00:00,000	LOCKE	The third choice, James, is that we just go. We just get the hell off this Island. We never look back.
+802	00:00:00,000 --> 00:00:00,000	SAWYER	How do we do that?
+804	00:00:00,000 --> 00:00:00,000	LOCKE	Together. So what do you say, James? Are you ready to go home?
+806	00:00:00,000 --> 00:00:00,000		[After a pause...]
+808	00:00:00,000 --> 00:00:00,000	SAWYER	Hell yes.

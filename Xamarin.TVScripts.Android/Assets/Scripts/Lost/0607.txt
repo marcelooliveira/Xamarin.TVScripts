@@ -1,0 +1,422 @@
+Recon
+2	00:00:00,000 --> 00:00:00,000	Written by	Elizabeth Sarnoff & Jim Galasso
+4	00:00:00,000 --> 00:00:00,000	Directed by	Jack Bender
+6	00:00:00,000 --> 00:00:00,000		[On-Island - Sawyer is outside Claire's hut. He burns his hand on a boiling kettle over the fire.]
+8	00:00:00,000 --> 00:00:00,000	SAWYER	Son of a bitch!
+10	00:00:00,000 --> 00:00:00,000		[Using a cloth to protect his hand, he pours tea into a mug. Jin is sleeping in Claire's shelter.]
+12	00:00:00,000 --> 00:00:00,000	SAWYER	Jin... come on, wake up buddy. Wake up!
+14	00:00:00,000 --> 00:00:00,000	JIN	Sawyer. How long have I been out?
+16	00:00:00,000 --> 00:00:00,000	SAWYER	A while. Figured you could use a rest...
+18	00:00:00,000 --> 00:00:00,000	JIN	Claire and Locke... where are they?
+20	00:00:00,000 --> 00:00:00,000	SAWYER	I don't know. They said they'd be back by sun up.
+22	00:00:00,000 --> 00:00:00,000		[Jin scrambles to his feet.]
+24	00:00:00,000 --> 00:00:00,000	JIN	We have to get out of here before they come back!
+26	00:00:00,000 --> 00:00:00,000	SAWYER	Whoa, whoa! I'm with Locke.
+28	00:00:00,000 --> 00:00:00,000	JIN	That is not Locke!
+30	00:00:00,000 --> 00:00:00,000	SAWYER	Yeah... I know. Whoever he is, he says he can get us off this damn island.
+32	00:00:00,000 --> 00:00:00,000	JIN	I can't leave. Sun could be here somewhere.
+34	00:00:00,000 --> 00:00:00,000	SAWYER	Fine. If she's here, you've got my word... we ain't leavin' without her.
+36	00:00:00,000 --> 00:00:00,000		[They hear something outside the shelter.]
+38	00:00:00,000 --> 00:00:00,000	JIN	What's that?
+40	00:00:00,000 --> 00:00:00,000	SAWYER	They're back.
+42	00:00:00,000 --> 00:00:00,000		[Locke leads his followers, including Sayid, Claire, and Kate.]
+44	00:00:00,000 --> 00:00:00,000	KATE	Hi.
+46	00:00:00,000 --> 00:00:00,000	SAWYER	Hi yourself.
+48	00:00:00,000 --> 00:00:00,000		[Flash sideways - Sawyer is in bed with a woman named Ava.]
+50	00:00:00,000 --> 00:00:00,000	AVA	Wow. Jimmy, you are... unbelievable.
+52	00:00:00,000 --> 00:00:00,000	SAWYER	You're not too shabby yourself sweetheart.
+54	00:00:00,000 --> 00:00:00,000		[She looks at the clock.]
+56	00:00:00,000 --> 00:00:00,000	AVA	Baby...
+58	00:00:00,000 --> 00:00:00,000	SAWYER	Yeah ?
+60	00:00:00,000 --> 00:00:00,000	AVA	Weren't you supposed to meet that guy at nine?
+62	00:00:00,000 --> 00:00:00,000	SAWYER	Yeah. So?
+64	00:00:00,000 --> 00:00:00,000	AVA	It's 8:42.
+66	00:00:00,000 --> 00:00:00,000		[Sawyer looks at the clock.]
+68	00:00:00,000 --> 00:00:00,000	SAWYER	Damn it!
+70	00:00:00,000 --> 00:00:00,000		[Sawyer hurries out of bed and grabs a briefcase. The briefcase falls open, spilling bundles of cash.]
+72	00:00:00,000 --> 00:00:00,000	SAWYER	You weren't exactly supposed to see that...
+74	00:00:00,000 --> 00:00:00,000	AVA	Jimmy, what are you doing with all that money?
+76	00:00:00,000 --> 00:00:00,000		[Ava starts to get dressed.]
+78	00:00:00,000 --> 00:00:00,000	SAWYER	This meeting... it's a potential investment, we're going fifty-fifty. The guy wants to see the money up front. Don't worry it won't take long. I'll be right back. Me and you'll go for a round.
+80	00:00:00,000 --> 00:00:00,000		[Ava pulls a gun on Sawyer.]
+82	00:00:00,000 --> 00:00:00,000	SAWYER	Whoa...
+84	00:00:00,000 --> 00:00:00,000	AVA	Step away from the case.
+86	00:00:00,000 --> 00:00:00,000	SAWYER	Take it easy, honey...
+88	00:00:00,000 --> 00:00:00,000	AVA	Here's the thing, dimples. I can spot a con man. I'm married to one. So I know all about the pigeon drop. Oh, what? That case just accidentally flew open? How stupid do you think I am?
+90	00:00:00,000 --> 00:00:00,000	SAWYER	Pretty damn stupid actually.
+92	00:00:00,000 --> 00:00:00,000	AVA	Excuse me?
+94	00:00:00,000 --> 00:00:00,000	SAWYER	This is a setup, lady. There's a van sitting right outside. The room is bugged... place is surrounded by cops. So now you wanna put that gun down and we'll work something out. They don't care about you, they want your husband. There's a tracer in the case, all you had to do is take it back to wherever your hubby's hiding out.
+96	00:00:00,000 --> 00:00:00,000	AVA	You really expect me to believe that you're here with the police? This place is surrounded? How come no-one came to save you?
+98	00:00:00,000 --> 00:00:00,000	SAWYER	I don't need saving. 'Cause you're gonna do the right thing and put that gun down. But if you don't... well, then all I gotta do is say the magic word and that door busts open.
+100	00:00:00,000 --> 00:00:00,000	AVA	You're a lousy con man.
+102	00:00:00,000 --> 00:00:00,000		[She cocks the gun.]
+104	00:00:00,000 --> 00:00:00,000	SAWYER	LaFleur.
+106	00:00:00,000 --> 00:00:00,000	AVA	La what?
+108	00:00:00,000 --> 00:00:00,000		[Several police kick down the door and enter.]
+110	00:00:00,000 --> 00:00:00,000	POLICE OFFICER	Police! Drop the gun!
+112	00:00:00,000 --> 00:00:00,000		[She drops the gun and is cuffed. Miles enters. He is a cop.]
+114	00:00:00,000 --> 00:00:00,000	MILES	Cutting it a little close, huh?
+116	00:00:00,000 --> 00:00:00,000	SAWYER	Only way to cut it.
+118	00:00:00,000 --> 00:00:00,000	MILES	Put your damn clothes on, Jim.
+120	00:00:00,000 --> 00:00:00,000		[Miles throws him a police badge.]
+122	00:00:00,000 --> 00:00:00,000	SAWYER	You got it, partner.
+124	00:00:00,000 --> 00:00:00,000	AVA	You're a cop?
+126	00:00:00,000 --> 00:00:00,000	SAWYER	Surprise.
+128	00:00:00,000 --> 00:00:00,000		[On-Island - Claire enters her shelter, collects a knife, and checks on her fake baby. Kate enters.]
+130	00:00:00,000 --> 00:00:00,000	KATE	Is this where you lived?
+132	00:00:00,000 --> 00:00:00,000	CLAIRE	Yeah.
+134	00:00:00,000 --> 00:00:00,000		[Kate looks at the fake baby in horror.]
+136	00:00:00,000 --> 00:00:00,000	KATE	What is that?
+138	00:00:00,000 --> 00:00:00,000	CLAIRE	It's all I had.
+140	00:00:00,000 --> 00:00:00,000		[Locke speaks to his followers outside the shelter.]
+142	00:00:00,000 --> 00:00:00,000	LOCKE	Alright everybody, listen up. Come on in, gather round. I know that everyone is tired. It was a... a long and traumatic night for all of us. And you all have got a lot of questions, I know. And I will make myself available to answer them. But right now we need to keep moving. We have to take advantage of the daylight.
+144	00:00:00,000 --> 00:00:00,000	CINDY	We want to know what happened to the people who stayed behind at the Temple.
+146	00:00:00,000 --> 00:00:00,000	LOCKE	The black smoke killed them.
+148	00:00:00,000 --> 00:00:00,000		[Locke kneels to console Zach and Emma.]
+150	00:00:00,000 --> 00:00:00,000	LOCKE	Hey... I know that what happened back there was really scary. But it's over. You're with me now, and I promise that I'm gonna take care of you. Okay?
+152	00:00:00,000 --> 00:00:00,000	LOCKE	Alright, let's move out!
+154	00:00:00,000 --> 00:00:00,000		[Sawyer approaches Kate.]
+156	00:00:00,000 --> 00:00:00,000	SAWYER	Looks like you had a hell of a night.
+158	00:00:00,000 --> 00:00:00,000	KATE	Yeah.
+160	00:00:00,000 --> 00:00:00,000	SAWYER	Jack, Hurley, the rest of them... they make it out of the temple all right?
+162	00:00:00,000 --> 00:00:00,000	KATE	I saw them leaving on the way back.
+164	00:00:00,000 --> 00:00:00,000	SAWYER	What about Miles?
+166	00:00:00,000 --> 00:00:00,000	KATE	I don't know what happened to him. So you're with Locke now?
+168	00:00:00,000 --> 00:00:00,000	SAWYER	I ain't with anybody, Kate.
+170	00:00:00,000 --> 00:00:00,000		[Flash sideways - Sawyer is at his desk in the police station, making phone calls.]
+172	00:00:00,000 --> 00:00:00,000	SAWYER	Hello, is this Anthony Cooper? Hi Mr Cooper, this is Detective James Ford, L.A.P.D. Yeah, we've discovered some unclaimed property that might belong to you. Can you verify you were in Alabama in 1976? Uh huh... okay, thanks. Sorry to have taken up your time.
+174	00:00:00,000 --> 00:00:00,000		[Sawyer hangs up, crosses a name off a list, and dials the next one.]
+176	00:00:00,000 --> 00:00:00,000	SAWYER	May I speak with Anthony Cooper?
+178	00:00:00,000 --> 00:00:00,000		[Miles approaches. Sawyer becomes nervous.]
+180	00:00:00,000 --> 00:00:00,000	SAWYER	Sorry, I'm going to have to call you back...
+182	00:00:00,000 --> 00:00:00,000		[He hangs up.]
+184	00:00:00,000 --> 00:00:00,000	MILES	Who's Anthony Cooper?
+186	00:00:00,000 --> 00:00:00,000	SAWYER	Old buddy I ran into. Said he could hook me up with some Laker tickets.
+188	00:00:00,000 --> 00:00:00,000	MILES	That's cool. What'd you... you see him in Palm Springs?
+190	00:00:00,000 --> 00:00:00,000	SAWYER	What?
+192	00:00:00,000 --> 00:00:00,000	MILES	Palm Springs. Your trip last weekend?
+194	00:00:00,000 --> 00:00:00,000		[Sawyer hesitates.]
+196	00:00:00,000 --> 00:00:00,000	SAWYER	Yeah. It's a blur. Too much sunshine, too many Mai Tais...
+198	00:00:00,000 --> 00:00:00,000	MILES	Well get it together, because you got a date tonight, pal.
+200	00:00:00,000 --> 00:00:00,000	SAWYER	Date with who?
+202	00:00:00,000 --> 00:00:00,000	MILES	Friend of mine. Works with my dad at the museum. She's great.
+204	00:00:00,000 --> 00:00:00,000	SAWYER	Well if she's so great, why don't you go out with her?
+206	00:00:00,000 --> 00:00:00,000	MILES	Hey, I got a girlfriend. What is your deal Jim? You wanna die alone?
+208	00:00:00,000 --> 00:00:00,000	SAWYER	Alright, look...I go out with her, are you gonna leave me alone?
+210	00:00:00,000 --> 00:00:00,000	MILES	Throw in one of those Laker tickets, hell yes I will.
+212	00:00:00,000 --> 00:00:00,000	SAWYER	Look I'm...already pulling strings with this guy. It's just, uh... I don't know if I can get another seat...
+214	00:00:00,000 --> 00:00:00,000	MILES	You know you can tell me the truth. About anything. Are you lying to me, man?
+216	00:00:00,000 --> 00:00:00,000	SAWYER	Why the hell would I lie?
+218	00:00:00,000 --> 00:00:00,000		[On-Island - Locke's group is travelling through the jungle.]
+220	00:00:00,000 --> 00:00:00,000	LOCKE	About a quarter mile ahead there's a clearing. We'll make camp there. Everybody fill up on water. We might be there a couple of days.
+222	00:00:00,000 --> 00:00:00,000	SAWYER	A couple of days? I thought you said we were getting off this rock?
+224	00:00:00,000 --> 00:00:00,000	LOCKE	We are.
+226	00:00:00,000 --> 00:00:00,000	SAWYER	When?
+228	00:00:00,000 --> 00:00:00,000		[Some of the group notice this dispute.]
+230	00:00:00,000 --> 00:00:00,000	LOCKE	Maybe we should talk about this in private.
+232	00:00:00,000 --> 00:00:00,000	SAWYER	Great. Let's go.
+234	00:00:00,000 --> 00:00:00,000		[They go deeper into the jungle, alone.]
+236	00:00:00,000 --> 00:00:00,000	LOCKE	I wish you hadn't interrupted me.
+238	00:00:00,000 --> 00:00:00,000	SAWYER	I'm sorry... I forgot my manners.
+240	00:00:00,000 --> 00:00:00,000	LOCKE	I forgive you.
+242	00:00:00,000 --> 00:00:00,000	SAWYER	What happened back at the temple? How'd you know to rescue everybody from that smoke thing?
+244	00:00:00,000 --> 00:00:00,000	LOCKE	I didn't rescue them. I'm the smoke thing.
+246	00:00:00,000 --> 00:00:00,000	SAWYER	You telling me you killed all of those people?
+248	00:00:00,000 --> 00:00:00,000	LOCKE	I gave them the opportunity to leave peacefully and they didn't take it.
+250	00:00:00,000 --> 00:00:00,000	SAWYER	Why not?
+252	00:00:00,000 --> 00:00:00,000	LOCKE	Because they're convinced that they're protecting the Island from me, when in fact all I want to do is leave. So it's either kill or be killed. And I don't wanna be killed.
+254	00:00:00,000 --> 00:00:00,000		[Locke leads him to an outrigger on the shore.]
+256	00:00:00,000 --> 00:00:00,000	SAWYER	You goin' on a boat ride?
+258	00:00:00,000 --> 00:00:00,000	LOCKE	You are.
+260	00:00:00,000 --> 00:00:00,000	SAWYER	Where?
+262	00:00:00,000 --> 00:00:00,000	LOCKE	Hydra Island.
+264	00:00:00,000 --> 00:00:00,000	SAWYER	What's on Hydra Island?
+266	00:00:00,000 --> 00:00:00,000	LOCKE	The plane. The Ajira flight. The same plane that brought your friends back. Unfortunately they didn't come alone. And I have reason to believe that some of the other passengers mean to do us all harm. So I want you to go over there and do some recon.
+268	00:00:00,000 --> 00:00:00,000	SAWYER	Well that sounds safe...
+270	00:00:00,000 --> 00:00:00,000	LOCKE	You'll be fine.
+272	00:00:00,000 --> 00:00:00,000	SAWYER	Yeah? And what am I supposed to do if I run into somebody who wants to do me harm?
+274	00:00:00,000 --> 00:00:00,000	LOCKE	I'm not worried about that.
+276	00:00:00,000 --> 00:00:00,000	SAWYER	Oh, you're not, huh?
+278	00:00:00,000 --> 00:00:00,000	LOCKE	No. Because you are the best liar I ever met. You tell them whatever you need to tell them to gain their trust... find out everything you can about them... and then get back here.
+280	00:00:00,000 --> 00:00:00,000	SAWYER	Why exactly am I doing this again?
+282	00:00:00,000 --> 00:00:00,000	LOCKE	Why do you think, James? We get on that plane, we fly off this Island, and we never look back. Come on.
+284	00:00:00,000 --> 00:00:00,000		[They push the outrigger into the ocean.]
+286	00:00:00,000 --> 00:00:00,000		[Flash sideways - Sawyer arrives at a crowded restaurant and scans the crowd. Frustrated, he places a call on his cell phone.]
+288	00:00:00,000 --> 00:00:00,000	MILES	Yeah?
+290	00:00:00,000 --> 00:00:00,000	SAWYER	Miles, what does this girl look like again?
+292	00:00:00,000 --> 00:00:00,000	MILES	She's a redhead. How many redheads do you see?
+294	00:00:00,000 --> 00:00:00,000		[Sawyer spots a redhead at the bar.]
+296	00:00:00,000 --> 00:00:00,000	SAWYER	Roger that.
+298	00:00:00,000 --> 00:00:00,000	MILES	Be nice to her.
+300	00:00:00,000 --> 00:00:00,000	SAWYER	Yeah, yeah...
+302	00:00:00,000 --> 00:00:00,000		[He hangs up and approaches the redhead.]
+304	00:00:00,000 --> 00:00:00,000	SAWYER	Excuse me. Would you be Charlotte?
+306	00:00:00,000 --> 00:00:00,000	CHARLOTTE	I most certainly am.
+308	00:00:00,000 --> 00:00:00,000		[They shake hands.]
+310	00:00:00,000 --> 00:00:00,000	SAWYER	Well... it's a pleasure to meet you, ma'am.
+312	00:00:00,000 --> 00:00:00,000		[Some time later, they are seated at a table ... a waiter brings them some wine.]
+314	00:00:00,000 --> 00:00:00,000	CHARLOTTE	Thank you.
+316	00:00:00,000 --> 00:00:00,000	SAWYER	Archaeology, huh?
+318	00:00:00,000 --> 00:00:00,000	CHARLOTTE	What's wrong with archaeology?
+320	00:00:00,000 --> 00:00:00,000	SAWYER	Nothin'. I just figured you'd be stuck in a room somewhere dustin' off antiques.
+322	00:00:00,000 --> 00:00:00,000		[Charlotte laughs.]
+324	00:00:00,000 --> 00:00:00,000	CHARLOTTE	No, I actually get to travel quite a bit. To far off and romantic places.
+326	00:00:00,000 --> 00:00:00,000	SAWYER	Really? What are you, like a... Indiana Jones or somethin'?
+328	00:00:00,000 --> 00:00:00,000	CHARLOTTE	Yes. I'm exactly like Indiana Jones.
+330	00:00:00,000 --> 00:00:00,000	SAWYER	You got a whip?
+332	00:00:00,000 --> 00:00:00,000	CHARLOTTE	Maybe...
+334	00:00:00,000 --> 00:00:00,000		[They laugh.]
+336	00:00:00,000 --> 00:00:00,000	CHARLOTTE	So, um... what about you?
+338	00:00:00,000 --> 00:00:00,000	SAWYER	What about me?
+340	00:00:00,000 --> 00:00:00,000	CHARLOTTE	Why did you become a cop?
+342	00:00:00,000 --> 00:00:00,000	SAWYER	You ever seen Bullitt? Steve McQueen flick?
+344	00:00:00,000 --> 00:00:00,000	CHARLOTTE	No.
+346	00:00:00,000 --> 00:00:00,000	SAWYER	Well then I won't even bore you with an explanation.
+348	00:00:00,000 --> 00:00:00,000	CHARLOTTE	Okay, do me a favor, James, and don't treat me like all the other girls that ask you. Tell me the truth.
+350	00:00:00,000 --> 00:00:00,000		[Sawyer sighs.]
+352	00:00:00,000 --> 00:00:00,000	SAWYER	Well... I guess I... got to a point in my life where I was either going to become a criminal or a cop. So I chose cop.
+354	00:00:00,000 --> 00:00:00,000		[Charlotte stares at him with a smile.]
+356	00:00:00,000 --> 00:00:00,000	SAWYER	What?
+358	00:00:00,000 --> 00:00:00,000	CHARLOTTE	You know what.
+360	00:00:00,000 --> 00:00:00,000		[Some time later, they have sex at Sawyer's place.]
+362	00:00:00,000 --> 00:00:00,000	CHARLOTTE	Wow... not bad, considering we didn't have that whip.
+364	00:00:00,000 --> 00:00:00,000	SAWYER	Bring it next time.
+366	00:00:00,000 --> 00:00:00,000		[They kiss.]
+368	00:00:00,000 --> 00:00:00,000	SAWYER	You want some water?
+370	00:00:00,000 --> 00:00:00,000	CHARLOTTE	Mmm hmm. Yes please.
+372	00:00:00,000 --> 00:00:00,000		[He gets up to go to the kitchen.]
+374	00:00:00,000 --> 00:00:00,000	CHARLOTTE	You mind if I borrow a t-shirt?
+376	00:00:00,000 --> 00:00:00,000	SAWYER	Help yourself. Top drawer on the right.
+378	00:00:00,000 --> 00:00:00,000	CHARLOTTE	Thanks.
+380	00:00:00,000 --> 00:00:00,000		[Sawyer goes to the kitchen. Charlotte opens a drawer and finds a folder labeled SAWYER. It contains details of Sawyer's parents' deaths.]
+382	00:00:00,000 --> 00:00:00,000	SAWYER	What the hell are you doin'?
+384	00:00:00,000 --> 00:00:00,000		[Charlotte scrambles to put the folder away.]
+386	00:00:00,000 --> 00:00:00,000	CHARLOTTE	Um... I was just looking for a t-shirt...
+388	00:00:00,000 --> 00:00:00,000	SAWYER	What did you see?
+390	00:00:00,000 --> 00:00:00,000	CHARLOTTE	Nothing. Just this, you know, that picture fell out and I was trying to put it back.
+392	00:00:00,000 --> 00:00:00,000	SAWYER	What did you see?!?
+394	00:00:00,000 --> 00:00:00,000	CHARLOTTE	Nothing, I didn't see anything!
+396	00:00:00,000 --> 00:00:00,000	SAWYER	Get the hell out.
+398	00:00:00,000 --> 00:00:00,000	CHARLOTTE	James, just let me explain!
+400	00:00:00,000 --> 00:00:00,000	SAWYER	Get out!
+402	00:00:00,000 --> 00:00:00,000		[Charlotte gathers her things and leaves.]
+404	00:00:00,000 --> 00:00:00,000		[On-Island - Sawyer arrives at Hydra Island and pulls the outrigger ashore. He visits the Hydra station and becomes nostalgic upon finding Kate's dress in one of the polar bear cages.]
+406	00:00:00,000 --> 00:00:00,000		[Back at Locke's camp, Kate approaches Sayid.]
+408	00:00:00,000 --> 00:00:00,000	KATE	Hey.
+410	00:00:00,000 --> 00:00:00,000	SAYID	Kate.
+412	00:00:00,000 --> 00:00:00,000	KATE	Do you believe Locke?
+414	00:00:00,000 --> 00:00:00,000	SAYID	What do you mean?
+416	00:00:00,000 --> 00:00:00,000	KATE	That he can get us off the island...
+418	00:00:00,000 --> 00:00:00,000	SAYID	Yes, I believe him.
+420	00:00:00,000 --> 00:00:00,000	KATE	Sayid, are you alright?
+422	00:00:00,000 --> 00:00:00,000	SAYID	No.
+424	00:00:00,000 --> 00:00:00,000		[Claire suddenly wrestles Kate to the ground and tries to cut her throat.]
+426	00:00:00,000 --> 00:00:00,000	KATE	Claire!
+428	00:00:00,000 --> 00:00:00,000		[Sayid watches the struggle.]
+430	00:00:00,000 --> 00:00:00,000	KATE	Sayid! Sayid, please!
+432	00:00:00,000 --> 00:00:00,000		[Locke finally pulls Claire off.]
+434	00:00:00,000 --> 00:00:00,000	LOCKE	What are you doing?
+436	00:00:00,000 --> 00:00:00,000	CLAIRE	She took him! She took Aaron!
+438	00:00:00,000 --> 00:00:00,000	LOCKE	Claire, you had disappeared! Kate couldn't find you! She did what she had to do!
+440	00:00:00,000 --> 00:00:00,000	CLAIRE	She took Aaron! She can't just do this!
+442	00:00:00,000 --> 00:00:00,000		[Locke slaps Claire.]
+444	00:00:00,000 --> 00:00:00,000	LOCKE	This is completely inappropriate. Alright? Now... you go over there. I'll deal with you in a minute. Go.
+446	00:00:00,000 --> 00:00:00,000		[Claire stumbles away. Locke turns to Kate.]
+448	00:00:00,000 --> 00:00:00,000	LOCKE	You alright?
+450	00:00:00,000 --> 00:00:00,000	KATE	No, I'm not alright!
+452	00:00:00,000 --> 00:00:00,000		[Locke goes over to join Claire.]
+454	00:00:00,000 --> 00:00:00,000		[On Hydra Island, Sawyer finds the Ajira plane. He follows drag marks in the sand to a pile of corpses. A woman runs out of the jungle.]
+456	00:00:00,000 --> 00:00:00,000	SAWYER	Hey, stop!
+458	00:00:00,000 --> 00:00:00,000		[He chases her down and tackles her. He points his gun at her.]
+460	00:00:00,000 --> 00:00:00,000	SAWYER	Don't move!
+462	00:00:00,000 --> 00:00:00,000	ZOE	Please don't hurt me!
+464	00:00:00,000 --> 00:00:00,000	SAWYER	Who the hell are you?
+466	00:00:00,000 --> 00:00:00,000	ZOE	I'm the only one left.
+468	00:00:00,000 --> 00:00:00,000		[Flash sideways - Liam Pace stands in front of a busy officer in the police station.]
+470	00:00:00,000 --> 00:00:00,000	LIAM	Excuse me. Sir? I asked you about my brother...
+472	00:00:00,000 --> 00:00:00,000	OFFICER	I told you, I'll be with you in a minute.
+474	00:00:00,000 --> 00:00:00,000		[Sawyer walks by.]
+476	00:00:00,000 --> 00:00:00,000	LIAM	Hey! Uh... I'm looking for my brother. He was arrested at the airport on a drug charge.
+478	00:00:00,000 --> 00:00:00,000	SAWYER	Sorry, not my department.
+480	00:00:00,000 --> 00:00:00,000		[Miles enters.]
+482	00:00:00,000 --> 00:00:00,000	SAWYER	Mornin', sunshine.
+484	00:00:00,000 --> 00:00:00,000	MILES	Come with me.
+486	00:00:00,000 --> 00:00:00,000		[Sawyer sighs and follows Miles to a locker room. Miles slams Sawyer against the wall.]
+488	00:00:00,000 --> 00:00:00,000	SAWYER	Whoa--
+490	00:00:00,000 --> 00:00:00,000	MILES	Shut up! Is there something you wanna tell me?
+492	00:00:00,000 --> 00:00:00,000	SAWYER	What?!?
+494	00:00:00,000 --> 00:00:00,000	MILES	Is there something you wanna tell me?!?
+496	00:00:00,000 --> 00:00:00,000		[Sawyer sighs.]
+498	00:00:00,000 --> 00:00:00,000	SAWYER	Look, she opened the wrong drawer.
+500	00:00:00,000 --> 00:00:00,000	MILES	What the hell are you talking about? I wanna know what you were doing in Australia when you told me you were in Palm Springs. I ran your credit card. I know you went to Sydney. Oceanic, round trip. You took flight 815 back two days ago.
+502	00:00:00,000 --> 00:00:00,000	SAWYER	What the hell are you doin' runnin' my credit card?
+504	00:00:00,000 --> 00:00:00,000	MILES	You lied to me! We're supposed to trust each other. So, Jim... what were you doing in Australia?
+506	00:00:00,000 --> 00:00:00,000	SAWYER	That's none of your damn business.
+508	00:00:00,000 --> 00:00:00,000	MILES	You know what? You're right. Because I'm not your partner anymore.
+510	00:00:00,000 --> 00:00:00,000		[Miles leaves. Sawyer punches a nearby mirror and shatters it.]
+512	00:00:00,000 --> 00:00:00,000		[On-Island - Sawyer and Zoe sit in the sand.]
+514	00:00:00,000 --> 00:00:00,000	SAWYER	You thirsty?
+516	00:00:00,000 --> 00:00:00,000	ZOE	Very.
+518	00:00:00,000 --> 00:00:00,000		[Sawyer hands her a canteen. She drinks.]
+520	00:00:00,000 --> 00:00:00,000	SAWYER	I'm Sawyer.
+522	00:00:00,000 --> 00:00:00,000	ZOE	I'm Zoe. I can't believe there's anybody left alive. I thought I knew everybody on the plane.
+524	00:00:00,000 --> 00:00:00,000	SAWYER	I didn't come on this plane.
+526	00:00:00,000 --> 00:00:00,000	ZOE	What plane did you come on?
+528	00:00:00,000 --> 00:00:00,000	SAWYER	Long story. What the hell happened here? What killed all those people?
+530	00:00:00,000 --> 00:00:00,000	ZOE	I... we... we crashed here. And we were all just waiting for someone to rescue us. I was out collecting wood when I heard... screaming.
+532	00:00:00,000 --> 00:00:00,000	SAWYER	Screaming?
+534	00:00:00,000 --> 00:00:00,000	ZOE	When I came back... they were... they were all dead. I spent the last two days dragging their bodies up here. I didn't feel it was right to leave them out there in the sun. Are you alone?
+536	00:00:00,000 --> 00:00:00,000	SAWYER	No. There's a group of people back on the main island. I can take you back there.
+538	00:00:00,000 --> 00:00:00,000	ZOE	Thank God...
+540	00:00:00,000 --> 00:00:00,000	SAWYER	Trust me... God's got nothing to do with it.
+542	00:00:00,000 --> 00:00:00,000		[On the main Island, Kate weeps alone. Locke approaches.]
+544	00:00:00,000 --> 00:00:00,000	LOCKE	I'm sorry, Kate.
+546	00:00:00,000 --> 00:00:00,000	KATE	Excuse me?
+548	00:00:00,000 --> 00:00:00,000	LOCKE	I have to take responsibility for Claire's behaviour. I was the one who told her the Others had her baby.
+550	00:00:00,000 --> 00:00:00,000	KATE	Why would you tell her that?
+552	00:00:00,000 --> 00:00:00,000	LOCKE	Have you ever had an enemy? Someone that you needed to hate? Very powerful, isn't it? Claire was devastated without Aaron. She needed something to... something to keep her going. So, I gave her something to hate. And then... when you told her the truth... all those feelings, all that anger that she'd been holding on to for so long... it had to go somewhere.
+554	00:00:00,000 --> 00:00:00,000	KATE	Very insighful... coming from a dead man.
+556	00:00:00,000 --> 00:00:00,000	LOCKE	Well, nobody's perfect. I'm sorry that this happened. And I'm sure if you give her time, everything will be alright. I promised before that I would keep everyone safe. And that means you too, Kate.
+558	00:00:00,000 --> 00:00:00,000	KATE	Where did Sawyer go?
+560	00:00:00,000 --> 00:00:00,000	LOCKE	I'll show you.
+562	00:00:00,000 --> 00:00:00,000		[Sawyer and Zoe walk along the beach on Hydra Island. They see the Ajira plane in the distance.]
+564	00:00:00,000 --> 00:00:00,000	SAWYER	Think that thing'll still fly?
+566	00:00:00,000 --> 00:00:00,000	ZOE	I don't know. It'll take a bit of work and someone who knows how... how to do it. I... I take it you haven't come across the pilot?
+568	00:00:00,000 --> 00:00:00,000	SAWYER	No ma'am.
+570	00:00:00,000 --> 00:00:00,000	ZOE	How many people did you say were with you?
+572	00:00:00,000 --> 00:00:00,000	SAWYER	Couple dozen...
+574	00:00:00,000 --> 00:00:00,000	ZOE	Did they all come on the same plane as you?
+576	00:00:00,000 --> 00:00:00,000	SAWYER	Some. Not all.
+578	00:00:00,000 --> 00:00:00,000	ZOE	When did you crash?
+580	00:00:00,000 --> 00:00:00,000	SAWYER	A long time ago.
+582	00:00:00,000 --> 00:00:00,000	ZOE	Do you all have guns?
+584	00:00:00,000 --> 00:00:00,000		[Sawyer regards her suspiciously.]
+586	00:00:00,000 --> 00:00:00,000	ZOE	I mean... whoever killed all those people back there, they... they might come back.
+588	00:00:00,000 --> 00:00:00,000	SAWYER	Yeah, we got plenty of guns.
+590	00:00:00,000 --> 00:00:00,000		[They reach the outrigger.]
+592	00:00:00,000 --> 00:00:00,000	SAWYER	Wanna grab that end?
+594	00:00:00,000 --> 00:00:00,000		[They start to push the outrigger into the ocean.]
+596	00:00:00,000 --> 00:00:00,000	SAWYER	Where did you say you were headed?
+598	00:00:00,000 --> 00:00:00,000	ZOE	What's that?
+600	00:00:00,000 --> 00:00:00,000	SAWYER	Your flight. Where were you goin'?
+602	00:00:00,000 --> 00:00:00,000	ZOE	Oh. Uh... Guam.
+604	00:00:00,000 --> 00:00:00,000	SAWYER	What's in Guam?
+606	00:00:00,000 --> 00:00:00,000	ZOE	My boyfriend.
+608	00:00:00,000 --> 00:00:00,000		[Sawyer pulls his gun on Zoe.]
+610	00:00:00,000 --> 00:00:00,000	SAWYER	You're good, sweetheart, but you ain't that good.
+612	00:00:00,000 --> 00:00:00,000	ZOE	What are you talking about?
+614	00:00:00,000 --> 00:00:00,000	SAWYER	Who are you?
+616	00:00:00,000 --> 00:00:00,000		[Zoe whistles and several armed men step out of the jungle.]
+618	00:00:00,000 --> 00:00:00,000	MAN	Put your weapon down! Drop it, now!
+620	00:00:00,000 --> 00:00:00,000		[Sawyer hands his gun to Zoe.]
+622	00:00:00,000 --> 00:00:00,000	SAWYER	Is your name even Zoe?
+624	00:00:00,000 --> 00:00:00,000	ZOE	Is yours Sawyer?
+626	00:00:00,000 --> 00:00:00,000		[The armed men encircle Sawyer.]
+628	00:00:00,000 --> 00:00:00,000	MAN	Down on your knees!
+630	00:00:00,000 --> 00:00:00,000	SAWYER	Alright, alright... you got me. Take me to your leader.
+632	00:00:00,000 --> 00:00:00,000		[On the main Island, Kate and Locke walk onto the beach and sit down.]
+634	00:00:00,000 --> 00:00:00,000	LOCKE	That island over there... that's where I sent Sawyer.
+636	00:00:00,000 --> 00:00:00,000	KATE	You could have just told me that you sent him to the island where we were locked in cages, you didn't have to bring me down here.
+638	00:00:00,000 --> 00:00:00,000	LOCKE	Sure, but then I wouldn't have gotten to talk to you. You referred to me as a dead man. I am not a dead man. I know what you're feeling, Kate. I know what you're going through.
+640	00:00:00,000 --> 00:00:00,000	KATE	And how do you know that?
+642	00:00:00,000 --> 00:00:00,000	LOCKE	Because... my mother was crazy. Long time ago, before I... looked like this... I had a mother, just like everyone. She was a very disturbed woman. And, as a result of that, I had some growing pains. Problems that I'm still trying to work my way through. Problems that could have been avoided had things been different.
+644	00:00:00,000 --> 00:00:00,000	KATE	Why are you telling me this?
+646	00:00:00,000 --> 00:00:00,000	LOCKE	Because now Aaron has a crazy mother too.
+648	00:00:00,000 --> 00:00:00,000		[On Hydra Island, Sawyer is marched to a docked submarine ... crewmen are erecting a sonic barrier.]
+650	00:00:00,000 --> 00:00:00,000	ZOE	Get in. He's waiting for you.
+652	00:00:00,000 --> 00:00:00,000		[Sawyer climbs into the sub.]
+654	00:00:00,000 --> 00:00:00,000		[Flash sideways - Sawyer comes home and watches Little House On The Prairie.]
+656	00:00:00,000 --> 00:00:00,000	LAURA	It's not me I'm worried about. I just don't know what I would do if anything ever happened to you or Ma.
+658	00:00:00,000 --> 00:00:00,000	CHARLES	Anyway, nothing's gonna happen to us. Not today, anyway. That's the way you live this life. Each day, one at a time. Now, if you spend your whole life worryin' about something that's gonna happen, before you know it, your life's over and you spent an awful lot of it just worryin'.
+660	00:00:00,000 --> 00:00:00,000		[Laughter is heard in the background on the show.]
+662	00:00:00,000 --> 00:00:00,000	CHARLES	Hey, you heard that? Now that's what life's all about. Laughin' and lovin' each other. And knowin' that people aren't really gone when they die. We have all the good memories to sustain us until we see 'em again.
+664	00:00:00,000 --> 00:00:00,000	LAURA	It's hard not being afraid, Pa...
+666	00:00:00,000 --> 00:00:00,000	CHARLES	I know, sweetheart. I know.
+668	00:00:00,000 --> 00:00:00,000		[Some time later, Sawyer knocks at a door with some beer and a sunflower in his hand. Charlotte answers and he offers her the flower.]
+670	00:00:00,000 --> 00:00:00,000	CHARLOTTE	You've got to be joking.
+672	00:00:00,000 --> 00:00:00,000	SAWYER	May I come in?
+674	00:00:00,000 --> 00:00:00,000	CHARLOTTE	Absolutely not.
+676	00:00:00,000 --> 00:00:00,000	SAWYER	Why not?
+678	00:00:00,000 --> 00:00:00,000	CHARLOTTE	You don't get to kick me out at three o'clock in the morning and then come around the next day with puppy dog eyes and a sad sunflower. Look, I don't know if you're just lonely, or guilty, or completely mad... but, you know what? I don't care. You blew it.
+680	00:00:00,000 --> 00:00:00,000		[Charlotte closes the door. Sawyer leaves the sunflower and walks away.]
+682	00:00:00,000 --> 00:00:00,000		[On-Island - Zoe leads Sawyer through the sub. He tugs at a locked door.]
+684	00:00:00,000 --> 00:00:00,000	SAWYER	What do you got in here?
+686	00:00:00,000 --> 00:00:00,000	ZOE	None of your business. Keep moving.
+688	00:00:00,000 --> 00:00:00,000		[Zoe knocks on a door. A man on the other side replies.]
+690	00:00:00,000 --> 00:00:00,000	WIDMORE	Come.
+692	00:00:00,000 --> 00:00:00,000		[Zoe enters the room.]
+694	00:00:00,000 --> 00:00:00,000	ZOE	He's here, sir.
+696	00:00:00,000 --> 00:00:00,000	WIDMORE	Thanks, Zoe.
+698	00:00:00,000 --> 00:00:00,000		[Sawyer enters the room.]
+700	00:00:00,000 --> 00:00:00,000	WIDMORE	Would you leave us please?
+702	00:00:00,000 --> 00:00:00,000	ZOE	Of course.
+704	00:00:00,000 --> 00:00:00,000		[Zoe exits the room. Widmore offers his hand to Sawyer.]
+706	00:00:00,000 --> 00:00:00,000	WIDMORE	Hello, Mr. Ford. My name is Charles Widmore.
+708	00:00:00,000 --> 00:00:00,000		[Sawyer does not shake his hand.]
+710	00:00:00,000 --> 00:00:00,000	WIDMORE	Do you know who I am?
+712	00:00:00,000 --> 00:00:00,000	SAWYER	Of course I do. You're the fella that sent a freighter to the island loaded with guys to kill us all.
+714	00:00:00,000 --> 00:00:00,000	WIDMORE	It's sad, really... how little you actually know.
+716	00:00:00,000 --> 00:00:00,000	SAWYER	Well, I know you murdered all them people out there and dropped 'em in a ditch.
+718	00:00:00,000 --> 00:00:00,000	WIDMORE	We didn't murder those people. But I don't expect you to believe that.
+720	00:00:00,000 --> 00:00:00,000	SAWYER	Good, I don't.
+722	00:00:00,000 --> 00:00:00,000	WIDMORE	So, why don't you tell me what brought you over to this island.
+724	00:00:00,000 --> 00:00:00,000	SAWYER	John Locke sent me.
+726	00:00:00,000 --> 00:00:00,000	WIDMORE	John Locke's dead.
+728	00:00:00,000 --> 00:00:00,000	SAWYER	I think we both know the guy I'm talking about's not really Locke. Here's the deal, Chief... I'll go back over there and tell him the coast is clear, that I didn't find anybody. Then I'll bring the old man right to your doorstep... then you can kill him.
+730	00:00:00,000 --> 00:00:00,000		[Widmore's face reveals the hint of a smile.]
+732	00:00:00,000 --> 00:00:00,000	WIDMORE	And what do you want in exchange, James?
+734	00:00:00,000 --> 00:00:00,000	SAWYER	One: The people I come back with, people on my boat don't get touched. Not even a hair on their head. And two: You give us safe passage off the Island.
+736	00:00:00,000 --> 00:00:00,000	WIDMORE	How do I know I can trust you?
+738	00:00:00,000 --> 00:00:00,000	SAWYER	Same way I know I can trust you. So, do we have an agreement?
+740	00:00:00,000 --> 00:00:00,000		[Thay shake hands.]
+742	00:00:00,000 --> 00:00:00,000	WIDMORE	I suppose we do.
+744	00:00:00,000 --> 00:00:00,000		[Over on the main Island, Kate is walking through the jungle and enounters Claire.]
+746	00:00:00,000 --> 00:00:00,000	CLAIRE	Kate. I just wanna say I'm sorry. I don't know why I did that. I know everything you did was just 'cause you care about me and about Aaron. Thank you. And thank you for taking care of him.
+748	00:00:00,000 --> 00:00:00,000		[They embrace.]
+750	00:00:00,000 --> 00:00:00,000	CLAIRE	I'm sorry, I'm so, so, sorry.
+752	00:00:00,000 --> 00:00:00,000	KATE	It's okay. It's okay.
+754	00:00:00,000 --> 00:00:00,000		[At the shore, Sawyer arrives in the outrigger. Locke runs to help him ashore.]
+756	00:00:00,000 --> 00:00:00,000	LOCKE	How'd it go?
+758	00:00:00,000 --> 00:00:00,000	SAWYER	You didn't really send me over there to find passengers from that plane, did you?
+760	00:00:00,000 --> 00:00:00,000	LOCKE	No.
+762	00:00:00,000 --> 00:00:00,000	SAWYER	Well in case you're interested, they're all dead.
+764	00:00:00,000 --> 00:00:00,000	LOCKE	Well that's terrible. What happened?
+766	00:00:00,000 --> 00:00:00,000	SAWYER	I don't know.
+768	00:00:00,000 --> 00:00:00,000	LOCKE	Well what do you know, James?
+770	00:00:00,000 --> 00:00:00,000	SAWYER	I know there's a man over there on that island that ain't gonna let us get on that plane without a fight. Came over on a sub. Name's Widmore.
+772	00:00:00,000 --> 00:00:00,000	LOCKE	Charles Widmore?
+774	00:00:00,000 --> 00:00:00,000	SAWYER	Well, I guess y'all know each other. He ain't alone. Counted at least six armed compadres with him, not to mention whatever crew's on that sub. There's a locked room on there, something they're hiding. And they're setting up pylons, like the ones in New Otherton. You know, ones that keep out that smoke thing.
+776	00:00:00,000 --> 00:00:00,000	LOCKE	Now what did you tell them about me?
+778	00:00:00,000 --> 00:00:00,000	SAWYER	I told 'em I'd tell you the coast was clear, and bring you back with me...walk you right into their trap. That way they could kill you. Which means they'll be caught with their pants down when we change our plan of attack.
+780	00:00:00,000 --> 00:00:00,000	LOCKE	I appreciate your loyalty, James.
+782	00:00:00,000 --> 00:00:00,000	SAWYER	You said you were gonna get me off this Island. Deal's a deal.
+784	00:00:00,000 --> 00:00:00,000		[Locke nods.]
+786	00:00:00,000 --> 00:00:00,000		[Flash sideways - Sawyer pulls up as Miles is leaving the Police station.]
+788	00:00:00,000 --> 00:00:00,000	MILES	What are you doing here?
+790	00:00:00,000 --> 00:00:00,000	SAWYER	Get in the car.
+792	00:00:00,000 --> 00:00:00,000		[Miles gets in the car, Sawyer hands him a folder labelled "SAWYER".]
+794	00:00:00,000 --> 00:00:00,000	MILES	Who's Sawyer?
+796	00:00:00,000 --> 00:00:00,000	SAWYER	When I was nine years old...my father shot my mother, then he killed himself. Sawyer was the reason why. He was a grifter...con man. I've been hunting him down since the day I left the academy. I chased down a lead in Australia, got a name - Anthony Cooper - I ran the name, I got a list of Anthony Coopers and I've been calling them. And when I find the right one...I'm gonna kill him.
+798	00:00:00,000 --> 00:00:00,000	MILES	Why didn't you tell me any of this?
+800	00:00:00,000 --> 00:00:00,000	SAWYER	I knew you'd try to talk me out of it.
+802	00:00:00,000 --> 00:00:00,000	MILES	Damn right.
+804	00:00:00,000 --> 00:00:00,000	SAWYER	Fair enough.
+806	00:00:00,000 --> 00:00:00,000		[Suddenly another car crashes into Sawyer's.]
+808	00:00:00,000 --> 00:00:00,000	SAWYER	Whoa! My car!
+810	00:00:00,000 --> 00:00:00,000		[A hooded figure gets out of the other car and runs away toward an alley.]
+812	00:00:00,000 --> 00:00:00,000	SAWYER	Hey!
+814	00:00:00,000 --> 00:00:00,000		[Sawyer drives around the block and grabs the runner at the other end of the alley. The runner is Kate.]
+816	00:00:00,000 --> 00:00:00,000	SAWYER	Son of a bitch.
+818	00:00:00,000 --> 00:00:00,000		[On-Island - Kate is cooking something on a campfire. Sawyer approaches.]
+820	00:00:00,000 --> 00:00:00,000	SAWYER	What's for dinner?
+822	00:00:00,000 --> 00:00:00,000	KATE	Rabbit. I think.
+824	00:00:00,000 --> 00:00:00,000	SAWYER	Good, I'm starving.
+826	00:00:00,000 --> 00:00:00,000		[He sits beside Kate.]
+828	00:00:00,000 --> 00:00:00,000	KATE	What are you doing running errands for Locke?
+830	00:00:00,000 --> 00:00:00,000	SAWYER	I ain't running errands for nobody.
+832	00:00:00,000 --> 00:00:00,000	KATE	He said he sent you over to the other island. Did you find the plane?
+834	00:00:00,000 --> 00:00:00,000	SAWYER	Yeah, and that ain't the only thing over there. Guy named Widmore set up camp over on the beach. Got a whole team with him - guys with guns - they're here for Locke.
+836	00:00:00,000 --> 00:00:00,000	KATE	So what are you gonna do?
+838	00:00:00,000 --> 00:00:00,000	SAWYER	I'm gonna let them fight it out. And while they got their hands full with each other...you and me are getting the hell off this Island.
+840	00:00:00,000 --> 00:00:00,000	KATE	Even if we could get on that plane, who's gonna fly it?
+842	00:00:00,000 --> 00:00:00,000	SAWYER	We ain't taking the plane, Freckles. Taking the sub.

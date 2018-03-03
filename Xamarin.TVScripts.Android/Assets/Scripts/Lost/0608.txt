@@ -1,0 +1,415 @@
+Ab Aeterno
+2	00:00:00,000 --> 00:00:00,000	Written by	Melinda Hsu Taylor & Gregg Nations
+4	00:00:00,000 --> 00:00:00,000	Directed by	Tucker Gates
+6	00:00:00,000 --> 00:00:00,000		[Flashback - Ilana opens her eyes in a hospital bed. Jacob enters and sits down in front of her, they begin speaking in Russian.]
+8	00:00:00,000 --> 00:00:00,000	JACOB	ÃËœÃÂ·ÃÂ²ÃÂ¸ÃÂ½ÃÂ¸, Ã‘â€¡Ã‘â€šÃÂ¾ ÃÂ½ÃÂµ Ã‘ÂÃÂ¼ÃÂ¾ÃÂ³ ÃÂ¿Ã‘â‚¬ÃÂ¸ÃÂ¹Ã‘â€šÃÂ¸ Ã‘â‚¬ÃÂ°ÃÂ½Ã‘Å’Ã‘Ë†ÃÂµ [Subtitle: I'm sorry I couldn't make it sooner.]
+10	00:00:00,000 --> 00:00:00,000	ILANA	ÃÂ¯ ÃÂ¾Ã‘â€¡ÃÂµÃÂ½Ã‘Å’ Ã‘â‚¬ÃÂ°ÃÂ´ÃÂ° Ã‘â€šÃÂµÃÂ±Ã‘Â ÃÂ²ÃÂ¸ÃÂ´ÃÂµÃ‘â€šÃ‘Å’ [Subtitle: I'm very happy to see you.]
+12	00:00:00,000 --> 00:00:00,000		[They switch to English.]
+14	00:00:00,000 --> 00:00:00,000	JACOB	I'm here because I need your help. Will you help me, Ilana?
+16	00:00:00,000 --> 00:00:00,000	ILANA	Yes.
+18	00:00:00,000 --> 00:00:00,000	JACOB	There are six people I need you to protect. I'm gonna give you a list of their names. This is what you've been preparing for.
+20	00:00:00,000 --> 00:00:00,000	ILANA	Are these people... who are they?
+22	00:00:00,000 --> 00:00:00,000	JACOB	They're the remaining candidates.
+24	00:00:00,000 --> 00:00:00,000		[Present - Ilana, Ben, Hurley, Frank, Sun and Jack sit round a beach campfire.]
+26	00:00:00,000 --> 00:00:00,000	JACK	Candidates? Candidates for what?
+28	00:00:00,000 --> 00:00:00,000	SUN	To replace Jacob. She said I was one of them and so are you and so is Hurley.
+30	00:00:00,000 --> 00:00:00,000	LAPIDUS	Well, that's great. So what do we do now?
+32	00:00:00,000 --> 00:00:00,000	ILANA	I don't know.
+34	00:00:00,000 --> 00:00:00,000	JACK	Then, who does?
+36	00:00:00,000 --> 00:00:00,000		[Flashback - Ilana is no longer in bed.]
+38	00:00:00,000 --> 00:00:00,000	ILANA	After I've brought them to the temple, what do I do?
+40	00:00:00,000 --> 00:00:00,000	JACOB	Ask Ricardus, he'll know what to do next.
+42	00:00:00,000 --> 00:00:00,000		[Present - The group are still gathered around the campfire.]
+44	00:00:00,000 --> 00:00:00,000	HURLEY	Who's Ricardus?
+46	00:00:00,000 --> 00:00:00,000		[Ilana points to Richard.]
+48	00:00:00,000 --> 00:00:00,000	ILANA	He is. So, Richard, what do we do next?
+50	00:00:00,000 --> 00:00:00,000	RICHARD	[Laughs] Uhh.. I have no idea what we do next. You didn't tell your friends that I was trying to kill myself when you found me? That sounds like someone who has a plan?
+52	00:00:00,000 --> 00:00:00,000	ILANA	Why would Jacob say you knew what to do if--
+54	00:00:00,000 --> 00:00:00,000	RICHARD	Because everything he ever said is a lie.
+56	00:00:00,000 --> 00:00:00,000	JACK	What are you talking about?
+58	00:00:00,000 --> 00:00:00,000		[Richard stares at Jack for a few seconds.]
+60	00:00:00,000 --> 00:00:00,000	RICHARD	You wanna know a secret, Jack? Something I've known a long, long time. You're dead.
+62	00:00:00,000 --> 00:00:00,000	HURLEY	You mean that figuratively right?
+64	00:00:00,000 --> 00:00:00,000	RICHARD	No, I mean literally. We are all dead, every single one of us. And this, this, all this, it's not what you think it is. We're not on an island, we never were. We're in Hell. So, I'm not interested in what Jacob said. In fact, maybe it's time to stop listening to him, and we started listening to someone else, and that's exactly what I'm gonna do.
+66	00:00:00,000 --> 00:00:00,000		[There is a long pause as Richard gets up, takes his torch, and heads toward the jungle.]
+68	00:00:00,000 --> 00:00:00,000		[Richard is running through the Jungle.]
+70	00:00:00,000 --> 00:00:00,000		[Ilana loads a gun.]
+72	00:00:00,000 --> 00:00:00,000	JACK	What are you doing?
+74	00:00:00,000 --> 00:00:00,000	ILANA	I'm going after Richard.
+76	00:00:00,000 --> 00:00:00,000	JACK	Why? You heard him he doesn't... doesn't know what we need to do next.
+78	00:00:00,000 --> 00:00:00,000	ILANA	He knows! Jacob told me. He has to know.
+80	00:00:00,000 --> 00:00:00,000	JACK	Alpert has lost his mind. He thinks that we're, we're in hell. If he cared about what Jacob said, he wouldn't be talking about, about listening to someone else.
+82	00:00:00,000 --> 00:00:00,000		[Ilana walks away toward the camp.]
+84	00:00:00,000 --> 00:00:00,000	JACK	Wait, you know who he meant?
+86	00:00:00,000 --> 00:00:00,000	BEN	Oh, this should be interesting.
+88	00:00:00,000 --> 00:00:00,000	JACK	What?
+90	00:00:00,000 --> 00:00:00,000	SUN	He meant Locke.
+92	00:00:00,000 --> 00:00:00,000	JACK	Locke is dead.
+94	00:00:00,000 --> 00:00:00,000	BEN	If it's any consolation, it's not exactly Locke.
+96	00:00:00,000 --> 00:00:00,000		[Meanwhile, Hurley is near the shore, talking to someone we can't see in Spanish.]
+98	00:00:00,000 --> 00:00:00,000	HURLEY	¿Por quÃƒÂ©? Que no sÃƒÂ©. SÃƒÂ­, yo te puedo ayudar, pero yo no sÃƒÂ© como encontrarlo si no sÃƒÂ© cÃƒÂ³mo.... [English] Why? I don't know. Yes, I can help you, but... I don't know how to find him.
+100	00:00:00,000 --> 00:00:00,000	JACK	Hurley! What's he saying?
+102	00:00:00,000 --> 00:00:00,000	HURLEY	Uh, what's who saying?
+104	00:00:00,000 --> 00:00:00,000	JACK	Jacob, I saw you talking to him.
+106	00:00:00,000 --> 00:00:00,000	HURLEY	I'm not talking to Jacob.
+108	00:00:00,000 --> 00:00:00,000	JACK	Don't lie to me. Please, if you know something, anything that can help us figure out--
+110	00:00:00,000 --> 00:00:00,000	HURLEY	It's not Jacob, man!
+112	00:00:00,000 --> 00:00:00,000	JACK	Then, who is it?
+114	00:00:00,000 --> 00:00:00,000	Hurley	Sorry Jack, but this has nothing to do with you.
+116	00:00:00,000 --> 00:00:00,000		[Hurley walks toward the campfire.]
+118	00:00:00,000 --> 00:00:00,000	BEN	Shephard is right, you know.
+120	00:00:00,000 --> 00:00:00,000	ILANA	Right about what?
+122	00:00:00,000 --> 00:00:00,000	BEN	Richard. Going after him is a waste of time. He doesn't know anything.
+124	00:00:00,000 --> 00:00:00,000	ILANA	And what makes you so sure?
+126	00:00:00,000 --> 00:00:00,000	BEN	I've known him since I was twelve years old, that should count for something.
+128	00:00:00,000 --> 00:00:00,000	LAPIDUS	So you guys met when you were kids, huh?
+130	00:00:00,000 --> 00:00:00,000	BEN	No Frank, I was a kid. Richard looked just like he does today.
+132	00:00:00,000 --> 00:00:00,000	LAPIDUS	You're saying this guy doesn't age.
+134	00:00:00,000 --> 00:00:00,000	BEN	That's exactly what I'm saying.
+136	00:00:00,000 --> 00:00:00,000	LAPIDUS	And how the hell do you think that happened?
+138	00:00:00,000 --> 00:00:00,000		[Flashback - Screen text: "Tenerife, Canary Islands, 1867". Richard is riding on horseback towards a stone cottage. He enters and approaches Isabella who is sick in bed.]
+140	00:00:00,000 --> 00:00:00,000	ISABELLA	¿Eres tÃƒÂº, Ricardo? [Subtitle: Is that you Ricardo?]
+142	00:00:00,000 --> 00:00:00,000	RICHARD	SÃƒÂ­, soy yo. [Subtitle: Yes, it's me.]
+144	00:00:00,000 --> 00:00:00,000	RICHARD	Vuelve a dormir, Isabella. [Subtitle: Go back to sleep, Isabella.]
+146	00:00:00,000 --> 00:00:00,000	RICHARD	EstÃƒÂ¡s hirviendo. [Subtitle: You're burning up--]
+148	00:00:00,000 --> 00:00:00,000		[He cools her forehead with a damp cloth.]
+150	00:00:00,000 --> 00:00:00,000	ISABELLA	Estoy bien. [Subtitle: I'm all right.]
+152	00:00:00,000 --> 00:00:00,000		[She coughs into the cloth. Ricardo sees blood on it.]
+154	00:00:00,000 --> 00:00:00,000	RICHARD	Voy a buscar al doctor. Si Dios quiere, mi amor, regreso antes del amanecer. [Subtitle: I'm going to get a doctor. God willing, I'll be back before the dawn.]
+156	00:00:00,000 --> 00:00:00,000		[He gathers up some coins.]
+158	00:00:00,000 --> 00:00:00,000	RICHARD	Espero que tengamos suficiente. [Subtitle: I pray that we have enough.]
+160	00:00:00,000 --> 00:00:00,000		[She hands him a silver cross from around her neck.]
+162	00:00:00,000 --> 00:00:00,000	ISABELLA	Dale esto al doctor. [Subtitle: Give this to the doctor--]
+164	00:00:00,000 --> 00:00:00,000	RICARDO	No, no, no, no, Isabella, no. [Subtitle: No, Isabella--]
+166	00:00:00,000 --> 00:00:00,000	ISABELLA	TÃƒÂ³malo, mi amor. [Subtitle: Take it, my love.]
+168	00:00:00,000 --> 00:00:00,000	RICHARD	Si algo te pasa... [Subtitle: If anything ever happened to you--]
+170	00:00:00,000 --> 00:00:00,000	ISABELLA	Cierra tus ojos. Siempre estaremos juntos. [Subtitle: Close your eyes. We'll always be together.]
+172	00:00:00,000 --> 00:00:00,000		[She kisses his cheek.]
+174	00:00:00,000 --> 00:00:00,000	RICHARD	Te voy a salvar. [Subtitle: I will save you.]
+176	00:00:00,000 --> 00:00:00,000		[Richard rides through the rain on horseback, reaches a house and enters.]
+178	00:00:00,000 --> 00:00:00,000	SERVANT	¡No, no puede entrar, no! ¡No puede usted, no debe entrar, no puede pasar! [Subtitle: You can't come in. You can't be here--]
+180	00:00:00,000 --> 00:00:00,000	RICHARD	PerdÃƒÂ³n, perdÃƒÂ³n... PerdÃƒÂ³neme usted, pero no podÃƒÂ­a esperar, mi mujer estÃƒÂ¡ muy enferma, seÃƒÂ±or. [Subtitle: Forgive me, but I couldn't wait. My wife is very sick, sir.]
+182	00:00:00,000 --> 00:00:00,000	DOCTOR	Dale unas cobijas. [Subtitle: Get him some blankets.]
+184	00:00:00,000 --> 00:00:00,000	RICHARD	MuchÃƒÂ­simas gracias, seÃƒÂ±or. [Subtitle: Thank you, sir.]
+186	00:00:00,000 --> 00:00:00,000	DOCTOR	No son para ti, me estÃƒÂ¡s goteando el piso. [Subtitle: It's not for you. You're dripping water on my floor.]
+188	00:00:00,000 --> 00:00:00,000	RICHARD	Mi esposa estÃƒÂ¡ tosiendo sangre. Ella lo necesita, por favor, seÃƒÂ±or. [Subtitle: My wife is coughing blood. She needs you --please, sir...]
+190	00:00:00,000 --> 00:00:00,000	DOCTOR	¿DÃƒÂ³nde viven? [Subtitle: Where do you live?]
+192	00:00:00,000 --> 00:00:00,000	RICHARD	Cerca de El Socorro. [Subtitle: Near El Socorro.]
+194	00:00:00,000 --> 00:00:00,000	DOCTOR	¿El Socorro? Ese es un viaje de medio dÃƒÂ­a. Yo no voy a cabalgar hasta allÃƒÂ¡ con esta lluvia torrencial. Tengo una medicina que le puede salvar la vida, pero es muy cara. [Subtitle: El Socorro? That's a half day's journey. I'm not riding all the way out there in the pouring rain. I have medicine that can save her life...but it's very expensive.]
+196	00:00:00,000 --> 00:00:00,000	RICHARD	SÃƒÂ­, sÃƒÂ­, claro, lo que sea. SÃƒÂ­, muchÃƒÂ­simas gracias, seÃƒÂ±or. [Subtitle: Yes, of course. Anything. Thank you, sir [sic].]
+198	00:00:00,000 --> 00:00:00,000		[Richard hands over his coins.]
+200	00:00:00,000 --> 00:00:00,000	DOCTOR	¿Esto es todo lo que tienes? [Subtitle: Is this all you have?]
+202	00:00:00,000 --> 00:00:00,000		[Richard hands over the silver cross.]
+204	00:00:00,000 --> 00:00:00,000	RICHARD	Ahora lo tiene todo. [Subtitle: Now you have everything.]
+206	00:00:00,000 --> 00:00:00,000		[The doctor examines the cross and tosses it aside.]
+208	00:00:00,000 --> 00:00:00,000	DOCTOR	Esto no vale nada. [Subtitle: This is worthless.]
+210	00:00:00,000 --> 00:00:00,000	RICHARD	No, no, no. No, por favor, seÃƒÂ±or. HarÃƒÂ© lo que sea para pagarle. Por favor, se lo ruego... [Subtitle: Please, please, sir...I'll work off the debt, I beg of you!]
+212	00:00:00,000 --> 00:00:00,000	DOCTOR	¡SuÃƒÂ©ltame! ¡QuÃƒÂ­tame las manos de encima! ¡Te he dicho..! ¡QuÃƒÂ­tame las manos de encima! [Subtitle: Let go of me! Get your hands off of me!]
+214	00:00:00,000 --> 00:00:00,000		[They struggle, Richard flings the doctor who hits his head against a table and dies. The servant sees Richard run out with a vial of medicine. Richard returns to his cottage.]
+216	00:00:00,000 --> 00:00:00,000	RICHARD	Isabella, Isabella.
+218	00:00:00,000 --> 00:00:00,000		[He prepares to administer the medicine, but realises she has died. He weeps. A constable knocks on the door and enters.]
+220	00:00:00,000 --> 00:00:00,000		[Richard is now in a jail cell reading a Bible. A priest enters.]
+222	00:00:00,000 --> 00:00:00,000	FATHER SUAREZ	Te traje un poco de comida, hijo mÃƒÂ­o. [Subtitle: I brought you some food, my son.]
+224	00:00:00,000 --> 00:00:00,000	RICHARD	No tengo hambre, padre. [Subtitle: I'm not hungry, father.]
+226	00:00:00,000 --> 00:00:00,000	FATHER SUAREZ	Tal vez la tendrÃƒÂ¡s despuÃƒÂ©s. ¿Me permites ver tu Biblia? [Subtitle: Perhaps you will be later. May I see your Bible?]
+228	00:00:00,000 --> 00:00:00,000		[Richard hands over the Bible. The priest opens it (apparently randomly) to show Luke 4:24 - 29, Luke 4:11 - 16 is also partially visible.]
+230	00:00:00,000 --> 00:00:00,000	FATHER SUAREZ	¿EstÃƒÂ¡ en inglÃƒÂ©s? [Subtitle: This is in English?]
+232	00:00:00,000 --> 00:00:00,000	RICHARD	SÃƒÂ­. Yo me he estado enseÃƒÂ±ando yo mismo. Isabella... mi esposa y yo ÃƒÂ­bamos a ir al Nuevo Mundo. QuerÃƒÂ­amos comenzar una familia, una vida nueva. [Subtitle: Yes...I've been teaching myself. Isabella...my wife and I were going to travel to the New World. We wanted to start a family. A new life.]
+234	00:00:00,000 --> 00:00:00,000	FATHER SUAREZ	¿EstÃƒÂ¡s listo para confesarte? [Subtitle: Are you prepared to make your confession?]
+236	00:00:00,000 --> 00:00:00,000		[Richard kneels and crosses himself.]
+238	00:00:00,000 --> 00:00:00,000	RICHARD	In Nomine Patris et Filii et Spiritus Sancti. AmÃƒÂ©n. PerdÃƒÂ³neme, padre, porque he pecado. Padre, yo... yo matÃƒÂ© a un hombre. De verdad me arrepiento. Y le ruego, le ruego, padre, por el perdÃƒÂ³n de Dios. [Subtitle: Forgive me, Father, for I have sinned. Father, I... killed a man. I am truly sorry. And I beg of you, Father, for God's forgiveness.]
+240	00:00:00,000 --> 00:00:00,000	FATHER SUAREZ	No.
+242	00:00:00,000 --> 00:00:00,000	RICHARD	¿CÃƒÂ³mo? [Subtitle: What?]
+244	00:00:00,000 --> 00:00:00,000	FATHER SUAREZ	No te puedo otorgar la absoluciÃƒÂ³n por un asesinato. [Subtitle: I cannot grant you absolution for murder.]
+246	00:00:00,000 --> 00:00:00,000	RICHARD	Padre, fue un accidente, yo no querÃƒÂ­a matar a ese seÃƒÂ±or. [Subtitle: Father it was an accident. I didn't mean to kill him.]
+248	00:00:00,000 --> 00:00:00,000	FATHER SUAREZ	Pero lo hiciste. [Subtitle: But you did.]
+250	00:00:00,000 --> 00:00:00,000	RICHARD	Por favor, Padre, debe de haber alguna manera para recibir el perdÃƒÂ³n de Dios [Subtitle: Please, Father...there must be some way to earn God's forgiveness.]
+252	00:00:00,000 --> 00:00:00,000	FATHER SUAREZ	La ÃƒÂºnica manera de regresar a Su gracia es a travÃƒÂ©s de la penitencia. [Subtitle: The only way to return to his grace is through penance.]
+254	00:00:00,000 --> 00:00:00,000	RICHARD	SÃƒÂ­, claro, harÃƒÂ© lo que sea. [Subtitle: Yes, of course...I'll do anything.]
+256	00:00:00,000 --> 00:00:00,000	FATHER SUAREZ	¡Pero tÃƒÂº no tienes tiempo para nada! Porque maÃƒÂ±ana... maÃƒÂ±ana te van a colgar. [Subtitle: You don't have time to do anything. Because tomorrow...they're going to hang you.]
+258	00:00:00,000 --> 00:00:00,000	FATHER SUAREZ	No, hijo mÃƒÂ­o. Me temo que el diablo te espera en el infierno. Que Dios tenga misericordia de tu alma. [Subtitle: No, my son. I'm afraid the devil[sic] awaits you in hell[sic]. May God have mercy on your soul.]
+260	00:00:00,000 --> 00:00:00,000		[In the morning, Father Saurez comes with two gaurds.]
+262	00:00:00,000 --> 00:00:00,000	FATHER SUAREZ	VÃƒÂ©ndenle los ojos. [Subtitle: Blindfold him.]
+264	00:00:00,000 --> 00:00:00,000		[They blindfold him and take him from his cell. Along the way they meet Jonas Whitfield.]
+266	00:00:00,000 --> 00:00:00,000	RICHARD	SeÃƒÂ±or, por favor, perdona mis pecados, estoy penitente y arrepentido (x4, not clear) [Subtitle: Lord, please, forgive my sins, I'm penitent and regretful.]
+268	00:00:00,000 --> 00:00:00,000	JONAS	Is this him?
+270	00:00:00,000 --> 00:00:00,000	FATHER SUAREZ	Yes.
+272	00:00:00,000 --> 00:00:00,000		[Jonas examines Richard's hands, then his teeth. Richard struggles.]
+274	00:00:00,000 --> 00:00:00,000	RICHARD	¿QuÃƒÂ© estÃƒÂ¡n haciendo?
+276	00:00:00,000 --> 00:00:00,000	PRIEST	¡Estate quieto!
+278	00:00:00,000 --> 00:00:00,000	JONAS	You say he speaks English?
+280	00:00:00,000 --> 00:00:00,000	FATHER SUAREZ	Yes, Mr Whitfield.
+282	00:00:00,000 --> 00:00:00,000	JONAS	Do you speak English?
+284	00:00:00,000 --> 00:00:00,000		[Richard does not respond.]
+286	00:00:00,000 --> 00:00:00,000	JONAS	I asked do you speak English? Take him away and bring me another. Hang him.
+288	00:00:00,000 --> 00:00:00,000	RICHARD	Yes! I speak English! I speak English!
+290	00:00:00,000 --> 00:00:00,000	JONAS	Wait! You have strong hands, what sort of work did you do?
+292	00:00:00,000 --> 00:00:00,000	RICHARD	I worked...I worked in the fields.
+294	00:00:00,000 --> 00:00:00,000	JONAS	I understand you were interested in going to the New World?
+296	00:00:00,000 --> 00:00:00,000	RICHARD	Yes.
+298	00:00:00,000 --> 00:00:00,000	JONAS	Well then, this is your lucky day. Thank you Father.
+300	00:00:00,000 --> 00:00:00,000		[He hands the priest a bag of coins.]
+302	00:00:00,000 --> 00:00:00,000	JONAS	This man is now the property of Captain Magnus Hanso. Hope you don't get seasick.
+304	00:00:00,000 --> 00:00:00,000		[At sea, the Black Rock is sailing very large waves in a heavy storm in the night. Several men, including Richard, are chained up below deck.]
+306	00:00:00,000 --> 00:00:00,000	RICHARD	Ignacio. ¿Puedes ver algo? [Subtitle: Can you see anything?]
+308	00:00:00,000 --> 00:00:00,000	IGNACIO	EstÃƒÂ¡ demasiado oscuro. ¡Espera, puedo ver tierra! ¡Veo la costa! ¡Es una isla! [Subtitle: It's too dark. Wait. I can see land! I see the shore. It's an island.]
+310	00:00:00,000 --> 00:00:00,000		[He sees the Statue of Taweret.]
+312	00:00:00,000 --> 00:00:00,000	IGNACIO	¡Veo el Diablo! ¡Esta isla estÃƒÂ¡ protegida por el Diablo! [Subtitle: I see the devil[sic]! The island is guarded by the devil[sic]!]
+314	00:00:00,000 --> 00:00:00,000		[A huge wave causes the ship to hit the head of the Statue.]
+316	00:00:00,000 --> 00:00:00,000		[The Island. It is now daylight. The Black Rock is lying in the jungle. Ignacio and Richard awaken.]
+318	00:00:00,000 --> 00:00:00,000	IGNACIO	Dios nos tuvo piedad. Al menos, a algunos de nosotros. [Subtitle: God spared us. At least some of us.]
+320	00:00:00,000 --> 00:00:00,000	VOICE FROM OUTSIDE THE SHIP	Do you see anything?
+322	00:00:00,000 --> 00:00:00,000	OTHER VOICE	No, no.
+324	00:00:00,000 --> 00:00:00,000	JONAS	You, Pierce, bring me the Captain.
+326	00:00:00,000 --> 00:00:00,000	PIERCE	Sir, Captain Hanso is dead.
+328	00:00:00,000 --> 00:00:00,000	JONAS	Good God we're in the middle of the bloody jungle!
+330	00:00:00,000 --> 00:00:00,000	RICHARD	[In Spanish] ¡Ayuda! ¡Ayuda! ¡AquÃƒÂ­ abajo! [in English] Help, help, down here!
+332	00:00:00,000 --> 00:00:00,000	OTHER PRISONER	¡Estamos vivos! ¡Estamos aquÃƒÂ­ abajo! [Subtitle: We are alive! We are down here!]
+334	00:00:00,000 --> 00:00:00,000		[Jonas comes down below.]
+336	00:00:00,000 --> 00:00:00,000	OTHER PRISONER	¡Gracias Dios, gracias! ¡Muchas gracias! [Subtitle: Thanks God! Thanks, thanks a lot!]
+338	00:00:00,000 --> 00:00:00,000		[Jonas draws his sword and prepares to kill the prisoner.]
+340	00:00:00,000 --> 00:00:00,000	IGNACIO	No!
+342	00:00:00,000 --> 00:00:00,000	RICHARD	[In English] No, stop! Stop!
+344	00:00:00,000 --> 00:00:00,000		[Jonas kills the prisoner.]
+346	00:00:00,000 --> 00:00:00,000	RICHARD	No! Stop!
+348	00:00:00,000 --> 00:00:00,000		[Jonas kills another prisoner.]
+350	00:00:00,000 --> 00:00:00,000	RICHARD	No! What are you doing?
+352	00:00:00,000 --> 00:00:00,000	IGNACIO	Se lo ruego. No lo haga. No lo haga, por favor. [Subtitle: I beg you, don't do it, don't do it please!]
+354	00:00:00,000 --> 00:00:00,000	JONAS	We are shipwrecked in the middle of the jungle. We have no fresh water, and limited supplies, and there are only five officers left.
+356	00:00:00,000 --> 00:00:00,000		[Jonas kills Ignacio. He approaches Richard.]
+358	00:00:00,000 --> 00:00:00,000	RICHARD	Why, why are you doing this?
+360	00:00:00,000 --> 00:00:00,000	JONAS	Because if I freed you, it'd only be a matter of time before you tried to kill me.
+362	00:00:00,000 --> 00:00:00,000		[He prepares to kill Richard.]
+364	00:00:00,000 --> 00:00:00,000	RICHARD	No!
+366	00:00:00,000 --> 00:00:00,000		[They hear Smoke Monster sounds. Jonas looks around. The ship shakes. Sounds of destruction and screams from outside.]
+368	00:00:00,000 --> 00:00:00,000	JONAS	What happened up there?
+370	00:00:00,000 --> 00:00:00,000		[No response from outside. Blood drips onto Jonas from a deck grate ]
+372	00:00:00,000 --> 00:00:00,000	JONAS	I said report!
+374	00:00:00,000 --> 00:00:00,000		[The Smoke Monster flows through the grate, covers Jonas, and violently hauls him up through the grate, smashing it. The smoke monster slowly returns to Richard, examines him, then leaves.]
+376	00:00:00,000 --> 00:00:00,000	RICHARD	Santo Padre que estÃƒÂ¡s en el cielo, santificado sea Tu nombre, vÃƒÂ©nganos Tu reino. [Holly Father who art in Heaven, hallowed be your name, your kingdom come.]
+378	00:00:00,000 --> 00:00:00,000		[Richard is still chained below deck. He is trying to loosen a nail from a floorboard. A thunderstorm begins. Richard tries to drink dripping rainwater but cannot quite reach. Eventually he frees the nail and attempts to chisel away the wood where his chain is attached. A wild boar enters and begins snuffling around one of the dead bodies. It charges at Richard, who attempts to strike it with the nail, dropping the nail in the process.]
+380	00:00:00,000 --> 00:00:00,000	RICHARD	¡Vete de aquÃƒÂ­! ¡Te voy a matar! ¡Te voy a matar! [Subtitle: Get out of here! I'll kill you!]
+382	00:00:00,000 --> 00:00:00,000		[The nail is now out of reach. Richard collapses.]
+384	00:00:00,000 --> 00:00:00,000		[He awakens to a female voice speaking Spanish.]
+386	00:00:00,000 --> 00:00:00,000	ISABELLA	¿Hola? ¿Hay alguien aquÃƒÂ­? ¿Se encuentra alguien aquÃƒÂ­? [Subtitle: Hello? Is anyone there? Is there anyone here?]
+388	00:00:00,000 --> 00:00:00,000	RICHARD	SÃƒÂ­... ¡SÃƒÂ­, estoy aquÃƒÂ­! ¿Isabella? [Subtitle: Yes -- Yes! I'm here! Isabella?]
+390	00:00:00,000 --> 00:00:00,000	ISABELA	Ricardo... Ricardo...
+392	00:00:00,000 --> 00:00:00,000		[They embrace.]
+394	00:00:00,000 --> 00:00:00,000	RICHARD	No lo entiendo. ¿CÃƒÂ³mo estÃƒÂ¡s tÃƒÂº aquÃƒÂ­? [Subtitle: I don't understand -- how are you ...here?]
+396	00:00:00,000 --> 00:00:00,000	ISABELLA	¿No lo sabes, Ricardo? Estamos muertos los dos. Estamos en el infierno. Estoy aquÃƒÂ­ para salvarte antes de que regrese "ÃƒÂ©l". [Subtitle: Don't you know, Ricardo? We're dead. Both of us. We're in hell[sic]. I'm here to save you before he comes back.]
+398	00:00:00,000 --> 00:00:00,000	RICHARD	¿CÃƒÂ³mo? ¿Antes de que regrese quiÃƒÂ©n? [Subtitle: What? Before who comes back?]
+400	00:00:00,000 --> 00:00:00,000	ISABELLA	El diablo. [Subtitle: The devil[sic].]
+402	00:00:00,000 --> 00:00:00,000	RICHARD	¿El diablo? [Subtitle: The devil[sic]?]
+404	00:00:00,000 --> 00:00:00,000	ISABELLA	Yo mirÃƒÂ© en sus ojos, y todo lo que vi fue maldad. ¿TÃƒÂº lo has visto, Ricardo? [Subtitle: I looked in his eyes...and all I saw was evil. Have you seen him, Ricardo?]
+406	00:00:00,000 --> 00:00:00,000	RICHARD	SÃƒÂ­, yo creo que sÃƒÂ­. [Subtitle: Yes. I think I have...]
+408	00:00:00,000 --> 00:00:00,000	RICHARD	Mi amor... [My love.]
+410	00:00:00,000 --> 00:00:00,000	ISABELLA	Tenemos que salir de aquÃƒÂ­. [Subtitle: We have to get out of here.]
+412	00:00:00,000 --> 00:00:00,000		[They hear Smoke Monster sounds.]
+414	00:00:00,000 --> 00:00:00,000	RICHARD	¡Corre! ¡Vete, vete! ¡Corre, mi amor! No... debes irte, ¡ya vete! [Subtitle: Run! Go. Now! Run, my love! Go. Now!]
+416	00:00:00,000 --> 00:00:00,000	ISABELLA	No puedo. [Subtitle: I can't.]
+418	00:00:00,000 --> 00:00:00,000	RICHARD	¡No! ¡Dije que te iba a salvar, mi amor! ¡No! ¡Dije que te iba a salvar, y lo harÃƒÂ©, mi amor! Por favor. [Subtitle: I said I would save you my love! I said I would save you, and I will my love.]
+420	00:00:00,000 --> 00:00:00,000	ISABELLA	¡Ricardo, por favor! ¡Tengo miedo! [Subtitle: Please. I'm scared.]
+422	00:00:00,000 --> 00:00:00,000	RICHARD	Yo sÃƒÂ©, pero... ¡si me quieres, vete! ¡Vete! [Subtitle: If you love me, GO! GO!]
+424	00:00:00,000 --> 00:00:00,000		[She goes above deck. Smoke monster sounds and screams.]
+426	00:00:00,000 --> 00:00:00,000	RICHARD	¡No, no! ¡DÃƒÂ©jala en paz! ¡DÃƒÂ©jala! ¡DÃƒÂ©jala en paz, por favor! ¡¿Isabella?! ¡¿Isabella?! [Subtitle: No, no! Leave her alone. Leave her alone. Leave her alone please! Isabella! Isabella!]
+428	00:00:00,000 --> 00:00:00,000		[Richard weeps.]
+430	00:00:00,000 --> 00:00:00,000		[Sometime later the Man in Black (in his 19th century human form) enters, and wakes Richard by touching his shoulder.]
+432	00:00:00,000 --> 00:00:00,000	MAN IN BLACK	Shhh. Here, water.
+434	00:00:00,000 --> 00:00:00,000		[He raises a cup to Richard's lips. Richard drinks.]
+436	00:00:00,000 --> 00:00:00,000	RICHARD	Who are you?
+438	00:00:00,000 --> 00:00:00,000	MAN IN BLACK	A friend.
+440	00:00:00,000 --> 00:00:00,000	RICHARD	I am... in Hell?
+442	00:00:00,000 --> 00:00:00,000	MAN IN BLACK	Yes, I'm afraid you are.
+444	00:00:00,000 --> 00:00:00,000	RICHARD	You... you were not on the ship.
+446	00:00:00,000 --> 00:00:00,000	MAN IN BLACK	I was here long before your ship.
+448	00:00:00,000 --> 00:00:00,000	RICHARD	Did... did you see my, my wife?
+450	00:00:00,000 --> 00:00:00,000	MAN IN BLACK	I'm sorry?
+452	00:00:00,000 --> 00:00:00,000	RICHARD	Isabella, my wife. She was here. She was. But then the black smoke came and she ran.
+454	00:00:00,000 --> 00:00:00,000	MAN IN BLACK	And she hasn't come back?
+456	00:00:00,000 --> 00:00:00,000		[Richard shakes his head.]
+458	00:00:00,000 --> 00:00:00,000	MAN IN BLACK	That probably means he has her.
+460	00:00:00,000 --> 00:00:00,000	RICHARD	Who?
+462	00:00:00,000 --> 00:00:00,000	MAN IN BLACK	I think you know who.
+464	00:00:00,000 --> 00:00:00,000	RICHARD	If she's alive I must save her, please, please help.
+466	00:00:00,000 --> 00:00:00,000	MAN IN BLACK	Of course. Of Course I'll help. I want to be free too.
+468	00:00:00,000 --> 00:00:00,000		[He brings out a set of keys.]
+470	00:00:00,000 --> 00:00:00,000	MAN IN BLACK	As luck would have it, I found these on one of the officers outside. I think they'll work. But before I try, I need to know that you will help me.
+472	00:00:00,000 --> 00:00:00,000	RICHARD	Yes, yes, yes, I do of course.
+474	00:00:00,000 --> 00:00:00,000	MAN IN BLACK	You'd do anything I ask?
+476	00:00:00,000 --> 00:00:00,000	RICHARD	Yes yes, anything, yes, I promise.
+478	00:00:00,000 --> 00:00:00,000	MAN IN BLACK	Then we're agreed.
+480	00:00:00,000 --> 00:00:00,000		[They both nod. He unlocks Richard's chains.]
+482	00:00:00,000 --> 00:00:00,000	RICHARD	Thank you.
+484	00:00:00,000 --> 00:00:00,000	MAN IN BLACK	Of course my friend. It's good to see you out of those chains.
+486	00:00:00,000 --> 00:00:00,000	RICHARD	Thank you.
+488	00:00:00,000 --> 00:00:00,000	MAN IN BLACK	Got to get you on your feet. Gonna need your strength if we're going to escape.
+490	00:00:00,000 --> 00:00:00,000	RICHARD	Escape?
+492	00:00:00,000 --> 00:00:00,000	MAN IN BLACK	That's right. I'm afraid there's only one way to escape from Hell. You're going to have to kill the Devil.
+494	00:00:00,000 --> 00:00:00,000		[Out of the ship, in a jungle clearing, the Man in Black is sitting on a stone bench. Richard is eating roast boar.]
+496	00:00:00,000 --> 00:00:00,000	MAN IN BLACK	When you're finished eating, you walk due west. Once you get to the ocean, you'll be able to see the Statue.
+498	00:00:00,000 --> 00:00:00,000	RICHARD	What statue?
+500	00:00:00,000 --> 00:00:00,000	MAN IN BLACK	Your ship smashed through it, on its way inland. Broke it into pieces. That's where you'll find the Devil.
+502	00:00:00,000 --> 00:00:00,000		[Man in Black offers Richard a knife which appears the same as the one Dogen gave Sayid to kill Locke.]
+504	00:00:00,000 --> 00:00:00,000	MAN IN BLACK	You only have one chance. Put this through his chest. Do not hesitate, do not let him say a word. If he speaks, it will already be too late. He can be very persuasive.
+506	00:00:00,000 --> 00:00:00,000	RICHARD	How, how can I kill him with this, he's...black smoke.
+508	00:00:00,000 --> 00:00:00,000	MAN IN BLACK	No. I am.
+510	00:00:00,000 --> 00:00:00,000	RICHARD	My wife Isabella, she was running from you?
+512	00:00:00,000 --> 00:00:00,000	MAN IN BLACK	She was running from him. I'm sorry. I saw him take her but I couldn't do anything to stop it.
+514	00:00:00,000 --> 00:00:00,000	RICHARD	But if you are the black smoke...
+516	00:00:00,000 --> 00:00:00,000	MAN IN BLACK	You aren't the only one who's lost something, my friend. The Devil betrayed me. He took my body. My humanity.
+518	00:00:00,000 --> 00:00:00,000	RICHARD	You killed the officers on the ship.
+520	00:00:00,000 --> 00:00:00,000	MAN IN BLACK	I'm not the one you need to worry about. The Devil has your wife, and you are going to have to kill him if you ever want to get her back.
+522	00:00:00,000 --> 00:00:00,000	RICHARD	Murder is wrong. That is what brought me here.
+524	00:00:00,000 --> 00:00:00,000	MAN IN BLACK	My friend, you and I can talk all day long about what's right or wrong, but the question before you remains the same - "Do you ever want to see your wife again?"
+526	00:00:00,000 --> 00:00:00,000	RICHARD	Yes I do.
+528	00:00:00,000 --> 00:00:00,000		[The Man in Black offers Richard the knife again, who accepts it. He rises to leave, patting Richard on the back.]
+530	00:00:00,000 --> 00:00:00,000		[Richard exits the jungle and arrives at the shore, spotting the remains of the statue to his left. As he nears the entrance he draws the knife is suddenly attacked Jacob, who subdues him and takes the knife.]
+532	00:00:00,000 --> 00:00:00,000	JACOB	What are you doing here? Who gave you this?
+534	00:00:00,000 --> 00:00:00,000	RICHARD	Where is my wife?
+536	00:00:00,000 --> 00:00:00,000	JACOB	What?
+538	00:00:00,000 --> 00:00:00,000	RICHARD	Where is my wife?
+540	00:00:00,000 --> 00:00:00,000	JACOB	I don't know your wife. Did she come here on the ship?
+542	00:00:00,000 --> 00:00:00,000	RICHARD	No, she's dead.
+544	00:00:00,000 --> 00:00:00,000	JACOB	Then why are you asking me where she is? Did you meet a man in the jungle dressed in black?
+546	00:00:00,000 --> 00:00:00,000	RICHARD	Yes.
+548	00:00:00,000 --> 00:00:00,000	JACOB	What did he tell you?
+550	00:00:00,000 --> 00:00:00,000	RICHARD	He said you are the devil.
+552	00:00:00,000 --> 00:00:00,000	JACOB	And?
+554	00:00:00,000 --> 00:00:00,000	RICHARD	He said the only way I would see my wife again is if I kill you. I - I saw her, here, in this place. Where is she?
+556	00:00:00,000 --> 00:00:00,000	JACOB	That wasn't your wife.
+558	00:00:00,000 --> 00:00:00,000	RICHARD	Yes, it was! She's dead, just like me.
+560	00:00:00,000 --> 00:00:00,000	JACOB	You're not dead.
+562	00:00:00,000 --> 00:00:00,000	RICHARD	I am in Hell. I know that I am in Hell.
+564	00:00:00,000 --> 00:00:00,000	JACOB	You really think you're dead?
+566	00:00:00,000 --> 00:00:00,000	RICHARD	Where else would I be?
+568	00:00:00,000 --> 00:00:00,000		[Jacob throws the knife to the ground.]
+570	00:00:00,000 --> 00:00:00,000	JACOB	Alright then.
+572	00:00:00,000 --> 00:00:00,000	RICHARD	What are you doing? What are you doing?
+574	00:00:00,000 --> 00:00:00,000		[Jacob picks up Richard and leads him to the ocean. He forces him into the water and holds him under. He brings up Richard.]
+576	00:00:00,000 --> 00:00:00,000	JACOB	Still think you're dead?!
+578	00:00:00,000 --> 00:00:00,000		[Jacob dunks Richard again.]
+580	00:00:00,000 --> 00:00:00,000	RICHARD	Stop!
+582	00:00:00,000 --> 00:00:00,000		[Jacob dunks Richard again.]
+584	00:00:00,000 --> 00:00:00,000	JACOB	Still think you're dead?! Why should I stop?
+586	00:00:00,000 --> 00:00:00,000	RICHARD	Because I want to live!
+588	00:00:00,000 --> 00:00:00,000		[Jacob drags him out of the ocean and releases him.]
+590	00:00:00,000 --> 00:00:00,000	JACOB	That's the first sensible thing you've said. What's your name?
+592	00:00:00,000 --> 00:00:00,000	RICHARD	Ricardo.
+594	00:00:00,000 --> 00:00:00,000	JACOB	Ricardo... Get up, we need to talk.
+596	00:00:00,000 --> 00:00:00,000		[Richard is sitting on a log near the remains of the statue with a blanket wrapped around him. Jacob approaches with a bottle of wine. Richard glances towards the Statue.]
+598	00:00:00,000 --> 00:00:00,000	RICHARD	What is inside?
+600	00:00:00,000 --> 00:00:00,000	JACOB	No one comes in unless I invite them in. [offers Richard a cup of wine.]
+602	00:00:00,000 --> 00:00:00,000	RICHARD	Are you the Devil?
+604	00:00:00,000 --> 00:00:00,000		[Jacob pauses a moment and smiles.]
+606	00:00:00,000 --> 00:00:00,000	JACOB	No.
+608	00:00:00,000 --> 00:00:00,000	RICHARD	Then who are you?
+610	00:00:00,000 --> 00:00:00,000	JACOB	My name is Jacob. I'm the one who brought your ship to this island.
+612	00:00:00,000 --> 00:00:00,000	RICHARD	You brought it here? Why?
+614	00:00:00,000 --> 00:00:00,000		[Jacob picks up the bottle of wine.]
+616	00:00:00,000 --> 00:00:00,000	JACOB	Think of this wine as what you keep calling hell. There's many other names for it too: malevolence, evil, darkness. And here it is, swirling around in the bottle, unable to get out because if it did, it would spread. The cork [he corks the bottle] is this island and it's the only thing keeping the darkness where it belongs. That man who sent you to kill me believes that everyone is corruptible because it's in their very nature to sin. I bring people here to prove him wrong. And when they get here, their past doesn't matter.
+618	00:00:00,000 --> 00:00:00,000	RICHARD	Before you brought my ship, there were others?
+620	00:00:00,000 --> 00:00:00,000	JACOB	Yes, many.
+622	00:00:00,000 --> 00:00:00,000	RICHARD	What happened to them?
+624	00:00:00,000 --> 00:00:00,000	JACOB	They're all dead.
+626	00:00:00,000 --> 00:00:00,000	RICHARD	But if you brought them here, why didn't you help them?
+628	00:00:00,000 --> 00:00:00,000	JACOB	Because I wanted them to help themselves. To know the difference between right and wrong without me having to tell them. It's all meaningless if I have to force them to do anything. Why should I have to step in?
+630	00:00:00,000 --> 00:00:00,000	RICHARD	If you don't, he will.
+632	00:00:00,000 --> 00:00:00,000		[Jacob pauses for a moment, taking Richard's words into consideration.]
+634	00:00:00,000 --> 00:00:00,000	JACOB	Do you want a job?
+636	00:00:00,000 --> 00:00:00,000	RICHARD	A job?
+638	00:00:00,000 --> 00:00:00,000		[Jacob nods.]
+640	00:00:00,000 --> 00:00:00,000	RICHARD	Doing what?
+642	00:00:00,000 --> 00:00:00,000	JACOB	Well, I don't want to step in. Maybe you can do it for me. You can be my...my representative and intermediary between me and the people I bring to the island.
+644	00:00:00,000 --> 00:00:00,000	RICHARD	What will I get in return?
+646	00:00:00,000 --> 00:00:00,000	JACOB	You tell me.
+648	00:00:00,000 --> 00:00:00,000	RICHARD	I want my wife back.
+650	00:00:00,000 --> 00:00:00,000	JACOB	Can't do that.
+652	00:00:00,000 --> 00:00:00,000	RICHARD	Can you absolve me of my sins so I don't go to Hell?
+654	00:00:00,000 --> 00:00:00,000	JACOB	I can't do that either.
+656	00:00:00,000 --> 00:00:00,000	RICHARD	I never want to die. I want to live forever.
+658	00:00:00,000 --> 00:00:00,000	JACOB	Now that...
+660	00:00:00,000 --> 00:00:00,000		[He touches Richard's shoulder.]
+662	00:00:00,000 --> 00:00:00,000	JACOB	...I can do.
+664	00:00:00,000 --> 00:00:00,000		[Richard returns to the bench where the the Man in Black is sitting. He stands and approaches Richard.]
+666	00:00:00,000 --> 00:00:00,000	MAN IN BLACK	You let him talk to you, didn't you?
+668	00:00:00,000 --> 00:00:00,000	RICHARD	He told me to give you this.
+670	00:00:00,000 --> 00:00:00,000		[Richard hands the Man in Black a white rock. The Man in Black laughs quietly.]
+672	00:00:00,000 --> 00:00:00,000	MAN IN BLACK	I'm sure you realize that if you go with him, you'll never see your wife again? I understand. He can be very... convincing. But I want you to know if you ever change your mind, and I mean ever, my offer still stands.
+674	00:00:00,000 --> 00:00:00,000	MAN IN BLACK	I have something for you.
+676	00:00:00,000 --> 00:00:00,000		[The Man in Black reaches into his pocket, removes an object and places it in Richard's hand.]
+678	00:00:00,000 --> 00:00:00,000	MAN IN BLACK	You must've dropped it. I found it on the ship.
+680	00:00:00,000 --> 00:00:00,000		[Richard opens his palm and sees his wife's necklace. When he glances upward, the Man in Black is gone. He walks over to the bench, begins weeping, and kneels down and digs a hole with his hands. Before placing the necklace in the hole, he kisses the cross on it.]
+682	00:00:00,000 --> 00:00:00,000	RICHARD	AdiÃƒÂ³s, mi amor. [In Spanish: Goodbye, my love.]
+684	00:00:00,000 --> 00:00:00,000		[He buries the necklace.]
+686	00:00:00,000 --> 00:00:00,000		[Present - Richard approaches the bench. A large tree has grown behind it since the last time he has visited. He digs up the necklace and clears the dirt from it.]
+688	00:00:00,000 --> 00:00:00,000	RICHARD	I've changed my mind. Are you listening to me? I've changed my mind. I was wrong. You said I could change my mind. You said the offer would stand. Does the offer still stand? Does the offer still stand?! Does the offer still stand?!
+690	00:00:00,000 --> 00:00:00,000		[A rustling is heard. Richard turns and sees Hurley approach.]
+692	00:00:00,000 --> 00:00:00,000	HURLEY	What offer, dude?
+694	00:00:00,000 --> 00:00:00,000	RICHARD	What the Hell are you doing here? Did you follow me?
+696	00:00:00,000 --> 00:00:00,000	HURLEY	Well, kind of.
+698	00:00:00,000 --> 00:00:00,000	RICHARD	Get out! Get out!
+700	00:00:00,000 --> 00:00:00,000		[He pushes Hurley.]
+702	00:00:00,000 --> 00:00:00,000	HURLEY	Hey!
+704	00:00:00,000 --> 00:00:00,000	RICHARD	Didn't you hear what I said?!
+706	00:00:00,000 --> 00:00:00,000	HURLEY	I was just trying--
+708	00:00:00,000 --> 00:00:00,000	RICHARD	I told you people, I don't know anything!
+710	00:00:00,000 --> 00:00:00,000	HURLEY	Just calm down!
+712	00:00:00,000 --> 00:00:00,000	RICHARD	Why did you follow me?!
+714	00:00:00,000 --> 00:00:00,000	HURLEY	Your wife sent me.
+716	00:00:00,000 --> 00:00:00,000		[Richard looks astonished.]
+718	00:00:00,000 --> 00:00:00,000	RICHARD	What did you say?
+720	00:00:00,000 --> 00:00:00,000	HURLEY	I said your wife sent me. Isabella. She wants to know why you buried her cross.
+722	00:00:00,000 --> 00:00:00,000	RICHARD	H--how do you know about that?
+724	00:00:00,000 --> 00:00:00,000	HURLEY	Because she just told me.
+726	00:00:00,000 --> 00:00:00,000	RICHARD	What do you mean, just told you?
+728	00:00:00,000 --> 00:00:00,000	HURLEY	Isabella saw you dig it up, man. She's standing right next to you.
+730	00:00:00,000 --> 00:00:00,000		[We see Isabella standing next to him. He cannot see her.]
+732	00:00:00,000 --> 00:00:00,000	ISABELLA	Ãƒâ€°l no te cree. [Subtitle: He doesn't believe you.]
+734	00:00:00,000 --> 00:00:00,000	HURLEY	A veces a las personas les toma un poco. [Subtitle: Sometimes it takes people awhile[sic].]
+736	00:00:00,000 --> 00:00:00,000		[Richard turns his head slowly to face in Isabella's direction.]
+738	00:00:00,000 --> 00:00:00,000	RICHARD	I--I don't see her.
+740	00:00:00,000 --> 00:00:00,000	ISABELLA	Dile que su inglÃƒÂ©s es magnÃƒÂ­fico. [Subtitle: Tell him his English is beautiful.]
+742	00:00:00,000 --> 00:00:00,000	HURLEY	She's right there. She says your English is awesome.
+744	00:00:00,000 --> 00:00:00,000	RICHARD	¿EstÃƒÂ¡s tÃƒÂº realmente aquÃƒÂ­? [Subtitle: Are you... really there?]
+746	00:00:00,000 --> 00:00:00,000	ISABELLA	Cierra tus ojos.
+748	00:00:00,000 --> 00:00:00,000	HURLEY	She wants you to close your eyes. It's okay, I'll tell you what she says.
+750	00:00:00,000 --> 00:00:00,000		[Richard closes his eyes. Isabella speaks and Hurley relays it to Richard.]
+752	00:00:00,000 --> 00:00:00,000	ISABELLA	No fue tu culpa que yo morÃƒÂ­, Ricardo.
+754	00:00:00,000 --> 00:00:00,000	HURLEY	No fue tu culpa que yo morÃƒÂ­, Ricardo. [Subtitle: It wasn't your fault that I died, Ricardo.]
+756	00:00:00,000 --> 00:00:00,000	ISABELLA	Por mÃƒÂ¡s que quisiste salvarme, era mi hora. [Subtitle: As much as you wanted to save me... it was my time.]
+758	00:00:00,000 --> 00:00:00,000		[Richard begins to cry. Isabella places her hand on his face.]
+760	00:00:00,000 --> 00:00:00,000	ISABELLA	Ya has sufrido suficiente, Ricardo. [Subtitle: You've suffered enough, Ricardo.]
+762	00:00:00,000 --> 00:00:00,000	RICHARD	Te extraÃƒÂ±o, yo... Yo harÃƒÂ­a cualquier cosa para estar juntos de nuevo. [Subtitle: I miss you -- I would do anything for us to be together again.]
+764	00:00:00,000 --> 00:00:00,000	ISABELLA	Mi amor, ya estamos juntos. [Subtitle: My love. We are already together.]
+766	00:00:00,000 --> 00:00:00,000		[Isabella kisses Richard on the cheek. We see that Isabella is gone.]
+768	00:00:00,000 --> 00:00:00,000	RICHARD	Is she gone?
+770	00:00:00,000 --> 00:00:00,000	HURLEY	Yeah.
+772	00:00:00,000 --> 00:00:00,000		[Richard puts on the necklace and strokes it a few times.]
+774	00:00:00,000 --> 00:00:00,000	RICHARD	Thank you.
+776	00:00:00,000 --> 00:00:00,000	HURLEY	Yeah, you got it.
+778	00:00:00,000 --> 00:00:00,000	RICHARD	Something wrong?
+780	00:00:00,000 --> 00:00:00,000	HURLEY	She kinda said one more thing. Something you have to do.
+782	00:00:00,000 --> 00:00:00,000	RICHARD	What?
+784	00:00:00,000 --> 00:00:00,000	HURLEY	She said you have to stop the Man in Black. You have to stop him from leaving the island. 'Cause if you don't... todos nos vamos al infierno. [Subtitle: We all go to hell[sic].]
+786	00:00:00,000 --> 00:00:00,000		[We see that the Man in Black (as Locke) has been watching from afar.]
+788	00:00:00,000 --> 00:00:00,000		[Flashback - Circa 1867. The Man in Black is shown sitting on a log, overlooking a valley. Jacob enters.]
+790	00:00:00,000 --> 00:00:00,000	JACOB	Good morning
+792	00:00:00,000 --> 00:00:00,000	MAN IN BLACK	Morning.
+794	00:00:00,000 --> 00:00:00,000		[Jacob sits down. The Man in Black is lightly juggling the white rock given to him by Richard earlier.]
+796	00:00:00,000 --> 00:00:00,000	JACOB	I see you got my present.
+798	00:00:00,000 --> 00:00:00,000	MAN IN BLACK	Don't gloat, Jacob. It doesn't become you.
+800	00:00:00,000 --> 00:00:00,000	JACOB	So you tried to kill me?
+802	00:00:00,000 --> 00:00:00,000	MAN IN BLACK	You expect an apology?
+804	00:00:00,000 --> 00:00:00,000	JACOB	No. I guess I'm just wondering why you did it.
+806	00:00:00,000 --> 00:00:00,000	MAN IN BLACK	Because I want to leave. Just let me leave, Jacob.
+808	00:00:00,000 --> 00:00:00,000	JACOB	As long as I'm alive, you're not going anywhere.
+810	00:00:00,000 --> 00:00:00,000	MAN IN BLACK	Well then, now you know why I want to kill you. And I will kill you, Jacob.
+812	00:00:00,000 --> 00:00:00,000	JACOB	Even if you do so, somebody else will take my place.
+814	00:00:00,000 --> 00:00:00,000	MAN IN BLACK	Then I'll kill them too.
+816	00:00:00,000 --> 00:00:00,000		[Jacob reaches into his pouch and pulls out the bottle of wine. He offers it to the Man in Black.]
+818	00:00:00,000 --> 00:00:00,000	JACOB	Here. Something for you to pass the time.
+820	00:00:00,000 --> 00:00:00,000		[The Man in Black takes the bottle.]
+822	00:00:00,000 --> 00:00:00,000	JACOB	I'll see you around.
+824	00:00:00,000 --> 00:00:00,000		[Jacob departs.]
+826	00:00:00,000 --> 00:00:00,000	MAN IN BLACK	Sooner than you think.
+828	00:00:00,000 --> 00:00:00,000		[The Man in Black raises the bottle of wine and turns it upside down. He smashes the bottle against the log, splashing wine everywhere.]

@@ -1,0 +1,493 @@
+Namaste
+2	00:00:00,000 --> 00:00:00,000	Written by	Paul Zbyszewski & Brian K. Vaughan
+4	00:00:00,000 --> 00:00:00,000	Directed by	Jack Bender
+6	00:00:00,000 --> 00:00:00,000		[2007 - The night sky. Nothing can be seen on the horizon. Cabin lights glow dimly from the windows of a commercial jetliner in flight. Illumination on the plane's tail identifies it as an Ajira Airways flight.]
+8	00:00:00,000 --> 00:00:00,000		[Inside the plane, Kate looks around apprehensively; Sun, forlornly; Jack, pensively; Sayid, absently; Ilana, asleep. A female flight attendant pushes through the first class cabin with the beverage cart full of clinking bottles. Ben sits in the back of the cabin; Caesar and Hurley in the front. Caesar is absorbed in a magazine. Hurley looks up at the flight attendant as she passes.]
+10	00:00:00,000 --> 00:00:00,000		[Inside the darkened cockpit, Frank Lapidus and a co-pilot sit at the controls. The periodic flash of the plane's beacon lights announces through the windshields.]
+12	00:00:00,000 --> 00:00:00,000	CO-PILOT	Wanna hear something crazy?
+14	00:00:00,000 --> 00:00:00,000	LAPIDUS	What's that?
+16	00:00:00,000 --> 00:00:00,000		[The co-pilot sets down a tall paper coffee cup.]
+18	00:00:00,000 --> 00:00:00,000	CO-PILOT	[Sighs] Did you see the big guy when we got on in L.A.? Sitting in first class, curly hair, guitar case?
+20	00:00:00,000 --> 00:00:00,000	LAPIDUS	What about him?
+22	00:00:00,000 --> 00:00:00,000	CO-PILOT	He's one of the Oceanic Six. Guy's got nerves of steel, man. He survives a full-on commercial airliner crash. Now he's back flying over the same South Pacific?
+24	00:00:00,000 --> 00:00:00,000	LAPIDUS	Yeah, well... [sighs] maybe he doesn't believe that lightning will strike twice in the same place.
+26	00:00:00,000 --> 00:00:00,000		[The co-pilot chuckles. Suddenly, the plane rattles violently from turbulence.]
+28	00:00:00,000 --> 00:00:00,000		[Back in his seat, Jack is jolted out of his shut-eye. Kate, too shakes herself to alertness. The rattling stops. Passengers murmur to each other. Sayid looks over, and Hurley stares at the ceiling, a black eye mask readied on his brow. Sun looks around nervously.]
+30	00:00:00,000 --> 00:00:00,000		[In the cockpit, the co-pilot looks over to Lapidus.]
+32	00:00:00,000 --> 00:00:00,000	CO-PILOT	You all right there, Frank?
+34	00:00:00,000 --> 00:00:00,000		[The captain turns, stony-faced.]
+36	00:00:00,000 --> 00:00:00,000	LAPIDUS	I'm just fine.
+38	00:00:00,000 --> 00:00:00,000		[The rattling resumes, more violently now, then stops. The co-pilot reaches above him and flips a switch.
+40	00:00:00,000 --> 00:00:00,000		[In the cabin, the "FASTEN SEAT BELT" sign turns on, accompanied by a bell ding. Jack looks up from his seat expectantly. Hurley notes the sign and turns to Caesar.]
+42	00:00:00,000 --> 00:00:00,000	HURLEY	Dude... you might wanna fasten your seat belt.
+44	00:00:00,000 --> 00:00:00,000		[Hurley pulls his eye mask over his eyes and tries to relax. The rattling stops.]
+46	00:00:00,000 --> 00:00:00,000		[Back in the cockpit, Lapidus looks out into the distance.]
+48	00:00:00,000 --> 00:00:00,000	LAPIDUS	[Under breath] Oh, no.
+50	00:00:00,000 --> 00:00:00,000	CO-PILOT	[Turning to him] What?
+52	00:00:00,000 --> 00:00:00,000		[A powerful jolt hits the plane and loud rattling commences. Power briefly flickers out on the cockpit. In the cabin, luggage falls from the overhead bin. A woman screams. All the members of the Oceanic Six look around, and at each other. In the cockpit, the co-pilot hits switches above and around him, while Lapidus braces himself at the yoke.]
+54	00:00:00,000 --> 00:00:00,000	LAPIDUS	Autopilot off! I have the controls.
+56	00:00:00,000 --> 00:00:00,000	CO-PILOT	Autopilot off. You have the controls.
+58	00:00:00,000 --> 00:00:00,000		[An alarm begins sounding. The rattling continues. The whole plane shakes. A female flight attended walking the aisle screams as she is thrown off-balance. Kate clenches her eyes shut, her head turned to the side, as if preparing for a blow to the face. The yoke shakes jarringly in Lapidus's hands. A faint magnetic hum begins building in intensity.]
+60	00:00:00,000 --> 00:00:00,000	LAPIDUS	Pull that rudder!
+62	00:00:00,000 --> 00:00:00,000		[As the cabin begins to flood with a bright white light, the female flight attendant is thrown to the opposite side of the plane.]
+64	00:00:00,000 --> 00:00:00,000	FEMALE FLIGHT ATTENDANT	Aah!
+66	00:00:00,000 --> 00:00:00,000		[Everything is shaking. Buzzing, magnetic humming, a loud whoosh, and then--total whiteness, silence, but only for a second. The buzzing and the humming stop. The shaking, too. The airplane whooshes quickly through the air--but without the sound of engines. The blue of a daylight sky comes through the cockpit windshields. The co-pilot looks around, dumbfounded.]
+68	00:00:00,000 --> 00:00:00,000	CO-PILOT	[Panting] What?
+70	00:00:00,000 --> 00:00:00,000		[An alarm sounds and lights on the instrument panel flicker.]
+72	00:00:00,000 --> 00:00:00,000	AUTOMATED FEMALE VOICE	Stall.
+74	00:00:00,000 --> 00:00:00,000	CO-PILOT	What?!
+76	00:00:00,000 --> 00:00:00,000		[The alarm beeps.]
+78	00:00:00,000 --> 00:00:00,000	AUTOMATED FEMALE VOICE	Stall.
+80	00:00:00,000 --> 00:00:00,000	LAPIDUS	We've lost power!
+82	00:00:00,000 --> 00:00:00,000	AUTOMATED FEMALE VOICE	Stall.
+84	00:00:00,000 --> 00:00:00,000		[The co-pilot frantically flips switches on the instrument panel.]
+86	00:00:00,000 --> 00:00:00,000	CO-PILOT	Restarting one. Restarting two.
+88	00:00:00,000 --> 00:00:00,000		[The engines whir back to life.]
+90	00:00:00,000 --> 00:00:00,000	CO-PILOT	Altimeter reading 650.
+92	00:00:00,000 --> 00:00:00,000		[An alarm beeps. The plane cuts through the cloud layer, and clouds part around the cockpit windshields, revealing the lush face of a green mountain, straight ahead and closing fast.]
+94	00:00:00,000 --> 00:00:00,000	LAPIDUS	Oh, my God.
+96	00:00:00,000 --> 00:00:00,000		[Lapidus pulls back on the yoke.]
+98	00:00:00,000 --> 00:00:00,000	LAPIDUS	Give me more power! I can pull us out of this!
+100	00:00:00,000 --> 00:00:00,000	CO-PILOT	You're gonna rip us apart!
+102	00:00:00,000 --> 00:00:00,000	LAPIDUS	Do it!
+104	00:00:00,000 --> 00:00:00,000		[The co-pilot eases the throttle lever forward. The green of the mountain face gets nearer and nearer. The yoke rattles in the captain's hands.]
+106	00:00:00,000 --> 00:00:00,000	LAPIDUS	Come on. Come on.
+108	00:00:00,000 --> 00:00:00,000		[The engine roar as the plane rolls and banks hard to the right and clears one mountain, only to have another appear in front of it. Lapidus rolls hard to the left. The second mountain cleared, an ocean shore comes into view, and parallel to the shore, a line of beige cuts into the dense green of tropical jungle.]
+110	00:00:00,000 --> 00:00:00,000	CO-PILOT	Is that a runway?
+112	00:00:00,000 --> 00:00:00,000		[The controls beep rapidly. The sound of the engines falls away.]
+114	00:00:00,000 --> 00:00:00,000	LAPIDUS	Massive instrument failure! We're puttin' her down!
+116	00:00:00,000 --> 00:00:00,000	CO-PILOT	Mayday! Mayday! Mayday! This is Ajira 3-1-6! Mayday! Mayday! Mayday!
+118	00:00:00,000 --> 00:00:00,000	AUTOMATED MALE VOICE	4...8...15...16...
+120	00:00:00,000 --> 00:00:00,000	LAPIDUS	Full flaps!
+122	00:00:00,000 --> 00:00:00,000	CO-PILOT	Gear down! Airspeed 190!
+124	00:00:00,000 --> 00:00:00,000		[The beeping continues. The co-pilot braces himself in his seat. Lapidus steels himself.]
+126	00:00:00,000 --> 00:00:00,000	CO-PILOT	We're coming in too steep!
+128	00:00:00,000 --> 00:00:00,000		[The rear landing gear take out a palm tree as the plane plummets toward the gravel runway. The rattling and beeping continue. The gear touch down on the runway, far too fast, tires screeching.]
+130	00:00:00,000 --> 00:00:00,000	LAPIDUS	Reverse thrusters!
+132	00:00:00,000 --> 00:00:00,000		[The co-pilot throws the throttle into reverse. The jetliner barrels down the runway, the landing gear wheels tearing up the primitive landing surface.]
+134	00:00:00,000 --> 00:00:00,000	CO-PILOT	Come on!
+136	00:00:00,000 --> 00:00:00,000	LAPIDUS	We're runnin' out! We're runnin' out!
+138	00:00:00,000 --> 00:00:00,000		[The end of the runway approaches.]
+140	00:00:00,000 --> 00:00:00,000	LAPIDUS	Hold on! Brace for impact!
+142	00:00:00,000 --> 00:00:00,000		[The plane veers slightly to the right into the jungle. The pilots are thrown forward into the instrument panel. Blackness.]
+144	00:00:00,000 --> 00:00:00,000		[Some time later, it is quiet. Frank Lapidus gasps to consciousness. His face is bloodied. He holds his brow with his hands, feels the blood, looks at his bloody fingers. He pants, looks at his right arm, the inner elbow of his white shirt sopping with blood. He looks over at his co-pilot. The sight takes his breath away for an instant. Wiping his eyes, he takes a clearer look. A tree branch has protruded through the cockpit window, impaling the co-pilot in the chest. The co-pilot is slumped over, blood-soaked and dead. Lapidus disengages his restraints and lifts himself out of his chair. Opening the cockpit door, he pokes through the darkness with a flashlight.]
+146	00:00:00,000 --> 00:00:00,000	LAPIDUS	Hey!
+148	00:00:00,000 --> 00:00:00,000		[He hears whimpering. Ilana lies unconscious in her seat. Caesar gets up from the floor. He looks at the woman, and tugs lightly at her chin.]
+150	00:00:00,000 --> 00:00:00,000	CAESAR	Hey. Hey, lady. Are you okay?
+152	00:00:00,000 --> 00:00:00,000	ILANA	Jarrah?
+154	00:00:00,000 --> 00:00:00,000	CAESAR	No. My name is Caesar. We had an accident. But we're okay now.
+156	00:00:00,000 --> 00:00:00,000		[Ilana looks over at the empty seat next to her where Sayid had been sitting. She pants, and looks around the cabin. Lapidus staggers toward them, panting. Ilana tries to get up with Caesar's assistance. Her legs fail her, but he catches her.]
+158	00:00:00,000 --> 00:00:00,000	CAESAR	Hey.
+160	00:00:00,000 --> 00:00:00,000	ILANA	Ohh.
+162	00:00:00,000 --> 00:00:00,000		[Caesar groans as he puts her back in her seat. Sun tries to pull herself up from her seat.]
+164	00:00:00,000 --> 00:00:00,000	SUN	[Panting] Frank?
+166	00:00:00,000 --> 00:00:00,000	LAPIDUS	Sun.
+168	00:00:00,000 --> 00:00:00,000		[He grunts as he offers his shoulder to her and helps her pull herself out.]
+170	00:00:00,000 --> 00:00:00,000	LAPIDUS	You all right?
+172	00:00:00,000 --> 00:00:00,000	SUN	Oh, my God. What happened?!
+174	00:00:00,000 --> 00:00:00,000	LAPIDUS	[Grunts] I don't know.
+176	00:00:00,000 --> 00:00:00,000		[He looks around the cabin.]
+178	00:00:00,000 --> 00:00:00,000	LAPIDUS	Where's everyone else? Jack and... Kate and Hurley--where'd they go?
+180	00:00:00,000 --> 00:00:00,000	BEN	They're gone.
+182	00:00:00,000 --> 00:00:00,000		[Lapidus whirls around, aiming his flashlight. Benjamin Linus stands, not even winded, at the front of the aisle.]
+184	00:00:00,000 --> 00:00:00,000	LAPIDUS	[Panting] Gone? Gone where?
+186	00:00:00,000 --> 00:00:00,000	BEN	[Shaking his head faintly] How would I know?
+188	00:00:00,000 --> 00:00:00,000		[Title card: "Thirty Years Earlier"]
+190	00:00:00,000 --> 00:00:00,000		[1977 - The surf rolls in at the North Point. Jack, Hurley, Jin, and Kate have emerged from Jin's blue DHARMA van. Sawyer stands in front of his blue Jeep and stares at them in disbelief. Jack steps forward. Sawyer removes his eyeglasses. Kate looks at him. Jack looks over at Kate. Hurley sets down his guitar case and lumbers toward Sawyer.]
+192	00:00:00,000 --> 00:00:00,000	HURLEY	You're alive. Dude! I can't believe it! [Laughs]
+194	00:00:00,000 --> 00:00:00,000		[Hurley picks Sawyer up in a giant bear hug, lifting him off the ground.]
+196	00:00:00,000 --> 00:00:00,000	HURLEY	Oh! Oh!
+198	00:00:00,000 --> 00:00:00,000		[Sawyer laughs, patting Hurley as the two men disengage.]
+200	00:00:00,000 --> 00:00:00,000	SAWYER	Easy on the ribs there, Kong.
+202	00:00:00,000 --> 00:00:00,000	HURLEY	"Kong." I actually missed that.
+204	00:00:00,000 --> 00:00:00,000	SAWYER	Missed you, too, Hugo.
+206	00:00:00,000 --> 00:00:00,000		[Jack steps forward and offers Sawyer and handshake.]
+208	00:00:00,000 --> 00:00:00,000	JACK	Sawyer.
+210	00:00:00,000 --> 00:00:00,000	SAWYER	Doc.
+212	00:00:00,000 --> 00:00:00,000		[Kate comes close to Sawyer. They fall into a warm hug.]
+214	00:00:00,000 --> 00:00:00,000	SAWYER	Good to see you, Kate.
+216	00:00:00,000 --> 00:00:00,000	KATE	You, too, James.
+218	00:00:00,000 --> 00:00:00,000	SAWYER	[Sighs] You're really here. Son of a bitch actually did it! Locke said he was gonna bring you back, but... where is he?
+220	00:00:00,000 --> 00:00:00,000		[Kate looks down. So does Jack.]
+222	00:00:00,000 --> 00:00:00,000	JACK	John's dead.
+224	00:00:00,000 --> 00:00:00,000	SAWYER	Dead? How?
+226	00:00:00,000 --> 00:00:00,000	JACK	Doesn't matter. He's gone.
+228	00:00:00,000 --> 00:00:00,000	HURLEY	So what's up with you guys and the old DHARMA jumpsuits?
+230	00:00:00,000 --> 00:00:00,000	SAWYER	You didn't tell 'em?
+232	00:00:00,000 --> 00:00:00,000		[Hurley looks over at Jin.]
+234	00:00:00,000 --> 00:00:00,000	JIN	No. I was waiting for you.
+236	00:00:00,000 --> 00:00:00,000	KATE	Tell us what?
+238	00:00:00,000 --> 00:00:00,000	SAWYER	We're in the DHARMA Initiative.
+240	00:00:00,000 --> 00:00:00,000	JACK	They came back to the Island?
+242	00:00:00,000 --> 00:00:00,000	SAWYER	No. We came back. And so did you. It's 1977.
+244	00:00:00,000 --> 00:00:00,000		[They look at each other. Except Hurley, who looks at Sawyer.]
+246	00:00:00,000 --> 00:00:00,000	HURLEY	Uh... what?
+248	00:00:00,000 --> 00:00:00,000	JACK	[Sighs] So you're telling me that you've been here, living with the DHARMA Initiative for the past three years.
+250	00:00:00,000 --> 00:00:00,000	SAWYER	That's right. How long's it been for you since the chopper?
+252	00:00:00,000 --> 00:00:00,000	KATE	Three years.
+254	00:00:00,000 --> 00:00:00,000	MILES	[Over radio] [Static] Hey, Jin, this is Miles. Where are you? Over. [Static]
+256	00:00:00,000 --> 00:00:00,000	JIN	If I don't report in soon, they'll send out a patrol. What should we do with them?
+258	00:00:00,000 --> 00:00:00,000	HURLEY	[To Jin] Dude, your English is awesome.
+260	00:00:00,000 --> 00:00:00,000	SAWYER	What we do is we bring 'em in.
+262	00:00:00,000 --> 00:00:00,000	JACK	Bring us in where?
+264	00:00:00,000 --> 00:00:00,000	SAWYER	Back to the Barracks at DHARMAville. You can't be wandering around in the jungle with the Hostiles.
+266	00:00:00,000 --> 00:00:00,000	KATE	"The Hostiles"?
+268	00:00:00,000 --> 00:00:00,000	SAWYER	The Others.
+270	00:00:00,000 --> 00:00:00,000	HURLEY	What about everyone else from the plane? They could still be out there.
+272	00:00:00,000 --> 00:00:00,000	SAWYER	What do you mean, everyone else?
+274	00:00:00,000 --> 00:00:00,000	JACK	We didn't come back alone. Sayid was on the plane, too. Lapidus... and Sun.
+276	00:00:00,000 --> 00:00:00,000		[Jin runs to the Jeep.]
+278	00:00:00,000 --> 00:00:00,000	SAWYER	Jin! Hold up! Where you goin'?!
+280	00:00:00,000 --> 00:00:00,000	JIN	The Flame. If a plane landed on the Island, Radzinsky will know.
+282	00:00:00,000 --> 00:00:00,000		[Engine starts.]
+284	00:00:00,000 --> 00:00:00,000	SAWYER	Hold on! We gotta think about this!
+286	00:00:00,000 --> 00:00:00,000		[Jin drives away.]
+288	00:00:00,000 --> 00:00:00,000	SAWYER	All right. That's it. Listen, you guys gotta stay put. Don't go nowhere, don't do nothing till I can figure out how the hell to explain where you came from.
+290	00:00:00,000 --> 00:00:00,000	KATE	Sawyer, wait. Other than you and Jin, who else is still here?
+292	00:00:00,000 --> 00:00:00,000		[Inside the DHARMA Security office, Juliet enters.]
+294	00:00:00,000 --> 00:00:00,000	JULIET	Miles, have you seen James?
+296	00:00:00,000 --> 00:00:00,000	MILES	Nope. He's not answering his walkie, either.
+298	00:00:00,000 --> 00:00:00,000	JULIET	Jin called him this morning, then he just ran off without telling me what was going on.
+300	00:00:00,000 --> 00:00:00,000	MILES	Well, let's see what we've got.
+302	00:00:00,000 --> 00:00:00,000		[Miles adjusts one of the monitors, banging it to make it work.]
+304	00:00:00,000 --> 00:00:00,000	MILES	Hang on. There he is.
+306	00:00:00,000 --> 00:00:00,000		[Back at Sawyer and Juliet's house, Sawyer rumages through the wardrobe, grabbing shirts from hangers quickly. Juliet enters.]
+308	00:00:00,000 --> 00:00:00,000	JULIET	Hey.
+310	00:00:00,000 --> 00:00:00,000	SAWYER	You seen my baggy sweatshirt, the one with the bulldog on it?
+312	00:00:00,000 --> 00:00:00,000	JULIET	It's in the laundry. James... what's going on?
+314	00:00:00,000 --> 00:00:00,000	SAWYER	They're back.
+316	00:00:00,000 --> 00:00:00,000	JULIET	I'm sorry. Who's back?
+318	00:00:00,000 --> 00:00:00,000	SAWYER	Jack, Hurley, Kate.
+320	00:00:00,000 --> 00:00:00,000	JULIET	What?
+322	00:00:00,000 --> 00:00:00,000	SAWYER	I know. [setting a bag of clothes on the bed] They came back, Juliet.
+324	00:00:00,000 --> 00:00:00,000	JULIET	Are they here now?
+326	00:00:00,000 --> 00:00:00,000	SAWYER	Yeah. [grabbing more clothes from a drawer] They're out at the North Point, waitin' for me to tell 'em what to do.
+328	00:00:00,000 --> 00:00:00,000	JULIET	[Whispers] How did they get...
+330	00:00:00,000 --> 00:00:00,000	SAWYER	I'm not sure. They said they were on a plane.
+332	00:00:00,000 --> 00:00:00,000		[Sawyer drops the bag and sits on the bed beside Juliet.]
+334	00:00:00,000 --> 00:00:00,000	SAWYER	[Sighs] I don't understand it any more than you do. But they're here, and I gotta find a way to bring 'em in before somebody else finds 'em and they screw up everything we got here.
+336	00:00:00,000 --> 00:00:00,000	JULIET	There's, um, a sub coming in this afternoon.
+338	00:00:00,000 --> 00:00:00,000		[At the Flame station, Jin arrives in the Jeep. Inside, Radzinsky carefully glues and attempts to fix match sticks to a model. The door bangs open, Jin runs in, right past Radzinsky.]
+340	00:00:00,000 --> 00:00:00,000	RADZINSKY	Hey, you understand the concept of knocking?
+342	00:00:00,000 --> 00:00:00,000		[He runs into the monitor room and begins flipping switches. A print-out begins and Jin examines it. Radzinsky then snatches it from his hands.]
+344	00:00:00,000 --> 00:00:00,000	RADZINSKY	Oh, get your hands off that! I thought you learned English. I said, hands off! Nobody handles any of the gear in this station except me. Understand?
+346	00:00:00,000 --> 00:00:00,000	JIN	I need to check the radar logs.
+348	00:00:00,000 --> 00:00:00,000	RADZINSKY	For what?
+350	00:00:00,000 --> 00:00:00,000	JIN	Please. I need to know if a plane landed on the Island.
+352	00:00:00,000 --> 00:00:00,000	RADZINSKY	If a plane landed? Here?
+354	00:00:00,000 --> 00:00:00,000	JIN	Yes.
+356	00:00:00,000 --> 00:00:00,000	RADZINSKY	What, so you think if a plane landed on our Island, I'd be over there just building my model? That I wouldn't have called anyone? That I wouldn't have put out an alert?
+358	00:00:00,000 --> 00:00:00,000	JIN	Maybe you missed it. Can you check with the other stations?
+360	00:00:00,000 --> 00:00:00,000	RADZINSKY	I just told you I would not be--
+362	00:00:00,000 --> 00:00:00,000		[Jin grabs Radzinsky's collar and throws him against a wall.]
+364	00:00:00,000 --> 00:00:00,000	JIN	Check with the other stations.
+366	00:00:00,000 --> 00:00:00,000		[Jin then pushes him toward the monitors. Radzinsky begins flipping switches, then, speaking into a microphone.]
+368	00:00:00,000 --> 00:00:00,000	RADZINSKY	Attention all stations, this is a system-wide broadcast from Radzinsky at the Flame. I'm checking in to see if anyone's seen an airplane over the Island. [Chuckles] No one else has seen an airplane, but if you have, could you call in to me, please? Over.
+370	00:00:00,000 --> 00:00:00,000		[Click.]
+372	00:00:00,000 --> 00:00:00,000	RADZINSKY	So what are you all hot and bothered about, Kwon? Why is this plane so damn important?
+374	00:00:00,000 --> 00:00:00,000	JIN	It just is.
+376	00:00:00,000 --> 00:00:00,000		[2007 - On the beach, Sun clutches Jin's wedding ring and looks out to sea. The camera pans to show Ajira 316 in the distance. Ilana approaches Sun.]
+378	00:00:00,000 --> 00:00:00,000	ILANA	Did you lose someone?
+380	00:00:00,000 --> 00:00:00,000	SUN	Excuse me?
+382	00:00:00,000 --> 00:00:00,000	ILANA	I just saw you looking around. I thought maybe you lost someone on the plane.
+384	00:00:00,000 --> 00:00:00,000	SUN	No. I was traveling alone.
+386	00:00:00,000 --> 00:00:00,000	LAPIDUS	Can I get everybody's attention?! Everybody, please! Listen up, folks! Here's where we're at. The radio's dead, so I haven't been able to call in our situation. But that's all right. Soon as they figure out we're not where we're supposed to be, they'll come looking for us. So best thing to do right now is just stick together. Stick together, hunker down and just wait till help gets here.
+388	00:00:00,000 --> 00:00:00,000	CAESAR	And where is here?
+390	00:00:00,000 --> 00:00:00,000	LAPIDUS	What's that?
+392	00:00:00,000 --> 00:00:00,000	CAESAR	Where is here? What is this place?
+394	00:00:00,000 --> 00:00:00,000	LAPIDUS	I don't know where "here" is because this island's not on my charts.
+396	00:00:00,000 --> 00:00:00,000	CAESAR	Really?
+398	00:00:00,000 --> 00:00:00,000	LAPIDUS	Really.
+400	00:00:00,000 --> 00:00:00,000	CAESAR	Because there are some buildings over there... and animal cages. Down the beach, you can see a bigger island across the water. So maybe you should get some new charts.
+402	00:00:00,000 --> 00:00:00,000		[Ben gets up and wonders into the jungle.]
+404	00:00:00,000 --> 00:00:00,000	LAPIDUS	Right now, I'm just trying to keep everyone here safe. So let's gather up some firewood.
+406	00:00:00,000 --> 00:00:00,000	CAESAR	If he wants to wait, let him! I say we search these buildings! Maybe they have a radio or some food! Who wants to help me?!
+408	00:00:00,000 --> 00:00:00,000		[Sun notices Ben and decides to follow him. Then Frank decides to follow Sun.]
+410	00:00:00,000 --> 00:00:00,000		[In the jungle, Sun is following Ben from a distance until she loses him. Suddenly, Ben is behind her.]
+412	00:00:00,000 --> 00:00:00,000	BEN	Why are you following me?
+414	00:00:00,000 --> 00:00:00,000		[Sun spins around.]
+416	00:00:00,000 --> 00:00:00,000	SUN	Where are you going?
+418	00:00:00,000 --> 00:00:00,000	BEN	Back to our Island. ...You wanna come?
+420	00:00:00,000 --> 00:00:00,000		[1977 - Amy is sleeping in a hammock in the Barracks. Juliet quietly takes a clipboard from the table beside her, but she wakes up.]
+422	00:00:00,000 --> 00:00:00,000	AMY	Juliet?
+424	00:00:00,000 --> 00:00:00,000	JULIET	Hey, Amy. I'm sorry. I didn't mean to wake you.
+426	00:00:00,000 --> 00:00:00,000	AMY	Oh, no, it's fine.
+428	00:00:00,000 --> 00:00:00,000	JULIET	I just came to get the sub manifest. [Sighs] Obviously, I don't want you working today.
+430	00:00:00,000 --> 00:00:00,000	AMY	Thank you.
+432	00:00:00,000 --> 00:00:00,000	JULIET	Full load?
+434	00:00:00,000 --> 00:00:00,000	AMY	Almost. Two of the recruits dropped out in the eleventh hour. They didn't want to take the sedative for the trip. Can you tell Pierre for me?
+436	00:00:00,000 --> 00:00:00,000	JULIET	Hi. Hi. Oh, hello, little one. Hi.
+438	00:00:00,000 --> 00:00:00,000		[Juliet picks up the baby.]
+440	00:00:00,000 --> 00:00:00,000	JULIET	Have you and Horace decided on a name?
+442	00:00:00,000 --> 00:00:00,000	AMY	Yeah, we have. We're gonna name him Ethan.
+444	00:00:00,000 --> 00:00:00,000		[A look of realization washes over Juliet's face. She gives baby Ethan back to Amy.]
+446	00:00:00,000 --> 00:00:00,000	AMY	Oh, hey, buddy. So... when are you and Jim gonna have one of these?
+448	00:00:00,000 --> 00:00:00,000	JULIET	I don't know. Timing's gotta be right.
+450	00:00:00,000 --> 00:00:00,000		[Back at the North Valley, Jack taps his wrist watch.]
+452	00:00:00,000 --> 00:00:00,000	KATE	So the woman who told you how to come back... did she mention that it would be 30 years ago?
+454	00:00:00,000 --> 00:00:00,000	JACK	No. No, she left that part out.
+456	00:00:00,000 --> 00:00:00,000	KATE	So what are we supposed to do now?
+458	00:00:00,000 --> 00:00:00,000	JACK	I'm not sure yet.
+460	00:00:00,000 --> 00:00:00,000		[Vehicle approaching.]
+462	00:00:00,000 --> 00:00:00,000	HURLEY	Sawyer's back!
+464	00:00:00,000 --> 00:00:00,000		[Turns off engine. Sawyer gets out, opens the side door and begins to gather the clothes he retrieved.]
+466	00:00:00,000 --> 00:00:00,000	SAWYER	All right, listen. Y'all are gonna be the second batch of recruits comin' in off the sub pullin' into port right about now, so we ain't got much time.
+468	00:00:00,000 --> 00:00:00,000		[He hands Hurley a pile of clothes.]
+470	00:00:00,000 --> 00:00:00,000	SAWYER	Nice suit, doc. Not exactly Island wear. Try this.
+472	00:00:00,000 --> 00:00:00,000		[Hands Jack a shirt.]
+474	00:00:00,000 --> 00:00:00,000	JACK	You want us to say we came in on the sub. How's that gonna work?
+476	00:00:00,000 --> 00:00:00,000	SAWYER	Everyone gets knocked out before the trip, so no one meets each other until we process 'em.
+478	00:00:00,000 --> 00:00:00,000		[He gives some clothes to Kate.]
+480	00:00:00,000 --> 00:00:00,000	JACK	Look, we need to find the rest of the people from the plane.
+482	00:00:00,000 --> 00:00:00,000	SAWYER	If there was a plane, Jin will find it. So we got about ten minutes to make intake, or y'all are gonna be camping in the jungle for a long time. There ain't another batch of recruits due in for six months.
+484	00:00:00,000 --> 00:00:00,000	JACK	[to Kate] What do you think?
+486	00:00:00,000 --> 00:00:00,000	KATE	I think we should listen to Sawyer.
+488	00:00:00,000 --> 00:00:00,000	HURLEY	I vote for not camping.
+490	00:00:00,000 --> 00:00:00,000	SAWYER	Trust me. Do what I say. Everything will be fine. [Jack nods] Let's move.
+492	00:00:00,000 --> 00:00:00,000		[At the Flame, Jin waits patiently as Radzinsky types on a keyboard.]
+494	00:00:00,000 --> 00:00:00,000	RADZINSKY	I just heard from the Looking Glass. They were the last station to check in. They got nothing but an incoming sub. Why don't you go home, and I'll call you if something happens?
+496	00:00:00,000 --> 00:00:00,000		[Alarm beeping. Radzinsky gets out of his seat.]
+498	00:00:00,000 --> 00:00:00,000	RADZINSKY	Move. Move. Out of my way.
+500	00:00:00,000 --> 00:00:00,000		[Radzinsky clicks some knobs, beeping continues.]
+502	00:00:00,000 --> 00:00:00,000	RADZINSKY	Those bastards.
+504	00:00:00,000 --> 00:00:00,000	JIN	What do you see?
+506	00:00:00,000 --> 00:00:00,000	RADZINSKY	Grid 325. Motion sensor alarm was tripped. We got a Hostile inside the perimeter.
+508	00:00:00,000 --> 00:00:00,000		[Beeping continues. Jin takes off with his gun.]
+510	00:00:00,000 --> 00:00:00,000	RADZINSKY	Hey! Where you going?!
+512	00:00:00,000 --> 00:00:00,000		[Radzinsky follows. Jin runs outside and through the tall grass. He spots a figure moving and aims his gun.]
+514	00:00:00,000 --> 00:00:00,000	JIN	Stop right there!
+516	00:00:00,000 --> 00:00:00,000		[Sayid reveals himself, still handcuffed.]
+518	00:00:00,000 --> 00:00:00,000	JIN	Sayid?
+520	00:00:00,000 --> 00:00:00,000	SAYID	Jin?
+522	00:00:00,000 --> 00:00:00,000	JIN	[Panting] Where's Sun?
+524	00:00:00,000 --> 00:00:00,000	SAYID	I don't know.
+526	00:00:00,000 --> 00:00:00,000		[Radzinsky appears and cocks his rifle. Jin cocks his.]
+528	00:00:00,000 --> 00:00:00,000	JIN	Shut up!
+530	00:00:00,000 --> 00:00:00,000		[He forces Sayid to his knees.]
+532	00:00:00,000 --> 00:00:00,000	JIN	Get down! Say another word, and you're dead.
+534	00:00:00,000 --> 00:00:00,000		[Sayid looks confused.]
+536	00:00:00,000 --> 00:00:00,000		[Sawyer is driving a DHARMA van with Jack, Kate and Hurley as passengers.]
+538	00:00:00,000 --> 00:00:00,000	HURLEY	Okay, so it's 1977.
+540	00:00:00,000 --> 00:00:00,000	SAWYER	Yep.
+542	00:00:00,000 --> 00:00:00,000	HURLEY	And... you guys are all members of the DHARMA Initiative.
+544	00:00:00,000 --> 00:00:00,000	SAWYER	Yep.
+546	00:00:00,000 --> 00:00:00,000	HURLEY	Well, you do realize those dudes get wiped out, right? I saw where all the bodies got dumped.
+548	00:00:00,000 --> 00:00:00,000	SAWYER	What about it?
+550	00:00:00,000 --> 00:00:00,000	HURLEY	Well, aren't you gonna warn 'em? Aren't you gonna stop it from happening?
+552	00:00:00,000 --> 00:00:00,000	SAWYER	I ain't here to play Nostradamus to these people. Besides, Faraday's got some interesting theories on what we can and can't do here.
+554	00:00:00,000 --> 00:00:00,000	JACK	Did you say Faraday? He's here?
+556	00:00:00,000 --> 00:00:00,000	SAWYER	Not anymore.
+558	00:00:00,000 --> 00:00:00,000		[At the Barracks, a sign reads "WELCOME NEW RECRUITS".]
+560	00:00:00,000 --> 00:00:00,000		[Music by The Blues Images playing on speakers: Ride, captain, ride / Upon your mystery ship, be amazed at the friends.]
+562	00:00:00,000 --> 00:00:00,000		[Sawyer's van pulls up.]
+564	00:00:00,000 --> 00:00:00,000	WOMAN ON PA	...recruits will be going inside for processing, where you'll be given your work assignment and lodging.
+566	00:00:00,000 --> 00:00:00,000		[Music still playing: On your mystery ship / on your way to a world that others might have missed.]
+568	00:00:00,000 --> 00:00:00,000	SAWYER	Put these on and listen up. Juliet's got it worked out so your name's gonna be on the list, all right? So when you get in there, just watch the little meet and greet video, wait for 'em to call your name. When they do, just smile, step up, take your jumpsuits and work assignments.
+570	00:00:00,000 --> 00:00:00,000	JACK	Work assignments?
+572	00:00:00,000 --> 00:00:00,000	SAWYER	Yeah, don't worry. I got it covered. Just remember to act a little doped up, 'cause you just woke up from the sub.
+574	00:00:00,000 --> 00:00:00,000	HURLEY	What if they start asking us questions we can't answer, like, uh, who's president in 1977?
+576	00:00:00,000 --> 00:00:00,000	SAWYER	It's not a damn game show, Hugo. Besides, I'm gonna be in there to get your backs, all right? Let's move.
+578	00:00:00,000 --> 00:00:00,000		[Laughter, indistinct conversations. Miles pulls up in his van and gets out.]
+580	00:00:00,000 --> 00:00:00,000	MILES	LaFleur! Where have you been? I've been trying to reach you on the walkie.
+582	00:00:00,000 --> 00:00:00,000		[Miles notices Jack, Hurley and Kate.]
+584	00:00:00,000 --> 00:00:00,000	MILES	[Lowered voice] What--what the hell are they doing here?
+586	00:00:00,000 --> 00:00:00,000	SAWYER	They're our new inductees. I'll explain everything later. [Lowered voice] Stop staring and tell me what your damn problem is.
+588	00:00:00,000 --> 00:00:00,000	MILES	It's, uh... it's Jin. There's a 14-J at the Flame.
+590	00:00:00,000 --> 00:00:00,000	SAWYER	What?
+592	00:00:00,000 --> 00:00:00,000		[Turning on walkie.]
+594	00:00:00,000 --> 00:00:00,000	SAWYER	[into walkie] Jin, you there?
+596	00:00:00,000 --> 00:00:00,000	JIN	[into walkie] James, we have a problem. We found a Hostile.
+598	00:00:00,000 --> 00:00:00,000	SAWYER	[into walkie] What?! What do you mean you found a hostile? Where?
+600	00:00:00,000 --> 00:00:00,000		[Radzinsky puts Sayid inside a room and shuts the door.]
+602	00:00:00,000 --> 00:00:00,000	JIN	[into walkie] He was wandering in the jungle. Radzinksy's taking care of him now.
+604	00:00:00,000 --> 00:00:00,000	SAWYER	[into walkie] What's he doing in our territory? It's a violation of the truce.
+606	00:00:00,000 --> 00:00:00,000	JIN	[lowered voice] It's Sayid.
+608	00:00:00,000 --> 00:00:00,000	SAWYER	What?! Son of a bitch! [into walkie] Was anyone else with him?
+610	00:00:00,000 --> 00:00:00,000	JIN	[into walkie] No. He was alone.
+612	00:00:00,000 --> 00:00:00,000		[1977 - Ben and Sun walk through the jungle.]
+614	00:00:00,000 --> 00:00:00,000	SUN	Wait!
+616	00:00:00,000 --> 00:00:00,000	BEN	I'm sorry, Sun, but waiting doesn't interest me much right now. There are three outriggers near here and I'm gonna take one. So you can come along and help me row... [sighs, takes off his sling] or you can stay here. Frankly, it makes no difference to me.
+618	00:00:00,000 --> 00:00:00,000	SUN	Why are you leaving?
+620	00:00:00,000 --> 00:00:00,000	BEN	Why are you staying?
+622	00:00:00,000 --> 00:00:00,000	SUN	The main Island... is that where Jin is?
+624	00:00:00,000 --> 00:00:00,000	BEN	Honestly, I don't know. But that's where I'd start looking.
+626	00:00:00,000 --> 00:00:00,000	LAPIDUS	Sun!
+628	00:00:00,000 --> 00:00:00,000		[Frank catches up.]
+630	00:00:00,000 --> 00:00:00,000	SUN	Over here.
+632	00:00:00,000 --> 00:00:00,000	BEN	Hello, Frank.
+634	00:00:00,000 --> 00:00:00,000	LAPIDUS	[Pants] You all right?
+636	00:00:00,000 --> 00:00:00,000	SUN	Yes, I'm fine.
+638	00:00:00,000 --> 00:00:00,000	LAPIDUS	I got worried when I couldn't find ya. I saw him leaving. What are you doing out here?
+640	00:00:00,000 --> 00:00:00,000	SUN	Ben knows where there's a boat. I'm going back to the main Island with him.
+642	00:00:00,000 --> 00:00:00,000	LAPIDUS	You don't think you can really trust this guy, do ya?
+644	00:00:00,000 --> 00:00:00,000	SUN	I have to trust him.
+646	00:00:00,000 --> 00:00:00,000		[Ben walks on ahead. They reach a beach with three outriggers. Ben throws down his bag and uncovers one.]
+648	00:00:00,000 --> 00:00:00,000	BEN	[Grunts] You're ready?
+650	00:00:00,000 --> 00:00:00,000	SUN	Yes.
+652	00:00:00,000 --> 00:00:00,000	LAPIDUS	Sun. I want you to think about this, okay? This guy is dangerous. Sun, that boat I came here on--it was filled with commandos whose only mission was to get him.
+654	00:00:00,000 --> 00:00:00,000	BEN	And how'd that work out for everyone?
+656	00:00:00,000 --> 00:00:00,000	LAPIDUS	Don't do it.
+658	00:00:00,000 --> 00:00:00,000	SUN	Why don't you come with us?
+660	00:00:00,000 --> 00:00:00,000	LAPIDUS	I can't. I got a group of people I gotta look after.
+662	00:00:00,000 --> 00:00:00,000	BEN	That's right, Frank. A captain's first responsibility is to his passengers. But I have people I have to take care of, too. There's a small dock about a half mile due south across the water. It leads directly to a town where I used to live. There are resources there. So, if anyone can help you and the rest of the plane get out of here safely, it--
+664	00:00:00,000 --> 00:00:00,000		[Sun hits Ben over the back of the head with an oar. She grunts. He falls to the floor unconcious.]
+666	00:00:00,000 --> 00:00:00,000	LAPIDUS	I thought you trusted this guy.
+668	00:00:00,000 --> 00:00:00,000	SUN	I lied.
+670	00:00:00,000 --> 00:00:00,000		[1977 - Orientation Video playing: Welcome to the island. For your own comfort and safety, we ask that you stay within the confines of your new living quarters. Our Barracks are surrounded by a high frequency sonar fence to protect us from the Island's abundant and diverse wildlife.]
+672	00:00:00,000 --> 00:00:00,000	KATE	How are we gonna do this?
+674	00:00:00,000 --> 00:00:00,000	PHIL	[Calls out a name from his list] Shephard? Jack Shephard?
+676	00:00:00,000 --> 00:00:00,000	JACK	Here we go.
+678	00:00:00,000 --> 00:00:00,000		[Jack approaches Phil.]
+680	00:00:00,000 --> 00:00:00,000	PHIL	Hey, Jack. Have a seat.
+682	00:00:00,000 --> 00:00:00,000		[He takes a seat. Pierre Chang arrives.]
+684	00:00:00,000 --> 00:00:00,000	DR. CHANG	Of course it isn't here... [Sighs]
+686	00:00:00,000 --> 00:00:00,000	JACK	What's that?
+688	00:00:00,000 --> 00:00:00,000	DR. CHANG	Your file. Could they be any more disorganized on the other side? Sorry. Namaste. [the shake hands] I'm Pierre Chang. Welcome to the DHARMA Initiative. How was your ride in?
+690	00:00:00,000 --> 00:00:00,000	JACK	It was fine.
+692	00:00:00,000 --> 00:00:00,000	DR. CHANG	Good. Who was your shuttle driver?
+694	00:00:00,000 --> 00:00:00,000	JACK	I'm sorry?
+696	00:00:00,000 --> 00:00:00,000	DR. CHANG	Uh... the shuttle from the sub. Who was your driver?
+698	00:00:00,000 --> 00:00:00,000	JACK	Oh, that was, uh... um... Mr. LaFleur.
+700	00:00:00,000 --> 00:00:00,000	DR. CHANG	Ah, yes. Good man, LaFleur. Runs a very tight operation. [Sets down clipboard] [Sighs] I'm sorry for the disorganization. The woman who was supposed to be processing you in had a baby last night. I got pulled out of my lab. I... ah, here it is... your job assignment. [Sighs] You've been assigned to the Shed.
+702	00:00:00,000 --> 00:00:00,000	JACK	"Work man." What does--what does that mean?
+704	00:00:00,000 --> 00:00:00,000	DR. CHANG	Based on your aptitude test, you'll be doing janitorial work.
+706	00:00:00,000 --> 00:00:00,000		[Jack chuckles. On the other side of the room, Kate waits around to be called. Phil notices her.]
+708	00:00:00,000 --> 00:00:00,000	PHIL	Hey there, ma'am.
+710	00:00:00,000 --> 00:00:00,000	KATE	Hi.
+712	00:00:00,000 --> 00:00:00,000	PHIL	They haven't called you yet?
+714	00:00:00,000 --> 00:00:00,000	KATE	No. Not yet.
+716	00:00:00,000 --> 00:00:00,000	PHIL	What's your name?
+718	00:00:00,000 --> 00:00:00,000	KATE	Kate... Austen.
+720	00:00:00,000 --> 00:00:00,000	PHIL	Austen. [Flips pages] Austen... Huh. You're not on my list, and you're not on the sub manifest either. Who's your recruiter?
+722	00:00:00,000 --> 00:00:00,000	KATE	Um...
+724	00:00:00,000 --> 00:00:00,000		[Juliet enters.]
+726	00:00:00,000 --> 00:00:00,000	JULIET	Hold on, Phil. [Sighs] I just got the new list from Amy. Some, uh, last-minute additions, including... Miss Austen?
+728	00:00:00,000 --> 00:00:00,000	PHIL	All righty then. She's all yours.
+730	00:00:00,000 --> 00:00:00,000		[Phil leaves the two of them.]
+732	00:00:00,000 --> 00:00:00,000	JULIET	I'm sorry for the mix-up. I'm Juliet.
+734	00:00:00,000 --> 00:00:00,000	KATE	Kate.
+736	00:00:00,000 --> 00:00:00,000		[They shake hands.]
+738	00:00:00,000 --> 00:00:00,000	JULIET	Hi, Kate. Welcome to the Island.
+740	00:00:00,000 --> 00:00:00,000		[Sawyer arrives at the Flame in a DHARMA van. Engine turns off.]
+742	00:00:00,000 --> 00:00:00,000	SAWYER	What the hell happened?
+744	00:00:00,000 --> 00:00:00,000	JIN	Sayid just came walking out of the jungle in handcuffs alone.
+746	00:00:00,000 --> 00:00:00,000	SAWYER	What? Did he say anything about the plane they were on?
+748	00:00:00,000 --> 00:00:00,000	JIN	No, I couldn't talk to him. Radzinsky thinks he's a Hostile. He won't leave us alone.
+750	00:00:00,000 --> 00:00:00,000	SAWYER	[Whispers] I got this.
+752	00:00:00,000 --> 00:00:00,000		[Sawyer and Jin enter the station.]
+754	00:00:00,000 --> 00:00:00,000	SAWYER	Where is he?
+756	00:00:00,000 --> 00:00:00,000	RADZINSKY	Locked in the storage room.
+758	00:00:00,000 --> 00:00:00,000	SAWYER	Give me the key.
+760	00:00:00,000 --> 00:00:00,000	RADZINSKY	You need to know, LaFleur--he saw the model of the Swan, and he could've seen the survey of where we're building it.
+762	00:00:00,000 --> 00:00:00,000	SAWYER	Your point is?
+764	00:00:00,000 --> 00:00:00,000	RADZINSKY	He's a spy. This whole thing is an act, and we either play into it or we don't. We can end this right now.
+766	00:00:00,000 --> 00:00:00,000	SAWYER	What the hell are you talking about, Radzinsky?
+768	00:00:00,000 --> 00:00:00,000	RADZINSKY	We shoot him.
+770	00:00:00,000 --> 00:00:00,000	SAWYER	Well, I appreciate your input there, quick draw. But I wanna talk to him first. Give me the damn keys.
+772	00:00:00,000 --> 00:00:00,000		[Radzinsky hands over the keys and Sawyer throws then to Jin. He opens the door and drags Sayid out. Sayid sees Sawyer and has a look of surprise on his face. They sit him down in a chair.]
+774	00:00:00,000 --> 00:00:00,000	SAWYER	[to Sayid] My name's LaFleur. I'm head of security. I want you to listen real carefully to what I got to say. And if you do that, you'll be fine. Understand?
+776	00:00:00,000 --> 00:00:00,000		[Sayid nods.]
+778	00:00:00,000 --> 00:00:00,000	SAWYER	All right, let's start simple. Identify yourself as a Hostile.
+780	00:00:00,000 --> 00:00:00,000		[Sayid says nothing.]
+782	00:00:00,000 --> 00:00:00,000	SAWYER	The terms of the truce say you gotta identify yourself as a Hostile, or we got the right to shoot you.
+784	00:00:00,000 --> 00:00:00,000	SAYID	We do not refer to ourselves as "Hostile", but yes, I--I am one of them.
+786	00:00:00,000 --> 00:00:00,000	SAWYER	[Sighs] All right. Good. Then we can proceed like a couple of gentlemen. Let's go. [he pulls Sayid up] Just taking him back to the barracks.
+788	00:00:00,000 --> 00:00:00,000	RADZINSKY	Oh, if you're taking him in, then I'm coming with you.
+790	00:00:00,000 --> 00:00:00,000		[They take him outside.]
+792	00:00:00,000 --> 00:00:00,000	RADZINSKY	This is a horrible mistake. I'm gonna talk directly to Horace about this.
+794	00:00:00,000 --> 00:00:00,000	SAWYER	Fine. Talk away.
+796	00:00:00,000 --> 00:00:00,000		[2007 - Nighttime, a shot of both Island's under a full moon. Sun and Frank moor their outrigger at the dock.]
+798	00:00:00,000 --> 00:00:00,000	LAPIDUS	You wanna remind me why the hell we're doing this?
+800	00:00:00,000 --> 00:00:00,000	SUN	Ben said if my husband is on the Island, the best place to start looking for him is here.
+802	00:00:00,000 --> 00:00:00,000	LAPIDUS	Oh, I see, that's some advice you took before you whacked him in the head.
+804	00:00:00,000 --> 00:00:00,000		[As they walk along the dock, leaves rustle.]
+806	00:00:00,000 --> 00:00:00,000	LAPIDUS	Whoa.
+808	00:00:00,000 --> 00:00:00,000		[Leaves rustle, branches snap. A skittering noise.]
+810	00:00:00,000 --> 00:00:00,000	LAPIDUS	Tell me you saw that.
+812	00:00:00,000 --> 00:00:00,000	SUN	Probably just an animal.
+814	00:00:00,000 --> 00:00:00,000	LAPIDUS	Animal. Right.
+816	00:00:00,000 --> 00:00:00,000		[They arrive at the Barracks, which is very run down.]
+818	00:00:00,000 --> 00:00:00,000	LAPIDUS	I'm sorry to say, Sun, but... I don't think we're gonna find your husband here. Maybe we oughta just head back.
+820	00:00:00,000 --> 00:00:00,000		[A sign creaks in the wind. Suddenly there is whispering, and a light comes on inside one of the houses. The door creaks open and a shadowy man steps out.]
+822	00:00:00,000 --> 00:00:00,000	MAN	Hello.
+824	00:00:00,000 --> 00:00:00,000	LAPIDUS	Who the hell are you?
+826	00:00:00,000 --> 00:00:00,000	MAN	My name's Christian.
+828	00:00:00,000 --> 00:00:00,000	SUN	I'm looking for my husband. His name is Jin Kwon. Do you know where he is?
+830	00:00:00,000 --> 00:00:00,000	CHRISTIAN	Follow me.
+832	00:00:00,000 --> 00:00:00,000		[They enter a dark room with photos on the wall.]
+834	00:00:00,000 --> 00:00:00,000	SUN	What is this place?
+836	00:00:00,000 --> 00:00:00,000		[Christian examines the photos.]
+838	00:00:00,000 --> 00:00:00,000	CHRISTIAN	'72... '76, '78...
+840	00:00:00,000 --> 00:00:00,000	SUN	Where is my husband?
+842	00:00:00,000 --> 00:00:00,000	CHRISTIAN	Uh, here we go. '77. He's, uh... he's with your friends.
+844	00:00:00,000 --> 00:00:00,000	SUN	What are you talking about? What friends?
+846	00:00:00,000 --> 00:00:00,000		[Door creaks, wind blowing loudly. Christian hands Sun a photo. It's a new recruits DHARMA photo. Jack, Kate and Hurley are present in the photo.]
+848	00:00:00,000 --> 00:00:00,000	CHRISTIAN	I'm sorry, but you have a bit of a journey ahead of you.
+850	00:00:00,000 --> 00:00:00,000		[1977 - The group of new recruits gather for the photo.]
+852	00:00:00,000 --> 00:00:00,000	MAN	Okay, ready? Everybody say, "Namaste!"
+854	00:00:00,000 --> 00:00:00,000	ALL	Namaste.
+856	00:00:00,000 --> 00:00:00,000	HURLEY	Nama-what?
+858	00:00:00,000 --> 00:00:00,000		[Camera shutter snaps.]
+860	00:00:00,000 --> 00:00:00,000	PHIL	Okay. [Claps hands] Right on. So you guys have the rest of the day to get acquainted with your security protocol handbooks waitin' in your new digs. Now some of it may seem a little scary, but I promise you all, we are perfectly safe here, okay? So make yourselves at home. Come on. We got hamburgers. We got punch.
+862	00:00:00,000 --> 00:00:00,000	SAWYER	[on the walkie] You there, Phil? We're coming in with a 14-J.
+864	00:00:00,000 --> 00:00:00,000	PHIL	Roger that, Mr. LaFleur.
+866	00:00:00,000 --> 00:00:00,000		[A DHARMA van stops.]
+868	00:00:00,000 --> 00:00:00,000	PHIL	Okay, if I could get everyone to hold back, please, we have a minor security situation.
+870	00:00:00,000 --> 00:00:00,000		[Sawyer, Jin and Radzinsky step out with Sayid.]
+872	00:00:00,000 --> 00:00:00,000	RADZINSKY	Move.
+874	00:00:00,000 --> 00:00:00,000		[They march him away.]
+876	00:00:00,000 --> 00:00:00,000	HURLEY	I guess we found Sayid.
+878	00:00:00,000 --> 00:00:00,000		[Inside the security office, they march Sayid down the stairs and into a prison cell.]
+880	00:00:00,000 --> 00:00:00,000	SAWYER	All right, you can hang out here until we can figure out what the hell to do with you.
+882	00:00:00,000 --> 00:00:00,000	PHIL	What are we gonna do with him?
+884	00:00:00,000 --> 00:00:00,000		[Ssawyer sighs deeply.]
+886	00:00:00,000 --> 00:00:00,000	SAWYER	Bring the man some damn food. We're not savages.
+888	00:00:00,000 --> 00:00:00,000		[Sawyer locks the cell and gives Sayid a glance before walking away.]
+890	00:00:00,000 --> 00:00:00,000		[Nighttime, Jack stops Phil in the Barracks.]
+892	00:00:00,000 --> 00:00:00,000	JACK	Ah, excuse me. Um... Could you tell me where James LaFleur lives?
+894	00:00:00,000 --> 00:00:00,000	PHIL	Uh, that's his house right there.
+896	00:00:00,000 --> 00:00:00,000	JACK	[Chuckles] Thanks.
+898	00:00:00,000 --> 00:00:00,000	PHIL	But I wouldn't call him "James". He hates it.
+900	00:00:00,000 --> 00:00:00,000	JACK	[Chuckles nervously]
+902	00:00:00,000 --> 00:00:00,000		[Jack knocks on the door. Juliet opens it. Jack is surprised.]
+904	00:00:00,000 --> 00:00:00,000	JULIET	[Sighs] Hey, Jack.
+906	00:00:00,000 --> 00:00:00,000		[They hug.]
+908	00:00:00,000 --> 00:00:00,000	JACK	[Sighs] I saw you earlier today when you were helping Kate, and I wanted to say something to you then, but...
+910	00:00:00,000 --> 00:00:00,000	JULIET	We're not supposed to know each other.
+912	00:00:00,000 --> 00:00:00,000	JACK	Yeah. Um... I was looking for Sawyer. I guess I came to the wrong house.
+914	00:00:00,000 --> 00:00:00,000	JULIET	No. Come in.
+916	00:00:00,000 --> 00:00:00,000		[Jack enters. Sawyer sits in a comfy chair, reading a paperback.]
+918	00:00:00,000 --> 00:00:00,000	SAWYER	Evening, Doc.
+920	00:00:00,000 --> 00:00:00,000		[Door closes.]
+922	00:00:00,000 --> 00:00:00,000	JULIET	[Sighs] Well, I'm sure you two have a lot to talk about.
+924	00:00:00,000 --> 00:00:00,000	SAWYER	Take a load off. You want a beer?
+926	00:00:00,000 --> 00:00:00,000	JACK	No. [Chuckles] No, I'm fine.
+928	00:00:00,000 --> 00:00:00,000	SAWYER	What can I do for you, Jack?
+930	00:00:00,000 --> 00:00:00,000	JACK	[Exhales deeply] I don't even know where to start. Uh... how about with Sayid?
+932	00:00:00,000 --> 00:00:00,000	SAWYER	I had no choice. He was running around in the jungle, got caught by my people. And seein' as how he can't tell the truth about how he got here, I had to improvise.
+934	00:00:00,000 --> 00:00:00,000	JACK	Improvise?
+936	00:00:00,000 --> 00:00:00,000	SAWYER	Uh-huh. And for now, Sayid is safe, which is all that matters.
+938	00:00:00,000 --> 00:00:00,000	JACK	So where do we go from here?
+940	00:00:00,000 --> 00:00:00,000	SAWYER	I'm working on it.
+942	00:00:00,000 --> 00:00:00,000	JACK	Really? Because it looked to me like you were reading a book.
+944	00:00:00,000 --> 00:00:00,000	SAWYER	[Chuckles] I heard once Winston Churchill read a book every night, even during the Blitz. He said it made him think better. It's how I like to run things. I think. I'm sure that doesn't mean that much to you, 'cause back when you were calling the shots, you pretty much just reacted. See, you didn't think, Jack, and as I recall, a lot of people ended up dead.
+946	00:00:00,000 --> 00:00:00,000	JACK	I got us off the Island.
+948	00:00:00,000 --> 00:00:00,000	SAWYER	But here you are... [sighs] right back where you started. So I'm gonna go back to reading my book, and I'm gonna think, 'cause that's how I saved your ass today. And that's how I'm gonna save Sayid's tomorrow. All you gotta do is go home, get a good night's rest. Let me do what I do.
+950	00:00:00,000 --> 00:00:00,000		[Sawyer sees Jack out.]
+952	00:00:00,000 --> 00:00:00,000	SAWYER	...now ain't that a relief?
+954	00:00:00,000 --> 00:00:00,000	JACK	Yeah.
+956	00:00:00,000 --> 00:00:00,000		[Jack leaves, and Sawyer watches him go. He turns to see Kate standing on her porch. They give each other subtle waves, and Sawyer walks back inside.]
+958	00:00:00,000 --> 00:00:00,000		[In the security office, a young boy enters.]
+960	00:00:00,000 --> 00:00:00,000	BOY	Hey, Phil. I'm just gonna go in there and deliver him a sandwich.
+962	00:00:00,000 --> 00:00:00,000	PHIL	All right.
+964	00:00:00,000 --> 00:00:00,000		[The boy enters the cell room.]
+966	00:00:00,000 --> 00:00:00,000	BOY	Hello. I brought you a sandwich. [holds bag through the bars.] I didn't put mustard on it, but if you'd like some, I could get some.
+968	00:00:00,000 --> 00:00:00,000	SAYID	This will be fine. Thank you.
+970	00:00:00,000 --> 00:00:00,000		[Paper bag crinkles.]
+972	00:00:00,000 --> 00:00:00,000	BOY	Are you a Hostile?
+974	00:00:00,000 --> 00:00:00,000	SAYID	Do you think I am?
+976	00:00:00,000 --> 00:00:00,000	BOY	What's your name?
+978	00:00:00,000 --> 00:00:00,000	SAYID	Sayid. What's yours?
+980	00:00:00,000 --> 00:00:00,000	BOY	I'm Ben.
+982	00:00:00,000 --> 00:00:00,000		[Sayid takes a moment.]
+984	00:00:00,000 --> 00:00:00,000	SAYID	It's nice to meet you, Ben.

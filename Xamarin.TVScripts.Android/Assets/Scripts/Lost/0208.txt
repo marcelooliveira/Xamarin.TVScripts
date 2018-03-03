@@ -1,0 +1,337 @@
+Collision
+2	00:00:00,000 --> 00:00:00,000	Written by	Leonard Dick and Javier Grillo-Marxuach
+4	00:00:00,000 --> 00:00:00,000	Directed by	Stephen Williams
+6	00:00:00,000 --> 00:00:00,000		[Flashback - Ana shooting at a firing range. Scene switches to Ana at the office of Matthew Reed, her therapist.]
+8	00:00:00,000 --> 00:00:00,000	MATTHEW	So how're you doing?
+10	00:00:00,000 --> 00:00:00,000	ANA LUCIA	Well, the family with the screaming baby moved.
+12	00:00:00,000 --> 00:00:00,000	MATTHEW	You must be thrilled.
+14	00:00:00,000 --> 00:00:00,000	ANA LUCIA	Actually, it's too quiet now.
+16	00:00:00,000 --> 00:00:00,000	MATTHEW	So, how's Danny -- you two trying to work things out?
+18	00:00:00,000 --> 00:00:00,000	ANA LUCIA	There's nothing to work out. He left.
+20	00:00:00,000 --> 00:00:00,000	MATTHEW	You okay with that?
+22	00:00:00,000 --> 00:00:00,000	ANA LUCIA	I guess you could say I'm one of those people that's just better off alone.
+24	00:00:00,000 --> 00:00:00,000	MATTHEW	So, how was the firing range?
+26	00:00:00,000 --> 00:00:00,000	ANA LUCIA	Good.
+28	00:00:00,000 --> 00:00:00,000	MATTHEW	How did it feel to hold a gun again?
+30	00:00:00,000 --> 00:00:00,000	ANA LUCIA	Very good.
+32	00:00:00,000 --> 00:00:00,000	MATTHEW	All these steps count, Ana. You've come a long way since we met 4 months ago.
+34	00:00:00,000 --> 00:00:00,000	ANA LUCIA	Did she say -- you know, when I can come back to work?
+36	00:00:00,000 --> 00:00:00,000	MATTHEW	She left the final determination up to me.
+38	00:00:00,000 --> 00:00:00,000	ANA LUCIA	Right.
+40	00:00:00,000 --> 00:00:00,000	MATTHEW	Do you think you're ready?
+42	00:00:00,000 --> 00:00:00,000	ANA LUCIA	What do you think?
+44	00:00:00,000 --> 00:00:00,000		[He hands Ana her badge. Shot of her LAPD badge.]
+46	00:00:00,000 --> 00:00:00,000	MATTHEW	[off camera] Welcome back to the force, Officer Cortez.
+48	00:00:00,000 --> 00:00:00,000		[On-Island - Scene switches to right after Ana shot Shannon. Sayid pulls out his gun and goes after Ana.]
+50	00:00:00,000 --> 00:00:00,000	MICHAEL	Sayid! Sayid, no!
+52	00:00:00,000 --> 00:00:00,000		[Eko tackles Sayid and they fight. Ana cold-cocks Sayid, and grabs the gun.]
+54	00:00:00,000 --> 00:00:00,000	MICHAEL	Hey, hey!
+56	00:00:00,000 --> 00:00:00,000	ANA LUCIA	[pointing the gun at Michael] Don't move! Nobody move!
+58	00:00:00,000 --> 00:00:00,000	ANA LUCIA	Nobody move! Nobody! [to Eko] Does he have anything else on him?
+60	00:00:00,000 --> 00:00:00,000	EKO	What?
+62	00:00:00,000 --> 00:00:00,000	ANA LUCIA	He just had a gun to your neck -- check to see if he had anything else on him?
+64	00:00:00,000 --> 00:00:00,000	MICHAEL	Hey, put it down.
+66	00:00:00,000 --> 00:00:00,000	ANA LUCIA	[pointing the gun at Michael] Stop.
+68	00:00:00,000 --> 00:00:00,000	MICHAEL	Are you crazy? Don't point that at me?
+70	00:00:00,000 --> 00:00:00,000	ANA LUCIA	I said stop!
+72	00:00:00,000 --> 00:00:00,000	MICHAEL	What is your problem, huh?!
+74	00:00:00,000 --> 00:00:00,000		[Ana fires off a warning round.]
+76	00:00:00,000 --> 00:00:00,000	BERNARD	Ana!
+78	00:00:00,000 --> 00:00:00,000	JIN	Ã¬â€¢Â¼, Ã«â€žË† Ã«Â¯Â¸Ã¬Â³Â¤Ã¬â€“Â´?
+80	00:00:00,000 --> 00:00:00,000	ANA LUCIA	Get back! Get back, both of you!
+82	00:00:00,000 --> 00:00:00,000	MICHAEL	Are you crazy?
+84	00:00:00,000 --> 00:00:00,000	LIBBY	Ana.
+86	00:00:00,000 --> 00:00:00,000	ANA LUCIA	Now!
+88	00:00:00,000 --> 00:00:00,000	LIBBY	Ana!
+90	00:00:00,000 --> 00:00:00,000	ANA LUCIA	[to Eko] We need to tie him up.
+92	00:00:00,000 --> 00:00:00,000	EKO	I'm not tying him up.
+94	00:00:00,000 --> 00:00:00,000	ANA LUCIA	He tried to kill you.
+96	00:00:00,000 --> 00:00:00,000	EKO	No.
+98	00:00:00,000 --> 00:00:00,000	ANA LUCIA	[pointing the gun at Libby] You, you do it. Tie him. Use the vines from the stretcher.
+100	00:00:00,000 --> 00:00:00,000	MICHAEL	Hey, if we take that thing apart we won't be able to...
+102	00:00:00,000 --> 00:00:00,000	ANA LUCIA	Shut up!
+104	00:00:00,000 --> 00:00:00,000	LIBBY	Ana, Sawyer needs a doctor or he'll die.
+106	00:00:00,000 --> 00:00:00,000	ANA LUCIA	I know what I'm doing.
+108	00:00:00,000 --> 00:00:00,000		[Flashback - Ana at the police station.]
+110	00:00:00,000 --> 00:00:00,000	CAPTAIN	I hope this is all of it.
+112	00:00:00,000 --> 00:00:00,000	RAGGS	That's all we've got right now.
+114	00:00:00,000 --> 00:00:00,000	CAPTAIN	Okay.
+116	00:00:00,000 --> 00:00:00,000	RAGGS	Thanks, Captain.
+118	00:00:00,000 --> 00:00:00,000		[Ana knocks at the Captain's open door.]
+120	00:00:00,000 --> 00:00:00,000	CAPTAIN	Come on in.
+122	00:00:00,000 --> 00:00:00,000	RAGGS	Hey, look who's here. Good to see you Ana Lucia, welcome back.
+124	00:00:00,000 --> 00:00:00,000	ANA LUCIA	Thanks, Raggs.
+126	00:00:00,000 --> 00:00:00,000	RAGGS	I'll get you those IRs, Captain.
+128	00:00:00,000 --> 00:00:00,000	CAPTAIN	Today.
+130	00:00:00,000 --> 00:00:00,000	RAGGS	You've got it.
+132	00:00:00,000 --> 00:00:00,000	CAPTAIN	[to Ana] How are you?
+134	00:00:00,000 --> 00:00:00,000	ANA LUCIA	Good. Fine.
+136	00:00:00,000 --> 00:00:00,000	CAPTAIN	Good. Your assignment.
+138	00:00:00,000 --> 00:00:00,000	ANA LUCIA	Evidence? You're putting me behind a desk?
+140	00:00:00,000 --> 00:00:00,000	CAPTAIN	Is that a problem?
+142	00:00:00,000 --> 00:00:00,000	ANA LUCIA	I want patrol.
+144	00:00:00,000 --> 00:00:00,000	CAPTAIN	I don't care what you want.
+146	00:00:00,000 --> 00:00:00,000	ANA LUCIA	Just put me in a car.
+148	00:00:00,000 --> 00:00:00,000	CAPTAIN	You were in an officer involve shooting -- no.
+150	00:00:00,000 --> 00:00:00,000	ANA LUCIA	[Speaking in Spanish] [Subtitle: You're doing this because you're my Captain? Or because you're my mother?]
+152	00:00:00,000 --> 00:00:00,000	CAPTAIN	Both.
+154	00:00:00,000 --> 00:00:00,000	ANA LUCIA	I need to be back on the street. Please.
+156	00:00:00,000 --> 00:00:00,000	CAPTAIN	I put you in a car -- everyone's going to know I pulled strings. You don't want me to treat you like my daughter? Don't ask for favors.
+158	00:00:00,000 --> 00:00:00,000	ANA LUCIA	Then transfer me.
+160	00:00:00,000 --> 00:00:00,000		[Ana's mother/Captain fills out a form.]
+162	00:00:00,000 --> 00:00:00,000	CAPTAIN	You don't get the transfer, but I'll give you the car. Happy?
+164	00:00:00,000 --> 00:00:00,000	RAGGS	Sorry to bother you Captain -- Ana, there's a call for you in the bullpen, they say it's real important.
+166	00:00:00,000 --> 00:00:00,000	ANA LUCIA	Thanks, Raggs, I'll be right there.
+168	00:00:00,000 --> 00:00:00,000	CAPTAIN	They got you a cake, try and act surprised.
+170	00:00:00,000 --> 00:00:00,000		[On-Island - Jack filling a water bottle, Rose approaches.]
+172	00:00:00,000 --> 00:00:00,000	ROSE	Jack, nice to see you out of the Hatch. You could use more sunshine.
+174	00:00:00,000 --> 00:00:00,000	JACK	I'll take that under advisement.
+176	00:00:00,000 --> 00:00:00,000	ROSE	A little fruit might do you good, too. Good for the constitution -- at least that's what they say.
+178	00:00:00,000 --> 00:00:00,000	JACK	Well, if that's what they say. [Jack takes a piece of fruit from Rose.]
+180	00:00:00,000 --> 00:00:00,000	ROSE	Mmmm?
+182	00:00:00,000 --> 00:00:00,000	JACK	Where'd you get these?
+184	00:00:00,000 --> 00:00:00,000	ROSE	Well, now just because you're a little excited -- no reason to talk with your mouth full.
+186	00:00:00,000 --> 00:00:00,000		[Something drops out of the sky into the water trough Jack was using to fill his bottle. Jack grabs it, and finds it's a golf ball.]
+188	00:00:00,000 --> 00:00:00,000	HURLEY	Past the hanging tree, double or nothing.
+190	00:00:00,000 --> 00:00:00,000	KATE	You sure?
+192	00:00:00,000 --> 00:00:00,000	HURLEY	Dude, double or nothing, there's no way you're hitting it that far.
+194	00:00:00,000 --> 00:00:00,000	CHARLIE	Hurley, the woman's on bloody steroids.
+196	00:00:00,000 --> 00:00:00,000	KATE	Double's 10 thousand bucks.
+198	00:00:00,000 --> 00:00:00,000	CHARLIE	Oh, that's nothing to someone who's worth 150 million dollars. He'll build you your own course, if you'd like.
+200	00:00:00,000 --> 00:00:00,000	KATE	What are you talking about?
+202	00:00:00,000 --> 00:00:00,000	HURLEY	Ignore him, he's an idiot.
+204	00:00:00,000 --> 00:00:00,000		[Kate swings and wins the bet.]
+206	00:00:00,000 --> 00:00:00,000	HURLEY	Crap!
+208	00:00:00,000 --> 00:00:00,000	JACK	[entering] You hooked it. Try keeping your left arm straight.
+210	00:00:00,000 --> 00:00:00,000	KATE	You giving me tips?
+212	00:00:00,000 --> 00:00:00,000	JACK	Kate, I'm -- I'm a doctor.
+214	00:00:00,000 --> 00:00:00,000	KATE	So, you think you could do better?
+216	00:00:00,000 --> 00:00:00,000	JACK	[chuckling] Anyone can hit a ball. That's not golf.
+218	00:00:00,000 --> 00:00:00,000	KATE	And what's golf?
+220	00:00:00,000 --> 00:00:00,000	JACK	Golf is accuracy.
+222	00:00:00,000 --> 00:00:00,000	KATE	Well, why don't we play a few holes and see which one of us is more accurate.
+224	00:00:00,000 --> 00:00:00,000	CHARLIE	Oooh, fighting talk.
+226	00:00:00,000 --> 00:00:00,000	JACK	You're kidding, right?
+228	00:00:00,000 --> 00:00:00,000	KATE	3 holes, no handicap, we play for bragging rights. What are we waiting for?
+230	00:00:00,000 --> 00:00:00,000		[Eko giving a very sick and shaking Sawyer some water.]
+232	00:00:00,000 --> 00:00:00,000	LIBBY	Ana, let's just get to their camp. It was an accident; they'll understand.
+234	00:00:00,000 --> 00:00:00,000	ANA LUCIA	They'll understand? I killed one of them. [motioning to Jin and Michael] If those two move, shout.
+236	00:00:00,000 --> 00:00:00,000	LIBBY	Wait, what are you doing?
+238	00:00:00,000 --> 00:00:00,000		[Ana walks over to Sayid.]
+240	00:00:00,000 --> 00:00:00,000	SAYID	Untie me.
+242	00:00:00,000 --> 00:00:00,000	ANA LUCIA	I'm not-
+244	00:00:00,000 --> 00:00:00,000	SAYID	Untie me!!!
+246	00:00:00,000 --> 00:00:00,000	LIBBY	Ana.
+248	00:00:00,000 --> 00:00:00,000		[Eko lifts Sawyer onto his back.]
+250	00:00:00,000 --> 00:00:00,000	ANA LUCIA	What are you doing?
+252	00:00:00,000 --> 00:00:00,000	EKO	I'm taking him back to his camp.
+254	00:00:00,000 --> 00:00:00,000	ANA LUCIA	Don't leave, please. If that were you, he'd let you die.
+256	00:00:00,000 --> 00:00:00,000	EKO	I'm not doing it for him. I'm doing it for me.
+258	00:00:00,000 --> 00:00:00,000		[Flashback - Ana and her partner, Big Mike, on patrol.]
+260	00:00:00,000 --> 00:00:00,000	BIG MIKE	So'd the shrink give you any good drugs?
+262	00:00:00,000 --> 00:00:00,000	ANA LUCIA	[laughing] Not that kind of shrink.
+264	00:00:00,000 --> 00:00:00,000	BIG MIKE	Did you miss me?
+266	00:00:00,000 --> 00:00:00,000	ANA LUCIA	Boy, did I.
+268	00:00:00,000 --> 00:00:00,000	BIG MIKE	I heard about you and Danny. Want me to go kick his ass for you?
+270	00:00:00,000 --> 00:00:00,000	ANA LUCIA	Nah. It's better this way. What are we doing in Westwood?
+272	00:00:00,000 --> 00:00:00,000	BIG MIKE	I thought a change of scenery would be nice -- a nice safe neighborhood for your first day back.
+274	00:00:00,000 --> 00:00:00,000	ANA LUCIA	This was her idea, wasn't it?
+276	00:00:00,000 --> 00:00:00,000	BIG MIKE	She is the Captain.
+278	00:00:00,000 --> 00:00:00,000	ANA LUCIA	Yeah.
+280	00:00:00,000 --> 00:00:00,000	POLICE RADIO VOICE	809, please respond to a domestic disturbance call at 2210 South Veteran.
+282	00:00:00,000 --> 00:00:00,000	ANA LUCIA	This is 8 Adam-16.
+284	00:00:00,000 --> 00:00:00,000	BIG MIKE	That's not our call.
+286	00:00:00,000 --> 00:00:00,000	POLICE RADIO VOICE	Go ahead Adam-16.
+288	00:00:00,000 --> 00:00:00,000	ANA LUCIA	We're just 3 blocks from away from that call on Veteran. We got it.
+290	00:00:00,000 --> 00:00:00,000	POLICE RADIO VOICE	Copy that, 8 Adam-16.
+292	00:00:00,000 --> 00:00:00,000		[Ana and Big Mike put on their siren. Scene switches to the domestic disturbance. A woman with a baby is fighting with a guy moving stuff.]
+294	00:00:00,000 --> 00:00:00,000	SHAWNA	Where are you going? What are you doing?! Drop the TV, Travis. The TV's mine.
+296	00:00:00,000 --> 00:00:00,000		[Ana and Big Mike pull up.]
+298	00:00:00,000 --> 00:00:00,000	TRAVIS	I bought it with my money.
+300	00:00:00,000 --> 00:00:00,000	SHAWNA	Liar!
+302	00:00:00,000 --> 00:00:00,000	TRAVIS	Did you call the cops?!!
+304	00:00:00,000 --> 00:00:00,000	SHAWNA	What?!
+306	00:00:00,000 --> 00:00:00,000	TRAVIS	Do something useful, Shawna, shut your trap!
+308	00:00:00,000 --> 00:00:00,000	SHAWNA	Arrest him; he is stealing my TV! He cannot get away with this!
+310	00:00:00,000 --> 00:00:00,000	TRAVIS	She hit me! She hit me!
+312	00:00:00,000 --> 00:00:00,000	BIG MIKE	Hey, enough, all of you! Both of you!
+314	00:00:00,000 --> 00:00:00,000	ANA LUCIA	[pulling her gun] Put your hands where I can see them! Get down on the ground!
+316	00:00:00,000 --> 00:00:00,000	BIG MIKE	Officer Cortez!
+318	00:00:00,000 --> 00:00:00,000	ANA LUCIA	Ma'am, get your baby upstairs.
+320	00:00:00,000 --> 00:00:00,000	BIG MIKE	Ana Lucia!
+322	00:00:00,000 --> 00:00:00,000	ANA LUCIA	Hands on the ground!
+324	00:00:00,000 --> 00:00:00,000	BIG MIKE	Ana Lucia! He is down. Holster your weapon. Now.
+326	00:00:00,000 --> 00:00:00,000		[On-Island - Ana with Sayid and the rest of the group.]
+328	00:00:00,000 --> 00:00:00,000	LIBBY	Hey, I think you should let him go.
+330	00:00:00,000 --> 00:00:00,000	ANA LUCIA	No. He's going to come after me.
+332	00:00:00,000 --> 00:00:00,000	LIBBY	You don't know that.
+334	00:00:00,000 --> 00:00:00,000	ANA LUCIA	I killed someone he loves.
+336	00:00:00,000 --> 00:00:00,000		[Michael gets up to give Sayid water.]
+338	00:00:00,000 --> 00:00:00,000	ANA LUCIA	Sit down. Now.
+340	00:00:00,000 --> 00:00:00,000	MICHAEL	I'm bringing him water. You going to shoot me? Shoot me.
+342	00:00:00,000 --> 00:00:00,000	ANA LUCIA	Don't even think of untying him.
+344	00:00:00,000 --> 00:00:00,000		[Michael gives Sayid some water.]
+346	00:00:00,000 --> 00:00:00,000	SAYID	Who is that woman?
+348	00:00:00,000 --> 00:00:00,000	MICHAEL	Her name is Ana Lucia. She was on the plane -- tail section -- they all were. We were bringing them back.
+350	00:00:00,000 --> 00:00:00,000	SAYID	Where is Walt?
+352	00:00:00,000 --> 00:00:00,000	MICHAEL	They took him -- the Others.
+354	00:00:00,000 --> 00:00:00,000	SAYID	What do you mean they took him?
+356	00:00:00,000 --> 00:00:00,000	MICHAEL	From the raft -- the night we left.
+358	00:00:00,000 --> 00:00:00,000		[Sayid grunts and struggles.]
+360	00:00:00,000 --> 00:00:00,000	MICHAEL	Hey, man. Hey, we're going to get out of this, man.
+362	00:00:00,000 --> 00:00:00,000		[Jack throws a golf tee to the ground.]
+364	00:00:00,000 --> 00:00:00,000	JACK	Guess you're first.
+366	00:00:00,000 --> 00:00:00,000	KATE	Lucky me.
+368	00:00:00,000 --> 00:00:00,000	JACK	You know the lady's tee at my golf club back home is about 10 feet closer so if you...
+370	00:00:00,000 --> 00:00:00,000	KATE	Shut up, Jack.
+372	00:00:00,000 --> 00:00:00,000		[Kate swings and gets the ball very close to the hole.]
+374	00:00:00,000 --> 00:00:00,000	JACK	Nice.
+376	00:00:00,000 --> 00:00:00,000	KATE	You're up.
+378	00:00:00,000 --> 00:00:00,000		[Jack swings and his ball goes into the trees.]
+380	00:00:00,000 --> 00:00:00,000	KATE	Wow, you really put it in there.
+382	00:00:00,000 --> 00:00:00,000		[Jack crossing over a little creek to get to his ball.]
+384	00:00:00,000 --> 00:00:00,000	KATE	We have more balls; you could always just take a drop.
+386	00:00:00,000 --> 00:00:00,000	JACK	I'm good. [Jack finds his ball] Got it.
+388	00:00:00,000 --> 00:00:00,000		[Kate sees something behind Jack.]
+390	00:00:00,000 --> 00:00:00,000	JACK	You may want to move. [He sees the worried look on her face] What?
+392	00:00:00,000 --> 00:00:00,000		[Eko enters carrying Sawyer.]
+394	00:00:00,000 --> 00:00:00,000	EKO	Where is the doctor?
+396	00:00:00,000 --> 00:00:00,000		[Locke in the Hatch doing a crossword puzzle. The clue he's looking at is 42 down: Enkidu's friend. Locke fills in Gilgamesh. Jack and Kate enter.]
+398	00:00:00,000 --> 00:00:00,000	JACK	I got him. I got him.
+400	00:00:00,000 --> 00:00:00,000	KATE	Where are we headed?
+402	00:00:00,000 --> 00:00:00,000	JACK	Bathroom. He's burning up. We've got to get him in the shower -- bring his fever down.
+404	00:00:00,000 --> 00:00:00,000	KATE	What can I do?
+406	00:00:00,000 --> 00:00:00,000	JACK	Okay, go through the medical stash; there's a bottle of Ofloxacin...
+408	00:00:00,000 --> 00:00:00,000	KATE	Ofloxacin.
+410	00:00:00,000 --> 00:00:00,000	JACK	Ofloxacin -- little white pills. Bring the alcohol and some gauge patches, and strip that bed and make sure it has clean sheets on it. Kate?!
+412	00:00:00,000 --> 00:00:00,000	KATE	Uh, yeah, yeah.
+414	00:00:00,000 --> 00:00:00,000		[Kate exits and Jack tends to Sawyer's wound. Locke enters and we hear the blip sound of the timer.]
+416	00:00:00,000 --> 00:00:00,000	LOCKE	What happened?
+418	00:00:00,000 --> 00:00:00,000	JACK	John, the button.
+420	00:00:00,000 --> 00:00:00,000		[Locke exits and Jack turns the shower on Sawyer. Eko examines the Swan DHARMA logo. We hear the timer reset to 108. Locke enters.]
+422	00:00:00,000 --> 00:00:00,000	LOCKE	Hello.
+424	00:00:00,000 --> 00:00:00,000	EKO	Hello.
+426	00:00:00,000 --> 00:00:00,000		[Ana and the rest of the group with Sayid.]
+428	00:00:00,000 --> 00:00:00,000	BERNARD	[sitting next to Ana] Hey, what are we doing here, Ana? I mean, their camp has got to be close. I just want to get back to my wife.
+430	00:00:00,000 --> 00:00:00,000	ANA LUCIA	How long have I kept you alive out here, Bernard? [Bernard bows his head] That's right. So cut me some slack.
+432	00:00:00,000 --> 00:00:00,000	LIBBY	Hey, we just want to know what you're doing. What's the plan?
+434	00:00:00,000 --> 00:00:00,000	SAYID	She has no plan. She only has her guilt and a gun.
+436	00:00:00,000 --> 00:00:00,000	ANA LUCIA	You want a plan? [to Michael] Do you have any ammo, back at your camp?
+438	00:00:00,000 --> 00:00:00,000	MICHAEL	What?
+440	00:00:00,000 --> 00:00:00,000	ANA LUCIA	Ammo -- for the gun -- do you have any back at your camp?
+442	00:00:00,000 --> 00:00:00,000	MICHAEL	Yeah, a couple boxes.
+444	00:00:00,000 --> 00:00:00,000	ANA LUCIA	Alright, I want it -- at least half. And I'll need a pack -- a big one -- a blanket, some medicine, clothes -- jeans and socks -- you getting all this?
+446	00:00:00,000 --> 00:00:00,000	MICHAEL	Yeah, I got it.
+448	00:00:00,000 --> 00:00:00,000	ANA LUCIA	Alright, you bring all of that stuff back to me and I'll let your friend go.
+450	00:00:00,000 --> 00:00:00,000	MICHAEL	I'm not leaving them.
+452	00:00:00,000 --> 00:00:00,000	LIBBY	Michael, you should.
+454	00:00:00,000 --> 00:00:00,000	MICHAEL	No. We stay together.
+456	00:00:00,000 --> 00:00:00,000	JIN	Go. Ã¬â€šÂ¬Ã¬ÂÂ´Ã«â€œÅ“Ã«Â¥Â¼ Ã¬Â Ë†Ã«Å’â‚¬Ã«Â¡Å“ Ã«â€¹Â¤Ã¬Â¹ËœÃªÂ²Å’ Ã­â€¢ Ã¬Ë†ËœÃ«Å â€ Ã¬â€”â€ Ã¬â€“Â´.
+458	00:00:00,000 --> 00:00:00,000	MICHAEL	[to Jin] I'll be back, man.
+460	00:00:00,000 --> 00:00:00,000	LIBBY	Ana, what are you doing? You can't live out here alone.
+462	00:00:00,000 --> 00:00:00,000	ANA LUCIA	I'm already alone.
+464	00:00:00,000 --> 00:00:00,000		[Flashback - Ana and Big Mike arrive in the LAPD parking lot.]
+466	00:00:00,000 --> 00:00:00,000	BIG MIKE	I'll sign us out.
+468	00:00:00,000 --> 00:00:00,000	ANA LUCIA	What, you talking to me, now?
+470	00:00:00,000 --> 00:00:00,000	BIG MIKE	I just want to go home A-L.
+472	00:00:00,000 --> 00:00:00,000	ANA LUCIA	Hey, I ordered that guy to stop twice.
+474	00:00:00,000 --> 00:00:00,000	BIG MIKE	So does that mean every time we run into some yo-yo with a TV in his hands, you're going to draw down?
+476	00:00:00,000 --> 00:00:00,000	RAGGS	[entering] Hey, Ana Lucia -- you're guy -- we got him.
+478	00:00:00,000 --> 00:00:00,000		[We see a suspect in an interrogation room from the other side of the mirrored glass.]
+480	00:00:00,000 --> 00:00:00,000	CAPTAIN	His name is Jason McCormick. We picked him up on an assault on an elderly woman in Echo Park. His fingerprints matched a partial from your crime scene. We questioned him and he confessed. The D.A. is ready to file charges -- all he needs is for you to I.D. him.
+482	00:00:00,000 --> 00:00:00,000	ANA LUCIA	It's not him.
+484	00:00:00,000 --> 00:00:00,000	CAPTAIN	He confessed.
+486	00:00:00,000 --> 00:00:00,000	ANA LUCIA	I don't know him.
+488	00:00:00,000 --> 00:00:00,000	CAPTAIN	[to the lawyers in the room] Can you guys give us a minute? [to Ana] Why are you doing this?
+490	00:00:00,000 --> 00:00:00,000	ANA LUCIA	Because it's not him.
+492	00:00:00,000 --> 00:00:00,000	CAPTAIN	He put 4 bullets into you -- hollow points through your vest -- he tried to kill you. You want a list of his priors? You want to put this guy back out on the street?
+494	00:00:00,000 --> 00:00:00,000	ANA LUCIA	It's not him.
+496	00:00:00,000 --> 00:00:00,000		[On-Island - Ana walks over to Shannon's body and is sad.]
+498	00:00:00,000 --> 00:00:00,000		[Scene switches to Eko looking into the gun vault in the Hatch. Locke enters.]
+500	00:00:00,000 --> 00:00:00,000	LOCKE	What happened? Out there -- what happened?
+502	00:00:00,000 --> 00:00:00,000	EKO	There was an accident.
+504	00:00:00,000 --> 00:00:00,000	LOCKE	What kind of accident?
+506	00:00:00,000 --> 00:00:00,000	EKO	A girl was shot and killed.
+508	00:00:00,000 --> 00:00:00,000	LOCKE	What did she look like?
+510	00:00:00,000 --> 00:00:00,000	EKO	She was tall with blonde hair. There was an Arab man...
+512	00:00:00,000 --> 00:00:00,000	LOCKE	Shannon. You said there were 5 of you from the tail section?
+514	00:00:00,000 --> 00:00:00,000	EKO	4.
+516	00:00:00,000 --> 00:00:00,000	LOCKE	4 -- why didn't the rest of them come back with you? And Michael, Jin?
+518	00:00:00,000 --> 00:00:00,000	EKO	They cannot come back right now.
+520	00:00:00,000 --> 00:00:00,000	LOCKE	Can you take me to them?
+522	00:00:00,000 --> 00:00:00,000	EKO	[looking at the guns] No.
+524	00:00:00,000 --> 00:00:00,000		[Kate brings the anti-biotics and some water to Jack and Sawyer.]
+526	00:00:00,000 --> 00:00:00,000	KATE	Here you go. What's happening? Why is he shaking?
+528	00:00:00,000 --> 00:00:00,000	JACK	He's septic. The infection's gotten into the blood stream. If the anti-biotics don't bring the fever down he'll go into shock. Hold him up.
+530	00:00:00,000 --> 00:00:00,000	KATE	Okay, I've got him.
+532	00:00:00,000 --> 00:00:00,000		[Jack puts a pill in his mouth and pours some water in. Sawyer coughs it out.]
+534	00:00:00,000 --> 00:00:00,000	JACK	Swallow it, swallow it, swallow it.
+536	00:00:00,000 --> 00:00:00,000	KATE	I'll do it.
+538	00:00:00,000 --> 00:00:00,000	JACK	No, no, I've got it.
+540	00:00:00,000 --> 00:00:00,000	KATE	I can do it. [quietly to Sawyer] Sawyer? Hey, you have to listen to me, okay? The only way that you are going to get better is if you take this pill. So I want you to swallow it, okay? Okay, here we go. [She puts the pill in his mouth and holds up the glass for him to drink] Now swallow, swallow. Good, good.
+542	00:00:00,000 --> 00:00:00,000	JACK	Nice job. I never learned the whole whisper-in-the-ear thing in med school.
+544	00:00:00,000 --> 00:00:00,000		[Ana and the group with Sayid. Bernard is picking up his bags.]
+546	00:00:00,000 --> 00:00:00,000	ANA LUCIA	What are you doing?
+548	00:00:00,000 --> 00:00:00,000	BERNARD	I'm going Ana. I don't want to be a part of this. I know everything you've done for us, and I wouldn't be alive if it weren't for you. But I'm going.
+550	00:00:00,000 --> 00:00:00,000	ANA LUCIA	[to Libby] What about you?
+552	00:00:00,000 --> 00:00:00,000	LIBBY	I just don't think you're the best judge of character. I was with you when you put Nathan in the pit.
+554	00:00:00,000 --> 00:00:00,000	ANA LUCIA	Alright, you want to go? Go. Leave. [To Jin] You -- go.
+556	00:00:00,000 --> 00:00:00,000		[Jin looks at Sayid who nods for him to go.]
+558	00:00:00,000 --> 00:00:00,000	ANA LUCIA	Get out of here. Go.
+560	00:00:00,000 --> 00:00:00,000		[Michael running through the jungle. He comes out of the jungle and sees Sun at her garden.]
+562	00:00:00,000 --> 00:00:00,000	SUN	Michael!
+564	00:00:00,000 --> 00:00:00,000	MICHAEL	Hi. Listen, it's alright. Jin is okay.
+566	00:00:00,000 --> 00:00:00,000	SUN	Where is he?
+568	00:00:00,000 --> 00:00:00,000	MICHAEL	He's fine; and I'll explain. But right now, I need to find Jack.
+570	00:00:00,000 --> 00:00:00,000		[Jack talking to Eko in the Hatch.]
+572	00:00:00,000 --> 00:00:00,000	JACK	[angry] Where are they? [Eko doesn't answer] I said, where are they?
+574	00:00:00,000 --> 00:00:00,000	LOCKE	Jack, it's not his fault...
+576	00:00:00,000 --> 00:00:00,000	JACK	Shannon's dead! I'm not... [to Eko] You're going to take me back out there, right now.
+578	00:00:00,000 --> 00:00:00,000	LOCKE	This man isn't the problem. He brought Sawyer back.
+580	00:00:00,000 --> 00:00:00,000	JACK	Half-dead with a bullet hole in his shoulder, John! [to Eko] Are you going to talk to me or are you just going to sit there?
+582	00:00:00,000 --> 00:00:00,000	EKO	Anything I say will only make you angry. So, yes, I will sit here.
+584	00:00:00,000 --> 00:00:00,000	SUN	[entering with Michael] Jack! Jack! Jack!
+586	00:00:00,000 --> 00:00:00,000	JACK	Michael. [They hug]
+588	00:00:00,000 --> 00:00:00,000	MICHAEL	We've got a problem, man.
+590	00:00:00,000 --> 00:00:00,000		[We see Jack loading a rifle.]
+592	00:00:00,000 --> 00:00:00,000	JACK	You remember how to get out there, right?
+594	00:00:00,000 --> 00:00:00,000	MICHAEL	Yeah, I think so.
+596	00:00:00,000 --> 00:00:00,000	LOCKE	We should stop and think about this, Jack.
+598	00:00:00,000 --> 00:00:00,000	JACK	Think about what, John? Shannon's dead, Sayid's being held at gunpoint. You want to sit and hope that situation resolves itself -- be my guest. [Handing Michael a gun] You know how to use this?
+600	00:00:00,000 --> 00:00:00,000	MICHAEL	Yes, sir.
+602	00:00:00,000 --> 00:00:00,000	EKO	Stop! Please. What do you want?
+604	00:00:00,000 --> 00:00:00,000	JACK	Excuse me?
+606	00:00:00,000 --> 00:00:00,000	EKO	Peace? Revenge? Justice? And you are going out with all these guns? What do you want?
+608	00:00:00,000 --> 00:00:00,000	JACK	I want all of our people back here safely. Your friend murdered-
+610	00:00:00,000 --> 00:00:00,000	EKO	Ana Lucia made a mistake.
+612	00:00:00,000 --> 00:00:00,000	JACK	What did you say?
+614	00:00:00,000 --> 00:00:00,000	EKO	Ana Lucia made a mistake.
+616	00:00:00,000 --> 00:00:00,000	JACK	Ana Lucia.
+618	00:00:00,000 --> 00:00:00,000	EKO	I will take you there. But only you, and no guns.
+620	00:00:00,000 --> 00:00:00,000	JACK	Let's go.
+622	00:00:00,000 --> 00:00:00,000		[Ana repeatedly removing and re-engaging the magazine of the gun.]
+624	00:00:00,000 --> 00:00:00,000	ANA LUCIA	Where are you from? [Sayid doesn't answer.] Where are you from?
+626	00:00:00,000 --> 00:00:00,000	SAYID	I'm from Iraq.
+628	00:00:00,000 --> 00:00:00,000	ANA LUCIA	Do you have any kids?
+630	00:00:00,000 --> 00:00:00,000	SAYID	Why are you asking me if I have children?
+632	00:00:00,000 --> 00:00:00,000	ANA LUCIA	I'm curious.
+634	00:00:00,000 --> 00:00:00,000	SAYID	I do not. Do you have children?
+636	00:00:00,000 --> 00:00:00,000	ANA LUCIA	No.
+638	00:00:00,000 --> 00:00:00,000	SAYID	Are you going to kill me? That's what you're thinking about isn't it?
+640	00:00:00,000 --> 00:00:00,000	ANA LUCIA	Should I?
+642	00:00:00,000 --> 00:00:00,000	SAYID	Almost 40 days ago on this very Island I tied a man to a tree and tortured him. I tortured him as I've tortured many men -- men whose voices I still hear in the night. Should you kill me? Maybe you should. Maybe you were meant to.
+644	00:00:00,000 --> 00:00:00,000	ANA LUCIA	I'm a cop... I was a cop. One night my partner and I responded to a burglary call. We were the first ones there. I covered the front and he went around the back. I was there a minute and then this kid comes right through the front door -- I tell him to put his hands up -- and he's says I'm making a mistake -- that he's a student and he wants to show me his I.D. I believed him. I just -- I let him reach. All I remember was a pop. By the time I hit the ground I thought I was dead. I feel dead.
+646	00:00:00,000 --> 00:00:00,000	SAYID	What happened to him -- the man who shot you?
+648	00:00:00,000 --> 00:00:00,000		[Flashback - Ana is in a bar. We see the guy who had been in custody before leaving the bar. Ana gets up and follows.]
+650	00:00:00,000 --> 00:00:00,000	ANA LUCIA	Hey, Jason.
+652	00:00:00,000 --> 00:00:00,000	JASON	I know you?
+654	00:00:00,000 --> 00:00:00,000	ANA LUCIA	[pulling her gun] I was pregnant.
+656	00:00:00,000 --> 00:00:00,000		[Ana shoots 3 times, walks over and shoots 3 more times.]
+658	00:00:00,000 --> 00:00:00,000		[On-Island]
+660	00:00:00,000 --> 00:00:00,000	SAYID	What happened to him?
+662	00:00:00,000 --> 00:00:00,000	ANA LUCIA	Nothing. They never found him. [She picks up Eko's homemade knife and swings it at Sayid, but only to cut the ropes. Then she drops the knife and gun at Sayid's feet.] Go ahead, pick it up, I deserve it.
+664	00:00:00,000 --> 00:00:00,000	SAYID	What good it would be to kill you if we're both already dead?
+666	00:00:00,000 --> 00:00:00,000		[Sayid goes to Shannon's body to carry it back.]
+668	00:00:00,000 --> 00:00:00,000		[Kate with Sawyer who is shivering.]
+670	00:00:00,000 --> 00:00:00,000	KATE	Hey! Hey, can you hear me? You're going to be okay. You're going to be alright. You're home.
+672	00:00:00,000 --> 00:00:00,000		[Montage of Michael finding Vincent on the beach; Bernard, Libby, and Jin coming to the beach; Charlie and a bunch of redshirts greet them; Bernard and Rose reunite; Sun and Jin reunite; Eko and Jack come across Sayid carrying Shannon followed by Ana. Jack and Ana stare at each other.]

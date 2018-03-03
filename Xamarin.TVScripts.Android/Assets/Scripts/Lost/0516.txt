@@ -1,0 +1,831 @@
+The Incident, Parts 1 & 2
+2	00:00:00,000 --> 00:00:00,000	Written by	Damon Lindelof & Carlton Cuse
+4	00:00:00,000 --> 00:00:00,000	Directed by	Jack Bender
+6	00:00:00,000 --> 00:00:00,000		[Flashback - Clay water jugs sit in the corner of a room on a stone floor. A spinning wheel spins coarse threads. The spindle is fed industriously by hand, as a rope sandal-shod foot works the pedal. It is a man sitting working the spinning wheel; he wears dark pants and a white shirt and sits alone in a large cavernous room supported by several large columns several feet in diameter. Fire crackles in a large round pit at the center of the room. The far wall is decorated with a faded painting of the winged Egyptian goddess Isis. Up from his wheel, the spinner uses a primitive loom to weave his coarse threads into a tapestry. He uses long-bladed knife to ever so carefully push the threads together. The man is blond, with a short beard. His tapestry depicts a pair of wings outstretched from an encircled Eye of Horus, and what appear to be seventeen long arms emanating like rays out from the eye. Across the top is emblazoned a Greek-lettered motto, ÃŽËœÃŽÅ¾ÃŽÅ¸ÃŽâ„¢ ÃŽÂ¤ÃŽÅ¸ÃŽÂ£ÃŽâ€˜ ÃŽâ€ÃŽÅ¸ÃŽâ„¢ÃŽÅ¾ÃŽÂ ÃŽÅ¸ÃŽÂ£ÃŽâ€˜ÃŽÂ¦ÃŽÂ¡ÃŽÅ¾ÃŽÂ£ÃŽâ„¢ ÃŽÂ£ÃŽâ€”ÃŽÂ£ÃŽâ„¢ ÃŽÅ“ÃŽÅ¾ÃŽÂÃŽÅ¸ÃŽâ„¢ÃŽÂÃŽâ€˜ÃŽâ€“. The fire pit burns brightly to ash.]
+8	00:00:00,000 --> 00:00:00,000		[Outside, on a sun-drenched shore, the tide comes in on some rocks that form a pool near the shore. The man, Jacob, wades into the pool, clothes and all, and reaches down inside to pull up a hand-made fish trap, sort of an inverted cone of bundled reeds. The man inspects it to note his catch. He climbs the beach and empties the trap onto a rock in the sand. A beautiful golden fish comes out. The man filets the fish with the same long-bladed knife from before, and sets the filets onto a rock that hangs like a balcony over a beach fire. A short time later, he removes a cooked filet from the rock using his knife and places the filet into a shiny green broad leaf. He plunges his knife into the sand and sits against a log on the beach to enjoy his breakfast, looking out onto the sea, where a several-masted sailing vessel slowly approaches the Island on the horizon. As the blond man eats, a gray-haired man, the Man in Black approaches. The Man in Black, similarly, wears clothing that looks to be hand-made--a dark blue shirt tied close with a belt of rope--and has a short beard.]
+10	00:00:00,000 --> 00:00:00,000	MAN IN BLACK	Morning.
+12	00:00:00,000 --> 00:00:00,000	JACOB	Mornin'.
+14	00:00:00,000 --> 00:00:00,000	MAN IN BLACK	Mind if I join you?
+16	00:00:00,000 --> 00:00:00,000	JACOB	[Shaking his head] Please. Want some fish?
+18	00:00:00,000 --> 00:00:00,000	MAN IN BLACK	Thank you. I just ate.
+20	00:00:00,000 --> 00:00:00,000		[The Man in Black sits down not far away.]
+22	00:00:00,000 --> 00:00:00,000	JACOB	I take it you're here 'cause of the ship.
+24	00:00:00,000 --> 00:00:00,000	MAN IN BLACK	I am. How did they find the Island?
+26	00:00:00,000 --> 00:00:00,000	JACOB	You'll have to ask 'em when they get here.
+28	00:00:00,000 --> 00:00:00,000	MAN IN BLACK	I don't have to ask. You brought them here. Still trying to prove me wrong, aren't you?
+30	00:00:00,000 --> 00:00:00,000	JACOB	You are wrong.
+32	00:00:00,000 --> 00:00:00,000	MAN IN BLACK	Am I? They come. They fight. They destroy. They corrupt. It always ends the same.
+34	00:00:00,000 --> 00:00:00,000	JACOB	It only ends once. Anything that happens before that is just progress.
+36	00:00:00,000 --> 00:00:00,000		[The Man in Black stares at his compatriot.]
+38	00:00:00,000 --> 00:00:00,000	MAN IN BLACK	Do you have any idea how badly I wanna kill you?
+40	00:00:00,000 --> 00:00:00,000	JACOB	Yes.
+42	00:00:00,000 --> 00:00:00,000	MAN IN BLACK	One of these days, sooner or later... I'm going to find a loophole, my friend.
+44	00:00:00,000 --> 00:00:00,000	JACOB	Well, when you do, I'll be right here.
+46	00:00:00,000 --> 00:00:00,000	MAN IN BLACK	Always nice talking to you, Jacob.
+48	00:00:00,000 --> 00:00:00,000	JACOB	Nice talking to you, too.
+50	00:00:00,000 --> 00:00:00,000		[The Man in Black stands up and walks away. Planted just near and towering above the beach spot where Jacob has made his breakfast is the four-toed statue of Taweret.]
+52	00:00:00,000 --> 00:00:00,000		[In the parking lot outside a general store, a young Kate and a young Tom Brennan stand behind a pickup truck, peeking out at the store.]
+54	00:00:00,000 --> 00:00:00,000	KATE	Are you gonna do it?
+56	00:00:00,000 --> 00:00:00,000		[Tom, playing with the infamous model airplane, looks up.]
+58	00:00:00,000 --> 00:00:00,000	TOM	Uh-uh. You do it.
+60	00:00:00,000 --> 00:00:00,000	KATE	Fine, I'll do it. But you're gonna be lookout, okay?
+62	00:00:00,000 --> 00:00:00,000	TOM	Okay.
+64	00:00:00,000 --> 00:00:00,000		[The two venture into the store. Tom stops at the door to lookout, while Kate continues down an aisle.]
+66	00:00:00,000 --> 00:00:00,000	WOMAN	[In background] Yeah, I mean, we've been farming the land all the way back to Aines Road.
+68	00:00:00,000 --> 00:00:00,000		[Kate stops, looking back to Tom for the all-clear. He nods, and she continues walking, stopping at the lunchboxes. "Cigarette in an Ashtray" by Patsy Cline plays over the store's speakers. Selecting one whose front features the New Kids on the Block, she slides it into her backpack and turns to leave. She and Tom attempt to slip out the door, but the shopkeeper is quick, and grabs Kate's arm.]
+70	00:00:00,000 --> 00:00:00,000	SHOPKEEPER	What you kids got there? Open your bag.
+72	00:00:00,000 --> 00:00:00,000		[Kate does so regretfully. The shopkeeper snatches the lunchbox out of her backpack, glancing over it.]
+74	00:00:00,000 --> 00:00:00,000	SHOPKEEPER	Mhm. Where'd you get this?
+76	00:00:00,000 --> 00:00:00,000	KATE	[pointing] I got it over there.
+78	00:00:00,000 --> 00:00:00,000	SHOPKEEPER	I know you. You're Diane Austen's girl...what's your name?
+80	00:00:00,000 --> 00:00:00,000	KATE	Katie.
+82	00:00:00,000 --> 00:00:00,000	SHOPKEEPER	Well Katie, I'm calling your mom, then the cops, because I don't tolerate stealing here, you understand?
+84	00:00:00,000 --> 00:00:00,000	MAN [offscreen]	No need to do that. I'll pay for it. I hope this is enough. [gestures with several bills]
+86	00:00:00,000 --> 00:00:00,000		[Kate and Tom look over at the man in surprise -- it's Jacob, looking exactly the same now as he did back in the 1800's.]
+88	00:00:00,000 --> 00:00:00,000	SHOPKEEPER	Well, as long as somebody pays for it, I guess there's no harm done. [to Kate] But I don't want to see you in here ever again without your parents, you understand me?
+90	00:00:00,000 --> 00:00:00,000		[Kate nods meekly. The shopkeeper leaves, and Kate looks up at Jacob, who seems to sympathize with her. He hands her the lunchbox.]
+92	00:00:00,000 --> 00:00:00,000	KATE	Thanks, mister.
+94	00:00:00,000 --> 00:00:00,000	JACOB	You're welcome. [He kneels down to be at eye level with her.] You're not going to steal anymore, are you?
+96	00:00:00,000 --> 00:00:00,000		[Kate nods no. Jacob taps her on the end of her nose with his index finger.]
+98	00:00:00,000 --> 00:00:00,000	JACOB	Be good, Katie. [He stands and leaves.]
+100	00:00:00,000 --> 00:00:00,000		[On-Island, 1977 - Years later in Kate's life, she is on the Galaga, handcuffed to Juliet.]
+102	00:00:00,000 --> 00:00:00,000	CAPTAIN BIRD	[over loudspeaker] Welcome aboard, everyone. We will be doing some system checks offshore here before heading out into the open ocean and submerging to our operational running depth. You should be receiving your sedatives and then we will escort you to your sleeping berths.
+104	00:00:00,000 --> 00:00:00,000		[Mitch hands out small cups of sedative-laced orange juice to several passengers, who drink.]
+106	00:00:00,000 --> 00:00:00,000	CAPTAIN BIRD	Have a nice rest, and we'll see you on the other side. [clicks off loudspeaker.]
+108	00:00:00,000 --> 00:00:00,000	KATE	We have to get out of here.
+110	00:00:00,000 --> 00:00:00,000	SAWYER	Outta here? We're underwater. What the hell are you doing here? How'd you get caught?
+112	00:00:00,000 --> 00:00:00,000	KATE	I came back to get you.
+114	00:00:00,000 --> 00:00:00,000	SAWYER	Came back to get me for what?
+116	00:00:00,000 --> 00:00:00,000	JULIET	Where's Jack?
+118	00:00:00,000 --> 00:00:00,000	KATE	Jack is on his way to blow up a hydrogen bomb.
+120	00:00:00,000 --> 00:00:00,000	SAWYER	Why the hell would he do that?
+122	00:00:00,000 --> 00:00:00,000	KATE	Does it matter? We have to stop him.
+124	00:00:00,000 --> 00:00:00,000		[There's a pause as Sawyer and Juliet look at each other.]
+126	00:00:00,000 --> 00:00:00,000	SAWYER	Sorry, but I'll pass.
+128	00:00:00,000 --> 00:00:00,000	KATE	[shocked] Did you hear what I just said?
+130	00:00:00,000 --> 00:00:00,000	SAWYER	Yeah, I heard you. You just don't get it, Kate. We were happy in Dharmaville 'til y'all showed up. But now that's all over. So we're gonna drink our O.J. and take our chances in the real world. Jack wants to blow up the Island, good for Jack.
+132	00:00:00,000 --> 00:00:00,000		[In the tunnels, Jack is walking around Jughead. Sayid is nearby, reading Daniel's journal. Richard, a short distance away, paces impatiently.]
+134	00:00:00,000 --> 00:00:00,000	JACK	Is there anything in there about how we were supposed to move a ten-ton bomb across the Island?
+136	00:00:00,000 --> 00:00:00,000	SAYID	Actually, it's twenty tons. Fortunately, it seems Faraday never intended freight the device in its entirety.
+138	00:00:00,000 --> 00:00:00,000	ELOISE	What?
+140	00:00:00,000 --> 00:00:00,000	SAYID	He left detailed instructions on how to remove the plutonium core...and how to detonate it.
+142	00:00:00,000 --> 00:00:00,000	JACK	Faraday told me that we needed to wipe out some kind of pocket of energy. Is only part of the bomb going to be enough to do that?
+144	00:00:00,000 --> 00:00:00,000	SAYID	The core itself is a thermonuclear weapon. It'll be more than enough.
+146	00:00:00,000 --> 00:00:00,000		[Sayid stands, handing the journal to Jack. He strides over to a nearby metal box and begins dragging it.]
+148	00:00:00,000 --> 00:00:00,000	RICHARD	Hey, hey, wait. We sealed that thing up twenty years ago, and we put it underground because it was emitting radiation. Does this sound like a good idea to you, Eloise?
+150	00:00:00,000 --> 00:00:00,000	ELOISE	Richard --
+152	00:00:00,000 --> 00:00:00,000	RICHARD	You're pregnant.
+154	00:00:00,000 --> 00:00:00,000	ELOISE	Which is exactly why we have to help them see this through.
+156	00:00:00,000 --> 00:00:00,000		[Sayid continues dragging the box.]
+158	00:00:00,000 --> 00:00:00,000	ELOISE	[cont'd] Once the core is removed, then what?
+160	00:00:00,000 --> 00:00:00,000	SAYID	Then, we have approximately two hours to take it to the Swan site.
+162	00:00:00,000 --> 00:00:00,000	JACK	Two hours?
+164	00:00:00,000 --> 00:00:00,000	SAYID	When Faraday returned to the Island, he was very explicit about this timetable.
+166	00:00:00,000 --> 00:00:00,000	JACK	Well then, we better get moving.
+168	00:00:00,000 --> 00:00:00,000		[At the Swan site, a DHARMA bus pulls up. Radzinsky storms out.]
+170	00:00:00,000 --> 00:00:00,000	RADZINSKY	Who stopped the damn drill!?
+172	00:00:00,000 --> 00:00:00,000		[He turns a corner, and Pierre Chang is looking up at the drill.]
+174	00:00:00,000 --> 00:00:00,000	CHANG	I did.
+176	00:00:00,000 --> 00:00:00,000	RADZINSKY	Why?
+178	00:00:00,000 --> 00:00:00,000	CHANG	Because when we passed seventy meters, the drill temp went up sixty degrees, and I didn't want it to melt.
+180	00:00:00,000 --> 00:00:00,000	RADZINSKY	[striding away] Pierre, that's why we have a truck full of water. So cool it down and turn it on. [walks up to control panel]
+182	00:00:00,000 --> 00:00:00,000	CHANG	Stuart, we just evacuated the Island of all nonessential personnel. We're in the midst of a possible insurrection. Do you really think this is the ideal time for your experiments?
+184	00:00:00,000 --> 00:00:00,000	RADZINSKY	I've been working on this project for six years. Designing a station that'll be able to manipulate electromagnetism in ways we only dreamed of.
+186	00:00:00,000 --> 00:00:00,000	CHANG	Have you thought about the consequences of drilling into that pocket? We have no idea what we are gonna --
+188	00:00:00,000 --> 00:00:00,000	RADZINSKY	If Edison was only worried about the consequences, we'd all still be sitting in the dark. I came to this Island to change the world, Pierre; that's exactly what I intend to do. [strides away] [to workers] Let's get it started! [turns on drill; it whirs to life, drilling away into the blackness below.]
+190	00:00:00,000 --> 00:00:00,000		[Title card: Thirty Years Later]
+192	00:00:00,000 --> 00:00:00,000		[2007 - Locke, Ben, Sun, and the Others are trekking across the beach. Locke stops, taking off his backpack and pulling out a canteen. He holds the canteen up in the air.]
+194	00:00:00,000 --> 00:00:00,000	LOCKE	Take five, everybody! We've still got a ways to go to get to Jacob.
+196	00:00:00,000 --> 00:00:00,000		[Sun looks at Ben.]
+198	00:00:00,000 --> 00:00:00,000	SUN	Who's Jacob?
+200	00:00:00,000 --> 00:00:00,000	BEN	He's in charge of this Island.
+202	00:00:00,000 --> 00:00:00,000	SUN	You said John was in charge.
+204	00:00:00,000 --> 00:00:00,000	BEN	No, I said he was the leader, a title that I've discovered is incredibly temporary. But everyone answers to someone, and the leader answers to Jacob.
+206	00:00:00,000 --> 00:00:00,000	SUN	What's he like?
+208	00:00:00,000 --> 00:00:00,000	BEN	I don't know, Sun. I've never met him.
+210	00:00:00,000 --> 00:00:00,000		[Ben walks away. Meanwhile, Richard, stands nearby Locke, staring at him.]
+212	00:00:00,000 --> 00:00:00,000	LOCKE	You've been staring for the last ten minutes, Richard. Is there something you'd like to ask me?
+214	00:00:00,000 --> 00:00:00,000	RICHARD	Ben told me that he strangled you.
+216	00:00:00,000 --> 00:00:00,000	LOCKE	That is my recollection, yes.
+218	00:00:00,000 --> 00:00:00,000	RICHARD	He said he was sure you were dead. That he saw your coffin loaded onto that plane that you came back on. How are you alive?
+220	00:00:00,000 --> 00:00:00,000	LOCKE	Well, you've been on this Island much longer than I have, Richard. If anyone should have an explanation, I'd think it would be you.
+222	00:00:00,000 --> 00:00:00,000	RICHARD	I - I have been here a long time, John. And I have seen things on this Island that I could barely describe, but I've never seen someone come back to life.
+224	00:00:00,000 --> 00:00:00,000	LOCKE	And I've never seen anyone who doesn't age. Doesn't mean it can't happen.
+226	00:00:00,000 --> 00:00:00,000	RICHARD	I'm this way because of Jacob. And if I had to guess, he's the reason you're not in that coffin anymore.
+228	00:00:00,000 --> 00:00:00,000	LOCKE	I agree completely, Richard. That's why I'm doing this. So I can thank him. [Locke picks up his backpack, placing the canteen inside it.] Once I've done that, we're gonna need to deal with the rest of the passengers from the Ajira flight that brought me here.
+230	00:00:00,000 --> 00:00:00,000	RICHARD	What do you mean, 'deal with them'?
+232	00:00:00,000 --> 00:00:00,000	LOCKE	You know what I mean.
+234	00:00:00,000 --> 00:00:00,000		[Richard looks at Locke, shocked.]
+236	00:00:00,000 --> 00:00:00,000	LOCKE	[to everyone] Let's go!
+238	00:00:00,000 --> 00:00:00,000		[Locke then walks off, with Richard looking after him.]
+240	00:00:00,000 --> 00:00:00,000		[Out at sea, Ilana, Bram, and three other people are rowing an outrigger, the contents of which are the Ajira crate, and an unconscious Frank. They dock on the beach, and all get out, except for Frank.]
+242	00:00:00,000 --> 00:00:00,000	ILANA	Untie the crate.
+244	00:00:00,000 --> 00:00:00,000	BRAM	Why'd we even bring this yahoo?
+246	00:00:00,000 --> 00:00:00,000	ILANA	Because, we might need him.
+248	00:00:00,000 --> 00:00:00,000	BRAM	For what? He didn't know the answer to the question.
+250	00:00:00,000 --> 00:00:00,000	ILANA	That doesn't mean he's not important.
+252	00:00:00,000 --> 00:00:00,000	BRAM	What, you think he's a candidate?
+254	00:00:00,000 --> 00:00:00,000		[Ilana looks at Bram, then at Frank.]
+256	00:00:00,000 --> 00:00:00,000	ILANA	He's awake.
+258	00:00:00,000 --> 00:00:00,000		[Frank realizes that there's no use pretending, so he opens his eyes.]
+260	00:00:00,000 --> 00:00:00,000	BRAM	How long you been listening to us?
+262	00:00:00,000 --> 00:00:00,000	FRANK	Long enough to wonder what the hell I'm a candidate for. [He gets up with the help of Bram] Who the hell are you people?
+264	00:00:00,000 --> 00:00:00,000	ILANA	We're friends.
+266	00:00:00,000 --> 00:00:00,000	FRANK	So you smack all your friends in the face with a rifle, shove 'em in a boat, and kidnap 'em?
+268	00:00:00,000 --> 00:00:00,000	ILANA	Only the ones we like.
+270	00:00:00,000 --> 00:00:00,000		[A smiling Bram offers Frank a canteen.]
+272	00:00:00,000 --> 00:00:00,000	BRAM	[to the other three passengers, picking up the crate] Let's go.
+274	00:00:00,000 --> 00:00:00,000	FRANK	What's in the box?
+276	00:00:00,000 --> 00:00:00,000		[Ilana looks at Bram expectantly.]
+278	00:00:00,000 --> 00:00:00,000	BRAM	Your call.
+280	00:00:00,000 --> 00:00:00,000	ILANA	Open it.
+282	00:00:00,000 --> 00:00:00,000		[They do. Frank looks in and is shocked by what he sees.]
+284	00:00:00,000 --> 00:00:00,000	FRANK	Terrific.
+286	00:00:00,000 --> 00:00:00,000		[Flashback - Church bells toll after a funeral. A young James Ford watches caskets containing the bodies of his parents being placed in vehicles to be transported to the cemetery. His uncle's arm rests on his shoulder supportively.]
+288	00:00:00,000 --> 00:00:00,000		[Afterwards, the young James set on the steps of the church, writing a note. His pen is not working well, and he shakes it a few times.]
+290	00:00:00,000 --> 00:00:00,000	MAN	[offscreen] Need a pen, son?
+292	00:00:00,000 --> 00:00:00,000		[James looks up. Jacob approaches him, dressed in a suit.]
+294	00:00:00,000 --> 00:00:00,000	JAMES	Yeah, thanks.
+296	00:00:00,000 --> 00:00:00,000		[Jacob reaches into his coat pocket and pulls out a pen, offering it to James, who accepts.]
+298	00:00:00,000 --> 00:00:00,000	JACOB	Here you go. You can keep it.
+300	00:00:00,000 --> 00:00:00,000		[James looks down forlornly.]
+302	00:00:00,000 --> 00:00:00,000	JACOB	I'm very sorry about your mother and father, James.
+304	00:00:00,000 --> 00:00:00,000		[James looks up. Jacob looks at him sadly for a moment, then walks away. James continues writing his note; it's revealed to be his letter to the original Sawyer. As Jacob leaves, James' uncle Doug approaches.]
+306	00:00:00,000 --> 00:00:00,000	UNCLE DOUG	Come on, Jimmy. We gotta get to the cemetery, okay? [He notices James' note] What you writin'?
+308	00:00:00,000 --> 00:00:00,000	JAMES	Nothin'.
+310	00:00:00,000 --> 00:00:00,000		[Doug takes the paper and reads.]
+312	00:00:00,000 --> 00:00:00,000	DOUG	Dear Mr. Sawyer...[looks at James, then continues reading] You don't know who I am, but I know who you are, and what you done. [Doug looks back up at young James, tears in his eyes. He sits down next to him.] Listen to me, Jimmy. I know you're angry at the man that did this to your momma and daddy. And hell, you got every right to be. But you gotta move on, boy. They're gone, and there ain't nothing you can do to change that. [pauses] What's done is done. Now promise me you're not going to finish that letter.
+314	00:00:00,000 --> 00:00:00,000	JAMES	I promise.
+316	00:00:00,000 --> 00:00:00,000	DOUG	Good. [He hands the notebook back to James.] Come on, let's go say goodbye.
+318	00:00:00,000 --> 00:00:00,000		[They get up and leave.]
+320	00:00:00,000 --> 00:00:00,000		[On-Island, 1977 - On the sub, Sawyer looks around at Kate and Juliet.]
+322	00:00:00,000 --> 00:00:00,000	SAWYER	Let me get this straight. Jack sets off the nuke, which somehow...resets everything. So flight 815 never crashes...lands in L.A. safe and sound, and none of this ever happened.
+324	00:00:00,000 --> 00:00:00,000	KATE	Sawyer, if Jack does this he could kill everyone on the Island.
+326	00:00:00,000 --> 00:00:00,000	SAWYER	Yeah, I heard that part.
+328	00:00:00,000 --> 00:00:00,000	KATE	And you're okay with that?
+330	00:00:00,000 --> 00:00:00,000	SAWYER	You ain't hearin' me, Kate. I made a choice, and I'm stickin' to it. I decided to leave, and I'm leavin'.
+332	00:00:00,000 --> 00:00:00,000		[Mitch arrives with the tray of glasses.]
+334	00:00:00,000 --> 00:00:00,000	MITCH	Alright, here's your sedatives.
+336	00:00:00,000 --> 00:00:00,000		[As soon as he's close enough, Juliet attacks, knocking him out.]
+338	00:00:00,000 --> 00:00:00,000	SAWYER	What the hell did you just do?
+340	00:00:00,000 --> 00:00:00,000		[Using Mitch's keys, Juliet unlocks herself and Kate.]
+342	00:00:00,000 --> 00:00:00,000	JULIET	We decided to leave this Island, James, we did. And now we're going back.
+344	00:00:00,000 --> 00:00:00,000	SAWYER	Are you serious?
+346	00:00:00,000 --> 00:00:00,000	JULIET	We can't just let those people die. [Sawyer sighs.] You want out? Or do you want to stay here and whine about it?
+348	00:00:00,000 --> 00:00:00,000	SAWYER	Unlock the damn cuffs.
+350	00:00:00,000 --> 00:00:00,000		[Meanwhile, Captain Bird is talking into his radio.]
+352	00:00:00,000 --> 00:00:00,000	CAPTAIN BIRD	Galaga to base. System check is complete. We're locked on a departure bearing and ready to leave the Island.
+354	00:00:00,000 --> 00:00:00,000	VOICE OVER SPEAKER	Roger that, Galaga. Have a safe trip! See you when you return.
+356	00:00:00,000 --> 00:00:00,000		[Bird hangs up, and suddenly hears the cock of a gun. Turning around, he sees Sawyer, Juliet, and Kate holding him at gunpoint.]
+358	00:00:00,000 --> 00:00:00,000	JULIET	Give me your gun.
+360	00:00:00,000 --> 00:00:00,000		[Sawyer takes the gun.]
+362	00:00:00,000 --> 00:00:00,000	SAWYER	Appreciate that, captain. Now we need you to surface the sub.
+364	00:00:00,000 --> 00:00:00,000	BIRD	What? I can't take this sub up--
+366	00:00:00,000 --> 00:00:00,000		[Juliet presses the gun to his face.]
+368	00:00:00,000 --> 00:00:00,000	SAWYER	Oh, I think you can.
+370	00:00:00,000 --> 00:00:00,000	JULIET	Once we're gone, proceed on course. Whatever you do, do not take those people back to the Island. Understand?
+372	00:00:00,000 --> 00:00:00,000	BIRD	What if Horace tries to contact me, hmm? What am I supposed to say?
+374	00:00:00,000 --> 00:00:00,000		[Sawyer shoots the comm system.]
+376	00:00:00,000 --> 00:00:00,000	SAWYER	You ain't home.
+378	00:00:00,000 --> 00:00:00,000	JULIET	[to Bird] Go.
+380	00:00:00,000 --> 00:00:00,000		[Bird begins to surface the sub.]
+382	00:00:00,000 --> 00:00:00,000		[Meanwhile, underground, Jack picks up a pack].
+384	00:00:00,000 --> 00:00:00,000	JACK	Sayid, is this big enough?
+386	00:00:00,000 --> 00:00:00,000	SAYID	That'll do.
+388	00:00:00,000 --> 00:00:00,000		[Jack brings him the pack.]
+390	00:00:00,000 --> 00:00:00,000	JACK	Are you done with Faraday's journal?
+392	00:00:00,000 --> 00:00:00,000	SAYID	Take it.
+394	00:00:00,000 --> 00:00:00,000		[While Sayid works on removing the core from Jughead, Richard picks up a large hammer. Sayid removes the core.]
+396	00:00:00,000 --> 00:00:00,000	RICHARD	[to Jack] Can I ask you a question?
+398	00:00:00,000 --> 00:00:00,000	JACK	Sure.
+400	00:00:00,000 --> 00:00:00,000	RICHARD	Over, uh, twenty years ago, a man named John Locke, he walked right into our camp. And he told me that he was going to be our leader. Now I've gone off the Island three times, to visit him. But he never seemed particularly special to me.
+402	00:00:00,000 --> 00:00:00,000	JACK	You said you had a question.
+404	00:00:00,000 --> 00:00:00,000	RICHARD	You know him? Locke?
+406	00:00:00,000 --> 00:00:00,000	JACK	[chuckles] Yeah. Yeah, I know him. And if I were you, I wouldn't give up on him.
+408	00:00:00,000 --> 00:00:00,000		[2007 - Locke's group continues trekking. Ben and Locke are walking side by side.]
+410	00:00:00,000 --> 00:00:00,000	LOCKE	[to Ben, pointing at Richard] Why haven't you told him yet?
+412	00:00:00,000 --> 00:00:00,000	BEN	Told who what?
+414	00:00:00,000 --> 00:00:00,000	LOCKE	Richard. Why haven't you told him about my plans for Jacob?
+416	00:00:00,000 --> 00:00:00,000	BEN	If by plans you mean murdering him, John, I assumed you'd want to keep that a secret.
+418	00:00:00,000 --> 00:00:00,000	LOCKE	When did that ever stop you?
+420	00:00:00,000 --> 00:00:00,000	BEN	Well, I starting thinking differently about things when my dead daughter threatened to destroy me if I didn't do everything you said.
+422	00:00:00,000 --> 00:00:00,000	LOCKE	[stopping Ben] Whoa, whoa, wait...where did this happen?
+424	00:00:00,000 --> 00:00:00,000	BEN	In that cavern, beneath the Temple. When we went to see the monster.
+426	00:00:00,000 --> 00:00:00,000	LOCKE	So you're willing to do whatever I say, no matter what it is?
+428	00:00:00,000 --> 00:00:00,000	BEN	Yes.
+430	00:00:00,000 --> 00:00:00,000	LOCKE	[grinning] Well, then. I guess I won't have to convince you after all.
+432	00:00:00,000 --> 00:00:00,000	BEN	Convince me to do what?
+434	00:00:00,000 --> 00:00:00,000	LOCKE	I'm not going to kill Jacob, Ben. You are.
+436	00:00:00,000 --> 00:00:00,000		[Ben looks on, shocked.]
+438	00:00:00,000 --> 00:00:00,000		[Flashback - On a busy street, Sayid and Nadia are walking next to each other, talking.]
+440	00:00:00,000 --> 00:00:00,000	SAYID	Paris or Rome?
+442	00:00:00,000 --> 00:00:00,000	NADIA	No. [giggles]
+444	00:00:00,000 --> 00:00:00,000	SAYID	Florence?
+446	00:00:00,000 --> 00:00:00,000	NADIA	It doesn't matter, as long as we're together!
+448	00:00:00,000 --> 00:00:00,000	SAYID	Yes it does! It's our anniversary, we have to find the perfect place.
+450	00:00:00,000 --> 00:00:00,000		[They stop at a street corner that Jacob also happens to be standing at.]
+452	00:00:00,000 --> 00:00:00,000	NADIA	Can we settle for finding my sunglasses?
+454	00:00:00,000 --> 00:00:00,000		[The light changes, and Sayid and Nadia begin to cross the street. Nadia begins to dig in her purse. Jacob suddenly follows after them.]
+456	00:00:00,000 --> 00:00:00,000	JACOB	Excuse me, sir? Could you help me? [Sayid turns.] I'm sorry, I think I'm lost. Are you from Los Angeles?
+458	00:00:00,000 --> 00:00:00,000	SAYID	What are you looking for?
+460	00:00:00,000 --> 00:00:00,000		[Nadia turns, waving her sunglasses.]
+462	00:00:00,000 --> 00:00:00,000	NADIA	I found them!
+464	00:00:00,000 --> 00:00:00,000		[Nadia is suddenly hit by a car, throwing her forward several feet. The car speeds away. Sayid rushes to Nadia's side. She is mortally wounded.]
+466	00:00:00,000 --> 00:00:00,000	SAYID	[gasping] Nadia! Nadia?
+468	00:00:00,000 --> 00:00:00,000	NADIA	[in Arabic] Take me home, take me home.
+470	00:00:00,000 --> 00:00:00,000		[Nadia dies. Sayid sobs, kissing her cheek and clutching her hand.]
+472	00:00:00,000 --> 00:00:00,000		[On-Island, 1977 - In the tunnels, Sayid wraps up Jughead in a cloth and places it in a backpack.]
+474	00:00:00,000 --> 00:00:00,000	SAYID	Time is short, let's go.
+476	00:00:00,000 --> 00:00:00,000		[After going down a hallway, Richard, knocks on the wall, which returns a hollow sound.]
+478	00:00:00,000 --> 00:00:00,000	RICHARD	Alright, stay back.
+480	00:00:00,000 --> 00:00:00,000		[Richard proceeds to knock the wall down with a hammer. It leads into the basement of a house in the Barracks.]
+482	00:00:00,000 --> 00:00:00,000	JACK	It's one of the DHARMA houses. I'll go first.
+484	00:00:00,000 --> 00:00:00,000	ELOISE	Jack, don't misunderstand who's in charge here. I'll go first. Because if someone in that house is a threat, you might hesitate. [cocks gun] But I won't.
+486	00:00:00,000 --> 00:00:00,000	RICHARD	Alright, okay, Eloise, go on, after you.
+488	00:00:00,000 --> 00:00:00,000	ELOISE	Once we give you the all clear, then you bring the bomb. [Sayid nods.] We don't want any accidents --
+490	00:00:00,000 --> 00:00:00,000		[Suddenly, Richard knocks her out with the butt of his pistol.]
+492	00:00:00,000 --> 00:00:00,000	JACK	What the hell are you doing?
+494	00:00:00,000 --> 00:00:00,000	RICHARD	[pointing gun at them] I'm protecting our leader. Get back. She's gonna be angry when she wakes up, but that's a lot better than being dead. She ordered me to help you, we helped you, now you're on your own. I'm taking her out the way we came in.
+496	00:00:00,000 --> 00:00:00,000	SAYID	[to Jack] After you.
+498	00:00:00,000 --> 00:00:00,000		[Jack climbs through the hole, followed by Sayid. Exiting the basement, they proceed to enter the living room of the house. Outside, an alarm is sounding, and people are running around.]
+500	00:00:00,000 --> 00:00:00,000	VOICE OVER SPEAKER	We are in a code black! Report with your weapons to your security assignment immediately. If you come into contact with a hostile, you are authorized to use deadly force.
+502	00:00:00,000 --> 00:00:00,000	JACK	How the hell are we going to get out of here?
+504	00:00:00,000 --> 00:00:00,000	SAYID	[noticing Horace's jumpsuit] We hide in plain sight. [he grabs the uniform]
+506	00:00:00,000 --> 00:00:00,000		[Jack and Sayid continue outside, walking calmly but cautiously. Phil is talking to his team nearby.]
+508	00:00:00,000 --> 00:00:00,000	PHIL	You go over there by the gate, and you get... ...so you guys go.
+510	00:00:00,000 --> 00:00:00,000		[Roger suddenly recognizes Sayid.]
+512	00:00:00,000 --> 00:00:00,000	ROGER	Hey! HEY! [he cocks his gun, Sayid and Jack turn] You're the son of a bitch who shot my kid!
+514	00:00:00,000 --> 00:00:00,000	SAYID	Don't fire that weapon, I'm carrying a nuclear de---
+516	00:00:00,000 --> 00:00:00,000		[Roger fires, and the shot hits Sayid in the stomach. He falls to the ground. Jack returns fire, firing into the crowd. Bullets fly, and Jack and Sayid take shelter behind a house. Jack attempts to run, but Jin, Miles and Hurley drive up in a DHARMA bus, opening the door.]
+518	00:00:00,000 --> 00:00:00,000	JIN	Get in!
+520	00:00:00,000 --> 00:00:00,000		[They do.]
+522	00:00:00,000 --> 00:00:00,000	JACK	Drive!
+524	00:00:00,000 --> 00:00:00,000		[They drive off. A shot shatters their rear windshield, but they escape into the jungle.]
+526	00:00:00,000 --> 00:00:00,000		[The submarine sails off, leaving Sawyer, Juliet, and Kate in a rowboat.]
+528	00:00:00,000 --> 00:00:00,000	SAWYER	From the looks of the sun, I'd say that's the north shore over there.
+530	00:00:00,000 --> 00:00:00,000	KATE	The sun's over there, that's gotta be the west coast.
+532	00:00:00,000 --> 00:00:00,000	SAWYER	Really? You got a compass?
+534	00:00:00,000 --> 00:00:00,000	KATE	No, do you?
+536	00:00:00,000 --> 00:00:00,000		[They dock on the beach.]
+538	00:00:00,000 --> 00:00:00,000	KATE	[to Juliet] Thank you.
+540	00:00:00,000 --> 00:00:00,000	JULIET	For what?
+542	00:00:00,000 --> 00:00:00,000	KATE	For backing me up at the sub.
+544	00:00:00,000 --> 00:00:00,000	JULIET	No problem.
+546	00:00:00,000 --> 00:00:00,000	SAWYER	I got no idea where the hell we are!
+548	00:00:00,000 --> 00:00:00,000		[Suddenly, a barking noise comes from the jungle, and they are greeted by Vincent.]
+550	00:00:00,000 --> 00:00:00,000	SAWYER	Vincent! Come here! Hey! Hey! How you doin', boy? Haven't seen you since the flamin' arrows three years ago!
+552	00:00:00,000 --> 00:00:00,000	JULIET	Hey! How'd you survive alone out here?
+554	00:00:00,000 --> 00:00:00,000		[Suddenly, a woman's voice is heard.]
+556	00:00:00,000 --> 00:00:00,000	ROSE	Oh, hell no. Bernard!
+558	00:00:00,000 --> 00:00:00,000		[Bernard runs out of the jungle, bearded and carrying a staff.]
+560	00:00:00,000 --> 00:00:00,000	ROSE	They found us.
+562	00:00:00,000 --> 00:00:00,000	BERNARD	Son of a bitch.
+564	00:00:00,000 --> 00:00:00,000		[Across the Island, the DHARMA van rockets along a trail.]
+566	00:00:00,000 --> 00:00:00,000	MILES	Is that a bomb?!
+568	00:00:00,000 --> 00:00:00,000	JACK	[To Sayid] Try not to move. I need to stop the bleeding.
+570	00:00:00,000 --> 00:00:00,000	HURLEY	What's going on back there? Is Sayid okay?
+572	00:00:00,000 --> 00:00:00,000	JACK	Does he look okay?! Just keep your eyes on the damn road!
+574	00:00:00,000 --> 00:00:00,000	HURLEY	Ah, let's pull over!
+576	00:00:00,000 --> 00:00:00,000	MILES	And get shot! Just drive!
+578	00:00:00,000 --> 00:00:00,000	HURLEY	I don't know where we're going.
+580	00:00:00,000 --> 00:00:00,000	JACK	The Swan site. Head to the Swan.
+582	00:00:00,000 --> 00:00:00,000	HURLEY	Why do you want to go there? If Sayid's shot, shouldn't we--
+584	00:00:00,000 --> 00:00:00,000	JACK	Hurley, if you want to save Sayid, take us to the Swan!
+586	00:00:00,000 --> 00:00:00,000	HURLEY	The Swan it is.
+588	00:00:00,000 --> 00:00:00,000	JIN	Jack, what's at the Swan?
+590	00:00:00,000 --> 00:00:00,000	JACK	I think I found a way to get you back to your wife. So hold on.
+592	00:00:00,000 --> 00:00:00,000		[Sawyer, Kate, Juliet, Rose and Bernard walk through the jungle. Vicent runs off in front.]
+594	00:00:00,000 --> 00:00:00,000	SAWYER	You're telling me you've just been living out here in the jungle for the past three years, by yourselves?
+596	00:00:00,000 --> 00:00:00,000	ROSE	Uh-huh.
+598	00:00:00,000 --> 00:00:00,000	SAWYER	Well, I'm sorry y'all got left behind. Didn't you hear me shout out, "Meet at the creek"?
+600	00:00:00,000 --> 00:00:00,000	BERNARD	You mean with flaming arrows raining down around us, killing everyone we knew? Oh, sure, we heard ya.
+602	00:00:00,000 --> 00:00:00,000	SAWYER	Well, we spent all sorts of time looking for ya. I had Jin out searching the Island grid by grid.
+604	00:00:00,000 --> 00:00:00,000	ROSE	Yeah, we know.
+606	00:00:00,000 --> 00:00:00,000	SAWYER	You know?
+608	00:00:00,000 --> 00:00:00,000	ROSE	Oh, sure, you guys all joined up with the DHARMA Initiative.
+610	00:00:00,000 --> 00:00:00,000	SAWYER	Well, damn, I could've brought both y'all in. Why didn't you find a way to tell us you were out here?
+612	00:00:00,000 --> 00:00:00,000	ROSE	Because we're retired.
+614	00:00:00,000 --> 00:00:00,000		[Bernard nods.]
+616	00:00:00,000 --> 00:00:00,000		[At Rose and Bernard's cabin, Sawyer examines a can of DHARMA food.]
+618	00:00:00,000 --> 00:00:00,000	SAWYER	So y'all been scavenging food and living out in a hut by yourselves.
+620	00:00:00,000 --> 00:00:00,000	ROSE	People try their whole lives to get themselves a nice, quiet place near the ocean where they can live in peace. And we did it. That's what we made for ourselves.
+622	00:00:00,000 --> 00:00:00,000	SAWYER	Well, I hate to rain on your parade, but... your condo's about to go ka-blooey.
+624	00:00:00,000 --> 00:00:00,000	KATE	Jack has a bomb.
+626	00:00:00,000 --> 00:00:00,000	ROSE	Who cares?
+628	00:00:00,000 --> 00:00:00,000	KATE	Excuse me?
+630	00:00:00,000 --> 00:00:00,000	ROSE	It's always something with you people. Now you say Jack's got a bomb. And what, you guys are all gonna try to stop him, right?
+632	00:00:00,000 --> 00:00:00,000	JULIET	Yeah, that's right.
+634	00:00:00,000 --> 00:00:00,000	ROSE	We traveled back 30 years in time, and you're still trying to find ways to shoot each other?
+636	00:00:00,000 --> 00:00:00,000	JULIET	Rose, we just need to know which way the DHARMA Barracks are from here so we can stop Jack, or you're gonna be dead. We all will.
+638	00:00:00,000 --> 00:00:00,000	BERNARD	So we die. We just care about being together. That's all that matters in the end.
+640	00:00:00,000 --> 00:00:00,000		[Juliet looks at Sawyer, who is looking at Kate.]
+642	00:00:00,000 --> 00:00:00,000	ROSE	[pointing] The Barracks are 5 miles that way.
+644	00:00:00,000 --> 00:00:00,000	SAWYER	Bernard. [They shake hands]
+646	00:00:00,000 --> 00:00:00,000	BERNARD	Sawyer.
+648	00:00:00,000 --> 00:00:00,000	SAWYER	Rose. [Shaking her hand]
+650	00:00:00,000 --> 00:00:00,000	ROSE	Thank you.
+652	00:00:00,000 --> 00:00:00,000	SAWYER	Let's go.
+654	00:00:00,000 --> 00:00:00,000	JULIET	Bye.
+656	00:00:00,000 --> 00:00:00,000		[They all leave.]
+658	00:00:00,000 --> 00:00:00,000	BERNARD	You sure you don't want some tea?
+660	00:00:00,000 --> 00:00:00,000		[Juliet turns around.]
+662	00:00:00,000 --> 00:00:00,000	JULIET	Maybe another time.
+664	00:00:00,000 --> 00:00:00,000		[She leaves.]
+666	00:00:00,000 --> 00:00:00,000		[2007 - Ilana leads her group through the jungle.]
+668	00:00:00,000 --> 00:00:00,000	LAPIDUS	I wish you'd never showed me what was in this damn box. What the hell you gonna do with it anyway?
+670	00:00:00,000 --> 00:00:00,000	BRAM	We need to show it to somebody.
+672	00:00:00,000 --> 00:00:00,000	LAPIDUS	What for?
+674	00:00:00,000 --> 00:00:00,000	BRAM	So they'll know what they're up against.
+676	00:00:00,000 --> 00:00:00,000	LAPIUS	What exactly are they up against?
+678	00:00:00,000 --> 00:00:00,000	BRAM	Something a hell of a lot scarier than what's in this box, Frank. Don't worry, though. As long as you're with us, you're fine.
+680	00:00:00,000 --> 00:00:00,000	LAPIDUS	That'd be reassuring if I knew who you were, "friend".
+682	00:00:00,000 --> 00:00:00,000	BRAM	We are the good guys.
+684	00:00:00,000 --> 00:00:00,000	LAPIDUS	In my experience, the people who go out of their way to tell you that the good guys are the bad guys.
+686	00:00:00,000 --> 00:00:00,000	ILANA	We're here.
+688	00:00:00,000 --> 00:00:00,000		[They arrive at the cabin. Ilana begins cross the line of ash when Bram notices it has been broken.]
+690	00:00:00,000 --> 00:00:00,000	BRAM	Look at the ash!
+692	00:00:00,000 --> 00:00:00,000	ILANA	Wait here.
+694	00:00:00,000 --> 00:00:00,000		[Holding her rifle, she starts walking to the cabin.]
+696	00:00:00,000 --> 00:00:00,000		[Flashback - An eye opens and peers out from behind bandages. Russian voices are heard. A nurse pushes a trolley and takes a tray with a drink on it over to Ilana.]
+698	00:00:00,000 --> 00:00:00,000	NURSE	[in Russian] How are you feeling? Are you thirsty?
+700	00:00:00,000 --> 00:00:00,000		[The nurse puts a straw to Ilana's badly burned lips, and she sips the drink.]
+702	00:00:00,000 --> 00:00:00,000	NURSE	[in Russian] There's someone here to see you. I explained your condition... but he insisted on seeing you anyway. You've had no visitors. It will be good for you.
+704	00:00:00,000 --> 00:00:00,000		[The nurse leaves. A man wearing a long black coat and black gloves moves a chair closer to Ilana's bed. It's Jacob. He sits.]
+706	00:00:00,000 --> 00:00:00,000	JACOB	ÃËœÃÂ·ÃÂ²ÃÂ¸ÃÂ½ÃÂ¸, Ã‘â€¡Ã‘â€šÃÂ¾ ÃÂ½ÃÂµ Ã‘ÂÃÂ¼ÃÂ¾ÃÂ³ ÃÂ¿Ã‘â‚¬ÃÂ¸ÃÂ¹Ã‘â€šÃÂ¸ Ã‘â‚¬ÃÂ°ÃÂ½Ã‘Å’Ã‘Ë†ÃÂµ [Subtitle: I'm sorry I couldn't make it sooner.]
+708	00:00:00,000 --> 00:00:00,000	ILANA	ÃÂ¯ ÃÂ¾Ã‘â€¡ÃÂµÃÂ½Ã‘Å’ Ã‘â‚¬ÃÂ°ÃÂ´ÃÂ° Ã‘â€šÃÂµÃÂ±Ã‘Â ÃÂ²ÃÂ¸ÃÂ´ÃÂµÃ‘â€šÃ‘Å’ [Subtitle: I'm very happy to see you...]
+710	00:00:00,000 --> 00:00:00,000	JACOB	I'm here because I need your help. Can you do that? Will you help me, Ilana?
+712	00:00:00,000 --> 00:00:00,000	ILANA	Yes.
+714	00:00:00,000 --> 00:00:00,000		[On-Island, 2007 - The door creaks as Ilana enters the cabin. Looking around, she sees no one. She notices a blade stuck into a wall, pinning a piece of cloth to it. She sets her rifle down and unpins the cloth, then examines it. She leaves the cabin.]
+716	00:00:00,000 --> 00:00:00,000	BRAM	What happened?
+718	00:00:00,000 --> 00:00:00,000	ILANA	He isn't there, hasn't been in a long time. Someone else has been using it. [Shouting to her team] Burn it!
+720	00:00:00,000 --> 00:00:00,000	LAPIDUS	I'm no tree hugger or anything, but that's a pretty good way to torch the whole jungle, don't you think?
+722	00:00:00,000 --> 00:00:00,000		[Her team light bottles and throw them into the cabin.]
+724	00:00:00,000 --> 00:00:00,000	BRAM	So what now?
+726	00:00:00,000 --> 00:00:00,000		[Ilana hands Bram the tapestry fragment.]
+728	00:00:00,000 --> 00:00:00,000	BRAM	Well, I guess we know where we're going.
+730	00:00:00,000 --> 00:00:00,000		[The fire ravages the cabin. Ilana and her team move out with the crate.]
+732	00:00:00,000 --> 00:00:00,000		[Flashback - Jacob sits on a bench, reading Everything That Rises Must Converge by Flannery O'Connor. Suddenly, a man falls to the ground behind him -- John Locke. People rush to see what happened. Jacob stands, and walks over.]
+734	00:00:00,000 --> 00:00:00,000	WOMAN	Oh, my god! Oh, my god! Call 9-1-1!
+736	00:00:00,000 --> 00:00:00,000		[Jacob kneels beside the unconscious Locke and places a hand on his shoulder. John seems to come back to life.]
+738	00:00:00,000 --> 00:00:00,000	JACOB	Don't worry, everything's gonna be alright. I'm sorry this happened to you. [he gets up and leaves]
+740	00:00:00,000 --> 00:00:00,000		[On-Island, 2007 - Meanwhile, Locke's group continues up the beach. They arrive at the remains of the beach camp, which are abandoned and in disarray.]
+742	00:00:00,000 --> 00:00:00,000	SUN	This is our old camp.
+744	00:00:00,000 --> 00:00:00,000	LOCKE	Home sweet home. [to all] Alright, everyone! Richard tells me we should get to where we're going by nightfall. So why don't you all take this opportunity to rest up and catch your breath. Considering what I have planned for you, you're gonna need it. [Locke walks over to a sitting Ben.] Everything alright?
+746	00:00:00,000 --> 00:00:00,000	BEN	I was enjoying some alone time.
+748	00:00:00,000 --> 00:00:00,000	LOCKE	You see what's behind you?
+750	00:00:00,000 --> 00:00:00,000		[Ben turns to see the hatch door embedded in the sand.]
+752	00:00:00,000 --> 00:00:00,000	BEN	It's a door. How about that?
+754	00:00:00,000 --> 00:00:00,000	LOCKE	Not just a door, Ben. It's the door to the hatch. Where you and I first met. [Ben looks at him, then looks away.] Do you mind if I ask you a question?
+756	00:00:00,000 --> 00:00:00,000	BEN	I'm a Pisces.
+758	00:00:00,000 --> 00:00:00,000	LOCKE	What happened that day at the cabin? When you first took me to meet Jacob?
+760	00:00:00,000 --> 00:00:00,000	BEN	Well, you clearly already know that I was talking to an empty chair, John. That I was pretending. Which is not to say that I wasn't as surprised as you were when things started flying around the room.
+762	00:00:00,000 --> 00:00:00,000	LOCKE	But why would go to all the trouble to make something like that up?
+764	00:00:00,000 --> 00:00:00,000	BEN	I was embarrassed. I didn't want you to know that I had never seen Jacob. So yes, I lied. That's what I do.
+766	00:00:00,000 --> 00:00:00,000	LOCKE	Alright, then.
+768	00:00:00,000 --> 00:00:00,000		[Locke starts to leave.]
+770	00:00:00,000 --> 00:00:00,000	BEN	Why do you want me to kill Jacob, John?
+772	00:00:00,000 --> 00:00:00,000	LOCKE	Because, despite your loyal service to this Island, you got cancer. You had to watch your own daughter gunned down right in front of you. And your reward for those sacrifices? You were banished. And you did all this in the name of a man you'd never even met. So the question is, Ben, why the hell wouldn't you want to kill Jacob?
+774	00:00:00,000 --> 00:00:00,000		[Locke leaves. Meanwhile, Sun walks around the beach and find's Charlie's ring next to Aaron's crib.]
+776	00:00:00,000 --> 00:00:00,000		[Flashback - At Sun and Jin's wedding.]
+778	00:00:00,000 --> 00:00:00,000	SUN	Ã¬Â²ËœÃ¬ÂÅ’ Ã«Â³Â¸ ÃªÂ·Â¸ Ã¬Ë†Å“ÃªÂ°â€žÃ«Â¶â‚¬Ã­â€žÂ° Ã«â€¹Â¹Ã¬â€¹Â Ã¬Ââ€ž Ã¬â€šÂ¬Ã«Å¾â€˜Ã­â€“Ë†Ã¬â€“Â´Ã¬Å¡â€. ÃªÂ·Â¸Ã«Â¦Â¬ÃªÂ³ Ã¬â€¢Å¾Ã¬Å“Â¼Ã«Â¡Å“ Ã­â€¢Â¨ÃªÂ»Ëœ Ã¬â€šÂ´Ã¬â€¢â€žÃªÂ°Ë† Ã«Â¯Â¸Ã«Å¾ËœÃ¬ÂËœ Ã«â€¹Â¹Ã¬â€¹Â Ã«Ââ€ž Ã¬â€šÂ¬Ã«Å¾â€˜Ã­â€¢Â©Ã«â€¹Ë†Ã«â€¹Â¤. Ã¬ÂÂ´ Ã«Â°ËœÃ¬Â§â‚¬Ã«Â¡Å“ Ã«â€¹Â¹Ã¬â€¹Â Ã¬â€”ÂÃªÂ²Å’ Ã¬â€žÅ“Ã¬â€¢Â½Ã­â€¢Â©Ã«â€¹Ë†Ã«â€¹Â¤. [Subtitle: I have loved you since the day we first met. I'll love the man you will become as we spend our lives together. With this ring, I make my promises.]
+780	00:00:00,000 --> 00:00:00,000	JIN	Ã«â€šÅ“ Ã¬Â ÂÃ¬â€“Â´ ÃªÂ°â‚¬Ã¬Â§â‚¬ÃªÂ³ Ã¬â„¢â€Ã«Å â€Ã«ÂÂ° ÃªÂ´Å“Ã¬Â°Â®ÃªÂ²Â Ã¬Â§â‚¬? Ã«â€¹Â¹Ã¬â€¹Â ÃªÂ³Â¼ Ã«â€šÂ´ÃªÂ°â‚¬ Ã­Ââ€°Ã¬Æ’Â Ã­â€¢Â¨ÃªÂ»Ëœ Ã­â€¢Å“Ã«â€¹Â¤Ã«Å â€ Ã¬ÂËœÃ«Â¯Â¸Ã«Â¡Å“ 'Ã¬ËœÂÃ¬â€ºÂÃ­Å¾Ë† Ã­â€¢Â¨ÃªÂ»Ëœ Ã­â€¢ËœÃªÂ¸Â¸'Ã¬ÂÂ´Ã«ÂÂ¼ÃªÂ³ Ã¬Å¡Â°Ã«Â¦Â¬ ÃªÂ²Â°Ã­ËœÂ¼Ã«Â°ËœÃ¬Â§â‚¬Ã¬â€”Â Ã¬Æ’Ë†ÃªÂ²Â¼Ã¬â€“Â´. Ã¬ÂÂ´ Ã«Â°ËœÃ¬Â§â‚¬Ã«Â¡Å“ Ã«â€¹Â¹Ã¬â€¹Â Ã¬â€”ÂÃªÂ²Å’... Ã¬â€žÅ“Ã¬â€¢Â½Ã­â€¢Â©Ã«â€¹Ë†Ã«â€¹Â¤. [Subtitle: I wrote mine down. We will never be apart, because being apart would be like the sky being apart from the earth. With this ring, I make my promises.]
+782	00:00:00,000 --> 00:00:00,000		[Later, at the reception.]
+784	00:00:00,000 --> 00:00:00,000	SUN	Ã¬ÂÂ´Ã«ÂªÂ¨! [Subtitle: Auntie!]
+786	00:00:00,000 --> 00:00:00,000	AUNTIE	Ã¬ÂÂ´Ã¬Â Å“ ÃªÂ²Â°Ã­ËœÂ¼Ã«Ââ€ž Ã­â€“Ë†Ã¬Å“Â¼Ã«â€¹Ë†ÃªÂ¹Å’ Ã¬â€¢â€žÃ¬ÂÂ´Ã«Å â€ Ã¬â€“Â¸Ã¬Â Å“Ã«â€šËœ ÃªÂ°â‚¬Ã¬Â§Ë†ÃªÂ±Â°Ã«â€¹Ë†? [Subtitle: So when are you going to start a family?]
+788	00:00:00,000 --> 00:00:00,000	SUN	Ã­â€”Ë†Ã«â€¹Ë†Ã«Â¬Â¸ Ã«Â²Â Ã¬ÂÂ´Ã«Â¹â€žÃªÂ°â‚¬ Ã«ÂÂ Ã¬Â§â‚¬Ã«Ââ€ž Ã«ÂªÂ¨Ã«Â¥Â´Ã¬Â£Â . [Subtitle: Maybe on our honeymoon.]
+790	00:00:00,000 --> 00:00:00,000		[Next in line is Jacob.]
+792	00:00:00,000 --> 00:00:00,000	JACOB	Ã«â€˜Â Ã«Â¶â€ž ÃªÂ²Â°Ã­ËœÂ¼Ã¬Ââ€ž Ã¬Â¶â€¢Ã­â€¢ËœÃ­â€¢Â©Ã«â€¹Ë†Ã«â€¹Â¤. Ã«â€˜Â Ã«Â¶â€žÃ¬ÂËœ Ã¬â€šÂ¬Ã«Å¾â€˜Ã¬Ââ‚¬ Ã¬â€¢â€žÃ¬Â£Â¼ Ã­Å Â¹Ã«Â³â€žÃ­â€¢Å“ ÃªÂ²Æ’Ã¬Å¾â€¦Ã«â€¹Ë†Ã«â€¹Â¤. Ã¬Â Ë†Ã«Å’â‚¬Ã«Â¡Å“ Ã«â€¹Â¹Ã¬â€”Â°Ã­â€¢ËœÃªÂ²Å’ Ã¬Æ’ÂÃªÂ°ÂÃ­â€¢ËœÃ¬â€¹Å“Ã«Â©Â´ Ã¬â€¢Ë†Ã«ÂÂ©Ã«â€¹Ë†Ã«â€¹Â¤. [Subtitle: I'd like to offer you my blessing. Your love is a very special thing. Never take it for granted.]
+794	00:00:00,000 --> 00:00:00,000		[Jacob leaves.]
+796	00:00:00,000 --> 00:00:00,000	SUN	Ã«Ë†â€žÃªÂµÂ¬Ã¬â€”ÂÃ¬Å¡â€? [Subtitle: Who was that?]
+798	00:00:00,000 --> 00:00:00,000	JIN	Ã«Ë†â€žÃªÂµÂ°Ã¬Â§â‚¬ Ã«ÂªÂ°Ã«ÂÂ¼Ã«Ââ€ž, Ã­â€¢Å“ÃªÂµÂ­Ã«Â§ÂÃ¬Ââ‚¬ Ã¬Å¾ËœÃ­â€¢ËœÃ«â€žÂ¤. [Subtitle: I don't know, but his Korean is excellent.]
+800	00:00:00,000 --> 00:00:00,000		[On-Island, 1977 - The DHARMA bus speeds through the jungle.]
+802	00:00:00,000 --> 00:00:00,000	JACK	How much further?
+804	00:00:00,000 --> 00:00:00,000	HURLEY	Uhh...we're about five minutes away!
+806	00:00:00,000 --> 00:00:00,000	SAYID	[to Jack] You can't stop the bleeding.
+808	00:00:00,000 --> 00:00:00,000	JACK	[to Jin] I need fresh dressings.
+810	00:00:00,000 --> 00:00:00,000	MILES	Jack! So this bomb is supposed to what, blow us back in time?
+812	00:00:00,000 --> 00:00:00,000	JACK	We're not going back in time.
+814	00:00:00,000 --> 00:00:00,000	MILES	Right, because that would be ridiculous!
+816	00:00:00,000 --> 00:00:00,000	SAYID	I need to modify the bomb. I can make it so it detonates on impact. Jack, we need to be there at the moment of the Incident, or all this will be for nothing.
+818	00:00:00,000 --> 00:00:00,000		[The van slams to a halt.]
+820	00:00:00,000 --> 00:00:00,000	JACK	Why the hell are we stopping?
+822	00:00:00,000 --> 00:00:00,000	HURLEY	That's why.
+824	00:00:00,000 --> 00:00:00,000		[Sawyer, Kate, and Juliet are standing in front of the bus.]
+826	00:00:00,000 --> 00:00:00,000		[2007 - Richard leads the group along the coast. He stops.]
+828	00:00:00,000 --> 00:00:00,000	LOCKE	What is it? Why are we stopping?
+830	00:00:00,000 --> 00:00:00,000	RICHARD	You'll see.
+832	00:00:00,000 --> 00:00:00,000		[The camera pans to reveal the remains of the statue, the single four toed foot, just down the coast.]
+834	00:00:00,000 --> 00:00:00,000	LOCKE	Well, it's a wonderful foot, Richard, but what does it have to do with Jacob?
+836	00:00:00,000 --> 00:00:00,000	RICHARD	It's where he lives.
+838	00:00:00,000 --> 00:00:00,000		[1977 - Jack gets out of the van.]
+840	00:00:00,000 --> 00:00:00,000	JACK	What's going on, Kate?
+842	00:00:00,000 --> 00:00:00,000	SAWYER	Doc, we gotta talk.
+844	00:00:00,000 --> 00:00:00,000	JACK	You wanna talk? Then get in the van. We don't have time--
+846	00:00:00,000 --> 00:00:00,000	SAWYER	I ain't gettin' in the van. I need five minutes, that's all. I'll say what I gotta say, and then you can do whatever the hell you want to. But you're gonna listen. You owe me that much, Jack.
+848	00:00:00,000 --> 00:00:00,000	JACK	Five minutes.
+850	00:00:00,000 --> 00:00:00,000		[Jack puts his gun inside the van. Sawyer hands his rifle to Juliet.]
+852	00:00:00,000 --> 00:00:00,000		[Flashback - An operating room. Jack is doing surgery on some. As he cuts inside, he suddenly gasps.]
+854	00:00:00,000 --> 00:00:00,000	NURSE	Dr. Shephard? You all right?
+856	00:00:00,000 --> 00:00:00,000	JACK	The dural sac--I cut it.
+858	00:00:00,000 --> 00:00:00,000		[Monitor continues beeping steadily.]
+860	00:00:00,000 --> 00:00:00,000	JACK	Give me some suction.
+862	00:00:00,000 --> 00:00:00,000	CHRISTIAN	Calm down. It's all right.
+864	00:00:00,000 --> 00:00:00,000	JACK	The fluid's leaking everywhere. I can't--
+866	00:00:00,000 --> 00:00:00,000	CHRISTIAN	Look at me.
+868	00:00:00,000 --> 00:00:00,000	JACK	Give me some suction.
+870	00:00:00,000 --> 00:00:00,000	WOMAN	Yes, doctor.
+872	00:00:00,000 --> 00:00:00,000	CHRISTIAN	Jack... look at me. Count to five.
+874	00:00:00,000 --> 00:00:00,000	JACK	What are you talking about?
+876	00:00:00,000 --> 00:00:00,000	CHRISTIAN	I'm talking about you stitching up the sac so this girl isn't paralyzed for the rest of her life. And the only way you're gonna do that is not to be afraid. So close your eyes, count to five, and then fix her, Jack. Or I'll have to fix her for you.
+878	00:00:00,000 --> 00:00:00,000		[Monitor continues beeping steadily. Jack closes his eyes.]
+880	00:00:00,000 --> 00:00:00,000	JACK	One... [sighs] two... three... four... five. Sutures.
+882	00:00:00,000 --> 00:00:00,000		[Jack attempts to purchase an Apollo bar from a vending machine, but it gets stuck. He rattles the machine, then gives up, frustrated.]
+884	00:00:00,000 --> 00:00:00,000		[Woman speaking indistinctly over P.A.]
+886	00:00:00,000 --> 00:00:00,000	CHRISTIAN	Hey, kiddo. Girl's in recovery. She's responsive to stimulus below the waist, so... no paralysis.
+888	00:00:00,000 --> 00:00:00,000	JACK	Good.
+890	00:00:00,000 --> 00:00:00,000	CHRISTIAN	Something wrong, Jack?
+892	00:00:00,000 --> 00:00:00,000	JACK	You embarrassed me.
+894	00:00:00,000 --> 00:00:00,000	CHRISTIAN	Did I?
+896	00:00:00,000 --> 00:00:00,000	JACK	You know, it's bad enough that everybody in this hospital thinks the only reason I got this residency is because you're my father. But then you... [sighs] you put me in a time-out during my first major procedure, in front of my entire team. [Sighs] Dad, I know you don't believe in me, but I need them to.
+898	00:00:00,000 --> 00:00:00,000	CHRISTIAN	Are you sure I'm the one who doesn't believe in you, Jack?
+900	00:00:00,000 --> 00:00:00,000		[Coins clink, machine beeps. Christian leaves.]
+902	00:00:00,000 --> 00:00:00,000	JACOB	One of these yours?
+904	00:00:00,000 --> 00:00:00,000		[Offers him the Apollo bar. Jack takes it. Their fingers brush.]
+906	00:00:00,000 --> 00:00:00,000	JACK	[Sighs] Machine got stuck.
+908	00:00:00,000 --> 00:00:00,000	JACOB	I guess it just needed a little push.
+910	00:00:00,000 --> 00:00:00,000		[Jack leaves.]
+912	00:00:00,000 --> 00:00:00,000		[On-Island, 1977 - Sawyer and Jack come to a clearing. Sawyer sits.]
+914	00:00:00,000 --> 00:00:00,000	SAWYER	Take a load off, Doc.
+916	00:00:00,000 --> 00:00:00,000	JACK	No, thanks.
+918	00:00:00,000 --> 00:00:00,000	SAWYER	Sit down, Jack.
+920	00:00:00,000 --> 00:00:00,000		[Jack sits.]
+922	00:00:00,000 --> 00:00:00,000	SAWYER	My folks died when I was 8 years old. I ever tell you that?
+924	00:00:00,000 --> 00:00:00,000	JACK	No.
+926	00:00:00,000 --> 00:00:00,000	SAWYER	Con man took my dad for everything he had. He didn't deal with it very well. He shot my mom, then he blew his own head off. I was hiding under the bed when it happened. I heard the whole thing.
+928	00:00:00,000 --> 00:00:00,000	JACK	I'm sorry.
+930	00:00:00,000 --> 00:00:00,000	SAWYER	Yeah. That was a year ago.
+932	00:00:00,000 --> 00:00:00,000	JACK	What?
+934	00:00:00,000 --> 00:00:00,000	SAWYER	Right now it's July 1977, which means that happened last year. So I could've hopped on the sub, gone back to the States, walked right in my house and stopped my daddy from killing anybody.
+936	00:00:00,000 --> 00:00:00,000	JACK	Why didn't you?
+938	00:00:00,000 --> 00:00:00,000	SAWYER	Because, Jack... what's done is done.
+940	00:00:00,000 --> 00:00:00,000	JACK	It doesn't have to be that way.
+942	00:00:00,000 --> 00:00:00,000	SAWYER	What did you screw up so bad the first time around you're willing to blow up a damn nuke just for a second chance?
+944	00:00:00,000 --> 00:00:00,000	JACK	That's not what this is about.
+946	00:00:00,000 --> 00:00:00,000	SAWYER	Then what is it about?
+948	00:00:00,000 --> 00:00:00,000	JACK	Three years ago, Locke told me that all this was happening for a reason, that us being here was our destiny.
+950	00:00:00,000 --> 00:00:00,000	SAWYER	I don't speak "destiny". What I do understand is a man does what he does 'cause he wants something for himself. What do you want, Jack?
+952	00:00:00,000 --> 00:00:00,000	JACK	I had her. I had her, and I lost her.
+954	00:00:00,000 --> 00:00:00,000	SAWYER	Kate? Well, damn, Doc, she's standing right on the other side of those trees. You want her back, just go and ask her.
+956	00:00:00,000 --> 00:00:00,000	JACK	Nah, it's too late for that. [standing up] Your five minutes is up.
+958	00:00:00,000 --> 00:00:00,000	SAWYER	Jack... if what you're doin' even works, you and Kate will be strangers, and she'll be in damn handcuffs.
+960	00:00:00,000 --> 00:00:00,000	JACK	If it's meant to be, it's meant to be.
+962	00:00:00,000 --> 00:00:00,000	SAWYER	Well, I guess there's nothing I can say that's gonna change your mind.
+964	00:00:00,000 --> 00:00:00,000	JACK	No, I guess there's not.
+966	00:00:00,000 --> 00:00:00,000		[Sawyer punches Jack.]
+968	00:00:00,000 --> 00:00:00,000	SAWYER	Who the hell do you think you are?!
+970	00:00:00,000 --> 00:00:00,000		[They both exchange blows.]
+972	00:00:00,000 --> 00:00:00,000	SAWYER	You think you can come here and do whatever the hell you want? I had a life here!
+974	00:00:00,000 --> 00:00:00,000		[Sawyer tackles Jack into a tree. Jack punches Sawyer, who falls to the floor.]
+976	00:00:00,000 --> 00:00:00,000	JACK	Sawyer listen. You don't get it--
+978	00:00:00,000 --> 00:00:00,000		[Sawyer kicks Jack in the groin, then hits him in the face with a piece of wood. Jack goes down, and Sawyer puts his hands around his neck.]
+980	00:00:00,000 --> 00:00:00,000	SAWYER	Will you stop?
+982	00:00:00,000 --> 00:00:00,000		[Jack groans.]
+984	00:00:00,000 --> 00:00:00,000	SAWYER	Will you stop?!
+986	00:00:00,000 --> 00:00:00,000	JACK	No.
+988	00:00:00,000 --> 00:00:00,000		[Sawyer continues to pummel Jack.]
+990	00:00:00,000 --> 00:00:00,000	JACK	Aah! [Grunting]
+992	00:00:00,000 --> 00:00:00,000	JULIET	James! Let him go.
+994	00:00:00,000 --> 00:00:00,000	SAWYER	He wouldn't listen. I had to. He won't stop!
+996	00:00:00,000 --> 00:00:00,000	JULIET	That's because he's right.
+998	00:00:00,000 --> 00:00:00,000	SAWYER	What?!
+1000	00:00:00,000 --> 00:00:00,000	JULIET	He's right, James. We have to do this.
+1002	00:00:00,000 --> 00:00:00,000	SAWYER	What are you talking about?! You're the one that told me to come back here and stop him! What happened?!
+1004	00:00:00,000 --> 00:00:00,000	JULIET	I changed my mind.
+1006	00:00:00,000 --> 00:00:00,000		[Flashback - A young blonde girl in a pink shirt looks very upset. An older girl with dark hair sits beside her, also upset.]
+1008	00:00:00,000 --> 00:00:00,000	MOTHER	Girls... your dad and I have something we need to talk to you both about.
+1010	00:00:00,000 --> 00:00:00,000	BLONDE SISTER	Are we moving again?
+1012	00:00:00,000 --> 00:00:00,000	BRUNETTE SISTER	No, stupid. They're getting a divorce.
+1014	00:00:00,000 --> 00:00:00,000	MOTHER	Rachel--
+1016	00:00:00,000 --> 00:00:00,000	RACHEL	Well, aren't you?
+1018	00:00:00,000 --> 00:00:00,000	MOTHER	Yes. But... we need you both to understand that your father and I... we still love each other. Just because two people love each other, doesn't always mean they're supposed to be together.
+1020	00:00:00,000 --> 00:00:00,000	BLONDE SISTER	But what if you are supposed to be together?
+1022	00:00:00,000 --> 00:00:00,000	MOTHER	We're not, honey.
+1024	00:00:00,000 --> 00:00:00,000	BLONDE SISTER	But how can you know for sure?
+1026	00:00:00,000 --> 00:00:00,000	MOTHER	We just know.
+1028	00:00:00,000 --> 00:00:00,000		[The blonde sister cries.]
+1030	00:00:00,000 --> 00:00:00,000	MOTHER	And when you're a grown-up, you'll understand.
+1032	00:00:00,000 --> 00:00:00,000	BLONDE SISTER	I don't wanna understand!
+1034	00:00:00,000 --> 00:00:00,000	MOTHER	Juliet, wait!
+1036	00:00:00,000 --> 00:00:00,000	JULIET	I don't wanna understand!
+1038	00:00:00,000 --> 00:00:00,000		[Juliet gets up and runs out of the room.]
+1040	00:00:00,000 --> 00:00:00,000		[On-Island, 1977 - Sawyer and Juliet walk through the jungle.]
+1042	00:00:00,000 --> 00:00:00,000	SAWYER	Stop! We gotta talk about this!
+1044	00:00:00,000 --> 00:00:00,000	JULIET	There's nothing to talk about, James. We have to let Jack do what he came here to do.
+1046	00:00:00,000 --> 00:00:00,000	SAWYER	Well, maybe you shoulda told me you had a change of heart before I brought him out in the jungle to kick his ass.
+1048	00:00:00,000 --> 00:00:00,000		[She stops and turns to him.]
+1050	00:00:00,000 --> 00:00:00,000	JULIET	Would that have stopped you?
+1052	00:00:00,000 --> 00:00:00,000	SAWYER	No.
+1054	00:00:00,000 --> 00:00:00,000		[She continues to march on.]
+1056	00:00:00,000 --> 00:00:00,000	JULIET	Well, then I'm glad you finally got it out of your system.
+1058	00:00:00,000 --> 00:00:00,000	SAWYER	Hey! Hey!
+1060	00:00:00,000 --> 00:00:00,000		[Sawyer runs in front of Juliet and tries to grab onto her, but she resists.]
+1062	00:00:00,000 --> 00:00:00,000	JULIET	You, don't.
+1064	00:00:00,000 --> 00:00:00,000	SAWYER	I need you to tell me where all this is coming from. I mean, one minute, you're leading the great sub escape, and now you're on board with blowing up the damn Island? I got a right to know why you changed your mind.
+1066	00:00:00,000 --> 00:00:00,000	JULIET	I changed my mind when I saw you look at her. [Sawyer begins to object] Don't. Don't. [Whispers] Don't. Don't.
+1068	00:00:00,000 --> 00:00:00,000	SAWYER	I don't care who I looked at. I'm with you.
+1070	00:00:00,000 --> 00:00:00,000	JULIET	And you would stay with me forever if I let you, and that is why I will always love you.
+1072	00:00:00,000 --> 00:00:00,000	SAWYER	You don't--
+1074	00:00:00,000 --> 00:00:00,000	JULIET	What we had, it was just for a little while, and just because we love each other, it doesn't mean that we're meant to be together. I mean, maybe we were never supposed to be together. So if Jack can make it that--that none of you ever come here, then he should.
+1076	00:00:00,000 --> 00:00:00,000	SAWYER	Why you doing this, Juliet?
+1078	00:00:00,000 --> 00:00:00,000	JULIET	[Voice breaks] I... if I never meet you, then I never have to lose you.
+1080	00:00:00,000 --> 00:00:00,000		[Juliet leaves.]
+1082	00:00:00,000 --> 00:00:00,000		[At the Swan worksite, Radzinsky is showing a worker a map as the drill whirls in the background.]
+1084	00:00:00,000 --> 00:00:00,000	DR. CHANG	Radzinsky!
+1086	00:00:00,000 --> 00:00:00,000	RADZINSKY	What is it now?!
+1088	00:00:00,000 --> 00:00:00,000	DR. CHANG	The gauss readings has jumped off the charts.
+1090	00:00:00,000 --> 00:00:00,000	RADZINSKY	Let me see. This is it! We're on top of the pocket!
+1092	00:00:00,000 --> 00:00:00,000	DR. CHANG	If we keep drilling and hit that pocket, all hell is gonna break loose!
+1094	00:00:00,000 --> 00:00:00,000	PHIL	[on walkie] Radzinsky, are you there? Over. Stuart, come in!
+1096	00:00:00,000 --> 00:00:00,000	RADZINSKY	What do you want, Phil?
+1098	00:00:00,000 --> 00:00:00,000	PHIL	That Hostile that shot the kid? He came back.
+1100	00:00:00,000 --> 00:00:00,000	RADZINSKY	What the hell are you talking about?
+1102	00:00:00,000 --> 00:00:00,000	PHIL	Here at the Barracks. He--he attacked us and then got rescued by some of the other recruits. They stole a van and took off.
+1104	00:00:00,000 --> 00:00:00,000	RADZINSKY	Took off where?
+1106	00:00:00,000 --> 00:00:00,000	PHIL	I don't know, but Roger said that one of them had a bomb.
+1108	00:00:00,000 --> 00:00:00,000	RADZINSKY	That Hostile knows about the Swan! Get some men and some guns, and get your asses out here right now! If they're coming here, we're gonna be ready for 'em.
+1110	00:00:00,000 --> 00:00:00,000		[Jack is observing the scene from a ridge. Kate approaches.]
+1112	00:00:00,000 --> 00:00:00,000	KATE	Jack? What happened?
+1114	00:00:00,000 --> 00:00:00,000	JACK	Uh... [sighs] Yeah, my talk with Sawyer didn't go so good. [Chuckles]
+1116	00:00:00,000 --> 00:00:00,000	KATE	Does it hurt?
+1118	00:00:00,000 --> 00:00:00,000	JACK	Ah, it's okay.
+1120	00:00:00,000 --> 00:00:00,000	KATE	Okay.
+1122	00:00:00,000 --> 00:00:00,000		[Kate wipes blood from Jack's face.]
+1124	00:00:00,000 --> 00:00:00,000	KATE	Do you remember when I sewed you up? When we first got here?
+1126	00:00:00,000 --> 00:00:00,000	JACK	Yeah. [Chuckles] Seems like a million years ago.
+1128	00:00:00,000 --> 00:00:00,000	KATE	Or 30 years from now.
+1130	00:00:00,000 --> 00:00:00,000		[Jack chuckles.]
+1132	00:00:00,000 --> 00:00:00,000	JACK	Kate, why'd you make me promise to never ask about Aaron?
+1134	00:00:00,000 --> 00:00:00,000	KATE	Because I was... so angry with you for making me come back here.
+1136	00:00:00,000 --> 00:00:00,000	JACK	Is he why you came back?
+1138	00:00:00,000 --> 00:00:00,000	KATE	I came back so he could be where he belongs--with his mother.
+1140	00:00:00,000 --> 00:00:00,000	JACK	If this works, Claire will never come to the island, and they'll always be together, just the way they're meant to be.
+1142	00:00:00,000 --> 00:00:00,000	KATE	She was gonna give him up for adoption, Jack.'
+1144	00:00:00,000 --> 00:00:00,000	JACK	Well, you don't know what she would do. And whatever it is, it would be her choice. If you wanna save Claire, this is the only way to do it. But nothing... nothing in my life has ever felt so right. And... [sighs] I just need you to believe that.
+1146	00:00:00,000 --> 00:00:00,000		[Loud creaking, crash.]
+1148	00:00:00,000 --> 00:00:00,000	PHIL	Go!
+1150	00:00:00,000 --> 00:00:00,000	RADZINSKY	Keep going!
+1152	00:00:00,000 --> 00:00:00,000		[Alarm blaring.]
+1154	00:00:00,000 --> 00:00:00,000	RADZINSKY	Keep the drill going!
+1156	00:00:00,000 --> 00:00:00,000	JACK	It's about to happen. Are you with me on this?
+1158	00:00:00,000 --> 00:00:00,000	KATE	Yes.
+1160	00:00:00,000 --> 00:00:00,000	JACK	Then let's go.
+1162	00:00:00,000 --> 00:00:00,000		[They leave the site.]
+1164	00:00:00,000 --> 00:00:00,000		[Flashback - Man shouts indistinctly at LA County lock up, where Hurley stands at a desk.]
+1166	00:00:00,000 --> 00:00:00,000	MAN	Copy that.
+1168	00:00:00,000 --> 00:00:00,000	JAIL CLERK	One wallet. $227 cash. One ballpoint pen. [Clicks] One fruit roll-up. Sign here.
+1170	00:00:00,000 --> 00:00:00,000		[Lays down pen.]
+1172	00:00:00,000 --> 00:00:00,000	HURLEY	You don't understand. This is a big mistake. I killed a bunch of people.
+1174	00:00:00,000 --> 00:00:00,000	JAIL CLERK	You see this? This is a discharge form. You've been cleared. So take your stuff and go.
+1176	00:00:00,000 --> 00:00:00,000	HURLEY	Look, dude... there are men with tranquilizer guns hunting me down like an animal. They wanna bring me somewhere against my will.
+1178	00:00:00,000 --> 00:00:00,000	JAIL CLERK	There's a cab stand right out front.
+1180	00:00:00,000 --> 00:00:00,000		[Outside, Hurley opens a taxi door to find Jacob already inside with a guitar case.]
+1182	00:00:00,000 --> 00:00:00,000	HURLEY	Oh. Sorry. I didn't see it was taken, dude.
+1184	00:00:00,000 --> 00:00:00,000	JACOB	Actually, I'm only going a few blocks if you wanna share.
+1186	00:00:00,000 --> 00:00:00,000	HURLEY	Cool. Are you sure?
+1188	00:00:00,000 --> 00:00:00,000	JACOB	Come on in.
+1190	00:00:00,000 --> 00:00:00,000		[Hurley gets in and the taxi drives away. He offes Jacob some candy.]
+1192	00:00:00,000 --> 00:00:00,000	HURLEY	You want some? Cherry.
+1194	00:00:00,000 --> 00:00:00,000	JACOB	No thanks.
+1196	00:00:00,000 --> 00:00:00,000		[Wrapper crinkles.]
+1198	00:00:00,000 --> 00:00:00,000	HURLEY	So what were you in for?
+1200	00:00:00,000 --> 00:00:00,000		[Rips wrapper.]
+1202	00:00:00,000 --> 00:00:00,000	JACOB	Excuse me?
+1204	00:00:00,000 --> 00:00:00,000	HURLEY	Jail. I was there 'cause I killed three people. But I didn't really. I guess they figured it out. What about you?
+1206	00:00:00,000 --> 00:00:00,000	JACOB	I wasn't in jail.
+1208	00:00:00,000 --> 00:00:00,000	HURLEY	Well, then what were you doing sitting outside a prison? In a cab?
+1210	00:00:00,000 --> 00:00:00,000	JACOB	I was waitin' for you, Hugo.
+1212	00:00:00,000 --> 00:00:00,000	HURLEY	Oh. Then you must be dead.
+1214	00:00:00,000 --> 00:00:00,000	JACOB	I'm definitely not dead.
+1216	00:00:00,000 --> 00:00:00,000	HURLEY	Well, what do you want from me?
+1218	00:00:00,000 --> 00:00:00,000	JACOB	I wanna know why you won't go back to the Island.
+1220	00:00:00,000 --> 00:00:00,000	HURLEY	'Cause I'm cursed.
+1222	00:00:00,000 --> 00:00:00,000	JACOB	Is that so?
+1224	00:00:00,000 --> 00:00:00,000	HURLEY	Uh-huh. That's why the plane crashed, my friends died--Libby, Charlie. Now they visit me, and I can't make it stop.
+1226	00:00:00,000 --> 00:00:00,000	JACOB	Well, what if you weren't cursed? What if you were blessed?
+1228	00:00:00,000 --> 00:00:00,000	HURLEY	How do you mean "blessed?"
+1230	00:00:00,000 --> 00:00:00,000	JACOB	Well, you get to talk to people you've lost... seems like a pretty wonderful thing to me.
+1232	00:00:00,000 --> 00:00:00,000	HURLEY	Oh, I'm sure it's wonderful, except for the part where I'm crazy.
+1234	00:00:00,000 --> 00:00:00,000	JACOB	[Clicks tongue] I've got some news for you, Hugo, and you're just gonna have to take my word on this. You are not crazy.
+1236	00:00:00,000 --> 00:00:00,000	HURLEY	Who are you, dude?
+1238	00:00:00,000 --> 00:00:00,000	JACOB	[To the cab driver] I'm just up here on the corner.
+1240	00:00:00,000 --> 00:00:00,000		[The cab driver nods. The cab stops.]
+1242	00:00:00,000 --> 00:00:00,000	JACOB	[To Hurley] Ajira Airways Flight 316 out of LAX. Leaves in 24 hours. All you have to do is get on that plane. [touching his arm] It's your choice, Hugo. You don't have to do anything you don't want to.
+1244	00:00:00,000 --> 00:00:00,000		[Jacob gets out.]
+1246	00:00:00,000 --> 00:00:00,000	HURLEY	Wait! You forgot your guitar.
+1248	00:00:00,000 --> 00:00:00,000		[Jacob closes the door.]
+1250	00:00:00,000 --> 00:00:00,000	JACOB	It's not my guitar.
+1252	00:00:00,000 --> 00:00:00,000		[On-Island, 1977 - The DHARMA van is parked in the jungle. Sayid sits outside of it, bleeding heavily. Hurley comes over with a canteen of water.]
+1254	00:00:00,000 --> 00:00:00,000	HURLEY	Don't worry, dude. Everything'll be fine when Jack changes the future... or the past. One of those.
+1256	00:00:00,000 --> 00:00:00,000	MILES	I don't think your buddy's gonna make it.
+1258	00:00:00,000 --> 00:00:00,000	JIN	He'll make it.
+1260	00:00:00,000 --> 00:00:00,000		[Jack returns to the van.]
+1262	00:00:00,000 --> 00:00:00,000	HURLEY	Dude, what happened to your face?
+1264	00:00:00,000 --> 00:00:00,000	JACK	Nothin'. We were just up on a ridge where we could look down into the Swan site.
+1266	00:00:00,000 --> 00:00:00,000		[Jack retrieves a bag from the van.]
+1268	00:00:00,000 --> 00:00:00,000	JACK	Something just happened down there.
+1270	00:00:00,000 --> 00:00:00,000		[Removes objects from the bag.]
+1272	00:00:00,000 --> 00:00:00,000	JACK	They hit something. It's time for me to go.
+1274	00:00:00,000 --> 00:00:00,000	SAYID	It's all set to go. Remember, be careful. It's rigged to explode on impact. According to Faraday's plan, you must get the bomb as close as you can to the source of electromagnetism.
+1276	00:00:00,000 --> 00:00:00,000	JACK	[Sighs] Sayid, this is gonna work. And it'll save ya.
+1278	00:00:00,000 --> 00:00:00,000	SAYID	Nothing can save me.
+1280	00:00:00,000 --> 00:00:00,000		[Jack puts the backpack with the Jughead core in on his back. He takes a gun from Hurley and nods to Kate before leaving for the Swan site. Kate goes to say something to him but decides not to. On his way through the jungle, he encounters Sawyer and Juliet walking toward him. He looks at Sawyer as he passes.]
+1282	00:00:00,000 --> 00:00:00,000	JACK	See ya in Los Angeles.
+1284	00:00:00,000 --> 00:00:00,000		[He continues on his way.]
+1286	00:00:00,000 --> 00:00:00,000		[2007 - On the beach outside the statue, Locke looks toward the foot. Richard approaches, lights a torch, then sticks it in the sand.]
+1288	00:00:00,000 --> 00:00:00,000	RICHARD	Are you sure you need to do this? If you waited, Jacob would eventually come to you, John.
+1290	00:00:00,000 --> 00:00:00,000	LOCKE	I'm tired of waiting. Where is he, Richard?
+1292	00:00:00,000 --> 00:00:00,000		[Richard takes the torch he just planted and leads Locke away.]
+1294	00:00:00,000 --> 00:00:00,000	SUN	What happened to the rest of the statue?
+1296	00:00:00,000 --> 00:00:00,000	BEN	I don't know. It was like that when I got here.
+1298	00:00:00,000 --> 00:00:00,000	SUN	Do you expect me to believe that?
+1300	00:00:00,000 --> 00:00:00,000	BEN	Not really.
+1302	00:00:00,000 --> 00:00:00,000	LOCKE	All right, Ben, let's go.
+1304	00:00:00,000 --> 00:00:00,000		[Ben stands and follows Locke to the statue. Richard notices him following.]
+1306	00:00:00,000 --> 00:00:00,000	RICHARD	W--what are you doing?
+1308	00:00:00,000 --> 00:00:00,000	BEN	John wants me to join him.
+1310	00:00:00,000 --> 00:00:00,000	RICHARD	You can't bring him in.
+1312	00:00:00,000 --> 00:00:00,000	LOCKE	Why not?
+1314	00:00:00,000 --> 00:00:00,000	RICHARD	Because only our leader can request an audience with Jacob, and there can only be one leader on the Island at a time, John.
+1316	00:00:00,000 --> 00:00:00,000	LOCKE	I'm beginning to think you just make these rules up as you go along, Richard. Ben is coming in with me, and if that's a problem, I'm sure Jacob and I can work it out.
+1318	00:00:00,000 --> 00:00:00,000		[Richard continues to the base of the statue. He hands Locke his torch and pushes against an indented section of the wall. After much effort, a piece of the wall moves back slightly. He takes his torch back.]
+1320	00:00:00,000 --> 00:00:00,000	RICHARD	Tell him I said hello.
+1322	00:00:00,000 --> 00:00:00,000		[Richard leaves Locke and Ben alone. Locke then moves the stone back the rest of the way and Ben enters in behind him. Ben pauses for a moment.]
+1324	00:00:00,000 --> 00:00:00,000	LOCKE	Will you be able to do this, Ben? I know it won't be easy, but things will change... [whispers] once he's gone. [offers Ben a knife] I promise.
+1326	00:00:00,000 --> 00:00:00,000		[Ben takes the knife from the sheath in Locke's hand. They start to make their way toward the chamber.]
+1328	00:00:00,000 --> 00:00:00,000		[1977 - Jin tends to Sayid's bandages.]
+1330	00:00:00,000 --> 00:00:00,000	MILES	Can I ask you something, LaFleur?
+1332	00:00:00,000 --> 00:00:00,000	SAWYER	There ain't no more LaFleur, Enos. Go ahead, shoot.
+1334	00:00:00,000 --> 00:00:00,000	MILES	Has it occurred to any of you that your buddy's actually gonna cause the thing he says he's trying to prevent? Perhaps that little nuke is the incident? So maybe the best thing to do... is nothing?
+1336	00:00:00,000 --> 00:00:00,000		[No-one responds.]
+1338	00:00:00,000 --> 00:00:00,000	MILES	I'm glad you all thought this through.
+1340	00:00:00,000 --> 00:00:00,000		[The group spots a vehicle driving over the terrain in the distance.]
+1342	00:00:00,000 --> 00:00:00,000	JULIET	What's going on?
+1344	00:00:00,000 --> 00:00:00,000	JIN	It's Phil. That's the road to the Swan.
+1346	00:00:00,000 --> 00:00:00,000	KATE	If they see Jack, they're gonna kill him.
+1348	00:00:00,000 --> 00:00:00,000	SAWYER	What do you think, Blondie?
+1350	00:00:00,000 --> 00:00:00,000	JULIET	Live together, die alone.
+1352	00:00:00,000 --> 00:00:00,000		[At the worksite, Phil and his team arrive. Alarm continues blaring, man shouting indistinctly.]
+1354	00:00:00,000 --> 00:00:00,000	RADZINSKY	Good for you. You got here fast.
+1356	00:00:00,000 --> 00:00:00,000	PHIL	Any sign of 'em yet?
+1358	00:00:00,000 --> 00:00:00,000	RADZINSKY	No, not yet. You got time to set up a perimeter.
+1360	00:00:00,000 --> 00:00:00,000	DR. CHANG	You called these men to the site?
+1362	00:00:00,000 --> 00:00:00,000	PHIL	[pointing] You, rear ridgeline. You, top ridgeline.
+1364	00:00:00,000 --> 00:00:00,000	DR. CHANG	We need to be getting people away from here!
+1366	00:00:00,000 --> 00:00:00,000	PHIL	You, top of the scaffolding. Go now!
+1368	00:00:00,000 --> 00:00:00,000		[Jack watches the scene from above. Alarm continues blaring. Jack makes his way to the water tank just on top of the ridge.]
+1370	00:00:00,000 --> 00:00:00,000	PHIL	There!
+1372	00:00:00,000 --> 00:00:00,000		[Phil spots him and a barrage of bullets are shot at Jack. Jack takes cover and manages to shoot one of the guards with his shots. Jack tries to make his way closer to the site but backtracks when he is shot at.]
+1374	00:00:00,000 --> 00:00:00,000		[Man shouts indistinctly]
+1376	00:00:00,000 --> 00:00:00,000	RADZINSKY	Get him!
+1378	00:00:00,000 --> 00:00:00,000	PHIL	Flank him! Get him now!
+1380	00:00:00,000 --> 00:00:00,000		[A DHARMA van approaches. Kate and Juliet are shooting from within the van.]
+1382	00:00:00,000 --> 00:00:00,000	RADZINSKY	Who's this?!
+1384	00:00:00,000 --> 00:00:00,000		[The van halts and Juliet hops out. Sawyer and Miles follow shortly after. Gunfire continues and several more security members are hit. Jack makes his way closer to the site, jumping down ridges on his way.]
+1386	00:00:00,000 --> 00:00:00,000	WORKER	Uhh!
+1388	00:00:00,000 --> 00:00:00,000		[Gunshots ricochet as the fighting continues. Sawyer sneaks through the site and jumps Radzinsky, hitting in with his gun.]
+1390	00:00:00,000 --> 00:00:00,000	RADZINSKY	Aah!
+1392	00:00:00,000 --> 00:00:00,000		[Sawyer then grabs Phil by the neck from behind and holds a gun to his head. Pierre manages to disarm Radzinsky.]
+1394	00:00:00,000 --> 00:00:00,000	SAWYER	[holds Phil at gunpoint] Drop it, Phil, or you're a dead man!
+1396	00:00:00,000 --> 00:00:00,000	PHIL	Okay, okay.
+1398	00:00:00,000 --> 00:00:00,000	SAWYER	Tell 'em to put their guns down.
+1400	00:00:00,000 --> 00:00:00,000	PHIL	[Shouting] Drop the guns! Drop the guns!
+1402	00:00:00,000 --> 00:00:00,000		[Workers put their guns down]
+1404	00:00:00,000 --> 00:00:00,000		[Drilling continues]
+1406	00:00:00,000 --> 00:00:00,000	SAWYER	All right, you can come out now, Doc!
+1408	00:00:00,000 --> 00:00:00,000		[Kate hops of out of the van and with Juliet starts to head down into the site.]
+1410	00:00:00,000 --> 00:00:00,000	SAWYER	Hurry up and do your business.
+1412	00:00:00,000 --> 00:00:00,000		[Alarm continues blaring.]
+1414	00:00:00,000 --> 00:00:00,000	SAWYER	Turn that damn thing off!
+1416	00:00:00,000 --> 00:00:00,000		[Pierre pulls all the levers but the drilling continues.]
+1418	00:00:00,000 --> 00:00:00,000	SAWYER	What's the matter?!
+1420	00:00:00,000 --> 00:00:00,000		[Pierre pushes a button on the drill, but it does nothing.]
+1422	00:00:00,000 --> 00:00:00,000	DR. CHANG	It won't shut down!
+1424	00:00:00,000 --> 00:00:00,000	SAWYER	Why not?!
+1426	00:00:00,000 --> 00:00:00,000	DR. CHANG	Something's pulling the drill down.
+1428	00:00:00,000 --> 00:00:00,000	RADZINSKY	We hit the pocket!
+1430	00:00:00,000 --> 00:00:00,000		[Jack pulls Jughead's core from backpack and holds it over the hole.]
+1432	00:00:00,000 --> 00:00:00,000	SAWYER	Hurry up, Doc! What are you waiting for?! Drop it!
+1434	00:00:00,000 --> 00:00:00,000		[Drilling continues. Jack looks up at Kate. She looks back and nods. Sawyer releases Phil and looks at Juliet. She smiles. Sawyer closes his eyes. Jack drops Jughead's core and it plummets down the shaft. Everyone closes their eyes. After a few moments of flinching, they all open their eyes.]
+1436	00:00:00,000 --> 00:00:00,000	SAWYER	[Sighs] This don't look like LAX.
+1438	00:00:00,000 --> 00:00:00,000		[Suddenly a humming sound begins. Metal clanking and banging loudly as the drill shakes. Steam shoots from the shaft. Jack's gun is pulled into the shaft by an invisible force. Then a toolbox is pulled into it. Pierre tries to shut the drill down once more, but nothing happens. Then the drill tower bends and creaks as it is pulled down by the electromagnetism.]
+1440	00:00:00,000 --> 00:00:00,000	DR. CHANG	[hand gets trapped under machine] Aah!
+1442	00:00:00,000 --> 00:00:00,000	MILES	Dad!
+1444	00:00:00,000 --> 00:00:00,000	DR. CHANG	Aah!
+1446	00:00:00,000 --> 00:00:00,000		[Loud clank as toolbox hits Jack in the back of the head.]
+1448	00:00:00,000 --> 00:00:00,000	JACK	Uhh!
+1450	00:00:00,000 --> 00:00:00,000	KATE	Jack!
+1452	00:00:00,000 --> 00:00:00,000	MILES	Dad!
+1454	00:00:00,000 --> 00:00:00,000		[Clattering as metal tubes bounce everywhere.]
+1456	00:00:00,000 --> 00:00:00,000	MILES	[frees Dr. Chang] Get away from here! Get as far away from here as you can!
+1458	00:00:00,000 --> 00:00:00,000	RADZINSKY	[boarding car] Get in!
+1460	00:00:00,000 --> 00:00:00,000	WORKER	What the hell's going on?!
+1462	00:00:00,000 --> 00:00:00,000	WORKER	Get out of here!
+1464	00:00:00,000 --> 00:00:00,000	WORKER	Come on!
+1466	00:00:00,000 --> 00:00:00,000		[Radzinsky tries to drive a Jeep away but it is pulled back by the electromagnetism.
+1468	00:00:00,000 --> 00:00:00,000	RADSINSKY	Go! Go! Go!
+1470	00:00:00,000 --> 00:00:00,000		[The Jeep is overturned and the passengers thrown out of it. Phil picks up gun and points it at Sawyer.]
+1472	00:00:00,000 --> 00:00:00,000	PHIL	Hey, LaFleur!
+1474	00:00:00,000 --> 00:00:00,000		[Sawyer notices the scaffolding beginning to fall and runs away. It lands on Phil, who is then is then impaled by a metal spike. A chain is pulled by the magnetism and wraps around Juliet, dragging her to the shaft opening.]
+1476	00:00:00,000 --> 00:00:00,000	JULIET	Aah! Help!
+1478	00:00:00,000 --> 00:00:00,000	KATE	Juliet! [tries to pull her to safety] Ah, come on! Sawyer!
+1480	00:00:00,000 --> 00:00:00,000	JULIET	Help! [tries to hold onto bars]
+1482	00:00:00,000 --> 00:00:00,000	SAWYER	Juliet!
+1484	00:00:00,000 --> 00:00:00,000	KATE	[Grunts] Sawyer!
+1486	00:00:00,000 --> 00:00:00,000	JULIET	Uhh!
+1488	00:00:00,000 --> 00:00:00,000		[She loses grip of the bar but Sawyer grabs her hand just in time.]
+1490	00:00:00,000 --> 00:00:00,000	SAWYER	Where do you think you're going, Blondie?
+1492	00:00:00,000 --> 00:00:00,000	JULIET	[Gasps] Aah! It hurts! Aah!
+1494	00:00:00,000 --> 00:00:00,000	SAWYER	Kate! Help me get those chains off!
+1496	00:00:00,000 --> 00:00:00,000		[Kate attempts to reach for the chains]
+1498	00:00:00,000 --> 00:00:00,000	SAWYER	Hold on! You hold on!
+1500	00:00:00,000 --> 00:00:00,000	JULIET	[Crying] I can't. I can't get it off.
+1502	00:00:00,000 --> 00:00:00,000	SAWYER	I got you.
+1504	00:00:00,000 --> 00:00:00,000	KATE	[Grunts] I can't...
+1506	00:00:00,000 --> 00:00:00,000		[Metal creaks.]
+1508	00:00:00,000 --> 00:00:00,000	JULIET	[Sobbing]
+1510	00:00:00,000 --> 00:00:00,000	KATE	I can't reach them.
+1512	00:00:00,000 --> 00:00:00,000	SAWYER	You hold on!
+1514	00:00:00,000 --> 00:00:00,000		[The machine buckles.]
+1516	00:00:00,000 --> 00:00:00,000	JULIET	Aah! No! [Cries]
+1518	00:00:00,000 --> 00:00:00,000	SAWYER	Please! I got you.
+1520	00:00:00,000 --> 00:00:00,000		[The drill structure begins to snap.]
+1522	00:00:00,000 --> 00:00:00,000	KATE	Sawyer!
+1524	00:00:00,000 --> 00:00:00,000		[Machine buckles again.]
+1526	00:00:00,000 --> 00:00:00,000	SAWYER	Don't you leave me.
+1528	00:00:00,000 --> 00:00:00,000	JULIET	[Panting] It's okay.
+1530	00:00:00,000 --> 00:00:00,000	SAWYER	Don't you leave me! You hold on!
+1532	00:00:00,000 --> 00:00:00,000	JULIET	[Sobbing] I love you.
+1534	00:00:00,000 --> 00:00:00,000	SAWYER	No, you don't let go!
+1536	00:00:00,000 --> 00:00:00,000	JULIET	I love you, James.
+1538	00:00:00,000 --> 00:00:00,000	SAWYER	Don't let go.
+1540	00:00:00,000 --> 00:00:00,000	JULIET	I love you so much.
+1542	00:00:00,000 --> 00:00:00,000	SAWYER	No! No, don't let go!
+1544	00:00:00,000 --> 00:00:00,000		[Juliet releases her grip and screams as she falls down the shaft.]
+1546	00:00:00,000 --> 00:00:00,000	SAWYER	Juliet! No! [Sobs]
+1548	00:00:00,000 --> 00:00:00,000		[2007 - Sun is sitting on a rock. Richard approaches her.]
+1550	00:00:00,000 --> 00:00:00,000	RICHARD	Water?
+1552	00:00:00,000 --> 00:00:00,000	SUN	Do you have any alcohol?
+1554	00:00:00,000 --> 00:00:00,000	RICHARD	[Chuckles] No. Sure wish I did.
+1556	00:00:00,000 --> 00:00:00,000		[Ilana and her team arrive with the crate. The Others cock their guns.]
+1558	00:00:00,000 --> 00:00:00,000	ILANA	Don't shoot.
+1560	00:00:00,000 --> 00:00:00,000	RICHARD	It's okay. It's all right.
+1562	00:00:00,000 --> 00:00:00,000	ILANA	Which one of you is Richardus?
+1564	00:00:00,000 --> 00:00:00,000	RICHARD	It's Richard, actually.
+1566	00:00:00,000 --> 00:00:00,000	ILANA	What lies in the shadow of the statue?
+1568	00:00:00,000 --> 00:00:00,000	RICHARD	[after a moment] Ille qui nos omnes servabit.
+1570	00:00:00,000 --> 00:00:00,000		[Ilana closes her eyes with relief.]
+1572	00:00:00,000 --> 00:00:00,000	ILANA	Richard... I'm Ilana. I have something you need to see. [Shouting, to her team] Open it up.
+1574	00:00:00,000 --> 00:00:00,000		[The Others cock their guns.]
+1576	00:00:00,000 --> 00:00:00,000	RICHARD	It--it's okay. It's okay. Let them.
+1578	00:00:00,000 --> 00:00:00,000		[They open the crate and tip the contents onto the sand. Richard and Sun peer over the crate to see a body.
+1580	00:00:00,000 --> 00:00:00,000	RICHARD	Where did you find him?
+1582	00:00:00,000 --> 00:00:00,000	ILANA	In the cargo hold of the plane we came here on... in a coffin.
+1584	00:00:00,000 --> 00:00:00,000		[The body is revealed to be that of John Locke.]
+1586	00:00:00,000 --> 00:00:00,000	SUN	I don't understand. If this is Locke... who's in there?
+1588	00:00:00,000 --> 00:00:00,000		[Inside the base of the staute, Locke and Ben enter the chamber, where the fire is still burning. It appears to be empty. Ben looks up through the hole in the ceiling to see the night sky above them and a cresent moon. Ben then examines a tapestry on the wall. Jacob is revealed to be sitting behind a pillar in his chair.]
+1590	00:00:00,000 --> 00:00:00,000	JACOB	You like it? I did it myself. It takes a very long time when you're making the thread, but, uh... I suppose that's the point, isn't it?
+1592	00:00:00,000 --> 00:00:00,000	LOCKE	Hello, Jacob.
+1594	00:00:00,000 --> 00:00:00,000		[Jacob nods to himself.]
+1596	00:00:00,000 --> 00:00:00,000	JACOB	Well, you found your loophole.
+1598	00:00:00,000 --> 00:00:00,000	LOCKE	Indeed I did. And you have no idea what I've gone through to be here.
+1600	00:00:00,000 --> 00:00:00,000	BEN	Have you met before?
+1602	00:00:00,000 --> 00:00:00,000	LOCKE	In a manner of speaking. [Whispers] Do what I asked you to, Ben.
+1604	00:00:00,000 --> 00:00:00,000		[Jacob walks over to Ben.]
+1606	00:00:00,000 --> 00:00:00,000	JACOB	Benjamin... whatever he's told you, I want you to understand one thing. You have a choice.
+1608	00:00:00,000 --> 00:00:00,000	BEN	What "choice"?
+1610	00:00:00,000 --> 00:00:00,000	JACOB	You can do what he asked, or you can go, leave us to discuss our... issues.
+1612	00:00:00,000 --> 00:00:00,000	BEN	Oh... so now, after all this time, you've decided to stop ignoring me. Thirty-five years I lived on this island, and all I ever heard was your name over and over. Richard would bring me your instructions--all those slips of paper, all those lists--and I never questioned anything. I did as I was told. But when I dared to ask to see you myself, I was told, "You have to wait. You have to be patient." But when he asked to see you? He gets marched straight up here as if was Moses. So... why him? Hmm? What was it that was so wrong with me? What about me?!
+1614	00:00:00,000 --> 00:00:00,000	JACOB	What about you?
+1616	00:00:00,000 --> 00:00:00,000	BEN	[Whispers] Oh. [Normal voice] Well...
+1618	00:00:00,000 --> 00:00:00,000		[Ben stabs Jacob twice in the chest. Jacob falls into Ben's arms and then onto the floor, blood dripping from his mouth.]
+1620	00:00:00,000 --> 00:00:00,000	JACOB	[Gagging] They're... coming.
+1622	00:00:00,000 --> 00:00:00,000	LOCKE	What?
+1624	00:00:00,000 --> 00:00:00,000		[Jacob gags.]
+1626	00:00:00,000 --> 00:00:00,000	LOCKE	I can't hear you.
+1628	00:00:00,000 --> 00:00:00,000	JACOB	They're coming.
+1630	00:00:00,000 --> 00:00:00,000		[Locke stares at Jacob for a moment, then kicks him into a fire pit in the center of the room.]
+1632	00:00:00,000 --> 00:00:00,000		[1977 - At the Swan site, Jack wakes up. He hears the muffled voices of Kate and Sawyer.]
+1634	00:00:00,000 --> 00:00:00,000	SAWYER	Juliet!
+1636	00:00:00,000 --> 00:00:00,000		[Buzzing and humming continues.]
+1638	00:00:00,000 --> 00:00:00,000	KATE	Sawyer, get off of there!
+1640	00:00:00,000 --> 00:00:00,000		[Metal continues creaking.]
+1642	00:00:00,000 --> 00:00:00,000	KATE	We have to go right now. We need to go!
+1644	00:00:00,000 --> 00:00:00,000		[Sawyer groans as he rests on the drill structure, which is about to fall into the shaft.]
+1646	00:00:00,000 --> 00:00:00,000	KATE	Get off. It's going down! This thing is gonna go! You have to let it go. You have to go! This thing is going to blow at any second.
+1648	00:00:00,000 --> 00:00:00,000	SAWYER	No!
+1650	00:00:00,000 --> 00:00:00,000		[Jack comes over.]
+1652	00:00:00,000 --> 00:00:00,000	KATE	Jack! Jack, help me get him off.
+1654	00:00:00,000 --> 00:00:00,000		[They pull Sawyer away from the drill as it crashes and falls down into the hole. Underground, Juliet wakes up and coughs up blood and cries. She notices the Jughead core lying next to her. She picks up a rock and begins to strike the bomb.]
+1656	00:00:00,000 --> 00:00:00,000		[Buzzing and humming continues.]
+1658	00:00:00,000 --> 00:00:00,000	JULIET	[Groans] Come on! Come on! [Sobbing] Come on! Go! Come on! Come on! Come on, you son of a bitch!
+1660	00:00:00,000 --> 00:00:00,000		[After the eigth strike, there is a loud explosion and a bright white light fills the world.]

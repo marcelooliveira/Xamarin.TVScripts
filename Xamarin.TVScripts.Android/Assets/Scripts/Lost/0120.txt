@@ -1,0 +1,375 @@
+Do No Harm
+2	00:00:00,000 --> 00:00:00,000	Written by	Janet Tamaro
+4	00:00:00,000 --> 00:00:00,000	Directed by	Stephen Williams
+6	00:00:00,000 --> 00:00:00,000		[We see Jack, Sun and Kate at the caves working on the injured Boone - moving him.]
+8	00:00:00,000 --> 00:00:00,000	JACK	C'mon, out of the way! I need room. Steady.
+10	00:00:00,000 --> 00:00:00,000	KATE	Boone, can you hear me? It's okay, we've got you.
+12	00:00:00,000 --> 00:00:00,000	HURLEY	What happened?
+14	00:00:00,000 --> 00:00:00,000	KATE	He fell down a cliff.
+16	00:00:00,000 --> 00:00:00,000	HURLEY	But he was with Locke.
+18	00:00:00,000 --> 00:00:00,000	JACK	Hold steady.
+20	00:00:00,000 --> 00:00:00,000	SUN	Jack, his leg.
+22	00:00:00,000 --> 00:00:00,000	JACK	I know. He's bleeding. Keep him steady, damn it. You've got to press harder than that, Kate.
+24	00:00:00,000 --> 00:00:00,000	KATE	I know. I'm trying.
+26	00:00:00,000 --> 00:00:00,000	JACK	Alright, slow now. Slow and gentle. Easy. [They lay Boone down.] Sun, pair of scissors - second drawer in the cart. Second drawer! Diapers in the first drawer. [To Kate] Sun's going to switch places with you. Sun, I need...
+28	00:00:00,000 --> 00:00:00,000	SUN	[going to where Kate is] Yes, I understand.
+30	00:00:00,000 --> 00:00:00,000	JACK	Hurley, grab me that first class seat from up there. Also, I need that mesh. We need to create some kind of sterile -- [shot of Hurley looking queasy]. Hurley, I swear to god, if you faint!
+32	00:00:00,000 --> 00:00:00,000	HURLEY	No -- first class -- mesh - I'm cool. Lord in heaven.
+34	00:00:00,000 --> 00:00:00,000	JACK	[to Kate] Get to the beach. Ransack Sawyer's stuff. I want his alcohol - rubbing, scotch.
+36	00:00:00,000 --> 00:00:00,000		[Boone starts making sounds like he's having trouble breathing.]
+38	00:00:00,000 --> 00:00:00,000	KATE	Jack, what's going on?
+40	00:00:00,000 --> 00:00:00,000	JACK	His lung just collapsed. Okay. [Jack gets some tubing and peroxide. He pokes a hole in Boone's chest with a small metal stake] Okay, okay, good Boone. Good, Boone, that's good. Good job. Alright, a little bit of tube in that and you're going to be just fine. [to Kate] What are you still doing here? The alcohol, Kate! You want him to live -- get to the beach, now!
+42	00:00:00,000 --> 00:00:00,000		[Kate runs off and Jack inserts some tubing into Boone's chest to re-inflate his lung. Jack takes a deep breath.]
+44	00:00:00,000 --> 00:00:00,000		[Flashback - Jack is tying a tuxedo bow-tie on his friend, Marc.]
+46	00:00:00,000 --> 00:00:00,000	MARC	Alright, damn it, just get the stupid clip-on, huh?
+48	00:00:00,000 --> 00:00:00,000	JACK	You know why they call it a tie? Because you've got to tie it.
+50	00:00:00,000 --> 00:00:00,000	MARC	You know why they call it a clip-on? Because you clip it -- on.
+52	00:00:00,000 --> 00:00:00,000	JACK	You nervous, Silverman?
+54	00:00:00,000 --> 00:00:00,000	MARC	What the hell do I have to be nervous about?
+56	00:00:00,000 --> 00:00:00,000	JACK	It's a big responsibility.
+58	00:00:00,000 --> 00:00:00,000	MARC	I can handle responsibility.
+60	00:00:00,000 --> 00:00:00,000	JACK	Maybe. But I know that you don't like to get up in front of crowds.
+62	00:00:00,000 --> 00:00:00,000	MARC	I'll be fine. After about 8 beers, I'll be fine.
+64	00:00:00,000 --> 00:00:00,000	JACK	She'll bust you, man.
+66	00:00:00,000 --> 00:00:00,000	MARC	I'll brush my teeth.
+68	00:00:00,000 --> 00:00:00,000	JACK	She'll bust you. You can still back out, Marc.
+70	00:00:00,000 --> 00:00:00,000	MARC	Nah, it's just a stupid speech. I'll make you proud.
+72	00:00:00,000 --> 00:00:00,000		[The Tux Shop Owner comes out carrying another tuxedo.]
+74	00:00:00,000 --> 00:00:00,000	TUX SHOP OWNER	Okay, groom's turn.
+76	00:00:00,000 --> 00:00:00,000	MARC	You can still back out, Jack.
+78	00:00:00,000 --> 00:00:00,000		[On-Island - We see Jack ripping Boone's pants to get to the wound on his leg.]
+80	00:00:00,000 --> 00:00:00,000	BOONE	Oh, it hurts.
+82	00:00:00,000 --> 00:00:00,000	JACK	It's a closed fracture but I think I can set it.
+84	00:00:00,000 --> 00:00:00,000	SUN	His chest, the wound. Can you -- sew him?
+86	00:00:00,000 --> 00:00:00,000	JACK	He's lost a lot of blood. I wonder how far Locke had to carry him.
+88	00:00:00,000 --> 00:00:00,000	BOONE	I'm going to die.
+90	00:00:00,000 --> 00:00:00,000	JACK	[to Boone who's not quite conscious] Boone, listen to me. Listen! You are not going to die. I'm going to fix this, okay? I am going to save you.
+92	00:00:00,000 --> 00:00:00,000		[Claire walking past Jin who's chopping something at the raft. She walks up to Michael, Walt and Sawyer who are cooking fish.]
+94	00:00:00,000 --> 00:00:00,000	MICHAEL	You've got to flip it or it'll burn, Walt.
+96	00:00:00,000 --> 00:00:00,000	SAWYER	[to Claire] Hey, mamacita. You want some fish?
+98	00:00:00,000 --> 00:00:00,000	CLAIRE	No, thanks. I'm not really hungry. [about the raft] How long do you think 'til it's ready?
+100	00:00:00,000 --> 00:00:00,000	MICHAEL	Maybe a week, maybe less. You okay?
+102	00:00:00,000 --> 00:00:00,000	CLAIRE	[exiting] Yeah, I'm fine. Alright, I'll see you guys later.
+104	00:00:00,000 --> 00:00:00,000	SAWYER	She likes me.
+106	00:00:00,000 --> 00:00:00,000	MICHAEL	Hey, Jin! Jin! Want some fish? Hey, take a break. Eat some fish.
+108	00:00:00,000 --> 00:00:00,000		[Jin waves him off.]
+110	00:00:00,000 --> 00:00:00,000	SAWYER	The man's got what I call an overzealous work ethic.
+112	00:00:00,000 --> 00:00:00,000	MICHAEL	Try obsession. He wants off this Island bad, man.
+114	00:00:00,000 --> 00:00:00,000	SAWYER	Can't say I blame poor Kato. His lady speaks English all this time and he didn't have a clue? I'm surprised he didn't try to swim out of here. Hell, I would've.
+116	00:00:00,000 --> 00:00:00,000	KATE	[entering] Sawyer, I need all your alcohol. Now!
+118	00:00:00,000 --> 00:00:00,000		[Scene of Sawyer putting the liquor bottles into Kate's pack.]
+120	00:00:00,000 --> 00:00:00,000	SAWYER	How'd it happen?
+122	00:00:00,000 --> 00:00:00,000	KATE	Locke said that he fell off a cliff while they were out hunting boar.
+124	00:00:00,000 --> 00:00:00,000	SAWYER	Boar they never seem to get.
+126	00:00:00,000 --> 00:00:00,000	KATE	Is that it? [referring to the alcohol]
+128	00:00:00,000 --> 00:00:00,000	SAWYER	Afraid so. You need anything else? I could come with you.
+130	00:00:00,000 --> 00:00:00,000	KATE	Too many cooks already, but thanks.
+132	00:00:00,000 --> 00:00:00,000		[Jack is stitching up Boone's chest wounds.]
+134	00:00:00,000 --> 00:00:00,000	BOONE	I'm sorry. I'm really sorry. I'm sorry.
+136	00:00:00,000 --> 00:00:00,000	JACK	He needs blood.
+138	00:00:00,000 --> 00:00:00,000	SUN	What?
+140	00:00:00,000 --> 00:00:00,000	JACK	Blood. A transfusion.
+142	00:00:00,000 --> 00:00:00,000	SUN	How will you do that?
+144	00:00:00,000 --> 00:00:00,000	JACK	I don't know. I'll figure it out. After I set the leg.
+146	00:00:00,000 --> 00:00:00,000	SUN	Let me.
+148	00:00:00,000 --> 00:00:00,000	JACK	That's okay.
+150	00:00:00,000 --> 00:00:00,000	SUN	Let me. Get some air.
+152	00:00:00,000 --> 00:00:00,000		[Jack goes to regroup and runs into Charlie.]
+154	00:00:00,000 --> 00:00:00,000	CHARLIE	How is he?
+156	00:00:00,000 --> 00:00:00,000	JACK	Don't know yet.
+158	00:00:00,000 --> 00:00:00,000	CHARLIE	What happened out there? Where's Locke? Do you think that...
+160	00:00:00,000 --> 00:00:00,000	JACK	I don't know!
+162	00:00:00,000 --> 00:00:00,000	CHARLIE	What, he just took off?
+164	00:00:00,000 --> 00:00:00,000	JACK	Yeah, Charlie. He just took off.
+166	00:00:00,000 --> 00:00:00,000	CHARLIE	Where's Shannon?
+168	00:00:00,000 --> 00:00:00,000	JACK	I don't know.
+170	00:00:00,000 --> 00:00:00,000	CHARLIE	Well, she's his sister. You don't think...
+172	00:00:00,000 --> 00:00:00,000	JACK	I don't know where she is!
+174	00:00:00,000 --> 00:00:00,000		[Flashback - Wedding rehearsal scene. Marc is handing the mic off to Sarah.]
+176	00:00:00,000 --> 00:00:00,000	MARC	And here she is, the future Mrs. Jack Shepard.
+178	00:00:00,000 --> 00:00:00,000	SARAH	Thank you. Wow, can I get another microphone? I think this one's been drinking. A little over two years ago, I blew a tire out -- flipped over the center divider into oncoming traffic, and was hit head-on by an SUV. My back was broken. They all said it was irreparable. And then there was Jack. And he promised he would fix me, because that's the kind of guy he is. Because you are the most committed man I have ever known -- because you fixed me, I will dance at our wedding. To Jack, my hero, Jack.
+180	00:00:00,000 --> 00:00:00,000		[On-Island - Shot of Jack examining Boone's leg. Sun enters holding a small stick.]
+182	00:00:00,000 --> 00:00:00,000	SUN	Give him this -- for the pain.
+184	00:00:00,000 --> 00:00:00,000	JACK	I think we're a little beyond herbal remedies here.
+186	00:00:00,000 --> 00:00:00,000	SUN	[putting the stick between Boone's teeth] It is not a remedy.
+188	00:00:00,000 --> 00:00:00,000	JACK	Will you hold his shoulders? Here we go.
+190	00:00:00,000 --> 00:00:00,000		[Sun holds Boone while Jack yanks on his leg to set the bone. Boone screams. Hurley is outside the 'ER' tent covering his ears.]
+192	00:00:00,000 --> 00:00:00,000		[We see Kate running through the jungle. She falls, breaking some of the liquor bottles. She hears some moaning and finds Claire.]
+194	00:00:00,000 --> 00:00:00,000	KATE	Claire? What are you doing out here?
+196	00:00:00,000 --> 00:00:00,000	CLAIRE	Nothing. Just leave me alone, please.
+198	00:00:00,000 --> 00:00:00,000	KATE	Oh god, you're having a baby.
+200	00:00:00,000 --> 00:00:00,000	KATE	Claire, we need to get you back to camp.
+202	00:00:00,000 --> 00:00:00,000	CLAIRE	I'm fine. I just need to -- I just need to catch my breath.
+204	00:00:00,000 --> 00:00:00,000	KATE	It's not okay. You're having your baby.
+206	00:00:00,000 --> 00:00:00,000	CLAIRE	No, I'm not, okay. It's just gas pains, it's fine.
+208	00:00:00,000 --> 00:00:00,000	KATE	You're having contractions, Claire!
+210	00:00:00,000 --> 00:00:00,000	CLAIRE	No! I'm bloody not. Can you just leave me alone?
+212	00:00:00,000 --> 00:00:00,000	KATE	C'mon, I've got to get you to Jack. Please try to stand. Please.
+214	00:00:00,000 --> 00:00:00,000	CLAIRE	Look, I can't.
+216	00:00:00,000 --> 00:00:00,000	KATE	[yelling out] Help! Somebody help!
+218	00:00:00,000 --> 00:00:00,000		[Jin barely hears the yelling down at the beach and takes off running toward the sound.]
+220	00:00:00,000 --> 00:00:00,000	JIN	[coming across Claire and Kate] Ã¬ËœÂ¤. Ã¬ÂÂ´Ã«Å¸Â°.
+222	00:00:00,000 --> 00:00:00,000	KATE	Jin, I need you to go to the caves and get Jack, okay, you understand? We need Jack.
+224	00:00:00,000 --> 00:00:00,000	JIN	Jack. Doctor.
+226	00:00:00,000 --> 00:00:00,000	KATE	Yes. Get the doctor, please come here.
+228	00:00:00,000 --> 00:00:00,000	CLAIRE	Don't leave me.
+230	00:00:00,000 --> 00:00:00,000	KATE	Oh, no, no, honey. I won't. I'm not going anywhere, okay? I promise. [Kate hands the pack with the liquor bottles to Jin] Jack, hurry.
+232	00:00:00,000 --> 00:00:00,000		[We see Jack back at the caves with Boone and Sun.]
+234	00:00:00,000 --> 00:00:00,000	JACK	Ask him again.
+236	00:00:00,000 --> 00:00:00,000	SUN	He's in shock.
+238	00:00:00,000 --> 00:00:00,000	JACK	That's why you need to ask him again.
+240	00:00:00,000 --> 00:00:00,000	SUN	Boone, can you hear me? What is your blood type? Boone, please listen. What is your blood type?
+242	00:00:00,000 --> 00:00:00,000		[Jack is trying to make a needle out of bamboo which doesn't work.]
+244	00:00:00,000 --> 00:00:00,000	JACK	Damn it.
+246	00:00:00,000 --> 00:00:00,000	SUN	Maybe a smaller piece?
+248	00:00:00,000 --> 00:00:00,000	JACK	Veins are like a wet noodle -- first you have to find one, then you have to have a hollow needle sharp enough to actually pierce it. I've got bamboo. None of it actually even matters because I don't know his blood type, not to mention that his injuries-
+250	00:00:00,000 --> 00:00:00,000	BOONE	A-negative.
+252	00:00:00,000 --> 00:00:00,000	JACK	Boone, what'd you say?
+254	00:00:00,000 --> 00:00:00,000	BOONE	Shannon, the plane.
+256	00:00:00,000 --> 00:00:00,000	JACK	[to Sun] Did you hear A-negative? Get Charlie -- ask everyone you can find, everyone, what their blood type is. A negative, okay? And find his sister. Find Shannon.
+258	00:00:00,000 --> 00:00:00,000		[We see Shannon and Sayid walking.]
+260	00:00:00,000 --> 00:00:00,000	SHANNON	Where are we going?
+262	00:00:00,000 --> 00:00:00,000	SAYID	This way.
+264	00:00:00,000 --> 00:00:00,000	SHANNON	Oh, okay. Are you lost?
+266	00:00:00,000 --> 00:00:00,000	SAYID	No, absolutely not. Those trees look really familiar. It's this way -- I think.
+268	00:00:00,000 --> 00:00:00,000	SHANNON	Did you just say: I think?
+270	00:00:00,000 --> 00:00:00,000		[They come out to the beach where Sayid has a picnic waiting for Shannon.]
+272	00:00:00,000 --> 00:00:00,000	SAYID	Surprise.
+274	00:00:00,000 --> 00:00:00,000		[We see Jack holding some branches and throwing them down.]
+276	00:00:00,000 --> 00:00:00,000	JACK	Damn it.
+278	00:00:00,000 --> 00:00:00,000	CHARLIE	[entering] I found an A.
+280	00:00:00,000 --> 00:00:00,000	JACK	Positive or negative?
+282	00:00:00,000 --> 00:00:00,000	CHARLIE	She doesn't know. I also found two B positives and one AB negative. At least, he thinks so.
+284	00:00:00,000 --> 00:00:00,000	JACK	Did you find any O negative?
+286	00:00:00,000 --> 00:00:00,000	CHARLIE	Sun said A negative.
+288	00:00:00,000 --> 00:00:00,000	JACK	Where is she?
+290	00:00:00,000 --> 00:00:00,000	CHARLIE	We split up. I thought she'd be back here.
+292	00:00:00,000 --> 00:00:00,000	JACK	You only asked 4 people?
+294	00:00:00,000 --> 00:00:00,000	CHARLIE	I asked the whole sodding camp -- no one knows their blood type. I don't know my bloody blood type.
+296	00:00:00,000 --> 00:00:00,000	JACK	[to Sun who entered] Did you find Shannon?
+298	00:00:00,000 --> 00:00:00,000	SUN [showing Jack a spiny sea urchin]	No. I was getting you this. [she breaks off a spine] A hollow needle sharp enough to pierce a noodle.
+300	00:00:00,000 --> 00:00:00,000	JACK	It's perfect.
+302	00:00:00,000 --> 00:00:00,000	CHARLIE	Not to rain on your proverbial parade but I thought you said we needed someone who was A negative.
+304	00:00:00,000 --> 00:00:00,000	JACK	Or O negative.
+306	00:00:00,000 --> 00:00:00,000	CHARLIE	Right, which judging by your tantrum, no one is.
+308	00:00:00,000 --> 00:00:00,000	JACK	Someone is.
+310	00:00:00,000 --> 00:00:00,000	CHARLIE	You? Why'd you make-
+312	00:00:00,000 --> 00:00:00,000	JACK	O negative is universal donor. It's in the ballpark, it's not a match. My blood could put him into anaphylactic shock -- stop his heart.
+314	00:00:00,000 --> 00:00:00,000	CHARLIE	You mean he'll die.
+316	00:00:00,000 --> 00:00:00,000	JACK	He's not going to die.
+318	00:00:00,000 --> 00:00:00,000		[Flashback - We see Jack playing the piano at a hotel bar.]
+320	00:00:00,000 --> 00:00:00,000	SARAH	[entering] Those girls are checking you out.
+322	00:00:00,000 --> 00:00:00,000	JACK	You're in your PJs.
+324	00:00:00,000 --> 00:00:00,000	SARAH	Indeed I am.
+326	00:00:00,000 --> 00:00:00,000	JACK	Are they cute?
+328	00:00:00,000 --> 00:00:00,000	SARAH	Who?
+330	00:00:00,000 --> 00:00:00,000	JACK	The girls that are checking me out.
+332	00:00:00,000 --> 00:00:00,000	SARAH	Mmm, one of them is kind of cute. The other one's just trashy. Heart and Soul?
+334	00:00:00,000 --> 00:00:00,000	JACK	You got it.
+336	00:00:00,000 --> 00:00:00,000	SARAH	I'm taking the easy part.
+338	00:00:00,000 --> 00:00:00,000	JACK	Of course.
+340	00:00:00,000 --> 00:00:00,000		[They start playing Heart and Soul on the piano.]
+342	00:00:00,000 --> 00:00:00,000	SARAH	You know you really don't have to do this if you don't want to.
+344	00:00:00,000 --> 00:00:00,000	JACK	How do you know I haven't?
+346	00:00:00,000 --> 00:00:00,000	SARAH	Because you haven't. [she plays the wrong note in the song] Oh, sorry. It was a silly idea. I just -- I read too many bridal magazines. I think it rotted my brain.
+348	00:00:00,000 --> 00:00:00,000	JACK	Sarah, I want to. I'm going to. I just have to figure out the right way to say it.
+350	00:00:00,000 --> 00:00:00,000	SARAH	Just vows.
+352	00:00:00,000 --> 00:00:00,000	JACK	Just vows?
+354	00:00:00,000 --> 00:00:00,000		[Jack looks toward the hotel entrance and sees a woman getting out of a taxi.]
+356	00:00:00,000 --> 00:00:00,000	SARAH	Hey, he's going to come.
+358	00:00:00,000 --> 00:00:00,000	JACK	Yeah, I know.
+360	00:00:00,000 --> 00:00:00,000	SARAH	So, you stay down here as long as you need to. And when you're ready I'll be upstairs. [they kiss] I cannot wait to marry you Jack Shepard.
+362	00:00:00,000 --> 00:00:00,000		[Sarah exits. Jack looks pensive.]
+364	00:00:00,000 --> 00:00:00,000		[On-Island - We see Jin running to the caves to get Jack.]
+366	00:00:00,000 --> 00:00:00,000	JIN	[to Hurley] Jack, Jack, doctor, Jack!
+368	00:00:00,000 --> 00:00:00,000	HURLEY	[pointing] Jack.
+370	00:00:00,000 --> 00:00:00,000		[Jin enters the tent and stops for a second when he sees Sun.]
+372	00:00:00,000 --> 00:00:00,000	JIN	ÃªÂ·Â¸... ÃªÂ·Â¸... Ã­â€¢Â´Ã«Â³â‚¬ÃªÂ°â‚¬ ÃªÂ·Â¼Ã¬Â²Ëœ Ã¬Â â€¢ÃªÂ¸â‚¬Ã¬â€”Â Ã¬Å¾Ë†Ã«Å â€ ÃªÂ·Â¸ Ã¬Å¾â€žÃ¬â€¹Â Ã­â€¢Å“ Ã¬â€”Â¬Ã¬Å¾Â... Ã¬Â§â‚¬ÃªÂ¸Ë† Ã¬â€¢ Ã«â€šÂ³Ã¬Å“Â¼Ã«Â Â¤ÃªÂ³ Ã­â€¢Â´Ã¬Å¡â€. Claire.
+374	00:00:00,000 --> 00:00:00,000	CHARLIE	Claire? What about Claire?
+376	00:00:00,000 --> 00:00:00,000	JIN	Ã¬Â§â‚¬ÃªÂ¸Ë† Ã¬Â¼â‚¬Ã¬ÂÂ´Ã­Å Â¸Ã­â€¢ËœÃªÂ³ ÃªÂ°â„¢Ã¬ÂÂ´ Ã¬Å¾Ë†Ã«Å â€Ã«ÂÂ°, Ã«Â¹Â¨Ã«Â¦Â¬ Ã¬ËœÂ¤Ã«Å¾ËœÃ¬Å¡â€.
+378	00:00:00,000 --> 00:00:00,000	SUN	He says Claire's with Kate. She's in labor. Just off the beach.
+380	00:00:00,000 --> 00:00:00,000	CHARLIE	Claire's having the baby? [to Jin] Where, where?
+382	00:00:00,000 --> 00:00:00,000	JIN	Ã¬Å¾Â­Ã¬ÂÂ´ Ã­â€¢â€žÃ¬Å¡â€Ã­â€¢ËœÃ«Å’â‚¬Ã¬Å¡â€.
+384	00:00:00,000 --> 00:00:00,000	SUN	[to Jin] Ã­ÂÂ´Ã«Â Ë†Ã¬â€“Â´Ã«Å â€ ÃªÂ´Å“Ã¬Â°Â®Ã¬â€¢â€žÃ¬Å¡â€?
+386	00:00:00,000 --> 00:00:00,000	JIN	ÃªÂ·Â¸Ã«Å¸Â° ÃªÂ²Æ’ ÃªÂ°â„¢Ã¬Ââ‚¬Ã«ÂÂ°, Ã«Â§Å½Ã¬ÂÂ´ Ã¬â€¢â€žÃ­â€Ë†ÃªÂ°â‚¬Ã«Â´Â.
+388	00:00:00,000 --> 00:00:00,000	SUN	He says he thinks she's okay, but she's in pain.
+390	00:00:00,000 --> 00:00:00,000	JACK	Does he know how fast the contractions are coming?
+392	00:00:00,000 --> 00:00:00,000	SUN	[to Jin] Ã¬Â§â€žÃ­â€ ÂµÃ¬Ââ‚¬ Ã¬â€“Â¼Ã«Â§Ë†Ã«Â§Ë†Ã«â€¹Â¤ Ã¬â„¢â‚¬Ã¬Å¡â€?
+394	00:00:00,000 --> 00:00:00,000	JIN	Ã¬â€“Â´... Ã¬â€¢â€žÃ«Â§Ë†... 2Ã«Â¶â€žÃ«Â§Å’Ã¬â€”Â... Ã­â€¢Å“Ã«Â²Ë†Ã¬â€Â©?
+396	00:00:00,000 --> 00:00:00,000	SUN	Every 2 minutes.
+398	00:00:00,000 --> 00:00:00,000	JACK	Is she nauseous? Can she stand? Is there any bleeding? Did her water break?
+400	00:00:00,000 --> 00:00:00,000	SUN	[to Jin] ÃªÂµÂ¬Ã­â€  Ã¬Â¦ÂÃ¬Æ’ÂÃ¬Ââ‚¬Ã¬Å¡â€? Ã¬â€ºâ‚¬Ã¬Â§ÂÃ¬ÂÂ¼ Ã¬Ë†Ëœ Ã¬Å¾Ë†Ã«â€šËœÃ¬Å¡â€? Ã­â€¢ËœÃ­ËœË†Ã¬Ââ‚¬Ã¬Å¡â€? Ã¬â€“â€˜Ã¬Ë†ËœÃªÂ°â‚¬ Ã­â€žÂ°Ã¬Â¡Å’Ã«â€šËœÃ¬Å¡â€?
+402	00:00:00,000 --> 00:00:00,000	JIN	Ã¬â€“â€˜Ã¬Ë†ËœÃªÂ°â‚¬ Ã­â€žÂ°Ã¬Â§â€žÃ¬Â§â‚¬Ã«Å â€ Ã«ÂªÂ¨Ã«Â¥Â´ÃªÂ²Â Ã«Å â€Ã«ÂÂ°, Ã¬â€ºâ‚¬Ã¬Â§ÂÃ¬ÂÂ´Ã¬Â§â‚¬Ã«Å â€ Ã«ÂªÂ»Ã­â€¢Â ÃªÂ±Â°Ã¬â€¢Â¼.
+404	00:00:00,000 --> 00:00:00,000	SUN	No, none of that, but she can't move.
+406	00:00:00,000 --> 00:00:00,000	CHARLIE	We should go. What do we need -- towels, bandages, hot water? How do we take hot water?
+408	00:00:00,000 --> 00:00:00,000	JACK	I'm sure you'll figure all that out, alright. [to Sun] You tell Jin to take Charlie with him and go back to Claire.
+410	00:00:00,000 --> 00:00:00,000	SUN	[to Jin] Ã«â€¹Â¹Ã¬â€¹Â Ã¬Ââ‚¬ Ã¬Â°Â°Ã«Â¦Â¬Ã«Å¾â€˜ Ã­â€¢Â¨ÃªÂ»Ëœ Ã­ÂÂ´Ã«Â Ë†Ã¬â€“Â´Ã­â€¢Å“Ã­â€¦Å’ Ã«â€¹Â¤Ã¬â€¹Å“ ÃªÂ°â‚¬Ã¬â€žÂ¸Ã¬Å¡â€.
+412	00:00:00,000 --> 00:00:00,000	CHARLIE	Uh, I know. That, that dilating thing -- how do I look out for that?
+414	00:00:00,000 --> 00:00:00,000	JACK	Charlie, listen to me. Okay, Charlie, look at me. Tell Kate to wait until the contractions are 60 seconds apart, you got that? Now, she's going to need to make sure that Claire pushes, but not too hard, not too fast -- just until the head is clear. And then, as hard as she can. When the baby is out make sure she clears it's nose and it's mouth.
+416	00:00:00,000 --> 00:00:00,000	CHARLIE	Yeah, but, you'll be there by then, right?
+418	00:00:00,000 --> 00:00:00,000	JACK	No, I'm not going anywhere. I need to stay here. Now, you tell Kate she's going to have to deliver this baby.
+420	00:00:00,000 --> 00:00:00,000		[Sunset. We see Claire in the jungle with Kate who's tending a fire.]
+422	00:00:00,000 --> 00:00:00,000	CLAIRE	They've stopped.
+424	00:00:00,000 --> 00:00:00,000	KATE	That happens, I think.
+426	00:00:00,000 --> 00:00:00,000	CLAIRE	No, no, no, they're not coming anymore. I'm fine. I'm okay. I'm okay.
+428	00:00:00,000 --> 00:00:00,000	KATE	No. Claire.
+430	00:00:00,000 --> 00:00:00,000	CLAIRE	No, no, no. I'm okay, really.
+432	00:00:00,000 --> 00:00:00,000		[Claire stands up.]
+434	00:00:00,000 --> 00:00:00,000	KATE	Claire, I don't think that you should be doing...
+436	00:00:00,000 --> 00:00:00,000	CLAIRE	[looking down] What is that?
+438	00:00:00,000 --> 00:00:00,000	KATE	I think your water just broke.
+440	00:00:00,000 --> 00:00:00,000	CLAIRE	No, no, no.
+442	00:00:00,000 --> 00:00:00,000	KATE	Yeah, no, no, I think you, okay...
+444	00:00:00,000 --> 00:00:00,000	CLAIRE	No, I can't have the baby now.
+446	00:00:00,000 --> 00:00:00,000	KATE	Just hold on...
+448	00:00:00,000 --> 00:00:00,000	CLAIRE	I can't have the baby now!
+450	00:00:00,000 --> 00:00:00,000	KATE	Just hold on. Jack's coming. Claire, he's coming.
+452	00:00:00,000 --> 00:00:00,000		[We see Jack doing the blood transfusion, checking Boone.]
+454	00:00:00,000 --> 00:00:00,000	BOONE	I screwed myself up pretty bad, huh?
+456	00:00:00,000 --> 00:00:00,000	JACK	Hey.
+458	00:00:00,000 --> 00:00:00,000	BOONE	My leg, it hurts.
+460	00:00:00,000 --> 00:00:00,000	JACK	Don't try moving. Can you breathe okay?
+462	00:00:00,000 --> 00:00:00,000	BOONE	It fell on me.
+464	00:00:00,000 --> 00:00:00,000	JACK	What fell?
+466	00:00:00,000 --> 00:00:00,000	BOONE	A plane. It was a plane.
+468	00:00:00,000 --> 00:00:00,000	JACK	Boone. Boone, Locke said you fell from a cliff.
+470	00:00:00,000 --> 00:00:00,000	BOONE	No -- it was. It fell -- the plane. It's because of the hatch. We found a hatch.
+472	00:00:00,000 --> 00:00:00,000	JACK	Boone, Boone, stay with me, man. Hey, stay with me.
+474	00:00:00,000 --> 00:00:00,000	BOONE	Locke said, John said, John said not to tell. About the hatch.
+476	00:00:00,000 --> 00:00:00,000	JACK	What did Locke do? What hatch? What...
+478	00:00:00,000 --> 00:00:00,000	BOONE	Oh, my leg hurts.
+480	00:00:00,000 --> 00:00:00,000	JACK	Boone? Boone, hey.
+482	00:00:00,000 --> 00:00:00,000	BOONE	Shannon, Shannon, Shannon...
+484	00:00:00,000 --> 00:00:00,000		[We see Sayid and Shannon kissing at the beach.]
+486	00:00:00,000 --> 00:00:00,000	SHANNON	I need to tell you something.
+488	00:00:00,000 --> 00:00:00,000	SAYID	Alright.
+490	00:00:00,000 --> 00:00:00,000	SHANNON	My brother, Boone. He's not really my brother. He's my step-brother. Our parents got married when we were, like, 8 and 10. He's kind of in love with me.
+492	00:00:00,000 --> 00:00:00,000	SAYID	In love with you? And how do you feel towards him?
+494	00:00:00,000 --> 00:00:00,000	SHANNON	I'll always feel something for him. But am I in love with him in that way? No. Not at all. We're here for god knows how long, and so is Boone.
+496	00:00:00,000 --> 00:00:00,000	SAYID	Maybe we should go back?
+498	00:00:00,000 --> 00:00:00,000	SHANNON	I don't want to go back.
+500	00:00:00,000 --> 00:00:00,000	SAYID	Are you sure?
+502	00:00:00,000 --> 00:00:00,000	SHANNON	Yes. I just need to take it a little slow. Are you okay with that?
+504	00:00:00,000 --> 00:00:00,000	SAYID	I had no expectations.
+506	00:00:00,000 --> 00:00:00,000	SHANNON	Right.
+508	00:00:00,000 --> 00:00:00,000	SAYID	Hopes, not expectations.
+510	00:00:00,000 --> 00:00:00,000		[We see Claire in labor.]
+512	00:00:00,000 --> 00:00:00,000	CLAIRE	Oh, god, that hurts.
+514	00:00:00,000 --> 00:00:00,000		[Charlie and Jin come running up.]
+516	00:00:00,000 --> 00:00:00,000	CHARLIE	Hello? Hey, Kate. Claire, is she okay?
+518	00:00:00,000 --> 00:00:00,000	KATE	Where's Jack?
+520	00:00:00,000 --> 00:00:00,000	CHARLIE	Couldn't come.
+522	00:00:00,000 --> 00:00:00,000	KATE	What do you mean he couldn't come?
+524	00:00:00,000 --> 00:00:00,000	CHARLIE	He's pouring his own blood into Boone's arm right now.
+526	00:00:00,000 --> 00:00:00,000	KATE	Okay, okay. We'll just pick her up and bring her to him.
+528	00:00:00,000 --> 00:00:00,000	CHARLIE	No, Kate.
+530	00:00:00,000 --> 00:00:00,000	KATE	No, we have to take her to him before it's too late.
+532	00:00:00,000 --> 00:00:00,000		[Jin motions to them to be quiet in front Claire. Charlie pulls Kate a little bit away.]
+534	00:00:00,000 --> 00:00:00,000	CHARLIE	Look, Jack said you have to deliver the baby.
+536	00:00:00,000 --> 00:00:00,000	KATE	What?
+538	00:00:00,000 --> 00:00:00,000	CHARLIE	Now, he talked me through it...
+540	00:00:00,000 --> 00:00:00,000	KATE	No.
+542	00:00:00,000 --> 00:00:00,000	CHARLIE	It's relatively simple.
+544	00:00:00,000 --> 00:00:00,000	KATE	I can't do this.
+546	00:00:00,000 --> 00:00:00,000	CHARLIE	Yes, you can. I have water. I have towels.
+548	00:00:00,000 --> 00:00:00,000	KATE	You're not listening to me. I can't deliver this baby.
+550	00:00:00,000 --> 00:00:00,000	CHARLIE	Well, somebody bloody has to.
+552	00:00:00,000 --> 00:00:00,000	JIN	[to Claire to try and calm her.] Ã¬ËœÂ¤Ã«Å¾Ëœ ÃªÂ±Â¸Ã«Â¦Â¬Ã¬Â§â‚¬ Ã¬â€¢Å Ã¬Ââ€žÃªÂ±Â°Ã¬â€”ÂÃ¬Å¡â€. Ã¬â€¢Ë†Ã¬Â â€¢Ã¬Ââ€ž Ã¬Â·Â¨Ã­â€¢Â´Ã«Â´ÂÃ¬Å¡â€.
+554	00:00:00,000 --> 00:00:00,000	CLAIRE	You know I was out there for over a week -- days I can't remember. I mean, what if, what if they did something to the baby? I'm not ready for this. I'm not -- I'm so scared. I'm scared.
+556	00:00:00,000 --> 00:00:00,000	KATE	I'm, I'm scared, too. But we're going to get through this together, okay?
+558	00:00:00,000 --> 00:00:00,000		[We see Jack checking Boone's eyes.]
+560	00:00:00,000 --> 00:00:00,000	JACK	C'mon, Boone.
+562	00:00:00,000 --> 00:00:00,000	SUN	It's not working.
+564	00:00:00,000 --> 00:00:00,000	JACK	The blood's not the problem. It's the leg. All the blood's pooling there -- compartment syndrome. He didn't get this injury from a fall. Something crushed his leg.
+566	00:00:00,000 --> 00:00:00,000		[Sun rips the transfusion tube out of Jack's arm.]
+568	00:00:00,000 --> 00:00:00,000	JACK	What are you doing?
+570	00:00:00,000 --> 00:00:00,000	SUN	You've given him enough.
+572	00:00:00,000 --> 00:00:00,000	JACK	[walking out of the tent] Hurley.
+574	00:00:00,000 --> 00:00:00,000	HURLEY	Whoa, dude. You alright, man? You're looking kind of goth.
+576	00:00:00,000 --> 00:00:00,000	JACK	Where's Michael?
+578	00:00:00,000 --> 00:00:00,000	HURLEY	The beach, I think.
+580	00:00:00,000 --> 00:00:00,000	JACK	I need you to go get him for me, okay?
+582	00:00:00,000 --> 00:00:00,000	HURLEY	What for?
+584	00:00:00,000 --> 00:00:00,000	JACK	Just get him.
+586	00:00:00,000 --> 00:00:00,000		[Flashback - We Jack sitting at the hotel pool with his feel in the water, drinking from a half empty bottle of alcohol.]
+588	00:00:00,000 --> 00:00:00,000	CHRISTIAN SHEPHARD	Hey, kiddo.
+590	00:00:00,000 --> 00:00:00,000	JACK	Hey.
+592	00:00:00,000 --> 00:00:00,000	CHRISTIAN SHEPHARD	How's the water?
+594	00:00:00,000 --> 00:00:00,000	JACK	Oh, it's fantastic.
+596	00:00:00,000 --> 00:00:00,000	CHRISTIAN SHEPHARD	Screaming kid next to me in first class. How does that happen, huh? What you got there?
+598	00:00:00,000 --> 00:00:00,000	JACK	Oh, Sarah wants us to write our own vows.
+600	00:00:00,000 --> 00:00:00,000	CHRISTIAN SHEPHARD	[reading from a piece of paper] 'My hearts skips beats at the sound of your voice. My skin warms to the touch of your fingers. Where you go, I will go,' etc. etc. This is very nice.
+602	00:00:00,000 --> 00:00:00,000	JACK	Those aren't my vows. Those are hers. I stole them out of the room. Can't write mine.
+604	00:00:00,000 --> 00:00:00,000	CHRISTIAN SHEPHARD	Yeah, well, you're a doctor, not a writer.
+606	00:00:00,000 --> 00:00:00,000	JACK	Right.
+608	00:00:00,000 --> 00:00:00,000	CHRISTIAN SHEPHARD	Right. Sarah is a beautiful girl.
+610	00:00:00,000 --> 00:00:00,000	JACK	Hell, yeah, she is.
+612	00:00:00,000 --> 00:00:00,000	CHRISTIAN SHEPHARD	Do you love her?
+614	00:00:00,000 --> 00:00:00,000	JACK	Absolutely.
+616	00:00:00,000 --> 00:00:00,000	CHRISTIAN SHEPHARD	Then why are you sitting out here?
+618	00:00:00,000 --> 00:00:00,000	JACK	What if I can't be the husband, or the father, that I want to be? What if I asked her because I saved her life? Should I marry her, dad?
+620	00:00:00,000 --> 00:00:00,000	CHRISTIAN SHEPHARD	Commitment is what makes you tick, Jack. The problem is you're just not good at letting go.
+622	00:00:00,000 --> 00:00:00,000		[Sun is with Boone who's going downhill. Jack and Michael are at a cargo container.]
+624	00:00:00,000 --> 00:00:00,000	MICHAEL	You're saying Locke lied?
+626	00:00:00,000 --> 00:00:00,000	JACK	He didn't fall. His leg was pinned under something -- something heavy.
+628	00:00:00,000 --> 00:00:00,000	MICHAEL	Okay, Jack, wait. The cargo container? We've got to do this? What about the axe?
+630	00:00:00,000 --> 00:00:00,000	JACK	We can't use the axe.
+632	00:00:00,000 --> 00:00:00,000	SUN	What are you doing?
+634	00:00:00,000 --> 00:00:00,000	JACK	The right leg is filling with blood. If I don't stop it I won't be able to save him.
+636	00:00:00,000 --> 00:00:00,000	SUN	You don't mean that-
+638	00:00:00,000 --> 00:00:00,000	JACK	The leg is dead.
+640	00:00:00,000 --> 00:00:00,000		[Jack cuts a log in half using the container door.]
+642	00:00:00,000 --> 00:00:00,000	JACK	There's no other choice.
+644	00:00:00,000 --> 00:00:00,000		[We see Claire in labor.]
+646	00:00:00,000 --> 00:00:00,000	KATE	Claire, I think this is about the time you're supposed to start pushing, okay? So, push.
+648	00:00:00,000 --> 00:00:00,000		[Claire holds her breath.]
+650	00:00:00,000 --> 00:00:00,000	KATE	And, don't hold your breath, honey. You won't be able to push if you -- Claire? Claire, what are you doing? Oh, no, no, no, Claire, you need to push, right now. Don't do this, Claire, okay? You can't stop this -- this is happening. Your baby is coming and I need your help.
+652	00:00:00,000 --> 00:00:00,000	CLAIRE	It's not going to want me.
+654	00:00:00,000 --> 00:00:00,000	KATE	What?
+656	00:00:00,000 --> 00:00:00,000	CLAIRE	It knows I don't want it -- that I was going to give it away. Babies know that stuff.
+658	00:00:00,000 --> 00:00:00,000	KATE	Do you want this baby now? Hmm? Do you want it to be healthy and safe? [Claire nods] Okay, then the baby knows that, too. You are not alone in this. We are all here for you. This baby is all of ours, but I need you to push, okay? Okay? Alright. 1, 2, 3, push. Good. Good, push!
+660	00:00:00,000 --> 00:00:00,000		[Charlie and Jin are watching. Charlie looks like he's going to go Claire, but Jin stops him.]
+662	00:00:00,000 --> 00:00:00,000	CHARLIE	Yeah, right. Okay.
+664	00:00:00,000 --> 00:00:00,000		[Scene switches to Sun giving Boone water. Boone coughs blood which Sun shows to Jack.]
+666	00:00:00,000 --> 00:00:00,000	SUN	Jack.
+668	00:00:00,000 --> 00:00:00,000	JACK	[to Michael] Let's go.
+670	00:00:00,000 --> 00:00:00,000	SUN	Jack.
+672	00:00:00,000 --> 00:00:00,000	JACK	On 3...
+674	00:00:00,000 --> 00:00:00,000	SUN	Jack.
+676	00:00:00,000 --> 00:00:00,000	JACK	1, 2, 3...
+678	00:00:00,000 --> 00:00:00,000	SUN	Why are you doing this? He's bleeding inside. You're not helping him! You can't save him, Jack. You just can't!
+680	00:00:00,000 --> 00:00:00,000	JACK	Don't tell me what I can't do! Okay, 1, 2, 3, go.
+682	00:00:00,000 --> 00:00:00,000		[Jack and Michael move Boone to the cargo door and Jack puts a tourniquet on Boone's leg.]
+684	00:00:00,000 --> 00:00:00,000	JACK	You don't need to see this.
+686	00:00:00,000 --> 00:00:00,000	MICHAEL	If you need me, shout.
+688	00:00:00,000 --> 00:00:00,000		[Sun and Jack stare at each other, Sun walks away. Jack gets ready to cut Boone's leg off.]
+690	00:00:00,000 --> 00:00:00,000		[Flashback - Sarah and Jack at the altar for their wedding.]
+692	00:00:00,000 --> 00:00:00,000	SARAH	In sickness and in health, in good times and bad, I risk it all because I love you.
+694	00:00:00,000 --> 00:00:00,000	MINISTER	Thank you, Sarah. Jack has also prepared his vows. Jack, if you would, please. Jack?
+696	00:00:00,000 --> 00:00:00,000	JACK	I didn't write any vows. I've been trying to for a month, but I couldn't. So I started to wonder why that was. And as time went on it only got worse -- because I'm, because I'm not good at letting go. Or maybe I'm afraid of what'll happen if I fail. But I know one thing. I would've never been able to write anything as beautiful as what you just said. And last night, Sarah, when you were talking about the accident -- you got it all wrong. I didn't fix you. You fixed me. I love you, Sarah, and I always will.
+698	00:00:00,000 --> 00:00:00,000		[They kiss.]
+700	00:00:00,000 --> 00:00:00,000		[On-Island - We see Jack as he's about to cut Boone's leg off.]
+702	00:00:00,000 --> 00:00:00,000	BOONE	Wait. Wait.
+704	00:00:00,000 --> 00:00:00,000	JACK	I have to, if I don't...
+706	00:00:00,000 --> 00:00:00,000	BOONE	I'm all messed up inside. You know it.
+708	00:00:00,000 --> 00:00:00,000	JACK	This is our best chance.
+710	00:00:00,000 --> 00:00:00,000	BOONE	There's no chance. Really. I mean, look where we are.
+712	00:00:00,000 --> 00:00:00,000	JACK	I'm not going to let you give up.
+714	00:00:00,000 --> 00:00:00,000	BOONE	I know you made a promise. I'm letting you off the hook. Let me go, Jack.
+716	00:00:00,000 --> 00:00:00,000	JACK	I'm sorry.
+718	00:00:00,000 --> 00:00:00,000	BOONE	Don't be.
+720	00:00:00,000 --> 00:00:00,000		[See see Claire in labor.]
+722	00:00:00,000 --> 00:00:00,000	KATE	Breathe, c'mon breathe, breathe, okay, okay. Ready? I think it's close, c'mon. Go, go, go. That's really good. C'mon, I think it's close. Okay, good, good, good. I can see it. I can see the top of its head. I can see it. I can see it, okay. You're almost there. You're so close, you're so close. Ready, ready? C'mon, one more. Push, push, push, push, push! Oh, you have a little boy. [Kate hands the baby to Claire] Your baby boy.
+724	00:00:00,000 --> 00:00:00,000	CLAIRE	I have a son. I have a son.
+726	00:00:00,000 --> 00:00:00,000		[Charlie and Jin hug and celebrate.]
+728	00:00:00,000 --> 00:00:00,000		[Jack lays Boone down.]
+730	00:00:00,000 --> 00:00:00,000	BOONE	Tell Shannon -- tell Shannon -- tell her...
+732	00:00:00,000 --> 00:00:00,000		[Boone is gone. Jack closes Boone's eyes.]
+734	00:00:00,000 --> 00:00:00,000		[We see Claire and baby coming out to the beach in the morning. The rest of the castaways greet her and look at the baby. Hurley points out Shannon walking up the beach with Sayid and Jack goes to tell her about Boone. We see Shannon at the caves crying over Boone's body. We see Jack alone on the beach with a backpack and water. Kate enters.]
+736	00:00:00,000 --> 00:00:00,000	JACK	It's a beautiful, healthy baby.
+738	00:00:00,000 --> 00:00:00,000	KATE	Want to talk about it?
+740	00:00:00,000 --> 00:00:00,000	JACK	Talk about what?
+742	00:00:00,000 --> 00:00:00,000	KATE	Boone died, Jack.
+744	00:00:00,000 --> 00:00:00,000	JACK	He didn't die. He was murdered.
+746	00:00:00,000 --> 00:00:00,000	KATE	What? Jack, where are you going?
+748	00:00:00,000 --> 00:00:00,000	JACK	To find John Locke.

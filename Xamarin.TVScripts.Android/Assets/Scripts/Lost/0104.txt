@@ -1,0 +1,410 @@
+Walkabout
+2	00:00:00,000 --> 00:00:00,000	Written by	David Fury
+4	00:00:00,000 --> 00:00:00,000	Directed by	Jack Bender
+6	00:00:00,000 --> 00:00:00,000	Starring	Naveen Andrews, Emilie de Ravin, Matthew Fox, Jorge Garcia, Maggie Grace, Josh Holloway, Malcolm David Kelley, Daniel Dae Kim, Yunjin Kim, Evangeline Lilly, Dominic Monaghan, Terry O'Quinn, Harold Perrineau, Ian Somerhalder
+8	00:00:00,000 --> 00:00:00,000	Guest Starring	L. Scott Caldwell
+10	00:00:00,000 --> 00:00:00,000		[Flashback - Locke's eye opens. Shot of him lying on beach, angle up from his feet. Shot of engine still turning; Shannon screaming; Locke looking around; Jin screaming; Locke wiggling his toe, grabbing his shoe, moving slowly. Sound of dog barking.]
+12	00:00:00,000 --> 00:00:00,000		[Present day - Shot of Locke awake in the dark, looking around the crash area. Pans to Walt and Michael.]
+14	00:00:00,000 --> 00:00:00,000	MICHAEL	Walt, you gotta keep that dog quiet.
+16	00:00:00,000 --> 00:00:00,000	WALT	I don't know what's wrong with him. Come on, Vincent, cut that out.
+18	00:00:00,000 --> 00:00:00,000		[Shot of the dog dragging Walt by the leash out of their sleeping area. He goes over by Boone and Shannon who wake up.]
+20	00:00:00,000 --> 00:00:00,000	MICHAEL	Sorry, hey, sorry, sorry.
+22	00:00:00,000 --> 00:00:00,000		[Shot of Jin and Sun waking up. Sound of rummaging in the plane; Sayid looking around for what's wrong; sound of grunting; Hurley and Claire looking around; Charlie, redshirt waking up; Jack running up to where everyone else is. Kate sitting up. More sounds of rummaging, growling.]
+24	00:00:00,000 --> 00:00:00,000	KATE	What is it?
+26	00:00:00,000 --> 00:00:00,000	CLAIRE	Somebody's in there.
+28	00:00:00,000 --> 00:00:00,000	SAYID	Everyone in there's dead.
+30	00:00:00,000 --> 00:00:00,000	JACK	Sawyer.
+32	00:00:00,000 --> 00:00:00,000	SAWYER	Right behind you, Jackass.
+34	00:00:00,000 --> 00:00:00,000		[Jack pulls a little flashlight out of his pocket and goes toward the plane. Sawyer follows with a big flashlight.]
+36	00:00:00,000 --> 00:00:00,000	KATE	Jack?
+38	00:00:00,000 --> 00:00:00,000		[Shot of inside plane. They are trying to see inside into the dark.]
+40	00:00:00,000 --> 00:00:00,000	SAWYER	I'm gonna shed some light on this thing.
+42	00:00:00,000 --> 00:00:00,000		[They see the animal look over its shoulder.]
+44	00:00:00,000 --> 00:00:00,000	JACK	Run.
+46	00:00:00,000 --> 00:00:00,000		[They all start running.]
+48	00:00:00,000 --> 00:00:00,000	HURLEY	Oh crud, now what?
+50	00:00:00,000 --> 00:00:00,000		[Sayid helping Claire. Boone helping Shannon. Jin helping Sun. Sawyer with Kate. Somebody knocks Charlie down. Jack helps Charlie. Shot of three boars running into the woods.]
+52	00:00:00,000 --> 00:00:00,000	SAYID	They're gone.
+54	00:00:00,000 --> 00:00:00,000	CHARLIE	What the bloody hell was that?
+56	00:00:00,000 --> 00:00:00,000	LOCKE	Boars. [Locke seems happy.]
+58	00:00:00,000 --> 00:00:00,000		[Shot of Jack doctoring a scrape on Charlie's side.]
+60	00:00:00,000 --> 00:00:00,000	JACK	Those boars were looking to feed. We have to get rid of the bodies.
+62	00:00:00,000 --> 00:00:00,000	CHARLIE	Bury them? There's a whole bunch in there.
+64	00:00:00,000 --> 00:00:00,000	SAYID	More than twenty. Digging will be difficult without shovels.
+66	00:00:00,000 --> 00:00:00,000	JACK	We're not burying them. We need to burn them.
+68	00:00:00,000 --> 00:00:00,000	KATE	They're people.
+70	00:00:00,000 --> 00:00:00,000	JACK	I know they're people, Kate.
+72	00:00:00,000 --> 00:00:00,000	SAYID	Burning the remains, they deserve better than that.
+74	00:00:00,000 --> 00:00:00,000	JACK	Better than what? Being eaten by wild animals? Because that's what's going to happen. Any bodies we bury are not going to stay buried for very long. Look, I know this seems harsh, but that fuselage in the sun-it's not about what they deserve. They're gone, and we're not.
+76	00:00:00,000 --> 00:00:00,000	SAYID	What you say may be true, but for us to decide how these people are laid to rest-it's not right. No regard for their wishes? Their religions?
+78	00:00:00,000 --> 00:00:00,000	JACK	We don't have time to sort out everybody's god.
+80	00:00:00,000 --> 00:00:00,000	CHARLIE	Really, last I heard we were positively made of time.
+82	00:00:00,000 --> 00:00:00,000	JACK	Look, I'm not happy about it either, but we crashed a thousand miles off course. They're looking for us in the wrong place. It's been 4 days, no one's come. Tomorrow morning we need everyone to start gathering up wood, dried brush, and turn that fuselage into a furnace. Wait until the sun goes down tomorrow night before we start the fire.
+84	00:00:00,000 --> 00:00:00,000		[Jack exits.]
+86	00:00:00,000 --> 00:00:00,000	CHARLIE	If he's so eager to burn the bodies why are we waiting until sundown?
+88	00:00:00,000 --> 00:00:00,000	KATE	He's hoping someone will see it.
+90	00:00:00,000 --> 00:00:00,000		[Day. Shot of Sayid at the beach with electronic equipment. Kate approaches.]
+92	00:00:00,000 --> 00:00:00,000	KATE	Looks like I'm not the only who couldn't sleep last night.
+94	00:00:00,000 --> 00:00:00,000	SAYID	There are better things to do with my time than collect firewood.
+96	00:00:00,000 --> 00:00:00,000	KATE	You don't agree with Jack. What are you making?
+98	00:00:00,000 --> 00:00:00,000	SAYID	Too soon to talk about. I'm not sure it will even work.
+100	00:00:00,000 --> 00:00:00,000	KATE	You're trying to pick up the transmission aren't you? The one we heard on the transceiver.
+102	00:00:00,000 --> 00:00:00,000	SAYID	If the French woman's transmission has truly been playing on a loop for 16 years then there must be a power source on the Island. A significant one.
+104	00:00:00,000 --> 00:00:00,000	KATE	And you can find it?
+106	00:00:00,000 --> 00:00:00,000	SAYID	Hypothetically, yes. I'm making an antenna of sorts. With a few of these mounted at different points on the Island I may be able to use the transceiver to triangulate the signal, find out where it's coming from.
+108	00:00:00,000 --> 00:00:00,000	KATE	So what can I do to help?
+110	00:00:00,000 --> 00:00:00,000	SAYID	It appears you are as anxious to get off this Island as I am.
+112	00:00:00,000 --> 00:00:00,000		[Kate looks down. Shot of Michael walking back from getting wood, coming to beach. Shot of Locke with a silver case.]
+114	00:00:00,000 --> 00:00:00,000	WALT	[off camera] Catch the ball, catch the ball, Vincent. Good boy, good job Vincent.
+116	00:00:00,000 --> 00:00:00,000	MICHAEL	Hey, hey, where you going, man?
+118	00:00:00,000 --> 00:00:00,000	WALT	Nowhere, I just thought I'd see what Mr. Locke was doing.
+120	00:00:00,000 --> 00:00:00,000	MICHAEL	Hey, why don't you help your dad with the wood. I'm sure Mr. Locke doesn't want a kid hanging around him all day anyway.
+122	00:00:00,000 --> 00:00:00,000	WALT	At least he talks to me. Come on, Vincent.
+124	00:00:00,000 --> 00:00:00,000		[Shot of feet, a backpack, a scuffle.]
+126	00:00:00,000 --> 00:00:00,000	HURLEY	What's your problem? Hand them over.
+128	00:00:00,000 --> 00:00:00,000	SAWYER	How about no?
+130	00:00:00,000 --> 00:00:00,000	HURLEY	There's other people here or don't you give a crap?
+132	00:00:00,000 --> 00:00:00,000	SAWYER	Well if one of us wouldn't eat more than his fair share...
+134	00:00:00,000 --> 00:00:00,000	HURLEY	Oh that's bull and you know it. You're not happy unless you're screwing over everybody...
+136	00:00:00,000 --> 00:00:00,000	SAWYER	Hey I'm peachy, pork pie.
+138	00:00:00,000 --> 00:00:00,000		[In the background we can hear someone saying knock it off.]
+140	00:00:00,000 --> 00:00:00,000	JACK	[entering] Guys, knock it off.
+142	00:00:00,000 --> 00:00:00,000	SAWYER	Stay out of this, Metro.
+144	00:00:00,000 --> 00:00:00,000		[Jack and Sayid come and break up the fight.]
+146	00:00:00,000 --> 00:00:00,000	JACK	What's going on?
+148	00:00:00,000 --> 00:00:00,000	HURLEY	Jethro here's hoarding the last of the peanuts.
+150	00:00:00,000 --> 00:00:00,000	SAWYER	My own stash. I found it in there.
+152	00:00:00,000 --> 00:00:00,000	JACK	What about the rest of the food?
+154	00:00:00,000 --> 00:00:00,000	HURLEY	There is no rest of the food, dude. We kind of-ate it all.
+156	00:00:00,000 --> 00:00:00,000	SHANNON	What?
+158	00:00:00,000 --> 00:00:00,000		[Shot of everyone looking shocked and bummed.]
+160	00:00:00,000 --> 00:00:00,000	JACK	Okay everybody, just calm down.
+162	00:00:00,000 --> 00:00:00,000	SAYID	We can find food. There are plenty of things on this Island we can use for sustenance.
+164	00:00:00,000 --> 00:00:00,000	SAWYER	[sitting down in an airplane seat] And exactly how are we going to find this sustenance.
+166	00:00:00,000 --> 00:00:00,000		[A knife is thrown into the seat next the one Sawyer is sitting in. Everyone looks back at Locke.]
+168	00:00:00,000 --> 00:00:00,000	LOCKE	We hunt.
+170	00:00:00,000 --> 00:00:00,000		[Jack grabs the knife.]
+172	00:00:00,000 --> 00:00:00,000	KATE	How'd you get that knife on the plane?
+174	00:00:00,000 --> 00:00:00,000	LOCKE	Checked it.
+176	00:00:00,000 --> 00:00:00,000	JACK	[handing the knife back to Locke] You either have very good aim, or very bad aim, Mr...
+178	00:00:00,000 --> 00:00:00,000	MICHAEL	Locke. His name is Locke.
+180	00:00:00,000 --> 00:00:00,000	JACK	Okay Mr. Locke, what is it that we're hunting?
+182	00:00:00,000 --> 00:00:00,000	LOCKE	We know there are wild boar on the Island. Razorbacks, by the look of them. The ones that came into the camp last night were piglets, 100, 150 pounds each. Which means that there's a mother nearby. A 250 pound rat, with scimitar-like tusks, and a surly disposition, who'd love nothing more than to eviscerate anything that comes near. Boar's usual mode of attack is to circle around and charge from behind so I figure it'll take at least three of us to distract her long enough for me to flank one of the piglets, pin it, and slit its throat.
+184	00:00:00,000 --> 00:00:00,000	SAWYER	[to Jack] And you gave him his knife back?
+186	00:00:00,000 --> 00:00:00,000	JACK	Well, if you've got a better idea.
+188	00:00:00,000 --> 00:00:00,000	SAWYER	Better than the three of you wandering into the magic forest to bag a hunk of ham with nothing but a little bitty hunting knife? Hell no, it's the best idea I ever heard.
+190	00:00:00,000 --> 00:00:00,000		[Locke opens his case which is full of knives. Everyone looks like "okay"????]
+192	00:00:00,000 --> 00:00:00,000	HURLEY	Who is this guy?
+194	00:00:00,000 --> 00:00:00,000		[Flashback - We hear the sound of a phone ringing, and see Locke in an office, answering it.]
+196	00:00:00,000 --> 00:00:00,000	LOCKE	Yes?
+198	00:00:00,000 --> 00:00:00,000	GL12	Colonel Locke, is this line secure?
+200	00:00:00,000 --> 00:00:00,000		[Locke looks around like he's checking if anyone's listening.]
+202	00:00:00,000 --> 00:00:00,000	LOCKE	Line secure GL12, go ahead.
+204	00:00:00,000 --> 00:00:00,000	GL12	Target area is acquired. Maneuvers are a go for 1300 hours. Repeat: we are a GO.
+206	00:00:00,000 --> 00:00:00,000	LOCKE	Roger that. We'll convene at the usual rendezvous point at 1300 hours.
+208	00:00:00,000 --> 00:00:00,000	RANDY	[Locke's boss] Locke. I told you I need those TPS reports done by noon today. Not 12:30; not 12:15; noon.
+210	00:00:00,000 --> 00:00:00,000		[Wide shot of a bunch of cubicles.]
+212	00:00:00,000 --> 00:00:00,000	LOCKE	I heard you the first time, Randy.
+214	00:00:00,000 --> 00:00:00,000	RANDY	And no personal calls during office hours, Colonel.
+216	00:00:00,000 --> 00:00:00,000		[Shot of Locke crunching numbers.]
+218	00:00:00,000 --> 00:00:00,000		[Shot of Kate slipping a knife into a sheath at her waist. Jack enters.]
+220	00:00:00,000 --> 00:00:00,000	JACK	So? Hunting boar, now, huh?
+222	00:00:00,000 --> 00:00:00,000	KATE	Who says it's my first time boar hunting?
+224	00:00:00,000 --> 00:00:00,000	JACK	Uh-huh. Tell me something, how come every time there's a hike into the heart of darkness you sign up? You know what's in there.
+226	00:00:00,000 --> 00:00:00,000	KATE	Actually, I don't. And neither do you.
+228	00:00:00,000 --> 00:00:00,000	JACK	What's your feel on our new friend?
+230	00:00:00,000 --> 00:00:00,000	KATE	Seems to know what he's doing.
+232	00:00:00,000 --> 00:00:00,000	JACK	Call me paranoid, but anyone who packs a suitcase full of knives?
+234	00:00:00,000 --> 00:00:00,000	KATE	If I didn't know any better, I'd say your worried about me, Jack.
+236	00:00:00,000 --> 00:00:00,000	JACK	If I didn't know any better, I'd say you have a problem staying in one place for very long, Kate. So, you want to tell me why you're really going?
+238	00:00:00,000 --> 00:00:00,000	KATE	[showing the antenna to Jack] Sayid gave me this so he can triangulate the distress signal we heard-find the source.
+240	00:00:00,000 --> 00:00:00,000	JACK	This isn't about boars.
+242	00:00:00,000 --> 00:00:00,000	KATE	I'm a vegetarian.
+244	00:00:00,000 --> 00:00:00,000		[Shot of Walt and Michael.]
+246	00:00:00,000 --> 00:00:00,000	WALT	But why can't I come?
+248	00:00:00,000 --> 00:00:00,000	MICHAEL	Because I said so.
+250	00:00:00,000 --> 00:00:00,000		[Shot of Sun walking with some plants.]
+252	00:00:00,000 --> 00:00:00,000	MICHAEL	[getting Sun's attention] Hi, hi, excuse me. Um, I am going off, away, to hunt, and um, I was wondering if you could keep an eye on my boy, Walt. And, I'm Michael. Anyway, could you watch him for me, until I come back?
+254	00:00:00,000 --> 00:00:00,000	SUN	Ã¬â€¢â€ž... Ã¬â€¢â€žÃ«â€œÅ“Ã«â€¹ËœÃ¬Ââ‚¬ Ã¬Â Å“ÃªÂ°â‚¬ Ã¬Å¾Ëœ Ã«ÂÅ’Ã«Â³Â´ÃªÂ³ Ã¬Å¾Ë†Ã¬Ââ€žÃªÂ²Å’Ã¬Å¡â€. Ã¬ËœË†...
+256	00:00:00,000 --> 00:00:00,000	MICHAEL	Sorry I don't understand, but you're cool with this, right? [giving her the okay sign with his hand]
+258	00:00:00,000 --> 00:00:00,000		[Sun nods and gives the okay sign.]
+260	00:00:00,000 --> 00:00:00,000	WALT	I don't need a babysitter.
+262	00:00:00,000 --> 00:00:00,000	MICHAEL	Come on, Vincent needs you here. And, hey, cheer up. This will give me a chance to get to know your friend Mr. Locke a little better.
+264	00:00:00,000 --> 00:00:00,000	SUN	Ã«â€žË†Ã«Â¬Â´ ÃªÂ±Â±Ã¬Â â€¢Ã­â€¢ËœÃ¬Â§â‚¬ Ã«Â§Ë†. Ã¬â€¢â€žÃ«Â²â€žÃ¬Â§â‚¬ ÃªÂ´Å“Ã¬Â°Â®Ã¬Å“Â¼Ã¬â€¹Â¤ ÃªÂ±Â°Ã¬â€¢Â¼.
+266	00:00:00,000 --> 00:00:00,000	WALT	Yeah, whatever.
+268	00:00:00,000 --> 00:00:00,000		[Shot of Jack stacking wood, Claire enters.]
+270	00:00:00,000 --> 00:00:00,000	CLAIRE	Excuse me. Doctor?
+272	00:00:00,000 --> 00:00:00,000	JACK	Claire, right? How's the [pointing to her belly].
+274	00:00:00,000 --> 00:00:00,000	CLAIRE	Oh, he's good, yeah, thanks. Um, I thought maybe you should see this [she hands him a stack of papers]. Someone found it in there. They're collecting all the belongings. They're wedding plans for Steve and Kristin. They were on the plane sitting a couple of rows behind me. I remember because they looked so happy.
+276	00:00:00,000 --> 00:00:00,000	JACK	I don't understand, Claire, what am I supposed to do with this?
+278	00:00:00,000 --> 00:00:00,000	CLAIRE	Oh, well, um, some of us were wondering if maybe we should do some kind of memorial service, or something. You could lead it.
+280	00:00:00,000 --> 00:00:00,000	JACK	Uh, no, I don't think it...
+282	00:00:00,000 --> 00:00:00,000	CLAIRE	Well, you know, just a few words, or we could just read their names from passports, and drivers...
+284	00:00:00,000 --> 00:00:00,000	JACK	Look, it's not my thing.
+286	00:00:00,000 --> 00:00:00,000	CLAIRE	Oh, okay. Maybe I'll do it.
+288	00:00:00,000 --> 00:00:00,000	JACK	Yeah, sounds fine. Whatever everybody wants.
+290	00:00:00,000 --> 00:00:00,000		[Shot of Boone looking at Rose sitting alone on the beach away from everyone.]
+292	00:00:00,000 --> 00:00:00,000	BOONE	[to Shannon] That woman's still sitting there.
+294	00:00:00,000 --> 00:00:00,000	SHANNON	[not looking up from a crossword she's doing] Mmmhmmm.
+296	00:00:00,000 --> 00:00:00,000	BOONE	Her husband was on the plane.
+298	00:00:00,000 --> 00:00:00,000	SHANNON	Right.
+300	00:00:00,000 --> 00:00:00,000	BOONE	Are you even listening to me?
+302	00:00:00,000 --> 00:00:00,000	SHANNON	What's a four letter word for I don't care?
+304	00:00:00,000 --> 00:00:00,000	BOONE	I just think somebody should go talk to her.
+306	00:00:00,000 --> 00:00:00,000	SHANNON	I nominate you, Captain America. You just can't help yourself, can you?
+308	00:00:00,000 --> 00:00:00,000	BOONE	Yeah, well, at least you don't have to worry about starving with me taking care of you.
+310	00:00:00,000 --> 00:00:00,000	SHANNON	I'm not going to starve.
+312	00:00:00,000 --> 00:00:00,000	BOONE	Right, what are you going to eat?
+314	00:00:00,000 --> 00:00:00,000	SHANNON	The ocean's full of fish.
+316	00:00:00,000 --> 00:00:00,000	BOONE	I hate to break it to you-the ocean is not going to take your gold card.
+318	00:00:00,000 --> 00:00:00,000	SHANNON	You really don't think I can't catch a fish?
+320	00:00:00,000 --> 00:00:00,000		[Shot of Locke in the jungle digging in the ground with his knife.]
+322	00:00:00,000 --> 00:00:00,000	KATE	You find something?
+324	00:00:00,000 --> 00:00:00,000	LOCKE	The ground here has been rooted up. That's how boars get the majority of their food, they dig. Afterwards they generally wallow in the dirt, rub up against the trees, scoring them with their tusks.
+326	00:00:00,000 --> 00:00:00,000	MICHAEL	Okay. So what's all that mean?
+328	00:00:00,000 --> 00:00:00,000	LOCKE	Means we're close.
+330	00:00:00,000 --> 00:00:00,000		[Shot of Charlie getting drugs out of his baggie. Close up of hands. Shannon appears.]
+332	00:00:00,000 --> 00:00:00,000	SHANNON	Hi.
+334	00:00:00,000 --> 00:00:00,000	CHARLIE	Hi. (putting the drugs back in his pocket). Shannon, right?
+336	00:00:00,000 --> 00:00:00,000	SHANNON	Yeah. Are you doing anything?
+338	00:00:00,000 --> 00:00:00,000	CHARLIE	Me? No, I was just, uh. What are you doing?
+340	00:00:00,000 --> 00:00:00,000	SHANNON	I was just going to go for a walk. Do you want to come?
+342	00:00:00,000 --> 00:00:00,000	CHARLIE	Yeah, yes, sure.
+344	00:00:00,000 --> 00:00:00,000	SHANNON	Can I ask you something?
+346	00:00:00,000 --> 00:00:00,000	CHARLIE	Oh, I wondered when this was going to come up. Yes, I'm the bass guitarist in Dri…
+348	00:00:00,000 --> 00:00:00,000	SHANNON	Do you know anything about fishing?
+350	00:00:00,000 --> 00:00:00,000	CHARLIE	What? Fishing? My grand-dad used to take me out, taught me everything he knows. Everything he knew, he's dead now, god rest his soul. Yeah, I'm like a … I'm a fishing fiend. I mean England's an island so I just throw it in and … fish.
+352	00:00:00,000 --> 00:00:00,000	SHANNON	Good.
+354	00:00:00,000 --> 00:00:00,000		[Shot of wheelchair being used as a wheelbarrow for wood. Boone enters toward Jack.]
+356	00:00:00,000 --> 00:00:00,000	BOONE	Hey doc, you got a second?
+358	00:00:00,000 --> 00:00:00,000	JACK	What's up?
+360	00:00:00,000 --> 00:00:00,000	BOONE	The woman's been sitting over there by herself. Maybe she's having trouble dealing with her husband? I don't think she's had anything to eat or drink. Think maybe you can go talk to her?
+362	00:00:00,000 --> 00:00:00,000	JACK	Why me? I'm not a psychiatrist. I mean, maybe you should...
+364	00:00:00,000 --> 00:00:00,000	BOONE	I just thought you might want to do it. You're the one that saved her life.
+366	00:00:00,000 --> 00:00:00,000		[Shot of Rose holding a wedding band around her neck. Jack enters with water and puts a blanket around her shoulders.]
+368	00:00:00,000 --> 00:00:00,000	JACK	Hi. Rose, right? Remember me, seat 23A? I'm the guy that told you not to worry about the turbulence. Everybody's getting pretty worried about you, Rose. If you want to be alone that's fine, but you have to take care of yourself. You should really drink. Okay. We don't have to talk. Let's just sit for a while.
+370	00:00:00,000 --> 00:00:00,000		[Kate, Locke and Michael in jungle.]
+372	00:00:00,000 --> 00:00:00,000	KATE	Your son, how's he handling all of this?
+374	00:00:00,000 --> 00:00:00,000	MICHAEL	A hell of a lot better than I am.
+376	00:00:00,000 --> 00:00:00,000	KATE	You must be proud. He's a brave kid.
+378	00:00:00,000 --> 00:00:00,000	MICHAEL	Yeah. I can't take credit for that. I wasn't part of his life. Till his mother passed away, two weeks ago.
+380	00:00:00,000 --> 00:00:00,000	KATE	I'm sorry. I didn't know.
+382	00:00:00,000 --> 00:00:00,000	MICHAEL	That's okay. There were living in Sydney the past couple of years. I flew out last week, you know, to go get him. What were you doing in Australia?
+384	00:00:00,000 --> 00:00:00,000		[Shot of Locke, listening to boar noises.]
+386	00:00:00,000 --> 00:00:00,000	LOCKE	Shhh.
+388	00:00:00,000 --> 00:00:00,000		[Locke sees tusk marks on a tree. Gives hand signals to direct the others.]
+390	00:00:00,000 --> 00:00:00,000	MICHAEL	Hey, quit giving us the steal signal.
+392	00:00:00,000 --> 00:00:00,000		[A boar suddenly runs at them. Locke gets Kate out of the way. Michael gets gored. Michael screaming. Locke laying on the ground with knife sticking up phallically. Kate helps Michael. Same ankle-up shot of Locke as when he comes to on the beach. He doesn't move right away. Michael is moaning.]
+394	00:00:00,000 --> 00:00:00,000	KATE	He's bad.
+396	00:00:00,000 --> 00:00:00,000		[Flashback - Shot of an army game like Risk.]
+398	00:00:00,000 --> 00:00:00,000	GL12	Move. You've got to move Col. Your troops are across enemy lines.
+400	00:00:00,000 --> 00:00:00,000		[Shot of Locke in an office break room.]
+402	00:00:00,000 --> 00:00:00,000	LOCKE	Patience, the quality which you lack, GL12, is the hallmark of a leader.
+404	00:00:00,000 --> 00:00:00,000		[Randy walks in the break room.]
+406	00:00:00,000 --> 00:00:00,000	RANDY	Hallmark, huh? Tell me more about being a leader, Locke. While you're at it, tell me about this Col. thing. I cruised your file in human resources, you've never been in any of the armed forces.
+408	00:00:00,000 --> 00:00:00,000	LOCKE	I'm just playing a game, Randy. It's my lunch hour, I can play a game.
+410	00:00:00,000 --> 00:00:00,000	RANDY	Well, tell me, what's a Walkabout? [reading from a brochure]: "Experience the dream journeys of the fabled Australian Outback."
+412	00:00:00,000 --> 00:00:00,000	LOCKE	You have no right taking that off my desk.
+414	00:00:00,000 --> 00:00:00,000	RANDY	So, you wander around hunting and gathering food, right? On foot?
+416	00:00:00,000 --> 00:00:00,000	LOCKE	Not that you would understand, but a Walkabout is a journey of spiritual renewal, where one derives strength from the earth. And becomes inseparable from it. I have vacation days, I'm going, Randy. I've already made a reservation.
+418	00:00:00,000 --> 00:00:00,000	GL12	Wow. John you're really doing it, huh? You tell Helen yet?
+420	00:00:00,000 --> 00:00:00,000	RANDY	Helen? Well, what's this Locke, you've actually got a woman in your life.
+422	00:00:00,000 --> 00:00:00,000	LOCKE	That's none of your business.
+424	00:00:00,000 --> 00:00:00,000	RANDY	What is it with you Locke? Why do you torture yourself? I mean, imagining you're some hunter? Walkabouts? Wake up, you can't do any of that.
+426	00:00:00,000 --> 00:00:00,000	LOCKE	Norman Croucher.
+428	00:00:00,000 --> 00:00:00,000	RANDY	What? Norman what?
+430	00:00:00,000 --> 00:00:00,000	LOCKE	Norman Croucher. Norman Croucher, double amputee, no legs. He climbed to the top of Mt. Everest. Why? It was his destiny.
+432	00:00:00,000 --> 00:00:00,000	RANDY	That's what you think you've got, old man? Destiny?
+434	00:00:00,000 --> 00:00:00,000	LOCKE	Just don't tell me what I can't do.
+436	00:00:00,000 --> 00:00:00,000		[On-Island - Locke is still lying there.]
+438	00:00:00,000 --> 00:00:00,000	KATE	[off camera at first] He's hurt. John? Can you hear me? Locke? John you okay?
+440	00:00:00,000 --> 00:00:00,000		[Shot from the foot angle again.]
+442	00:00:00,000 --> 00:00:00,000	KATE	Locke?
+444	00:00:00,000 --> 00:00:00,000	LOCKE	[moving] I'm fine, I'm fine. I'm fine, Helen, I just got the wind knocked out of me is all.
+446	00:00:00,000 --> 00:00:00,000	KATE	Helen?
+448	00:00:00,000 --> 00:00:00,000	LOCKE	What?
+450	00:00:00,000 --> 00:00:00,000	KATE	You called me Helen.
+452	00:00:00,000 --> 00:00:00,000	LOCKE	Did I?
+454	00:00:00,000 --> 00:00:00,000		[Kate is tending to Michael, making a tourniquet.]
+456	00:00:00,000 --> 00:00:00,000	LOCKE	Which way did that boar go?
+458	00:00:00,000 --> 00:00:00,000	KATE	Michael's hurt. We have to get him back to camp.
+460	00:00:00,000 --> 00:00:00,000	LOCKE	Yeah, you take him back to camp. I'm going to get that boar.
+462	00:00:00,000 --> 00:00:00,000		[Kate looks shocked.]
+464	00:00:00,000 --> 00:00:00,000	KATE	What are you talking about?
+466	00:00:00,000 --> 00:00:00,000	LOCKE	I'm fine. I can do this.
+468	00:00:00,000 --> 00:00:00,000	KATE	John, you can't.
+470	00:00:00,000 --> 00:00:00,000	LOCKE	Don't tell me what I can't do.
+472	00:00:00,000 --> 00:00:00,000		[Shot of Hurley and Charlie in the surf trying to fish with a stick with a piece of airplane shrapnel.]
+474	00:00:00,000 --> 00:00:00,000	CHARLIE	Did you get it?
+476	00:00:00,000 --> 00:00:00,000	HURLEY	Dude, quit asking me that.
+478	00:00:00,000 --> 00:00:00,000	CHARLIE	Sorry. You, you said you knew how to fish.
+480	00:00:00,000 --> 00:00:00,000	HURLEY	Yeah, off the Santa Monica pier with my old man and a fishing pole and bait. Never had to try and poke one with a sharp stick.
+482	00:00:00,000 --> 00:00:00,000	CHARLIE	Well, I really appreciate you helping me out, thanks.
+484	00:00:00,000 --> 00:00:00,000	HURLEY	Anything to keep me far away from that fuselage and that freakin' redneck jerk. [Hurley spears again and misses] Damn it, crap, crap, son of a...
+486	00:00:00,000 --> 00:00:00,000	CHARLIE	You let me have a go?
+488	00:00:00,000 --> 00:00:00,000	HURLEY	Knock yourself out. Okay, here comes one. Put your weight into it. Now, you see it? Wait for it, wait... now. [Charlie lunges and misses]. Dude, you've got to try to pin it.
+490	00:00:00,000 --> 00:00:00,000	CHARLIE	You see how close I was? No, you said I had to corner it.
+492	00:00:00,000 --> 00:00:00,000		[Shot of Sayid on the beach with a hand full of wires, next to Claire sorting through stuff.]
+494	00:00:00,000 --> 00:00:00,000	CLAIRE	Excuse me, your name's Sayid, right?
+496	00:00:00,000 --> 00:00:00,000	SAYID	Yes.
+498	00:00:00,000 --> 00:00:00,000	CLAIRE	I just found this. It's got your name on it. [She hands him an envelope].
+500	00:00:00,000 --> 00:00:00,000	SAYID	I thought I'd lost this. Thank you.
+502	00:00:00,000 --> 00:00:00,000	CLAIRE	Sure.
+504	00:00:00,000 --> 00:00:00,000		[Sayid opens the envelope which has pictures of a woman, he rubs his thumb over a picture of her face.]
+506	00:00:00,000 --> 00:00:00,000		[Shot of Jack and Rose.]
+508	00:00:00,000 --> 00:00:00,000	ROSE	His fingers swell.
+510	00:00:00,000 --> 00:00:00,000	JACK	Sorry?
+512	00:00:00,000 --> 00:00:00,000	ROSE	Bernard, my husband, his hands swell up whenever we fly.
+514	00:00:00,000 --> 00:00:00,000	JACK	The altitude.
+516	00:00:00,000 --> 00:00:00,000	ROSE	He started having me hold onto his wedding ring whenever we took a plane trip. Always wore it around my neck for safe keeping. Just until we landed. You know, doctor, you don't have to keep your promise.
+518	00:00:00,000 --> 00:00:00,000	JACK	Promise?
+520	00:00:00,000 --> 00:00:00,000	ROSE	The one you gave me on the plane. The one you made me-to keep me company until my husband got back from the restroom. I'm letting you off the hook.
+522	00:00:00,000 --> 00:00:00,000	JACK	Well, you're not going to get rid of me that easily. Rose, you shouldn't be out here alone. You're suffering from Post Traumatic Shock.
+524	00:00:00,000 --> 00:00:00,000	ROSE	Aren't we all?
+526	00:00:00,000 --> 00:00:00,000	JACK	Yeah, I guess we are.
+528	00:00:00,000 --> 00:00:00,000	ROSE	You have a nice way about you. A good soul, patient, caring. I suppose that's why you became a doctor.
+530	00:00:00,000 --> 00:00:00,000	JACK	Thanks but I was just kind of born into it. Family business.
+532	00:00:00,000 --> 00:00:00,000		[Shot of Locke out hunting alone.]
+534	00:00:00,000 --> 00:00:00,000		[Flashback - Locke is in his bed in a studio apartment talking on the phone.]
+536	00:00:00,000 --> 00:00:00,000	LOCKE	I have never felt so alive. Getting to finally tell Randy off was... life changing. I mean it, now I'm free to do all those things I ever wanted to do. Things that I know I was destined to do, like we talked about Helen.
+538	00:00:00,000 --> 00:00:00,000	HELEN	That's wonderful John. I'm happy for you, really.
+540	00:00:00,000 --> 00:00:00,000	LOCKE	I haven't even told you the best part. [He reaches over and turns a machine off by his bed] You remember the authentic aboriginal Walkabout?
+542	00:00:00,000 --> 00:00:00,000	HELEN	Sure. That's all you've talked about for weeks.
+544	00:00:00,000 --> 00:00:00,000	LOCKE	Yeah, well, I'm going to do it. I'm flying to Australia at the end of the week. And I've, uh. I bought two tickets. Helen?
+546	00:00:00,000 --> 00:00:00,000	HELEN	John, we've talked about this. I like you and I've enjoyed talking with you these past few months.
+548	00:00:00,000 --> 00:00:00,000	LOCKE	8 months.
+550	00:00:00,000 --> 00:00:00,000	HELEN	I'm not allowed to meet customers.
+552	00:00:00,000 --> 00:00:00,000	LOCKE	Customer? Is that what I am to you?
+554	00:00:00,000 --> 00:00:00,000	HELEN	This isn't really normal. I mean, it isn't what I do. I don't know, maybe you should find a... I don't know... a therapist?
+556	00:00:00,000 --> 00:00:00,000	LOCKE	I have a therapist.
+558	00:00:00,000 --> 00:00:00,000	HELEN	John.
+560	00:00:00,000 --> 00:00:00,000	LOCKE	I thought you understood Helen. You know me better than anyone.
+562	00:00:00,000 --> 00:00:00,000	HELEN	John, if we talk any longer, I'm going to have to charge you for another hour. That's another 89.95 and...
+564	00:00:00,000 --> 00:00:00,000	LOCKE	Look, I don't care about the money. I just...
+566	00:00:00,000 --> 00:00:00,000	HELEN	I'm sorry John, I've got to go.
+568	00:00:00,000 --> 00:00:00,000	LOCKE	[we hear the click of the hang up] Helen, Helen. Helen!
+570	00:00:00,000 --> 00:00:00,000		[Locke slams the phone down several times.]
+572	00:00:00,000 --> 00:00:00,000		[On-Island - Kate is helping Michael back to camp. They stop.]
+574	00:00:00,000 --> 00:00:00,000	KATE	Hey, hey wait a minute. Rest here for a minute.
+576	00:00:00,000 --> 00:00:00,000		[Kate is taking off her backpack and over-shirt.]
+578	00:00:00,000 --> 00:00:00,000	MICHAEL	I thought the guy with the gimpy leg should be deciding when we rest. What are you doing?
+580	00:00:00,000 --> 00:00:00,000	KATE	Trying to boost the transceiver signal. I'm going to climb this tree and attach the antenna.
+582	00:00:00,000 --> 00:00:00,000	MICHAEL	You're going to climb that?
+584	00:00:00,000 --> 00:00:00,000	KATE	Yeah. Don't worry. I've climbed a lot worse.
+586	00:00:00,000 --> 00:00:00,000		[Kate climbs the tree; shot of Locke hiking; Michael adjusting his bandage; Kate taking the antenna out of her pack. Everything shakes and we hear the metallic/growling noise. Kate drops the antenna. Kate sees the monster going toward Locke.]
+588	00:00:00,000 --> 00:00:00,000	KATE	Locke.
+590	00:00:00,000 --> 00:00:00,000		[Shot of Locke in the jungle. He hears the sound of boars and starts to run toward them. Then we can hear the metallic sound and see the trees moving. Locke halts and looks up, backs away a bit. Camera is monster POV looking at Locke. Close up of Locke looking amazed.]
+592	00:00:00,000 --> 00:00:00,000		[Shot of people on the beach, Claire, Sawyer.]
+594	00:00:00,000 --> 00:00:00,000	SAWYER	[to Claire] Hey, uh...
+596	00:00:00,000 --> 00:00:00,000	CLAIRE	Hey.
+598	00:00:00,000 --> 00:00:00,000	SAWYER	These were, um. I found these the other day when I was... Aw hell, just, just take it. [He hands her a stack of wallets]
+600	00:00:00,000 --> 00:00:00,000	CLAIRE	Thank you.
+602	00:00:00,000 --> 00:00:00,000		[We see Walt and Sun on the beach. Sun is breaking a piece of a plant off.]
+604	00:00:00,000 --> 00:00:00,000	WALT	What is that?
+606	00:00:00,000 --> 00:00:00,000		[Sun shows Walt how to brush his teeth with it.]
+608	00:00:00,000 --> 00:00:00,000	WALT	Oh, I get it. It's like toothpaste.
+610	00:00:00,000 --> 00:00:00,000	SUN	[Sun says something in Korean that sounds like chia.] [Ã¬Â¹ËœÃ¬â€¢Â½.]
+612	00:00:00,000 --> 00:00:00,000	WALT	Chia?
+614	00:00:00,000 --> 00:00:00,000		[Shot of Kate helping Michael back. Hurley runs up.]
+616	00:00:00,000 --> 00:00:00,000	WALT	Dad!
+618	00:00:00,000 --> 00:00:00,000	HURLEY	So, like, what happened out there?
+620	00:00:00,000 --> 00:00:00,000	WALT	Dad!
+622	00:00:00,000 --> 00:00:00,000	MICHAEL	Hey, hey!
+624	00:00:00,000 --> 00:00:00,000	WALT	Your leg's all messed up. Does it hurt?
+626	00:00:00,000 --> 00:00:00,000	MICHAEL	It's okay. It's not as bad as it looks.
+628	00:00:00,000 --> 00:00:00,000	SAWYER	The mighty huntress returns. What's for dinner, hon-
+630	00:00:00,000 --> 00:00:00,000	KATE	Not now.
+632	00:00:00,000 --> 00:00:00,000	WALT	So, it was like a boar fight?
+634	00:00:00,000 --> 00:00:00,000	MICHAEL	Not too much of a fight. It was more like me getting gored.
+636	00:00:00,000 --> 00:00:00,000	WALT	So, um, where's Mr. Locke?
+638	00:00:00,000 --> 00:00:00,000		[Shot of Boone walking up to Shannon]
+640	00:00:00,000 --> 00:00:00,000	BOONE	I don't think that hunt went very well. The bald guy never came back.
+642	00:00:00,000 --> 00:00:00,000	SHANNON	Wait, they didn't bring back any food at all?
+644	00:00:00,000 --> 00:00:00,000	BOONE	Did you hear what I just said? Somebody might have died out there.
+646	00:00:00,000 --> 00:00:00,000	SHANNON	Well, we're all going to die if somebody doesn't do something.
+648	00:00:00,000 --> 00:00:00,000	CHARLIE	[approaching] There you are. As promised, you and I will be dining of fresh catch of the day.
+650	00:00:00,000 --> 00:00:00,000	SHANNON	[squealing] Oh, my fish!
+652	00:00:00,000 --> 00:00:00,000	CHARLIE	I hope you don't mind al fresco. It was no problem. You know what, that one actually gave me a hell of a tussle, but you have to get inside the mind of the fish, you know.
+654	00:00:00,000 --> 00:00:00,000	BOONE	I don't believe you.
+656	00:00:00,000 --> 00:00:00,000	CHARLIE	I got it in the shallows, I cornered it.
+658	00:00:00,000 --> 00:00:00,000	SHANNON	[to Boone] What's the matter? Can't stand to see me fending for myself?
+660	00:00:00,000 --> 00:00:00,000	BOONE	[to Charlie] I'm sorry about this, seriously.
+662	00:00:00,000 --> 00:00:00,000	CHARLIE	No, no, it's okay.
+664	00:00:00,000 --> 00:00:00,000	SHANNON	What are you apologizing to him for?
+666	00:00:00,000 --> 00:00:00,000	BOONE	For you. For using him-using this poor guy like you use everyone else.
+668	00:00:00,000 --> 00:00:00,000	SHANNON	Oh, whatever.
+670	00:00:00,000 --> 00:00:00,000	BOONE	Somewhere in that twisted little brain, you think this proves that you can take care of yourself.
+672	00:00:00,000 --> 00:00:00,000		[Shannon and Boone walk away from Charlie.]
+674	00:00:00,000 --> 00:00:00,000	SHANNON	I told you I'd catch a fish, didn't I?
+676	00:00:00,000 --> 00:00:00,000	BOONE	[off camera, shot is on Charlie's sad reaction] That's low Shannon, even for you.
+678	00:00:00,000 --> 00:00:00,000	SHANNON	Oh, go rescue a baby bird or something.
+680	00:00:00,000 --> 00:00:00,000		[Shot of Jack and Rose on the beach.]
+682	00:00:00,000 --> 00:00:00,000	JACK	Rose, after the sun goes down, we're going to burn the fuselage. It's just something that we have to do. There's going to be a memorial service back at the camp for those-for those who didn't make it. For everyone to say goodbye.
+684	00:00:00,000 --> 00:00:00,000	ROSE	I'd like to be there for that.
+686	00:00:00,000 --> 00:00:00,000	JACK	Okay. [They get up to go]. Maybe if you'd like to say something, you know, about your husband.
+688	00:00:00,000 --> 00:00:00,000	ROSE	What?
+690	00:00:00,000 --> 00:00:00,000	JACK	I'm just saying if you wanted to say goodbye to Bernard.
+692	00:00:00,000 --> 00:00:00,000	ROSE	Doctor, my husband is not dead.
+694	00:00:00,000 --> 00:00:00,000	JACK	Rose, he was in the tail section of the plane. It broke off in mid-flight. I'm sorry, but everyone who was in the rear of the plane's gone.
+696	00:00:00,000 --> 00:00:00,000	ROSE	They're probably thinking the same thing about us.
+698	00:00:00,000 --> 00:00:00,000		[Jack does a double-take. Sees a man in a suit and white shoes standing under a tree on the beach. He walks toward it.]
+700	00:00:00,000 --> 00:00:00,000	ROSE	Doctor? You coming?
+702	00:00:00,000 --> 00:00:00,000		[He looks back and the man is gone.]
+704	00:00:00,000 --> 00:00:00,000		[Shot of Sayid with some equipment, Kate walks up and hands him the broken antenna.]
+706	00:00:00,000 --> 00:00:00,000	KATE	I'm sorry. I guess I should've gotten a warranty.
+708	00:00:00,000 --> 00:00:00,000	SAYID	I suppose I'll just try again. Of course, I have no welding iron, no rivets, scorched wiring. And it seems I must continue to lie to anyone who asks me what it is I'm actually doing. [Throws the antenna down angrily.]
+710	00:00:00,000 --> 00:00:00,000	KATE	Sayid, I'll try it again.
+712	00:00:00,000 --> 00:00:00,000	SAYID	[calmly] We'll try it again.
+714	00:00:00,000 --> 00:00:00,000	JACK	[entering] Kate.
+716	00:00:00,000 --> 00:00:00,000	SAYID	Excuse me. [He exit.s]
+718	00:00:00,000 --> 00:00:00,000	KATE	Hey.
+720	00:00:00,000 --> 00:00:00,000	JACK	[reaching for Kate's face] You okay?
+722	00:00:00,000 --> 00:00:00,000	KATE	Is this when you say "I told you so?"
+724	00:00:00,000 --> 00:00:00,000	JACK	No, I'm not big on rubbing it in.
+726	00:00:00,000 --> 00:00:00,000	KATE	Locke, um. Locke's gone. That thing, it was moving in his direction. There wasn't time. [Looking toward another part of the beach] What's going on?
+728	00:00:00,000 --> 00:00:00,000	JACK	The fuselage is ready to go. Some of the others decided, um … I guess there's going to be some words said over the fire...
+730	00:00:00,000 --> 00:00:00,000	KATE	That's good.
+732	00:00:00,000 --> 00:00:00,000	JACK	... names read, I think.
+734	00:00:00,000 --> 00:00:00,000	KATE	I just don't think they're ready to hear about some of the things that we've...
+736	00:00:00,000 --> 00:00:00,000		[Jack suddenly runs off.]
+738	00:00:00,000 --> 00:00:00,000	KATE	Jack? Jack?
+740	00:00:00,000 --> 00:00:00,000		[Jack runs into the woods a little ways. Kate follows. We see Locke dragging a boar out of the woods.]
+742	00:00:00,000 --> 00:00:00,000	JACK	Locke.
+744	00:00:00,000 --> 00:00:00,000		[All looking at each other.]
+746	00:00:00,000 --> 00:00:00,000		[Shot of everyone around by the fuselage. The memorial.]
+748	00:00:00,000 --> 00:00:00,000	CLAIRE	Judith Martha Wexler from Denton, TX, guess she was going to catch a connecting flight. Um, she wore corrective lenses and she was an organ donor, or at least would have been. Steve and Kirsten, I don't know their last name, but they were really in love and were going to be married. At least, wherever they are now, they're not alone.
+750	00:00:00,000 --> 00:00:00,000		[Shot of Charlie doing drugs, hiding.]
+752	00:00:00,000 --> 00:00:00,000	CLAIRE	... video store receipt lists his overdue charges for Willie Wonka and A Little Princess. Looks like he hadn't traveled much... as far as I can tell from his passport.
+754	00:00:00,000 --> 00:00:00,000		[Shot of Charlie coming back standing next to Kate.]
+756	00:00:00,000 --> 00:00:00,000	KATE	You seen Jack?
+758	00:00:00,000 --> 00:00:00,000	CLAIRE	... Wollstein, Harold, seat 23C.
+760	00:00:00,000 --> 00:00:00,000		[Shot of Jack sitting alone on the beach.]
+762	00:00:00,000 --> 00:00:00,000	CLAIRE	[In the background] That's all we have on Harold, his name on a boarding pass... I just wish there was something more... Goodbye, Harold.
+764	00:00:00,000 --> 00:00:00,000		[Shot of Michael next to Locke.]
+766	00:00:00,000 --> 00:00:00,000	MICHAEL	Nice work.
+768	00:00:00,000 --> 00:00:00,000	LOCKE	What?
+770	00:00:00,000 --> 00:00:00,000	CLAIRE	Millicent Louise D'Agostino
+772	00:00:00,000 --> 00:00:00,000	MICHAEL	The boar. Nice work, you know, killing it.
+774	00:00:00,000 --> 00:00:00,000	CLAIRE	...Teaneck, NJ.
+776	00:00:00,000 --> 00:00:00,000	MICHAEL	Just thought I should say something. So that thing, the monster, whatever. She said it was headed right towards you. Did you see anything? Get any kind of look at it?
+778	00:00:00,000 --> 00:00:00,000	LOCKE	No.
+780	00:00:00,000 --> 00:00:00,000		[Close up of Locke.]
+782	00:00:00,000 --> 00:00:00,000		[Flashback - Travel agency office in Australia.]
+784	00:00:00,000 --> 00:00:00,000	AGENT	The Walkabouts we arrange here are not just some stroll through the park. It's trekking across vast stretches of desert, rafting bloody treacherous waters.
+786	00:00:00,000 --> 00:00:00,000	LOCKE	Look, you've got no idea who you're talking to. I'm well aware of what's involved, believe me. I probably know more than you on the subject.
+788	00:00:00,000 --> 00:00:00,000	AGENT	In any case, it's a trying ordeal for someone in peak physical condition, let alone...
+790	00:00:00,000 --> 00:00:00,000	LOCKE	Look, I booked this tour a month ago, you've already got my money. Now, I demand a place on that bus.
+792	00:00:00,000 --> 00:00:00,000	AGENT	You misrepresented yourself...
+794	00:00:00,000 --> 00:00:00,000	LOCKE	I never lied.
+796	00:00:00,000 --> 00:00:00,000	AGENT	By omission, Mr. Locke. You neglected to tell us about your condition.
+798	00:00:00,000 --> 00:00:00,000	LOCKE	My condition is not an issue. I've lived with it for 4 years. It's never kept me from doing anything.
+800	00:00:00,000 --> 00:00:00,000	AGENT	Look, unfortunately it is an issue for our insurance company. I can't keep the bus waiting any longer. It isn't fair to the other people.
+802	00:00:00,000 --> 00:00:00,000	LOCKE	Hey, don't talk to me about fair.
+804	00:00:00,000 --> 00:00:00,000	AGENT	I can get you on a plane back to Sydney on our dime. That's the best I can do.
+806	00:00:00,000 --> 00:00:00,000	LOCKE	No. I don't want to go back to Sydney. Look I've been preparing for this for years. Just put me on the bus, right now, I can do this.
+808	00:00:00,000 --> 00:00:00,000	AGENT	No, you can't.
+810	00:00:00,000 --> 00:00:00,000	LOCKE	Hey, hey, don't you walk away from me. [The wheelchair reveal]. You don't know who you're dealing with. Don't ever tell me what I can't do, ever. This is destiny. This is destiny. This is my destiny. (yelling) I'm supposed to do this, dammit. Don't tell me what I can't do. Don't tell me what I can't...
+812	00:00:00,000 --> 00:00:00,000		[The bus pulls away.]
+814	00:00:00,000 --> 00:00:00,000		[On-Island - We see a shot of Locke on the beach when he comes to, from the beginning of the episode. Putting his shoes on, getting up, Jack calls to him for help and he goes. Shot of Locke back at the memorial.]
+816	00:00:00,000 --> 00:00:00,000	CLAIRE	Millicent Louise D'Agostino. Teaneck, New Jersey.
+818	00:00:00,000 --> 00:00:00,000		[Shot of fuselage on fire. Locke looks over at the wheelchair and smiles.]

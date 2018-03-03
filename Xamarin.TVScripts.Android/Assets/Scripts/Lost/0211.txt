@@ -1,0 +1,401 @@
+The Hunting Party
+2	00:00:00,000 --> 00:00:00,000	Written by	Elizabeth Sarnoff & Christina M. Kim
+4	00:00:00,000 --> 00:00:00,000	Directed by	Stephen Williams
+6	00:00:00,000 --> 00:00:00,000		[Flashback - We see Jack and Christian Shepard examining x-rays of a spine in an office with two people seated at a table nearby.]
+8	00:00:00,000 --> 00:00:00,000	CHRISTIAN	[whispering to Jack] Look here and here. You can see it's rotting out the spinal [something] area, and plus all this extra dural growth -- I'm surprised it hasn't caused permanent ischemia.
+10	00:00:00,000 --> 00:00:00,000	ANGELO	[in Italian] Digli di smettere di bisbigliare. Non sono un idiota. [Sara-SNWG Translation: Tell him to stop talking in whispers. I'm not an idiot.]
+12	00:00:00,000 --> 00:00:00,000	GABRIELA	[Translating] He says you don't need to talk in whispers. He knows he doesn't have a chance.
+14	00:00:00,000 --> 00:00:00,000	CHRISTIAN	Your father appreciates candor.
+16	00:00:00,000 --> 00:00:00,000	GABRIELA	We both do.
+18	00:00:00,000 --> 00:00:00,000	CHRISTIAN	Well, then tell him I'm very sorry but he's not a candidate for surgery.
+20	00:00:00,000 --> 00:00:00,000	GABRIELA	[Translating for her father] PapÃƒÂ , lui ÃƒÂ¨ come gli altri. Non lo farÃƒÂ . [Translation by Sara-SNWG: Dad, he's like the others. He won't do it.]
+22	00:00:00,000 --> 00:00:00,000	CHRISTIAN	The way the tumor is situated on the spine, it's just not possible to remove it.
+24	00:00:00,000 --> 00:00:00,000	ANGELO	Non ci proverÃƒÂ ? PerchÃƒÂ©? [Translation by Sara-SNWG: He won't try? Why?]
+26	00:00:00,000 --> 00:00:00,000	GABRIELA	He wants to know why you won't try.
+28	00:00:00,000 --> 00:00:00,000	CHRISTIAN	Because what your father is looking for is not a surgical procedure. What he is looking for is a miracle.
+30	00:00:00,000 --> 00:00:00,000	ANGELO	Signore, non sono venuto fino a qui per lei. Sono venuto qui per suo figlio. [Translation by Sara-SNWG: Sir, I did not come all this way for you. I came for your son.]
+32	00:00:00,000 --> 00:00:00,000	GABRIELA	He said, "I did not come all this way for you, sir. I came for him [indicating Jack].
+34	00:00:00,000 --> 00:00:00,000	JACK	Ms. Busoni, I, uh...
+36	00:00:00,000 --> 00:00:00,000	GABRIELA	You fixed someone with a crushed spinal column -- an impossible surgery -- and now she walks, yes? I consulted many medical journals before making this trip here.
+38	00:00:00,000 --> 00:00:00,000	CHRISTIAN	Then you should know it's a very different case under very different circumstances.
+40	00:00:00,000 --> 00:00:00,000	GABRIELA	But a miracle, right?
+42	00:00:00,000 --> 00:00:00,000	JACK	Look, everything that my father's saying -- the risks, the unlikelihood -- he's absolutely right.
+44	00:00:00,000 --> 00:00:00,000	GABRIELA	But will you try?
+46	00:00:00,000 --> 00:00:00,000	JACK	[taking a few moments to look at the x-rays] I'll have to admit him in the next couple of weeks, run some tests.
+48	00:00:00,000 --> 00:00:00,000	ANGELO	La ringrazio... tantissimo. [Translation by Sara-SNWG: I thank you... very much.]
+50	00:00:00,000 --> 00:00:00,000		[Christian stares at Jack for a moment, then leaves.]
+52	00:00:00,000 --> 00:00:00,000		[On-Island - We see Jack waking up in the bunk bed in the hatch, apparently a bit shaken by this flashback/dream. He gets up and looks around the hatch.]
+54	00:00:00,000 --> 00:00:00,000	JACK	[calling out] Locke!
+56	00:00:00,000 --> 00:00:00,000		[We hear a moan in the background and Jack finds Locke knocked out on the floor of the gun vault.]
+58	00:00:00,000 --> 00:00:00,000	JACK	John.
+60	00:00:00,000 --> 00:00:00,000		[We hear the sound of a gun and see Michael point a rifle at Jack.]
+62	00:00:00,000 --> 00:00:00,000	MICHAEL	Stay in there. Stay...
+64	00:00:00,000 --> 00:00:00,000	JACK	Michael, what are you...?
+66	00:00:00,000 --> 00:00:00,000	MICHAEL	Stay in there, Jack!
+68	00:00:00,000 --> 00:00:00,000	JACK	Hey, whatever's going on...
+70	00:00:00,000 --> 00:00:00,000	MICHAEL	Look, I'm going after my son. I'm going after my son, and nobody is going to stop me, okay?! Okay, that is my right! That is a father's right!
+72	00:00:00,000 --> 00:00:00,000	JACK	There's another way to go about this...
+74	00:00:00,000 --> 00:00:00,000	MICHAEL	Get in the damn room!
+76	00:00:00,000 --> 00:00:00,000	JACK	You going to shoot me, Michael?!
+78	00:00:00,000 --> 00:00:00,000	MICHAEL	No, but I'll shoot your damn computer. Nothing is not what you think it is anyway. You don't understand, man. You don't have any idea. Now get in there!
+80	00:00:00,000 --> 00:00:00,000	JACK	Michael, Michael, listen, we can do this together, okay? I'll come with you.
+82	00:00:00,000 --> 00:00:00,000	MICHAEL	No, I have to do it. Now. I have to do it alone.
+84	00:00:00,000 --> 00:00:00,000		[Michael closes the door of the vault.]
+86	00:00:00,000 --> 00:00:00,000		[We see Locke coming to in the vault with Jack.]
+88	00:00:00,000 --> 00:00:00,000	LOCKE	What happened?
+90	00:00:00,000 --> 00:00:00,000	JACK	Michael knocked you out. Look over here [Jack moves his finger in front of Locke's eyes to check if he's okay.]
+92	00:00:00,000 --> 00:00:00,000	LOCKE	Why would he...?
+94	00:00:00,000 --> 00:00:00,000	JACK	He went after Walt. You feel nauseated, sick?
+96	00:00:00,000 --> 00:00:00,000	LOCKE	No, I'm okay.
+98	00:00:00,000 --> 00:00:00,000	JACK	Good. Give me a boost up.
+100	00:00:00,000 --> 00:00:00,000	LOCKE	It's no use. I bolted it shut from the inside.
+102	00:00:00,000 --> 00:00:00,000	JACK	You what?
+104	00:00:00,000 --> 00:00:00,000	LOCKE	No point in changing the combination if you can get in through the air vent.
+106	00:00:00,000 --> 00:00:00,000	JACK	That's really good thinking, John. You want to tell me why you let Michael in here?
+108	00:00:00,000 --> 00:00:00,000	LOCKE	He wanted a gun -- for shooting practice.
+110	00:00:00,000 --> 00:00:00,000	JACK	Shooting practice?
+112	00:00:00,000 --> 00:00:00,000	LOCKE	[trying the door] The button. How long was I out?
+114	00:00:00,000 --> 00:00:00,000	JACK	20 minutes.
+116	00:00:00,000 --> 00:00:00,000	LOCKE	We're on shift for the next 4 hours. There's nobody coming down here.
+118	00:00:00,000 --> 00:00:00,000	JACK	Yeah, well, better hope Sawyer shows up to get his band-aid changed.
+120	00:00:00,000 --> 00:00:00,000		[We see Sawyer sleeping in an airline chair at the beach. Kate approaches and tosses a banana on Sawyer's chest.]
+122	00:00:00,000 --> 00:00:00,000	KATE	Morning.
+124	00:00:00,000 --> 00:00:00,000	SAWYER	Did you just throw a banana at me?
+126	00:00:00,000 --> 00:00:00,000	KATE	Couldn't find any rocks.
+128	00:00:00,000 --> 00:00:00,000	SAWYER	[smiling] There are nicer ways to wake a man up, Freckles.
+130	00:00:00,000 --> 00:00:00,000	KATE	Come on, it's time to go get your bandages changed.
+132	00:00:00,000 --> 00:00:00,000	SAWYER	Why can't you do it for me?
+134	00:00:00,000 --> 00:00:00,000	KATE	Because I'm not your nurse, and Jack's got the bandages.
+136	00:00:00,000 --> 00:00:00,000	SAWYER	Of course he does. [He struggles to stand up.] You want to give me a hand?
+138	00:00:00,000 --> 00:00:00,000		[Kate helps to pull him up and they stand very close together looking at each other.]
+140	00:00:00,000 --> 00:00:00,000	SAWYER	Thanks.
+142	00:00:00,000 --> 00:00:00,000	KATE	Come on.
+144	00:00:00,000 --> 00:00:00,000		[We see Kate and Sawyer arrive at the hatch, closing the air lock door behind them.]
+146	00:00:00,000 --> 00:00:00,000	SAWYER	This place still creeps me out.
+148	00:00:00,000 --> 00:00:00,000	KATE	You'll get used to it. Where is everybody? Jack! John!
+150	00:00:00,000 --> 00:00:00,000	SAWYER	Maybe they went out for ice cream.
+152	00:00:00,000 --> 00:00:00,000	KATE	[hearing some muffled cries] Shhh. [We hear Locke say "Kate" and pounding sounds.] Jack!
+154	00:00:00,000 --> 00:00:00,000	JACK	In here, in the armory. Michael locked us in here.
+156	00:00:00,000 --> 00:00:00,000	SAWYER	What'd he say?
+158	00:00:00,000 --> 00:00:00,000	KATE	[hearing the timer start to beep] I got it.
+160	00:00:00,000 --> 00:00:00,000	SAWYER	Hope you got the combo, Doc.
+162	00:00:00,000 --> 00:00:00,000	LOCKE	Right two times to 25.
+164	00:00:00,000 --> 00:00:00,000	SAWYER	25, got it.
+166	00:00:00,000 --> 00:00:00,000		[We see Kate enter the numbers and reset the timer.]
+168	00:00:00,000 --> 00:00:00,000	LOCKE	Left two times to 29. Right once to 40.
+170	00:00:00,000 --> 00:00:00,000	SAWYER	[opening the door] Howdy, boys.
+172	00:00:00,000 --> 00:00:00,000		[Jack hands Locke a gun.]
+174	00:00:00,000 --> 00:00:00,000	LOCKE	What are you doing, Jack?
+176	00:00:00,000 --> 00:00:00,000	JACK	Going after him. [He grabs a rifle and exits the gun vault].
+178	00:00:00,000 --> 00:00:00,000	SAWYER	Hey, what...? What happened?
+180	00:00:00,000 --> 00:00:00,000	LOCKE	Michael went after Walt.
+182	00:00:00,000 --> 00:00:00,000	SAWYER	Went after Walt?!
+184	00:00:00,000 --> 00:00:00,000	JACK	[putting supplies in a pack] Pulled a gun on me, put us both in there, and went after Walt. [Sawyer walks back to the vault.] Hey, what are you doing?
+186	00:00:00,000 --> 00:00:00,000	SAWYER	What does it look like? I'm coming with you.
+188	00:00:00,000 --> 00:00:00,000	JACK	You're still on antibiotics.
+190	00:00:00,000 --> 00:00:00,000	SAWYER	It's a good thing I'm traveling with my doctor, then.
+192	00:00:00,000 --> 00:00:00,000		[Flashback - We see Angelo unconscious on a bed. Jack is looking at some monitors, and Gabriela enters.]
+194	00:00:00,000 --> 00:00:00,000	GABRIELA	How is he?
+196	00:00:00,000 --> 00:00:00,000	JACK	I thought you'd gone home.
+198	00:00:00,000 --> 00:00:00,000	GABRIELA	My home is a hotel room. I like it more here.
+200	00:00:00,000 --> 00:00:00,000	JACK	I think you need to find a better hotel.
+202	00:00:00,000 --> 00:00:00,000	GABRIELA	You didn't answer my question.
+204	00:00:00,000 --> 00:00:00,000	JACK	His counts aren't where I'd like them to be.
+206	00:00:00,000 --> 00:00:00,000	GABRIELA	You've been doing tests for a month now, Jack.
+208	00:00:00,000 --> 00:00:00,000	JACK	I'm thorough.
+210	00:00:00,000 --> 00:00:00,000	GABRIELA	I have a confession to make. I don't believe in miracles.
+212	00:00:00,000 --> 00:00:00,000	JACK	Yeah, I guess I'm not too sure about them, either.
+214	00:00:00,000 --> 00:00:00,000	GABRIELA	I bet your wife feels differently. Your wife, she's the woman you fixed, isn't she?
+216	00:00:00,000 --> 00:00:00,000	JACK	Yes.
+218	00:00:00,000 --> 00:00:00,000	GABRIELA	I'm thorough, too. She must be a very special person to let you work until 4:30 in the morning.
+220	00:00:00,000 --> 00:00:00,000	JACK	[looking at his watch] I completely lost track of... I've got to... Will you excuse me?
+222	00:00:00,000 --> 00:00:00,000	GABRIELA	Yes, of course, go. And Jack, thank you.
+224	00:00:00,000 --> 00:00:00,000	JACK	Yeah, of course.
+226	00:00:00,000 --> 00:00:00,000	GABRIELA	Good night.
+228	00:00:00,000 --> 00:00:00,000	JACK	Good night.
+230	00:00:00,000 --> 00:00:00,000		[We see Sarah lying in bed in the dark with her eyes open as Jack arrives home.]
+232	00:00:00,000 --> 00:00:00,000	SARAH	Hey, how is he?
+234	00:00:00,000 --> 00:00:00,000	JACK	Hey, sorry to wake you.
+236	00:00:00,000 --> 00:00:00,000	SARAH	I had to get up anyway. So how is he?
+238	00:00:00,000 --> 00:00:00,000	JACK	About the same. Sarah, I'm sorry. I meant to... I just got...
+240	00:00:00,000 --> 00:00:00,000	SARAH	Hey, that's the price of being a miracle-worker. [She gets out of bed.]
+242	00:00:00,000 --> 00:00:00,000	JACK	Where are you going?
+244	00:00:00,000 --> 00:00:00,000	SARAH	I have to go to the gym and then I've got some papers to grade. [Jack gets into bed and she sits down near him.] I didn't want to say anything until I knew either way, but, um, I was late, so, I got a pregnancy test.
+246	00:00:00,000 --> 00:00:00,000		[Jack sits up and looks concerned.]
+248	00:00:00,000 --> 00:00:00,000	SARAH	Don't worry. It's negative.
+250	00:00:00,000 --> 00:00:00,000	JACK	Do you, um, want to talk about it?
+252	00:00:00,000 --> 00:00:00,000	SARAH	What's to talk about?
+254	00:00:00,000 --> 00:00:00,000	JACK	Sarah, I...
+256	00:00:00,000 --> 00:00:00,000	SARAH	See you later, Jack.
+258	00:00:00,000 --> 00:00:00,000		[On-Island - We see a footprint in the jungle, with Locke examining it.]
+260	00:00:00,000 --> 00:00:00,000	JACK	Well?
+262	00:00:00,000 --> 00:00:00,000	LOCKE	Well, I can't tell you it's definitely Michael's, but it looks like his boot print.
+264	00:00:00,000 --> 00:00:00,000	KATE	There's one over here, too.
+266	00:00:00,000 --> 00:00:00,000	LOCKE	That sounds like a trail.
+268	00:00:00,000 --> 00:00:00,000	KATE	[to Jack] You got a gun for me?
+270	00:00:00,000 --> 00:00:00,000	JACK	You're not coming.
+272	00:00:00,000 --> 00:00:00,000	KATE	Excuse me?
+274	00:00:00,000 --> 00:00:00,000	JACK	You're not coming. Someone has to be here to take care of the button.
+276	00:00:00,000 --> 00:00:00,000	KATE	So why should that person be me? I can track, carry a gun...
+278	00:00:00,000 --> 00:00:00,000	JACK	You're not coming! You're staying. Alright?
+280	00:00:00,000 --> 00:00:00,000		[Sawyer pulls the slide on his gun.]
+282	00:00:00,000 --> 00:00:00,000	JACK	[walking away] Let's go.
+284	00:00:00,000 --> 00:00:00,000		[Sawyer gives Kate an apologetic look and follows Jack.]
+286	00:00:00,000 --> 00:00:00,000		[We see the boys trekking through the jungle.]
+288	00:00:00,000 --> 00:00:00,000	SAWYER	What'd she do to you?
+290	00:00:00,000 --> 00:00:00,000	JACK	What?
+292	00:00:00,000 --> 00:00:00,000	SAWYER	Kate, what'd she do?
+294	00:00:00,000 --> 00:00:00,000	JACK	She didn't do anything.
+296	00:00:00,000 --> 00:00:00,000	SAWYER	Right, you're yelling at her because she wanted to help get Mike back makes a lot of sense.
+298	00:00:00,000 --> 00:00:00,000	JACK	Why don't you go back and see if I hurt her feelings?
+300	00:00:00,000 --> 00:00:00,000	SAWYER	I'm just saying.
+302	00:00:00,000 --> 00:00:00,000	JACK	Yeah, I know, you love her.
+304	00:00:00,000 --> 00:00:00,000	SAWYER	What'd you say?
+306	00:00:00,000 --> 00:00:00,000		[Locke stops and looks around.]
+308	00:00:00,000 --> 00:00:00,000	JACK	What?
+310	00:00:00,000 --> 00:00:00,000	LOCKE	[to Sawyer] Does any of this look familiar from when you were coming back?
+312	00:00:00,000 --> 00:00:00,000	SAWYER	Well, yeah, there's my favorite leaf. How could I forget this place?
+314	00:00:00,000 --> 00:00:00,000	JACK	[to Locke] What's wrong?
+316	00:00:00,000 --> 00:00:00,000	LOCKE	[to Sawyer] When you came across the island what side was the ocean on? [Sawyer looks around and points.] You came from the east, Michael's heading north.
+318	00:00:00,000 --> 00:00:00,000	SAWYER	What the hell's that supposed to mean?
+320	00:00:00,000 --> 00:00:00,000	JACK	It means he's not going back to where you came from. He's heading somewhere else.
+322	00:00:00,000 --> 00:00:00,000		[We see Kate talking to Hurley on the beach, with Jin looking on. Sun approaches with a hat.]
+324	00:00:00,000 --> 00:00:00,000	SUN	Ã¬ËœÂ¤Ã«Å Ëœ Ã­â€“â€¡Ã«Â³â€¢Ã¬ÂÂ´ Ã«â€žË†Ã«Â¬Â´ Ã«â€Â°ÃªÂ°â‚¬Ã¬â€ºÅ’Ã¬Å¡â€. [Subtitle: The sun's very strong today.]
+326	00:00:00,000 --> 00:00:00,000	JIN	Ã­â€¢â€žÃ¬Å¡â€ Ã¬â€”â€ Ã¬â€“Â´. [Subtitle: I don't need a hat.]
+328	00:00:00,000 --> 00:00:00,000	SUN	Ã¬â€¢Å’Ã¬â€¢â€žÃ¬Å¡â€. ÃªÂ·Â¸Ã«Å¾ËœÃ«Ââ€ž ÃªÂ·Â¸Ã«Æ’Â¥ Ã¬â€œÂ°ÃªÂ³ Ã¬Å¾Ë†Ã¬â€“Â´Ã¬Å¡â€. [Subtitle: I know. Just wear it.]
+330	00:00:00,000 --> 00:00:00,000	JIN	[indicating Jack and Hurley] Ã«Â¬Â´Ã¬Å Â¨ Ã¬ÂÂ¼Ã¬ÂÂ´ Ã¬Å¾Ë†Ã«â€šËœÃ«Â´Â. [Subtitle: I think something's wrong.]
+332	00:00:00,000 --> 00:00:00,000		[Kate and Hurley finish their conversation and Hurley walks toward Sun and Jin.]
+334	00:00:00,000 --> 00:00:00,000	SUN	Hello, Hurley.
+336	00:00:00,000 --> 00:00:00,000	HURLEY	Hey. Cool hat, dude. [Jin smirks]
+338	00:00:00,000 --> 00:00:00,000	SUN	Is Kate alright?
+340	00:00:00,000 --> 00:00:00,000	HURLEY	Uh, yeah. I guess Michael took off.
+342	00:00:00,000 --> 00:00:00,000	JIN	Ã«Â­ÂÃ«ÂÂ¼ÃªÂ³ Ã­â€¢ËœÃ«Å â€ ÃªÂ±Â°Ã¬â€¢Â¼? [Subtitle: What's he saying?]
+344	00:00:00,000 --> 00:00:00,000	SUN	What do you mean he took off?
+346	00:00:00,000 --> 00:00:00,000	HURLEY	He stole some guns and he went all commando. He said he was going after Walt. Later dudes, gotta get to the hatch.
+348	00:00:00,000 --> 00:00:00,000		[We see Jin putting supplies in a pack.]
+350	00:00:00,000 --> 00:00:00,000	SUN	Ã¬Â§â‚¬ÃªÂ¸Ë† Ã«Â­Â Ã­â€¢ËœÃ«Å â€ ÃªÂ±Â°Ã¬â€”ÂÃ¬Å¡â€? [Subtitle: What are you doing?]
+352	00:00:00,000 --> 00:00:00,000	JIN	ÃªÂ¸Ë†Ã«Â°Â© Ã«â€“Â Ã«â€šÂ¬Ã«â€¹Â¤Ã«â€¹Ë†ÃªÂ¹Å’ Ã¬Â¶Â©Ã«Â¶â€žÃ­Å¾Ë† Ã«â€Â°Ã«ÂÂ¼Ã¬Å¾Â¡Ã¬Ââ€ž Ã¬Ë†Ëœ Ã¬Å¾Ë†Ã¬Ââ€žÃªÂ±Â°Ã¬â€¢Â¼. [Subtitle: He said they just left. If I hurry I can catch up...]
+354	00:00:00,000 --> 00:00:00,000	SUN	Ã«â€¹Â¹Ã¬â€¹ Ã¬â€¢â€žÃ«Â¬Â´Ã«ÂÂ°Ã«Ââ€ž Ã«ÂªÂ» ÃªÂ°â‚¬Ã¬Å¡â€. [Subtitle: You're not going anywhere. [Jin starts to leave] Ã«ÂªÂ» ÃªÂ°â€žÃ«â€¹Â¤Ã«â€¹Ë†ÃªÂ¹Å’? Ã¬â€”Â¬ÃªÂ¸Â°Ã¬â€žÅ“ Ã­â€¢Å“ Ã«Â°Å“Ã¬Â§ÂÃ«Ââ€ž Ã¬â€ºâ‚¬Ã¬Â§ÂÃ¬ÂÂ´Ã¬Â§â‚¬ Ã«Â§Ë†! Ã«â€¹Â¹Ã¬â€¹Â Ã¬ÂÂ´ Ã«â€”ÂÃ«ÂªÂ© Ã­Æ’â‚¬ÃªÂ³ Ã«â€šËœÃªÂ°â€Ã¬Ââ€ž Ã«â€¢Å’... Ã«â€šÂ´ÃªÂ°â‚¬ Ã¬â€“Â¼Ã«Â§Ë†Ã«â€šËœ ÃªÂ±Â±Ã¬Â â€¢Ã­â€“Ë†Ã«Å â€ Ã¬Â¤â€ž Ã¬â€¢Å’Ã¬â€¢â€žÃ¬Å¡â€? Ã¬â€šÂ´Ã¬â€¢â€žÃ¬Å¾Ë†Ã«Å â€Ã¬Â§â‚¬, Ã¬Â£Â½Ã¬â€”Ë†Ã«Å â€Ã¬Â§â‚¬Ã«Ââ€ž Ã«ÂªÂ¨Ã«Â¥Â´ÃªÂ³Â ... Ã¬Â â€¢Ã«Â§Â Ã«Â¯Â¸Ã¬Â³ÂÃ«Â²â€žÃ«Â¦Â¬Ã«Å â€ Ã¬Â¤â€ž Ã¬â€¢Å’Ã¬â€¢ËœÃ¬â€“Â´! Ã«â€¹Â¤Ã¬â€¹Å“Ã«Å â€ ÃªÂ·Â¸Ã«Å¸Â¬ÃªÂ³ Ã¬â€¹Â¶Ã¬Â§â‚¬ Ã¬â€¢Å Ã¬â€¢â€žÃ¬Å¡â€. [Subtitle: Don't go! Don't walk away from me! While you were on that raft do you know how worried I was? I didn't know if you were dead or alive. I was out of my head. I won't go through that again.]
+356	00:00:00,000 --> 00:00:00,000	JIN	Ã«Â§Ë†Ã¬ÂÂ´Ã­ÂÂ´Ã¬Ââ‚¬ Ã«â€šÂ´ Ã¬Â¹Å“ÃªÂµÂ¬Ã¬â€¢Â¼. [Subtitle: Michael's my friend.]
+358	00:00:00,000 --> 00:00:00,000	SUN	Ã«â€šËœÃ«Å â€ Ã«â€¹Â¹Ã¬â€¹ Ã¬â€¢â€žÃ«â€šÂ´Ã¬â€”ÂÃ¬Å¡â€. [Subtitle: I'm your wife.]
+360	00:00:00,000 --> 00:00:00,000		[Jin puts down his pack.]
+362	00:00:00,000 --> 00:00:00,000		[We see Locke, Jack and Sawyer walking through the jungle.]
+364	00:00:00,000 --> 00:00:00,000	SAWYER	Hey, Doc, you want to slow down -- take a break a minute?
+366	00:00:00,000 --> 00:00:00,000	LOCKE	[stopping] Good idea.
+368	00:00:00,000 --> 00:00:00,000	JACK	He still heading north?
+370	00:00:00,000 --> 00:00:00,000	LOCKE	Yep.
+372	00:00:00,000 --> 00:00:00,000	JACK	Do you think he's lost?
+374	00:00:00,000 --> 00:00:00,000	LOCKE	Doesn't seem to be. Trail's as straight as the interstate. The path of a man who knows where he's going. [Locke stares at Jack a moment.] Where are you going, Jack?
+376	00:00:00,000 --> 00:00:00,000	JACK	What?
+378	00:00:00,000 --> 00:00:00,000	LOCKE	Well, let's say we catch up with him -- Michael. What are you going to do?
+380	00:00:00,000 --> 00:00:00,000	JACK	I'm going to bring him back.
+382	00:00:00,000 --> 00:00:00,000	LOCKE	What if he doesn't want to come back?
+384	00:00:00,000 --> 00:00:00,000	JACK	I'll talk him into coming back.
+386	00:00:00,000 --> 00:00:00,000	LOCKE	This is the second time he's gone after Walt. He knocked me out, he locked us both up. Something tells me he might be past listening to reason.
+388	00:00:00,000 --> 00:00:00,000	JACK	What? You think we should just let him go -- write him off?
+390	00:00:00,000 --> 00:00:00,000	LOCKE	Who are we to tell anyone what they can or can't do?
+392	00:00:00,000 --> 00:00:00,000		[Flashback - We see Jack giving Gabriela some papers to sign in his office.]
+394	00:00:00,000 --> 00:00:00,000	JACK	It's not too late to go back. The tumor's aggressive, but your father could lead a very normal life for at least another year.
+396	00:00:00,000 --> 00:00:00,000	GABRIELA	Go back? Go back where? Home? Have you changed your mind, Jack?
+398	00:00:00,000 --> 00:00:00,000	JACK	No. [then more intently] No.
+400	00:00:00,000 --> 00:00:00,000	GABRIELA	[signing] Is that it? Even if you don't succeed, you're giving us a chance. That's all we wanted.
+402	00:00:00,000 --> 00:00:00,000	JACK	I'll come out and check on you before I scrub in.
+404	00:00:00,000 --> 00:00:00,000	GABRIELA	Okay.
+406	00:00:00,000 --> 00:00:00,000		[Christian enters the room.]
+408	00:00:00,000 --> 00:00:00,000	CHRISTIAN	Am I interrupting?
+410	00:00:00,000 --> 00:00:00,000	GABRIELA	No, I was just leaving. [to Jack] I'll see you in the morning.
+412	00:00:00,000 --> 00:00:00,000	JACK	I'll see you in the morning. [Gabriela exits.]
+414	00:00:00,000 --> 00:00:00,000	CHRISTIAN	[handing Jack files] ITR reports need to be signed by you as Chief Resident.
+416	00:00:00,000 --> 00:00:00,000		[Jack notices Christian staring at him.]
+418	00:00:00,000 --> 00:00:00,000	JACK	What?
+420	00:00:00,000 --> 00:00:00,000	CHRISTIAN	Careful. There's a line, son. You know it's there. And pretending it's not -- that would be a mistake.
+422	00:00:00,000 --> 00:00:00,000	JACK	Guess you would know.
+424	00:00:00,000 --> 00:00:00,000	CHRISTIAN	It may be okay for some people, Jack. But not for you.
+426	00:00:00,000 --> 00:00:00,000		[On-Island - Jack, Locke and Sawyer use some vines to pull themselves up a steep slope.]
+428	00:00:00,000 --> 00:00:00,000	SAWYER	Are you sure Mike went this way?
+430	00:00:00,000 --> 00:00:00,000	LOCKE	Why do you ask?
+432	00:00:00,000 --> 00:00:00,000	SAWYER	Oh, I don't know, Mr. Clean, I probably would have gone around Mt. Vesuvius.
+434	00:00:00,000 --> 00:00:00,000	LOCKE	Why'd you pick that name?
+436	00:00:00,000 --> 00:00:00,000	SAWYER	Ain't it obvious? All you need's an earring and a mop.
+438	00:00:00,000 --> 00:00:00,000	LOCKE	No, your name. Why'd you pick Sawyer?
+440	00:00:00,000 --> 00:00:00,000	SAWYER	What do you mean, pick?
+442	00:00:00,000 --> 00:00:00,000	LOCKE	After the census Hurley gave me the flight manifest. Your name is James, right? James Ford.
+444	00:00:00,000 --> 00:00:00,000	SAWYER	What's it to you?
+446	00:00:00,000 --> 00:00:00,000	LOCKE	Just an interesting name to choose, is all. Who'd you get it from?
+448	00:00:00,000 --> 00:00:00,000	SAWYER	Who says I got it from anybody?
+450	00:00:00,000 --> 00:00:00,000		[Suddenly they hear gunfire.]
+452	00:00:00,000 --> 00:00:00,000	JACK	[yelling] Michael!
+454	00:00:00,000 --> 00:00:00,000	LOCKE	[whispering] Jack, get down.
+456	00:00:00,000 --> 00:00:00,000	JACK	[taking off running] Michael!
+458	00:00:00,000 --> 00:00:00,000	LOCKE	[following] Jack! Jack!
+460	00:00:00,000 --> 00:00:00,000		[We see Jack, Locke, and Sawyer running toward the location of the gunfire.]
+462	00:00:00,000 --> 00:00:00,000	JACK	Michael! [stopping] Michael!
+464	00:00:00,000 --> 00:00:00,000	LOCKE	[waving Jack to be quiet] Jack. [Locke sees something.]
+466	00:00:00,000 --> 00:00:00,000	JACK	What? [We see a bullet graze mark on a tree.] He's close.
+468	00:00:00,000 --> 00:00:00,000	LOCKE	Yeah, and if he was shooting at someone you want them coming back?
+470	00:00:00,000 --> 00:00:00,000	SAWYER	Personally, hell, yeah.
+472	00:00:00,000 --> 00:00:00,000	JACK	You said these people were two days across the island.
+474	00:00:00,000 --> 00:00:00,000	SAWYER	Yeah, and they took Cindy less than a mile from our camp.
+476	00:00:00,000 --> 00:00:00,000	LOCKE	Over here. [Locke finds some shell casings on the ground.]
+478	00:00:00,000 --> 00:00:00,000	JACK	Shell casings. How many?
+480	00:00:00,000 --> 00:00:00,000	LOCKE	3, Michael's.
+482	00:00:00,000 --> 00:00:00,000	SAWYER	You boys deaf? I heard at least 7 shot. You heard it, Daniel Boone, what's your count?
+484	00:00:00,000 --> 00:00:00,000	LOCKE	Yeah, 7 sounds about right.
+486	00:00:00,000 --> 00:00:00,000	SAWYER	It's getting dark. Which way did Mike go?
+488	00:00:00,000 --> 00:00:00,000		[Locke looks for the trail. Jack stares at Sawyer.]
+490	00:00:00,000 --> 00:00:00,000	SAWYER	What?
+492	00:00:00,000 --> 00:00:00,000	JACK	You out here for Michael, or -- is this pay back for getting shot?
+494	00:00:00,000 --> 00:00:00,000	SAWYER	Why are you out here, Doc? You got your reasons and I got mine.
+496	00:00:00,000 --> 00:00:00,000		[Flashback - We see Jack, dressed in scrubs, angrily banging against some lockers in a room in the hospital.]
+498	00:00:00,000 --> 00:00:00,000	CHRISTIAN	Jack. Jack!
+500	00:00:00,000 --> 00:00:00,000	JACK	I had it!
+502	00:00:00,000 --> 00:00:00,000	CHRISTIAN	I know, son.
+504	00:00:00,000 --> 00:00:00,000	JACK	I got it! I got it all! I mean, I had it!
+506	00:00:00,000 --> 00:00:00,000	CHRISTIAN	He was a sick old man on a table for 7 and half hours. His heart gave out. It's nobody's fault.
+508	00:00:00,000 --> 00:00:00,000	JACK	I've got to go tell her.
+510	00:00:00,000 --> 00:00:00,000	CHRISTIAN	Yeah, well, I've already done that. [Jack looks at him angrily.] Lest you forget, I am still Chief of Surgery.
+512	00:00:00,000 --> 00:00:00,000	JACK	Where is she?
+514	00:00:00,000 --> 00:00:00,000	CHRISTIAN	Maybe you should go home.
+516	00:00:00,000 --> 00:00:00,000	JACK	Where is she?
+518	00:00:00,000 --> 00:00:00,000	CHRISTIAN	She's gone. Jack, go home.
+520	00:00:00,000 --> 00:00:00,000		[We see Jack walking out to his car in the parking lot. Gabriela gets out of her car nearby.]
+522	00:00:00,000 --> 00:00:00,000	GABRIELA	Jack?
+524	00:00:00,000 --> 00:00:00,000	JACK	Gabriela, my father told me that you'd gone. I, uh -- I, uh --
+526	00:00:00,000 --> 00:00:00,000	GABRIELA	Thank you. Thank you for trying. [She starts crying.]
+528	00:00:00,000 --> 00:00:00,000	JACK	[hugging her] I'm so sorry. I'm sorry. I'm so sorry.
+530	00:00:00,000 --> 00:00:00,000		[They kiss and then Jack pulls away.]
+532	00:00:00,000 --> 00:00:00,000	GABRIELA	It's okay.
+534	00:00:00,000 --> 00:00:00,000	JACK	I, I'm... I can't. [He walks away.]
+536	00:00:00,000 --> 00:00:00,000		[On-Island - We see Jack lighting some torches.]
+538	00:00:00,000 --> 00:00:00,000	SAWYER	What do you mean you lost it?
+540	00:00:00,000 --> 00:00:00,000	LOCKE	He's a man, not a boar. The sign's more subtle. I need light to follow it.
+542	00:00:00,000 --> 00:00:00,000	JACK	[giving torches to Locke and Sawyer] Here, light.
+544	00:00:00,000 --> 00:00:00,000	LOCKE	I think we'd better head back.
+546	00:00:00,000 --> 00:00:00,000	SAWYER	What?
+548	00:00:00,000 --> 00:00:00,000	JACK	Just find the trail, John.
+550	00:00:00,000 --> 00:00:00,000	LOCKE	I've lost the trail.
+552	00:00:00,000 --> 00:00:00,000	JACK	You don't just lose a trail! You just don't want to find him.
+554	00:00:00,000 --> 00:00:00,000	LOCKE	Yeah, that's right, Jack. I've been running in the jungle toward the sound of gunfire because I don't care about Michael. [Locke starts walking away.]
+556	00:00:00,000 --> 00:00:00,000	JACK	Don't turn around on me, John.
+558	00:00:00,000 --> 00:00:00,000	LOCKE	You're not going to get him to come back and you know it.
+560	00:00:00,000 --> 00:00:00,000	JACK	You know what happens if we just turn around and go back? We're never going to see him again. And that's going to be on us -- on you, and on me.
+562	00:00:00,000 --> 00:00:00,000	TOM	[off camera at first] You're exactly right, Jack! But if I were you, I'd listen to Mr. Locke.
+564	00:00:00,000 --> 00:00:00,000		[Locke, Jack and Sawyer all have their guns drawn on Tom.]
+566	00:00:00,000 --> 00:00:00,000	JACK	Who are you?
+568	00:00:00,000 --> 00:00:00,000	SAWYER	He's the son-of-a-bitch that shot me on the raft. [Sawyer moves forward, looking like he's going to shoot.]
+570	00:00:00,000 --> 00:00:00,000	TOM	Why don't you point the gun down?
+572	00:00:00,000 --> 00:00:00,000		[Sawyer is suddenly shot, the bullet apparently grazing his ear or neck as he's not seriously hurt but his hand comes away with blood on it. Jack and Locke look around trying to figure out where the shooter is.]
+574	00:00:00,000 --> 00:00:00,000	TOM	It'd probably be best if we just keep our hands at our sides, gentlemen.
+576	00:00:00,000 --> 00:00:00,000	JACK	Where's Michael?
+578	00:00:00,000 --> 00:00:00,000	TOM	Don't worry about Michael. He's not going to find us.
+580	00:00:00,000 --> 00:00:00,000	JACK	What do you want?
+582	00:00:00,000 --> 00:00:00,000	TOM	Why don't you build us a fire, John? I think it's time we all had a talk.
+584	00:00:00,000 --> 00:00:00,000		[We see an album cover for Geronimo Jackson. Hurley and Charlie are looking through the albums in the hatch.]
+586	00:00:00,000 --> 00:00:00,000	HURLEY	Geronimo Jackson?
+588	00:00:00,000 --> 00:00:00,000	CHARLIE	Well, hooo, as an expert in all things musical -- I've never heard of these guys, shocking as that may be. Geronimo Jackson?
+590	00:00:00,000 --> 00:00:00,000	HURLEY	[holding a different album] This looks sweet. Let's give her a rip.
+592	00:00:00,000 --> 00:00:00,000		[Charlie puts the Geronimo Jackson record down and puts the other album on the turntable.]
+594	00:00:00,000 --> 00:00:00,000	HURLEY	So what do you think's the story with that Libby chick?
+596	00:00:00,000 --> 00:00:00,000	CHARLIE	The story?
+598	00:00:00,000 --> 00:00:00,000	HURLEY	She's kind of cute, right? You know, in a I've-been-terrorized-by-the-Others-for-40-days kind of way.
+600	00:00:00,000 --> 00:00:00,000	CHARLIE	Yeah, there is that.
+602	00:00:00,000 --> 00:00:00,000	HURLEY	I think I have a chance with her. I mean, it's the classic desert island scenario. If I ever had a shot, this is it.
+604	00:00:00,000 --> 00:00:00,000	CHARLIE	Do you think Claire's missed me yet?
+606	00:00:00,000 --> 00:00:00,000	HURLEY	Dude, it's been a day.
+608	00:00:00,000 --> 00:00:00,000	SAYID	[entering] This music is quite depressing.
+610	00:00:00,000 --> 00:00:00,000	HURLEY	We can change it, dude. Did you ever hear of Geronimo Jackson?
+612	00:00:00,000 --> 00:00:00,000	SAYID	I'm afraid not. Where's Jack and Locke?
+614	00:00:00,000 --> 00:00:00,000	HURLEY	Oh, they went after Michael.
+616	00:00:00,000 --> 00:00:00,000	SAYID	Michael?
+618	00:00:00,000 --> 00:00:00,000	CHARLIE	Yeah, he's run after Walt again. Everyone's gone to bring him back.
+620	00:00:00,000 --> 00:00:00,000	SAYID	Who's everyone?
+622	00:00:00,000 --> 00:00:00,000	HURLEY	Everyone -- Jack, Sawyer, Locke. Oh, and Kate.
+624	00:00:00,000 --> 00:00:00,000		[Jack, Sawyer, Locke and Mr. Friendly around a fire.]
+626	00:00:00,000 --> 00:00:00,000	TOM	Just sit down, Jack. Nobody's going to hurt you. I come in peace.
+628	00:00:00,000 --> 00:00:00,000	LOCKE	How do you know our names? [Mr. Friendly just smiles.]
+630	00:00:00,000 --> 00:00:00,000	JACK	You took Walt.
+632	00:00:00,000 --> 00:00:00,000	TOM	Walt's fine. He's a very special boy.
+634	00:00:00,000 --> 00:00:00,000	JACK	Look, you said you wanted to talk. Talk.
+636	00:00:00,000 --> 00:00:00,000	TOM	Let me ask you something. How long you been here on the island?
+638	00:00:00,000 --> 00:00:00,000	JACK	50 days.
+640	00:00:00,000 --> 00:00:00,000	TOM	Oooo, 50 days. That's what -- almost 2 whole months, huh? Tell me, you go over a man's house for the first time, do you take off your shoes? Do you put your feet up on his coffee table? Do you walk in the kitchen, eat food that doesn't belong to you? [He looks at Locke.] Open the door to rooms you got no business opening? You know, somebody a whole lot smarter than anybody here once said: "Since the dawn of our species man's been blessed with curiosity." You know the other one about curiosity don't you, Jack? This is not your island. This is our island. And the only reason you're living on it is because we let you live on it.
+642	00:00:00,000 --> 00:00:00,000	JACK	[smiling broadly] I don't believe you.
+644	00:00:00,000 --> 00:00:00,000	TOM	You don't believe what?
+646	00:00:00,000 --> 00:00:00,000	JACK	I think you've got one guy up there with a gun. I think there's more of us than there are of you. I think if you had any real strength, you wouldn't have had to send a spy -- Ethan.
+648	00:00:00,000 --> 00:00:00,000	TOM	That's an interesting theory. [suddenly yelling and raising his arms] Light 'em up!
+650	00:00:00,000 --> 00:00:00,000		[Torches are suddenly lit and the group is surrounded by at least 13 people just out of sight.]
+652	00:00:00,000 --> 00:00:00,000	TOM	We've got a misunderstanding, Jack -- your people, my people. So listen carefully. Right here, there's a line. You cross that line, we go from misunderstanding to something else. Now, give me your weapons, turn around, go home.
+654	00:00:00,000 --> 00:00:00,000	JACK	No.
+656	00:00:00,000 --> 00:00:00,000	LOCKE	Jack, maybe...
+658	00:00:00,000 --> 00:00:00,000	JACK	No!
+660	00:00:00,000 --> 00:00:00,000	TOM	I hoped it wouldn't come to this. [yelling] Bring her out, Alex!
+662	00:00:00,000 --> 00:00:00,000		[We see Kate, bound with a bag over her head shoved toward Mr. Friendly.]
+664	00:00:00,000 --> 00:00:00,000	TOM	She was following you. Like I said -- curiosity. [He pulls the bag off her head.]
+666	00:00:00,000 --> 00:00:00,000		[Jack looks angry. Sawyer makes a move toward them, but Mr. Friendly draws a gun and puts it to Kate's neck.]
+668	00:00:00,000 --> 00:00:00,000	TOM	Don't. -- Jack, the decision you gotta make right now is this -- can you live with the fact that I shot this woman right in front of you when you could have saved her life by giving up and going home? Or are you going to give me your guns, turn around and walk away. It's your call, Jack.
+670	00:00:00,000 --> 00:00:00,000	SAWYER	You touch a hair on her head, I'll...
+672	00:00:00,000 --> 00:00:00,000	TOM	Shut up! I'm going to count to 3. 1, 2...
+674	00:00:00,000 --> 00:00:00,000	JACK	Stop.
+676	00:00:00,000 --> 00:00:00,000		[Jack throws his weapons down.]
+678	00:00:00,000 --> 00:00:00,000	TOM	Now them.
+680	00:00:00,000 --> 00:00:00,000		[Locke throws his weapon down.]
+682	00:00:00,000 --> 00:00:00,000	TOM	Give me the other one, too.
+684	00:00:00,000 --> 00:00:00,000		[Locke takes a gun from his pocket and adds it to the pile.]
+686	00:00:00,000 --> 00:00:00,000	SAWYER	[to Tom] You and me ain't done, Zeke.
+688	00:00:00,000 --> 00:00:00,000		[Tom grabs the guns and lets Kate go. The torches go out simultaneously and Tom walks away. Sawyer unties Kate.]
+690	00:00:00,000 --> 00:00:00,000	KATE	Jack, I, uh...
+692	00:00:00,000 --> 00:00:00,000	JACK	[cold] You alright?
+694	00:00:00,000 --> 00:00:00,000	KATE	Yep.
+696	00:00:00,000 --> 00:00:00,000		[We see Jin sitting alone on the beach. Sun approaches and sits with him.]
+698	00:00:00,000 --> 00:00:00,000	SUN	Ã­ËœÂ¼Ã¬Å¾Â Ã¬â€”Â¬ÃªÂ¸Â°Ã¬â€žÅ“ Ã«Â­ÂÃ­â€¢Â´? [Subtitle: What are you doing out here alone?]
+700	00:00:00,000 --> 00:00:00,000	JIN	Ã¬Å¾Â Ã¬ÂÂ´ Ã¬ËœÂ¤Ã¬Â§â‚¬ Ã¬â€¢Å Ã¬â€¢â€žÃ¬â€žÅ“... [Subtitle: I couldn't sleep.]
+702	00:00:00,000 --> 00:00:00,000	SUN	Ã¬â€šÂ¬Ã«Å¾Å’Ã«â€œÂ¤Ã¬Ââ‚¬ Ã«ÂÅ’Ã¬â€¢â€ž Ã¬â„¢â€Ã¬â€“Â´Ã¬Å¡â€? [Subtitle: Are they back?]
+704	00:00:00,000 --> 00:00:00,000	JIN	Ã¬â€¢â€žÃ¬Â§Â... Ã¬Å¾ÂÃªÂ¸Â°Ã¬â€¢Â¼. Ã¬ÂÂ´Ã«Å¾ËœÃ«ÂÂ¼Ã¬Â â‚¬Ã«Å¾ËœÃ«ÂÂ¼ Ã­â€¢ËœÃ«Å â€ÃªÂ±Â° Ã«â€šÂ´ÃªÂ°â‚¬ Ã¬Â Å“Ã¬ÂÂ¼ Ã¬â€¹Â«Ã¬â€“Â´Ã­â€¢ËœÃ«Å â€ ÃªÂ±Â° Ã¬â€¢Å’Ã¬Â§â‚¬? [Subtitle: Not yet. Honey... I don't like being told what to do. ]
+706	00:00:00,000 --> 00:00:00,000	SUN	Ã¬Â§â‚¬Ã«â€šÅ“ 4Ã«â€¦â€ž Ã«Ââ„¢Ã¬â€¢Ë†, Ã«â€šÅ“ Ã­â€¢Â­Ã¬Æ’Â ÃªÂ·Â¸Ã«Â â€¡ÃªÂ²Å’ Ã¬â€šÂ´Ã¬â€¢â€žÃ¬â„¢â€Ã¬â€“Â´Ã¬Å¡â€. Ã«â€¹Â¹Ã¬â€¹Â Ã¬ÂÂ´ Ã¬â€¹Â«Ã¬Ââ‚¬ ÃªÂ²Æ’Ã¬Â²ËœÃ«Å¸Â¼, Ã«â€šËœÃ«Ââ€ž Ã¬â€¹Â«Ã¬â€“Â´. [Subtitle: Being told what to do was my life for four years... I didn't like it much either.]
+708	00:00:00,000 --> 00:00:00,000	JIN	ÃªÂ·Â¸Ã«Å¾Ëœ. Ã«â€¹Â¹Ã¬â€¹Â Ã«Ââ€ž ÃªÂ·Â¸Ã«Å¾Â¬Ã¬Ââ€ž ÃªÂ±Â°Ã¬â€¢Â¼. [Subtitle: Right. I don't suppose you did.] [Jin moves closer and puts his arm around her.]
+710	00:00:00,000 --> 00:00:00,000		[Jack, Sawyer, Locke and Kate walking back to camp.]
+712	00:00:00,000 --> 00:00:00,000	KATE	I was just trying to help, Jack. When you told me not to go, I just... I made a mistake. [Jack doesn't respond.] Hey, could you just talk to me for a second. -- I'm sorry.
+714	00:00:00,000 --> 00:00:00,000	JACK	Yeah, I'm sorry, too.
+716	00:00:00,000 --> 00:00:00,000		[Flashback - Jack arrives home to find Sarah clearing dishes from the table.]
+718	00:00:00,000 --> 00:00:00,000	JACK	Hey.
+720	00:00:00,000 --> 00:00:00,000	SARAH	Hey. How did it go?
+722	00:00:00,000 --> 00:00:00,000	JACK	He died.
+724	00:00:00,000 --> 00:00:00,000	SARAH	I'm sorry.
+726	00:00:00,000 --> 00:00:00,000	JACK	Yeah, me too. Who was over?
+728	00:00:00,000 --> 00:00:00,000	SARAH	My mom.
+730	00:00:00,000 --> 00:00:00,000	JACK	The bridge game okay?
+732	00:00:00,000 --> 00:00:00,000	SARAH	Oh yeah, she's on a streak. Did you eat?
+734	00:00:00,000 --> 00:00:00,000	JACK	Yeah. No, it's uh, it's late. I'm fine.
+736	00:00:00,000 --> 00:00:00,000		[Jack joins her at the sink to help with the dishes.]
+738	00:00:00,000 --> 00:00:00,000	SARAH	You don't have to do that.
+740	00:00:00,000 --> 00:00:00,000	JACK	It's therapeutic -- cheaper than a shrink.
+742	00:00:00,000 --> 00:00:00,000	SARAH	How did the daughter take it? What's her name, Gabriela?
+744	00:00:00,000 --> 00:00:00,000	JACK	She kissed me. Yeah, she... she kissed me and I kissed her back. I, I don't know. I don't know how it happened. I made a mistake. I made a mistake and this is my fault. It's my fault that you and me... I haven't been here. Sarah, I mean, we don't even talk anymore. I hate what's happening to us and I promise you that things are going to be different. I'm going to, I'm going to work less. I'm going to be here for you. Okay? I'm going to fix this. We're going to go back to the way things were. I'm going to fix this. I'm going to fix this.
+746	00:00:00,000 --> 00:00:00,000		[Jack hugs Sarah. She cries, but doesn't hug him back. She breaks away after a moment.]
+748	00:00:00,000 --> 00:00:00,000	SARAH	Jack. Jack, I'm leaving you.
+750	00:00:00,000 --> 00:00:00,000	JACK	What?
+752	00:00:00,000 --> 00:00:00,000	SARAH	I was already leaving you. That's why my mother was here. She was helping me pack. I've been seeing someone -- someone else. I have to... I can't stay.
+754	00:00:00,000 --> 00:00:00,000	JACK	Sarah.
+756	00:00:00,000 --> 00:00:00,000	SARAH	You, you will always need something to fix. -- Goodbye.
+758	00:00:00,000 --> 00:00:00,000		[We see Jack and the others arrive at the beach. Kate follows close behind Jack and wants to say something but he pays no attention and keeps walking. Kate stops, and Sawyer stops beside her.]
+760	00:00:00,000 --> 00:00:00,000	LOCKE	See ya, James.
+762	00:00:00,000 --> 00:00:00,000	SAWYER	[to Kate] Don't beat yourself up, Freckles. If he'd told me to stay behind, I'd have done the same damn thing.
+764	00:00:00,000 --> 00:00:00,000		[Locke walks by Claire who's holding a fussy Aaron.]
+766	00:00:00,000 --> 00:00:00,000	LOCKE	[to Aaron] What's the matter? What's the matter with your little foot? Hi. Hi.
+768	00:00:00,000 --> 00:00:00,000	CLAIRE	[to Aaron] Who's that? [The baby starts fussing more.]
+770	00:00:00,000 --> 00:00:00,000	LOCKE	Uh-oh, you don't like old Uncle Johnny.
+772	00:00:00,000 --> 00:00:00,000		[Charlie is looking on, disturbed.]
+774	00:00:00,000 --> 00:00:00,000	CLAIRE	What is he doing to your toe?
+776	00:00:00,000 --> 00:00:00,000		[Jack approaches Ana sitting near her shelter with Vincent.]
+778	00:00:00,000 --> 00:00:00,000	ANA	[to Vincent] Hey, go away. I barely have enough food to feed myself. [She cuts off a piece of mango and throws it so Vincent will chase it.] Here.
+780	00:00:00,000 --> 00:00:00,000	JACK	I see you found a new friend.
+782	00:00:00,000 --> 00:00:00,000	ANA	Progress. I hear you were out looking for Michael.
+784	00:00:00,000 --> 00:00:00,000	JACK	Yeah.
+786	00:00:00,000 --> 00:00:00,000	ANA	He ran off looking for his kid again? [Jack nods.] Not much you can do about that then.
+788	00:00:00,000 --> 00:00:00,000	JACK	Is it true that you killed one of them?
+790	00:00:00,000 --> 00:00:00,000	ANA	One of who?
+792	00:00:00,000 --> 00:00:00,000	JACK	Them. [Ana nods.] Sayid tells me that you're a cop.
+794	00:00:00,000 --> 00:00:00,000	ANA	I was a cop.
+796	00:00:00,000 --> 00:00:00,000	JACK	Can I ask you something?
+798	00:00:00,000 --> 00:00:00,000	ANA	Shoot.
+800	00:00:00,000 --> 00:00:00,000	JACK	How long do you think it would take to train an army?

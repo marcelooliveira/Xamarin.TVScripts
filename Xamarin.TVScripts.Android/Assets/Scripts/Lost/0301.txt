@@ -1,0 +1,265 @@
+A Tale of Two Cities
+2	00:00:00,000 --> 00:00:00,000	Written by	Damon Lindelof and J.J. Abrams
+4	00:00:00,000 --> 00:00:00,000	Directed by	Jack Bender
+6	00:00:00,000 --> 00:00:00,000		[Shot of an eye opening; we see a woman (only her hand) select a CD and put it in a player. The camera reveals her as a new character. She looks in a mirror and tries to smile as the song (Downtown by Petula Clark) starts to play. But she's obviously upset and almost starts to cry. She shakes it off and we hear an alarm beep. She runs to her smoking oven and pulls out a pan of burnt muffins, burning her hand in the process. Someone rings the doorbell and she opens the front door. We see an older women who notices a towel wrapped around the other woman's hand.]
+8	00:00:00,000 --> 00:00:00,000	JULIET	I burnt my hand -- and my muffins.
+10	00:00:00,000 --> 00:00:00,000		[They hear a noise and both look over to see someone working on the house. We can only see his legs.]
+12	00:00:00,000 --> 00:00:00,000	AMELIA	Still hasn't fixed your plumbing yet?
+14	00:00:00,000 --> 00:00:00,000	WORKER GUY	[still not fully visible] It's a work in progress.
+16	00:00:00,000 --> 00:00:00,000		[Scene switches back to inside the house, a little while later. We see a group of people sitting around the coffee table in the living room.]
+18	00:00:00,000 --> 00:00:00,000	ADAM	It's not even literature. It's popcorn.
+20	00:00:00,000 --> 00:00:00,000	AMELIA	And why isn't it literature, Adam? I'm dying to know.
+22	00:00:00,000 --> 00:00:00,000	ADAM	There's no metaphor. It's by-the-numbers religious hocum-pocum.
+24	00:00:00,000 --> 00:00:00,000	AMELIA	No metaphor?
+26	00:00:00,000 --> 00:00:00,000	ADAM	It's science-fiction -- now I know why Ben isn't here.
+28	00:00:00,000 --> 00:00:00,000	JULIET	Excuse me?
+30	00:00:00,000 --> 00:00:00,000	ADAM	I know the host picks the book; but seriously, Julie, he wouldn't read this in the damn bathroom.
+32	00:00:00,000 --> 00:00:00,000	JULIET	Well, Adam, I am the host and I do pick the book. And this is my favorite book. So I am absolutely thrilled that you can't stand it. Silly me for sinking so low as to select something that Ben wouldn't like. Here I am thinking that free will still actually exists on--
+34	00:00:00,000 --> 00:00:00,000		[Suddenly there is violent shaking like an earthquake. Everyone gets up.]
+36	00:00:00,000 --> 00:00:00,000	JULIET	The doorway -- get into the doorway.
+38	00:00:00,000 --> 00:00:00,000		[They all move to doorways and wait until the shaking stops. After it subsides we're outside and see everyone coming out of their homes. We see a brief shot of Ethan, discovering that he was the man working on Juliet's house. Then, we see the person we know as Henry Gale coming out of another house. Everyone looks up at the sky. They see a plane flying over which then breaks apart in mid-air and crashes.]
+40	00:00:00,000 --> 00:00:00,000	GALE	Goodwin, did you see where the tail landed?
+42	00:00:00,000 --> 00:00:00,000	GOODWIN	Yeah, probably in the water.
+44	00:00:00,000 --> 00:00:00,000	GALE	You run and you can make that shore line in an hour. Ethan, get up there to that fuselage. There may actually be survivors; and you're one of them. A passenger -- in shock -- come up with an adequate story if they ask. Stay quiet if they don't. Listen, learn, don't get involved. I want lists in 3 days. Go.
+46	00:00:00,000 --> 00:00:00,000		[Goodwin and Ethan run off. Henry notices Juliet standing nearby holding a Stephen King book.]
+48	00:00:00,000 --> 00:00:00,000	GALE	So I guess I'm out of the book club.
+50	00:00:00,000 --> 00:00:00,000		[The camera moves so that we can see a wider and wider shot of the Other's group of houses and how it's situated on the island.]
+52	00:00:00,000 --> 00:00:00,000		[Flashback - We see a shot of a pager, badge, and a crossword puzzle on a car seat. We hear Moonlight Serenade playing on the radio. The camera reveals Jack sitting in his car. He's watching some kids in a playground at a school when he notices Sarah approach a man who is carrying some art supplies. They talk and laugh as Jack stares moodily.]
+54	00:00:00,000 --> 00:00:00,000		[On-Island - we see Jack awaken to find himself lying on a metal platform. He peels off a band-aid and cotton ball that's covering a puncture wound in the crook of his arm. He unsuccessfully tries to open a door, and then tries to reach another area, but runs into a wall of reinforced glass which is one entire wall of his cell.]
+56	00:00:00,000 --> 00:00:00,000	JACK	[yelling] Kate! Kate, can you hear me?! Kate!
+58	00:00:00,000 --> 00:00:00,000		[Scene switches to water from a shower hitting the ground. We see Kate come to; and then Tom (Mr. Friendly) is revealed. They're in a sort of locker room.]
+60	00:00:00,000 --> 00:00:00,000	TOM	Rise and shine, Kate.
+62	00:00:00,000 --> 00:00:00,000	KATE	Where am I?
+64	00:00:00,000 --> 00:00:00,000	TOM	You don't really think I'm going to answer that, do you?
+66	00:00:00,000 --> 00:00:00,000	KATE	Where are Sawyer and Jack?
+68	00:00:00,000 --> 00:00:00,000	TOM	I'll tell you what, why don't you just take a nice hot shower -- wake yourself up -- wash the day off you and start fresh. There's a nice clean towel, soap, shampoo...
+70	00:00:00,000 --> 00:00:00,000	KATE	[defiantly] I'm not showering in front of you.
+72	00:00:00,000 --> 00:00:00,000	TOM	[laughing] Kate, you're not my type.
+74	00:00:00,000 --> 00:00:00,000		[Tom exits and we see Kate remove a band-aid and cotton ball from her arm, as well.]
+76	00:00:00,000 --> 00:00:00,000		[The scene switches to a shot of Sawyer lying on the ground outside, coming to. He looks up and sees he is in a cage. We see a building nearby and a long walkway with a DHARMA logo stenciled on the awning. The camera pans to show another man in a cage across from Sawyer's.]
+78	00:00:00,000 --> 00:00:00,000	SAWYER	Hey. [the guy looks over, but doesn't respond] Where are we? Who the hell are you? Oh, you ain't gonna talk to me? What -- you got more important things to do?
+80	00:00:00,000 --> 00:00:00,000		[Sawyer looks around the cage and sees a large circular "button" protruding from the one solid wall of the cage. Inside it are a white fork and knife under a plexiglass-type cover. We also see a couple of large levers in different parts of the cage and a chute that's near the "button". Sawyer pushes the button and a voice from a speaker says: Warning. Sawyer pushes the button again and the speaker again says: Warning. Sawyer is about to push the button a third time when...]
+82	00:00:00,000 --> 00:00:00,000	KARL	I wouldn't do that.
+84	00:00:00,000 --> 00:00:00,000	SAWYER	If I want your advice -- I'll ask for it.
+86	00:00:00,000 --> 00:00:00,000		[Sawyer pushes the button again and is shocked with electricity; he flies across the cage crashing in the bars.]
+88	00:00:00,000 --> 00:00:00,000	SAWYER	Son-of-a-bitch!!
+90	00:00:00,000 --> 00:00:00,000	KARL	Told you.
+92	00:00:00,000 --> 00:00:00,000		[Back in Jack's cell we see a red light flashing on a security-type camera. There is a long metal chain attached to ceiling of the cell and Jack tries pulling on it hoping to find a way out.]
+94	00:00:00,000 --> 00:00:00,000	UNKNOWN VOICE	Stop that.
+96	00:00:00,000 --> 00:00:00,000		[Jack looks and sees a women. We see that it's Juliet on the other side of the glass.]
+98	00:00:00,000 --> 00:00:00,000	JULIET	Hi, Jack. I'm Juliet.
+100	00:00:00,000 --> 00:00:00,000		[Flashback - We see Jack enter an office building and check-in with a receptionist.]
+102	00:00:00,000 --> 00:00:00,000	JACK	Hi, I'm Jack Shephard. I'm here...
+104	00:00:00,000 --> 00:00:00,000	SARAH	[from a couch behind Jack] Where's your lawyer?
+106	00:00:00,000 --> 00:00:00,000	JACK	[sitting with her] You look pretty.
+108	00:00:00,000 --> 00:00:00,000	SARAH	Where's your lawyer?
+110	00:00:00,000 --> 00:00:00,000	JACK	I fired him. Sarah, I'm sorry for, for pushing us to this place. I know that I...
+112	00:00:00,000 --> 00:00:00,000		[Sarah's cell phone rings.]
+114	00:00:00,000 --> 00:00:00,000	SARAH	Excuse me; I'm sorry. [she answers the call and walks a bit away] Yeah, um, no not yet. He just got here. [She laughs] I'll call you when I get home. [she goes back to the couch] Jack, I'm going to say this as simply as I can...
+116	00:00:00,000 --> 00:00:00,000	JACK	What's his name?
+118	00:00:00,000 --> 00:00:00,000	SARAH	Jack, stop it.
+120	00:00:00,000 --> 00:00:00,000	JACK	I'm not going to stop it. I'm going to keep asking you that until you tell me.
+122	00:00:00,000 --> 00:00:00,000	SARAH	No, I don't ask you what you do in your...
+124	00:00:00,000 --> 00:00:00,000	JACK	Just tell me what his name is! I want to know who he is. Look, you can have everything -- the cars, the house -- I don't care. I just -- I just want to know the name of the man that is with my wife.
+126	00:00:00,000 --> 00:00:00,000		[Sarah stares at him but doesn't respond. Finally, she gets up and leaves.]
+128	00:00:00,000 --> 00:00:00,000		[On-Island - We see Jack continuing to pull on the chain.]
+130	00:00:00,000 --> 00:00:00,000	JULIET	[turning up the volume on a sound board] Jack, can you hear me in there? [he continues yanking the chain] Is that a yes?
+132	00:00:00,000 --> 00:00:00,000	JACK	Where are my friends?
+134	00:00:00,000 --> 00:00:00,000	JULIET	Come down from the table first.
+136	00:00:00,000 --> 00:00:00,000	JACK	You want me to come down -- come in here and get me down.
+138	00:00:00,000 --> 00:00:00,000	JULIET	If you want to talk, I'm happy to...
+140	00:00:00,000 --> 00:00:00,000	JACK	Tell me where my friends are!!!
+142	00:00:00,000 --> 00:00:00,000	JULIET	I will -- if you let go of the chain.
+144	00:00:00,000 --> 00:00:00,000	JACK	You think I'm stupid?!
+146	00:00:00,000 --> 00:00:00,000	JULIET	I don't think you're stupid, Jack. I think you're stubborn.
+148	00:00:00,000 --> 00:00:00,000		[Jack continues pulling on the chain.]
+150	00:00:00,000 --> 00:00:00,000		[Scene switches to Kate showering. She exits the stall in a towel and discovers her clothes are missing.]
+152	00:00:00,000 --> 00:00:00,000	KATE	[calling out] Hey! Where are my clothes?!
+154	00:00:00,000 --> 00:00:00,000		[She notices a partially open locker door with a strip of masking tape across it that says: "Wear this." She pulls out a flowery sundress and put it on. Suddenly Tom appears.]
+156	00:00:00,000 --> 00:00:00,000	TOM	[whistles appreciatively at how nice Kate looks] Come on, Kate. He's waiting.
+158	00:00:00,000 --> 00:00:00,000		[Tom and three armed guards escort Kate through a covered walkway and to a beach where Henry is waiting under a thatch-roofed structure at a table laden with breakfast foods. Henry pulls out a chair for Kate. Kate sees a pair of handcuffs lying on the table.]
+160	00:00:00,000 --> 00:00:00,000	GALE	Sorry, I'm going to have to ask you to put those on, Kate.
+162	00:00:00,000 --> 00:00:00,000	KATE	And if I don't?
+164	00:00:00,000 --> 00:00:00,000	GALE	Then you don't get any coffee.
+166	00:00:00,000 --> 00:00:00,000		[Kate puts the cuffs on.]
+168	00:00:00,000 --> 00:00:00,000	GALE	A little tighter. [Kate gives a defiant look] Please.
+170	00:00:00,000 --> 00:00:00,000		[Kate makes the cuffs tighter.]
+172	00:00:00,000 --> 00:00:00,000	KATE	What did you do with Sawyer and Jack?
+174	00:00:00,000 --> 00:00:00,000	GALE	Now why Sawyer?
+176	00:00:00,000 --> 00:00:00,000	KATE	Why Sawyer what?
+178	00:00:00,000 --> 00:00:00,000	GALE	He's the first one you asked about. "What did you do with Sawyer and Jack?"
+180	00:00:00,000 --> 00:00:00,000	KATE	You don't know me.
+182	00:00:00,000 --> 00:00:00,000	GALE	Of course I don't.
+184	00:00:00,000 --> 00:00:00,000	KATE	I want my clothes back.
+186	00:00:00,000 --> 00:00:00,000	GALE	We burned them.
+188	00:00:00,000 --> 00:00:00,000	KATE	Why did you bring me here? Why did you make me put on this dress? Why are you feeding me breakfast?
+190	00:00:00,000 --> 00:00:00,000	GALE	I brought you here so you'd look out at the water and feel comforted -- comforted that your friends were looking out at the same ocean. I gave you the dress so that you'd feel like a lady. And I wanted you to eat your food with a real live fork and feel civilized. I did all those things so that you'd have something nice to hold on to. Because, Kate, the next two weeks are going to be very unpleasant.
+192	00:00:00,000 --> 00:00:00,000		[Flashback - We see Jack sitting in his office, talking on the phone.]
+194	00:00:00,000 --> 00:00:00,000	JACK	Yeah, hi. Uh, I met a woman on the train. Sarah. And she dropped her cell phone and I don't even know her last name. But your number was in her phone so I was just wondering... I'm sorry, forget it.
+196	00:00:00,000 --> 00:00:00,000		[Christian enters the office.]
+198	00:00:00,000 --> 00:00:00,000	CHRISTIAN	Hey.
+200	00:00:00,000 --> 00:00:00,000	JACK	Just give me a minute, Dad. [Christian walks toward Jack's desk] I asked you to give me a minute here.
+202	00:00:00,000 --> 00:00:00,000	CHRISTIAN	[indicating the list of phone numbers Jack has] What's this? Why are you dialing all the numbers on Sarah's cell phone?
+204	00:00:00,000 --> 00:00:00,000	JACK	[dialing another number] Because one of them is him.
+206	00:00:00,000 --> 00:00:00,000	CHRISTIAN	You've got to stop this, Jack. It's over.
+208	00:00:00,000 --> 00:00:00,000	JACK	Not until I know his name -- where he works, where he lives, when they first kissed. I want to know what it is about him.
+210	00:00:00,000 --> 00:00:00,000		[Christian's cell phone rings.]
+212	00:00:00,000 --> 00:00:00,000	JACK	Why is Sarah calling you, dad?
+214	00:00:00,000 --> 00:00:00,000	CHRISTIAN	I think it's time that you let this go.
+216	00:00:00,000 --> 00:00:00,000	JACK	Why is she calling you?!
+218	00:00:00,000 --> 00:00:00,000	CHRISTIAN	Because she was afraid -- for you.
+220	00:00:00,000 --> 00:00:00,000	JACK	[yelling] I want to know exactly why the hell she was calling...
+222	00:00:00,000 --> 00:00:00,000	CHRISTIAN	She could see that you were slipping -- you were losing your grip.
+224	00:00:00,000 --> 00:00:00,000	JACK	My grip is not the problem here!
+226	00:00:00,000 --> 00:00:00,000	CHRISTIAN	Which is exactly what's happening here! Jack, I think I know a little something about being obsessive.
+228	00:00:00,000 --> 00:00:00,000	JACK	No, being a drunk is not obsessive.
+230	00:00:00,000 --> 00:00:00,000	CHRISTIAN	[exiting] Let it go, Jack.
+232	00:00:00,000 --> 00:00:00,000		[On-Island - Jack is letting some water from the ceiling drip into his mouth. He quickly spits it out. He hears a lot of static on a speaker.]
+234	00:00:00,000 --> 00:00:00,000	JACK	[to the speaker] What? If you're trying to talk to me, I can't hear you.
+236	00:00:00,000 --> 00:00:00,000		[Jack hears the voice of his father come over the speaker: Let it go, Jack. A light suddenly comes on and we see Juliet with a tray of food and water.]
+238	00:00:00,000 --> 00:00:00,000	JULIET	I know you're hungry. I brought this for you. This is how it will work. You sit there across from the door, back against the wall. I open the door and leave the tray. Can I trust you to do that, Jack?
+240	00:00:00,000 --> 00:00:00,000	JACK	I don't want your food.
+242	00:00:00,000 --> 00:00:00,000	JULIET	Well, it's a delicious sandwich...
+244	00:00:00,000 --> 00:00:00,000	JACK	I want you to tell the guy who's trying to talk to me through that intercom that he can give it up.
+246	00:00:00,000 --> 00:00:00,000	JULIET	Maybe you're hungrier than you think. That intercom hasn't worked in years.
+248	00:00:00,000 --> 00:00:00,000	JACK	[pointing to button behind Juliet] What's that for -- the button -- what's it for?
+250	00:00:00,000 --> 00:00:00,000	JULIET	It's for emergencies.
+252	00:00:00,000 --> 00:00:00,000	JACK	Who's watching me?
+254	00:00:00,000 --> 00:00:00,000	JULIET	Are you going to sit against the wall so I can open the door? [we get a shot of a grilled cheese sandwich] It's just off the frying pan.
+256	00:00:00,000 --> 00:00:00,000	JACK	You can have it.
+258	00:00:00,000 --> 00:00:00,000	JULIET	What do you do, Jack? What's your profession?
+260	00:00:00,000 --> 00:00:00,000	JACK	I'm a repo man. You know, when people don't pay their bills I go in for the bank and I collect their possessions. I'm a people person so I really love it.
+262	00:00:00,000 --> 00:00:00,000	JULIET	Are you married?
+264	00:00:00,000 --> 00:00:00,000	JACK	No. I never saw the point. What about you? What's your job, besides making sandwiches?
+266	00:00:00,000 --> 00:00:00,000	JULIET	Oh, I didn't make it. I just put the toothpicks in. When your plane crashed, where were you flying from?
+268	00:00:00,000 --> 00:00:00,000	JACK	Sydney.
+270	00:00:00,000 --> 00:00:00,000	JULIET	What were you doing there?
+272	00:00:00,000 --> 00:00:00,000	JACK	I was bringing my father home.
+274	00:00:00,000 --> 00:00:00,000	JULIET	Why would you go all the way to Australia just to...
+276	00:00:00,000 --> 00:00:00,000	JACK	Because he was dead.
+278	00:00:00,000 --> 00:00:00,000	JULIET	I'm sorry.
+280	00:00:00,000 --> 00:00:00,000	JACK	[laughing] Yeah, I'm sure you are. Thanks.
+282	00:00:00,000 --> 00:00:00,000	JULIET	You can trust me, Jack. I'm not going to hurt you.
+284	00:00:00,000 --> 00:00:00,000	JACK	What the hell is going on here?
+286	00:00:00,000 --> 00:00:00,000		[Juliet exits, taking a bite of the sandwich before she goes.]
+288	00:00:00,000 --> 00:00:00,000		[We see Sawyer trying to work out the lever-puzzle in the cage.]
+290	00:00:00,000 --> 00:00:00,000	KARL	Hey. Hey, how long would it take to get to your camp?
+292	00:00:00,000 --> 00:00:00,000	SAWYER	What, you talking to me now, Chachi?
+294	00:00:00,000 --> 00:00:00,000	KARL	From where they got you, how long a walk was it? A day, two days? And what are the people like from your plane?
+296	00:00:00,000 --> 00:00:00,000	SAWYER	Oh, they're just awesome. [we see Karl picking the lock to his cage while Sawyer's busy on the puzzle] Last one of you boys came for a visit got tortured by our Iraqi. He tortured me, too. But hell, he don't know any better.
+298	00:00:00,000 --> 00:00:00,000		[Sawyer turns and is surprised to see Karl's cage door open. We hear a loudspeaker say: Subject escaped; subject escaped. Karl suddenly comes into frame right in front of Sawyer, and then starts picking the lock to Sawyer's cage.]
+300	00:00:00,000 --> 00:00:00,000	SAWYER	Hey, how'd you get out of there?
+302	00:00:00,000 --> 00:00:00,000	KARL	[opening the door and pointing] Run that way.
+304	00:00:00,000 --> 00:00:00,000	SAWYER	Hold on!
+306	00:00:00,000 --> 00:00:00,000	KARL	You run that way!
+308	00:00:00,000 --> 00:00:00,000		[Sawyer starts running as Karl runs in the other direction. Sawyer stops and tries to get his bearings. Suddenly Juliet appears.]
+310	00:00:00,000 --> 00:00:00,000	JULIET	Hey.
+312	00:00:00,000 --> 00:00:00,000		[She smiles, then pulls a Taser-like device and shoots Sawyer in the neck with a dart that immediately drops him. We see Sawyer being dragged back to his cage by Tom and another man. Once Sawyer is back in his cage, Tom drags Karl to Sawyer's cage and shoves his face up to the bars.]
+314	00:00:00,000 --> 00:00:00,000	TOM	Say it. Say it, Karl.
+316	00:00:00,000 --> 00:00:00,000	KARL	I'm sorry. Sorry, I involved you in my break out attempt.
+318	00:00:00,000 --> 00:00:00,000		[We see Jack sitting in his cell. Juliet enters the outer area with a tray of food and water.]
+320	00:00:00,000 --> 00:00:00,000	JULIET	The drugs we gave you when we brought you here have a pretty serious side-effect -- dehydration. Your head is probably sore, your throat is raw. If you don't eat or drink something soon you're going to start hallucinating.
+322	00:00:00,000 --> 00:00:00,000	JACK	So, you're a doctor, huh?
+324	00:00:00,000 --> 00:00:00,000	JULIET	No, I'm a repo woman. No strings attached. You don't have to answer any questions. You don't have to do anything but sit with your back up against the far wall. Let me open that door, put the plate down and leave. I know it feels like you're giving up, like you're losing, if you do anything that I ask you to. But you're not. You need to eat. What do you say?
+326	00:00:00,000 --> 00:00:00,000		[Jack slowly moves to the far wall and sits.]
+328	00:00:00,000 --> 00:00:00,000	JULIET	Thank you, Jack.
+330	00:00:00,000 --> 00:00:00,000		[Juliet exits her side of the room.]
+332	00:00:00,000 --> 00:00:00,000		[Flashback - We see Jack at the hospital in a patient's room with a nurse. His father is in the hall in the background.]
+334	00:00:00,000 --> 00:00:00,000	JACK	[to the nurse] Let's take out the epidural catheter and get him started on a PCA.
+336	00:00:00,000 --> 00:00:00,000		[Jack sees his father take a call from his cell.]
+338	00:00:00,000 --> 00:00:00,000	NURSE	You sure he's ready to self-administer his pain meds?
+340	00:00:00,000 --> 00:00:00,000		[Jack is so intent on his father, who he sees talking and laughing on the phone, that he doesn't respond to the nurse.]
+342	00:00:00,000 --> 00:00:00,000	NURSE	Dr. Shephard...
+344	00:00:00,000 --> 00:00:00,000		[We see Christian pull up in front of a hotel. Jack is right behind and follows him into a room. He enters and finds Christian getting some coffee in a small conference room.]
+346	00:00:00,000 --> 00:00:00,000	CHRISTIAN	Jack?
+348	00:00:00,000 --> 00:00:00,000	JACK	Give me your cell phone.
+350	00:00:00,000 --> 00:00:00,000	CHRISTIAN	What? What?
+352	00:00:00,000 --> 00:00:00,000	JACK	I want to see it. Now.
+354	00:00:00,000 --> 00:00:00,000	CHRISTIAN	Look where you are, Jack. I mean, just look around you, please.
+356	00:00:00,000 --> 00:00:00,000	JACK	Give me the phone.
+358	00:00:00,000 --> 00:00:00,000	CHRISTIAN	This is not the place for this.
+360	00:00:00,000 --> 00:00:00,000	MODERATOR	You must be Jack. Why don't you grab a chair and join us?
+362	00:00:00,000 --> 00:00:00,000	JACK	You know me?
+364	00:00:00,000 --> 00:00:00,000	MODERATOR	Yes, your father's told us all about you.
+366	00:00:00,000 --> 00:00:00,000	JACK	Yeah, what's he told you about me? What did you tell them about me, dad? That your son never really had it -- not like the old man. I didn't have the will to make it work? My life, my job, my marriage. What did you tell them about my marriage, dad?!! You want to know how he manages his marriage? A bottle of scotch every night before dinner.
+368	00:00:00,000 --> 00:00:00,000	MODERATOR	Your father has been sober 50 days now. We're very proud of that.
+370	00:00:00,000 --> 00:00:00,000	JACK	[laughing] Wow, dad, I wonder what helped you turn that corner? Do you think maybe it was a new lady friend? Do you think maybe that's what...
+372	00:00:00,000 --> 00:00:00,000	CHRISTIAN	I will not let you you talk to me...
+374	00:00:00,000 --> 00:00:00,000	JACK	I will not let you sleep with my wife.
+376	00:00:00,000 --> 00:00:00,000	CHRISTIAN	Oh, Jack. Jack, I'm your father. Jack, please just let it go.
+378	00:00:00,000 --> 00:00:00,000		[Jack suddenly runs at Christian and tackles him.]
+380	00:00:00,000 --> 00:00:00,000		[On-Island - We see Jack in his cell. Juliet starts to enter and Jack runs at her. He takes the taser/dart weapon, and puts a sharp piece of broken plate to her throat.]
+382	00:00:00,000 --> 00:00:00,000	JACK	Which way out?
+384	00:00:00,000 --> 00:00:00,000	JULIET	Don't do this, Jack. Don't. Don't.
+386	00:00:00,000 --> 00:00:00,000		[He drags her to a hatch-like door with a wheel lock.]
+388	00:00:00,000 --> 00:00:00,000	JACK	Open the door.
+390	00:00:00,000 --> 00:00:00,000	JULIET	No. I can't. I can't, Jack. I do that -- we die. I'm not. I'm not.
+392	00:00:00,000 --> 00:00:00,000	JACK	Open the door!!
+394	00:00:00,000 --> 00:00:00,000	JULIET	I can't! I swear I can't!!
+396	00:00:00,000 --> 00:00:00,000	GALE	[appearing] She's telling the truth, Jack.
+398	00:00:00,000 --> 00:00:00,000	JACK	I swear to god, I will kill her.
+400	00:00:00,000 --> 00:00:00,000	GALE	Okay. Have her open the door and she dies anyway. We all do.
+402	00:00:00,000 --> 00:00:00,000		[Jack pushes Juliet away and starts to open the door. Henry and Juliet start running. Henry runs out a door and quickly closes it behind him, leaving Juliet in the same area as Jack. We hear a loud creaking sound and suddenly a huge gush water pushes the door in and throws Jack backward. Juliet grabs onto a pipe and grabs Jack.]
+404	00:00:00,000 --> 00:00:00,000	JULIET	Jack, over here!
+406	00:00:00,000 --> 00:00:00,000		[Together they push the door closed.]
+408	00:00:00,000 --> 00:00:00,000	JULIET	The button!
+410	00:00:00,000 --> 00:00:00,000	JACK	What?
+412	00:00:00,000 --> 00:00:00,000	JULIET	The yellow button, the button!!
+414	00:00:00,000 --> 00:00:00,000		[Jack pushes the button and when he turns around Juliet clocks him, knocking him out.]
+416	00:00:00,000 --> 00:00:00,000		[We see Sawyer stretching to reach a rock outside of the cage. He grabs the rock and places it on one of the levers. He throws his shoe at another lever. Sawyer has figured out the puzzle. A congratulatory song plays through the speaker and a voice says: Reward, reward. We see a large fish-shaped cracker drop down the chute.]
+418	00:00:00,000 --> 00:00:00,000	SAWYER	[picking up the cracker] Oh, come on. Unbelievable.
+420	00:00:00,000 --> 00:00:00,000		[A pile of food pellets then drop down the chute. Sawyer takes a bite of the cracker, and water starts coming out of a pipe. Sawyer drinks.]
+422	00:00:00,000 --> 00:00:00,000	TOM	[off camera] Keep moving.
+424	00:00:00,000 --> 00:00:00,000		[We see Kate being led to the cage Karl used to occupy.]
+426	00:00:00,000 --> 00:00:00,000	TOM	Stick your arms out through the bars; I'll take off your cuffs. They scratched you up pretty bad, didn't they? I'll bring you some anti-septic later.
+428	00:00:00,000 --> 00:00:00,000	SAWYER	How about you bring me an ottoman? While you're at it I could use a blow dry.
+430	00:00:00,000 --> 00:00:00,000	TOM	Hey, you got yourself a fish biscuit. How'd you do that?
+432	00:00:00,000 --> 00:00:00,000	SAWYER	I figured out your complicated gizmos, that's how.
+434	00:00:00,000 --> 00:00:00,000	TOM	[exiting] Only took the bears 2 hours.
+436	00:00:00,000 --> 00:00:00,000	SAWYER	[calling after Tom] How many of them were there? [to Kate] You okay, Freckles?
+438	00:00:00,000 --> 00:00:00,000	KATE	[looking terrified, but trying to be tough] Yeah. You?
+440	00:00:00,000 --> 00:00:00,000	SAWYER	Just swell. I requested that cage, but whatever. Nice dress.
+442	00:00:00,000 --> 00:00:00,000	KATE	They made me wear it.
+444	00:00:00,000 --> 00:00:00,000	SAWYER	You hungry?
+446	00:00:00,000 --> 00:00:00,000		[Sawyer tosses her the fish biscuit and she hungrily takes a bite.]
+448	00:00:00,000 --> 00:00:00,000		[We see Jack in his cell and hear some whale-like sounds. Juliet is sitting at a desk looking at some papers in a file.]
+450	00:00:00,000 --> 00:00:00,000	JACK	It's an aquarium.
+452	00:00:00,000 --> 00:00:00,000	JULIET	Excuse me?
+454	00:00:00,000 --> 00:00:00,000	JACK	This thing's for what -- sharks?
+456	00:00:00,000 --> 00:00:00,000	JULIET	Dolphins, too.
+458	00:00:00,000 --> 00:00:00,000	JACK	We're underwater, aren't we?
+460	00:00:00,000 --> 00:00:00,000	JULIET	Yes.
+462	00:00:00,000 --> 00:00:00,000	JACK	Is this one of their stations -- the DHARMA Initiative?
+464	00:00:00,000 --> 00:00:00,000	JULIET	They called it the Hydra.
+466	00:00:00,000 --> 00:00:00,000	JACK	So you people are just whatever's leftover of them.
+468	00:00:00,000 --> 00:00:00,000	JULIET	Well, that was a long time ago. It doesn't matter who we were. It only matters who we are. We know exactly who you are, Jack Shephard.
+470	00:00:00,000 --> 00:00:00,000	JACK	You don't know anything about me.
+472	00:00:00,000 --> 00:00:00,000	JULIET	We know that you're a spinal surgeon based out of St. Sebastian's Hospital in Los Angeles. I know that you went to Columbia and that you graduated med school a year faster than anyone else. I know that you were married only once and that you contested the divorce. I know your father died in Sydney. I know this because I have a copy of his autopsy report.
+474	00:00:00,000 --> 00:00:00,000	JACK	How did you get...
+476	00:00:00,000 --> 00:00:00,000	JULIET	We got it.
+478	00:00:00,000 --> 00:00:00,000	JACK	[referring to the file Juliet has] What is that?
+480	00:00:00,000 --> 00:00:00,000	JULIET	This, Jack, is your life.
+482	00:00:00,000 --> 00:00:00,000	JACK	Do you -- is it just about me or is it about my family, too -- my friends.
+484	00:00:00,000 --> 00:00:00,000	JULIET	It's pretty much about everything.
+486	00:00:00,000 --> 00:00:00,000	JACK	Do you know about my -- about my ex-wife.
+488	00:00:00,000 --> 00:00:00,000	JULIET	Sarah. Yes, Jack, we know all about her. What would you like to find out?
+490	00:00:00,000 --> 00:00:00,000		[Flashback - We see Jack in a jail cell.]
+492	00:00:00,000 --> 00:00:00,000	GUARD	[opening the door] Shephard, someone posted your bail.
+494	00:00:00,000 --> 00:00:00,000		[Jack walks around a corner in the jail, putting his wedding ring back on, and sees Sarah waiting.]
+496	00:00:00,000 --> 00:00:00,000	JACK	How'd you, uh...
+498	00:00:00,000 --> 00:00:00,000	SARAH	Your dad told me you were here. I called you a cab. So, um, goodbye. [she exits]
+500	00:00:00,000 --> 00:00:00,000	JACK	[following her out] Sarah!
+502	00:00:00,000 --> 00:00:00,000	SARAH	What?!
+504	00:00:00,000 --> 00:00:00,000	JACK	Is that him? [referring to a man waiting by a car across the street]
+506	00:00:00,000 --> 00:00:00,000	SARAH	What difference does it make?
+508	00:00:00,000 --> 00:00:00,000	JACK	It just does.
+510	00:00:00,000 --> 00:00:00,000	SARAH	It's not going to change anything.
+512	00:00:00,000 --> 00:00:00,000	JACK	Look, I want to know! I need to know who he is.
+514	00:00:00,000 --> 00:00:00,000	SARAH	It doesn't matter who he is. It just matters who you're not. Jack, your father -- he called me to help you. He was so drunk I could hardly understand him. Look at the bright side. Now you have something to fix.
+516	00:00:00,000 --> 00:00:00,000		[On-Island - We're still with Jack and Juliet.]
+518	00:00:00,000 --> 00:00:00,000	JULIET	Jack. Jack. What would you like to find out?
+520	00:00:00,000 --> 00:00:00,000	JACK	Is she -- is she happy?
+522	00:00:00,000 --> 00:00:00,000	JULIET	Yes, Jack, she's very happy. Now, I'd like to bring you some food and water. But this time I need to know that you'll behave. Can I trust you, Jack? Put your back against the wall, please.
+524	00:00:00,000 --> 00:00:00,000		[Jack moves to the far wall and sits down. Juliet exits without giving Jack any food. We see Henry waiting for her.]
+526	00:00:00,000 --> 00:00:00,000	GALE	Good work, Juliet.
+528	00:00:00,000 --> 00:00:00,000	JULIET	Thank you, Ben.

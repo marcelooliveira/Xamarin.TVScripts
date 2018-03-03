@@ -1,0 +1,433 @@
+Happily Ever After
+2	00:00:00,000 --> 00:00:00,000	Written by	Damon Lindelof & Carlton Cuse
+4	00:00:00,000 --> 00:00:00,000	Directed by	Jack Bender
+6	00:00:00,000 --> 00:00:00,000		[On-Island - Desmond is in a Hospital bed at a Dharma facility. Zoe is adjusting his I.V. drip control.]
+8	00:00:00,000 --> 00:00:00,000	ZOE	Mr. Hume, my name is Zoe. I know you're disoriented, you've been unconscious for the last three days. But you're off the I.V. sedation now, and I've just given you a shot to help you wake up.
+10	00:00:00,000 --> 00:00:00,000	DESMOND	Are you a nurse?
+12	00:00:00,000 --> 00:00:00,000	ZOE	You're not in the hospital anymore Mr. Hume, we had to move you.
+14	00:00:00,000 --> 00:00:00,000	DESMOND	What, move me? Move me where? Where's my wife?
+16	00:00:00,000 --> 00:00:00,000		[Desmond sits up in bed.]
+18	00:00:00,000 --> 00:00:00,000	ZOE	No, wait Mr.-Mr.-No, you shouldn't, you shouldn't--
+20	00:00:00,000 --> 00:00:00,000	DESMOND	I want to see Penny.
+22	00:00:00,000 --> 00:00:00,000	WIDMORE	I'm afraid that's not going to be possible, Desmond.
+24	00:00:00,000 --> 00:00:00,000	DESMOND	[scoffs] You.
+26	00:00:00,000 --> 00:00:00,000		[Desmond groans.]
+28	00:00:00,000 --> 00:00:00,000	WIDMORE	Easy, Easy. I'll take it from here.
+30	00:00:00,000 --> 00:00:00,000		[Zoe leaves.]
+32	00:00:00,000 --> 00:00:00,000	WIDMORE	Desmond--
+34	00:00:00,000 --> 00:00:00,000	DESMOND	What happened to me? Where am I?
+36	00:00:00,000 --> 00:00:00,000	WIDMORE	You were shot. By Benjamin Linus. Do you remember that?
+38	00:00:00,000 --> 00:00:00,000	DESMOND	Yes, I remember. Look I want to talk to Penny. Penny!
+40	00:00:00,000 --> 00:00:00,000	WIDMORE	She's not here. But I assure you both she and your son are perfectly safe. I'm really sorry for taking you away from them but...I didn't have a chance to explain. And...if I had, you never would've come with me.
+42	00:00:00,000 --> 00:00:00,000	DESMOND	Come with you? Come with you where?
+44	00:00:00,000 --> 00:00:00,000	WIDMORE	I brought you back to the Island. I can't imagine how you must be feeling. But if you'll give me a chance to explain--
+46	00:00:00,000 --> 00:00:00,000		[Desmond leaps out of bed and begins bashing Widmore with the I.V. drip stand. Two of Widmore's men rush in and restrain Desmond.]
+48	00:00:00,000 --> 00:00:00,000	WIDMORE	Damn it! Don't hurt him.
+50	00:00:00,000 --> 00:00:00,000	DESMOND	You take me back! You take me back right now, you hear?!
+52	00:00:00,000 --> 00:00:00,000	WIDMORE	I can't take you back. The Island isn't done with you yet.
+54	00:00:00,000 --> 00:00:00,000		[Desmond yells. Widmore leaves the room. Jin and Zoe are in the corridor.]
+56	00:00:00,000 --> 00:00:00,000	JIN	What is Desmond doing here?
+58	00:00:00,000 --> 00:00:00,000	WIDMORE	It would be easier for me to show you, than to tell you, Mr. Kwon. [to Zoe] Take him with you to the generator room. I'll be along with Hume so we can start the test.
+60	00:00:00,000 --> 00:00:00,000	ZOE	Charles, th-that test isn't scheduled until tomorrow.
+62	00:00:00,000 --> 00:00:00,000	WIDMORE	I know when it's scheduled. Get them ready now.
+64	00:00:00,000 --> 00:00:00,000		[Zoe and Jin walk towards the generator room. Jin looks around at some large electrical equipment.]
+66	00:00:00,000 --> 00:00:00,000	ZOE	Come on, no time for sightseeing.
+68	00:00:00,000 --> 00:00:00,000		[The enter the control room. Various personnel are working on equipment, including Seamus.]
+70	00:00:00,000 --> 00:00:00,000	ZOE	They're bringing Hume down now.
+72	00:00:00,000 --> 00:00:00,000	SEAMUS	What?
+74	00:00:00,000 --> 00:00:00,000	ZOE	You heard me, we are go right now. What's your timeframe?
+76	00:00:00,000 --> 00:00:00,000	SEAMUS	We're not even close to being ready! This generator probably hasn't run in twenty years. How am I supposed--
+78	00:00:00,000 --> 00:00:00,000	ZOE	Widmore doesn't want to wait.
+80	00:00:00,000 --> 00:00:00,000	JIN	What are you doing here?
+82	00:00:00,000 --> 00:00:00,000	ZOE	We're running a little test.
+84	00:00:00,000 --> 00:00:00,000	JIN	What kind of test?
+86	00:00:00,000 --> 00:00:00,000	SEAMUS	Alright let's see where we are. Can we get a functioning E.M. field going, people?
+88	00:00:00,000 --> 00:00:00,000	UNKNOWN VOICE	Sure thing.
+90	00:00:00,000 --> 00:00:00,000	SEAMUS	Then try a power test. Generator to full, please.
+92	00:00:00,000 --> 00:00:00,000	UNKNOWN VOICE	Okay.
+94	00:00:00,000 --> 00:00:00,000	SEAMUS	Here we go. On my count... three...two...one...and power on.
+96	00:00:00,000 --> 00:00:00,000		[He pulls a lever. Equipment whirrs into operation then dies down again.]
+98	00:00:00,000 --> 00:00:00,000	SEAMUS	Great. We've probably got a faulty contact somewhere, find it! Simmons, go down and check the circuits on the solenoids.
+100	00:00:00,000 --> 00:00:00,000	SIMMONS	Yes sir.
+102	00:00:00,000 --> 00:00:00,000	SEAMUS	[to a white rabbit in a cage] And guess what, Angstrom, you're going in there next.
+104	00:00:00,000 --> 00:00:00,000		[Simmons goes to the solenoids and begins taking readings with a handheld meter. In the control room, one of the team is about to throw a switch.]
+106	00:00:00,000 --> 00:00:00,000	UNKNOWN TECHNICIAN	Found it! It was a bad breaker on the genny. Bringing it back online now.
+108	00:00:00,000 --> 00:00:00,000	ZOE	No!
+110	00:00:00,000 --> 00:00:00,000		[He throws the switch. The solenoids spark into life, and the solenoid room emits bright light.]
+112	00:00:00,000 --> 00:00:00,000	ZOE	No!
+114	00:00:00,000 --> 00:00:00,000	SEAMUS	Turn it off, turn it off!
+116	00:00:00,000 --> 00:00:00,000		[The switch is reversed, activity dies down in the solenoid room. Zoe, Seamus and Jin rush out to investigate and find the charred and smoking body of Simmons.]
+118	00:00:00,000 --> 00:00:00,000	ZOE	Oh my god.
+120	00:00:00,000 --> 00:00:00,000		[Widmore arrives.]
+122	00:00:00,000 --> 00:00:00,000	WIDMORE	Zoe. Are we ready?
+124	00:00:00,000 --> 00:00:00,000		[Desmond is dragged into the room and sees the body.]
+126	00:00:00,000 --> 00:00:00,000		[The body is being removed.]
+128	00:00:00,000 --> 00:00:00,000	MAN	Got it.
+130	00:00:00,000 --> 00:00:00,000	WIDMORE	Stop.
+132	00:00:00,000 --> 00:00:00,000		[He briefly uncovers the body to see the charred face.]
+134	00:00:00,000 --> 00:00:00,000	WIDMORE	You can take him now. Thank you. [Gesturing toward Desmond] Put him inside.
+136	00:00:00,000 --> 00:00:00,000		[Widmore's men drag Desmond into the solenoid room.]
+138	00:00:00,000 --> 00:00:00,000	DESMOND	Hey. What the hell are you doing?
+140	00:00:00,000 --> 00:00:00,000		[They tie him to a chair. ]
+142	00:00:00,000 --> 00:00:00,000	WIDMORE	I know how this looks, Desmond. But if everything I've been told about you is true, you'll be perfectly fine.
+144	00:00:00,000 --> 00:00:00,000	WIDMORE'S MAN	You don't have any metal on you do you? Keys? Change?
+146	00:00:00,000 --> 00:00:00,000	WIDMORE	Course he doesn't, you idiot. I hate to resort to forcing this upon you, Desmond. But once it's over I'm going to ask you to make a sacrifice. And I hope for all our sakes you'll help me.
+148	00:00:00,000 --> 00:00:00,000	DESMOND	Sacrifice? What the bloody Hell do you know about sacrifice?
+150	00:00:00,000 --> 00:00:00,000	WIDMORE	My son died here for the sake of this island. Your wife - my own daughter - hates me. And I've never even met my grandson. But if you won't help me, Desmond, all of it will be for nothing. Penny, your son, and everyone else, will be gone forever.
+152	00:00:00,000 --> 00:00:00,000		[Widmore and his men leave and close the door, Desmond begins yelling and struggling, he breaks the chair and starts bashing on the door. Widmore returns to the control room.]
+154	00:00:00,000 --> 00:00:00,000	DESMOND	Aah! Uhh! Aah!
+156	00:00:00,000 --> 00:00:00,000	WIDMORE	All right, turn it on.
+158	00:00:00,000 --> 00:00:00,000	JIN	No! If you want me to help you with whatever you're doing here, you need to explain to me--
+160	00:00:00,000 --> 00:00:00,000	WIDMORE	That man is the only person I'm aware of, in the world, who has survived a catastrophic electromagnetic event, I need to know that he can do it again, or we all die. Turn it on!
+162	00:00:00,000 --> 00:00:00,000		[Seamus throws a switch The equipment whirrs into operation.]
+164	00:00:00,000 --> 00:00:00,000	WIDMORE	Do we have full power?
+166	00:00:00,000 --> 00:00:00,000	SEAMUS	Yeah, but...
+168	00:00:00,000 --> 00:00:00,000		[Widmore walks over and throws the remaining three levers. The equipment gets louder.]
+170	00:00:00,000 --> 00:00:00,000	DESMOND	Let me out!
+172	00:00:00,000 --> 00:00:00,000		[The solenoids begin to spark and project a field and bright light.]
+174	00:00:00,000 --> 00:00:00,000	DESMOND	Let me out you bastards! Let me out! Let me out! Let me out of here! Let me out of here! [Screams.]
+176	00:00:00,000 --> 00:00:00,000		[Flash sideways - Desmond is at LAX looking at the Oceanic arrivals information screen. Hurley walks by.]
+178	00:00:00,000 --> 00:00:00,000	HURLEY	It's carousel four.
+180	00:00:00,000 --> 00:00:00,000	DESMOND	Sorry?
+182	00:00:00,000 --> 00:00:00,000	HURLEY	You were on the Sydney flight, right?
+184	00:00:00,000 --> 00:00:00,000	DESMOND	Yeah.
+186	00:00:00,000 --> 00:00:00,000	HURLEY	Our bags on carousel four, I double checked it with the dude at the counter.
+188	00:00:00,000 --> 00:00:00,000	DESMOND	Thank you.
+190	00:00:00,000 --> 00:00:00,000		[Claire is struggling to get her baggage from the carousel. ]
+192	00:00:00,000 --> 00:00:00,000	DESMOND	Hang on, I got it, I got it.
+194	00:00:00,000 --> 00:00:00,000		[He lifts the bag off.]
+196	00:00:00,000 --> 00:00:00,000	CLAIRE	Thank you so much.
+198	00:00:00,000 --> 00:00:00,000	DESMOND	Pleasure. You got any more bags?
+200	00:00:00,000 --> 00:00:00,000	CLAIRE	No uhhh, that's it, thank God.
+202	00:00:00,000 --> 00:00:00,000	DESMOND	Boy or a girl?
+204	00:00:00,000 --> 00:00:00,000	CLAIRE	Ummm.
+206	00:00:00,000 --> 00:00:00,000	DESMOND	Oh I'm sorry, I-I didn't mean to pry.
+208	00:00:00,000 --> 00:00:00,000	CLAIRE	Oh no it's fine, I just ummm, I don't know what it is.
+210	00:00:00,000 --> 00:00:00,000	DESMOND	All right. Well you're braver than I, you know. I'm not a big fan of surprises. [To another passenger] Oh excuse me, that's mine.
+212	00:00:00,000 --> 00:00:00,000		[He takes his luggage.]
+214	00:00:00,000 --> 00:00:00,000	DESMOND	So, have you got someone meeting you?
+216	00:00:00,000 --> 00:00:00,000	CLAIRE	Uhh yeah, uh maybe they got the flights messed up or something.
+218	00:00:00,000 --> 00:00:00,000	DESMOND	Because I've got a car picking me up. You now, If you need a ride I'd be more than happy to give you a lift.
+220	00:00:00,000 --> 00:00:00,000	CLAIRE	Oh no, no, that's ummm, that's really sweet of you but I'm good, there's cabs, so...
+222	00:00:00,000 --> 00:00:00,000	DESMOND	All right, well, it was nice meeting you.
+224	00:00:00,000 --> 00:00:00,000	CLAIRE	Yeah nice to meet you too.
+226	00:00:00,000 --> 00:00:00,000		[Claire walks away from him.]
+228	00:00:00,000 --> 00:00:00,000	DESMOND	A boy.
+230	00:00:00,000 --> 00:00:00,000	CLAIRE	What?
+232	00:00:00,000 --> 00:00:00,000	DESMOND	Bet it's a boy.
+234	00:00:00,000 --> 00:00:00,000		[George Minkowski is a driver holding up a sign for "Hume". Desmond approaches.]
+236	00:00:00,000 --> 00:00:00,000	DESMOND	Looks like I'm with you.
+238	00:00:00,000 --> 00:00:00,000	GEORGE	Mr. Hume, hello. Let me grab that for you.
+240	00:00:00,000 --> 00:00:00,000	DESMOND	Thank you.
+242	00:00:00,000 --> 00:00:00,000	GEORGE	My name is George.
+244	00:00:00,000 --> 00:00:00,000	DESMOND	Hi, George.
+246	00:00:00,000 --> 00:00:00,000	GEORGE	So, I'll take you back to your hotel?
+248	00:00:00,000 --> 00:00:00,000	DESMOND	The office.
+250	00:00:00,000 --> 00:00:00,000	GEORGE	Office. Wonderful. This way please. So uh, you flew in from Sydney huh?
+252	00:00:00,000 --> 00:00:00,000	DESMOND	Yeah, that's right.
+254	00:00:00,000 --> 00:00:00,000	GEORGE	And what, what were you doing uh down under?
+256	00:00:00,000 --> 00:00:00,000	DESMOND	I was closing a deal for the boss.
+258	00:00:00,000 --> 00:00:00,000	GEORGE	Oh good for you, congratulations. Hey listen, if you need anything at all while you're in town, I know everyone. You need a reservation? You just pick a restaurant.
+260	00:00:00,000 --> 00:00:00,000	DESMOND	The room service at the hotel's excellent, thank you.
+262	00:00:00,000 --> 00:00:00,000		[Desmond gets into the car. George whispers to him.]
+264	00:00:00,000 --> 00:00:00,000	GEORGE	You uhh, you looking uh for some company? I noticed that you weren't wearing a wedding band. And there are a lot of lovely ladies offering their uh companionship.
+266	00:00:00,000 --> 00:00:00,000	DESMOND	I'm not looking for any companionship. I'm here to work.
+268	00:00:00,000 --> 00:00:00,000	GEORGE	Guess that's why you're the boss's right-hand man, and I am the driver. Okay. Got it.
+270	00:00:00,000 --> 00:00:00,000		[He shuts the car door.]
+272	00:00:00,000 --> 00:00:00,000		[Desmond arrives at Widmore's office.]
+274	00:00:00,000 --> 00:00:00,000	RECEPTIONIST	Good morning Mr. Hume, how was your flight?
+276	00:00:00,000 --> 00:00:00,000	DESMOND	Lovely, thank you.
+278	00:00:00,000 --> 00:00:00,000	RECEPTIONIST	He said to send you right in.
+280	00:00:00,000 --> 00:00:00,000	DESMOND	Thank you.
+282	00:00:00,000 --> 00:00:00,000		[He enters the office.]
+284	00:00:00,000 --> 00:00:00,000	DESMOND	Charles.
+286	00:00:00,000 --> 00:00:00,000	WIDMORE	Hello, Desmond. Welcome to Los Angeles, my friend.
+288	00:00:00,000 --> 00:00:00,000	DESMOND	Thank you.
+290	00:00:00,000 --> 00:00:00,000		[They embrace.]
+292	00:00:00,000 --> 00:00:00,000		[Widmore's office. Desmond is looking at a model of a black sailing ship. Widmore is talking on the phone to an unknown person.]
+294	00:00:00,000 --> 00:00:00,000	WIDMORE [on phone]	I don't give a bloody damn what he did, or how much it's going to cost. Just get him arraigned and get him out of there.
+296	00:00:00,000 --> 00:00:00,000		[Widmore hangs up.]
+298	00:00:00,000 --> 00:00:00,000	WIDMORE	Sorry Desmond. Looks like our celebration of the Australian deal is going to have to be cut short. You are aware that my son is a musician?
+300	00:00:00,000 --> 00:00:00,000	DESMOND	Yes. I've heard he's quite talented.
+302	00:00:00,000 --> 00:00:00,000	WIDMORE	Yeah he is, quite. Anyway, my wife is putting together one of her charity events and uh, the boy had the crazy idea to combine classical music with modern rock. You heard of a band called Drive Shaft?
+304	00:00:00,000 --> 00:00:00,000	DESMOND	No, can't say I have.
+306	00:00:00,000 --> 00:00:00,000	WIDMORE	Their bass guitarist overdosed and uh, got himself arrested. And now, if I don't get this junkie to my wife's event she will, simply put, destroy me.
+308	00:00:00,000 --> 00:00:00,000	DESMOND	So you want me to babysit him?
+310	00:00:00,000 --> 00:00:00,000	WIDMORE	I know it's beneath you, but I need someone I can trust to do the job right.
+312	00:00:00,000 --> 00:00:00,000	DESMOND	Say no more Charles, it's done.
+314	00:00:00,000 --> 00:00:00,000	WIDMORE	Huh.
+316	00:00:00,000 --> 00:00:00,000		[Widmore stands up and walks across the room.]
+318	00:00:00,000 --> 00:00:00,000	WIDMORE	You really do have the life, son. No family, no commitments, ahh to be free of attachments.
+320	00:00:00,000 --> 00:00:00,000	DESMOND	I'm a blessed man, Sir.
+322	00:00:00,000 --> 00:00:00,000	WIDMORE	No, it is I who am blessed, to have you in my employ. A drink, to celebrate your indispensibility.
+324	00:00:00,000 --> 00:00:00,000		[Widmore pours two glasses of MacCutcheon whisky.]
+326	00:00:00,000 --> 00:00:00,000	DESMOND	That's your sixty-year-old Scotch, Charles.
+328	00:00:00,000 --> 00:00:00,000	WIDMORE	Nothing's too good for you.
+330	00:00:00,000 --> 00:00:00,000	DESMOND	SlÃƒÂ inte.
+332	00:00:00,000 --> 00:00:00,000		[They raise their glasses and clink them together.]
+334	00:00:00,000 --> 00:00:00,000		[Desmond arrives at the courthouse as Charlie is leaving with a lawyer.]
+336	00:00:00,000 --> 00:00:00,000	LAWYER	Mr. Hume?
+338	00:00:00,000 --> 00:00:00,000	DESMOND	That's right.
+340	00:00:00,000 --> 00:00:00,000	LAWYER	Bail's all been taken care of. Remember he's not allowed to leave the state.
+342	00:00:00,000 --> 00:00:00,000	DESMOND	Good. Mr. Pace, I'm Desmond Hume. Charles Widmore sent me.
+344	00:00:00,000 --> 00:00:00,000		[Charlie wanders off.]
+346	00:00:00,000 --> 00:00:00,000	DESMOND	Hey! Where you going?
+348	00:00:00,000 --> 00:00:00,000	LAWYER	He's all yours.
+350	00:00:00,000 --> 00:00:00,000	DESMOND	Hey!
+352	00:00:00,000 --> 00:00:00,000		[Charlie carelessly crosses the road, causing several cars to slam on their brakes.]
+354	00:00:00,000 --> 00:00:00,000	DRIVER	What's wrong with you?! Idiot!
+356	00:00:00,000 --> 00:00:00,000		[Desmond looks at his watch, then crosses the road and joins Charlie in a bar.]
+358	00:00:00,000 --> 00:00:00,000	DESMOND	[To bartender] I'll have whatever he's having. [To Charlie] One drink, then we go.
+360	00:00:00,000 --> 00:00:00,000	CHARLIE	So what's your job then, to babysit me? What are you? Mr. Widmore's chief lackey? Henchman?
+362	00:00:00,000 --> 00:00:00,000	DESMOND	No title. Plenty of perks though.
+364	00:00:00,000 --> 00:00:00,000	CHARLIE	Hmmm, such as?
+366	00:00:00,000 --> 00:00:00,000	DESMOND	I get to meet charming people.
+368	00:00:00,000 --> 00:00:00,000	CHARLIE	Well, cheers then. Tell me perky, are you happy?
+370	00:00:00,000 --> 00:00:00,000	DESMOND	Quite.
+372	00:00:00,000 --> 00:00:00,000	CHARLIE	No you're not.
+374	00:00:00,000 --> 00:00:00,000	DESMOND	Well, I've got a great job, lots of money, get to travel the world. Why wouldn't I be happy?
+376	00:00:00,000 --> 00:00:00,000	CHARLIE	Have you ever been in love?
+378	00:00:00,000 --> 00:00:00,000	DESMOND	Thousands of times.
+380	00:00:00,000 --> 00:00:00,000	CHARLIE	That's not what I'm talking about. I'm talking about spectacular, consciousness-altering love. Do you know what that looks like?
+382	00:00:00,000 --> 00:00:00,000	DESMOND	I wasn't aware that love looked like anything.
+384	00:00:00,000 --> 00:00:00,000	CHARLIE	I've seen it, mate. On the plane back from Sydney.
+386	00:00:00,000 --> 00:00:00,000	DESMOND	Is that so? Well we were on the same flight, so...maybe I saw it too.
+388	00:00:00,000 --> 00:00:00,000	CHARLIE	Trust me, you didn't.
+390	00:00:00,000 --> 00:00:00,000	DESMOND	Oh? Enlighten me.
+392	00:00:00,000 --> 00:00:00,000	CHARLIE	There was this woman, two rows in front of me, in handcuffs, sitting with a cop. He looked at me, knew I was holding. If I didn't take action I'd be caught. So I got up, went to the lav, proceeded to eliminate the evidence by swallowing my stash. And at that exact moment we hit turbulence. I choked. The entire bag of heroin is stuck in my throat. It's, uh, it's over. Everything starts to go dark, I'm slipping into the abyss, and then I see...her.
+394	00:00:00,000 --> 00:00:00,000	DESMOND	Her?
+396	00:00:00,000 --> 00:00:00,000	CHARLIE	A woman. Blonde, rapturously beautiful, and I know her. We're together. It's like we've always been, and always will be. This feeling, this love, and just as I'm about to be engulfed by...(snaps fingers) I open my eyes, and this sodding idiot is standing there asking me if I'm okay. But I saw it, just for a moment, I saw what it looked like.
+398	00:00:00,000 --> 00:00:00,000	DESMOND	Well that's just...poetry, brother. You know you should, you should write a song about that.
+400	00:00:00,000 --> 00:00:00,000	CHARLIE	Yeah yeah yeah yeah, I know what you're saying - poor suicidal rock star. But I've seen something real, I've seen the truth.
+402	00:00:00,000 --> 00:00:00,000	DESMOND	No, that's not the truth. You want to know the real truth, Pace? Right now you have a choice - you can keep on drinking, or you can come with me. Now before you make your choice, realize that if you stay here, it will very likely result in the extermination of your musical career.
+404	00:00:00,000 --> 00:00:00,000	CHARLIE	And if I go with you?
+406	00:00:00,000 --> 00:00:00,000	DESMOND	In twenty minutes, you'll be luxuriating in a five-star hotel, right on the harbor front, and Charles Widmore - one of the most powerful men in this town, will owe you a favor.
+408	00:00:00,000 --> 00:00:00,000	CHARLIE	Doesn't really seem like a choice.
+410	00:00:00,000 --> 00:00:00,000	DESMOND	There's always a choice, brother.
+412	00:00:00,000 --> 00:00:00,000		[Desmond is driving with Charlie. Drive Shaft's song, "You All, Everybody" is playing on the radio.]
+414	00:00:00,000 --> 00:00:00,000	CHARLIE	That's my band, Drive Shaft, our first single. The beginning of everything great. You like it?
+416	00:00:00,000 --> 00:00:00,000	DESMOND	Sure, for what it is.
+418	00:00:00,000 --> 00:00:00,000	CHARLIE	I feel sorry for you, mate. [Desmond chuckles.] You think you're happy. You think you've got it all--this, your life. But, you don't.
+420	00:00:00,000 --> 00:00:00,000	DESMOND	Why, because none of it's real?
+422	00:00:00,000 --> 00:00:00,000	CHARLIE	All right, Mr. Hume. How about I offer you a choice?
+424	00:00:00,000 --> 00:00:00,000	DESMOND	What's that?
+426	00:00:00,000 --> 00:00:00,000	CHARLIE	I can either show you what I'm talking about, or you can get out of the car. [Desmond chuckles.]
+428	00:00:00,000 --> 00:00:00,000	DESMOND	Why in God's name would I want to get out of the car?
+430	00:00:00,000 --> 00:00:00,000		[Tires screech. Charlie takes hold of the wheel and forces the car out of control, off the dock and into the harbor.]
+432	00:00:00,000 --> 00:00:00,000	DESMOND	Aah! Uhh!
+434	00:00:00,000 --> 00:00:00,000		[Underwater, Desmond removes his seatbelt.]
+436	00:00:00,000 --> 00:00:00,000	DESMOND	[gurgling] Charlie! Charlie! [Desmond attempts to release Charlie's seatbelt.] Come on!
+438	00:00:00,000 --> 00:00:00,000		[Desmond surfaces gasping. He inhales deeply, and dives down to the submerged car. He is unsuccessful in opening Charlie's door. Charlie makes no attempt to escape; calmly turns to Desmond and holds up his left hand to the closed window. Desmond reads what is written on Charlie's hand: "NOT PENNY'S BOAT". Desmond has a flash of a visual memory--on the Island, in the Looking Glass station, where he witnessed Charlie drowning in the original timeline. Desmond recalls the sight of Charlie's hand with the words: "NOT PENNY'S BOAT". Desmond successfully opens the door and gets unconscious Charlie out and to the surface.]
+440	00:00:00,000 --> 00:00:00,000	DESMOND	[swimming while dragging Charlie to the dock] Come on! Come on! Damn it!
+442	00:00:00,000 --> 00:00:00,000		[Desmond is in a hospital, being examined.]
+444	00:00:00,000 --> 00:00:00,000	DOCTOR	You sustained a pretty bad bump in your accident. Any nausea?
+446	00:00:00,000 --> 00:00:00,000	DESMOND	Nope.
+448	00:00:00,000 --> 00:00:00,000	DOCTOR	Double vision?
+450	00:00:00,000 --> 00:00:00,000	DESMOND	No. Listen, I need to find the man I was brought in here with.
+452	00:00:00,000 --> 00:00:00,000	DOCTOR	How about hallucinations?
+454	00:00:00,000 --> 00:00:00,000	DESMOND	What do you mean?
+456	00:00:00,000 --> 00:00:00,000	DOCTOR	Hallucinations. Seeing things that aren't there.
+458	00:00:00,000 --> 00:00:00,000	DESMOND [shaking his head]	Um, I'm not sure.
+460	00:00:00,000 --> 00:00:00,000	DOCTOR	Well, your C.A.T. scan was inconclusive. I'm going to send you downstairs for an M.R.I.
+462	00:00:00,000 --> 00:00:00,000	DESMOND	No, I don't have time for this. I need to find the man I came in here with.
+464	00:00:00,000 --> 00:00:00,000	DOCTOR	I'm afraid you're not finding anyone until we know what's going on inside your brain.
+466	00:00:00,000 --> 00:00:00,000		[Desmond sits at an M.R.I. machine speaking with a technician.]
+468	00:00:00,000 --> 00:00:00,000	TECHNICIAN	Are you wearing any metal? Carrying keys or change? Any metal inside your body--pacemakers, pins, bullets, steel plate inside of your head?
+470	00:00:00,000 --> 00:00:00,000	DESMOND	No. Nothing.
+472	00:00:00,000 --> 00:00:00,000	TECHNICIAN	I see you didn't list an emergency contact, no friends or family?
+474	00:00:00,000 --> 00:00:00,000	DESMOND	Um, just put down my employer, Charles Widmore.
+476	00:00:00,000 --> 00:00:00,000	TECHNICIAN	This machine is super loud. You're gonna want these. [Hands Desmond ear plugs and straps him to table.] And you need the button.
+478	00:00:00,000 --> 00:00:00,000	DESMOND	The button?
+480	00:00:00,000 --> 00:00:00,000	TECHNICIAN	The panic button. You need to stop, press it. Try not to 'cause we'll have to start all over again from the beginning. I'll be in that booth over there. You'll be able to hear me. Thirty minutes, okay?
+482	00:00:00,000 --> 00:00:00,000		[A head coil is positioned around Desmond's head and he is sent into the M.R.I.]
+484	00:00:00,000 --> 00:00:00,000	TEHCNICIAN	Okay, here we go.
+486	00:00:00,000 --> 00:00:00,000		[Clanking noises are heard and Desmond has visual flashes of scenes from the original timeline: again he sees Charlie drowning; Penny smiling, kissing Penny,the birth of young Charlie; Charlie as a toddler; other scenes of kissing Penny. He also hears Penny's voice.] Desmond.
+488	00:00:00,000 --> 00:00:00,000	DESMOND	Hey! Let me out of here.
+490	00:00:00,000 --> 00:00:00,000		[Desmond pushes the panic button.]
+492	00:00:00,000 --> 00:00:00,000	DESMOND	Hey! Hey!
+494	00:00:00,000 --> 00:00:00,000	TECHNICIAN	[removing Desmond from M.R.I.] What happened, man? Are you all right?
+496	00:00:00,000 --> 00:00:00,000	DESMOND	I need to find the man I came in here with. [Sitting up, taking out ear plugs.] I need to find the man I came in here with.
+498	00:00:00,000 --> 00:00:00,000		[Desmond is speaking to a desk nurse at the hospital.]
+500	00:00:00,000 --> 00:00:00,000	DESMOND	His name is Charlie Pace. He came in an hour ago. He just give me his room number.
+502	00:00:00,000 --> 00:00:00,000	NURSE	If you're not a relative, that's confidential information.
+504	00:00:00,000 --> 00:00:00,000	DESMOND	Look, we were in an accident together. I need to see him!
+506	00:00:00,000 --> 00:00:00,000	NURSE	Sorry, sir. There's nothing I can do.
+508	00:00:00,000 --> 00:00:00,000		[Jack Shepard passes by.]
+510	00:00:00,000 --> 00:00:00,000	DESMOND	Hey. Excuse me. Um, were you on the same Oceanic flight um, from Sydney.
+512	00:00:00,000 --> 00:00:00,000	JACK	Yeah, yeah, you were sitting next to me. Desmond, right?
+514	00:00:00,000 --> 00:00:00,000	DESMOND	Yeah, that's right. Listen. I wonder if you can help me, brother. I need to find someone. He was on our plane. He's somewhere in the hospital.
+516	00:00:00,000 --> 00:00:00,000	JACK	Hold on. He was on our plane and now he's here in the hospital?
+518	00:00:00,000 --> 00:00:00,000		[There is a commotion down the hall. Charlie, in a hospital gown, is being chased.]
+520	00:00:00,000 --> 00:00:00,000	CHARLIE	None of this matters. None of this matters.
+522	00:00:00,000 --> 00:00:00,000	WOMAN	No! Sir! Please, stop!
+524	00:00:00,000 --> 00:00:00,000	JACK	Take it easy.
+526	00:00:00,000 --> 00:00:00,000		[Desmond chases Charlie down a stairwell and catches up to him downstairs.]
+528	00:00:00,000 --> 00:00:00,000	DESMOND	Why are you running?
+530	00:00:00,000 --> 00:00:00,000	CHARLIE	Cause no one here can help me. Now let me go.
+532	00:00:00,000 --> 00:00:00,000	DESMOND	Why'd you try and to kill me?
+534	00:00:00,000 --> 00:00:00,000	CHARLIE	I didn't try and kill you. I was trying to show you something.
+536	00:00:00,000 --> 00:00:00,000	DESMOND	Want to show me something? Show me your hand.
+538	00:00:00,000 --> 00:00:00,000	CHARLIE	What?
+540	00:00:00,000 --> 00:00:00,000	DESMOND	Your hands. Show me your bloody hands now.
+542	00:00:00,000 --> 00:00:00,000	CHARLIE	You saw something, didn't you? In the water. What was it?
+544	00:00:00,000 --> 00:00:00,000		[Desmond grabs Charlie's hands.]
+546	00:00:00,000 --> 00:00:00,000	CHARLIE	What are you looking for, mate?
+548	00:00:00,000 --> 00:00:00,000	DESMOND	Who's Penny?
+550	00:00:00,000 --> 00:00:00,000	CHARLIE	I don't know. Ah. You felt it, didn't you?
+552	00:00:00,000 --> 00:00:00,000	DESMOND	I didn't feel anything.
+554	00:00:00,000 --> 00:00:00,000	CHARLIE	Then, why are you accosting a man in a dressing gown?
+556	00:00:00,000 --> 00:00:00,000	DESMOND	All right. Come on. We're leaving.
+558	00:00:00,000 --> 00:00:00,000		[Desmond grabs Charlie but he resists.]
+560	00:00:00,000 --> 00:00:00,000	CHARLIE	Whoa! You think I'm going to play a rock concert after this? This doesn't matter. None of this matters. All that matters is that we felt it. You wanna try and stop me, good luck.
+562	00:00:00,000 --> 00:00:00,000	DESMOND	Hey, where you going?
+564	00:00:00,000 --> 00:00:00,000	CHARLIE	If I were you I'd stop worrying about me and start looking for Penny.
+566	00:00:00,000 --> 00:00:00,000		[Charlie leaves.]
+568	00:00:00,000 --> 00:00:00,000		[Widmore and Desmond are having a phone conversation.]
+570	00:00:00,000 --> 00:00:00,000	WIDMORE	What do you mean he's gone?
+572	00:00:00,000 --> 00:00:00,000	DESMOND	Look he escaped. He knocked over a doctor with a bloody crash cart and then ran out of the hospital.
+574	00:00:00,000 --> 00:00:00,000	WIDMORE	And you let him go?
+576	00:00:00,000 --> 00:00:00,000	DESMOND	He's a junkie who drove my car into the ocean, Charles. I'm fine, by the way. Thanks for asking.
+578	00:00:00,000 --> 00:00:00,000	WIDMORE	And I'm thrilled you survived, Desmond. But when I give you a job to do, I expect you to do it.
+580	00:00:00,000 --> 00:00:00,000	DESMOND	With all due respect, sir, it's just a bloody concert.
+582	00:00:00,000 --> 00:00:00,000	WIDMORE	I tell you what, Desmond, if you can't deliver Pace, why don't you tell Mrs. Widmore, it's only a bloody concert.
+584	00:00:00,000 --> 00:00:00,000		[George drives Desmond to a museum. He gets out and opens the limousine door.]
+586	00:00:00,000 --> 00:00:00,000	GEORGE	Mr. Hume. So you've never met the boss' wife, huh?
+588	00:00:00,000 --> 00:00:00,000	DESMOND	No.
+590	00:00:00,000 --> 00:00:00,000	GEORGE	Good luck.
+592	00:00:00,000 --> 00:00:00,000		[Inside a reception tent, Eloise speaks to a waiter.]
+594	00:00:00,000 --> 00:00:00,000	ELOISE	Please, tell me, how is it that someone in your line of work is not aware that the butter knife is placed handle to the right, blade facing left? Just so.
+596	00:00:00,000 --> 00:00:00,000	WAITER	Okay.
+598	00:00:00,000 --> 00:00:00,000	ELOISE	For God's sake.
+600	00:00:00,000 --> 00:00:00,000	DESMOND	Mrs. Widmore?
+602	00:00:00,000 --> 00:00:00,000	ELOISE	Yes!
+604	00:00:00,000 --> 00:00:00,000	DESMOND	My name is Desmond Hume. I work for your husband.
+606	00:00:00,000 --> 00:00:00,000	ELOISE	Of course, Mr. Hume. Charles has told me so much about you. It's a travesty we haven't met before... Well, it's about time.
+608	00:00:00,000 --> 00:00:00,000	DESMOND	Well, the feeling is mutual, Mrs. Widmore.
+610	00:00:00,000 --> 00:00:00,000	ELOISE	Oh, please. It's Eloise.
+612	00:00:00,000 --> 00:00:00,000	DESMOND	Eloise.
+614	00:00:00,000 --> 00:00:00,000	ELOISE	So uhh, what crisis forced Charles to send his best fix-it man into the bowels of charity balls?
+616	00:00:00,000 --> 00:00:00,000	DESMOND	Well, Eloise, uh, I'm deeply sorry but it appears as if, uh, Drive Shaft won't be able to perform alongside your son. And, uh, I take full responsibility--
+618	00:00:00,000 --> 00:00:00,000		[She silences him.]
+620	00:00:00,000 --> 00:00:00,000	ELOISE	Don't worry about it.
+622	00:00:00,000 --> 00:00:00,000	DESMOND	Excuse me?
+624	00:00:00,000 --> 00:00:00,000	ELOISE	Oh, my son will understand. I suppose if one employs so-called rock stars, certain unpredictability comes with the territory.
+626	00:00:00,000 --> 00:00:00,000	DESMOND	Yeah. You're not angry?
+628	00:00:00,000 --> 00:00:00,000	ELOISE	Oh, not at all dear. What happened, happened. Thank you so much, Mr. Hume, for coming and telling me in person. A pleasure meeting you.
+630	00:00:00,000 --> 00:00:00,000	DESMOND	And you.
+632	00:00:00,000 --> 00:00:00,000	ELOISE	[to a staff member] Uh, center that flower arrangement, please.
+634	00:00:00,000 --> 00:00:00,000	DESMOND	Have a good evening.
+636	00:00:00,000 --> 00:00:00,000	ELOISE	Thank you!
+638	00:00:00,000 --> 00:00:00,000		[Desmond overhears a man reading down a guestlist on his way out.]
+640	00:00:00,000 --> 00:00:00,000	MAN	Leifer, Stefanie, plus two. Markey, Mary, plus one. Milton, Penny solo. Pepper, Nicholas, plus one.
+642	00:00:00,000 --> 00:00:00,000	DESMOND	Excuse me. I'm sorry, um, did you just say Penny?
+644	00:00:00,000 --> 00:00:00,000	MAN	And who are you?
+646	00:00:00,000 --> 00:00:00,000	DESMOND	Um, I work for Mr. Widmore, may I see the list?
+648	00:00:00,000 --> 00:00:00,000		[Eloise grabs the list from Desmond.]
+650	00:00:00,000 --> 00:00:00,000	ELOISE	You absolutely may not. That list is confidential.
+652	00:00:00,000 --> 00:00:00,000	DESMOND	Begging your pardon, I'm entrusted with confidential items every day.
+654	00:00:00,000 --> 00:00:00,000	ELOISE	Are you questioning me?
+656	00:00:00,000 --> 00:00:00,000	DESMOND	No, I just want to look at one name on that list. And, if for some reason, that's a problem...
+658	00:00:00,000 --> 00:00:00,000	ELOISE	Come with me.
+660	00:00:00,000 --> 00:00:00,000		[She leads him to another tent.]
+662	00:00:00,000 --> 00:00:00,000	ELOISE	[To the staff] Out! Everyone, now!
+664	00:00:00,000 --> 00:00:00,000		[They all leave immediately.]
+666	00:00:00,000 --> 00:00:00,000	DESMOND	Look, I'm, I'm sorry, if I've overstepped my bounds.
+668	00:00:00,000 --> 00:00:00,000	ELOISE	Stop talking, Hume. I've heard what you've had to say, now you listen to me. I want you to stop.
+670	00:00:00,000 --> 00:00:00,000	DESMOND	Stop? Stop what?
+672	00:00:00,000 --> 00:00:00,000	ELOISE	Someone has clearly affected the way you see things. This is a serious problem. It is, in fact, a violation. So, whatever you're doing, whatever it is you think you're looking for...You need to stop looking for it.
+674	00:00:00,000 --> 00:00:00,000	DESMOND	Do you, do you know what I'm looking for, Mrs. Widmore?
+676	00:00:00,000 --> 00:00:00,000	ELOISE	I don't know why you're looking for anything? You have the perfect life. On top of it, you've managed to attain the thing you wanted more than anything--my husband's approval.
+678	00:00:00,000 --> 00:00:00,000	DESMOND	How do you know what I want?
+680	00:00:00,000 --> 00:00:00,000	ELOISE	Because I bloody do.
+682	00:00:00,000 --> 00:00:00,000	DESMOND	I need to see that list...or you need to tell me why I can't.
+684	00:00:00,000 --> 00:00:00,000	ELOISE	You can't because you're not ready yet, Desmond.
+686	00:00:00,000 --> 00:00:00,000		[She walks away from him.]
+688	00:00:00,000 --> 00:00:00,000	DESMOND	Ready? Ready, for what?
+690	00:00:00,000 --> 00:00:00,000		[Desmond makes his way back to the limo. George gets out and opens a door for him.]
+692	00:00:00,000 --> 00:00:00,000	GEORGE	That bad, huh?
+694	00:00:00,000 --> 00:00:00,000	DESMOND	Is there any alcohol in this car?
+696	00:00:00,000 --> 00:00:00,000	GEORGE	Oh, yeah. Whatever you need. So, uh, where to, Mr. Hume?
+698	00:00:00,000 --> 00:00:00,000	DESMOND	Just drive, George.
+700	00:00:00,000 --> 00:00:00,000		[A man knocks on Desmond's window.]
+702	00:00:00,000 --> 00:00:00,000	DANIEL	Mr. Hume?
+704	00:00:00,000 --> 00:00:00,000	DESMOND	Yes?
+706	00:00:00,000 --> 00:00:00,000	DANIEL	My name is Daniel, Daniel Widmore. We need to talk.
+708	00:00:00,000 --> 00:00:00,000		[Desmond and Daniel walk to a bench and sit down on it.]
+710	00:00:00,000 --> 00:00:00,000	DESMOND	Look, uh, Mr. Widmore, um...
+712	00:00:00,000 --> 00:00:00,000	DANIEL	Dan, please. Call me, Dan. Mr. Widmore is my father.
+714	00:00:00,000 --> 00:00:00,000	DESMOND	Dan, if this is about Charlie Pace not being able to perform with you, I'm, I'm very sorry.
+716	00:00:00,000 --> 00:00:00,000	DANIEL	Do you believe in love at first sight, Mr. Hume?
+718	00:00:00,000 --> 00:00:00,000	DESMOND	Excuse me?
+720	00:00:00,000 --> 00:00:00,000	DANIEL	First time I saw her was walking through this museum, few weeks ago. She, she works here. She was on her lunch break. She was eating a chocolate bar. She has these incredible blue, blue eyes, red hair. And, as soon as I saw her, right, right in that moment, it was like, it was like I already loved her. And that's when things got weird. [Takes a notebook from his bag.] That same night after I saw that woman, I woke up and I wrote this.
+722	00:00:00,000 --> 00:00:00,000	DESMOND	So what is it?
+724	00:00:00,000 --> 00:00:00,000	DANIEL	I'm a musician. I have no idea. So I took it to a friend of mine at Caltech. He's a math whiz. He said this is quantum mechanics. He said these equations are so advanced that only someone who'd been studying physics their entire life could have come up with them.
+726	00:00:00,000 --> 00:00:00,000	DESMOND	So what do they mean?
+728	00:00:00,000 --> 00:00:00,000	DANIEL	Okay. Imagine, imagine something terrible is about to happen. Something catastrophic, and the only way to stop it from happening is by releasing a huge amount of energy. Like setting off a nuclear bomb.
+730	00:00:00,000 --> 00:00:00,000	DESMOND	You wanna set off a nuclear bomb.
+732	00:00:00,000 --> 00:00:00,000	DANIEL	Just listen, what if, this, all this, what if this wasn't suppose to be our life? What if we had some other life and for some reason, we changed things? I don't want to set off a nuclear bomb, Mr. Hume. I think I already did.
+734	00:00:00,000 --> 00:00:00,000	DESMOND	Listen, mate, um. I don't know what any of this has to do with me, so...
+736	00:00:00,000 --> 00:00:00,000	DANIEL	Why did you ask my mother about a woman named Penny? It happened to you, too, didn't it? You felt it.
+738	00:00:00,000 --> 00:00:00,000	DESMOND	I don't know...I don't know what I felt.
+740	00:00:00,000 --> 00:00:00,000	DANIEL	Yes, you do. You felt love.
+742	00:00:00,000 --> 00:00:00,000	DESMOND	That's impossible, because I don't know anything about this woman, I don't know...I don't know where she is. I don't even know if she exists. She's...she's an idea.
+744	00:00:00,000 --> 00:00:00,000	DANIEL	No, Mr. Hume. She's my half-sister. And I can tell you exactly where and when you can find her.
+746	00:00:00,000 --> 00:00:00,000		[Desmond arrives at a stadium. He spots Penny running up and down the steps of the aisles. She stops for a rest, and he approaches her.]
+748	00:00:00,000 --> 00:00:00,000	PENNY	[sitting down] Hi.
+750	00:00:00,000 --> 00:00:00,000	DESMOND	Excuse me.
+752	00:00:00,000 --> 00:00:00,000	PENNY	Yeah.
+754	00:00:00,000 --> 00:00:00,000	DESMOND	Are you Penny?
+756	00:00:00,000 --> 00:00:00,000	PENNY	Uh, yes.
+758	00:00:00,000 --> 00:00:00,000	DESMOND	Hello, I'm Desmond.
+760	00:00:00,000 --> 00:00:00,000	PENNY	[Chuckles and shakes Desmond's hand] Uh, Hi.
+762	00:00:00,000 --> 00:00:00,000		[On-Island - Desmond wakes up inside the solenoid room.]
+764	00:00:00,000 --> 00:00:00,000	MAN	Checking in now.
+766	00:00:00,000 --> 00:00:00,000		[The door is opened.]
+768	00:00:00,000 --> 00:00:00,000	SEAMUS	He's okay!
+770	00:00:00,000 --> 00:00:00,000	WIDMORE	Indeed he is! How are you, Desmond? How are you feeling?
+772	00:00:00,000 --> 00:00:00,000	DESMOND	Fine. How long was I unconscious for?
+774	00:00:00,000 --> 00:00:00,000	WIDMORE	Oh, no more than a few seconds.
+776	00:00:00,000 --> 00:00:00,000	DESMOND	Will you help me up, please.
+778	00:00:00,000 --> 00:00:00,000		[He does so.]
+780	00:00:00,000 --> 00:00:00,000	WIDMORE	I'm really sorry we had to do this to you, Desmond. But, as I told you, your talent is vital to our mission. So, if you just let me explain...
+782	00:00:00,000 --> 00:00:00,000	DESMOND	It's all right. I understand.
+784	00:00:00,000 --> 00:00:00,000	WIDMORE	What?
+786	00:00:00,000 --> 00:00:00,000	DESMOND	I said, I understand.
+788	00:00:00,000 --> 00:00:00,000	DESMOND	You told me you brought me here to the island to do something very important.
+790	00:00:00,000 --> 00:00:00,000	WIDMORE	Yeah.
+792	00:00:00,000 --> 00:00:00,000	DESMOND	When do we start?
+794	00:00:00,000 --> 00:00:00,000		[Zoe and two of Widmore's men lead Desmond through the jungle.]
+796	00:00:00,000 --> 00:00:00,000	ZOE	What happened to you?
+798	00:00:00,000 --> 00:00:00,000	DESMOND	What do you mean?
+800	00:00:00,000 --> 00:00:00,000	ZOE	What I mean is, twenty minutes ago you were beating the crap out of Widmore with an I.V. stand and, and now you're Mr. Cooperative.
+802	00:00:00,000 --> 00:00:00,000	DESMOND	A lot can happen in twenty minutes.
+804	00:00:00,000 --> 00:00:00,000	ZOE	Sure can. That thing fried your brain.
+806	00:00:00,000 --> 00:00:00,000	DESMOND	Did it?
+808	00:00:00,000 --> 00:00:00,000	ZOE	Whatever, doesn't change that we're gonna...
+810	00:00:00,000 --> 00:00:00,000		[Sayid suddenly appears from the jungle and attacks and overcomes Widmore's men. He points his gun at Zoe.]
+812	00:00:00,000 --> 00:00:00,000	SAYID	[To Zoe] Run.
+814	00:00:00,000 --> 00:00:00,000		[Zoe flees.]
+816	00:00:00,000 --> 00:00:00,000	SAYID	Desmond, I don't have time to explain, but these people are extremely dangerous. We need to go now.
+818	00:00:00,000 --> 00:00:00,000	DESMOND	Aye, of course. Lead the way.
+820	00:00:00,000 --> 00:00:00,000		[Flash sideways - Desmond is lying on the ground, waking up.]
+822	00:00:00,000 --> 00:00:00,000	PENNY	Hello? You okay?
+824	00:00:00,000 --> 00:00:00,000	DESMOND	What happened?
+826	00:00:00,000 --> 00:00:00,000	PENNY	Well, I shook your hand and then you fainted. I must have quite an effect on you.
+828	00:00:00,000 --> 00:00:00,000	DESMOND	Aye, aye you must have.
+830	00:00:00,000 --> 00:00:00,000	PENNY	Have we met before?
+832	00:00:00,000 --> 00:00:00,000	DESMOND	I-I think we'd have remembered it, if we had.
+834	00:00:00,000 --> 00:00:00,000	PENNY	Yeah. Well, as long as you're sure you're all right.
+836	00:00:00,000 --> 00:00:00,000	DESMOND	Yeah, I'm fine. Hey, listen, um, would you like to go for a coffee?
+838	00:00:00,000 --> 00:00:00,000	PENNY	What, now? I'm a sweaty mess.
+840	00:00:00,000 --> 00:00:00,000	DESMOND	I just fainted in front of you. I'd say we're even.
+842	00:00:00,000 --> 00:00:00,000	PENNY	There's a coffee shop on the corner of Sweetzer and Melrose. I'll meet you there in an hour.
+844	00:00:00,000 --> 00:00:00,000	DESMOND	Absolutely.
+846	00:00:00,000 --> 00:00:00,000	PENNY	Okay.
+848	00:00:00,000 --> 00:00:00,000	DESMOND	Okay.
+850	00:00:00,000 --> 00:00:00,000		[She leaves. Desmond smiles and breaths a sigh of relief.]
+852	00:00:00,000 --> 00:00:00,000		[Desmond returns to the limo.]
+854	00:00:00,000 --> 00:00:00,000	GEORGE	So, did you find what you were looking for?
+856	00:00:00,000 --> 00:00:00,000	DESMOND	Yes, George, I did. Corner of Melrose and Sweetzer, please.
+858	00:00:00,000 --> 00:00:00,000	GEORGE	You got it. And if there is anything else I can do for you, Mr. Hume, you just name it.
+860	00:00:00,000 --> 00:00:00,000	DESMOND	Actually, there is one thing, George. Can you get me the manifest for my flight from Sydney, Oceanic 815, just the names of the passengers?
+862	00:00:00,000 --> 00:00:00,000	GEORGE	Sure I can. Do you mind if I ask you what you need it for?
+864	00:00:00,000 --> 00:00:00,000	DESMOND	I just need to show them something...

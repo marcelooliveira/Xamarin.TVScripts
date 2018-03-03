@@ -1,0 +1,376 @@
+Tabula Rasa
+2	00:00:00,000 --> 00:00:00,000	Written By	Damon Lindelof
+4	00:00:00,000 --> 00:00:00,000	Directed By	Jack Bender
+6	00:00:00,000 --> 00:00:00,000	Starring	Naveen Andrews, Emilie de Ravin, Matthew Fox, Jorge Garcia, Maggie Grace, Josh Holloway, Malcolm David Kelley, Daniel Dae Kim, Yunjin Kim, Evangeline Lilly, Dominic Monaghan, Terry O'Quinn, Harold Perrineau, Ian Somerhalder
+8	00:00:00,000 --> 00:00:00,000	Guest Starring	Fredric Lane, Nick Tate
+10	00:00:00,000 --> 00:00:00,000		[Shot of people at the beach sorting through luggage. Claire and redshirts sorting through some papers. Scene changes to Jack and the Marshal.]
+12	00:00:00,000 --> 00:00:00,000	MARSHAL	Don't trust her. She's dangerous.
+14	00:00:00,000 --> 00:00:00,000	JACK	You should try not to move, man.
+16	00:00:00,000 --> 00:00:00,000	MARSHAL	Have to find her. Have to bring her back.
+18	00:00:00,000 --> 00:00:00,000	JACK	Yeah, you keep saying that. And every time I ask you who you have to bring back you pass out on me again. Since your fever's running pretty high, I'm guessing you have no idea who you're talking about.
+20	00:00:00,000 --> 00:00:00,000	MARSHAL	My cuffs, my handcuffs. Where are my cuffs?
+22	00:00:00,000 --> 00:00:00,000	JACK	What?
+24	00:00:00,000 --> 00:00:00,000	MARSHAL	My jacket pocket.
+26	00:00:00,000 --> 00:00:00,000	JACK	I don't...
+28	00:00:00,000 --> 00:00:00,000	MARSHAL	Jacket pocket.
+30	00:00:00,000 --> 00:00:00,000	JACK	Okay.
+32	00:00:00,000 --> 00:00:00,000		[Jack gets a piece of paper out of the Marshal's jacket pocket and unfolds it.]
+34	00:00:00,000 --> 00:00:00,000	MARSHAL	Dangerous. She's dangerous.
+36	00:00:00,000 --> 00:00:00,000		[Shot of Kate's mug shot wearing a sign that says: Harrison Valley Police with the numbers 961136 below (there are some other numbers, staggered, that don't look like part of the series (3 9 81 4 64).]
+38	00:00:00,000 --> 00:00:00,000		[Shot of Kate, Sawyer, Boone, Sayid, Shannon walking back to the beach from the trek to try the transceiver.]
+40	00:00:00,000 --> 00:00:00,000	BOONE	It's getting dark.
+42	00:00:00,000 --> 00:00:00,000	SAWYER	Then pick up the pace.
+44	00:00:00,000 --> 00:00:00,000	BOONE	Hick.
+46	00:00:00,000 --> 00:00:00,000	SAWYER	Little louder?
+48	00:00:00,000 --> 00:00:00,000	SAYID	We should make camp.
+50	00:00:00,000 --> 00:00:00,000	SHANNON	What, here?
+52	00:00:00,000 --> 00:00:00,000	SAYID	Yes, here.
+54	00:00:00,000 --> 00:00:00,000	SAWYER	I'm not stopping. You all have a nice cookout.
+56	00:00:00,000 --> 00:00:00,000	SAYID	Excellent, walk through the jungle in the dark.
+58	00:00:00,000 --> 00:00:00,000	SAWYER	Oooo, afraid the trees are going to get us?
+60	00:00:00,000 --> 00:00:00,000	SAYID	No, what is knocking down the trees will get you.
+62	00:00:00,000 --> 00:00:00,000	SAWYER	[pulling out the gun] Well, if you're so worried about me, how about you give me the clip back?
+64	00:00:00,000 --> 00:00:00,000	KATE	Put the gun back in your pants, Sawyer. Sayid's right, if you keep walking you're not going to make it to the beach.
+66	00:00:00,000 --> 00:00:00,000	SAWYER	Yeah, why's that?
+68	00:00:00,000 --> 00:00:00,000		[Shot of Charlie looking away.]
+70	00:00:00,000 --> 00:00:00,000	KATE	Trust me.
+72	00:00:00,000 --> 00:00:00,000		[Shot of the group around a fire at night. Sayid putting a rock on the ground, and holding a torch.]
+74	00:00:00,000 --> 00:00:00,000	SAYID	This is Australia [indicating the rock]. This is us [indicating the torch].
+76	00:00:00,000 --> 00:00:00,000	SAWYER	Nice stick.
+78	00:00:00,000 --> 00:00:00,000	SAYID	Two days ago we take off from Sydney. We fly along the same north east route every commercial airliner bound for Los Angeles does. Now the pilot, he said he lost communication with the ground, correct?
+80	00:00:00,000 --> 00:00:00,000	KATE	Yeah, 6 hours in. He turned around and headed for Fiji.
+82	00:00:00,000 --> 00:00:00,000	SAYID	So, we changed course. Regrettably, no one knew we changed course. The turbulence hit. We know the rest. [Sayid puts the torch's fire out.]
+84	00:00:00,000 --> 00:00:00,000	KATE	The pilot said we were over a thousand miles off course.
+86	00:00:00,000 --> 00:00:00,000	CHARLIE	Yeah, but, they'll find us. They have satellites in space that can take pictures of your license plate.
+88	00:00:00,000 --> 00:00:00,000	SAYID	If only we were all wearing license plates.
+90	00:00:00,000 --> 00:00:00,000	CHARLIE	Well, aren't you the pessimist.
+92	00:00:00,000 --> 00:00:00,000	SAYID	Basic photography - point and shoot. Satellites can shoot, but they must be told where to point.
+94	00:00:00,000 --> 00:00:00,000	CHARLIE	Oh. Bollocks.
+96	00:00:00,000 --> 00:00:00,000	SAWYER	Okay, really enjoyed the puppet show. Fantastic. But we're stuck in the middle of damn nowhere. How about we talk about that other thing? You know that transmission Abdul picked up on his little radio? The French chick that said, "They're all dead." The transmission's been on a loop for … how long was it, Freckles?
+98	00:00:00,000 --> 00:00:00,000	KATE	16 years.
+100	00:00:00,000 --> 00:00:00,000	SAWYER	Right. Let's talk about that.
+102	00:00:00,000 --> 00:00:00,000	BOONE	Well, we have to tell the others when we get back.
+104	00:00:00,000 --> 00:00:00,000	SHANNON	Tell them what, exactly?
+106	00:00:00,000 --> 00:00:00,000	BOONE	What we heard.
+108	00:00:00,000 --> 00:00:00,000	SHANNON	You didn't hear anything. I'm not a stupid translator.
+110	00:00:00,000 --> 00:00:00,000	SAYID	No one's going to tell them anything. To relay what we heard without fully understanding it will cause a panic. If we tell them what we know we take away their hope. And hope is a very dangerous thing to lose.
+112	00:00:00,000 --> 00:00:00,000	KATE	So we lie.
+114	00:00:00,000 --> 00:00:00,000		[Shot of Jack and Hurley at the beach making a shelter.]
+116	00:00:00,000 --> 00:00:00,000	HURLEY	Was it a dinosaur?
+118	00:00:00,000 --> 00:00:00,000	JACK	It wasn't a dinosaur.
+120	00:00:00,000 --> 00:00:00,000	HURLEY	You say you didn't see it.
+122	00:00:00,000 --> 00:00:00,000	JACK	I didn't.
+124	00:00:00,000 --> 00:00:00,000	HURLEY	So how do you know it wasn't a dinosaur?
+126	00:00:00,000 --> 00:00:00,000	JACK	Because dinosaurs are extinct.
+128	00:00:00,000 --> 00:00:00,000	HURLEY	Oh. Yeah. [Looking at the Marshal.] So what's his story? He looks kind of... dying.
+130	00:00:00,000 --> 00:00:00,000	JACK	He's not going to die.
+132	00:00:00,000 --> 00:00:00,000	HURLEY	He's yellow, man.
+134	00:00:00,000 --> 00:00:00,000	JACK	His wound is infected, but the antibiotics will fight it off.
+136	00:00:00,000 --> 00:00:00,000	HURLEY	What if they don't?
+138	00:00:00,000 --> 00:00:00,000	JACK	Then his body will shut down one piece at a time. His abdomen goes rigid, then...
+140	00:00:00,000 --> 00:00:00,000	HURLEY	He looks like he's in pain.
+142	00:00:00,000 --> 00:00:00,000	JACK	Yeah.
+144	00:00:00,000 --> 00:00:00,000		[Hurley picks up the mug shot of Kate.]
+146	00:00:00,000 --> 00:00:00,000	HURLEY	What's this? Uh, dude? Uh... [Jack grabs the mug shot] What do you think she did?
+148	00:00:00,000 --> 00:00:00,000	JACK	It's none of my business.
+150	00:00:00,000 --> 00:00:00,000	HURLEY	She looks pretty hard core.
+152	00:00:00,000 --> 00:00:00,000	JACK	Hurley... [Jack says this in a tone that indicates he doesn't want to talk about it, and goes back to doing something else.]
+154	00:00:00,000 --> 00:00:00,000		[Shot of Sayid and group sleeping at their camp. Someone sneaks over and takes the magazine from Sayid who wakes up.]
+156	00:00:00,000 --> 00:00:00,000	SAYID	What are you doing?
+158	00:00:00,000 --> 00:00:00,000		[Everyone wakes up.]
+160	00:00:00,000 --> 00:00:00,000	BOONE	[with the gun in his hand] Standing guard. You heard what they said is out there.
+162	00:00:00,000 --> 00:00:00,000	SAWYER	You took my gun off me, boy?
+164	00:00:00,000 --> 00:00:00,000	SHANNON	[to Boone] Please, you've never even held a gun. [to the group] He doesn't believe in guns. He's goes on marches.
+166	00:00:00,000 --> 00:00:00,000	BOONE	I don't go on marches.
+168	00:00:00,000 --> 00:00:00,000	SAYID	Give it back to me.
+170	00:00:00,000 --> 00:00:00,000	SAWYER	Yeah, give it to Al Jazeera, he'll protect us.
+172	00:00:00,000 --> 00:00:00,000	CHARLIE	Al Jazeera is a network.
+174	00:00:00,000 --> 00:00:00,000	BOONE	I'll keep the damn gun.
+176	00:00:00,000 --> 00:00:00,000	SHANNON	We should give it to her. [indicating Kate]
+178	00:00:00,000 --> 00:00:00,000	CHARLIE	Yeah, Kate should hold the gun.
+180	00:00:00,000 --> 00:00:00,000	SAYID	Fine with me. Well?
+182	00:00:00,000 --> 00:00:00,000		[Boone gives the gun to Kate.]
+184	00:00:00,000 --> 00:00:00,000		[Flashback - Shot of Kate sleeping on hay. The sound of a shotgun being cocked waking her.]
+186	00:00:00,000 --> 00:00:00,000	RAY	Good morning.
+188	00:00:00,000 --> 00:00:00,000	KATE	Morning.
+190	00:00:00,000 --> 00:00:00,000	RAY	You were sleeping in my sheep pen.
+192	00:00:00,000 --> 00:00:00,000	KATE	Sorry.
+194	00:00:00,000 --> 00:00:00,000		[Ray lowers his gun and Kate gets up.]
+196	00:00:00,000 --> 00:00:00,000	RAY	How'd you get here?
+198	00:00:00,000 --> 00:00:00,000	KATE	I walked.
+200	00:00:00,000 --> 00:00:00,000	RAY	You walked?
+202	00:00:00,000 --> 00:00:00,000	KATE	Yeah.
+204	00:00:00,000 --> 00:00:00,000	RAY	From where?
+206	00:00:00,000 --> 00:00:00,000	KATE	Town.
+208	00:00:00,000 --> 00:00:00,000	RAY	Nearest town's 15 kilometers.
+210	00:00:00,000 --> 00:00:00,000	KATE	Maybe that's why I was so exhausted.
+212	00:00:00,000 --> 00:00:00,000	RAY	What's your name?
+214	00:00:00,000 --> 00:00:00,000	KATE	Annie.
+216	00:00:00,000 --> 00:00:00,000	RAY	You hungry, Annie?
+218	00:00:00,000 --> 00:00:00,000		[Scene changes to Kate (Annie) and Ray in the farmer's kitchen. Kate is eating and obviously very hungry.]
+220	00:00:00,000 --> 00:00:00,000	RAY	So you want to tell me why you're trespassing on my property?
+222	00:00:00,000 --> 00:00:00,000	KATE	I ran out of money.
+224	00:00:00,000 --> 00:00:00,000	RAY	You're an American.
+226	00:00:00,000 --> 00:00:00,000	KATE	Canadian. I graduated from college and figured I'd see the world. Australia was top of my list so I hopped a flight to Melbourne but I don't know anybody here so I figured I'd walk for awhile, you know.
+228	00:00:00,000 --> 00:00:00,000	RAY	Melbourne's 100 kilometers from here.
+230	00:00:00,000 --> 00:00:00,000	KATE	I like walking.
+232	00:00:00,000 --> 00:00:00,000	RAY	And you just happened to wonder onto my farm.
+234	00:00:00,000 --> 00:00:00,000	KATE	I like farms, too.
+236	00:00:00,000 --> 00:00:00,000	RAY	Do you know how to work one?
+238	00:00:00,000 --> 00:00:00,000	KATE	Yeah.
+240	00:00:00,000 --> 00:00:00,000	RAY	My wife died 8 months ago Wednesday. She left me with too many chores and a hell of a mortgage. If you help me with the first one, I'll give you a fair wage and a place to stay.
+242	00:00:00,000 --> 00:00:00,000	KATE	Deal.
+244	00:00:00,000 --> 00:00:00,000		[Kate reaches to shake his hand. He pulls his arm up and sets in the table with a thud and raps it a couple of times to show it's artificial.]
+246	00:00:00,000 --> 00:00:00,000	RAY	No. I'm a lefty.
+248	00:00:00,000 --> 00:00:00,000		[On-Island - Shot of Hurley running on the beach toward the infirmary Jack has made.]
+250	00:00:00,000 --> 00:00:00,000	HURLEY	Dude, dude, they're back.
+252	00:00:00,000 --> 00:00:00,000		[Shot of Sayid with a group gathered around him on the beach.]
+254	00:00:00,000 --> 00:00:00,000	SAYID	As you and the others know, we hiked up the mountain in an attempt to help the rescue team locate us. The transceiver failed to pick up a signal. We weren't able to send out a call for help. [Shot of Kate and Shannon.] But we're not giving up. If we gather electronic equipment - your cell phones, laptops - I can boost the signal and we can try again, but that may take some time. So for now, we should begin rationing our remaining food. If it rains, we should set up tarps to collect water. I need to organize 3 separate groups. Each group should have a leader. [Shot of Jack walking up.] One group for water - I'll organize that. Who's going to organize electronics? [Kate starts walking toward Jack.] You? Rationing food? Okay. And I believe a third group should concern themselves with the construction of...
+256	00:00:00,000 --> 00:00:00,000		[Shot of Hurley watching Kate as she approaches Jack.]
+258	00:00:00,000 --> 00:00:00,000	KATE	Hi.
+260	00:00:00,000 --> 00:00:00,000	JACK	Hey.
+262	00:00:00,000 --> 00:00:00,000	KATE	I, um, I need to tell you something.
+264	00:00:00,000 --> 00:00:00,000	JACK	Okay, sure.
+266	00:00:00,000 --> 00:00:00,000	KATE	We couldn't send out a signal because there was another signal blocking it. The other signal - we heard it. It was a distress call from a French woman. She said that the others were dead - something had killed them all. She was alone on the Island. It's been playing for 16 years, Jack. I wanted to tell you.
+268	00:00:00,000 --> 00:00:00,000	JACK	Anything else?
+270	00:00:00,000 --> 00:00:00,000	KATE	[looking toward the infirmary] How is he - the man with the shrapnel in his side?
+272	00:00:00,000 --> 00:00:00,000	JACK	It's touch-and-go.
+274	00:00:00,000 --> 00:00:00,000	KATE	He wake up?
+276	00:00:00,000 --> 00:00:00,000	JACK	No, just for a few seconds during the surgery.
+278	00:00:00,000 --> 00:00:00,000	KATE	He say anything?
+280	00:00:00,000 --> 00:00:00,000	JACK	No.
+282	00:00:00,000 --> 00:00:00,000		[Shot of people busy at the beach. Jack and Hurley carrying airline seats.]
+284	00:00:00,000 --> 00:00:00,000	HURLEY	So what'd she say?
+286	00:00:00,000 --> 00:00:00,000	JACK	She didn't say anything.
+288	00:00:00,000 --> 00:00:00,000	HURLEY	But you told her you knew?
+290	00:00:00,000 --> 00:00:00,000	JACK	I don't know anything.
+292	00:00:00,000 --> 00:00:00,000	HURLEY	Well, you kind of know she's in that mug shot. And that we found those handcuffs. And that guy keeps mumbling "she's dangerous, she's dangerous" over and over.
+294	00:00:00,000 --> 00:00:00,000	JACK	It's not my business. Not my problem.
+296	00:00:00,000 --> 00:00:00,000	HURLEY	Yeah, you're right. We'll let Johnny Fever take care of her when he gets better.
+298	00:00:00,000 --> 00:00:00,000	JACK	He's not getting better if we don't get some stronger antibiotics.
+300	00:00:00,000 --> 00:00:00,000	HURLEY	That stuff I got from the luggage...
+302	00:00:00,000 --> 00:00:00,000	JACK	It's for ear infections and foot fungus.
+304	00:00:00,000 --> 00:00:00,000	HURLEY	We went through everything, man.
+306	00:00:00,000 --> 00:00:00,000	JACK	What about that luggage in the overhead compartments?
+308	00:00:00,000 --> 00:00:00,000	HURLEY	That's inside the plane.
+310	00:00:00,000 --> 00:00:00,000	JACK	Yeah?
+312	00:00:00,000 --> 00:00:00,000	HURLEY	But, the bodies are in there, and they're all... dead.
+314	00:00:00,000 --> 00:00:00,000	JACK	Look, I'll handle it. Why don't you keep an eye on him...?
+316	00:00:00,000 --> 00:00:00,000	HURLEY	Great. Yeah - love to - on it.
+318	00:00:00,000 --> 00:00:00,000		[Shot of Jack looking at the fuselage. Shot of Jack in the fuselage with a flashlight in his mouth looking at prescription bottles. He hears something moving around and quickly gets up to see what it is. Sawyer pops up.]
+320	00:00:00,000 --> 00:00:00,000	SAWYER	Boo.
+322	00:00:00,000 --> 00:00:00,000	JACK	[relieved/annoyed] What are you doing in here?
+324	00:00:00,000 --> 00:00:00,000	SAWYER	Trick or treat, same as you.
+326	00:00:00,000 --> 00:00:00,000	JACK	You're looting.
+328	00:00:00,000 --> 00:00:00,000	SAWYER	Aww, you say potato...
+330	00:00:00,000 --> 00:00:00,000	JACK	What's in the bag?
+332	00:00:00,000 --> 00:00:00,000	SAWYER	Booze, smokes, couple of Playboys. What's in yours?
+334	00:00:00,000 --> 00:00:00,000	JACK	Medicine.
+336	00:00:00,000 --> 00:00:00,000	SAWYER	Well, that about sums it up, don't it?
+338	00:00:00,000 --> 00:00:00,000	JACK	Do you do this back home, too - steal from the dead?
+340	00:00:00,000 --> 00:00:00,000	SAWYER	Brother, you've to got wake up and smell the bull crap here, rescue ain't comin'. You're just wasting your time. You're trying to save a guy who last time I checked had a piece of metal the size of my head sticking out of his bread basket. Let me ask you something? How many of those pills are you going to use to fix him up?
+342	00:00:00,000 --> 00:00:00,000	JACK	As many as it takes.
+344	00:00:00,000 --> 00:00:00,000	SAWYER	Yeah? How many you got? You're just not looking at the big picture, Doc. You're still back in civilization.
+346	00:00:00,000 --> 00:00:00,000	JACK	Yeah? And where are you?
+348	00:00:00,000 --> 00:00:00,000	SAWYER	Me? I'm in the wild.
+350	00:00:00,000 --> 00:00:00,000		[Shot of Charlie sitting down on the beach while Claire struggles with a piece of luggage. Charlie gets up to help her.]
+352	00:00:00,000 --> 00:00:00,000	CHARLIE	Whoa, hey, I got it. I got it.
+354	00:00:00,000 --> 00:00:00,000	CLAIRE	Thanks.
+356	00:00:00,000 --> 00:00:00,000		[They put the luggage on the wheelchair.]
+358	00:00:00,000 --> 00:00:00,000	CHARLIE	Well, look on the bright side. Whoever's this was is probably better off than we are. I got it.
+360	00:00:00,000 --> 00:00:00,000		[Shot of Sun with a suitcase.]
+362	00:00:00,000 --> 00:00:00,000	SUN	Ã¬â€”Â¬ÃªÂ¸Â°… Ã«â€¹Â¹Ã¬â€¹ ÃªÂ°â‚¬Ã«Â°Â© Ã¬Â°Â¾Ã¬Ââ‚¬ ÃªÂ²Æ’ ÃªÂ°â„¢Ã¬â€¢â€žÃ¬Å¡â€! [Subtitle: I think I found your bag.]
+364	00:00:00,000 --> 00:00:00,000	JIN	ÃªÂ·Â¸Ã«Å¾Ëœ? Ã«Â³Â´Ã¬Å¾Â. Ã¬â€¢â€žÃ«â€¹Ë†Ã¬â€¢Â¼. [Subtitle: Really? Let's see. No, this isn't it.]
+366	00:00:00,000 --> 00:00:00,000	SUN	ÃªÂ·Â¸Ã«Å¸Â¼ ÃªÂ³â€žÃ¬â€ Â Ã¬Â°Â¾Ã¬â€¢â€žÃ«Â³Â¼ÃªÂ²Å’Ã¬Å¡â€. [Subtitle: Then I'll keep looking.]
+368	00:00:00,000 --> 00:00:00,000	JIN	Ã¬Å¾Â ÃªÂ¹Â, Ã¬ÂÂ´Ã«Â¦Â¬ Ã¬â„¢â‚¬ Ã«Â´Â. Ã«â€¹Ë† Ã«ÂªÂ¨Ã¬Å Âµ Ã¬Â¢â‚¬ Ã«Â´Â¤Ã«â€¹Ë†? Ã«â€¹Ë† Ã¬ËœÂ·Ã­â€¢ËœÃªÂ³ Ã¬â€“Â¼ÃªÂµÂ´Ã¬ÂÂ´ Ã«â€žË†Ã«Â¬Â´ Ã«Ââ€Ã«Å¸Â¬Ã¬â€ºÅ’ Ã«Â³Â´Ã¬â€”Â¬. Ã«Â¹Â¨Ã«Â¦Â¬ Ã¬â€Â»Ã¬â€“Â´Ã«ÂÂ¼. Ã¬Å¾ÂÃªÂ¸Â°Ã¬â€¢Â¼. Ã¬â€šÂ¬Ã«Å¾â€˜Ã­â€¢Â´. [Subtitle: Come here. Have you seen yourself? Your clothes. You're filthy. Go wash up. Sun. I love you.]
+370	00:00:00,000 --> 00:00:00,000		[Scene switches back to Charlie and Claire pulling the wheelchair across the sand.]
+372	00:00:00,000 --> 00:00:00,000	CHARLIE	So, how's the baby?
+374	00:00:00,000 --> 00:00:00,000	CLAIRE	It's okay, I think.
+376	00:00:00,000 --> 00:00:00,000	CHARLIE	Good. So, your husband. Was he on the flight?
+378	00:00:00,000 --> 00:00:00,000	CLAIRE	Oh, no. I'm not married.
+380	00:00:00,000 --> 00:00:00,000	CHARLIE	Oh.
+382	00:00:00,000 --> 00:00:00,000	CLAIRE	I know - how modern of me.
+384	00:00:00,000 --> 00:00:00,000	CHARLIE	Well, who needs men, right? Bloody useless.
+386	00:00:00,000 --> 00:00:00,000	CLAIRE	[laughing] So, you guys hiked all the way up that mountain for nothing, huh?
+388	00:00:00,000 --> 00:00:00,000		[Shot of Hurley running out of the infirmary with water bottles, and he runs into Kate.]
+390	00:00:00,000 --> 00:00:00,000	KATE	Hey, sorry.
+392	00:00:00,000 --> 00:00:00,000	HURLEY	I was going to get some more water.
+394	00:00:00,000 --> 00:00:00,000	KATE	We haven't met. I'm Kate.
+396	00:00:00,000 --> 00:00:00,000	HURLEY	Hi, Kate.
+398	00:00:00,000 --> 00:00:00,000	KATE	Hi.
+400	00:00:00,000 --> 00:00:00,000	HURLEY	Hurley.
+402	00:00:00,000 --> 00:00:00,000	KATE	I was just looking for Jack and I thought he might be in there.
+404	00:00:00,000 --> 00:00:00,000	HURLEY	Yeah, no. Uh, he went to go get some medicine... over there.
+406	00:00:00,000 --> 00:00:00,000		[Shot of Kate reveals a gun in her back waistband.]
+408	00:00:00,000 --> 00:00:00,000	KATE	Where? In the fuselage?
+410	00:00:00,000 --> 00:00:00,000	HURLEY	What? Yeah, in the uh, uh, you know? I've got to get that water. [Hurley runs off.]
+412	00:00:00,000 --> 00:00:00,000		[It starts raining and people start trying to collect rainwater, running for shelter. Shot of the Marshal. Kate come up very close - her face near his face.]
+414	00:00:00,000 --> 00:00:00,000		[Flashback - Shot of Kate at Ray's house in the pantry. She removes a panel to a secret compartment with a can of money. She takes the money. Ray turns on the light.]
+416	00:00:00,000 --> 00:00:00,000	RAY	The bank would have given you a heck of a toaster if you had kept that in a savings account.
+418	00:00:00,000 --> 00:00:00,000	KATE	What do I need a toaster for?
+420	00:00:00,000 --> 00:00:00,000	RAY	You're hiding your wages in a tin can, Annie. I mean, I would have held on to it for you.
+422	00:00:00,000 --> 00:00:00,000	KATE	I got trust issues.
+424	00:00:00,000 --> 00:00:00,000	RAY	Weren't you going to say goodbye?
+426	00:00:00,000 --> 00:00:00,000	KATE	Wrote you a note.
+428	00:00:00,000 --> 00:00:00,000	RAY	You've been here almost 3 months, Annie. And every time I ask you about yourself, you get that look in your eye. Yeah, that one. So, I mind my own business. I figured maybe you got off on the wrong side of a bad relationship. Maybe you ran. I always knew you'd leave here someday. I guess I hoped it wouldn't be in the middle of the night.
+430	00:00:00,000 --> 00:00:00,000	KATE	I'm sorry.
+432	00:00:00,000 --> 00:00:00,000	RAY	Yeah, so am I.
+434	00:00:00,000 --> 00:00:00,000		[Kate starts to leave.]
+436	00:00:00,000 --> 00:00:00,000	RAY	Hey, Annie, why don't you just stay one more night, eh? I'll drive you to the train station first thing in the morning. I promise.
+438	00:00:00,000 --> 00:00:00,000	KATE	Okay.
+440	00:00:00,000 --> 00:00:00,000	RAY	I get it, you know. Everyone deserves a fresh start.
+442	00:00:00,000 --> 00:00:00,000		[On-Island - Kate is staring at the face of the Marshal. He opens his eyes and grabs her around the neck. Jack walks in.]
+444	00:00:00,000 --> 00:00:00,000	Jack	Damn it. Damn it.
+446	00:00:00,000 --> 00:00:00,000		[Jack starts to break them up. The Marshal goes into convulsions.]
+448	00:00:00,000 --> 00:00:00,000	JACK	Just breathe. Come on, come on, look, look at me, look. [To Kate] What did you do?
+450	00:00:00,000 --> 00:00:00,000	KATE	I was just checking to if he was... he jumped on me. He grabbed me. Is he... okay?
+452	00:00:00,000 --> 00:00:00,000	JACK	He's not responding to antibiotics, he's bleeding internally, his fever's pushing 104. And his abdomen's rigid. He needs water.
+454	00:00:00,000 --> 00:00:00,000		[Jack leaves to get water, Kate follows. It's still raining.]
+456	00:00:00,000 --> 00:00:00,000	KATE	So, what are you going to do about it?
+458	00:00:00,000 --> 00:00:00,000	JACK	About what?
+460	00:00:00,000 --> 00:00:00,000	KATE	About him.
+462	00:00:00,000 --> 00:00:00,000	JACK	I told you, he needs water.
+464	00:00:00,000 --> 00:00:00,000	KATE	Will he suffer?
+466	00:00:00,000 --> 00:00:00,000	JACK	What?
+468	00:00:00,000 --> 00:00:00,000	KATE	Will it be quick?
+470	00:00:00,000 --> 00:00:00,000	JACK	No. It won't be quick. 2, 3, maybe 4 days.
+472	00:00:00,000 --> 00:00:00,000	KATE	And he'll feel it?
+474	00:00:00,000 --> 00:00:00,000	JACK	Yeah, he'll feel it.
+476	00:00:00,000 --> 00:00:00,000	KATE	Can't you put him out of his misery?
+478	00:00:00,000 --> 00:00:00,000	JACK	I saw your mug shot, Kate. I am not a murderer.
+480	00:00:00,000 --> 00:00:00,000		[Flashback - We see Kate in the truck with Ray driving along a highway.]
+482	00:00:00,000 --> 00:00:00,000	RAY	Do they listen to Patsy Cline in Canada?
+484	00:00:00,000 --> 00:00:00,000	KATE	They listen to Patsy Cline everywhere.
+486	00:00:00,000 --> 00:00:00,000	RAY	You hungry?
+488	00:00:00,000 --> 00:00:00,000	KATE	I'll eat on the train.
+490	00:00:00,000 --> 00:00:00,000	RAY	You sure? There's a little place up here that makes a mean burger.
+492	00:00:00,000 --> 00:00:00,000		[Ray looks at a car in his rearview mirror.]
+494	00:00:00,000 --> 00:00:00,000	KATE	What are you looking for, Ray?
+496	00:00:00,000 --> 00:00:00,000	RAY	What?
+498	00:00:00,000 --> 00:00:00,000	KATE	How long have you known?
+500	00:00:00,000 --> 00:00:00,000	RAY	Couple of days. I saw your picture in the post office. I guess they knew you were Down Under.
+502	00:00:00,000 --> 00:00:00,000	KATE	[looking hurt] Why?
+504	00:00:00,000 --> 00:00:00,000	RAY	The reward's 23,000 dollars. I told you when I met you, I've got a hell of a mortgage. If it makes you feel any better, it was a hard decision, Annie.
+506	00:00:00,000 --> 00:00:00,000	KATE	My name's not Annie.
+508	00:00:00,000 --> 00:00:00,000		[The truck following them speeds up to come alongside. We see the Marshal roll down his window and make a "shooting gun" gesture with his hand at Kate.]
+510	00:00:00,000 --> 00:00:00,000		[Back on the island, we see Kate in the rain at the beach.]
+512	00:00:00,000 --> 00:00:00,000		[Shot of Walt and Michael in the rain.]
+514	00:00:00,000 --> 00:00:00,000	MICHAEL	Hey, who was that guy you were hanging out with?
+516	00:00:00,000 --> 00:00:00,000	WALT	What guy?
+518	00:00:00,000 --> 00:00:00,000	MICHAEL	The bald guy.
+520	00:00:00,000 --> 00:00:00,000	WALT	Oh, Mr. Locke?
+522	00:00:00,000 --> 00:00:00,000	MICHAEL	Mr. Locke got any kids?
+524	00:00:00,000 --> 00:00:00,000	WALT	He didn't say.
+526	00:00:00,000 --> 00:00:00,000	MICHAEL	Yeah, what did he say?
+528	00:00:00,000 --> 00:00:00,000	WALT	I don't know.
+530	00:00:00,000 --> 00:00:00,000	MICHAEL	What do you mean you don't know. What did he say?
+532	00:00:00,000 --> 00:00:00,000	WALT	Some of it's secret.
+534	00:00:00,000 --> 00:00:00,000	MICHAEL	Did he tell you not to tell me?
+536	00:00:00,000 --> 00:00:00,000	WALT	No.
+538	00:00:00,000 --> 00:00:00,000	MICHAEL	Then what's the secret?
+540	00:00:00,000 --> 00:00:00,000	WALT	Mr. Locke said a miracle happened to him.
+542	00:00:00,000 --> 00:00:00,000	MICHAEL	Yeah, well, a miracle happened to all of us, Walt. We survived a plane crash. Look, I don't want you hanging around with him anymore.
+544	00:00:00,000 --> 00:00:00,000	WALT	Why not? He's my friend.
+546	00:00:00,000 --> 00:00:00,000	MICHAEL	Hey, I'm your friend, too.
+548	00:00:00,000 --> 00:00:00,000	WALT	If you were my friend, you'd find Vincent.
+550	00:00:00,000 --> 00:00:00,000	MICHAEL	Walt, look, I haven't given up on your dog. I'm going to do everything I can to find him.
+552	00:00:00,000 --> 00:00:00,000	WALT	No you won't.
+554	00:00:00,000 --> 00:00:00,000	MICHAEL	Yeah, Walt, I will.
+556	00:00:00,000 --> 00:00:00,000	WALT	You don't care about Vincent.
+558	00:00:00,000 --> 00:00:00,000	MICHAEL	I'm going to get your dog back as soon as it stops raining. Hey listen to me, I'm going to get your dog back. [The rain stops.]
+560	00:00:00,000 --> 00:00:00,000		[Shot of jungle.]
+562	00:00:00,000 --> 00:00:00,000	MICHAEL	[off camera at first, talking to himself] Yeah, soon as it stops raining - good, nice. I'm going to find your dog... yeah, I'm just going to go walking through the haunted damn jungle looking for your... [Michael hears something] Vincent?
+564	00:00:00,000 --> 00:00:00,000		[We hear some animal sounds.]
+566	00:00:00,000 --> 00:00:00,000	MICHAEL	Vincent? That you buddy?
+568	00:00:00,000 --> 00:00:00,000		[More animal growling sounds/movement. Michael takes off running. Eventually, he comes to a clearing where Sun is having a sponge bath.]
+570	00:00:00,000 --> 00:00:00,000	MICHAEL	Oh. Something was chasing me so, uh.. I don't hear it now. But you should probably head back. [He hands her her bra.] Uh, I didn't see anything, you know, if you're worried about it... I didn't see anything.
+572	00:00:00,000 --> 00:00:00,000		[Shot of the Marshal crying out in pain. Shot of Locke with a small piece of wood. Charlie walking by. They can hear the Marshal crying out.]
+574	00:00:00,000 --> 00:00:00,000	CHARLIE	What are you making?
+576	00:00:00,000 --> 00:00:00,000	LOCKE	Whistle.
+578	00:00:00,000 --> 00:00:00,000	CHARLIE	I used some tribal flutes once in a recording session. I'm in a band.
+580	00:00:00,000 --> 00:00:00,000		[Shot of Shannon approaching Boone.]
+582	00:00:00,000 --> 00:00:00,000	SHANNON	I wish he would just die already.
+584	00:00:00,000 --> 00:00:00,000	BOONE	Real humane, Shannon.
+586	00:00:00,000 --> 00:00:00,000		[Shot of Sayid walking to Jack who's getting water from the rain tarp.]
+588	00:00:00,000 --> 00:00:00,000	SAYID	Anything I can do to help?
+590	00:00:00,000 --> 00:00:00,000	JACK	No, I'm good, thanks.
+592	00:00:00,000 --> 00:00:00,000	SAYID	The others are getting upset. They want to know what's going on inside the tent.
+594	00:00:00,000 --> 00:00:00,000	JACK	Trying to save his life.
+596	00:00:00,000 --> 00:00:00,000	SAYID	Rumor has it you can't.
+598	00:00:00,000 --> 00:00:00,000		[Jack walks away without responding. We see Kate stacking logs to make a fire. Sound of Marshal moaning in the background. Kate is getting matches ready when we see a lighter being lit in the foreground.]
+600	00:00:00,000 --> 00:00:00,000	SAWYER	Need a light?
+602	00:00:00,000 --> 00:00:00,000		[Kate nods. He throws her the lighter.]
+604	00:00:00,000 --> 00:00:00,000	SAWYER	Came by to thank you. You going to ask what for?
+606	00:00:00,000 --> 00:00:00,000	KATE	What for?
+608	00:00:00,000 --> 00:00:00,000	SAWYER	For taking that gun away from me.
+610	00:00:00,000 --> 00:00:00,000	KATE	I didn't take it away from you.
+612	00:00:00,000 --> 00:00:00,000	SAWYER	It's sticking out of your denims, ain't it? I sure wouldn't want to be the one with that gun right now. Because everyone sitting out there listening to that poor boy scream all night knows what's got to be done. Only one that can do it is the one with that gun. Don't act so surprised. I heard you tell the hero the same thing. Hell, there's only one bullet left - be damned near poetic.
+614	00:00:00,000 --> 00:00:00,000		[Shot of the Marshal in a lot of pain. Jack gives him some water.]
+616	00:00:00,000 --> 00:00:00,000	MARSHAL	Listen to me.
+618	00:00:00,000 --> 00:00:00,000	JACK	No, you need to keep quiet.
+620	00:00:00,000 --> 00:00:00,000	MARSHAL	Listen to me, no matter what she does - no matter how she makes you feel, don't you trust a word that she says. She will do anything to get away.
+622	00:00:00,000 --> 00:00:00,000	JACK	What did she do?
+624	00:00:00,000 --> 00:00:00,000	MARSHAL	I want to talk to her.
+626	00:00:00,000 --> 00:00:00,000	JACK	Tell me what she did.
+628	00:00:00,000 --> 00:00:00,000	MARSHAL	I want to talk to her, alone. [Jack just looks at him.] She got to you, too, huh?
+630	00:00:00,000 --> 00:00:00,000		[Shot of Kate approaching the infirmary with the gun in her jeans. Sound of the Marshal moaning.]
+632	00:00:00,000 --> 00:00:00,000		[Flashback - We see the Marshal making the "gun shooting" hand gesture at Kate in the truck again. Car chase ensues, and Kate grabs the wheel of Ray's truck forcing them off the road, overturning. The car catches fire and Kate pulls Ray to safety. She pulls his artificial arm off while dragging him to the side of the road.]
+634	00:00:00,000 --> 00:00:00,000	MARSHAL	[pointing his gun at Kate's head] Hey, Kate.
+636	00:00:00,000 --> 00:00:00,000		[On-Island - Shot of Kate back on the island in the tent with the Marshal.]
+638	00:00:00,000 --> 00:00:00,000	MARSHAL	What was it?
+640	00:00:00,000 --> 00:00:00,000	KATE	What?
+642	00:00:00,000 --> 00:00:00,000	MARSHAL	The favor.
+644	00:00:00,000 --> 00:00:00,000	KATE	I don't know what you're talking about.
+646	00:00:00,000 --> 00:00:00,000	MARSHAL	The last thing I heard before the crash - you wanted a favor.
+648	00:00:00,000 --> 00:00:00,000		[Flashback to plane crash during heavy turbulence.]
+650	00:00:00,000 --> 00:00:00,000	KATE	I have one favor to ask.
+652	00:00:00,000 --> 00:00:00,000	MARSHAL	Really? This ought to be good.
+654	00:00:00,000 --> 00:00:00,000		[Sudden extreme turbulence. The case hits the Marshal in the head. The tail breaks off.]
+656	00:00:00,000 --> 00:00:00,000	MARSHAL	[back on the island] Well?
+658	00:00:00,000 --> 00:00:00,000	KATE	I wanted you to make sure that Ray Mullen got his 23 grand.
+660	00:00:00,000 --> 00:00:00,000	MARSHAL	What-the guy who ratted you out?
+662	00:00:00,000 --> 00:00:00,000	KATE	He had a hell of a mortgage.
+664	00:00:00,000 --> 00:00:00,000	MARSHAL	You really are one of a kind. You know, you would have got away if you hadn't saved him.
+666	00:00:00,000 --> 00:00:00,000	KATE	In case you hadn't noticed, I did get away.
+668	00:00:00,000 --> 00:00:00,000	MARSHAL	You don't look free to me. Kate, I'm going to die, right?
+670	00:00:00,000 --> 00:00:00,000	KATE	Yeah.
+672	00:00:00,000 --> 00:00:00,000	MARSHAL	So, are you going to do it, or what?
+674	00:00:00,000 --> 00:00:00,000		[Shot of Jack looking out to sea at night. Hurley approaches.]
+676	00:00:00,000 --> 00:00:00,000	HURLEY	Yo, so, where's the fugitive?
+678	00:00:00,000 --> 00:00:00,000	JACK	In the tent.
+680	00:00:00,000 --> 00:00:00,000	HURLEY	You let her in there alone?
+682	00:00:00,000 --> 00:00:00,000	JACK	What's she going to do? She's 120 pounds soaking wet.
+684	00:00:00,000 --> 00:00:00,000	HURLEY	Yeah, but she's got that gun.
+686	00:00:00,000 --> 00:00:00,000	JACK	What?
+688	00:00:00,000 --> 00:00:00,000	HURLEY	She's strapped, man. I saw it in her... in her... in her... in her...
+690	00:00:00,000 --> 00:00:00,000		[Jack runs toward the infirmary. He sees Kate leaving.]
+692	00:00:00,000 --> 00:00:00,000	JACK	Kate?!
+694	00:00:00,000 --> 00:00:00,000		[They hear a gun shot. Kate walks away. Sawyer comes walking out with the gun.]
+696	00:00:00,000 --> 00:00:00,000	JACK	What did you do?
+698	00:00:00,000 --> 00:00:00,000	SAWYER	What you couldn't. Look, I get where you're coming from being a doctor and all, but he wanted it. Hell, he asked me. So, I don't like it any more than you do, but something had to be done.
+700	00:00:00,000 --> 00:00:00,000		[Sound of choking sounds come from the infirmary tent.]
+702	00:00:00,000 --> 00:00:00,000	HURLEY	Oh, no way. Guys?
+704	00:00:00,000 --> 00:00:00,000		[Jack and Sawyer go back in the tent. Jack tries to stop the bleeding.]
+706	00:00:00,000 --> 00:00:00,000	JACK	You shot him in the chest?
+708	00:00:00,000 --> 00:00:00,000	SAWYER	I was aiming for his heart.
+710	00:00:00,000 --> 00:00:00,000	JACK	You missed.
+712	00:00:00,000 --> 00:00:00,000	HURLEY	[from the entrance of the tent] Man, is he still breathing?
+714	00:00:00,000 --> 00:00:00,000	JACK	You perforated his lung. It'll take hours to bleed out.
+716	00:00:00,000 --> 00:00:00,000	SAWYER	So what is-I only had one bullet.
+718	00:00:00,000 --> 00:00:00,000	JACK	Get out. Get out!
+720	00:00:00,000 --> 00:00:00,000	HURLEY	[leaving] Oh boy.
+722	00:00:00,000 --> 00:00:00,000		[Sawyer leaves feeling bad, and tries to light a smoke but the lighter doesn't light. He throws the cigarette away.]
+724	00:00:00,000 --> 00:00:00,000	SAWYER	Damn it!
+726	00:00:00,000 --> 00:00:00,000		[The Marshal's sounds of pain stop. Jack walks out of the tent.]
+728	00:00:00,000 --> 00:00:00,000		[Shot of Locke sitting on the beach blowing his whistle. Vincent shows up. Locke wakes Michael up but quiets him so as not to wake up Walt.]
+730	00:00:00,000 --> 00:00:00,000	LOCKE	I found your son's dog.
+732	00:00:00,000 --> 00:00:00,000	MICHAEL	What?
+734	00:00:00,000 --> 00:00:00,000	LOCKE	Vincent-I tethered him to a tree just over there. I know that Walt lost his mom. I thought that you should be the one to bring his dog back to him.
+736	00:00:00,000 --> 00:00:00,000	MICHAEL	Hey, thanks.
+738	00:00:00,000 --> 00:00:00,000	LOCKE	Welcome.
+740	00:00:00,000 --> 00:00:00,000		[Shot of Jack looking out to sea. Kate joins him.]
+742	00:00:00,000 --> 00:00:00,000	KATE	I want to tell you what I did - why he was after me.
+744	00:00:00,000 --> 00:00:00,000	JACK	I don't want to know. It doesn't matter, Kate, who we were - what we did before this, before the crash. It doesn't really... 3 days ago we all died. We should all be able to start over.
+746	00:00:00,000 --> 00:00:00,000	KATE	Okay.
+748	00:00:00,000 --> 00:00:00,000	JACK	Okay.
+750	00:00:00,000 --> 00:00:00,000		[Hurley listening to his headphones. Jin looking at a sleeping Sun, touching her hair. Boone gives sunglasses to Shannon. Sayid tosses Sawyer an apple. Charlie writing "late" on his finger tapes. Claire sitting on the beach. Michael bringing Vincent to Walt with Locke looking on-nice song fades to creepy music.]

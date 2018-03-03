@@ -1,0 +1,317 @@
+Man of Science, Man of Faith
+2	00:00:00,000 --> 00:00:00,000	Written by	Damon Lindelof
+4	00:00:00,000 --> 00:00:00,000	Directed by	Jack Bender
+6	00:00:00,000 --> 00:00:00,000		[Scene opens black with a blip sound; eye opens; green cursor on computer screen; unknown man enters numbers and presses 'execute' button. He goes through a morning routine and injects himself with something from an Rx bottle that has the numbers on the label. He hears an explosion, gets weapons from a vault, turns the lights down, looks through a scope, adjusts mirrors so he can see the hatch area. Camera pans up to Jack and Locke looking down.]
+8	00:00:00,000 --> 00:00:00,000		[Hurley and Kate standing near the hatch.]
+10	00:00:00,000 --> 00:00:00,000	HURLEY	4, 8, 15, 16, 23, 42. 4, 8, we're dead, 15, doomed and dead, 16, 23, 42...
+12	00:00:00,000 --> 00:00:00,000	KATE	Hurley, you okay?
+14	00:00:00,000 --> 00:00:00,000	HURLEY	Huh? Yeah, awesome. I just have to pee. [as Kate moves forward to peek into the hatch] Great idea, dude, go look into the burning death hole.
+16	00:00:00,000 --> 00:00:00,000		[Kate, Jack, and Locke peering into the hatch.]
+18	00:00:00,000 --> 00:00:00,000	KATE	What is it?
+20	00:00:00,000 --> 00:00:00,000	JACK	It doesn't matter what it is. We blew the door so we could get everyone inside this thing so we could be safe. That plan is not going to work. We'll never get everyone down in time.
+22	00:00:00,000 --> 00:00:00,000		[Locke drops a rock into the hatch.]
+24	00:00:00,000 --> 00:00:00,000	KATE	Water.
+26	00:00:00,000 --> 00:00:00,000	LOCKE	It's shallow. It sounds like a puddle.
+28	00:00:00,000 --> 00:00:00,000	KATE	40 feet down?
+30	00:00:00,000 --> 00:00:00,000	LOCKE	50 tops. If we could use the wire we pulled from the fuselage -- rig up a harness...
+32	00:00:00,000 --> 00:00:00,000	JACK	John, we're leaving now.
+34	00:00:00,000 --> 00:00:00,000	HURLEY	Yes, good idea. Let's do that.
+36	00:00:00,000 --> 00:00:00,000	LOCKE	We all went through a lot to get here, Jack.
+38	00:00:00,000 --> 00:00:00,000	JACK	The ladder's broken. You going to lower 40 people down there one by one? They're waiting for us to come back and tell them what to do, so let's forget about the harnesses.
+40	00:00:00,000 --> 00:00:00,000	KATE	Jack?
+42	00:00:00,000 --> 00:00:00,000	JACK	What?
+44	00:00:00,000 --> 00:00:00,000	LOCKE	Why don't we all just calm down here.
+46	00:00:00,000 --> 00:00:00,000	JACK	Look, if you want to go exploring in the morning that's fine, but tonight we're done. I'm going to go get the dynamite that we didn't use and we're heading back to the caves. How about you pack it up, John?
+48	00:00:00,000 --> 00:00:00,000	LOCKE	Sure, of course.
+50	00:00:00,000 --> 00:00:00,000	JACK	Okay.
+52	00:00:00,000 --> 00:00:00,000	LOCKE	Why don't you want to go down there, Jack?
+54	00:00:00,000 --> 00:00:00,000		[Flashback - Jack in the hospital ER -- woman being wheeled in on gurney.]
+56	00:00:00,000 --> 00:00:00,000	EMT	Female, late 20's, no ID, she coded twice on the way over here.
+58	00:00:00,000 --> 00:00:00,000	NURSE	Where's the other one?
+60	00:00:00,000 --> 00:00:00,000	EMT	Right behind us. They're on their way -- Fire Department had to use the jaws.
+62	00:00:00,000 --> 00:00:00,000	INTERN	What do we got here?
+64	00:00:00,000 --> 00:00:00,000	NURSE	Female, late 20s...
+66	00:00:00,000 --> 00:00:00,000	INTERN	[referring to a piece of metal sticking in the patient's breast] What the hell is that?
+68	00:00:00,000 --> 00:00:00,000	JACK	[entering] Piece of the steering column. All right, let's go. Keep that collar steady. Page my father.
+70	00:00:00,000 --> 00:00:00,000	INTERN	Already did.
+72	00:00:00,000 --> 00:00:00,000	JACK	[to EMT] Tell me.
+74	00:00:00,000 --> 00:00:00,000	EMT	Her tire blew, car jumped the divider, went head-on with an SUV.
+76	00:00:00,000 --> 00:00:00,000	NURSE	BP's dropping.
+78	00:00:00,000 --> 00:00:00,000	JACK	Pericardial's pierced. Was she driving?
+80	00:00:00,000 --> 00:00:00,000	EMT	Yes, alone.
+82	00:00:00,000 --> 00:00:00,000	JACK	Where's the driver of the SUV?
+84	00:00:00,000 --> 00:00:00,000		[A man is wheeled in on a gurney.]
+86	00:00:00,000 --> 00:00:00,000	EMT #2	Adam Rutherford, 57, chest trauma, no breath sounds.
+88	00:00:00,000 --> 00:00:00,000	JACK	[to Intern] Tube Mr. Rutherford while I...
+90	00:00:00,000 --> 00:00:00,000	INTERN	I can't intubate, you've got to.
+92	00:00:00,000 --> 00:00:00,000	NURSE	Dr. Shephard, her BP's 80 over 60.
+94	00:00:00,000 --> 00:00:00,000	NURSE #2	Dr. Shephard, his breathing's deteriorating.
+96	00:00:00,000 --> 00:00:00,000	JACK	[deciding to work on the woman] Okay, need a syringe -- big one. You, hold pressure. [He pulls the piece of the steering column out of the woman's chest.]
+98	00:00:00,000 --> 00:00:00,000	NURSE	88 over 52, no radial pulse.
+100	00:00:00,000 --> 00:00:00,000	JACK	I know. I know -- sac's flooded. Where's that...
+102	00:00:00,000 --> 00:00:00,000	NURSE	[handing him a syringe] Right here. Got it?
+104	00:00:00,000 --> 00:00:00,000	JACK	Yep.
+106	00:00:00,000 --> 00:00:00,000	NURSE #2	Doctor, we're losing him.
+108	00:00:00,000 --> 00:00:00,000		[Jack continues working on the woman as we hear the sound of Adam Rutherford's heart monitor flat-lining.]
+110	00:00:00,000 --> 00:00:00,000	NURSE	BP stabilizing.
+112	00:00:00,000 --> 00:00:00,000	NURSE #2	Time of death 8:15am.
+114	00:00:00,000 --> 00:00:00,000	JACK	Okay, get me a blood gas and a C-spine. Get her up to ICU and keep her immobilized.
+116	00:00:00,000 --> 00:00:00,000		[We see that the woman Jack has been working on is Sarah.]
+118	00:00:00,000 --> 00:00:00,000	SARAH	[whispering weakly] I want to dance at my wedding.
+120	00:00:00,000 --> 00:00:00,000	INTERN	Did you hear that?
+122	00:00:00,000 --> 00:00:00,000	NURSE	Sweetie, you need to take it easy, okay. Just relax.
+124	00:00:00,000 --> 00:00:00,000	INTERN	What did she say?
+126	00:00:00,000 --> 00:00:00,000	JACK	She said she has to dance at her wedding.
+128	00:00:00,000 --> 00:00:00,000		[On-Island - The people at the caves.]
+130	00:00:00,000 --> 00:00:00,000	CHARLIE	Okay, no one is out there. No one is coming.
+132	00:00:00,000 --> 00:00:00,000	N.D. Survivor	But the -- but the French woman said...
+134	00:00:00,000 --> 00:00:00,000	CHARLIE	The French woman is missing a bloody wing nut, you know. I mean, I mean, it was all bollocks. It's a ghost story. She set the fire herself. [Charlie sees Sayid looking at him.] What?
+136	00:00:00,000 --> 00:00:00,000	SAYID	Nothing.
+138	00:00:00,000 --> 00:00:00,000	SHANNON	[to various Redshirts] Has anyone seen Vincent -- the dog? Anyone seen him? Has anyone seen the dog?
+140	00:00:00,000 --> 00:00:00,000	REDSHIRT	No.
+142	00:00:00,000 --> 00:00:00,000	SAYID	Where are you going?
+144	00:00:00,000 --> 00:00:00,000	SHANNON	I lost the damn dog.
+146	00:00:00,000 --> 00:00:00,000		[At the hatch - Locke is looking down it with a pleased expression.]
+148	00:00:00,000 --> 00:00:00,000	HURLEY	Why'd you do that? Why'd you light the fuse, man?
+150	00:00:00,000 --> 00:00:00,000	LOCKE	Why wouldn't I light the fuse?
+152	00:00:00,000 --> 00:00:00,000	HURLEY	Ah, maybe because I was running towards you, waving my arms, yelling "don't do that?"
+154	00:00:00,000 --> 00:00:00,000	LOCKE	[laughing] Well, you've got a point there. I guess I was just excited to get inside. I mean, that's why we came here, isn't it? That's why we went all the way out to the Black Rock -- and why we got the dynamite to blow the hatch. And we did it so that we could get inside, Hugo.
+156	00:00:00,000 --> 00:00:00,000	JACK	And to save everybody's lives.
+158	00:00:00,000 --> 00:00:00,000	LOCKE	And to save everyone's lives.
+160	00:00:00,000 --> 00:00:00,000	JACK	Or, maybe it was just our destiny, right, John?
+162	00:00:00,000 --> 00:00:00,000	LOCKE	Maybe.
+164	00:00:00,000 --> 00:00:00,000	KATE	Guys, it's the hatch door, you'd better see this.
+166	00:00:00,000 --> 00:00:00,000		[The word "quarantine" is stenciled on the inside of the hatch door.]
+168	00:00:00,000 --> 00:00:00,000		[Shannon and Sayid in the jungle.]
+170	00:00:00,000 --> 00:00:00,000	SHANNON	Vincent!
+172	00:00:00,000 --> 00:00:00,000	SAYID	This is not a good idea.
+174	00:00:00,000 --> 00:00:00,000	SHANNON	I saw him 5 minutes ago. Besides, you're the one who said there isn't anyone out here.
+176	00:00:00,000 --> 00:00:00,000	SAYID	I said we didn't see anyone. The dog will come back on his own. He always does.
+178	00:00:00,000 --> 00:00:00,000	SHANNON	Watching that dog was the one thing anyone has ever asked me to do. If something happens to him...
+180	00:00:00,000 --> 00:00:00,000	SAYID	When was the last time you slept or had something to eat? You're exhausted.
+182	00:00:00,000 --> 00:00:00,000	SHANNON	I can't tell that kid that I lost his dog because I was exhausted.
+184	00:00:00,000 --> 00:00:00,000		[Sound of Vincent barking in the background. Sayid and Shannon try to flank him but he runs off and they follow.]
+186	00:00:00,000 --> 00:00:00,000	SAYID	I'll circle around behind him.
+188	00:00:00,000 --> 00:00:00,000	SHANNON	Okay.
+190	00:00:00,000 --> 00:00:00,000	SAYID	Vincent!
+192	00:00:00,000 --> 00:00:00,000	SHANNON	Sayid! [Shannon loses sight of him.] Sayid! Sayid, where are you?! Sayid! Sayid!
+194	00:00:00,000 --> 00:00:00,000		[Shannon falls and camera does several quick pans around. Then she sees the apparition of a water-soaked Walt standing nearby.]
+196	00:00:00,000 --> 00:00:00,000	SHANNON	Walt?
+198	00:00:00,000 --> 00:00:00,000		[Walt shushes her.]
+200	00:00:00,000 --> 00:00:00,000	SHANNON	What are you doing here?
+202	00:00:00,000 --> 00:00:00,000		[Walt whispers something unintelligible backwards. Shannon looks away and when she looks back Walt is gone.]
+204	00:00:00,000 --> 00:00:00,000	SAYID	Shannon! What is it? What?
+206	00:00:00,000 --> 00:00:00,000		[Locke and Kate walking back to the caves.]
+208	00:00:00,000 --> 00:00:00,000	KATE	Why do you want to get down there so bad?
+210	00:00:00,000 --> 00:00:00,000	LOCKE	-ly. Why do I want to get down there so badly. Jack thinks I'm crazy, doesn't he?
+212	00:00:00,000 --> 00:00:00,000	KATE	Why, because you want to drop into a hatch that's been locked from the inside by a foot-thick steel door that says "quarantine?"
+214	00:00:00,000 --> 00:00:00,000	LOCKE	Well, look at the bright side. The damage is done.
+216	00:00:00,000 --> 00:00:00,000	KATE	The bright side?
+218	00:00:00,000 --> 00:00:00,000	LOCKE	And if Jack thinks I've lost it, I can't blame him, really. Then again, 5 hours ago I was pulled into a hole by what appeared to be a column of black smoke. Did you see it, Kate? [The look on her face indicates that she did.] Then I guess we're both crazy. Wonder what Jack thinks he saw?
+220	00:00:00,000 --> 00:00:00,000		[Jack and Hurley walking back to the caves.]
+222	00:00:00,000 --> 00:00:00,000	HURLEY	You should go ahead, man -- don't want Locke making time with your girl. [Jack shoots him a look] Joke, dude.
+224	00:00:00,000 --> 00:00:00,000	JACK	I'm not really in the mood, Hurley.
+226	00:00:00,000 --> 00:00:00,000	HURLEY	Really? Wow, usually you're, like, Mr. Haha. [Jack chuckles.] There you go. Life's not so bad, right? I mean, sure the Others are coming to, like, eat us all -- and every once in a while someone blows up all over you, but you do get to sleep in every morning.
+228	00:00:00,000 --> 00:00:00,000	JACK	Uh-huh. And the numbers?
+230	00:00:00,000 --> 00:00:00,000	HURLEY	What?
+232	00:00:00,000 --> 00:00:00,000	JACK	"The numbers are bad" -- that's what you were yelling right when I tackled you.
+234	00:00:00,000 --> 00:00:00,000	HURLEY	Yeah, that's kind of a long story.
+236	00:00:00,000 --> 00:00:00,000	JACK	I've got time.
+238	00:00:00,000 --> 00:00:00,000	HURLEY	You'll think I'm crazy.
+240	00:00:00,000 --> 00:00:00,000	JACK	Try me.
+242	00:00:00,000 --> 00:00:00,000	HURLEY	Awhile ago I was in this kind of psych ward, and there was this guy, Leonard -- and all the time I knew him all he ever said were these numbers -- 4, 8, 15, 16, 23, 42 -- over and over and over again. And they kind of got stuck in my head. So, when I got out -- well, actually a couple of months after I got out -- I was buying a frozen burrito and I thought, hey, I should play the lottery. And I guess those numbers were still stuck in my head so I played them. And I won 114 million dollars. That's when it started happening -- my grandpa died, my house caught on fire, the chicken joint that I worked at got hit by a meteor -- well, actually meteorite. Okay, so tonight I see the same freaking numbers on the hatch thing -- just written on the side -- and that's why I tried to stop it -- because that thing is cursed, man.
+244	00:00:00,000 --> 00:00:00,000	JACK	You were in a psych ward?
+246	00:00:00,000 --> 00:00:00,000	HURLEY	I'm not crazy.
+248	00:00:00,000 --> 00:00:00,000	JACK	I'm not saying you are.
+250	00:00:00,000 --> 00:00:00,000	HURLEY	So, what? That's it? That's all?
+252	00:00:00,000 --> 00:00:00,000	JACK	What do you want me to say?
+254	00:00:00,000 --> 00:00:00,000	HURLEY	How about you believe me, man?
+256	00:00:00,000 --> 00:00:00,000	JACK	Hurley, they're numbers.
+258	00:00:00,000 --> 00:00:00,000	HURLEY	What's that thing where doctors make you feel better just by talking to you?
+260	00:00:00,000 --> 00:00:00,000	JACK	Bedside manner.
+262	00:00:00,000 --> 00:00:00,000	HURLEY	Yeah, that. Yours sucks, dude.
+264	00:00:00,000 --> 00:00:00,000		[Flashback - Jack in the hospital looking at Sarah's chart as she comes to.]
+266	00:00:00,000 --> 00:00:00,000	SARAH	What happened to him?
+268	00:00:00,000 --> 00:00:00,000	JACK	Just try to relax, okay?
+270	00:00:00,000 --> 00:00:00,000	SARAH	The car that I hit -- the other driver was older.
+272	00:00:00,000 --> 00:00:00,000	JACK	He died in the ER.
+274	00:00:00,000 --> 00:00:00,000	SARAH	I can't feel anything.
+276	00:00:00,000 --> 00:00:00,000	JACK	I know.
+278	00:00:00,000 --> 00:00:00,000	SARAH	What's happened to me?
+280	00:00:00,000 --> 00:00:00,000	JACK	You have a fracture-dislocation of your thoracic lumbar spine with multiple crushed vertebrae -- your back is broken. Your spleen is ruptured and bleeding into your abdomen and that has to be stopped. [Shot of Christian Shephard looking through a window at Jack and Sarah.] I'm going to perform surgery and repair as much damage as possible. But even the most optimistic result puts the likelihood of retaining any feeling or mobility anywhere below the waist at "extremely unlikely".
+282	00:00:00,000 --> 00:00:00,000	SARAH	Oh.
+284	00:00:00,000 --> 00:00:00,000	CHRISTIAN SHEPHARD	Dr. Shephard, may I have a word, please.
+286	00:00:00,000 --> 00:00:00,000		[Jack and Christian walk down the corridor.]
+288	00:00:00,000 --> 00:00:00,000	JACK	So, what did I do wrong?
+290	00:00:00,000 --> 00:00:00,000	CHRISTIAN SHEPHARD	You did something wrong?
+292	00:00:00,000 --> 00:00:00,000	JACK	You're frowning.
+294	00:00:00,000 --> 00:00:00,000	CHRISTIAN SHEPHARD	My face is always this way.
+296	00:00:00,000 --> 00:00:00,000	JACK	Dad, hey, c'mon, let's hear it.
+298	00:00:00,000 --> 00:00:00,000	CHRISTIAN SHEPHARD	You might want to try handing out some hope every once in awhile. Even if there's a 99 percent probability that they're utterly, hopelessly screwed, folks are much more inclined to hear that 1 percent chance that things are going to be okay.
+300	00:00:00,000 --> 00:00:00,000	JACK	Her spine's crushed. I tell her that everything's going to be okay -- that's false hope, dad.
+302	00:00:00,000 --> 00:00:00,000	CHRISTIAN SHEPHARD	Maybe. Maybe, but it's still hope.
+304	00:00:00,000 --> 00:00:00,000		[On-Island - Back at the caves.]
+306	00:00:00,000 --> 00:00:00,000	SHANNON	I know what I saw! It was him! It was Walt!
+308	00:00:00,000 --> 00:00:00,000	SAYID	Shannon, please lower your voice. You'll upset the rest of the group.
+310	00:00:00,000 --> 00:00:00,000	SHANNON	I heard whispers.
+312	00:00:00,000 --> 00:00:00,000	CLAIRE	Where?
+314	00:00:00,000 --> 00:00:00,000	SHANNON	Everywhere.
+316	00:00:00,000 --> 00:00:00,000	CHARLIE	What -- what whispers? Who?
+318	00:00:00,000 --> 00:00:00,000	SHANNON	I don't know -- Them.
+320	00:00:00,000 --> 00:00:00,000	SUN	Do you think something happened to the raft?
+322	00:00:00,000 --> 00:00:00,000	SAYID	Nothing happened to the raft. Walt is with your husband, with Sawyer...
+324	00:00:00,000 --> 00:00:00,000	SHANNON	Sayid, I know what I saw.
+326	00:00:00,000 --> 00:00:00,000	CHARLIE	[as the hatch group enters] They're back.
+328	00:00:00,000 --> 00:00:00,000		[Jack stands in front of the group to give a speech.]
+330	00:00:00,000 --> 00:00:00,000	JACK	Uh, Locke found, uh, a hatch in the ground about a half a mile from here. We left to -- to blow it open so that we could hide inside -- so all of us could hide inside, in case... But that doesn't matter now because it's not going to work. There's no way for all of us to get down in there tonight.
+332	00:00:00,000 --> 00:00:00,000	CHARLIE	Jack, where's Dr. Arzt?
+334	00:00:00,000 --> 00:00:00,000	JACK	Um, he didn't make it.
+336	00:00:00,000 --> 00:00:00,000	SHANNON	Did you see them? Did you see the Others?
+338	00:00:00,000 --> 00:00:00,000	CHARLIE	Hey, Shannon, there are no Others. We've already had this conversation.
+340	00:00:00,000 --> 00:00:00,000	SHANNON	What the hell would you know about it -- just because you didn't see anything?!
+342	00:00:00,000 --> 00:00:00,000	CHARLIE	There's no one out there.
+344	00:00:00,000 --> 00:00:00,000	SHANNON	You don't know!
+346	00:00:00,000 --> 00:00:00,000	CHARLIE	You're just making up rubbish!
+348	00:00:00,000 --> 00:00:00,000	JACK	Hey! Everything's going to be okay. Let's just take it easy. We're going to be alright. We're going to stay here tonight, okay, together. We've still got 4 guns. We'll put lookouts at all the entrances. We're all going to be safe as long as we stay together. The sun comes up in 3 hours and we're all going to be here to see that happen. I promise. [Locke enters carrying a cable.] John, what are you doing?
+350	00:00:00,000 --> 00:00:00,000	LOCKE	I'm getting some cable.
+352	00:00:00,000 --> 00:00:00,000	JACK	What for?
+354	00:00:00,000 --> 00:00:00,000	LOCKE	It's for the hatch. I'm going in.
+356	00:00:00,000 --> 00:00:00,000	JACK	Do you really think that's the smartest thing to do right now, John?
+358	00:00:00,000 --> 00:00:00,000	LOCKE	I doubt it. In fact, you're right. The safest thing is to stay here -- wait for morning -- wait for these Others, to see if they ever show up -- wait for the brave folks on the raft to bring help -- but me, I'm tired of waiting. [Locke exits.]
+360	00:00:00,000 --> 00:00:00,000		[Close-up of Jack off by himself at the caves, Kate enters.]
+362	00:00:00,000 --> 00:00:00,000	KATE	So, do you believe it?
+364	00:00:00,000 --> 00:00:00,000	JACK	Believe what?
+366	00:00:00,000 --> 00:00:00,000	KATE	That everything's going to be okay?
+368	00:00:00,000 --> 00:00:00,000	JACK	Yeah, I do.
+370	00:00:00,000 --> 00:00:00,000	KATE	Kind of unlike you -- the whole glass half-full thing.
+372	00:00:00,000 --> 00:00:00,000	JACK	There's a glass?
+374	00:00:00,000 --> 00:00:00,000		[Both laugh.]
+376	00:00:00,000 --> 00:00:00,000	KATE	You did a good thing saying what you said -- taking care of everybody and just giving them something to count on. If you weren't here, Jack... [long pause] I'm going to the hatch. I understand why you can't go. They need you here. I get it. I do. But Locke's going into that thing whether you like it or not. And if he falls and breaks his neck... Live together, die alone, right?
+378	00:00:00,000 --> 00:00:00,000	JACK	Right.
+380	00:00:00,000 --> 00:00:00,000		[Flashback - Jack and Sarah's fiance, Kevin, in Jack's office.]
+382	00:00:00,000 --> 00:00:00,000	JACK	Your fiance was seriously injured. It could take as long as 10, maybe 12 hours. I won't know how extensive the damage is until I get inside.
+384	00:00:00,000 --> 00:00:00,000	KEVIN	She was going for a dress fitting and to look at tablecloths.
+386	00:00:00,000 --> 00:00:00,000	JACK	When is it -- the wedding?
+388	00:00:00,000 --> 00:00:00,000	KEVIN	It's 8 months.
+390	00:00:00,000 --> 00:00:00,000	JACK	Well, I'm sure Sarah will have recovered by then.
+392	00:00:00,000 --> 00:00:00,000	KEVIN	Recovered - um, what does that mean?
+394	00:00:00,000 --> 00:00:00,000	JACK	There will be ongoing physical therapy, but if she works really hard...
+396	00:00:00,000 --> 00:00:00,000	KEVIN	Well, well, will we be able to, you know, make love?
+398	00:00:00,000 --> 00:00:00,000	JACK	You need to know that there's a chance Sarah might very well need professional care for the rest of her life.
+400	00:00:00,000 --> 00:00:00,000	KEVIN	Like, she won't be able to go to the bathroom by herself?
+402	00:00:00,000 --> 00:00:00,000		[Jack and Sarah in the OR.]
+404	00:00:00,000 --> 00:00:00,000	SARAH	[with low voice] Come here. Come here. I want to tell you a little secret. Come on. Closer. It's okay. I know I'm not going to be dancing anymore. I can still roll around at my wedding. And you're invited, okay.
+406	00:00:00,000 --> 00:00:00,000	JACK	I'm going to fix you.
+408	00:00:00,000 --> 00:00:00,000		[On-Island - Locke at the hatch. Kate enters.]
+410	00:00:00,000 --> 00:00:00,000	KATE	I expected to find you half way down there by now.
+412	00:00:00,000 --> 00:00:00,000	LOCKE	I was waiting for you.
+414	00:00:00,000 --> 00:00:00,000		[Some time later.]
+416	00:00:00,000 --> 00:00:00,000	KATE	So, you want me to go down first?
+418	00:00:00,000 --> 00:00:00,000	LOCKE	Well, you're lighter. I can belay you down and bring you back up just as easy. The shaft might get narrower down there, too.
+420	00:00:00,000 --> 00:00:00,000	KATE	You left out the part where you just want to see if I get eaten by something.
+422	00:00:00,000 --> 00:00:00,000	LOCKE	Yeah, well, that too. [He fastens the cable harness around Kate.] Not too tight?
+424	00:00:00,000 --> 00:00:00,000	KATE	Got it. -- Okay. [She starts climbing down the ladder.] Wait, what do I say if I need to stop?
+426	00:00:00,000 --> 00:00:00,000	LOCKE	Stop.
+428	00:00:00,000 --> 00:00:00,000	KATE	Hmm, okay. Let's go.
+430	00:00:00,000 --> 00:00:00,000		[As Locke is lowering her down, one of the trees holding the harness breaks and Locke barely holds on.]
+432	00:00:00,000 --> 00:00:00,000	LOCKE	Kate, are you alright?!
+434	00:00:00,000 --> 00:00:00,000	KATE	Yeah, I dropped the light! Maybe we should... [Locke continues lowering her down.] Well, okay then. 1, 2, 3, 4. [A light goes on inside the hatch.] Stop!
+436	00:00:00,000 --> 00:00:00,000	LOCKE	What is it?!
+438	00:00:00,000 --> 00:00:00,000	KATE	John, I think there's something down here!
+440	00:00:00,000 --> 00:00:00,000		[Kate screams and a floodlight turns on.]
+442	00:00:00,000 --> 00:00:00,000	LOCKE	Kate, are you alright?!
+444	00:00:00,000 --> 00:00:00,000		[Locke struggles as something pulls at the other end of the cable. Locke falls back as Kate's weight is taken from the cable. The floodlight goes out.]
+446	00:00:00,000 --> 00:00:00,000	LOCKE	Kate! Kate! Kate!
+448	00:00:00,000 --> 00:00:00,000		[Hurley and Jack at the caves.]
+450	00:00:00,000 --> 00:00:00,000	HURLEY	You're kidding, right? You're going back?
+452	00:00:00,000 --> 00:00:00,000	JACK	[loading a gun] Yeah.
+454	00:00:00,000 --> 00:00:00,000	HURLEY	What about all that stuff you said about waiting 'til morning and watching the sun rise?
+456	00:00:00,000 --> 00:00:00,000	JACK	I changed my mind.
+458	00:00:00,000 --> 00:00:00,000		[Jack at the hatch.]
+460	00:00:00,000 --> 00:00:00,000	JACK	Kate! Locke!
+462	00:00:00,000 --> 00:00:00,000		[Getting no reply, Jack starts climbing down into the hatch.]
+464	00:00:00,000 --> 00:00:00,000		[Flashback - Jack running the steps at a stadium. Another person comes into view running faster than Jack. Jack tries to keep pace but hurts his ankle.]
+466	00:00:00,000 --> 00:00:00,000	JACK	Ow, damn it.
+468	00:00:00,000 --> 00:00:00,000	DESMOND	You alright, brother?
+470	00:00:00,000 --> 00:00:00,000	JACK	I'm fine. I'm fine.
+472	00:00:00,000 --> 00:00:00,000	DESMOND	Take it easy. Keep the weight off. Here, let me have a look. Does this hurt? [Jack shakes his head.] You haven't sprained it then. I don't fancy your chances of catching up with me tonight, though.
+474	00:00:00,000 --> 00:00:00,000	JACK	I wasn't trying to catch up.
+476	00:00:00,000 --> 00:00:00,000	DESMOND	Aye, of course you weren't.
+478	00:00:00,000 --> 00:00:00,000	JACK	What do you know about sprains, anyway?
+480	00:00:00,000 --> 00:00:00,000	DESMOND	I was almost a doctor once.
+482	00:00:00,000 --> 00:00:00,000	JACK	Small world.
+484	00:00:00,000 --> 00:00:00,000	DESMOND	You a doctor then? [Jack nods. Desmond offers Jack his water bottle.] So what's your excuse?
+486	00:00:00,000 --> 00:00:00,000	JACK	Excuse?
+488	00:00:00,000 --> 00:00:00,000	DESMOND	For running like the devil's chasing you. My excuse - I'm training.
+490	00:00:00,000 --> 00:00:00,000	JACK	Training for what?
+492	00:00:00,000 --> 00:00:00,000	DESMOND	For a race around the world. Impressive, I know. So your excuse better be good, brother.
+494	00:00:00,000 --> 00:00:00,000	JACK	Just trying to work a few things out.
+496	00:00:00,000 --> 00:00:00,000	DESMOND	Ah, a girl, right?
+498	00:00:00,000 --> 00:00:00,000	JACK	A patient.
+500	00:00:00,000 --> 00:00:00,000	DESMOND	Ah, but a girl patient. What's her name?
+502	00:00:00,000 --> 00:00:00,000	JACK	Her name's Sarah.
+504	00:00:00,000 --> 00:00:00,000	DESMOND	What'd you do to her then?
+506	00:00:00,000 --> 00:00:00,000	JACK	Do to her?
+508	00:00:00,000 --> 00:00:00,000	DESMOND	You must have done something worthy of this self-flagellation.
+510	00:00:00,000 --> 00:00:00,000	JACK	I told her -- I made a promise I couldn't keep -- I told her I'd fix her and I couldn't. I failed.
+512	00:00:00,000 --> 00:00:00,000	DESMOND	Well, right. Just one thing -- what if you did fix her?
+514	00:00:00,000 --> 00:00:00,000	JACK	I didn't.
+516	00:00:00,000 --> 00:00:00,000	DESMOND	But what if you did?
+518	00:00:00,000 --> 00:00:00,000	JACK	You don't know what you're talking about, man.
+520	00:00:00,000 --> 00:00:00,000	DESMOND	I don't? Why not?
+522	00:00:00,000 --> 00:00:00,000	JACK	Because with her situation that would be a miracle, brother.
+524	00:00:00,000 --> 00:00:00,000	DESMOND	Oh, and you don't believe in miracles? [Jack chuckles and shakes his head.] Right. Well then, I'm going to give you some advice anyway. You have to lift it up. (He may be saying "lift her up".)
+526	00:00:00,000 --> 00:00:00,000	JACK	Lift it up?
+528	00:00:00,000 --> 00:00:00,000	DESMOND	Your ankle. You've got to keep it elevated. It's been nice chatting.
+530	00:00:00,000 --> 00:00:00,000	JACK	Jack.
+532	00:00:00,000 --> 00:00:00,000	DESMOND	Jack, I'm Desmond. Good luck, brother. See you in another life, yeah?
+534	00:00:00,000 --> 00:00:00,000		[On-Island - Jack explores the inside of the hatch coming upon a lab room with computer equipment.]
+536	00:00:00,000 --> 00:00:00,000	LOCKE	[as Jack is about to press the 'execute' button on the computer] I wouldn't do that, Jack.
+538	00:00:00,000 --> 00:00:00,000	JACK	[pointing his gun at Locke] Where is Kate? What the hell did you...
+540	00:00:00,000 --> 00:00:00,000		[A gun comes into frame pointed at Locke's head.]
+542	00:00:00,000 --> 00:00:00,000		[Flashback - Jack in Sarah's hospital room as she comes to.]
+544	00:00:00,000 --> 00:00:00,000	SARAH	Am I alive?
+546	00:00:00,000 --> 00:00:00,000	JACK	Yeah. Yeah, you're alive.
+548	00:00:00,000 --> 00:00:00,000	SARAH	You smell.
+550	00:00:00,000 --> 00:00:00,000	JACK	Well, thank you.
+552	00:00:00,000 --> 00:00:00,000	SARAH	Wow, you really smell.
+554	00:00:00,000 --> 00:00:00,000	JACK	Yeah, I -- I went for a run.
+556	00:00:00,000 --> 00:00:00,000	SARAH	You smell like you ran far.
+558	00:00:00,000 --> 00:00:00,000	JACK	I showered. I mean, I guess I just didn't cool. I -- I wanted to get back down here and check on you. It was a Tour de Stade.
+560	00:00:00,000 --> 00:00:00,000	SARAH	What?
+562	00:00:00,000 --> 00:00:00,000	JACK	It is when you run all the steps in every section of a stadium up and down.
+564	00:00:00,000 --> 00:00:00,000	SARAH	Why would you do that?
+566	00:00:00,000 --> 00:00:00,000	JACK	I'm -- I'm intense.
+568	00:00:00,000 --> 00:00:00,000	SARAH	Did you finish?
+570	00:00:00,000 --> 00:00:00,000	JACK	No, I hurt my ankle.
+572	00:00:00,000 --> 00:00:00,000	SARAH	That sucks for you. Is Kevin here, my fiance?
+574	00:00:00,000 --> 00:00:00,000	JACK	I didn't see him.
+576	00:00:00,000 --> 00:00:00,000	SARAH	I'm, I'm sure he'll be back in awhile.
+578	00:00:00,000 --> 00:00:00,000	JACK	Yeah. Yeah. Yeah, absolutely.
+580	00:00:00,000 --> 00:00:00,000	SARAH	You going to tell me how it went?
+582	00:00:00,000 --> 00:00:00,000	JACK	Sarah, the -- the damage to your back was extensive. I did everything I could but your spinal column... I just -- I couldn't repair it. [He's starting to cry.] You're going to be paralyzed from the waist down for the rest of your life. I'm sorry. I'm so sorry, Sarah.
+584	00:00:00,000 --> 00:00:00,000	SARAH	You're yanking my chain, right?
+586	00:00:00,000 --> 00:00:00,000	JACK	No.
+588	00:00:00,000 --> 00:00:00,000	SARAH	Then how come I can wiggle my toes?
+590	00:00:00,000 --> 00:00:00,000		[Jack checks the nerve response in her legs.]
+592	00:00:00,000 --> 00:00:00,000	JACK	Can you feel this?
+594	00:00:00,000 --> 00:00:00,000	SARAH	Yes.
+596	00:00:00,000 --> 00:00:00,000	JACK	Can you feel this?
+598	00:00:00,000 --> 00:00:00,000	SARAH	Yes.
+600	00:00:00,000 --> 00:00:00,000	JACK	[getting more emotional each time] This?
+602	00:00:00,000 --> 00:00:00,000	SARAH	Yes.
+604	00:00:00,000 --> 00:00:00,000	JACK	This?
+606	00:00:00,000 --> 00:00:00,000	SARAH	Yes.
+608	00:00:00,000 --> 00:00:00,000		[On-Island - In the hatch.]
+610	00:00:00,000 --> 00:00:00,000	GUNMAN'S VOICE	Move and I kill him. Put the gun down.
+612	00:00:00,000 --> 00:00:00,000	JACK	Where's Kate?
+614	00:00:00,000 --> 00:00:00,000	LOCKE	Jack, it's okay.
+616	00:00:00,000 --> 00:00:00,000	GUNMAN'S VOICE	I said drop it!
+618	00:00:00,000 --> 00:00:00,000	JACK	Where's Kate?!
+620	00:00:00,000 --> 00:00:00,000	LOCKE	She's fine, just put down the...
+622	00:00:00,000 --> 00:00:00,000	JACK	I'm not putting anything...
+624	00:00:00,000 --> 00:00:00,000	GUNMAN'S VOICE	[firing the gun overhead] Do you want him to die? Put it down.
+626	00:00:00,000 --> 00:00:00,000	JACK	Is this what you were talking about, Locke? Is this your destiny? All roads lead here?
+628	00:00:00,000 --> 00:00:00,000	LOCKE	Jack, calm down.
+630	00:00:00,000 --> 00:00:00,000	GUNMAN's VOICE	[as he moves behind Locke] Lower your gun or I'll blow his damned head off, brother!
+632	00:00:00,000 --> 00:00:00,000	JACK	[recognizing that it's Desmond] You.

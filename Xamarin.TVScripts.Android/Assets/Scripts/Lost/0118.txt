@@ -1,0 +1,426 @@
+Numbers
+2	00:00:00,000 --> 00:00:00,000	Written by	David Fury & Brent Fletcher
+4	00:00:00,000 --> 00:00:00,000	Directed by	Daniel Attias
+6	00:00:00,000 --> 00:00:00,000		[Shot of waves crashing. We see Hurley bending over holding a bunch of bamboo together where they are rebuilding the raft.]
+8	00:00:00,000 --> 00:00:00,000	JIN	ÃªÂ³Â Ã¬Â â€¢Ã¬â€¹Å“Ã­â€šÂ¤ÃªÂ²Å’ Ã¬Â¢â‚¬ Ã¬Â¡Â°Ã¬â€”Â¬Ã¬Â¤ËœÃ¬Å¡â€.
+10	00:00:00,000 --> 00:00:00,000	HURLEY	Hold on a second, you want what now?
+12	00:00:00,000 --> 00:00:00,000		[Jin makes a motion with his hands.]
+14	00:00:00,000 --> 00:00:00,000	HURLEY	You want to make snowballs?
+16	00:00:00,000 --> 00:00:00,000	MICHAEL	He wants you to hold the bamboo tighter... I think.
+18	00:00:00,000 --> 00:00:00,000	JACK	[approaching Michael] Hey.
+20	00:00:00,000 --> 00:00:00,000	MICHAEL	Hey.
+22	00:00:00,000 --> 00:00:00,000	JACK	How's it coming?
+24	00:00:00,000 --> 00:00:00,000	MICHAEL	It's coming.
+26	00:00:00,000 --> 00:00:00,000	JACK	As long as nobody sabotages this one, as well, huh?
+28	00:00:00,000 --> 00:00:00,000	MICHAEL	I've got people standing guard 24-7. Nobody gets near this with or without intent to burn. Hey, listen, I was thinking, chances of a passing ship spotting this raft out there are pretty slim. We could use something to send out a distress call to any ships that might be close, like an SOS.
+30	00:00:00,000 --> 00:00:00,000	JACK	Okay, well, look I'll ask Sayid, but even if he can make something like that he's not going to have anything to power it with.
+32	00:00:00,000 --> 00:00:00,000	HURLEY	Didn't Sayid say that crazy French chick has batteries?
+34	00:00:00,000 --> 00:00:00,000		[Scene switches to Hurley and Jack at Sayid's tent.]
+36	00:00:00,000 --> 00:00:00,000	SAYID	Absolutely not.
+38	00:00:00,000 --> 00:00:00,000	JACK	I'm not asking you to go. I'll do it.
+40	00:00:00,000 --> 00:00:00,000	SAYID	No, you won't.
+42	00:00:00,000 --> 00:00:00,000	HURLEY	Dude, we just trying to-
+44	00:00:00,000 --> 00:00:00,000	SAYID	Do you really think she would give up something she needs for survival to a total stranger?
+46	00:00:00,000 --> 00:00:00,000	JACK	All I'm asking is for you to tell me how to find her. That's it.
+48	00:00:00,000 --> 00:00:00,000	SAYID	I was brought unconscious to her camp. When I escaped I was disoriented. I don't know how to find her.
+50	00:00:00,000 --> 00:00:00,000	HURLEY	Don't know, dude? Or don't want to?
+52	00:00:00,000 --> 00:00:00,000	JACK	Sayid, look, you've got her maps and her papers. Now you thought that they were pointing to something.
+54	00:00:00,000 --> 00:00:00,000	SAYID	Well, I was wrong.
+56	00:00:00,000 --> 00:00:00,000	JACK	Well, maybe they're pointing to her?
+58	00:00:00,000 --> 00:00:00,000	SAYID	Look! I don't even know what these papers mean. For all I know they could be the ravings of her disturbed mind - song lyrics mixed with equations. [He hands the papers to Hurley and shows a map to Jack.] If this map is pointing to her, then you should know she resides here, in this area. She gave it a name: Territoire Fonce, Shannon translated it. It means dark territory. Does that sound like a place you'd like to visit?
+60	00:00:00,000 --> 00:00:00,000		[Shot of Hurley looking at the papers.]
+62	00:00:00,000 --> 00:00:00,000	JACK	So, you won't help?
+64	00:00:00,000 --> 00:00:00,000	SAYID	I didn't say that. [Shot of Hurley seeing his winning lottery numbers written by Danielle.] I'll build a distress beacon, but I suggest you find another power source. There must be something in the cockpit.
+66	00:00:00,000 --> 00:00:00,000	JACK	We're not going in the cockpit.
+68	00:00:00,000 --> 00:00:00,000		[Flashback - Shot of a TV with people square dancing, a caller saying: Swing your partner dosado. Channel switches to an aerobics workout, then a cooking show.]
+70	00:00:00,000 --> 00:00:00,000	CARMEN	What are you doing in there?
+72	00:00:00,000 --> 00:00:00,000	HURLEY	Uno momento, Mama, just checking something out.
+74	00:00:00,000 --> 00:00:00,000	CARMEN	I hope you're not watching those g-string mujeres again.
+76	00:00:00,000 --> 00:00:00,000	HURLEY	Look, mom, we've talked about this. You want me living here -- you've got to respect my privacy. And no, I'm not.
+78	00:00:00,000 --> 00:00:00,000		[He changes the channel to the lottery show.]
+80	00:00:00,000 --> 00:00:00,000	CARMEN	Look at you. It's Saturday night. A grown up man sitting at home watching TV. You should go out, try to find yourself a nice woman.
+82	00:00:00,000 --> 00:00:00,000	HURLEY	Yeah, I'll get right on that.
+84	00:00:00,000 --> 00:00:00,000	CARMEN	At least try eating better. You're gaining weight again.
+86	00:00:00,000 --> 00:00:00,000	MARY JO	-- with mega number 42. And that makes tonight's mega-lotto-jackpot 4 8 15 16 23 [Shot of Hurley standing up. Shot of the winning ticket.] With the mega number 42. Whoever has those numbers has won, or will share, in a near record jackpot.
+88	00:00:00,000 --> 00:00:00,000	LOTTO OFFICIAL	That's right Mary-Jo because this is the 16th week without a winner.
+90	00:00:00,000 --> 00:00:00,000		[Hurley faints.]
+92	00:00:00,000 --> 00:00:00,000		[On-Island - Shot of Sayid turning over in his sleep, or trying to sleep. He opens his eyes and sees Hurley sitting there watching him.]
+94	00:00:00,000 --> 00:00:00,000	HURLEY	Hi. You awake?
+96	00:00:00,000 --> 00:00:00,000	SAYID	I was just wondering that myself.
+98	00:00:00,000 --> 00:00:00,000	HURLEY	So, that French lady, she wrote this stuff, right?
+100	00:00:00,000 --> 00:00:00,000	SAYID	Hurley, it's the middle of the night. What do you want?
+102	00:00:00,000 --> 00:00:00,000	HURLEY	Nothing. Couldn't sleep, then I got curious. You and Shannon, you guys have been trying to figure out some of this stuff and I was wondering what, you know, you guys figured out about this stuff.
+104	00:00:00,000 --> 00:00:00,000	SAYID	What stuff?
+106	00:00:00,000 --> 00:00:00,000	HURLEY	I don't know. Look, take these numbers she wrote down a bunch of times - got any idea what it means?
+108	00:00:00,000 --> 00:00:00,000	SAYID	I thought at one time they might be coordinates of some kind.
+110	00:00:00,000 --> 00:00:00,000	HURLEY	Coordinates, yeah. When you first found her, the French chick, you said you saw a wire or something on the beach? And you followed it, and it led you to her?
+112	00:00:00,000 --> 00:00:00,000	SAYID	No, it led me to a trap she set.
+114	00:00:00,000 --> 00:00:00,000	HURLEY	Her place is probably close, right?
+116	00:00:00,000 --> 00:00:00,000	SAYID	Why are you suddenly so interested in Rousseau?
+118	00:00:00,000 --> 00:00:00,000	HURLEY	I'm not -- just, you know, making conversation, dude. Sorry if it's a bad time. Goodnight.
+120	00:00:00,000 --> 00:00:00,000		[Shot of Hurley walking away, pulling a map out from under his shirt.]
+122	00:00:00,000 --> 00:00:00,000		[Flashback - Shot of Hurley and his family outside their house talking to a group of reporters.]
+124	00:00:00,000 --> 00:00:00,000	HURLEY	Yeah, you.
+126	00:00:00,000 --> 00:00:00,000	REPORTER #1	How'd you come up with the winning numbers, any significance?
+128	00:00:00,000 --> 00:00:00,000	HURLEY	Oh, they just, uh, sort of came to me.
+130	00:00:00,000 --> 00:00:00,000	REPORTER #2	Why don't you introduce your family.
+132	00:00:00,000 --> 00:00:00,000	HURLEY	Oh yeah, okay, um, this -- this patch of beauty is my mom, Carmen. Come here, mom. And this is my brother, Diego and his wife, Lisa.
+134	00:00:00,000 --> 00:00:00,000	DIEGO	Woo! We're rich!
+136	00:00:00,000 --> 00:00:00,000	HURLEY	Nice, dude. Ignore him, he's an idiot. And, uh, oh, you've got to know this guy. This is the greatest guy I know, my, my, my grandpa Tito. He's worked 3 jobs for -- how long has it been now?
+138	00:00:00,000 --> 00:00:00,000	TITO	52 years.
+140	00:00:00,000 --> 00:00:00,000	HURLEY	52 years. 70 years old, and the closest thing he's had to a vacation is when they put a pacemaker in him 4 years ago. So the first thing I'm going to do with the money is, uh, finally give him the rest that he's earned. That's really what it's all about for me, to be able to do things for the people I care about, because I really put my family through a lot recently, and, um, well, this way I can make it up to them. You know, maybe even buy my mom a new house. And uh, [shot of grandpa looking bad] maybe after my grandpa comes back from his cruise we can, you know -- [Tito falls to the ground.] do some things that we always wanted to do. [Hurley sees Tito on the ground.] Grandpa?
+142	00:00:00,000 --> 00:00:00,000		[On-Island - Shot of Hurley filling up a water bottle at the caves.]
+144	00:00:00,000 --> 00:00:00,000	CHARLIE	[entering] Hey, man.
+146	00:00:00,000 --> 00:00:00,000	HURLEY	What, I'm not doing anything.
+148	00:00:00,000 --> 00:00:00,000	CHARLIE	What?
+150	00:00:00,000 --> 00:00:00,000	HURLEY	What?
+152	00:00:00,000 --> 00:00:00,000	CHARLIE	I'm just saying good morning.
+154	00:00:00,000 --> 00:00:00,000	HURLEY	Oh, right. Morning. Sorry, I was just, uh...
+156	00:00:00,000 --> 00:00:00,000	CHARLIE	You going somewhere?
+158	00:00:00,000 --> 00:00:00,000	HURLEY	Me? No. Well, yeah. Just thought I might take a walk. Uh, maybe scope out some new fishing area.
+160	00:00:00,000 --> 00:00:00,000	CHARLIE	Oh, hang on, I'll come with.
+162	00:00:00,000 --> 00:00:00,000	HURLEY	That's okay.
+164	00:00:00,000 --> 00:00:00,000	CHARLIE	No, I could use a little bit of the fresh wide open.
+166	00:00:00,000 --> 00:00:00,000	HURLEY	Dude, I could really use some alone time right now.
+168	00:00:00,000 --> 00:00:00,000	CHARLIE	Sure.
+170	00:00:00,000 --> 00:00:00,000		[Hurley stands up and his pack unzips spilling four bottles of water.]
+172	00:00:00,000 --> 00:00:00,000	HURLEY	I'm a big guy, I get dehydrated easy.
+174	00:00:00,000 --> 00:00:00,000	CHARLIE	Yeah. Yeah, okay.
+176	00:00:00,000 --> 00:00:00,000		[Shot of waves crashing. Claire sitting at the beach, picking at some leaves.]
+178	00:00:00,000 --> 00:00:00,000	LOCKE	[off camera at first] Claire, you got a second?
+180	00:00:00,000 --> 00:00:00,000	CLAIRE	Uh, yeah, sure.
+182	00:00:00,000 --> 00:00:00,000	LOCKE	I was wondering if you were free to help me with a little project.
+184	00:00:00,000 --> 00:00:00,000	CLAIRE	Me?
+186	00:00:00,000 --> 00:00:00,000	LOCKE	Yeah. I'm building something and I could use an extra pair of hands.
+188	00:00:00,000 --> 00:00:00,000	CLAIRE	I'm nearly nine months pregnant, I can barely waddle on the beach.
+190	00:00:00,000 --> 00:00:00,000	LOCKE	Could you hold a saw?
+192	00:00:00,000 --> 00:00:00,000	CLAIRE	Um, yeah.
+194	00:00:00,000 --> 00:00:00,000	LOCKE	Can you move your hand back and forth, like this? [He makes a sawing motion.]
+196	00:00:00,000 --> 00:00:00,000	CLAIRE	Possibly.
+198	00:00:00,000 --> 00:00:00,000	LOCKE	You're perfect. [He reaches to help her up.] Come on.
+200	00:00:00,000 --> 00:00:00,000	CLAIRE	Okay. So, what exactly are we building?
+202	00:00:00,000 --> 00:00:00,000		[Shot of Jack with water bottle at the caves, Sayid enters.]
+204	00:00:00,000 --> 00:00:00,000	SAYID	Where is it?
+206	00:00:00,000 --> 00:00:00,000	JACK	Where's what?
+208	00:00:00,000 --> 00:00:00,000	SAYID	The map. I told you, it won't help you find her.
+210	00:00:00,000 --> 00:00:00,000	JACK	Whoa, slow down. I don't have the map.
+212	00:00:00,000 --> 00:00:00,000	SAYID	What makes this worse is that you don't even do your own dirty work. You get Hurley to do it for you.
+214	00:00:00,000 --> 00:00:00,000	JACK	Wait a minute -- Hurley?
+216	00:00:00,000 --> 00:00:00,000	SAYID	He was in my tent last night, quizzing me about Rousseau, about numbers she wrote -- how I came to find her. [Jack shakes his head.] You don't know anything about this, do you?
+218	00:00:00,000 --> 00:00:00,000	JACK	[to Charlie entering with firewood] Charlie, you seen Hurley?
+220	00:00:00,000 --> 00:00:00,000	CHARLIE	A couple of hours ago, he was setting out for a walk. Acting like a loon, I might say.
+222	00:00:00,000 --> 00:00:00,000	SAYID	My god, he's going after her.
+224	00:00:00,000 --> 00:00:00,000		[Shot of Shannon talking to Sayid.]
+226	00:00:00,000 --> 00:00:00,000	SHANNON	When are you going to be back?
+228	00:00:00,000 --> 00:00:00,000	SAYID	If we can catch up to him, before nightfall. Why? You worried about me?
+230	00:00:00,000 --> 00:00:00,000	SHANNON	So what if I am?
+232	00:00:00,000 --> 00:00:00,000	JACK	[yelling from down the beach] Sayid, you ready?
+234	00:00:00,000 --> 00:00:00,000	SAYID	[to Shannon, touching her face] I'll be fine.
+236	00:00:00,000 --> 00:00:00,000		[Shot of Hurley walking along the beach with rap music playing.]
+238	00:00:00,000 --> 00:00:00,000		[Flashback - Shot of a yellow Hummer with the same song playing.]
+240	00:00:00,000 --> 00:00:00,000	CARMEN	You turn that noise down.
+242	00:00:00,000 --> 00:00:00,000	HURLEY	[turning the music down] Uh, sorry.
+244	00:00:00,000 --> 00:00:00,000	CARMEN	Where are you taking me? You know very well I don't like surprises.
+246	00:00:00,000 --> 00:00:00,000	HURLEY	You're going to like this one, ma. I mean, after everything you've been through? Like grandpa -- [Carmen crosses herself and says a prayer.] And then at the funeral, Father Aguillar getting struck by lightening? Man, that was a freak storm. And Diego moving back home after Lisa left him for that . . . waitress?
+248	00:00:00,000 --> 00:00:00,000	CARMEN	Don't mention that whore to me.
+250	00:00:00,000 --> 00:00:00,000	HURLEY	I'm just saying you deserve something good to happen. You know, ever since I won the lottery it's like we've had nothing but bad luck. Like, I don't know, like the money's cursed or something.
+252	00:00:00,000 --> 00:00:00,000	CARMEN	[slugging Hurley in the arm] That's blasphemy. You know very well we're Catholic. We don't believe in curses.
+254	00:00:00,000 --> 00:00:00,000	HURLEY	Jeez, ma, I'm just talking. Okay, we're almost there. Here, put this on.
+256	00:00:00,000 --> 00:00:00,000		[Hurley hands her a blindfold. They pull up to a curb and stop in front of a big house. Hurley gets out to help his blind-folded mom out of the car.]
+258	00:00:00,000 --> 00:00:00,000	CARMEN	Why do I have to wear this?
+260	00:00:00,000 --> 00:00:00,000	HURLEY	Give me your hand. Careful.
+262	00:00:00,000 --> 00:00:00,000	CARMEN	No, no, you be careful.
+264	00:00:00,000 --> 00:00:00,000	HURLEY	You're stepping down.
+266	00:00:00,000 --> 00:00:00,000	CARMEN	I can't see anything.
+268	00:00:00,000 --> 00:00:00,000	HURLEY	Okay, now take off your blindfold. And get a look [Carmen falls and hurts her ankle.] at your new dream house.
+270	00:00:00,000 --> 00:00:00,000	CARMEN	Ow, my ankle!
+272	00:00:00,000 --> 00:00:00,000	HURLEY	I said take off your blindfold.
+274	00:00:00,000 --> 00:00:00,000	CARMEN	Why did you make me put that in the first place?! Hugo, do I smell smoke?
+276	00:00:00,000 --> 00:00:00,000		[We see smoke pouring out of an upper window in the house.]
+278	00:00:00,000 --> 00:00:00,000	HURLEY	Oh, crap. Hang on mom, I've got to call 911.
+280	00:00:00,000 --> 00:00:00,000	CARMEN	You tell them I broke my ankle.
+282	00:00:00,000 --> 00:00:00,000		[Hurley dials 911. We see two police cars pull up instantly. The officers get out with their guns drawn on Hurley.]
+284	00:00:00,000 --> 00:00:00,000	COP	Drop the phone, move away from the vehicle!
+286	00:00:00,000 --> 00:00:00,000	HURLEY	Oh, no, no, no. It's the house.
+288	00:00:00,000 --> 00:00:00,000	COP	Do it, now! Turn around.
+290	00:00:00,000 --> 00:00:00,000		[The cop pushes Hurley face down onto the hood of the Hummer. We see Carmen crossing herself and Hurley being cuffed.]
+292	00:00:00,000 --> 00:00:00,000	HURLEY	No such thing as curses, huh, ma?
+294	00:00:00,000 --> 00:00:00,000	COP	You have the right to remain silent. If you give up that right, anything you say can and will be used against you in a court of law.
+296	00:00:00,000 --> 00:00:00,000		[On-Island - Shot of Hurley's feet walking in the sand. He approaches the cable, picks it up and starts following it.]
+298	00:00:00,000 --> 00:00:00,000	HURLEY	Yo! French chick!
+300	00:00:00,000 --> 00:00:00,000		[Flashback - We see Hurley in his accountant's office.]
+302	00:00:00,000 --> 00:00:00,000	KEN HALPERIN	I would think you'd be happy. Every one of your stocks is up. Your interest in orange futures skyrocketed after those tropical storms hit Florida. And, you are now the majority shareholder for a box company in Tustin.
+304	00:00:00,000 --> 00:00:00,000	HURLEY	A box company?
+306	00:00:00,000 --> 00:00:00,000	KEN	Mmhmm. They make boxes, lucrative business. Everybody needs boxes. Which reminds me, your sneaker factory in Canada . . .
+308	00:00:00,000 --> 00:00:00,000	HURLEY	I have a sneaker factory in Canada?
+310	00:00:00,000 --> 00:00:00,000	KEN	Well, not any more. It was destroyed in a fire last month.
+312	00:00:00,000 --> 00:00:00,000	HURLEY	Of course it was.
+314	00:00:00,000 --> 00:00:00,000	KEN	You might have read about it -- eight something people died. But, the good news is we over-insured it. It's going to yield you a windfall of cash. And, when we add in the generous settlement from the LAPD for your false arrest you've almost doubled your net worth in a few short months. I still can't imagine how the police mistook you for a drug dealer.
+316	00:00:00,000 --> 00:00:00,000	HURLEY	Bad luck.
+318	00:00:00,000 --> 00:00:00,000	KEN	Hugo, you are not the first lottery winner to believe the money's brought them nothing but trouble. It's all in your head.
+320	00:00:00,000 --> 00:00:00,000	HURLEY	What, you don't believe in jinxes? You know, curses?
+322	00:00:00,000 --> 00:00:00,000	KEN	I'm an accountant, I believe in numbers. Hey, where'd you get them, anyway?
+324	00:00:00,000 --> 00:00:00,000	HURLEY	What?
+326	00:00:00,000 --> 00:00:00,000	KEN	The winning numbers. What'd you use, somebody's birthday, phone number?
+328	00:00:00,000 --> 00:00:00,000	HURLEY	No, it's nothing, it's something that I . . .
+330	00:00:00,000 --> 00:00:00,000	KEN	What?
+332	00:00:00,000 --> 00:00:00,000	HURLEY	That's it. It's not the money, it's the numbers. The numbers are cursed. Dude, don't look at me like that, I'm not crazy. This is real.
+334	00:00:00,000 --> 00:00:00,000	KEN	Come on, Hugo, listen to yourself. "The numbers are cursed." You know there is no such thing as a-
+336	00:00:00,000 --> 00:00:00,000		[A body falls past the window behind the accountant.]
+338	00:00:00,000 --> 00:00:00,000		[On-Island - We see Michael hammering on the raft, as Walt approaches. Sawyer is trying to read A Wrinkle in Time.]
+340	00:00:00,000 --> 00:00:00,000	SAWYER	You want to hit that a little harder?
+342	00:00:00,000 --> 00:00:00,000	MICHAEL	I'm sorry. Is my building a raft to get us rescued bothering you?
+344	00:00:00,000 --> 00:00:00,000	SAWYER	At the moment, yeah.
+346	00:00:00,000 --> 00:00:00,000	WALT	Why aren't you helping?
+348	00:00:00,000 --> 00:00:00,000	SAWYER	I am helping, Short Round. I'm keeping watch for arsonists.
+350	00:00:00,000 --> 00:00:00,000	MICHAEL	Walt's got a point. You could pitch in, seeing as how you already bought your ticket.
+352	00:00:00,000 --> 00:00:00,000		[Shot of a bundle of bamboo breaking apart.]
+354	00:00:00,000 --> 00:00:00,000	JIN	Ã«â€šÂ´ÃªÂ°â‚¬ Ã«Â°Â¤Ã¬Æ’Ë†Ã«Ââ€žÃ«Â¡Â Ã«Â¬Â¶Ã¬â€“Â´Ã«â€ Â¨Ã«Å â€Ã«ÂÂ°!
+356	00:00:00,000 --> 00:00:00,000	MICHAEL	Hey, did you tie this like I told you?! If you tied this like I told you the thing would still be together! What's the matter with you man?! What is your problem?!
+358	00:00:00,000 --> 00:00:00,000		[Sawyer leaves in disgust. Shot pans from Jin and Michael arguing to Sun and Kate on the beach.]
+360	00:00:00,000 --> 00:00:00,000	SUN	He's never going to speak to me again.
+362	00:00:00,000 --> 00:00:00,000	KATE	He just needs time.
+364	00:00:00,000 --> 00:00:00,000	SUN	I humiliated him. When the raft sails, do you think he's going to leave with them?
+366	00:00:00,000 --> 00:00:00,000	KATE	I don't know.
+368	00:00:00,000 --> 00:00:00,000		[Shot of Hurley following the cable through the jungle. We hear the sound of flies, Hurley looks up to see a boar caught in a rope trap. Hurley follows the cable a few more feet then steps on a trigger.]
+370	00:00:00,000 --> 00:00:00,000	SAYID	[appearing from the jungle] Don't move!
+372	00:00:00,000 --> 00:00:00,000	HURLEY	Hey, what are you guys...
+374	00:00:00,000 --> 00:00:00,000	SAYID	I said do not move. You're standing on a pressure trigger. If you take your weight off it, it will release that.
+376	00:00:00,000 --> 00:00:00,000	HURLEY	[looking up at a bundle of sharp pointy sticks] Oh, man.
+378	00:00:00,000 --> 00:00:00,000	SAYID	We need to find something to replace his weight with the trigger.
+380	00:00:00,000 --> 00:00:00,000	CHARLIE	Replace his weight? How are we going to do that?
+382	00:00:00,000 --> 00:00:00,000	HURLEY	Hey!
+384	00:00:00,000 --> 00:00:00,000	SAYID	Don't move!
+386	00:00:00,000 --> 00:00:00,000	JACK	Hey, everybody, just calm down.
+388	00:00:00,000 --> 00:00:00,000	HURLEY	Can I drop the wire?
+390	00:00:00,000 --> 00:00:00,000	CHARLIE	Maybe if I find a rock or something?
+392	00:00:00,000 --> 00:00:00,000	SAYID	A big one.
+394	00:00:00,000 --> 00:00:00,000	HURLEY	I'm dropping the wire.
+396	00:00:00,000 --> 00:00:00,000	JACK	Hurley, no!
+398	00:00:00,000 --> 00:00:00,000		[Hurley drops the wire, nothing happens.]
+400	00:00:00,000 --> 00:00:00,000	HURLEY	[looking up at the pointy stick bundle] I can make it.
+402	00:00:00,000 --> 00:00:00,000	JACK	Hurley, don't move!
+404	00:00:00,000 --> 00:00:00,000	CHARLIE	No!
+406	00:00:00,000 --> 00:00:00,000	HURLEY	I can get out of the way, I'm spry.
+408	00:00:00,000 --> 00:00:00,000	CHARLIE	Oi!
+410	00:00:00,000 --> 00:00:00,000	JACK	Hurley, stay put.
+412	00:00:00,000 --> 00:00:00,000	CHARLIE	Oi! No, wait!
+414	00:00:00,000 --> 00:00:00,000	JACK	No, Hurley, Hurley! Don't even...
+416	00:00:00,000 --> 00:00:00,000		[Hurley dives off the trigger and the pointy sticks miss him.]
+418	00:00:00,000 --> 00:00:00,000	CHARLIE	Hurley, what the bloody hell's wrong with you?!
+420	00:00:00,000 --> 00:00:00,000	HURLEY	Nothing.
+422	00:00:00,000 --> 00:00:00,000	JACK	What are you doing out here, man?
+424	00:00:00,000 --> 00:00:00,000	HURLEY	I came to get a battery.
+426	00:00:00,000 --> 00:00:00,000	JACK	Hurley, seriously, what's going on?
+428	00:00:00,000 --> 00:00:00,000	HURLEY	Nada. You guys coming?
+430	00:00:00,000 --> 00:00:00,000	SAYID	You all want to go? Fine. But perhaps I should take the lead.
+432	00:00:00,000 --> 00:00:00,000	CHARLIE	Excellent notion.
+434	00:00:00,000 --> 00:00:00,000		[Flashback - We see Hurley at the reception desk at a mental hospital.]
+436	00:00:00,000 --> 00:00:00,000	HURLEY	Lenny. His name is Lenny, or Leonard.
+438	00:00:00,000 --> 00:00:00,000	NURSE	But you don't know his last name.
+440	00:00:00,000 --> 00:00:00,000	HURLEY	Look, I just need to talk to him for five minutes.
+442	00:00:00,000 --> 00:00:00,000		[Hurley notices a guy climbing a ladder to change a light bulb.]
+444	00:00:00,000 --> 00:00:00,000	NURSE	I'm sorry, but if you can't tell me the patient's name, sir, I can't very well look it up.
+446	00:00:00,000 --> 00:00:00,000	HURLEY	How many Leonards are here? Can't you just type in Leonard? I mean, the guy's been here for, like, ever. He knows me.
+448	00:00:00,000 --> 00:00:00,000	NURSE	Our records are private, sir. If any . . .
+450	00:00:00,000 --> 00:00:00,000	HURLEY	[to the ladder guy] Dude! Do not do that right now! Leave the bulb for another time, man! [to the nurse] five minutes! All I need is five minutes!
+452	00:00:00,000 --> 00:00:00,000	DR. CURTIS	Hugo?
+454	00:00:00,000 --> 00:00:00,000	HURLEY	Oh, hey, Doc.
+456	00:00:00,000 --> 00:00:00,000	DR. CURTIS	It's good to see you. What are you doing back here?
+458	00:00:00,000 --> 00:00:00,000	HURLEY	Uh...
+460	00:00:00,000 --> 00:00:00,000		[We see Dr. Curtis and Hurley walking among patients in a common room in the mental hospital.]
+462	00:00:00,000 --> 00:00:00,000	DR. CURTIS	I don't remember you and Leonard being that close, Hugo.
+464	00:00:00,000 --> 00:00:00,000	HURLEY	Yeah, well, we hung.
+466	00:00:00,000 --> 00:00:00,000	DR. CURTIS	I'll leave you gentleman to it then. Good luck, Hugo.
+468	00:00:00,000 --> 00:00:00,000	LENNY	[Repeats the numbers over and over again.]
+470	00:00:00,000 --> 00:00:00,000	HUGO	Hi, Lenny. Remember me? Hugo. Hurley. Well I was just, you know, in the neighborhood, and uh -- look, Lenny, I've got to know, what do the numbers mean?
+472	00:00:00,000 --> 00:00:00,000	LENNY	4 8 15 16 23 42. 4 8 15 16 23 42 . . .
+474	00:00:00,000 --> 00:00:00,000	HURLEY	C'mon, Lenny, give me something. Anything. Where'd you get the numbers? Is that why you're here, Lenny? Is it because of the numbers? Did they do something to you? Because I think they did something to me. I think they turned me into a jinx -- bad news to everyone around me. And when I tell people I think I'm the cause they, they, they look at me like I'm nuts. They don't believe me. But I know, ever since I won the lottery with those numbers.
+476	00:00:00,000 --> 00:00:00,000	LENNY	You used those numbers to play the lottery?
+478	00:00:00,000 --> 00:00:00,000	HURLEY	Uh, -- yeah.
+480	00:00:00,000 --> 00:00:00,000	LENNY	Well, you shouldn't have done that. You've opened the box!
+482	00:00:00,000 --> 00:00:00,000	HURLEY	I what?
+484	00:00:00,000 --> 00:00:00,000	LENNY	Ah, you shouldn't have used those numbers!
+486	00:00:00,000 --> 00:00:00,000	HURLEY	Why not?
+488	00:00:00,000 --> 00:00:00,000	LENNY	It doesn't stop! You've got to get away from those numbers! You've got to get far, far away!
+490	00:00:00,000 --> 00:00:00,000		[Lenny is freaking out and an orderly comes over to calm him down.]
+492	00:00:00,000 --> 00:00:00,000	ORDERLY	All right, hey, hold on. Lenny, Lenny. Calm down. Lenny.
+494	00:00:00,000 --> 00:00:00,000	LENNY	Do you hear me?!? No, don't you understand?!? You've got to get away from it or it won't stop!
+496	00:00:00,000 --> 00:00:00,000	ORDERLY	Try and calm down.
+498	00:00:00,000 --> 00:00:00,000	HURLEY	Wait a second, I need some answers.
+500	00:00:00,000 --> 00:00:00,000	ORDERLY	Sir, you need to step away.
+502	00:00:00,000 --> 00:00:00,000	HURLEY	Those numbers, where'd you get them?
+504	00:00:00,000 --> 00:00:00,000	LENNY	[being dragged by the orderly] Sam Toomey! He heard them!
+506	00:00:00,000 --> 00:00:00,000	HURLEY	Who's Sam Toomey?!?
+508	00:00:00,000 --> 00:00:00,000	LENNY	He heard them in Kalgoorlie! It's a town where he used to work!
+510	00:00:00,000 --> 00:00:00,000	HURLEY	It's a town where?!
+512	00:00:00,000 --> 00:00:00,000	LENNY	In Australia! Oh, God!
+514	00:00:00,000 --> 00:00:00,000		[On-Island - We see a shot of the cable running into the ground.]
+516	00:00:00,000 --> 00:00:00,000	SAYID	It stops here. It goes into the ground. This poses somewhat of a problem.
+518	00:00:00,000 --> 00:00:00,000	CHARLIE	[off camera] Guys? You should come see this.
+520	00:00:00,000 --> 00:00:00,000		[We see a reaction shot of the guys seeing an old broken down bridge.]
+522	00:00:00,000 --> 00:00:00,000	HURLEY	Whoa.
+524	00:00:00,000 --> 00:00:00,000		[Long shot of the bridge spanning a gorge.]
+526	00:00:00,000 --> 00:00:00,000	JACK	You never mentioned anything about a bridge.
+528	00:00:00,000 --> 00:00:00,000	SAYID	I never saw this before.
+530	00:00:00,000 --> 00:00:00,000	JACK	There's no way she could have built this all by herself.
+532	00:00:00,000 --> 00:00:00,000	SAYID	No, but her team could have.
+534	00:00:00,000 --> 00:00:00,000	CHARLIE	Or Ethan's team.
+536	00:00:00,000 --> 00:00:00,000		[Hurley starts walking across the bridge.]
+538	00:00:00,000 --> 00:00:00,000	JACK	Hurley, what are you doing?
+540	00:00:00,000 --> 00:00:00,000	HURLEY	Relax, I'm just going to check it out. You guys should stay here.
+542	00:00:00,000 --> 00:00:00,000	JACK	Hurley, get back here!
+544	00:00:00,000 --> 00:00:00,000	HURLEY	Dudes, chill.
+546	00:00:00,000 --> 00:00:00,000		[Shot of Jack, Sayid watching Hurley cross the bridge. He reaches the other side safely. Charlie starts to go across.]
+548	00:00:00,000 --> 00:00:00,000	JACK	Charlie.
+550	00:00:00,000 --> 00:00:00,000	CHARLIE	Hey, if he can do it...
+552	00:00:00,000 --> 00:00:00,000		[Charlie starts walking across and the bridge starts collapsing.]
+554	00:00:00,000 --> 00:00:00,000	JACK	Charlie!
+556	00:00:00,000 --> 00:00:00,000		[Charlie barely makes it to the other side.]
+558	00:00:00,000 --> 00:00:00,000	HURLEY	Dude, you okay?
+560	00:00:00,000 --> 00:00:00,000	CHARLIE	I'm okay. Woo!
+562	00:00:00,000 --> 00:00:00,000	JACK	Alright, you two stay put right there! We're going to find a way around and we'll meet you there!
+564	00:00:00,000 --> 00:00:00,000	HURLEY	Nah, screw that! You guys stay! There's a path right here, Charlie and me-
+566	00:00:00,000 --> 00:00:00,000	CHARLIE	Hurley, will you shut up and listen to Jack?!? He said stay put! You're acting like a bloody lunatic!
+568	00:00:00,000 --> 00:00:00,000		[Flashback - We see a house in the middle of nowhere, and hear the sound of knocking. Martha Toomey opens the door.]
+570	00:00:00,000 --> 00:00:00,000	MARTHA	If this weren't the middle of nowhere, I'd say you were lost.
+572	00:00:00,000 --> 00:00:00,000	HURLEY	Hi, is this Sam Toomey's house?
+574	00:00:00,000 --> 00:00:00,000	MARTHA	It is. I'm his wife.
+576	00:00:00,000 --> 00:00:00,000	HURLEY	Is he around, because I'd kind of like to talk to him.
+578	00:00:00,000 --> 00:00:00,000	MARTHA	I'd like that, too. But Sam's been dead for four years.
+580	00:00:00,000 --> 00:00:00,000		[Inside the house.]
+582	00:00:00,000 --> 00:00:00,000	HURLEY	Your husband worked with a guy I know, Leonard Sims.
+584	00:00:00,000 --> 00:00:00,000	MARTHA	That's right, they served together in the U.S. Navy. How is Leonard? Still in the service?
+586	00:00:00,000 --> 00:00:00,000	HURLEY	Uh, he's, um, retired. Anyway, he told me about Sam hearing something.
+588	00:00:00,000 --> 00:00:00,000	MARTHA	You're talking about the numbers.
+590	00:00:00,000 --> 00:00:00,000	HURLEY	Yes, the numbers, exactly. Do you know anything about them?
+592	00:00:00,000 --> 00:00:00,000	MARTHA	Sam and Leonard were stationed at a listening post monitoring long wave transmissions out of the Pacific. Boring job. Sam hated it, nothing to do but listen to static night after night. Until one night, about 16 years ago, there's something in the static, a voice comes through, a voice repeating those numbers over and over again. [Hurley nearly spills his tea.] A couple of days later we're at the fair in Kalgoorlie and some wally there has got this jar, must have been big as a pony, and it's filled to the rim with beans. Fella's offering 50 grand to anyone able to guess how many beans are in that jar, within 10.
+594	00:00:00,000 --> 00:00:00,000	HURLEY	Sam used the numbers?
+596	00:00:00,000 --> 00:00:00,000	MARTHA	Yep, the answer was exact. To the bean. Men had been running the same scam for 40 years and nobody had ever come close. So we won the money. On the way home a pick-up truck blows a tire on the highway, hits us head on. Lost my leg that night.
+598	00:00:00,000 --> 00:00:00,000	HURLEY	What about Sam?
+600	00:00:00,000 --> 00:00:00,000	MARTHA	Barely a scratch. Most people would consider themselves lucky, but not him. He was never the same after that. He started keeping a record. Anything terrible that happened to anyone around us, he believed it was all because he used those numbers. He moved us out here in the middle of nowhere hoping it would stop.
+602	00:00:00,000 --> 00:00:00,000	HURLEY	Did it? Did he ever find a way to make it stop?
+604	00:00:00,000 --> 00:00:00,000	MARTHA	Yep. He put a shotgun in his mouth and pulled the trigger. What is it you're looking for Mr. Reyes?
+606	00:00:00,000 --> 00:00:00,000	HURLEY	I used them, the numbers, to win the lottery. And now I think I'm under the same curse.
+608	00:00:00,000 --> 00:00:00,000	MARTHA	Curse? There's no curse.
+610	00:00:00,000 --> 00:00:00,000	HURLEY	But you just told me...
+612	00:00:00,000 --> 00:00:00,000	MARTHA	You think I'd still have my leg if Sam hadn't have picked the right number of beans?! You think that floods wouldn't have happened?! That homes wouldn't have burned down?! That people wouldn't have died?!
+614	00:00:00,000 --> 00:00:00,000	HURLEY	Well, yeah.
+616	00:00:00,000 --> 00:00:00,000	MARTHA	You make your own luck, Mr. Reyes. Don't blame it on the damn numbers. You're looking for an excuse that doesn't exist.
+618	00:00:00,000 --> 00:00:00,000		[On-Island - Shot of Locke holding what looks like a row of spikes attached to a rail.]
+620	00:00:00,000 --> 00:00:00,000	CLAIRE	It's a trap, right? For catching animals?
+622	00:00:00,000 --> 00:00:00,000	LOCKE	Pass me that cup please.
+624	00:00:00,000 --> 00:00:00,000	CLAIRE	Ugh, what's this gunk?
+626	00:00:00,000 --> 00:00:00,000	LOCKE	Glue.
+628	00:00:00,000 --> 00:00:00,000	CLAIRE	Where'd you find glue?
+630	00:00:00,000 --> 00:00:00,000	LOCKE	I made it out of rendered animal fat.
+632	00:00:00,000 --> 00:00:00,000	CLAIRE	You made glue? Wow. Then you should have one of those shows where you fix up houses for people.
+634	00:00:00,000 --> 00:00:00,000	LOCKE	I don't think so.
+636	00:00:00,000 --> 00:00:00,000	CLAIRE	Thanks, for this -- giving me something to do. I'm tired of trying to remember what happened to me out there.
+638	00:00:00,000 --> 00:00:00,000	LOCKE	How's that coming? Your memory?
+640	00:00:00,000 --> 00:00:00,000	CLAIRE	Bits and pieces here and there. Nothing that makes any real sense.
+642	00:00:00,000 --> 00:00:00,000	LOCKE	Well, maybe I can help. I'm good at putting bits and pieces together.
+644	00:00:00,000 --> 00:00:00,000		[Shot of Sayid and Jack in the jungle. Sayid stops.]
+646	00:00:00,000 --> 00:00:00,000	JACK	What?
+648	00:00:00,000 --> 00:00:00,000	SAYID	This is familiar, this area. We're close.
+650	00:00:00,000 --> 00:00:00,000	JACK	How do you know? I thought she lived underground?
+652	00:00:00,000 --> 00:00:00,000		[Jack starts walking and hits a trip wire.]
+654	00:00:00,000 --> 00:00:00,000	SAYID	Jack!
+656	00:00:00,000 --> 00:00:00,000		[There's an explosion. Hurley and Charlie see it.]
+658	00:00:00,000 --> 00:00:00,000	CHARLIE	What the hell was that?
+660	00:00:00,000 --> 00:00:00,000		[Shot of Jack and Sayid down in the wreckage of Danielle's place.]
+662	00:00:00,000 --> 00:00:00,000	JACK	Hell of a security system. Somebody trips a wire and the whole place blows up?
+664	00:00:00,000 --> 00:00:00,000	SAYID	There's nothing here.
+666	00:00:00,000 --> 00:00:00,000	JACK	Batteries?
+668	00:00:00,000 --> 00:00:00,000	SAYID	Nothing.
+670	00:00:00,000 --> 00:00:00,000	JACK	I don't get it.
+672	00:00:00,000 --> 00:00:00,000	SAYID	She knew. She knew that one day I'd come back and bring others. So she abandoned this place, booby-trapped it, and moved on.
+674	00:00:00,000 --> 00:00:00,000	JACK	Moved on where?
+676	00:00:00,000 --> 00:00:00,000		[Shot of Hurley and Charlie walking.]
+678	00:00:00,000 --> 00:00:00,000	HURLEY	Jack! Sayid!
+680	00:00:00,000 --> 00:00:00,000	CHARLIE	Do you even know where we're going?
+682	00:00:00,000 --> 00:00:00,000	HURLEY	The blast sounded like it came from this way. I think.
+684	00:00:00,000 --> 00:00:00,000	CHARLIE	You don't know.
+686	00:00:00,000 --> 00:00:00,000	HURLEY	Dude, what do you want from me?
+688	00:00:00,000 --> 00:00:00,000	CHARLIE	What do I want? I want to know what we're doing in the middle of nowhere? And don't tell me it's because of some stinking batteries. One minute you're happy-go-lucky, good time Hurley and the next you're Colonel-bloody-Kurtz. It just doesn't make any sense. It's not you.
+690	00:00:00,000 --> 00:00:00,000	HURLEY	Dude, you don't know me.
+692	00:00:00,000 --> 00:00:00,000	CHARLIE	Well, all this time on the Island, you've told me nothing about yourself.
+694	00:00:00,000 --> 00:00:00,000	HURLEY	We've all got personal stuff, dude.
+696	00:00:00,000 --> 00:00:00,000	CHARLIE	Don't change the subject. We're lost out here. Jack and Sayid could be hurt, if not blown to bits, all because you're acting like some bloody nutter.
+698	00:00:00,000 --> 00:00:00,000	HURLEY	I am not crazy. I've got my reasons for every-
+700	00:00:00,000 --> 00:00:00,000	CHARLIE	I think I have a right to know.
+702	00:00:00,000 --> 00:00:00,000	HURLEY	Okay, alright, you want to know?
+704	00:00:00,000 --> 00:00:00,000	CHARLIE	Yep.
+706	00:00:00,000 --> 00:00:00,000	HURLEY	About a year ago...
+708	00:00:00,000 --> 00:00:00,000		[Sound of a gunshot.]
+710	00:00:00,000 --> 00:00:00,000	HURLEY	Is someone shooting at us?
+712	00:00:00,000 --> 00:00:00,000		[Sound of another gunshot. Hurley and Charlie take off running in different directions. Hurley trips and falls, he gets up and takes a few steps and has a rifle pointed at him. Danielle is revealed.]
+714	00:00:00,000 --> 00:00:00,000	HURLEY	You must be the French chick.
+716	00:00:00,000 --> 00:00:00,000	DANIELLE	Who are you?
+718	00:00:00,000 --> 00:00:00,000	HURLEY	Hurley. I, uh -- Sayid? That guy you tortured, he...
+720	00:00:00,000 --> 00:00:00,000	DANIELLE	You were on the plane.
+722	00:00:00,000 --> 00:00:00,000	HURLEY	Look, I came here to find -- [He reaches for his pocket; Danielle aims her rifle.] oh, easy, easy, easy. I'm just getting your notes. Please, tell me why you wrote this. What do these numbers mean? Please.
+724	00:00:00,000 --> 00:00:00,000	DANIELLE	I don't know.
+726	00:00:00,000 --> 00:00:00,000	HURLEY	What? You don't know? Okay, that thing in the woods, maybe it's a monster, maybe it's a pissed off giraffe, I don't know! The fact that no one is even looking for us, yeah, that's weird, but I just go along with it because I'm along for the ride, good old fun time Hurley! Well guess what? Now, I want some friggin' answers!
+728	00:00:00,000 --> 00:00:00,000	DANIELLE	[lowering her rifle] Our ship picked up a transmission -- a voice repeating those numbers. We changed course to investigate. After we shipwrecked my team continued to search for the transmission source. It was weeks before we found the radio tower.
+730	00:00:00,000 --> 00:00:00,000	HURLEY	There's a radio tower on this Island?
+732	00:00:00,000 --> 00:00:00,000	DANIELLE	Yes, up by the Black Rock. Some of us continued to search for the meaning of those numbers while we waited for rescue. But then the sickness came. When my team was gone, I went back up to the tower and changed the transmission.
+734	00:00:00,000 --> 00:00:00,000	HURLEY	The distress signal we heard?
+736	00:00:00,000 --> 00:00:00,000	DANIELLE	Yes.
+738	00:00:00,000 --> 00:00:00,000	HURLEY	But the numbers -- did you ever find out anything about them? Do you know where they got their power?
+740	00:00:00,000 --> 00:00:00,000	DANIELLE	Power?
+742	00:00:00,000 --> 00:00:00,000	HURLEY	They bring bad stuff to everyone around you. They're cursed. You know that, right? The numbers, they're cursed.
+744	00:00:00,000 --> 00:00:00,000	DANIELLE	The numbers are what brought me here. As it appears they brought you. Since that time I've lost everything, everyone I cared about. So yes, I suppose you're right. They are cursed.
+746	00:00:00,000 --> 00:00:00,000	HURLEY	Thank you. Thank you. You have no idea how long I've been waiting for someone to agree with me. Thank you. Oh god, thank you.
+748	00:00:00,000 --> 00:00:00,000		[Hurley hugs Danielle.]
+750	00:00:00,000 --> 00:00:00,000		[We see Sayid and Jack back at the wreckage of Danielle's place.]
+752	00:00:00,000 --> 00:00:00,000	JACK	We need to find Hurley and Charlie and get out of this jungle. I just hate that we're going home empty handed.
+754	00:00:00,000 --> 00:00:00,000		[Sayid finds the partially burned photo of Nadia. Charlie comes running up.]
+756	00:00:00,000 --> 00:00:00,000	CHARLIE	Hey, hey, someone shot at us, Hurley and me. We were looking for you when...
+758	00:00:00,000 --> 00:00:00,000	SAYID	Rousseau.
+760	00:00:00,000 --> 00:00:00,000	JACK	Where's Hurley?
+762	00:00:00,000 --> 00:00:00,000	CHARLIE	I don't know. He was right behind me and then he just, he just wasn't.
+764	00:00:00,000 --> 00:00:00,000	SAYID	I'll go and find him.
+766	00:00:00,000 --> 00:00:00,000	JACK	No, no. We'll all go.
+768	00:00:00,000 --> 00:00:00,000	HURLEY	[off camera] Go where?
+770	00:00:00,000 --> 00:00:00,000	CHARLIE	Hurley, what the hell happened to you?
+772	00:00:00,000 --> 00:00:00,000	HURLEY	[pulling a battery out of his pack] Need a battery? [to Sayid] She says, hey.
+774	00:00:00,000 --> 00:00:00,000		[Shot of Hurley and the boys returning, walking past Michael, Sayid hands him the battery.]
+776	00:00:00,000 --> 00:00:00,000		[Shot of Locke and Claire still building something.]
+778	00:00:00,000 --> 00:00:00,000	LOCKE	You think of a name yet?
+780	00:00:00,000 --> 00:00:00,000	CLAIRE	Huh?
+782	00:00:00,000 --> 00:00:00,000	LOCKE	For the baby.
+784	00:00:00,000 --> 00:00:00,000	CLAIRE	Haven't really thought about it. I was going to give it away, you know, for adoption.
+786	00:00:00,000 --> 00:00:00,000	LOCKE	That must have been a difficult decision.
+788	00:00:00,000 --> 00:00:00,000	CLAIRE	Yeah, well, it doesn't matter now. It's my birthday today.
+790	00:00:00,000 --> 00:00:00,000	LOCKE	Why haven't you told anyone?
+792	00:00:00,000 --> 00:00:00,000	CLAIRE	I'm pregnant, single, and on an Island in the middle of nowhere. It doesn't really matter that it's my birthday, does it?
+794	00:00:00,000 --> 00:00:00,000	LOCKE	I guess not. At least your birthdays will be close together, you and your baby, and that's good luck.
+796	00:00:00,000 --> 00:00:00,000	CLAIRE	Yeah, you think?
+798	00:00:00,000 --> 00:00:00,000	LOCKE	Yeah, I do.
+800	00:00:00,000 --> 00:00:00,000	CLAIRE	You believe in that? Luck?
+802	00:00:00,000 --> 00:00:00,000	LOCKE	I believe in a lot of things. [Locke finishes with the thing they're building.] That should do it.
+804	00:00:00,000 --> 00:00:00,000	CLAIRE	Okay, I give up. What is it?
+806	00:00:00,000 --> 00:00:00,000		[Locke turns it over.]
+808	00:00:00,000 --> 00:00:00,000	CLAIRE	It's a cradle.
+810	00:00:00,000 --> 00:00:00,000	LOCKE	Happy birthday, Claire.
+812	00:00:00,000 --> 00:00:00,000	CLAIRE	Thank you.
+814	00:00:00,000 --> 00:00:00,000		[Shot of Hurley sitting at a fire on the beach. Charlie approaches. We see Hurley holding a shirt on a stick over the fire.]
+816	00:00:00,000 --> 00:00:00,000	CHARLIE	I know food's scarce, but your shirt?
+818	00:00:00,000 --> 00:00:00,000	HURLEY	When you find a laundromat, let me know.
+820	00:00:00,000 --> 00:00:00,000	CHARLIE	Back in the jungle before we became target practice you were going to tell me what inspired this little quest.
+822	00:00:00,000 --> 00:00:00,000	HURLEY	I think the plane crash might have been my fault.
+824	00:00:00,000 --> 00:00:00,000	CHARLIE	Don't be daft, how could you possibly...
+826	00:00:00,000 --> 00:00:00,000	HURLEY	Hey, before we came here a lot of bad stuff used to happen whenever I was around.
+828	00:00:00,000 --> 00:00:00,000	CHARLIE	What do you mean, like bad luck?
+830	00:00:00,000 --> 00:00:00,000	HURLEY	Yeah, that's -- that would be kind of a mellow way of describing it.
+832	00:00:00,000 --> 00:00:00,000	CHARLIE	Hurley, bad things happen, planes crash, people die.
+834	00:00:00,000 --> 00:00:00,000	HURLEY	Dude, you gotta let me finish.
+836	00:00:00,000 --> 00:00:00,000	CHARLIE	You think you're the only person with baggage? You know what I was doing when the plane went down? I was snorting heroin in the toilet. I was such a junkie I couldn't even take a plane ride with out having a fix. I suppose that was your fault, as well? -- So how about it?
+838	00:00:00,000 --> 00:00:00,000	HURLEY	What?
+840	00:00:00,000 --> 00:00:00,000	CHARLIE	I just told you the biggest secret of my life. I thought you'd want to reciprocate.
+842	00:00:00,000 --> 00:00:00,000	HURLEY	Okay. Back home I'm worth 156 million dollars.
+844	00:00:00,000 --> 00:00:00,000	CHARLIE	Fine. Don't tell me.
+846	00:00:00,000 --> 00:00:00,000	HURLEY	Dude.
+848	00:00:00,000 --> 00:00:00,000	CHARLIE	I bare my soul, and all I get is bloody jokes!
+850	00:00:00,000 --> 00:00:00,000		[Shot of the hatch and the container it's attached to. The camera pushes in to reveal the numbers etched in to the side: 4 8 15 16 23 42.]

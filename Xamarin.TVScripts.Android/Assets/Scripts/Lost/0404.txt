@@ -1,0 +1,457 @@
+Eggtown
+2	00:00:00,000 --> 00:00:00,000	Written by	Greggory Nations and Elizabeth Sarnoff
+4	00:00:00,000 --> 00:00:00,000	Directed by	Steven Williams
+6	00:00:00,000 --> 00:00:00,000		[Locke's eye opens. He gets up and makes breakfast for Ben. He brings it down to Ben.]
+8	00:00:00,000 --> 00:00:00,000	LOCKE	These are the last two eggs.
+10	00:00:00,000 --> 00:00:00,000		[He stands by and watches as Ben pulls out the book, Valis, which Locke has given him.]
+12	00:00:00,000 --> 00:00:00,000	BEN	From my own bookshelf.
+14	00:00:00,000 --> 00:00:00,000	LOCKE	Help you pass the time.
+16	00:00:00,000 --> 00:00:00,000	BEN	[flipping the book over] I've already read it. [puts down book]
+18	00:00:00,000 --> 00:00:00,000	LOCKE	You might catch something you missed the second time around.
+20	00:00:00,000 --> 00:00:00,000	BEN	[chewing thoughtfully] Why did you move me from the rec room down here?
+22	00:00:00,000 --> 00:00:00,000	LOCKE	I wanted you under my own roof.
+24	00:00:00,000 --> 00:00:00,000	BEN	[continues chewing] Where are you keeping your other prisoner? Miles, is it?
+26	00:00:00,000 --> 00:00:00,000		[Locke shrugs.]
+28	00:00:00,000 --> 00:00:00,000	BEN	[continued] Oh, you don't wanna share.
+30	00:00:00,000 --> 00:00:00,000	LOCKE	Actually, I was hoping you would share, Ben. Seeing as you claim to have a spy on his ship.
+32	00:00:00,000 --> 00:00:00,000	BEN	[stares at Locke for a few seconds] I feel for you, John. I really do. You keep hitting dead ends.
+34	00:00:00,000 --> 00:00:00,000		[Locke glares at Ben.]
+36	00:00:00,000 --> 00:00:00,000	BEN	[continued] You couldn't find the cabin, you can't make contact with Jacob - you're so desperate to figure out what to do next, you're even asking me for help. So here we are, just like old times. Except I'm locked in a different room, and you're more lost than you ever were.
+38	00:00:00,000 --> 00:00:00,000	LOCKE	I know what you're trying to do. It's not going to work.
+40	00:00:00,000 --> 00:00:00,000	BEN	Excellent, John! You're evolving!
+42	00:00:00,000 --> 00:00:00,000		[Locke steps forward, grabs Ben's tray.]
+44	00:00:00,000 --> 00:00:00,000	LOCKE	Done with your breakfast?
+46	00:00:00,000 --> 00:00:00,000		[Locke leaves and shuts the door behind him. As Ben sits in the dark, Locke slams the tray against the wall. Ben hears this and turns his head.]
+48	00:00:00,000 --> 00:00:00,000		[Locke walks outside, slamming the door behind him. Kate and Claire are sitting on a nearby porch. Kate turns to Claire.]
+50	00:00:00,000 --> 00:00:00,000	KATE	What was that all about?
+52	00:00:00,000 --> 00:00:00,000	CLAIRE	Who knows? It's Locke.
+54	00:00:00,000 --> 00:00:00,000		[Sawyer walks up.]
+56	00:00:00,000 --> 00:00:00,000	SAWYER	Mornin', ladies.
+58	00:00:00,000 --> 00:00:00,000	CLAIRE	Good morning.
+60	00:00:00,000 --> 00:00:00,000	KATE	Mornin'.
+62	00:00:00,000 --> 00:00:00,000	SAWYER	Mmm, the coffee smells good.
+64	00:00:00,000 --> 00:00:00,000	CLAIRE	Well, why don't I go make you a cup?
+66	00:00:00,000 --> 00:00:00,000		[Claire goes inside. Sawyer sits down.]
+68	00:00:00,000 --> 00:00:00,000	SAWYER	Kinda weird, ain't it? Sittin' on porches, drinking coffee out of mugs? By the way, I found some clothes about your size, in the closet. So after I kick out Hugo-
+70	00:00:00,000 --> 00:00:00,000	KATE	I'm not moving in with you, James.
+72	00:00:00,000 --> 00:00:00,000	SAWYER	Well. Then why did you stay?
+74	00:00:00,000 --> 00:00:00,000	KATE	That's none of your business.
+76	00:00:00,000 --> 00:00:00,000	SAWYER	Oh, you got a secret agenda, huh? Well, if you're spying for Jack-
+78	00:00:00,000 --> 00:00:00,000	KATE	I'm not spying for anyone.
+80	00:00:00,000 --> 00:00:00,000	SAWYER	So why don't you tell me why-
+82	00:00:00,000 --> 00:00:00,000	KATE	Because I don't trust you.
+84	00:00:00,000 --> 00:00:00,000		[Sawyer nods.]
+86	00:00:00,000 --> 00:00:00,000	SAWYER	This is about the pregnancy.
+88	00:00:00,000 --> 00:00:00,000	KATE	James?
+90	00:00:00,000 --> 00:00:00,000	SAWYER	Yeah.
+92	00:00:00,000 --> 00:00:00,000	KATE	Go home.
+94	00:00:00,000 --> 00:00:00,000		[Sawyer gets up.]
+96	00:00:00,000 --> 00:00:00,000	SAWYER	Okay, fine. See you later then.
+98	00:00:00,000 --> 00:00:00,000		[Sawyer walks back to his house and goes in.]
+100	00:00:00,000 --> 00:00:00,000		[Flash-forward - Kate is in a car, sitting next to Duncan. She looks out the window.]
+102	00:00:00,000 --> 00:00:00,000	DUNCAN	You ready?
+104	00:00:00,000 --> 00:00:00,000	KATE	Is there a back entrance?
+106	00:00:00,000 --> 00:00:00,000	DUNCAN	Yeah, but you're going in the front door, with your head held high, okay?
+108	00:00:00,000 --> 00:00:00,000		[Kate glances back at him nervously.]
+110	00:00:00,000 --> 00:00:00,000	KATE	Yeah. Okay. Let's do this.
+112	00:00:00,000 --> 00:00:00,000		[They both get out into a throng of reporters.]
+114	00:00:00,000 --> 00:00:00,000	DUNCAN	Let us through. Folks, we're not making any statements or answering any questions right now. Thank you.
+116	00:00:00,000 --> 00:00:00,000	BEARDED MAN IN CROWD	We hate you!
+118	00:00:00,000 --> 00:00:00,000		[Kate is now sitting in a courtroom.]
+120	00:00:00,000 --> 00:00:00,000	BALIFF	The people vs. Katherine Anne Austen, the honorable Arthur Galzethron presiding.
+122	00:00:00,000 --> 00:00:00,000	JUDGE GALZETHRON	Baliff will read the counts. Will the defendant please rise?
+124	00:00:00,000 --> 00:00:00,000		[Kate stands.]
+126	00:00:00,000 --> 00:00:00,000	BALIFF	Katherine Anne Austen, you are charged with fraud, arson, assault on a federal officer, assault with a deadly weapon, grand larceny, grand theft auto, and murder in the first degree. Ms. Austen, how do you plead?
+128	00:00:00,000 --> 00:00:00,000	KATE	Not guilty.
+130	00:00:00,000 --> 00:00:00,000		[Gasps are heard.]
+132	00:00:00,000 --> 00:00:00,000	JUDGE	Thus entered. I will now hear the argument on the bail.
+134	00:00:00,000 --> 00:00:00,000		[Melissa Dunbrook stands.]
+136	00:00:00,000 --> 00:00:00,000	MELISSA	Your honor, we are requesting that the defendant be remanded into custody for the duration of the trial.
+138	00:00:00,000 --> 00:00:00,000	DUNCAN	Your honor, my client's been free pending arraignment, now suddenly she's a flight risk?
+140	00:00:00,000 --> 00:00:00,000	MELISSA	She's the very definition of a flight risk.
+142	00:00:00,000 --> 00:00:00,000	DUNCAN	She is one of the most recognizable faces in America. Where's she going to run?
+144	00:00:00,000 --> 00:00:00,000	JUDGE	Ms. Austen, based on your prior history, I'm inclined to agree with the people. You are hereby remanded into federal custody for the duration of your trial.
+146	00:00:00,000 --> 00:00:00,000	DUNCAN	Your honor-
+148	00:00:00,000 --> 00:00:00,000	JUDGE	Baliff, please take the defendant into custody.
+150	00:00:00,000 --> 00:00:00,000		[Duncan looks at Kate.]
+152	00:00:00,000 --> 00:00:00,000	DUNCAN	Sorry.
+154	00:00:00,000 --> 00:00:00,000		[Kate stands. She has handcuffs put on her and is led away.]
+156	00:00:00,000 --> 00:00:00,000		[On-Island - Jin is on the beach, pointing to a map.]
+158	00:00:00,000 --> 00:00:00,000	JIN	Al-ber-kerke.
+160	00:00:00,000 --> 00:00:00,000		[Jin looks up at Sun.]
+162	00:00:00,000 --> 00:00:00,000	SUN	Too hot.
+164	00:00:00,000 --> 00:00:00,000	JIN	New York.
+166	00:00:00,000 --> 00:00:00,000	SUN	Too many people.
+168	00:00:00,000 --> 00:00:00,000	JIN	Ã¬â€žÅ“Ã¬Å¡Â¸Ã«Â³Â´Ã«â€¹Â¤ Ã«Ââ€ Ã«Â§Å½Ã¬â€¢â€ž? [Subtitle: More than Seoul?]
+170	00:00:00,000 --> 00:00:00,000	SUN	Ã¬â€žÅ“Ã¬Å¡Â¸Ã¬ÂÂ´ Ã¬â€“Â´Ã«â€¢Å’Ã¬â€žÅ“Ã¬Å¡â€? [Subtitle: What's wrong with Seoul?]
+172	00:00:00,000 --> 00:00:00,000	JIN	Ã¬Å¾ÂÃªÂ¸Â°Ã¬â€¢Â¼, Ã¬ÂÂ´Ã¬Â Å“ Ã¬Å¡Â°Ã«Â¦Â¬Ã«Å â€ Ã¬ÂÂ´ Ã¬â€žÂ¬Ã¬Ââ€ž ÃªÂ³Â§ Ã«â€“Â Ã«â€šÂ Ã­â€¦ÂÃ«ÂÂ°... [Subtitle: Sun, we're going to leave this island any moment now. ]
+174	00:00:00,000 --> 00:00:00,000	JIN	[continued] I learn English...for you...to live...in...America.
+176	00:00:00,000 --> 00:00:00,000		[Sun smiles.]
+178	00:00:00,000 --> 00:00:00,000	SUN	ÃªÂ¸â‚¬Ã¬Å½â€ž... Ã«â€šËœÃ«Å â€... Ã«â€šÂ´ Ã¬â€¢â€žÃªÂ¸Â°Ã«Å â€ Ã«â€šÂ´ÃªÂ°â‚¬ Ã¬Å¾ÂÃ«Å¾â‚¬ Ã­â€¢Å“ÃªÂµÂ­Ã¬â€”ÂÃ¬â€žÅ“ Ã­â€šÂ¤Ã¬Å¡Â°ÃªÂ³ Ã¬â€¹Â¶Ã¬â€“Â´Ã¬Å¡â€. [Subtitle: I want to raise my baby at home in Korea.]
+180	00:00:00,000 --> 00:00:00,000	JIN	Ã¬Å¡Â°Ã«Â¦Â¬ Ã¬â€¢Â ÃªÂ¸Â°. [Subtitle: You mean our baby.]
+182	00:00:00,000 --> 00:00:00,000		[They then notice Jack and the others returning. They run to them.]
+184	00:00:00,000 --> 00:00:00,000	JACK	[to beachies] This is, uh, Charlotte, and Dan. Their helicopter already took Sayid and Desmond back to their freighter. They can make arrangements to get all of us off this island.
+186	00:00:00,000 --> 00:00:00,000	SUN	Where's Kate?
+188	00:00:00,000 --> 00:00:00,000	JACK	[pause] She stayed with Locke.
+190	00:00:00,000 --> 00:00:00,000		[Jack walks past Sun.]
+192	00:00:00,000 --> 00:00:00,000		[Locke opens the door to his house, wiping off his hands. Kate is standing there.]
+194	00:00:00,000 --> 00:00:00,000	LOCKE	Hello, Kate.
+196	00:00:00,000 --> 00:00:00,000		[Kate looks at Locke wiping off his hands.]
+198	00:00:00,000 --> 00:00:00,000	KATE	You got blood...
+200	00:00:00,000 --> 00:00:00,000	LOCKE	I just killed a chicken. What can I do for you?
+202	00:00:00,000 --> 00:00:00,000	KATE	I want to talk to Miles. Where are you keeping him?
+204	00:00:00,000 --> 00:00:00,000	LOCKE	Why do you need to talk to him?
+206	00:00:00,000 --> 00:00:00,000	KATE	It's personal.
+208	00:00:00,000 --> 00:00:00,000	LOCKE	No.
+210	00:00:00,000 --> 00:00:00,000	KATE	And what gives you the right to decide whether or not--
+212	00:00:00,000 --> 00:00:00,000	LOCKE	You may think this is a democracy, Kate, because of the way Jack ran things, but this is not a democracy.
+214	00:00:00,000 --> 00:00:00,000	KATE	Then I guess that makes it a dictatorship.
+216	00:00:00,000 --> 00:00:00,000	LOCKE	If I was a dictator, I would just shoot you, and go about my day. Dinner's at six if you're hungry.
+218	00:00:00,000 --> 00:00:00,000		[Locke closes the door. Kate strides off, sees Hurley carrying a tray of food.]
+220	00:00:00,000 --> 00:00:00,000	KATE	Hey Hurley! You bringing that to Miles?
+222	00:00:00,000 --> 00:00:00,000	HURLEY	Yeah.
+224	00:00:00,000 --> 00:00:00,000	KATE	Well, Locke asked me to do it.
+226	00:00:00,000 --> 00:00:00,000	HURLEY	Cool. That dude creeps me out.
+228	00:00:00,000 --> 00:00:00,000	KATE	He's still in the rec room, right?
+230	00:00:00,000 --> 00:00:00,000	HURLEY	No, we moved him to the boathouse that... You just totally Scooby-Dood me, didn't you.
+232	00:00:00,000 --> 00:00:00,000	KATE	Sorry.
+234	00:00:00,000 --> 00:00:00,000	HURLEY	You're not going to let him go, are you?
+236	00:00:00,000 --> 00:00:00,000	KATE	No. No, I promise.
+238	00:00:00,000 --> 00:00:00,000	HURLEY	Just don't tell Locke it was me.
+240	00:00:00,000 --> 00:00:00,000		[Kate pats Hurley on the shoulder.]
+242	00:00:00,000 --> 00:00:00,000		[She walks to the boathouse. Miles is in there.]
+244	00:00:00,000 --> 00:00:00,000	MILES	So the Arab traded you too, huh?
+246	00:00:00,000 --> 00:00:00,000		[Kate pulls up a chair.]
+248	00:00:00,000 --> 00:00:00,000	KATE	Do you know who I am?
+250	00:00:00,000 --> 00:00:00,000	MILES	Excuse me?
+252	00:00:00,000 --> 00:00:00,000	KATE	Do you know who I am. Do you know what I did?
+254	00:00:00,000 --> 00:00:00,000	MILES	What did you do?
+256	00:00:00,000 --> 00:00:00,000	KATE	Answer the question.
+258	00:00:00,000 --> 00:00:00,000	MILES	Okay. I'll tell you what you wanna know. But you gotta do something for me first.
+260	00:00:00,000 --> 00:00:00,000	KATE	I'm not letting you go.
+262	00:00:00,000 --> 00:00:00,000	MILES	I don't wanna be let go. I'm exactly where I wanna be. What I want, is one minute of someones time. You bring him to me, and I will tell you everything I know about you.
+264	00:00:00,000 --> 00:00:00,000	KATE	Who?
+266	00:00:00,000 --> 00:00:00,000	MILES	Who do you think?
+268	00:00:00,000 --> 00:00:00,000		[Flash-forward - Kate is being led into a room to see Duncan.]
+270	00:00:00,000 --> 00:00:00,000	DUNCAN	You okay?
+272	00:00:00,000 --> 00:00:00,000	KATE	Yeah, I'm fine.
+274	00:00:00,000 --> 00:00:00,000	DUNCAN	Listen. The D.A.'s decided to try this case herself. Which means they're gonna do the full-court press. Now we need to start talking about cutting a deal.
+276	00:00:00,000 --> 00:00:00,000	KATE	What kind of deal?
+278	00:00:00,000 --> 00:00:00,000	DUNCAN	Honestly, my best guess, I'd say...she'll take a fifteen year sentence, and you serve seven.
+280	00:00:00,000 --> 00:00:00,000		[Kate shakes her head.]
+282	00:00:00,000 --> 00:00:00,000	KATE	No way.
+284	00:00:00,000 --> 00:00:00,000	DUNCAN	If you go to trial, Kate, you're looking at twenty years on each count, not to mention a life sentence on the murder charge.
+286	00:00:00,000 --> 00:00:00,000	KATE	No.
+288	00:00:00,000 --> 00:00:00,000	DUNCAN	Kate, you confessed to your mother that you killed your father. And now, she's their star witness. So you tell me, what am I supposed to do? How am I supposed to win this thing?
+290	00:00:00,000 --> 00:00:00,000	KATE	Put me on the stand.
+292	00:00:00,000 --> 00:00:00,000	DUNCAN	And take a chance with the D.A. crossing you, no. The way I see, we've got one shot at this.
+294	00:00:00,000 --> 00:00:00,000	KATE	What's that?
+296	00:00:00,000 --> 00:00:00,000	DUNCAN	We make it about character. Not about what you did or didn't do, but about who you are.
+298	00:00:00,000 --> 00:00:00,000	KATE	What do you mean who I am?
+300	00:00:00,000 --> 00:00:00,000	DUNCAN	I want him in the courtroom.
+302	00:00:00,000 --> 00:00:00,000	KATE	Absolutely not.
+304	00:00:00,000 --> 00:00:00,000	DUNCAN	We need him, Kate. It will generate tremendous sympathy-
+306	00:00:00,000 --> 00:00:00,000	KATE	Duncan, listen to me. You are not bringing him in here. Alright, you want to make this about me, about my character, fine. You are not using my son.
+308	00:00:00,000 --> 00:00:00,000		[On-Island - Charlotte and Daniel are going through the pantry. Jack is up ahead, trying the phone while Juliet watches.]
+310	00:00:00,000 --> 00:00:00,000	JULIET	Maybe you should try a number other than the boat, like 911.
+312	00:00:00,000 --> 00:00:00,000		[Sun approaches.]
+314	00:00:00,000 --> 00:00:00,000	SUN	What's wrong?
+316	00:00:00,000 --> 00:00:00,000	JACK	Nothing. I'm just having some trouble getting ahold of their boat.
+318	00:00:00,000 --> 00:00:00,000	SUN	You haven't heard from Sayid? You said they left yesterday!
+320	00:00:00,000 --> 00:00:00,000	JACK	And I'm sure they're fine.
+322	00:00:00,000 --> 00:00:00,000	SUN	What if Locke was right? What if these people are here to hurt us?
+324	00:00:00,000 --> 00:00:00,000	JACK	Locke has no idea what he's doing.
+326	00:00:00,000 --> 00:00:00,000	SUN	[pause] Then why is Kate with him?
+328	00:00:00,000 --> 00:00:00,000		[Kate is hanging laundry with Claire at the Barracks. Kate is staring at Locke's door.]
+330	00:00:00,000 --> 00:00:00,000	KATE	You sure he's got Ben in the basement?
+332	00:00:00,000 --> 00:00:00,000	CLAIRE	Uh-huh. I saw Rousseau take him in there last night.
+334	00:00:00,000 --> 00:00:00,000	KATE	Does Locke ever go out?
+336	00:00:00,000 --> 00:00:00,000	CLAIRE	No, he's been in there cooking all day. He invited us all over for dinner.
+338	00:00:00,000 --> 00:00:00,000		[Aaron is crying.]
+340	00:00:00,000 --> 00:00:00,000	CLAIRE	Oh, can you get Aaron for me?
+342	00:00:00,000 --> 00:00:00,000		[Kate looks nervous.]
+344	00:00:00,000 --> 00:00:00,000	CLAIRE	[continued] Just pick him up and rock him a little bit.
+346	00:00:00,000 --> 00:00:00,000	KATE	Um...yeah, I'm just not very good with babies. I wouldn't want him to get more upset.
+348	00:00:00,000 --> 00:00:00,000		[Claire smiles, and hands Kate what she's holding.]
+350	00:00:00,000 --> 00:00:00,000	CLAIRE	Here, I got it.
+352	00:00:00,000 --> 00:00:00,000		[Claire picks up Aaron.]
+354	00:00:00,000 --> 00:00:00,000	CLAIRE	Ohhh...it's okay. There we go, muffin. There we go.
+356	00:00:00,000 --> 00:00:00,000	KATE	You're so good with him.
+358	00:00:00,000 --> 00:00:00,000		[Claire giggles.]
+360	00:00:00,000 --> 00:00:00,000	KATE	What?
+362	00:00:00,000 --> 00:00:00,000	CLAIRE	Just...the last thing I thought I'd be good at was being a mum. You know, you should try it sometime.
+364	00:00:00,000 --> 00:00:00,000		[Flash-forward - Kate is in a courtroom.]
+366	00:00:00,000 --> 00:00:00,000	BALIFF	Please rise.
+368	00:00:00,000 --> 00:00:00,000		[Judge enters.]
+370	00:00:00,000 --> 00:00:00,000	BALIFF	Court is now in session. Please be seated.
+372	00:00:00,000 --> 00:00:00,000	DUNCAN	[to Kate] Don't fire me, okay?
+374	00:00:00,000 --> 00:00:00,000	KATE	What?
+376	00:00:00,000 --> 00:00:00,000	DUNCAN	[to Kate] We got killed in the opening. I had to do this.
+378	00:00:00,000 --> 00:00:00,000	JUDGE	Does the defense have a witness?
+380	00:00:00,000 --> 00:00:00,000	DUNCAN	Yes we do, your honor. The defense calls Dr. Jack Shephard to the witness stand.
+382	00:00:00,000 --> 00:00:00,000		[The door opens, and Jack enters.]
+384	00:00:00,000 --> 00:00:00,000	MELISSA	Your honor, I'd like to renew my objection to this witness on the basis of relevance.
+386	00:00:00,000 --> 00:00:00,000	JUDGE	And I'm going to renew my overruling of your objection. You have to be aware that this witness did not meet the defendant until after the alleged crimes she's been charged with. He is to be viewed as a character witness only. Proceed.
+388	00:00:00,000 --> 00:00:00,000	BALIFF	Please raise your right hand. Do you swear to tell the truth, the whole truth and nothing but the truth, so help you God?
+390	00:00:00,000 --> 00:00:00,000	JACK	Yes.
+392	00:00:00,000 --> 00:00:00,000		[Jack sits.]
+394	00:00:00,000 --> 00:00:00,000	DUNCAN	Dr. Shephard. Could you please tell the ladies and gentlemen of the jury, if there are any of you who don't read the newspapers or the internet or watch television, how you met the defendant?
+396	00:00:00,000 --> 00:00:00,000	JACK	Um... on September 22, 2004, Kate uh, Ms. Austen, and I were both passengers on Oceanic Flight 815, which crash-landed on an island in the South Pacific.
+398	00:00:00,000 --> 00:00:00,000	DUNCAN	Were you aware that Ms. Austen was a fugitive being transported by a United States marshal on that flight to Los Angeles for trial?
+400	00:00:00,000 --> 00:00:00,000	JACK	I did learn that eventually, yes.
+402	00:00:00,000 --> 00:00:00,000	DUNCAN	From the U.S. Marshal?
+404	00:00:00,000 --> 00:00:00,000	JACK	No, the marshal died in the crash. I never spoke to him. Ms. Austen told me.
+406	00:00:00,000 --> 00:00:00,000	DUNCAN	Did you ever ask her if she was guilty?
+408	00:00:00,000 --> 00:00:00,000	JACK	No. Never.
+410	00:00:00,000 --> 00:00:00,000	DUNCAN	Well, that seems like a reasonable question. Why not?
+412	00:00:00,000 --> 00:00:00,000	JACK	I just assumed that there had been some kind of mistake.
+414	00:00:00,000 --> 00:00:00,000	DUNCAN	And why would you think that?
+416	00:00:00,000 --> 00:00:00,000	JACK	Only eight of us survived the crash. We landed in the water. I was hurt, pretty badly. In fact, if it weren't for her, I would have never made it to the shore. She took care of me. She took care of all of us. She - she gave us first aid, water, found food, made shelter. She tried to save the other two, but they didn't-
+418	00:00:00,000 --> 00:00:00,000	KATE	Stop.
+420	00:00:00,000 --> 00:00:00,000	JUDGE	[off-screen] Ms. Austen, please sit down.
+422	00:00:00,000 --> 00:00:00,000	KATE	This has nothing to do with... with anything. This is my trial, and I don't want him to say anything else.
+424	00:00:00,000 --> 00:00:00,000	DUNCAN	That's fine. I have no more questions, your honor.
+426	00:00:00,000 --> 00:00:00,000	JUDGE	Ms. Dunbrook, bear witness.
+428	00:00:00,000 --> 00:00:00,000	MELISSA	That was very moving, Dr. Shephard. I only have one question for you. Do you love the defendant?
+430	00:00:00,000 --> 00:00:00,000	DUNCAN	Objection!
+432	00:00:00,000 --> 00:00:00,000	JUDGE	You opened this door, Mr. Forrester, I'm going to allow it.
+434	00:00:00,000 --> 00:00:00,000	MELISSA	Doctor Shephard, do you love Ms. Austen?
+436	00:00:00,000 --> 00:00:00,000	JACK	No. Not anymore.
+438	00:00:00,000 --> 00:00:00,000		[On-Island - Sawyer is in his house at the Barracks, reading a book. Hurley is messing with the TV in front of him.]
+440	00:00:00,000 --> 00:00:00,000	HURLEY	So... what do you wanna watch? Xanadu or Satan's Doom?
+442	00:00:00,000 --> 00:00:00,000	SAWYER	I'm reading.
+444	00:00:00,000 --> 00:00:00,000		[The TV plays loudly.]
+446	00:00:00,000 --> 00:00:00,000	TV	[song] "They call it Xanadu..."
+448	00:00:00,000 --> 00:00:00,000	SAWYER	Turn that thing down, dammit!
+450	00:00:00,000 --> 00:00:00,000	HURLEY	Sorry.
+452	00:00:00,000 --> 00:00:00,000		[There's a knock on the door. Sawyer answers it. It's Kate.]
+454	00:00:00,000 --> 00:00:00,000	SAWYER	Hey.
+456	00:00:00,000 --> 00:00:00,000	KATE	Can I come in?
+458	00:00:00,000 --> 00:00:00,000		[Kate walks in.]
+460	00:00:00,000 --> 00:00:00,000	SAWYER	Sure. I believe you know my roommate.
+462	00:00:00,000 --> 00:00:00,000	KATE	Hey Hurley.
+464	00:00:00,000 --> 00:00:00,000	HURLEY	Hey Kate.
+466	00:00:00,000 --> 00:00:00,000		[Hurley winks at Sawyer.]
+468	00:00:00,000 --> 00:00:00,000	SAWYER	Got something in your eye, Hugo? [to Kate] Why don't we talk in the kitchen?
+470	00:00:00,000 --> 00:00:00,000		[They enter the kitchen. Sawyer reaches into a cabinet and grabs a box of DHARMA red wine.]
+472	00:00:00,000 --> 00:00:00,000	SAWYER	I know it's in a box, but, uh, it's pretty damn good wine. I tested it. So, how's life in Casa de Claire? Baby Aaron keeping you up all night?
+474	00:00:00,000 --> 00:00:00,000	KATE	No, no, he's a good sleeper.
+476	00:00:00,000 --> 00:00:00,000	SAWYER	Good for you.
+478	00:00:00,000 --> 00:00:00,000		[Sawyer pours Kate a glass of wine.]
+480	00:00:00,000 --> 00:00:00,000	SAWYER	You are terrible at this, Freckles.
+482	00:00:00,000 --> 00:00:00,000	KATE	Terrible at what?
+484	00:00:00,000 --> 00:00:00,000	SAWYER	You already said you didn't stay behind for me. So at least be woman enough to tell me you want to use me for something.
+486	00:00:00,000 --> 00:00:00,000		[Beat, then]
+488	00:00:00,000 --> 00:00:00,000	KATE	I want to use you for something.
+490	00:00:00,000 --> 00:00:00,000	SAWYER	See? Wasn't that hard. For what?
+492	00:00:00,000 --> 00:00:00,000	KATE	For Ben. I want you to help me bust him out.
+494	00:00:00,000 --> 00:00:00,000		[Locke opens the door to his house, Sawyer is standing there. Sawyer holds up a backgammon board.]
+496	00:00:00,000 --> 00:00:00,000	SAWYER	Wanna play some backgammon?
+498	00:00:00,000 --> 00:00:00,000	LOCKE	You're on.
+500	00:00:00,000 --> 00:00:00,000		[They begin to play.]
+502	00:00:00,000 --> 00:00:00,000	LOCKE	Do you think I know what I'm doing?
+504	00:00:00,000 --> 00:00:00,000	SAWYER	Huh?
+506	00:00:00,000 --> 00:00:00,000	LOCKE	Do you regret following me out here? Are you worried about what we should do next?
+508	00:00:00,000 --> 00:00:00,000	SAWYER	All I know is that I'd be a lot more worried if I was sitting on that beach.
+510	00:00:00,000 --> 00:00:00,000	LOCKE	And the rest of the group, what are they saying?
+512	00:00:00,000 --> 00:00:00,000	SAWYER	I think they're saying "Baa."
+514	00:00:00,000 --> 00:00:00,000		[They both chuckle.]
+516	00:00:00,000 --> 00:00:00,000	SAWYER	[continued] That's the nice thing about sheep. They're predictable. But I ain't so sure about Kate.
+518	00:00:00,000 --> 00:00:00,000	LOCKE	What do you mean?
+520	00:00:00,000 --> 00:00:00,000	SAWYER	I need your word you ain't going to do nothing to her.
+522	00:00:00,000 --> 00:00:00,000	LOCKE	Why would I do anything to her?
+524	00:00:00,000 --> 00:00:00,000	SAWYER	Just give me your word, John. [beat, then] You know what? Forget it.
+526	00:00:00,000 --> 00:00:00,000	LOCKE	No, no, no, alright. You have my word.
+528	00:00:00,000 --> 00:00:00,000	SAWYER	She came to me about an hour ago. Said she wanted my help busting Ben out of your basement.
+530	00:00:00,000 --> 00:00:00,000	LOCKE	Why?
+532	00:00:00,000 --> 00:00:00,000	SAWYER	She talked to that guy... Bruce Lee from the freighter, the guy you've got locked up. He told her to bring Ben down to him for a chat.
+534	00:00:00,000 --> 00:00:00,000	LOCKE	No, that's impossible. She doesn't even know where Miles is.
+536	00:00:00,000 --> 00:00:00,000	SAWYER	What, the boathouse down by the dock? If Hugo knows, everybody knows.
+538	00:00:00,000 --> 00:00:00,000	LOCKE	Are you sure about this?
+540	00:00:00,000 --> 00:00:00,000	SAWYER	Yeah, I'm sure.
+542	00:00:00,000 --> 00:00:00,000		[Locke pulls out a gun.]
+544	00:00:00,000 --> 00:00:00,000	SAWYER	Whoa, whoa, whoa, where are you going with that?
+546	00:00:00,000 --> 00:00:00,000	LOCKE	Whatever Miles has to say to Ben, he can say to me.
+548	00:00:00,000 --> 00:00:00,000		[They run to the boathouse - it's empty.]
+550	00:00:00,000 --> 00:00:00,000	SAWYER	Son of a bitch.
+552	00:00:00,000 --> 00:00:00,000		[Kate and Miles bust into Locke's house.]
+554	00:00:00,000 --> 00:00:00,000	KATE	Come on.
+556	00:00:00,000 --> 00:00:00,000		[They go into the basement and break into Ben's room.]
+558	00:00:00,000 --> 00:00:00,000	KATE	You got one minute. Go.
+560	00:00:00,000 --> 00:00:00,000	MILES	How about some privacy?
+562	00:00:00,000 --> 00:00:00,000	KATE	Fifty-five seconds!
+564	00:00:00,000 --> 00:00:00,000	MILES	[to Ben] Do you know who I am?
+566	00:00:00,000 --> 00:00:00,000	BEN	Yes.
+568	00:00:00,000 --> 00:00:00,000	MILES	Do you know who I work for?
+570	00:00:00,000 --> 00:00:00,000	BEN	Yes.
+572	00:00:00,000 --> 00:00:00,000	MILES	Then you know he's put a lot of time and energy into finding you. So now I've found you. And I can tell him exactly where you are. Or I can lie, and tell him you were already dead. I'd be willing to do that, for 3.2 million dollars.
+574	00:00:00,000 --> 00:00:00,000	BEN	You've arranged this meeting so you could blackmail me?
+576	00:00:00,000 --> 00:00:00,000	MILES	[his lips move silently for a moment] It's extortion if you want to get technical.
+578	00:00:00,000 --> 00:00:00,000	BEN	3.2? But why not 3.3 or 3.4?
+580	00:00:00,000 --> 00:00:00,000		[Miles stares at Ben, and Ben realizes something.]
+582	00:00:00,000 --> 00:00:00,000	BEN	What makes you think I have access to that kind of money?
+584	00:00:00,000 --> 00:00:00,000	MILES	Do not treat me like I'm one of them! Like I don't know who you are, or what you can do!
+586	00:00:00,000 --> 00:00:00,000	BEN	Your friend Charlotte has seen me, she knows I'm alive.
+588	00:00:00,000 --> 00:00:00,000	MILES	I'll take care of Charlotte. You just worry about getting me the money. You have two days.
+590	00:00:00,000 --> 00:00:00,000	BEN	My present situation is a little bit restricted. Can that be amended?
+592	00:00:00,000 --> 00:00:00,000	MILES	Okay. One week, in cash.
+594	00:00:00,000 --> 00:00:00,000		[Kate shoves him out of the room.]
+596	00:00:00,000 --> 00:00:00,000	KATE	Time's up.
+598	00:00:00,000 --> 00:00:00,000	MILES	Don't even think about it!
+600	00:00:00,000 --> 00:00:00,000	KATE	I said time's up!
+602	00:00:00,000 --> 00:00:00,000		[She pins Miles to the wall.]
+604	00:00:00,000 --> 00:00:00,000	MILES	Ooh, this is hot.
+606	00:00:00,000 --> 00:00:00,000	KATE	You got your meeting, now I want my answer.
+608	00:00:00,000 --> 00:00:00,000	MILES	We got your name when you called the freighter. Of course we know about you and everybody else on the 815 manifest.
+610	00:00:00,000 --> 00:00:00,000	KATE	Then prove it.
+612	00:00:00,000 --> 00:00:00,000	MILES	Your name is Katherine Anne Austen, and you're wanted for murder, fraud, arson and a whole bunch of other stuff I can't remember. You're a fugitive. You got caught in Australia and the feds were bringing you back. So yeah, we know. If I were you, I'd stay right here on the island. Who knows, maybe you didn't survive the crash.
+614	00:00:00,000 --> 00:00:00,000	KATE	Come on.
+616	00:00:00,000 --> 00:00:00,000		[They walk up the staircase, but are met at the top by Sawyer and Locke.]
+618	00:00:00,000 --> 00:00:00,000	LOCKE	Go back to your house, Kate.
+620	00:00:00,000 --> 00:00:00,000	KATE	John, this has nothing to do with you-
+622	00:00:00,000 --> 00:00:00,000	LOCKE	Go back to your house, Kate!
+624	00:00:00,000 --> 00:00:00,000		[Kate leaves.]
+626	00:00:00,000 --> 00:00:00,000		[Kate is then seen sitting on her couch in Claire's house, listening to Patsy Cline's "She's Got You." Claire walks in.]
+628	00:00:00,000 --> 00:00:00,000	CLAIRE	Hey. You okay?
+630	00:00:00,000 --> 00:00:00,000		[Kate nods.]
+632	00:00:00,000 --> 00:00:00,000	KATE	I couldn't sleep.
+634	00:00:00,000 --> 00:00:00,000	CLAIRE	Yeah. The beds take a little getting used to.
+636	00:00:00,000 --> 00:00:00,000	KATE	I didn't wake Aaron up, did I?
+638	00:00:00,000 --> 00:00:00,000	CLAIRE	No. Aaron was born on this island, he can sleep through anything.
+640	00:00:00,000 --> 00:00:00,000		[The door opens, and Locke walks in.]
+642	00:00:00,000 --> 00:00:00,000	CLAIRE	John. What are you doing?
+644	00:00:00,000 --> 00:00:00,000	LOCKE	I'd like a moment alone with Kate. Would you excuse us please, Claire?
+646	00:00:00,000 --> 00:00:00,000		[Kate nods that it's okay to Claire.]
+648	00:00:00,000 --> 00:00:00,000	KATE	It's okay.
+650	00:00:00,000 --> 00:00:00,000		[Claire nervously walks out.]
+652	00:00:00,000 --> 00:00:00,000	KATE	John, I-
+654	00:00:00,000 --> 00:00:00,000	LOCKE	I don't need to know why you did what you did, Kate. I just need to know what they said to each other.
+656	00:00:00,000 --> 00:00:00,000	KATE	Miles told Ben that he would lie to the people he worked for on the boat, tell them that Ben was dead for 3.2 million dollars.
+658	00:00:00,000 --> 00:00:00,000	LOCKE	Hmm.
+660	00:00:00,000 --> 00:00:00,000	KATE	Listen, John. I'm sorry. I asked you where he was-
+662	00:00:00,000 --> 00:00:00,000	LOCKE	You're not welcome here anymore. I want you gone by morning.
+664	00:00:00,000 --> 00:00:00,000		[Flash-forward - Kate walks into a room. Duncan wheels Diane in.]
+666	00:00:00,000 --> 00:00:00,000	DUNCAN	I worked it out so you two could have a few minutes of privacy.
+668	00:00:00,000 --> 00:00:00,000	KATE	I don't need any privacy.
+670	00:00:00,000 --> 00:00:00,000	DUNCAN	You need to talk to her, Kate. I'll be outside.
+672	00:00:00,000 --> 00:00:00,000	DIANE	Hello, Katherine. Was it true, what he said? Dr. Shephard. That you're a hero.
+674	00:00:00,000 --> 00:00:00,000		[Kate says nothing.]
+676	00:00:00,000 --> 00:00:00,000	DIANE	Why won't you talk to me?
+678	00:00:00,000 --> 00:00:00,000	KATE	Because, mom, the last time I tried to talk to you, when you got sick? When I risked my life to see you, you screamed for help and called the police!
+680	00:00:00,000 --> 00:00:00,000	DIANE	Please. I don't want to fight with you, Katherine.
+682	00:00:00,000 --> 00:00:00,000	KATE	Why are you here?
+684	00:00:00,000 --> 00:00:00,000	DIANE	Because I... It all changed, when I thought you were dead. [A tear rolls down her cheek] My doctors have given me six months to live for the last four years. I don't know how long I'm going to last. So I came here to tell you that I don't want to testify against you.
+686	00:00:00,000 --> 00:00:00,000	KATE	Then don't.
+688	00:00:00,000 --> 00:00:00,000	DIANE	I want to see my grandson.
+690	00:00:00,000 --> 00:00:00,000	KATE	You came here to make a deal?
+692	00:00:00,000 --> 00:00:00,000	DIANE	I just want to meet him.
+694	00:00:00,000 --> 00:00:00,000	KATE	I don't want you anywhere near him. [to Duncan] We're finished! We're finished!
+696	00:00:00,000 --> 00:00:00,000		[On-Island - Kate enters Sawyer's bedroom.]
+698	00:00:00,000 --> 00:00:00,000	SAWYER	Oh hey, Freckles. You okay? Listen, look, I'm sorry I couldn't do nothing. I wanted him to think that you'd fooled me too. No sense in him not trusting both of us.
+700	00:00:00,000 --> 00:00:00,000	KATE	He wants me gone by tomorrow.
+702	00:00:00,000 --> 00:00:00,000	SAWYER	What, he banished you? Well, I unbanish you. You can stay right here. This is my house.
+704	00:00:00,000 --> 00:00:00,000		[Something gurgles.]
+706	00:00:00,000 --> 00:00:00,000	SAWYER	Okay, me and Montezuma's house. You're gonna be alright. I'll keep you safe.
+708	00:00:00,000 --> 00:00:00,000		[They kiss, and lie down together.]
+710	00:00:00,000 --> 00:00:00,000		[Daniel and Charlotte are sitting at a fire. There is a table with cards on it before them.]
+712	00:00:00,000 --> 00:00:00,000	CHARLOTTE	Time. Okay, tell me. What do you remember?
+714	00:00:00,000 --> 00:00:00,000	DANIEL	Uh...queen of diamonds? Then uh...six! Of clubs. Sorry. And then we have the red ten of...hearts, maybe?
+716	00:00:00,000 --> 00:00:00,000		[Charlotte flips the cards over. He got all but the last one right.]
+718	00:00:00,000 --> 00:00:00,000	CHARLOTTE	It's two out of three. It's not bad. It's progress.
+720	00:00:00,000 --> 00:00:00,000	DANIEL	Three cards, Charlotte. Is that progress?
+722	00:00:00,000 --> 00:00:00,000		[Jack and Juliet approach.]
+724	00:00:00,000 --> 00:00:00,000	JACK	Hey. I've been calling your boat all day. Why isn't anyone answering?
+726	00:00:00,000 --> 00:00:00,000	CHARLOTTE	We're here, how should we know? If they're not answering, they're probably--
+728	00:00:00,000 --> 00:00:00,000	JACK	Are you telling me there is only one line on that boat?
+730	00:00:00,000 --> 00:00:00,000	CHARLOTTE	There is another number that we're only supposed to use in emergencies.
+732	00:00:00,000 --> 00:00:00,000		[Juliet hands Charlotte the phone.]
+734	00:00:00,000 --> 00:00:00,000	JULIET	It's an emergency.
+736	00:00:00,000 --> 00:00:00,000	JACK	Put it on speaker.
+738	00:00:00,000 --> 00:00:00,000		[Charlotte takes the phone, dials. Regina answers.]
+740	00:00:00,000 --> 00:00:00,000	REGINA	Yeah?
+742	00:00:00,000 --> 00:00:00,000	CHARLOTTE	Regina, it's Charlotte.
+744	00:00:00,000 --> 00:00:00,000	REGINA	Why are you calling me on this number?
+746	00:00:00,000 --> 00:00:00,000	CHARLOTTE	Minkowski wasn't answering. The people on the island want to talk to their friends, make sure they're alright.
+748	00:00:00,000 --> 00:00:00,000	REGINA	What friends?
+750	00:00:00,000 --> 00:00:00,000	CHARLOTTE	They left last night! Frank took them up in the helicopter.
+752	00:00:00,000 --> 00:00:00,000	REGINA	What do you mean they took off? I thought the helicopter was with you.
+754	00:00:00,000 --> 00:00:00,000		[Jack stands up. Everyone looks concerned.]
+756	00:00:00,000 --> 00:00:00,000		[Miles is in the boathouse, hanging from his wrists. Locke comes in.]
+758	00:00:00,000 --> 00:00:00,000	LOCKE	Morning.
+760	00:00:00,000 --> 00:00:00,000	MILES	Listen. I don't know what you think you're doing, but you're wasting your time-
+762	00:00:00,000 --> 00:00:00,000		[Locke pulls out a grenade.]
+764	00:00:00,000 --> 00:00:00,000	LOCKE	Open your mouth. Open your mouth.
+766	00:00:00,000 --> 00:00:00,000		[Locke forces Miles' mouth open, and shoves a grenade in.]
+768	00:00:00,000 --> 00:00:00,000	LOCKE	Wide. Don't talk, bite down, bite down.
+770	00:00:00,000 --> 00:00:00,000		[Miles begins to scream, which is muffled by the grenade.]
+772	00:00:00,000 --> 00:00:00,000	LOCKE	I realize that when I tied you up in here the other day, I made the mistake of failing to introduce myself. My name is John Locke, and I'm responsible for the well-being of this island. Eventually, Miles, you're going to tell me who you are, you're going to tell me about the people on the boat, and you're going to tell me why you're so interested in Ben. In the meantime, however, you're going to keep your mouth shut. I learned something yesterday. No use in having rules if there's no punishment for breaking them. You'll be fine if you bite down on the trigger. Enjoy your breakfast.
+774	00:00:00,000 --> 00:00:00,000		[Locke leaves Miles alone.]
+776	00:00:00,000 --> 00:00:00,000		[Kate and Sawyer are asleep on the bed. She wakes him with kisses. He wakes up, and flips her down below him.]
+778	00:00:00,000 --> 00:00:00,000	KATE	Wait, wait, wait a minute. Just slow down.
+780	00:00:00,000 --> 00:00:00,000	SAWYER	Oh, come on! It's not like we ain't never done it before. Now, I'm cool we didn't go all the way last night. I get it. You were sad. But I mean, how can you resist after that whole "I'll keep you safe" thing?
+782	00:00:00,000 --> 00:00:00,000	KATE	No, Sawyer.
+784	00:00:00,000 --> 00:00:00,000		[Kate pushes him off.]
+786	00:00:00,000 --> 00:00:00,000	SAWYER	What? What, what'd I say?
+788	00:00:00,000 --> 00:00:00,000	KATE	Forget it.
+790	00:00:00,000 --> 00:00:00,000	SAWYER	Alright. You still think you might be pregnant.
+792	00:00:00,000 --> 00:00:00,000	KATE	I'm not worried. And I'm not pregnant.
+794	00:00:00,000 --> 00:00:00,000	SAWYER	Are you sure?
+796	00:00:00,000 --> 00:00:00,000	KATE	Yeah, I'm sure.
+798	00:00:00,000 --> 00:00:00,000	SAWYER	[laughs] I mean, whoo!
+800	00:00:00,000 --> 00:00:00,000	KATE	Would it have been the worst thing in the world?
+802	00:00:00,000 --> 00:00:00,000	SAWYER	Yes, yes it would have been the worst thing in the world. What would we have done with a baby?
+804	00:00:00,000 --> 00:00:00,000		[Kate gets dressed.]
+806	00:00:00,000 --> 00:00:00,000	KATE	I'm going back to the beach.
+808	00:00:00,000 --> 00:00:00,000	SAWYER	Beach? What, you're leaving? Because of this? That's that? You crawl up in my bed one second, and the next you just-
+810	00:00:00,000 --> 00:00:00,000	KATE	Goodbye, James.
+812	00:00:00,000 --> 00:00:00,000	SAWYER	Don't make this about me, Kate. You didn't want a baby any more than I did. You're just looking for some excuse to split, and now you got one. But it's alright, Freckles, I ain't gonna hold it against you. I'm just gonna sit right here in my comfy bed. Because in about a week, you'll find some reason to get pissed at Jack and bounce right back to me.
+814	00:00:00,000 --> 00:00:00,000		[Kate slaps him, and leaves.]
+816	00:00:00,000 --> 00:00:00,000		[Flash-forward - Kate is back in court. Melissa is discussing something with an assistant.]
+818	00:00:00,000 --> 00:00:00,000	JUDGE	Ms. Dunbrook? Are the people ready to proceed?
+820	00:00:00,000 --> 00:00:00,000	MELISSA	May we approach the bench, your honor?
+822	00:00:00,000 --> 00:00:00,000	JUDGE	Oh, please.
+824	00:00:00,000 --> 00:00:00,000	MELISSA	Unfortunately, your honor, our chief witness, Diane Janssen, the mother of the defendant, is unable to testify because of medical reasons.
+826	00:00:00,000 --> 00:00:00,000	JUDGE	How long will you need?
+828	00:00:00,000 --> 00:00:00,000	MELISSA	I can't say right now.
+830	00:00:00,000 --> 00:00:00,000	JUDGE	What I'm going to do is grant a recess for lunch, but be ready to proceed with the case after we return. (to all) This court is now in recess.
+832	00:00:00,000 --> 00:00:00,000	BALIFF	All rise.
+834	00:00:00,000 --> 00:00:00,000	MELISSA	[to Duncan] We have to talk.
+836	00:00:00,000 --> 00:00:00,000		[In a conference room, Duncan, Kate, and Melissa are talking.]
+838	00:00:00,000 --> 00:00:00,000	MELISSA	My key witness spoke to her daughter yesterday, and now she's got cold feet.
+840	00:00:00,000 --> 00:00:00,000	DUNCAN	Quit posturing, and let's get to it. What are you offering?
+842	00:00:00,000 --> 00:00:00,000	MELISSA	Four years in.
+844	00:00:00,000 --> 00:00:00,000	DUNCAN	No jail time. Kate Austen is a worldwide hero who saved five other people's lives after a plane crash, and nearly starved to death on a deserted island. And after all that, you put this woman on trial for rescuing her mother from an abusive husband. If you think that jury is gonna give her actual time, then you must have a hell of a closing, Melissa.
+846	00:00:00,000 --> 00:00:00,000	MELISSA	Alright. Time served plus ten year's probation in agreement that she does not leave the state.
+848	00:00:00,000 --> 00:00:00,000	DUNCAN	What does that matter? She can go anywhere she-
+850	00:00:00,000 --> 00:00:00,000	KATE	No, I'll take it.
+852	00:00:00,000 --> 00:00:00,000	DUNCAN	No, wait, Kate--
+854	00:00:00,000 --> 00:00:00,000	KATE	Give me something to sign and I'll sign it. And then I walk out the back door. I just...I just want this to be over.
+856	00:00:00,000 --> 00:00:00,000	MELISSA	I can do that. Ten years probation, and you stay put.
+858	00:00:00,000 --> 00:00:00,000	KATE	I have a child. I'm not going anywhere.
+860	00:00:00,000 --> 00:00:00,000		[Kate is then leaving the courthouse through the backdoor. Jack gets out of his car and approaches her.]
+862	00:00:00,000 --> 00:00:00,000	JACK	Hey.
+864	00:00:00,000 --> 00:00:00,000	KATE	How did you know I'd be here?
+866	00:00:00,000 --> 00:00:00,000	JACK	Uh, your lawyer gave me the heads up. He owed me one.
+868	00:00:00,000 --> 00:00:00,000	KATE	Thank you for saying what you did.
+870	00:00:00,000 --> 00:00:00,000	JACK	You're welcome.
+872	00:00:00,000 --> 00:00:00,000	KATE	You know, Jack, I've heard you say that story so many times, I'm starting to think you believe it.
+874	00:00:00,000 --> 00:00:00,000	JACK	I just...I just wanted to tell you that what I said in there...I didn't mean it.
+876	00:00:00,000 --> 00:00:00,000	KATE	Do you want to follow me? Come by for a visit?
+878	00:00:00,000 --> 00:00:00,000	JACK	Uh, I actually have to get over to the hospital. But um...maybe you and I could grab some coffee together or something.
+880	00:00:00,000 --> 00:00:00,000	KATE	I know why you don't want to see the baby, Jack. But until you do...until you want to, there's no you and me going for coffee. But um...if at anytime you change your mind, come and see us.
+882	00:00:00,000 --> 00:00:00,000	JACK	Yeah. Okay.
+884	00:00:00,000 --> 00:00:00,000	KATE	Bye.
+886	00:00:00,000 --> 00:00:00,000	JACK	Bye.
+888	00:00:00,000 --> 00:00:00,000		[Kate gets in the taxi. Jack looks on as it drives off.]
+890	00:00:00,000 --> 00:00:00,000		[Kate arrives at her house and goes in.]
+892	00:00:00,000 --> 00:00:00,000	KATE	Hello?
+894	00:00:00,000 --> 00:00:00,000		[A nanny comes into the room.]
+896	00:00:00,000 --> 00:00:00,000	NANNY	Kate! I'm so glad you're back. He missed you so much.
+898	00:00:00,000 --> 00:00:00,000	KATE	Did you keep him away from the TV?
+900	00:00:00,000 --> 00:00:00,000	NANNY	Absolutely. I just put him down for a nap.
+902	00:00:00,000 --> 00:00:00,000		[Kate climbs the stairs and enters her son's room.]
+904	00:00:00,000 --> 00:00:00,000	KATE	Hey buddy. Hey.
+906	00:00:00,000 --> 00:00:00,000		[The boy wakes up.]
+908	00:00:00,000 --> 00:00:00,000	KATE	Hey.
+910	00:00:00,000 --> 00:00:00,000	AARON	Hi mommy.
+912	00:00:00,000 --> 00:00:00,000	KATE	Hi, Aaron.

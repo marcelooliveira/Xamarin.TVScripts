@@ -1,0 +1,347 @@
+House of the Rising Sun
+2	00:00:00,000 --> 00:00:00,000	Written by	Javier Grillo-Marxuach
+4	00:00:00,000 --> 00:00:00,000	Directed by	Michael Zinberg
+6	00:00:00,000 --> 00:00:00,000	Starring	Naveen Andrews, Emilie de Ravin, Matthew Fox, Jorge Garcia, Maggie Grace, Josh Holloway, Malcolm David Kelley, Daniel Dae Kim, Yunjin Kim, Evangeline Lilly, Dominic Monaghan, Terry O'Quinn, Harold Perrineau, Ian Somerhalder
+8	00:00:00,000 --> 00:00:00,000		[Sun's eye opens. Shot of her with flowering plant which she smells. We see Jin catching a fish in the ocean as Sun looks on. Sun looks in the direction of Kate and Jack but the camera lingers on her watching them have this exchange.]
+10	00:00:00,000 --> 00:00:00,000	KATE	It's not like I'm asking a personal question.
+12	00:00:00,000 --> 00:00:00,000	JACK	It is a personal question.
+14	00:00:00,000 --> 00:00:00,000	KATE	You don't have to get all quiet on me. I just want to know.
+16	00:00:00,000 --> 00:00:00,000		[Camera switches to shot of Kate putting water into backpack on Jack's back.]
+18	00:00:00,000 --> 00:00:00,000	JACK	Well, you're not going to know.
+20	00:00:00,000 --> 00:00:00,000	KATE	What's the big deal?
+22	00:00:00,000 --> 00:00:00,000	JACK	It's not a big deal. It's just something I did. I had my reasons. And I don't want to put it out there.
+24	00:00:00,000 --> 00:00:00,000		[Camera switches to Sun watching them for a second when Jack says "I had my reasons."]
+26	00:00:00,000 --> 00:00:00,000	KATE	It's just that you and your tattoos don't add up. Are you one of those hard-core spinal surgeons?
+28	00:00:00,000 --> 00:00:00,000		[Shot of them getting gear together for a hike.]
+30	00:00:00,000 --> 00:00:00,000	JACK	That's me. Hard-core.
+32	00:00:00,000 --> 00:00:00,000		[Shot of Charlie with his pack.]
+34	00:00:00,000 --> 00:00:00,000	CHARLIE	If you guys are finished verbally copulating we should get a move on. There's a whole beach of people waiting for us to get some drinking water for them. And the great white hunter's getting restless.
+36	00:00:00,000 --> 00:00:00,000		[Shot of Locke shaving with a straight-edge and a piece of broken mirror. Shot of Jack.]
+38	00:00:00,000 --> 00:00:00,000	JACK	Okay, let's do this.
+40	00:00:00,000 --> 00:00:00,000	KATE	Hey, Charlie. Ask Jack about his tattoos.
+42	00:00:00,000 --> 00:00:00,000	CHARLIE	Oh, you guys have an inside joke. How absolutely wonderful for you both.
+44	00:00:00,000 --> 00:00:00,000		[Shot of Jack, Kate, Charlie and Locke walking off to get water. Shot of Sun still watching them. She looks troubled. Change of angle with Jin in foreground whacking fish head against something. Sun looks disgusted.]
+46	00:00:00,000 --> 00:00:00,000		[Flashback - We hear Sun laughing and see her at a party. She is dressed for a party talking to two other women. Jin comes into view carrying a tray with glasses of champagne.]
+48	00:00:00,000 --> 00:00:00,000	JIN	Miss. Ã¬Æ’Â´Ã­Å½ËœÃ¬ÂÂ¸ Ã«â€œÅ“Ã¬â€¹Â¤Ã«Å¾ËœÃ¬Å¡â€? [Subtitle: Would you like some champagne?]
+50	00:00:00,000 --> 00:00:00,000		[She takes a glass and smiles at him a little. He smiles back while giving other guests champagne. She smiles to herself when he leaves the frame.]
+52	00:00:00,000 --> 00:00:00,000		[We see Sun sitting in a gazebo type structure.]
+54	00:00:00,000 --> 00:00:00,000	JIN	Miss. Ã«Â­Ëœ Ã«â€˜ÂÃªÂ³ ÃªÂ°â‚¬Ã¬â€¦Â¨Ã«â€žÂ¤Ã¬Å¡â€. [Subtitle: You left something.]
+56	00:00:00,000 --> 00:00:00,000	SUN	ÃªÂ·Â¸Ã«Å¾ËœÃ¬Å¡â€? Ã«Â­ÂÃ¬Â£Â ? [Jin kisses her.] Ã¬Å¡Â°Ã«Â¦Â¬ Ã¬â€¢â€žÃ«Â¹Â Ã«Å â€? [Subtitle: Really? What? My father?]
+58	00:00:00,000 --> 00:00:00,000	JIN	Ã¬â€ ÂÃ«â€¹Ëœ Ã«â€¢Å’Ã«Â¬Â¸Ã¬â€”Â Ã«Â°â€Ã«Â¹Â . [Subtitle: He's busy being a host.]
+60	00:00:00,000 --> 00:00:00,000	SUN	Ã«Â¹Â¨Ã«Â¦Â¬ Ã¬ÂÂ´ ÃªÂ³Â³Ã¬Ââ€ž Ã«â€“Â Ã«â€šËœÃªÂ³ Ã¬â€¹Â¶Ã¬â€“Â´. Ã¬Ââ€˜? [Subtitle: We need to get away. Now.]
+62	00:00:00,000 --> 00:00:00,000	JIN	Ã¬â€“Â´Ã«â€â€Ã«Â¡Å“? [Subtitle: Where?]
+64	00:00:00,000 --> 00:00:00,000	SUN	Ã«Â¯Â¸ÃªÂµÂ­. [Subtitle: America.]
+66	00:00:00,000 --> 00:00:00,000	JIN	Ã«â€š Ã¬Â¢â‚¬ Ã«Â´Â. Ã¬Å¾ÂÃªÂ¸Â°Ã¬â€¢Â¼, Ã¬â€šÂ¬Ã«Å¾â€˜Ã­â€¢Â´. Ã«â€žÂ Ã«ÂÂ°Ã«Â¦Â¬ÃªÂ³ Ã«Ââ€žÃ«Â§Â ÃªÂ°â‚¬ÃªÂ³ Ã¬â€¹Â¶Ã¬Â§â‚¬Ã«Å â€ Ã¬â€¢Å Ã¬â€¢â€ž. [Subtitle: Sun, look at me. I love you-but I don't want to elope with you.]
+68	00:00:00,000 --> 00:00:00,000	SUN	Ã¬Å¡Â°Ã«Â¦Â¬Ã­â€¢Å“Ã­â€¦Å’Ã«Å â€ Ã¬ËœÂ¤Ã¬Â§Â Ã¬ÂÂ´ Ã«Â°Â©Ã«Â²â€¢ Ã«Â°â€“Ã¬â€”Â Ã¬â€”â€ Ã¬â€“Â´. [Subtitle: It's the only chance we have.]
+70	00:00:00,000 --> 00:00:00,000	JIN	Ã«â€žË†Ã­ÂÂ¬ Ã¬â€¢â€žÃ«Â²â€žÃ¬Â§â‚¬ÃªÂ°â‚¬ Ã¬Â Ë†Ã«Å’â‚¬ Ã­â€”Ë†Ã«ÂÂ½ Ã¬â€¢Ë† Ã­â€¢Â ÃªÂ±Â°Ã¬â€¢Â¼. [Subtitle: Your father would never allow it.]
+72	00:00:00,000 --> 00:00:00,000	SUN	Ã¬â€¢â€žÃ«Â¹Â ÃªÂ°â‚¬ Ã­â€”Ë†Ã«ÂÂ½Ã­â€¢ Ã«Â¬Â¸Ã¬Â Å“ÃªÂ°â‚¬ Ã¬â€¢â€žÃ«â€¹Ë†Ã¬â€¢Â¼. Ã¬Å¡Â°Ã«Â¦Â¬ÃªÂ°â‚¬ ÃªÂ²Â°Ã¬Â â€¢Ã­â€¢ Ã«Â¬Â¸Ã¬Â Å“Ã¬Â§â‚¬. [Subtitle: It's not his place to allow. It's our decision.]
+74	00:00:00,000 --> 00:00:00,000	JIN	Ã«â€šÂ´ÃªÂ°â‚¬ Ã¬â€¢â€žÃ«Â²â€žÃ¬Â§â‚¬Ã­â€¢Å“Ã­â€¦Å’ Ã«Â§ÂÃ¬â€â‚¬ Ã«â€œÅ“Ã«Â¦Â´ÃªÂ²Å’. ÃªÂ·Â¸Ã«Â¦Â¬ÃªÂ³ Ã¬â€žÂ¤Ã«â€œÂÃ­â€¢Â´ Ã«Â³Â¼ÃªÂ²Å’. [Subtitle: I will talk to your father. I'll make him understand.]
+76	00:00:00,000 --> 00:00:00,000	SUN	Ã¬Å¾ÂÃªÂ¸Â°Ã¬â€¢Â¼. Ã¬Å¡Â°Ã«Â¦Â¬ Ã¬â€¢â€žÃ«Â¹Â Ã«Â¥Â¼ Ã«ÂªÂ°Ã«ÂÂ¼Ã¬â€žÅ“ Ã­â€¢ËœÃ«Å â€ Ã¬â€“ËœÃªÂ¸Â°Ã¬â€¢Â¼. Ã¬Â§â‚¬ÃªÂ¸Ë†. [Subtitle: You're saying that now because you don't know my father.]
+78	00:00:00,000 --> 00:00:00,000	JIN	Ã«â€š Ã«Â¯Â¿Ã¬â€“Â´Ã«Â´Â. [Subtitle: I know me.]
+80	00:00:00,000 --> 00:00:00,000		[Jin gives her a white flower. She smiles and smells it and laughs a little.]
+82	00:00:00,000 --> 00:00:00,000	SUN	Ã«â€žË†Ã«Â¬Â´ Ã¬ËœË†Ã¬ÂËœÃ«â€¹Â¤. [Subtitle: It's beautiful.]
+84	00:00:00,000 --> 00:00:00,000	JIN	Ã¬ÂÂ´ÃªÂ²Å’ Ã«â€¹Â¤Ã¬ÂÂ´Ã¬â€¢â€žÃ«ÂªÂ¬Ã«â€œÅ“Ã¬Ëœâ‚¬Ã«â€¹Â¤Ã«Â©Â´ Ã¬Â¢â€¹Ã¬â€¢ËœÃ¬Ââ€ž Ã­â€¦ÂÃ«ÂÂ°. Ã¬â€“Â¸Ã¬Â Â ÃªÂ°â‚¬Ã«Å â€ ÃªÂ·Â¸Ã«Â â€¡ÃªÂ²Å’ Ã«Â ÃªÂ±Â°Ã¬â€¢Â¼. [Subtitle: I wish it were a diamond. Someday it will be.]
+86	00:00:00,000 --> 00:00:00,000		[They kiss.]
+88	00:00:00,000 --> 00:00:00,000		[On-Island - Back on the beach we see Jin's foot stomping on Sun's plants. Jin walks angrily toward the camera. Sun shouts after him. We see that Jin is walking toward Michael and Walt.]
+90	00:00:00,000 --> 00:00:00,000	SUN	Ã¬â€”Â¬Ã«Â³Â´, Ã¬â„¢Å“ ÃªÂ·Â¸Ã«Å¾ËœÃ¬Å¡â€? [Subtitle: What's the matter?]
+92	00:00:00,000 --> 00:00:00,000		[Jin runs up and tackles Michael and starts slugging him.]
+94	00:00:00,000 --> 00:00:00,000	MICHAEL	Hey, hey, what the...
+96	00:00:00,000 --> 00:00:00,000	WALT	Stop! Hey stop!
+98	00:00:00,000 --> 00:00:00,000		[Walt rushes up and Jin shoves him back, knocking him down.]
+100	00:00:00,000 --> 00:00:00,000	Sun	Ã¬â€”Â¬Ã«Â³Â´, ÃªÂ·Â¸Ã«Â§Å’ Ã­â€¢Â´. ÃªÂ·Â¸Ã«Â§Å’ Ã­â€¢Â´! Ã«Â­ÂÃ­â€¢ËœÃ«Å â€ ÃªÂ±Â°Ã¬â€¢Â¼? Ã¬â€”Â¬Ã«Â³Â´! Ã¬â€”Â¬Ã«Â³Â´! Ã¬â€”Â¬Ã«Â³Â´!
+102	00:00:00,000 --> 00:00:00,000	WALT	Get off of him, please! Stop! Stop!
+104	00:00:00,000 --> 00:00:00,000		[More shots of Jin beating Michael-trying to drown him.]
+106	00:00:00,000 --> 00:00:00,000	WALT	[to Sun] Do something! He's going to kill him! Stop him, please!
+108	00:00:00,000 --> 00:00:00,000		[Sun screaming.]
+110	00:00:00,000 --> 00:00:00,000		[We see Walt and Sun screaming for Jin to stop. Sayid and Sawyer come running out. Sayid tackles Jin. Sawyer grabs Michael.]
+112	00:00:00,000 --> 00:00:00,000	SAYID	The handcuffs from the Sky Marshal! Now!
+114	00:00:00,000 --> 00:00:00,000		[Sawyer tries to hand them to Sayid, but Jin is thrashing around and Sawyer has to help him to subdue Jin. We see Jin being handcuff to some kind of bar on the plane. Jin is still struggling.]
+116	00:00:00,000 --> 00:00:00,000	SAYID	[to Sun] What happened?
+118	00:00:00,000 --> 00:00:00,000		[Shot of Jack, Kate, Charlie, Locke walking through jungle.]
+120	00:00:00,000 --> 00:00:00,000	JACK	Water's this way.
+122	00:00:00,000 --> 00:00:00,000	KATE	How'd you find this place?
+124	00:00:00,000 --> 00:00:00,000	JACK	Luck.
+126	00:00:00,000 --> 00:00:00,000		[Shot of everyone walking, looking around, especially Locke.]
+128	00:00:00,000 --> 00:00:00,000	JACK	This is it.
+130	00:00:00,000 --> 00:00:00,000	LOCKE	It's amazing.
+132	00:00:00,000 --> 00:00:00,000	CHARLIE	Absolutely. [to Locke] It's totally you. [Charlie investigates a piece of plane wreckage] Hey guys, shouldn't someone look through this stuff? Could be something useful in here.
+134	00:00:00,000 --> 00:00:00,000	LOCKE	He's got a point.
+136	00:00:00,000 --> 00:00:00,000	CHARLIE	I do?
+138	00:00:00,000 --> 00:00:00,000	JACK	Yeah. Bring me your bottles, and keep an eye out for any medical supplies, drugs in particular.
+140	00:00:00,000 --> 00:00:00,000	CHARLIE	[nodding] Drugs, right.
+142	00:00:00,000 --> 00:00:00,000		[Shot of Locke bringing bottles to Jack. Charlie looks fidgety and starts walk away. He hides behind a tree, looking over his shoulder, going for the drugs in his pocket. His finger tapes says LATE. We hear the sound of bees.]
+144	00:00:00,000 --> 00:00:00,000	LOCKE	[to Charlie, off camera] Don't move.
+146	00:00:00,000 --> 00:00:00,000	CHARLIE	[quickly putting the drugs back in his pocket] Look, I was just going to take...
+148	00:00:00,000 --> 00:00:00,000	LOCKE	Do not move.
+150	00:00:00,000 --> 00:00:00,000		[Jack and Kate arrive on the scene.]
+152	00:00:00,000 --> 00:00:00,000	JACK	What's going on?
+154	00:00:00,000 --> 00:00:00,000	LOCKE	[shushing Jack] He's standing on a bee-hive.
+156	00:00:00,000 --> 00:00:00,000	CHARLIE	What's a beehive doing there? Beehives are supposed to be in trees.
+158	00:00:00,000 --> 00:00:00,000	JACK	What now?
+160	00:00:00,000 --> 00:00:00,000	LOCKE	If he moves, he'll split the hive.
+162	00:00:00,000 --> 00:00:00,000	CHARLIE	I don't like bees, okay. I have an irrational fear of bees. I think I'm allergic to bees.
+164	00:00:00,000 --> 00:00:00,000	LOCKE	Please be quiet. [to Jack and Kate] We need to get something to seal the hive.
+166	00:00:00,000 --> 00:00:00,000	KATE	To cover it?
+168	00:00:00,000 --> 00:00:00,000	LOCKE	Hurry.
+170	00:00:00,000 --> 00:00:00,000		[Shot of bees landing on Charlie's face.]
+172	00:00:00,000 --> 00:00:00,000		[We see Michael talking to Sayid.]
+174	00:00:00,000 --> 00:00:00,000	MICHAEL	I'm getting tired of saying this. I was just walking the beach with my son, and all of the sudden this dude is all up on me. I didn't do anything.
+176	00:00:00,000 --> 00:00:00,000	Jin	Ã¬â€¹Å“Ã«Ââ€žÃ«Å¸Â¬Ã¬â€ºÅ’!
+178	00:00:00,000 --> 00:00:00,000		[Tense stares all around.]
+180	00:00:00,000 --> 00:00:00,000	SAYID	Surely there must be something you're not telling us.
+182	00:00:00,000 --> 00:00:00,000	MICHAEL	Surely? Where you from man?
+184	00:00:00,000 --> 00:00:00,000	SAYID	Tikrit. Iraq.
+186	00:00:00,000 --> 00:00:00,000	MICHAEL	Okay. I don't know how it is in Iraq, but in the United States of America where I'm from, Korean people don't like black people. Did you know that?
+188	00:00:00,000 --> 00:00:00,000	JIN	ÃªÂ±Â°Ã¬Â§â€œÃ«Â§Â Ã­â€¢ËœÃ¬Â§â‚¬ Ã«Â§Ë†!
+190	00:00:00,000 --> 00:00:00,000	MICHAEL	So maybe you ought to talk to him [pointing at Jin]!
+192	00:00:00,000 --> 00:00:00,000	Sun	[Pointing to her watch] Ã¬Â§â‚¬ÃªÂ¸Ë† Ã¬â€¹Å“ÃªÂ³â€ž Ã«â€¢Å’Ã«Â¬Â¸Ã¬â€”Â ÃªÂ·Â¸Ã«Å¾ËœÃ¬Å¡â€, Ã¬â€¹Å“ÃªÂ³â€ž.
+194	00:00:00,000 --> 00:00:00,000	SAYID	The cuffs stay on!
+196	00:00:00,000 --> 00:00:00,000	SAWYER	A little louder, Omar. Maybe then she'll understand you.
+198	00:00:00,000 --> 00:00:00,000	HURLEY	[entering] Guys, that Chinese dude is going to get pretty crispy out here. How long are you going to keep him tied down like that?
+200	00:00:00,000 --> 00:00:00,000	SAYID	He tried to kill Michael. We all saw it. The cuffs stay on until we know why.
+202	00:00:00,000 --> 00:00:00,000		[Shot of Michael. Then Sun and Jin.]
+204	00:00:00,000 --> 00:00:00,000	MICHAEL	[to Walt] Come on, man. Let's go.
+206	00:00:00,000 --> 00:00:00,000		[Everyone disperses, Sawyer stays looking over at Jin and Sun off camera.
+208	00:00:00,000 --> 00:00:00,000		[Flashback - Shot of Sun's gold watch. We see her looking at the time, leaning on a railing. Jin approaches as she looks expectant.]
+210	00:00:00,000 --> 00:00:00,000	SUN	Ã¬â€“Â´Ã«â€“Â»ÃªÂ²Å’ Ã«ÂÂÃ¬â€“Â´? [Subtitle: What happened?]
+212	00:00:00,000 --> 00:00:00,000	JIN	[looking glum] ÃªÂ·Â¸ÃªÂ²Å’ Ã«Â§ÂÃ¬ÂÂ´Ã¬â€¢Â¼, Ã«â€žË†Ã­ÂÂ¬ Ã¬â€¢â€žÃ«Â²â€žÃ«â€¹ËœÃ¬ÂÂ´-Ã­â€”Ë†Ã«ÂÂ½Ã­â€¢ËœÃ¬â€¦Â¨Ã¬â€“Â´. [Subtitle: Well, your father-your father gave permission.]
+214	00:00:00,000 --> 00:00:00,000	SUN [hugs him and then hits him]	Ã«â€¹Â¤Ã¬â€¹Å“Ã«Å â€ ÃªÂ·Â¸Ã«Å¸Â° Ã¬Å¾Â¥Ã«â€šÅ“ Ã¬Â¹ËœÃ¬Â§â‚¬ Ã«Â§Ë†! Ã¬â€“Â´Ã«â€“Â»ÃªÂ²Å’ Ã«ÂÅ“ ÃªÂ±Â°Ã¬â€¢Â¼? [Subtitle: Don't ever do that again! How did you?]
+216	00:00:00,000 --> 00:00:00,000	JIN	Ã«â€šÂ´ÃªÂ°â‚¬ Ã¬â€¢â€žÃ«Â²â€žÃ«â€¹ËœÃ¬Ââ€ž Ã¬â€žÂ¤Ã«â€œÂÃ­â€“Ë†Ã¬Â§â‚¬. Ã¬ÂÂ¼ Ã«â€¦â€ž ÃªÂ²Â½Ã¬ËœÂ Ã¬Ë†ËœÃ¬â€”â€¦Ã¬Ââ€ž Ã«Â°â€ºÃªÂ³Â , Ã¬ÂÂ¼ Ã«â€¦â€ž ÃªÂ³ÂµÃ¬Å¾Â¥Ã¬â€”ÂÃ¬â€žÅ“ Ã¬ÂÂ¼ Ã­â€¢ËœÃ«Â©Â´, Ã¬Å¡Â°Ã«Â¦Â¬ÃªÂ°â‚¬ Ã¬â€ºÂÃ­â€¢ËœÃ«Å â€ Ã«ÂË†Ã¬ÂÂ´ Ã¬Æ’ÂÃªÂ¸Â¸ÃªÂ±Â°Ã¬â€¢Â¼. [Subtitle: I reasoned with him. After a year of management training, and a year of work at the factory, we'll have all the money we need.]
+218	00:00:00,000 --> 00:00:00,000	SUN	Ã¬â€¢â€žÃ«Â¹ Ã«Â°â€˜Ã¬â€”ÂÃ¬â€žÅ“ Ã¬ÂÂ¼ Ã­â€¢Â ÃªÂ±Â°Ã¬â€¢Â¼? [Subtitle: You are going to work for my father?]
+220	00:00:00,000 --> 00:00:00,000	JIN	ÃªÂ·Â¸Ã«Â â€¡ÃªÂ²Å’ Ã­â€¢ËœÃ«Å â€ ÃªÂ²Å’ Ã¬ËœÂ³Ã¬Ââ‚¬ ÃªÂ±Â°Ã¬â€¢Â¼. [Subtitle: It's the right thing to do.]
+222	00:00:00,000 --> 00:00:00,000	SUN	Ã­â€¢ËœÃ¬Â§â‚¬Ã«Â§Å’ Ã¬Å¾ÂÃªÂ¸Â°Ã¬â€¢Â¼, ÃªÂ·Â¸ÃªÂ±Â°Ã«Å â€...
+224	00:00:00,000 --> 00:00:00,000	JIN	Ã¬â€¢â€žÃ«â€¹Ë†, ÃªÂ·Â¸Ã«Â â€¡ÃªÂ²Å’ Ã­â€¢Â´Ã¬â€¢Â¼… Ã¬Å¾Â ÃªÂ¹Â Ã«Â¿ÂÃ¬ÂÂ´Ã¬â€¢Â¼. [Subtitle: No, I have to. It's temporary.]
+226	00:00:00,000 --> 00:00:00,000		[Jin opens an engagement ring box with a big diamond in it.]
+228	00:00:00,000 --> 00:00:00,000	SUN	Ã¬â€“Â´Ã«Â¨Â¸, Ã¬Å¾ÂÃªÂ¸Â°Ã¬â€¢Â¼… Ã¬ÂÂ´Ã«Â â€¡ÃªÂ²Å’ Ã«Â¹â€žÃ¬â€¹Â¼ ÃªÂ±Â¸ Ã¬â€“Â´Ã«â€“Â»ÃªÂ²Å’ Ã¬Æ’â‚¬Ã¬â€“Â´? [Subtitle: You can't afford this.]
+230	00:00:00,000 --> 00:00:00,000	JIN	Ã¬ÂÂ´Ã¬Â Å“ Ã¬ÂÂ´ Ã¬Â â€¢Ã«Ââ€žÃ«Å â€ Ã­â€¢ Ã¬Ë†Ëœ Ã¬Å¾Ë†Ã¬â€“Â´. [Subtitle: I can now.]
+232	00:00:00,000 --> 00:00:00,000		[He puts the ring on her finger. Big smiles and hugs.]
+234	00:00:00,000 --> 00:00:00,000		[On-Island - Shot of Sun at the beach looking troubled.]
+236	00:00:00,000 --> 00:00:00,000		[Shot of the beehive and Charlie's feet.]
+238	00:00:00,000 --> 00:00:00,000	JACK	Okay. Just keep still man. I'm going to try to cover the hive.
+240	00:00:00,000 --> 00:00:00,000	CHARLIE	This is the most crap idea ever. It's never going to work.
+242	00:00:00,000 --> 00:00:00,000	LOCKE	Now, pull yourself together, son.
+244	00:00:00,000 --> 00:00:00,000	CHARLIE	It wouldn't be an irrational fear of bees if I could just pull myself together, would it?
+246	00:00:00,000 --> 00:00:00,000		[Shot of Jack with a suitcase, getting ready to cover the hive. Charlie smacks on bee on his face, gets off balance and steps on the hive breaking it open. They all take off running. Jack and Kate to the caves. Locke and Charlie in the other direction. Jack and Kate take their shirts off. Kate ends up right by one of the skeletons and sees it. She's frightened and backs away. We see the skeleton.]
+248	00:00:00,000 --> 00:00:00,000		[Shot of skeleton.]
+250	00:00:00,000 --> 00:00:00,000	KATE	Who is he. How'd he get here?
+252	00:00:00,000 --> 00:00:00,000	JACK	I can't exactly perform an autopsy but there doesn't seem to be any major trauma to the bones. There's another one over here. Someone laid them to rest here.
+254	00:00:00,000 --> 00:00:00,000	KATE	Who?
+256	00:00:00,000 --> 00:00:00,000	JACK	I don't know.
+258	00:00:00,000 --> 00:00:00,000	KATE	Where would they come from?
+260	00:00:00,000 --> 00:00:00,000	JACK	Didn't you guys shoot a polar bear last week?
+262	00:00:00,000 --> 00:00:00,000	KATE	Yeah.
+264	00:00:00,000 --> 00:00:00,000	JACK	Where'd that come from?
+266	00:00:00,000 --> 00:00:00,000	KATE	Any idea how long they've been here?
+268	00:00:00,000 --> 00:00:00,000	JACK	Long. It takes 40 or 50 years for clothing to degrade like this.
+270	00:00:00,000 --> 00:00:00,000		[Jack finds a pouch in the clothing.]
+272	00:00:00,000 --> 00:00:00,000	KATE	What is it?
+274	00:00:00,000 --> 00:00:00,000		[Jack dumps a white stone and a black stone into his palm.]
+276	00:00:00,000 --> 00:00:00,000	LOCKE	[approaching] Hello? Anybody there? Everyone alright?
+278	00:00:00,000 --> 00:00:00,000	JACK	[nodding] A few stings aside.
+280	00:00:00,000 --> 00:00:00,000		[Jack puts the stones back into the pouch, but we can't see what he does with the pouch.]
+282	00:00:00,000 --> 00:00:00,000	CHARLIE	You two run away fantastically. Glad my diversion spared you. I was only stung several hundred times. Oh, and uh, someone left this [handing Kate her shirt].
+284	00:00:00,000 --> 00:00:00,000	KATE	It was, um, it was full of bees.
+286	00:00:00,000 --> 00:00:00,000	CHARLIE	I'd have thought C's, actually.
+288	00:00:00,000 --> 00:00:00,000		[Kate gives him a "you're an idiot" look.]
+290	00:00:00,000 --> 00:00:00,000	CHARLIE	Sorry.
+292	00:00:00,000 --> 00:00:00,000		[Jack sort of laughs. Then Charlie sees one of the skeletons. Jack is looking at the other one.]
+294	00:00:00,000 --> 00:00:00,000	CHARLIE	Bloody Hell! Are these the people who were here before us?
+296	00:00:00,000 --> 00:00:00,000		[Jack looks toward Locke. Locke comes closer.]
+298	00:00:00,000 --> 00:00:00,000	LOCKE	What are you talking about?
+300	00:00:00,000 --> 00:00:00,000		[Jack gives Charlie a "you idiot" look.]
+302	00:00:00,000 --> 00:00:00,000	CHARLIE	Uh, just, you know, the, the, there could have been people here before us, right?
+304	00:00:00,000 --> 00:00:00,000		[Locke looks toward Jack who looks away.]
+306	00:00:00,000 --> 00:00:00,000	LOCKE	Clearly. But, who were these men?
+308	00:00:00,000 --> 00:00:00,000	JACK	Actually, one of them is female.
+310	00:00:00,000 --> 00:00:00,000	LOCKE	Our very own Adam and Eve.
+312	00:00:00,000 --> 00:00:00,000		[Shot of Sun trying to attend to Jin's chafed wrist. Jin is flinching and moaning, and he pulls away.]
+314	00:00:00,000 --> 00:00:00,000	JIN	Ã«Â­Â Ã­â€¢ËœÃ«Å â€ ÃªÂ±Â°Ã¬â€¢Â¼? [Subtitle: What are you doing?]
+316	00:00:00,000 --> 00:00:00,000	SUN	Ã¬Æ’ÂÃ¬Â²ËœÃªÂ°â‚¬ Ã«â€žË†Ã«Â¬Â´ Ã¬â€¹Â¬Ã­â€¢Â´Ã¬â€žÅ“. [Subtitle: Your skin is very raw [she blows on his wrist].]
+318	00:00:00,000 --> 00:00:00,000	JIN	[irritated] Ã¬Â¡Â°Ã¬â€¹Â¬Ã­â€¢Â´. [Subtitle: Be careful.]
+320	00:00:00,000 --> 00:00:00,000		[Flashback - We see Sun in a cute dress with Chanel shopping bags coming into an apartment. She finds a box with gold wrapping and a bow but no lid. We can hear the sounds of a dog. She takes a puppy out of the box.]
+322	00:00:00,000 --> 00:00:00,000	JIN	Ã¬â€“Â´Ã«â€¢Å’? Ã¬Â¢â€¹Ã¬â€¢â€ž? Ã«â€šÂ´ÃªÂ°â‚¬ Ã¬â€šÂ¬Ã«Â¬Â´Ã¬â€¹Â¤ ÃªÂ°â‚¬Ã¬â€žÅ“ Ã«Â³Â´Ã«â€šÂ´Ã«Å â€ Ã¬â€¹Å“ÃªÂ°â€žÃ¬ÂÂ´ Ã«Â§Å½Ã¬Å“Â¼Ã«â€¹Ë†ÃªÂ¹Å’, ÃªÂ°Å“Ã«ÂÂ¼Ã«Ââ€ž Ã­â€šÂ¤Ã¬Å¡Â°Ã«Â©Â´ Ã¬â€“Â´Ã«â€“Â¨ÃªÂ¹Å’ Ã­â€¢Â´Ã¬â€žÅ“. Ã«Â¬Â¼Ã«Â¡Â , Ã«â€¹Ë†ÃªÂ°â‚¬ Ã«Â°Â¥Ã«Ââ€ž Ã¬Â£Â¼ÃªÂ³Â , Ã­â€ºË†Ã«Â Â¨Ã«Ââ€ž Ã¬â€¹Å“Ã¬Â¼Å“Ã¬â€¢Â¼ Ã«ÂËœÃ«Å â€Ã«ÂÂ°. [Sun looks apprehensive, sad.] ÃªÂ´Å“Ã¬Â°Â®ÃªÂ²Â Ã¬Â§â‚¬? [Subtitle: What do you think? Do you like it? I've been working such long hours, I thought you might enjoy the company. Of course, you'll have to train it, and feed it. Are you okay?]
+324	00:00:00,000 --> 00:00:00,000	SUN	Ã«â€¹Â¹Ã¬â€¹Â Ã¬ÂËœ ÃªÂ½Æ’ Ã­â€¢Å“ Ã¬â€ Â¡Ã¬ÂÂ´ÃªÂ°â‚¬ Ã«â€šÂ´ Ã¬ÂÂ¸Ã¬Æ’ÂÃ¬ÂËœ Ã¬Â â€žÃ«Â¶â‚¬Ã¬Ëœâ‚¬Ã¬Ââ€ž Ã«â€¢Å’? [Subtitle: Remember when all you had to give me was a flower?]
+326	00:00:00,000 --> 00:00:00,000		[Jin gets a cell call.]
+328	00:00:00,000 --> 00:00:00,000	JIN	Ã¬â€¢â€žÃ«Â²â€žÃ¬Â§â‚¬Ã«â€žÂ¤. [Subtitle: It's your father.]
+330	00:00:00,000 --> 00:00:00,000		[On-Island - Shot of Sun on the beach, again, looking troubled.]
+332	00:00:00,000 --> 00:00:00,000		[Shot of Kate putting water bottles in a pack. Then wide shot.]
+334	00:00:00,000 --> 00:00:00,000	LOCKE	I think one of us should stay and help Charlie salvage the wreckage.
+336	00:00:00,000 --> 00:00:00,000	KATE	You offering?
+338	00:00:00,000 --> 00:00:00,000	LOCKE	Sure. Give me a chance to get to know him a little better.
+340	00:00:00,000 --> 00:00:00,000	KATE	We should move out. People are probably getting thirsty. [She sees Jack looking at the spring] What?
+342	00:00:00,000 --> 00:00:00,000	JACK	46 people need to drink a half gallon a day each. Carrying all this water back and forth is going to be real pain in the ass.
+344	00:00:00,000 --> 00:00:00,000	KATE	You're starting to make me regret volunteering.
+346	00:00:00,000 --> 00:00:00,000	JACK	These caves make too good a shelter just to be used for burial. Adam and Eve, they must have lived here. Their plane crashed, or maybe they were ship-wrecked. They probably found this place and knew they could survive here. Unlimited supply of fresh water, tree canopy keeps the temperature down, shields out the sun, [Kate is looking down, unconvinced], the openings are narrow, easier for protection against predators. We don't need to bring the water to the people. We need to bring the people to the water. [Kate still looking unconvinced]. I think we could live here.
+348	00:00:00,000 --> 00:00:00,000		[Shot of Walt on the beach, playing in the sand. He looks over at Jin chained to the plane. Sun walks up to Jin in background.]
+350	00:00:00,000 --> 00:00:00,000	MICHAEL	[to Walt] Hey, what are you doing? [to Jin] You say something to my boy?
+352	00:00:00,000 --> 00:00:00,000		[Jin says something. Walt looks scared. Sun looks scared.]
+354	00:00:00,000 --> 00:00:00,000	MICHAEL	Yeah, nice talking to you, too. Move it, Walt.
+356	00:00:00,000 --> 00:00:00,000	WALT	How come he doesn't like us?
+358	00:00:00,000 --> 00:00:00,000	MICHAEL	What?
+360	00:00:00,000 --> 00:00:00,000	WALT	You said people like him don't like people like us.
+362	00:00:00,000 --> 00:00:00,000	MICHAEL	Oh man. You know, uh, look, that's not true, and you know what, I don't think like that anyway. I was, I was angry.
+364	00:00:00,000 --> 00:00:00,000	WALT	What did you do to him?
+366	00:00:00,000 --> 00:00:00,000	MICHAEL	What did I do to him? You tell me? I've been with you since we crashed. Have you seen me do anything, to anyone? What kind of man do you think I am, anyway? What did your mother say about me?
+368	00:00:00,000 --> 00:00:00,000	WALT	She never talked about you.
+370	00:00:00,000 --> 00:00:00,000	MICHAEL	You don't know anything about me, do you?
+372	00:00:00,000 --> 00:00:00,000	WALT	You don't know anything about me.
+374	00:00:00,000 --> 00:00:00,000	MICHAEL	I know a lot about you.
+376	00:00:00,000 --> 00:00:00,000	WALT	Yeah?
+378	00:00:00,000 --> 00:00:00,000	MICHAEL	Yeah.
+380	00:00:00,000 --> 00:00:00,000	WALT	When's my birthday?
+382	00:00:00,000 --> 00:00:00,000	MICHAEL	August 24th. When's mine? [pause] Forget it, come on, man.
+384	00:00:00,000 --> 00:00:00,000		[Voice of Sun right before we cut back to Sun and Jin.]
+386	00:00:00,000 --> 00:00:00,000	SUN	Ã¬â€”Â¬Ã«Â³Â´, Ã¬Â Å“Ã«Â°Å“. Ã«â€šÂ´ÃªÂ°â‚¬ ÃªÂ°â‚¬Ã¬â€žÅ“ Ã¬â€žÂ¤Ã«Âªâ€¦Ã¬Ââ€ž Ã­â€¢ËœÃªÂ²Å’ Ã­â€¢Â´ Ã¬Â¤Ëœ. Ã«â€šÂ´ÃªÂ°â‚¬ Ã¬â€“ËœÃªÂ¸Â°Ã«Â¥Â¼ Ã¬Å¾Ëœ Ã­â€¢ËœÃ«Â©Â´ Ã«â€¹Â¹Ã¬â€¹Â Ã¬Ââ€ž Ã­â€™â‚¬Ã¬â€“Â´ Ã¬Â¤â€ž Ã¬Ë†ËœÃ«Ââ€ž Ã¬Å¾Ë†Ã¬Å¾â€“Ã¬â€¢â€ž. [Subtitle: Honey, please just let me go and explain this to them. Maybe they'll let you go.]
+388	00:00:00,000 --> 00:00:00,000	JIN	Ã«â€¹Ë†ÃªÂ°â‚¬ Ã¬â€“Â´Ã«â€“Â»ÃªÂ²Å’ Ã¬â€žÂ¤Ã«Âªâ€¦Ã­â€¢Â´? ÃªÂ·Â¸Ã«Æ’Â¥ Ã¬â€”Â¬ÃªÂ¸Â° Ã¬Å¾Ë†Ã¬â€“Â´. Ã«Ââ€žÃ«â€˜â€˜Ã«â€ Ë†Ã­â€¢Å“Ã­â€¦Å’ Ã¬ÂÂ¼Ã¬ÂÂ¼Ã¬ÂÂ´ Ã¬â€“ËœÃªÂ¸Â°Ã­â€¢ Ã­â€¢â€žÃ¬Å¡â€ Ã¬â€”â€ Ã¬â€“Â´. [Subtitle: How will you explain? Your place is by my side. And we will not explain ourselves to a thief.]
+390	00:00:00,000 --> 00:00:00,000		[Flashback - We see Sun sleeping on the couch with the dog, now grown. Hear the front door opening and see Jin running into the bathroom. Sun, concerned, follows him.]
+392	00:00:00,000 --> 00:00:00,000	SUN	Ã¬â€”Â¬Ã«Â³Â´, Ã¬â„¢Å“ ÃªÂ·Â¸Ã«Å¾Ëœ? [Subtitle: Are you alright?]
+394	00:00:00,000 --> 00:00:00,000		[She goes into the bathroom. Jin has a lot of blood on his hands and shirt.]
+396	00:00:00,000 --> 00:00:00,000	SUN	Ã«Ââ€žÃ«Å’â‚¬Ã¬Â²Â´ Ã«Â§Â Ã¬Â¢â‚¬ Ã­â€¢Â´ Ã«Â´Â. Ã¬â€”Â¬Ã«Â³Â´, Ã«â€¹Â¤Ã¬Â³Â¤Ã¬â€“Â´? Ã«Â¬Â´Ã¬Å Â¨ Ã¬ÂÂ¼Ã¬ÂÂ´Ã¬â€¢Â¼? Ã«Â¬Â´Ã¬Å Â¨ Ã¬ÂÂ¼ Ã­â€“Ë†Ã¬â€“Â´? Ã¬ÂÂ´ Ã­â€Â¼Ã«Å â€ Ã«Ë†â€žÃªÂµÂ¬ Ã­â€Â¼Ã¬â€¢Â¼? Ã«Â°â€“Ã¬â€”ÂÃ¬â€žÅ“ Ã«Â¬Â´Ã¬Å Â¨ Ã¬ÂÂ¼ Ã¬Å¾Ë†Ã¬â€”Ë†ÃªÂµÂ¬Ã«â€šËœ. Ã«Â°â€“Ã¬â€”ÂÃ¬â€žÅ“ Ã«Â¬Â´Ã¬Å Â¨ Ã¬ÂÂ¼Ã¬ÂÂ´ Ã¬Å¾Ë†Ã¬â€”Ë†Ã«Æ’ÂÃªÂµÂ¬? [Subtitle: Please talk to me. Are you hurt? [Jin is washing blood off his hands] What happened to you? What were you doing? Whose blood is this? What were you doing? What happened?]
+398	00:00:00,000 --> 00:00:00,000	JIN	Ã¬ÂÂ¼ Ã­â€¢ËœÃªÂ³ Ã¬â„¢â€Ã¬â€“Â´. [Subtitle: I was working.]
+400	00:00:00,000 --> 00:00:00,000	SUN	Ã¬ÂÂ¼ Ã­â€¢ËœÃªÂ³ Ã¬â„¢â€Ã«â€¹Â¤ÃªÂµÂ¬? Ã«Ââ€žÃ«Å’â‚¬Ã¬Â²Â´ Ã¬â€¢â€žÃ«Â¹ Ã«Â°â€˜Ã¬â€”ÂÃ¬â€žÅ“ Ã«Â¬Â´Ã¬Å Â¨ Ã¬ÂÂ¼Ã¬Ââ€ž Ã­â€¢ËœÃ«Å â€ ÃªÂ±Â°Ã¬â€¢Â¼? Ã«â€š Ã¬Â¢â‚¬ Ã«Â´Â. Ã¬â€“ËœÃªÂ¸Â° Ã¬Â¢â‚¬ Ã­â€¢Â´ Ã«Â´Â. Ã«â€š Ã¬Â¢â‚¬ Ã«Â°â€Ã«ÂÂ¼Ã«Â´Â. [Subtitle: Doing what? What do you do for my father? Look at me? Answer me. Look at me.]
+402	00:00:00,000 --> 00:00:00,000		[He pushes her away. She slaps him across the face. He restrains himself, but gives her a mean look.]
+404	00:00:00,000 --> 00:00:00,000	JIN	Ã¬â€¢â€žÃ«Â²â€žÃ«â€¹ËœÃ¬ÂÂ´ Ã¬â€¹Å“Ã­â€šÂ¤Ã«Å â€ Ã«Å’â‚¬Ã«Â¡Å“ Ã­â€¢ Ã«Â¿ÂÃ¬ÂÂ´Ã¬â€¢Â¼. Ã«â€¹Â¤ Ã¬Å¡Â°Ã«Â¦Â¬Ã«Â¥Â¼ Ã¬Å“â€žÃ­â€¢Â´Ã¬â€žÅ“ Ã­â€¢ËœÃ«Å â€ ÃªÂ±Â°Ã¬â€¢Â¼. [Subtitle: I do whatever your father tells me. I do it for us.]
+406	00:00:00,000 --> 00:00:00,000		[Sun leaves the bathroom. Jin continues to wash.]
+408	00:00:00,000 --> 00:00:00,000		[Shot of Kate and Jack walking through the jungle. They stop for a rest.]
+410	00:00:00,000 --> 00:00:00,000	KATE	You checking me out?
+412	00:00:00,000 --> 00:00:00,000	JACK	What?
+414	00:00:00,000 --> 00:00:00,000	KATE	No harm in it.
+416	00:00:00,000 --> 00:00:00,000	JACK	Trust me, if I was checking you out, you'd know it.
+418	00:00:00,000 --> 00:00:00,000	KATE	Yeah, so then what were you thinking? Right now.
+420	00:00:00,000 --> 00:00:00,000	JACK	Well, I sure as hell wasn't thinking that.
+422	00:00:00,000 --> 00:00:00,000	KATE	Don't stop to think, just tell me.
+424	00:00:00,000 --> 00:00:00,000	JACK	I was thinking that if we were living at the caves we could build a dam around that spring so that everybody could have fresh water and we could get the infirmary off the beach. You think it's a bad idea?
+426	00:00:00,000 --> 00:00:00,000	KATE	No, no. It makes sense.
+428	00:00:00,000 --> 00:00:00,000	JACK	But?
+430	00:00:00,000 --> 00:00:00,000	KATE	No but.
+432	00:00:00,000 --> 00:00:00,000	JACK	Good, because a lot of people are still hoping a rescue boat is going to show up. They're not thinking about their own safety. We're going to have a lot of convincing to do.
+434	00:00:00,000 --> 00:00:00,000	KATE	We? You still haven't convinced me yet.
+436	00:00:00,000 --> 00:00:00,000		[We see Charlie and Locke back at the caves going through the wreckage. Charlie starts to wander off and Locke follows.]
+438	00:00:00,000 --> 00:00:00,000	CHARLIE	You following me?
+440	00:00:00,000 --> 00:00:00,000	LOCKE	Yes.
+442	00:00:00,000 --> 00:00:00,000	CHARLIE	There's no need. I'm just going to the loo.
+444	00:00:00,000 --> 00:00:00,000	LOCKE	Is there something you want to tell me, Charlie?
+446	00:00:00,000 --> 00:00:00,000	CHARLIE	I'm going to the loo.
+448	00:00:00,000 --> 00:00:00,000	LOCKE	It's dangerous out there. Until we get back to the beach, I'm not breaking line of sight with you.
+450	00:00:00,000 --> 00:00:00,000	CHARLIE	Bugger off.
+452	00:00:00,000 --> 00:00:00,000	LOCKE	I know who you are. And I know what you're looking for. Drive Shaft -- you played bass.
+454	00:00:00,000 --> 00:00:00,000	CHARLIE	And guitar -- on a couple of tracks. You really heard of us?
+456	00:00:00,000 --> 00:00:00,000	LOCKE	Hey, just because I'm over 40 doesn't mean I'm deaf. I have both your albums. Although, I thought that your self-titled debut was a much stronger effort than Oil Change. It's a shame what happened to the band. How long since you played?
+458	00:00:00,000 --> 00:00:00,000	CHARLIE	My guitar? Uh, 8 days, 11 hours, give or take.
+460	00:00:00,000 --> 00:00:00,000	LOCKE	You miss it? [Charlie nods] Well, a lot of wreckage. It might still turn up.
+462	00:00:00,000 --> 00:00:00,000	CHARLIE	Undamaged? Still playable? I don't think so. I mean, I wish, but there was this bloke at the counter made me check it in.
+464	00:00:00,000 --> 00:00:00,000	LOCKE	No.
+466	00:00:00,000 --> 00:00:00,000	CHARLIE	Yeah. There wasn't enough room in the cabin, fascist.
+468	00:00:00,000 --> 00:00:00,000	LOCKE	You'll see it again.
+470	00:00:00,000 --> 00:00:00,000	CHARLIE	Oh yeah? What makes you say that?
+472	00:00:00,000 --> 00:00:00,000	LOCKE	Because I have faith, Charlie.
+474	00:00:00,000 --> 00:00:00,000		[Shot of Jack and Kate walking. They come across Sayid chopping wood.]
+476	00:00:00,000 --> 00:00:00,000	SAYID	It's about time. I am dying of thirst.
+478	00:00:00,000 --> 00:00:00,000		[Jack, Kate, Sayid are sitting down drinking some water.]
+480	00:00:00,000 --> 00:00:00,000	SAYID	I think I'll let him sit in the sun a while longer. Then I'll take his wife aside, find some way to communicate. I think she knows why he attacked Michael.
+482	00:00:00,000 --> 00:00:00,000	JACK	You're sure you don't want me to talk to her? [Sayid nods.] Okay. If you've got that under control I'm going to start talking to people about the caves. Might be able to get a few to go with me before nightfall, start setting up camp.
+484	00:00:00,000 --> 00:00:00,000	SAYID	You're serious? Is there a reason you didn't consult us when you decided to form your own civilization?
+486	00:00:00,000 --> 00:00:00,000	JACK	I'm only talking about moving into the valley.
+488	00:00:00,000 --> 00:00:00,000	SAYID	Well, what happened to live together, die alone?
+490	00:00:00,000 --> 00:00:00,000	JACK	Digging in together is the only way we're going to survive.
+492	00:00:00,000 --> 00:00:00,000	SAYID	Our best hope of survival is in being spotted by a plane or a ship, and for that we need to organize everyone to keep that signal fire burning while others scout the Island for supplies. Digging in anywhere else is suicide!
+494	00:00:00,000 --> 00:00:00,000	KATE	It is the only source of fresh water we've found, Sayid.
+496	00:00:00,000 --> 00:00:00,000	JACK	And staying on the beach, in the sun without water? That's not suicide?
+498	00:00:00,000 --> 00:00:00,000	SAYID	[grabbing his firewood and axe] I'm not going to admit defeat.
+500	00:00:00,000 --> 00:00:00,000		[Kate looks at Jack as Jack watches Sayid walk away.]
+502	00:00:00,000 --> 00:00:00,000		[We see Walt playing with Vincent on the beach as Michael watches. Jack is talking to people to convince them to go to the caves. Sayid approaches Michael.]
+504	00:00:00,000 --> 00:00:00,000	MICHAEL	Now what? I already gave you my statement, sheriff.
+506	00:00:00,000 --> 00:00:00,000	SAYID	I came to apologize. I shouldn't have been suspicious. You were the victim in the attack this morning.
+508	00:00:00,000 --> 00:00:00,000	MICHAEL	I appreciate that, but I can tell you didn't come all the way over here just to say you're sorry.
+510	00:00:00,000 --> 00:00:00,000	SAYID	People are seriously considering following Jack to the caves. I'd like to know where you stand.
+512	00:00:00,000 --> 00:00:00,000	MICHAEL	Right here. I've got one priority right now and that's to get my kid off this Island. A boat passes, I'm not going to be on the hook for missing it.
+514	00:00:00,000 --> 00:00:00,000	SAYID	Good.
+516	00:00:00,000 --> 00:00:00,000		[Jack brings some water to Jin.]
+518	00:00:00,000 --> 00:00:00,000	JACK	Slowly, just a little bit at a time, little bit.
+520	00:00:00,000 --> 00:00:00,000	JACK	[approaching Hurley] Glad you're coming.
+522	00:00:00,000 --> 00:00:00,000	HURLEY	Hey man, I go where the boar's at. So, what's up with you and Kate? You guys going to move into a cave together, or what?
+524	00:00:00,000 --> 00:00:00,000	JACK	Sorry, am I in high school?
+526	00:00:00,000 --> 00:00:00,000	HURLEY	Well, that wasn't a denial.
+528	00:00:00,000 --> 00:00:00,000	JACK	Just get your stuff together, we've got to get out of here soon.
+530	00:00:00,000 --> 00:00:00,000	SAWYER	[approaching Kate] Well, well, well, if ain't the belle of the ball? So what's it like having both the doctor and Captain Falafel fighting over you? [Kate doesn't respond] Just call 'em how I seem 'em, Freckles. Truth be told, I'm not the only one wondering where you're going to weigh in on this whole moving off the beach thing. Are you going with the pessimists, or staying here and waiting for the rescue boats?
+532	00:00:00,000 --> 00:00:00,000	KATE	Are you going?
+534	00:00:00,000 --> 00:00:00,000	SAWYER	Well, that's the real trick, isn't it? We all pack up stakes for the caves and the next day a plane passes by, they're going to go on their merry way and be none the wiser. On the other hand, stay here, get eaten by boars, fall off a rock, not going to be anyone around to answer that 911 call.
+536	00:00:00,000 --> 00:00:00,000	KATE	Still haven't answered my question.
+538	00:00:00,000 --> 00:00:00,000	SAWYER	You didn't answer mine. And I asked first.
+540	00:00:00,000 --> 00:00:00,000		[Shot of Michael walking, Sun sitting on beach. She follows him. Jin is sitting in the sun. Michael is cutting wood. Sun goes near to him, watching him from behind some bamboo.]
+542	00:00:00,000 --> 00:00:00,000		[Flashback - We see Sun with an "interior decorator".]
+544	00:00:00,000 --> 00:00:00,000	INTERIOR DECORATOR	Ã«â€¹Â¹Ã¬â€¹ Ã«â€šÂ¨Ã­Å½Â¸Ã¬ÂÂ´ Ã¬ÂÂ´ ÃªÂ³Â³Ã¬Ââ€ž Ã¬Æ’Ë†Ã«Â¡Å“ Ã¬ÂÂ¸Ã­â€¦Å’Ã«Â¦Â¬Ã¬â€“Â´ Ã­â€¢ËœÃ«Å â€ Ã«ÂÂ° Ã«ÂË†Ã¬â€”Â Ã«Å’â‚¬Ã­â€¢Â´Ã¬â€žÅ“Ã«Å â€ Ã¬â€¹Â ÃªÂ²Â½ Ã¬â€œÂ°Ã¬Â§â‚¬ Ã«Â§ÂÃ«ÂÂ¼ ÃªÂ·Â¸Ã«Å¸Â¬Ã¬â€¹Å“Ã«Ââ€ÃªÂµÂ°Ã¬Å¡â€. Ã«â€¹Â¹Ã¬â€¹Â Ã¬Ââ‚¬ Ã¬Â â€¢Ã«Â§Â Ã«Å¸Â­Ã­â€šÂ¤ Ã¬â„¢â‚¬Ã¬ÂÂ´Ã­â€â€žÃ¬â€”ÂÃ¬Å¡â€. [Subtitle: Your husband told me that money is no object to redecorate this place. You're a very lucky wife.]
+546	00:00:00,000 --> 00:00:00,000	SUN	Ã«â€žÂ¤. [Subtitle: Yes.]
+548	00:00:00,000 --> 00:00:00,000	JIN	Ã¬â€”Â¬Ã«Â³Â´, ÃªÂ°Å“ Ã¬Â¢â‚¬ Ã¬Â¹ËœÃ¬â€ºÅ’Ã«ÂÂ¼. [Subtitle: Move the dog.]
+550	00:00:00,000 --> 00:00:00,000	SUN	ÃªÂ·Â¸Ã«Å¸Â¼ Ã¬Å¡Â°Ã«Â¦Â¬ Ã«Â¨Â¼Ã¬Â â‚¬ Ã¬Â¹Â¨Ã¬â€¹Â¤Ã«Â¡Å“ Ã«â€œÂ¤Ã¬â€“Â´ÃªÂ°â‚¬Ã¬â€žÅ“ Ã«Â³Â¼ÃªÂ¹Å’Ã¬Å¡â€, Ã­â€¢Å“ Ã«Â²Ë†? [Subtitle: Let's look at the apartment from the bedroom, shall we?]
+552	00:00:00,000 --> 00:00:00,000	INTERIOR DECORATOR	Ã«â€¹Â¹Ã¬â€¹ Ã­â„¢â€¢Ã¬â€¹Â¤Ã­â€¢Â´Ã¬Å¡â€? [Subtitle: Are you sure about this?]
+554	00:00:00,000 --> 00:00:00,000	SUN	Ã«â€žÂ¤. [Subtitle: Yes.]
+556	00:00:00,000 --> 00:00:00,000	INTERIOR DECORATOR	Ã«Â Ë†Ã¬Å Â¨ Ã«Â°â€ºÃ¬â€¢ËœÃ¬â€“Â´Ã¬Å¡â€? ÃªÂ³ÂµÃ«Â¶â‚¬Ã«Å â€ Ã­â€“Ë†ÃªÂµÂ¬Ã¬Å¡â€? [Subtitle: You've taken your lessons?]
+558	00:00:00,000 --> 00:00:00,000	SUN	Ã«â€žÂ¤. [Subtitle: Yes.]
+560	00:00:00,000 --> 00:00:00,000	INTERIOR DECORATOR	Ã«â€¹Â¹Ã¬â€¹ Ã¬â€¢Å’Ã¬Â£Â ? Ã«â€¹Â¹Ã¬â€¹ Ã«â€šÂ¨Ã­Å½Â¸Ã¬ÂÂ´Ã«â€šËœ Ã«â€¹Â¹Ã¬â€¹ Ã¬â€¢â€žÃ«Â²â€žÃ¬Â§â‚¬ÃªÂ°â‚¬ Ã«â€¹Â¹Ã¬â€¹Â Ã¬Ââ€ž Ã¬Â°Â¾ÃªÂ¸Â° Ã¬Å“â€žÃ­â€¢Â´Ã¬â€žÅ“ Ã«Â¬Â´Ã¬Å Â¨ Ã¬ÂÂ¼Ã¬ÂÂ´Ã«â€œ Ã­â€¢ Ã¬Ë†Ëœ Ã¬Å¾Ë†Ã«â€¹Â¤Ã«Å â€ ÃªÂ±Â°. Ã«â€¹Â¹Ã¬â€¹Â … Ã«â€šÂ¨Ã­Å½Â¸Ã¬ÂÂ´Ã«Å¾â€˜ Ã«â€¹Â¤Ã¬â€¹Å“ Ã­â„¢â€Ã­â€¢Â´Ã­â€¢ËœÃ«Å â€ ÃªÂ±Â´ Ã¬â€“Â´Ã«â€¢Å’Ã¬Å¡â€? Ã«Å’â‚¬Ã«â€¹ÂµÃ­â€¢Â´ Ã«Â´ÂÃ¬Å¡â€. Ã¬ËœË†? [Subtitle: Do you realize that your husband and your father will do everything they can to find you? Are you sure you and your husband can't reconcile?]
+562	00:00:00,000 --> 00:00:00,000	SUN	Ã¬Â Å“ÃªÂ°â‚¬ Ã«â€“Â Ã«â€šÅ“ Ã­â€ºâ€žÃ¬â€”Â Ã¬Å¡Â°Ã«Â¦Â¬ ÃªÂ°â€¢Ã¬â€¢â€žÃ¬Â§â‚¬ Ã¬Â¢â‚¬ Ã«Â¶â‚¬Ã­Æ’ÂÃ­â€¢Â ÃªÂ²Å’Ã¬Å¡â€. [Subtitle: When I'm gone will you care for my dog?]
+564	00:00:00,000 --> 00:00:00,000	INTERIOR DECORATOR, [handing Sun an American passport]	Ã«â€¹Â¹Ã¬â€¹Â Ã«â€œÂ¤Ã¬ÂÂ´ Ã¬â€”Â¬Ã­â€“â€°Ã­â€¢ËœÃ«Å â€ Ã«Ââ„¢Ã¬â€¢Ë†, ÃªÂ³ÂµÃ­â€¢Â­Ã¬â€”ÂÃ¬â€žÅ“, Ã¬â€¹Å“ÃªÂ°â€žÃ¬Ââ‚¬ Ã¬â€”Â´ Ã­â€¢Å“ Ã¬â€¹Å“ Ã¬â€¹Â­Ã¬ËœÂ¤ Ã«Â¶â€ž. Ã«â€¹Â¹Ã¬â€¹Â Ã¬Ââ‚¬ Ã«Â¬Â´Ã¬Å Â¨ Ã¬Ë†ËœÃ«Â¥Â¼ Ã¬ÂÂ¨Ã¬â€žÅ“Ã«ÂÂ¼Ã«Ââ€ž ÃªÂ³ÂµÃ­â€¢Â­ Ã«Â°â€“Ã¬Å“Â¼Ã«Â¡Å“ Ã«Â¹Â Ã¬Â Â¸Ã«â€šËœÃ¬â„¢â‚¬Ã¬â€¢Â¼ Ã­â€¢Â´Ã¬Å¡â€. Ã«â€šËœÃ¬ËœÂ¬ Ã«â€¢Â Ã¬â€¢â€žÃ«Â¬Â´ ÃªÂ²Æ’Ã«Ââ€ž ÃªÂ°â‚¬Ã¬Â§â‚¬ÃªÂ³ Ã«â€šËœÃ¬â„¢â‚¬Ã¬â€ž Ã¬â€¢Ë† Ã«ÂÂ¼Ã¬Å¡â€. Ã«â€¹Â¹Ã¬â€¹Â Ã¬ÂÂ´ Ã«â€šÂ©Ã¬Â¹Ëœ Ã«ÂÂÃ«â€¹Â¤ÃªÂ³ Ã¬Æ’ÂÃªÂ°ÂÃ­â€¢ ÃªÂ±Â°Ã¬â€”ÂÃ¬Å¡â€. Ã¬Â²Â« Ã¬ÂÂ¼Ã¬Â£Â¼Ã¬ÂÂ¼ Ã«Ââ„¢Ã¬â€¢Ë†Ã¬Ââ‚¬ Ã«â€¹Â¹Ã¬â€¹ ÃªÂ°â‚¬Ã¬Â¡Â±Ã«â€œÂ¤Ã¬ÂÂ´ Ã«â€¹Â¹Ã¬â€¹Â Ã¬ÂÂ´ Ã¬Â£Â½Ã¬â€”Ë†Ã«â€¹Â¤ÃªÂ³ Ã¬Æ’ÂÃªÂ°ÂÃ­â€¢ Ã«â€¢Å’ ÃªÂ¹Å’Ã¬Â§â‚¬ Ã«â€¹Â¹Ã¬â€¹Â Ã¬Ââ‚¬ Ã¬Â¡Â°Ã¬Å¡Â©Ã­Å¾Ë†, ÃªÂ°â‚¬Ã«Â§Å’Ã­Å¾Ë† Ã¬Å¾Ë†Ã¬â€“Â´Ã¬â€¢Â¼ Ã«ÂÂ¼Ã¬Å¡â€. ÃªÂ·Â¸ Ã­â€ºâ€žÃ¬â€”â€ Ã«â€¹Â¹Ã¬â€¹Â Ã¬ÂÂ´ Ã¬â€ºÂÃ­â€¢ËœÃ«Å â€ Ã«Å’â‚¬Ã«Â¡Å“ Ã¬Å¾ÂÃ¬Å“Â Ã«Â¡Â­ÃªÂ²Å’ Ã¬â€ºâ‚¬Ã¬Â§ÂÃ¬ÂÂ¼ Ã¬Ë†ËœÃªÂ°â‚¬ Ã¬Å¾Ë†Ã¬Â£Â . Ã«Â§ÂÃ­â€¢Â´Ã«Â´ÂÃ¬Å¡â€. Ã¬â€“Â¸Ã¬Â Å“Ã«ÂÂ¼ ÃªÂ·Â¸Ã«Å¾Â¬Ã¬Â£Â ? [Subtitle: During your trip, at the airport, at 11:15... You make an excuse and walk out of the airport. Bring nothing! A car will be waiting. For the first week your family will assume you've been kidnapped. You will stay out of sight until they come to think you are dead. After that you will be free to move wherever you want. Now, tell me when.]
+566	00:00:00,000 --> 00:00:00,000	SUN	ÃªÂ³ÂµÃ­â€¢Â­Ã¬â€”ÂÃ¬â€žÅ“, Ã¬â€”Â´ Ã­â€¢Å“ Ã¬â€¹Å“ Ã¬â€¹Â­Ã¬ËœÂ¤ Ã«Â¶â€žÃ¬â€”Â. [Subtitle: The airport, 11:15.]
+568	00:00:00,000 --> 00:00:00,000	INTERIOR DECORATOR	Ã«â€¹Â¤Ã¬â€¹Å“ Ã­â€¢Å“ Ã«Â²Ë†. [Subtitle: Again.]
+570	00:00:00,000 --> 00:00:00,000	SUN	Ã¬â€”Â´ Ã­â€¢Å“ Ã¬â€¹Å“ Ã¬â€¹Â­Ã¬ËœÂ¤ Ã«Â¶â€ž. Ã¬â€”Â´ Ã­â€¢Å“ Ã¬â€¹Å“ Ã¬â€¹Â­Ã¬ËœÂ¤ Ã«Â¶â€ž. Ã¬â€”Â´ Ã­â€¢Å“ Ã¬â€¹Å“ Ã¬â€¹Â­Ã¬ËœÂ¤ Ã«Â¶â€ž. [Subtitle: 11:15. 11:15. 11:15.]
+572	00:00:00,000 --> 00:00:00,000		[Shot of Sun still watching Michael from behind some bamboo. After a moment, she approaches him.]
+574	00:00:00,000 --> 00:00:00,000	MICHAEL	Oh great, look who came to chat.
+576	00:00:00,000 --> 00:00:00,000	SUN	I need to talk to you.
+578	00:00:00,000 --> 00:00:00,000	MICHAEL	You speak English?
+580	00:00:00,000 --> 00:00:00,000	SUN	Yes.
+582	00:00:00,000 --> 00:00:00,000	MICHAEL	What? You speak English? Why didn't you say anything?!
+584	00:00:00,000 --> 00:00:00,000	SUN	My husband doesn't know.
+586	00:00:00,000 --> 00:00:00,000	MICHAEL	Why would you learn English and not tell your husband?
+588	00:00:00,000 --> 00:00:00,000	SUN	He has a bad temper. What my husband did to you today, it was a misunderstanding.
+590	00:00:00,000 --> 00:00:00,000	MICHAEL	No. I got it. Loud and clear.
+592	00:00:00,000 --> 00:00:00,000	SUN	It was the watch.
+594	00:00:00,000 --> 00:00:00,000	MICHAEL	Your husband tried to murder me for a watch?! [Michael removes the watch] I found this watch two days ago.
+596	00:00:00,000 --> 00:00:00,000	SUN	It belongs to my father. Protecting that watch is a question of honor.
+598	00:00:00,000 --> 00:00:00,000	MICHAEL	He calls trying to kill me in front of my kid, honor?!
+600	00:00:00,000 --> 00:00:00,000	SUN	You don't know my father. I need your help.
+602	00:00:00,000 --> 00:00:00,000		[We see Charlie walking away from caves trying to take drugs out of his pocket, looking behind him. But Locke is coming from the opposite direction.]
+604	00:00:00,000 --> 00:00:00,000	CHARLIE	Listen to me, you old git, I'm going in the jungle. A man has a right to some privacy.
+606	00:00:00,000 --> 00:00:00,000	LOCKE	Just hand it to me. You're going to run out. My guess is sooner rather than later. Painful detox is inevitable. Give it up now at least it will be your choice.
+608	00:00:00,000 --> 00:00:00,000	CHARLIE	Don't talk to me like you know something about me.
+610	00:00:00,000 --> 00:00:00,000	LOCKE	I know a lot more about pain than you think. I don't envy what you're facing. But I want to help. [Charlie walks away]. Do you want your guitar?
+612	00:00:00,000 --> 00:00:00,000		[Charlie turns and comes back. He nods.]
+614	00:00:00,000 --> 00:00:00,000	LOCKE	More than your drug?
+616	00:00:00,000 --> 00:00:00,000	CHARLIE	More than you know.
+618	00:00:00,000 --> 00:00:00,000	LOCKE	What I know is that this Island might just give you what you're looking for, but you have to give the Island something.
+620	00:00:00,000 --> 00:00:00,000	CHARLIE	[giving Locke the drugs] You really think you can find my guitar?
+622	00:00:00,000 --> 00:00:00,000	LOCKE	Look up, Charlie.
+624	00:00:00,000 --> 00:00:00,000	CHARLIE	You're not going to ask me to pray or something.
+626	00:00:00,000 --> 00:00:00,000	LOCKE	I want you to look up.
+628	00:00:00,000 --> 00:00:00,000		[Charlie looks up and almost cries when he sees his guitar on a cliff above.]
+630	00:00:00,000 --> 00:00:00,000		[Shot of Kate sitting on the beach. Jack approaches.]
+632	00:00:00,000 --> 00:00:00,000	JACK	Hey. It's almost time to go.
+634	00:00:00,000 --> 00:00:00,000	KATE	I don't want to be Eve.
+636	00:00:00,000 --> 00:00:00,000	JACK	No one's asking you to.
+638	00:00:00,000 --> 00:00:00,000	KATE	I just can't -- dig in.
+640	00:00:00,000 --> 00:00:00,000	JACK	Why not? Someone else can stay here, keep a look out, wait for rescue. Why does it have to be you?
+642	00:00:00,000 --> 00:00:00,000	KATE	That's not it.
+644	00:00:00,000 --> 00:00:00,000	JACK	Then what is it? Kate, how did you get to be this way? Just what is it that you did?
+646	00:00:00,000 --> 00:00:00,000	KATE	You had your chance to know.
+648	00:00:00,000 --> 00:00:00,000	JACK	If you need me you know where to find me. [He exits]
+650	00:00:00,000 --> 00:00:00,000	KATE	[to herself] You know where to find me, too.
+652	00:00:00,000 --> 00:00:00,000		[Shot of Michael with axe walking up to Jin.]
+654	00:00:00,000 --> 00:00:00,000	MICHAEL	I know you can't understand a word, and normally I'm not the talking out loud type, but since I have a captive audience, I hope for your sake you pay attention. I'm not exactly having the best month of my life. I barely knew my son, and now, I gotta be his daddy. And then to top if off, I have a deranged Korean guy trying to kill me and for what?! Look, I get it, right [takes the watch out of his pocket]. It's the watch. Mine broke and I found this in the wreckage, and I figured, "hey, why let a $20,000 dollar watch go to waste"? Which is ridiculous since time doesn't matter on a damn Island!
+656	00:00:00,000 --> 00:00:00,000		[Michael chops the handcuff from the plane and frees Jin (who looks terrified throughout).]
+658	00:00:00,000 --> 00:00:00,000	MICHAEL	Stay away from me. And my kid.
+660	00:00:00,000 --> 00:00:00,000		[Camera pans on Michael walking away and we see Sun has been there watching.]
+662	00:00:00,000 --> 00:00:00,000		[Flashback - We see the airport in Sydney: We can hear Jack talking to the counter person. We see Jin. Sun looks at Jin, looks at a clock that says 11:15. We see a black car waiting outside. Shot of Sun gathering her fortitude. She looks over at Jin. Sun is almost crying and walks off camera. Close up, she is crying, obviously trying to make up her mind. She looks over at Jin who holds up a white flower like the one he gave her when they were first in love. She joins him in line. He hands her the white flower.]
+664	00:00:00,000 --> 00:00:00,000	JIN	Ã¬â„¢Å“ ÃªÂ·Â¸Ã«Å¾Ëœ? [Subtitle: Something wrong?]
+666	00:00:00,000 --> 00:00:00,000	SUN	Ã«â€žË†Ã«Â¬Â´ Ã¬ËœË†Ã«Â»ÂÃ¬â€žÅ“. [Subtitle: It's too beautiful.]
+668	00:00:00,000 --> 00:00:00,000		[On-Island - Shot of Sun back at the beach.]
+670	00:00:00,000 --> 00:00:00,000		[Shot of Charlie playing guitar; and Locke with a giant knife at the caves. Jack approaches.]
+672	00:00:00,000 --> 00:00:00,000	JACK	Hello?
+674	00:00:00,000 --> 00:00:00,000	LOCKE	What's this?
+676	00:00:00,000 --> 00:00:00,000	JACK	New tenants.
+678	00:00:00,000 --> 00:00:00,000		[Jin, Sun, two redshirts, and Hurley come in.]
+680	00:00:00,000 --> 00:00:00,000	HURLEY	Short walk. They lied.
+682	00:00:00,000 --> 00:00:00,000		[More redshirts walking in. Hurley with a CD player playing (Willie Nelson). We see Jack getting water. Back at the beach Sawyer puts a log on the fire and people sitting around the fire.]
+684	00:00:00,000 --> 00:00:00,000	WALT	Can I ask you something?
+686	00:00:00,000 --> 00:00:00,000	MICHAEL	Anything you want, man.
+688	00:00:00,000 --> 00:00:00,000	WALT	When's your birthday?
+690	00:00:00,000 --> 00:00:00,000		[Sawyer, Sayid, Kate are all sitting together at the beach.]
+692	00:00:00,000 --> 00:00:00,000		[Locke, Hurley, Jack sitting together at the caves. Sun pulls out a night gown in front of Jin. Charlie plays guitar, looking sweaty. Jack looks to the sky. We fade to Kate, looking into the fire at the beach.]

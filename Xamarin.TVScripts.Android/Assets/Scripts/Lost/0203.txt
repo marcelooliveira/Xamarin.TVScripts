@@ -1,0 +1,328 @@
+Orientation
+2	00:00:00,000 --> 00:00:00,000	Written by	Javier Grillo-Marxuach & Craig Wright
+4	00:00:00,000 --> 00:00:00,000	Directed by	Jack Bender
+6	00:00:00,000 --> 00:00:00,000		[The apparent leader of the group, which Jin is calling the Others, knocks out Sawyer and Jin. Sawyer, Jin and Michael are dragged to a dug-out prison and dumped in.]
+8	00:00:00,000 --> 00:00:00,000	MICHAEL	Where's my boy? Where's my boy? Hey, what'd you do with my boy?! Do you hear me?! Come back here!
+10	00:00:00,000 --> 00:00:00,000		[The previous hatch scene replays again with Desmond holding a gun to Locke's head and firing a shot that almost hits Kate.]
+12	00:00:00,000 --> 00:00:00,000	DESMOND	Do you want him to die? Put it down.
+14	00:00:00,000 --> 00:00:00,000	JACK	Is this what you were talking about, Locke? Is this your destiny? All roads lead here.
+16	00:00:00,000 --> 00:00:00,000		[Flashback - Locke is at an anger management group therapy-type meeting.]
+18	00:00:00,000 --> 00:00:00,000	FRANCINE	My mother stole again from me this week. Now, I don't even keep money in my purse anymore. I've been hiding it. But when she wants a drink -- she stole 30 dollars. I know it may not seem like a lot of money to some of you, but it's a lot to me. And I want it back.
+20	00:00:00,000 --> 00:00:00,000		[Locke sort of chuckles.]
+22	00:00:00,000 --> 00:00:00,000	MODERATOR	Something you want to say? [Locke gestures to indicate no.] John, you've been coming here for a month now...
+24	00:00:00,000 --> 00:00:00,000	LOCKE	I just don't think 30 dollars is worth getting angry about.
+26	00:00:00,000 --> 00:00:00,000	MODERATOR	Well, Francine feels like 30 dollars...
+28	00:00:00,000 --> 00:00:00,000	LOCKE	Francine feels a little too much, if you ask me. You all do. I mean, seriously -- so-and-so never called me back -- my mother stole 30 dollars from me. I never even knew who my parents were. A couple of years ago my -- my birth mother found me, and uh, she told me I was special. And -- and through her I met my real father. Great news, right? [increasingly angry] Well, he pretended to love me just long enough to steal my kidney because he had to have a transplant. And then he dropped me back in the world like a piece of trash -- just like he did on the day that I was born. [shouts] You want your damned 30 dollars back?! I want my kidney back!
+30	00:00:00,000 --> 00:00:00,000		[Locke outside trying to light a cigarette but can't. A woman from the meeting approaches.]
+32	00:00:00,000 --> 00:00:00,000	HELEN	Probably a good idea. You know if you get kidney cancer you've only got one.
+34	00:00:00,000 --> 00:00:00,000	LOCKE	That's funny. I'm sorry if I ruined your meeting.
+36	00:00:00,000 --> 00:00:00,000	HELEN	Oh hell, you just said everything I've always wanted to say in there. Most of the time I want to stand up and scream: get over it, freaks.
+38	00:00:00,000 --> 00:00:00,000	LOCKE	Well, why don't you?
+40	00:00:00,000 --> 00:00:00,000	HELEN	I have to keep a cork in. Once I get all hot and bothered there's no stopping me. I guess you won't be coming back next week, huh?
+42	00:00:00,000 --> 00:00:00,000	LOCKE	No, not likely.
+44	00:00:00,000 --> 00:00:00,000	HELEN	Hmmm, that's too bad. I like bald guys.
+46	00:00:00,000 --> 00:00:00,000	LOCKE	I'm not bald.
+48	00:00:00,000 --> 00:00:00,000	HELEN	I can wait. Um, I'm Helen, by the way.
+50	00:00:00,000 --> 00:00:00,000	LOCKE	Hi Helen, I'm John.
+52	00:00:00,000 --> 00:00:00,000		[On-Island - Inside the hatch.]
+54	00:00:00,000 --> 00:00:00,000	JACK	Where's Kate?
+56	00:00:00,000 --> 00:00:00,000	DESMOND	Lower your gun or I'll blow his damned head off.
+58	00:00:00,000 --> 00:00:00,000	JACK	Where's Kate?!
+60	00:00:00,000 --> 00:00:00,000		[Kate lowers herself from the vent into the gun vault. She grabs a shotgun, moves up behind Desmond, and hits Desmond in the back with it. He falls, discharging his weapon.]
+62	00:00:00,000 --> 00:00:00,000	JACK	[holding Desmond down] Do not move.
+64	00:00:00,000 --> 00:00:00,000	LOCKE	Now, don't...
+66	00:00:00,000 --> 00:00:00,000	JACK	Don't what?
+68	00:00:00,000 --> 00:00:00,000	LOCKE	He's unarmed.
+70	00:00:00,000 --> 00:00:00,000	JACK	He just had a gun pointed at your head!
+72	00:00:00,000 --> 00:00:00,000		[We see the computer has been shot and is smoking.]
+74	00:00:00,000 --> 00:00:00,000	DESMOND	What did you do? What did you do? We're all going to die. We're all going to die.
+76	00:00:00,000 --> 00:00:00,000	DESMOND	[trying to get up] I have to fix it.
+78	00:00:00,000 --> 00:00:00,000	JACK	What the hell is he talking about?
+80	00:00:00,000 --> 00:00:00,000	DESMOND	Listen, if you do not let me up, we are going to die...
+82	00:00:00,000 --> 00:00:00,000	JACK	Stop moving or I swear to God...
+84	00:00:00,000 --> 00:00:00,000	DESMOND	Look at the wall! You see that?! That's a timer! It's counting down! I've got to enter the code! I've got to push the button!
+86	00:00:00,000 --> 00:00:00,000	JACK	Or what?
+88	00:00:00,000 --> 00:00:00,000	LOCKE	Jack, you should let him up.
+90	00:00:00,000 --> 00:00:00,000	JACK	Don't tell me what to do! [to Desmond] Or what? What's going to happen?
+92	00:00:00,000 --> 00:00:00,000	DESMOND	Do I know you?
+94	00:00:00,000 --> 00:00:00,000	JACK	[to Kate] You got him?
+96	00:00:00,000 --> 00:00:00,000		[Jack lets Desmond up and Desmond runs to the computer to try and fix it.]
+98	00:00:00,000 --> 00:00:00,000	DESMOND	Bastard.
+100	00:00:00,000 --> 00:00:00,000		[Locke stares at Jack.]
+102	00:00:00,000 --> 00:00:00,000	JACK	What?
+104	00:00:00,000 --> 00:00:00,000	LOCKE	Nothing, Jack.
+106	00:00:00,000 --> 00:00:00,000		[Flashback - Helen in bed as Locke is putting on his shoes. Helen wakes up.]
+108	00:00:00,000 --> 00:00:00,000	HELEN	Hey. What are you doing? Where are you going?
+110	00:00:00,000 --> 00:00:00,000	LOCKE	Nowhere, I -- I -- I just have trouble sleeping in a strange bed. [Helen looks hurt.] No, it has nothing to do with you, Helen, I promise. I really like you. I'm sorry, I'll call you later.
+112	00:00:00,000 --> 00:00:00,000		[Locke sitting in his car in front of Cooper's house, drinking coffee. Suddenly Cooper gets in the car.]
+114	00:00:00,000 --> 00:00:00,000	COOPER	Morning.
+116	00:00:00,000 --> 00:00:00,000	LOCKE	Morning.
+118	00:00:00,000 --> 00:00:00,000	COOPER	John, I know you like to drive through my neighborhood. And I know that every now and then you like to park outside my house. Now, I thought it might all stop when I moved, but here you are. Now, I admit -- at first I thought it was funny -- now it's just annoying. So how about you tell me what the hell it is you want.
+120	00:00:00,000 --> 00:00:00,000	LOCKE	Why?
+122	00:00:00,000 --> 00:00:00,000	COOPER	Excuse me?
+124	00:00:00,000 --> 00:00:00,000	LOCKE	Why?
+126	00:00:00,000 --> 00:00:00,000	COOPER	There is no why. Do you think you're the first person that ever got conned? You needed a father figure and I needed a kidney, and that's what happened. Get over it. And John, don't come back. You're not wanted.
+128	00:00:00,000 --> 00:00:00,000		[Locke sips his coffee, starts crying.]
+130	00:00:00,000 --> 00:00:00,000		[On-Island - Desmond is looking through his bookshelf for something.]
+132	00:00:00,000 --> 00:00:00,000	LOCKE	[referring to the shotgun] I don't think you need that, Kate. [to Desmond] Whatever you're looking for, maybe I can help.
+134	00:00:00,000 --> 00:00:00,000	DESMOND	Can you fix a computer? [Locke shrugs.] Then you can't help me, can you?
+136	00:00:00,000 --> 00:00:00,000	KATE	Sayid can fix a computer.
+138	00:00:00,000 --> 00:00:00,000	LOCKE	Get him. Go and get Sayid.
+140	00:00:00,000 --> 00:00:00,000	JACK	Can you get back up that rope?
+142	00:00:00,000 --> 00:00:00,000	KATE	I won't have to, there's got to be a front door in this place.
+144	00:00:00,000 --> 00:00:00,000	DESMOND	Down the corridor to the left. Be persistent, the wheel sticks. [Desmond finds a jar of components.] Gotcha.
+146	00:00:00,000 --> 00:00:00,000		[Desmond and Locke run back over to the computer. Kate opens the front door. Jack grabs the jar off the table where Desmond set it down and holds it hostage.]
+148	00:00:00,000 --> 00:00:00,000	JACK	Now, you're going to tell me what's going on.
+150	00:00:00,000 --> 00:00:00,000	LOCKE	Jack, we don't have time for...
+152	00:00:00,000 --> 00:00:00,000	JACK	We're taking a time out.
+154	00:00:00,000 --> 00:00:00,000	DESMOND	Please, just let me...
+156	00:00:00,000 --> 00:00:00,000	JACK	Look, you want to get to work -- you're going to tell me how you got here.
+158	00:00:00,000 --> 00:00:00,000	DESMOND	It was 3 years ago. I was on a solo race around the world, and my boat crashed into the reef, and then Kelvin came.
+160	00:00:00,000 --> 00:00:00,000	LOCKE	Kelvin?
+162	00:00:00,000 --> 00:00:00,000	DESMOND	Kelvin -- he comes running out of the jungle -- hurry, hurry, come with me. He brings me down here. The first thing he does -- because there's beeping already -- he types in the code, he pushes the button, and it stops. What was all that about, I say. Just saving the world, he says.
+164	00:00:00,000 --> 00:00:00,000	JACK	Saving the world?
+166	00:00:00,000 --> 00:00:00,000	DESMOND	His words, not mine. So I started pushing the button, too. And we saved the world together for awhile, and that was lovely. Then Kelvin died, and now here I am all alone. The end.
+168	00:00:00,000 --> 00:00:00,000		[Jack hands over the jar and Desmond tries to fix the computer.]
+170	00:00:00,000 --> 00:00:00,000	JACK	[to Locke] Don't tell me you believe this. This is crazy. You think that makes sense -- pushing a button? You're going to take his word for it?!
+172	00:00:00,000 --> 00:00:00,000	LOCKE	His word is all we have, Jack.
+174	00:00:00,000 --> 00:00:00,000	DESMOND	You don't have to take my word for it. Watch the film.
+176	00:00:00,000 --> 00:00:00,000	JACK	What?
+178	00:00:00,000 --> 00:00:00,000	DESMOND	The bookcase -- top shelf, behind "Turn of the Screw" -- projector's in the pantry.
+180	00:00:00,000 --> 00:00:00,000		[Locke and Jack get the film. It says "Orientation" on the side of the film canister.]
+182	00:00:00,000 --> 00:00:00,000		[Hurley playing fetch with Vincent at the beach. Then he runs to help Sayid who's lugging a crate along the beach. People are setting up camp back at the beach.]
+184	00:00:00,000 --> 00:00:00,000	HURLEY	Here! Dude, I've got to say, I didn't think we were going to get through the night. And I wasn't even here for that baby stealing part.
+186	00:00:00,000 --> 00:00:00,000	SAYID	I can assure you it was very exciting.
+188	00:00:00,000 --> 00:00:00,000	HURLEY	It's about time things are finally returning to normalness.
+190	00:00:00,000 --> 00:00:00,000		[Kate comes running onto the beach.]
+192	00:00:00,000 --> 00:00:00,000	KATE	Sayid!
+194	00:00:00,000 --> 00:00:00,000	HURLEY	Uh, crap.
+196	00:00:00,000 --> 00:00:00,000	KATE	Sayid, we need your help.
+198	00:00:00,000 --> 00:00:00,000		[Sawyer, Michael and Jin in the dug-out prison.]
+200	00:00:00,000 --> 00:00:00,000	SAWYER	[to Jin] What do you know? What did they do to you? Who the hell are they? Who the hell are they?
+202	00:00:00,000 --> 00:00:00,000	JIN	Others. Ã«Â°â€Ã«â€¹Â·ÃªÂ°â‚¬Ã¬â€”ÂÃ¬â€žÅ“ Ã«Â¶â„¢Ã¬Å¾Â¡Ã­Ëœâ€Ã¬â€“Â´.
+204	00:00:00,000 --> 00:00:00,000	MICHAEL	Did you see Walt?
+206	00:00:00,000 --> 00:00:00,000	SAWYER	The Others? How many? How many?
+208	00:00:00,000 --> 00:00:00,000	JIN	[making a gesture to show he was blindfolded.] Ã«â€ Ë†Ã«â€œÂ¤Ã¬ÂÂ´ Ã«â€šÂ´ Ã«Ë†Ë†Ã¬Ââ€ž ÃªÂ°â‚¬Ã«Â Â¸Ã¬â€“Â´. Ã«Ë†Ë†, Ã«Ë†Ë†!
+210	00:00:00,000 --> 00:00:00,000	MICHAEL	He was blindfolded.
+212	00:00:00,000 --> 00:00:00,000	SAWYER	There could be a hundred of them out there. Push me up.
+214	00:00:00,000 --> 00:00:00,000	MICHAEL	What?
+216	00:00:00,000 --> 00:00:00,000	SAWYER	Push me up. I'm going to try and get us out of here. C'mon, help us out, Jin.
+218	00:00:00,000 --> 00:00:00,000		[They push Sawyer up and he tries to open the cover to the hold.]
+220	00:00:00,000 --> 00:00:00,000	SAWYER	They've got it weighted down with something. It's tied off somewhere. C'mon, lift me higher.
+222	00:00:00,000 --> 00:00:00,000		[Suddenly a knife pokes through the cover and Sawyer falls. The leader looks down at them and then opens the cover. Ana Lucia is thrown in, unconscious.]
+224	00:00:00,000 --> 00:00:00,000	MICHAEL	It's a girl.
+226	00:00:00,000 --> 00:00:00,000		[Locke and Jack set up the film.]
+228	00:00:00,000 --> 00:00:00,000	JACK	You want to tell me what was going on down here before I showed up, John?
+230	00:00:00,000 --> 00:00:00,000	LOCKE	Kate was tied up, Desmond had a gun on me. I think you pretty much caught the gist of it.
+232	00:00:00,000 --> 00:00:00,000	JACK	[whispering to himself] Desmond...
+234	00:00:00,000 --> 00:00:00,000	LOCKE	He wanted to know a lot about us -- how we got here -- if we were sick.
+236	00:00:00,000 --> 00:00:00,000	JACK	You didn't ask anything about him?
+238	00:00:00,000 --> 00:00:00,000	LOCKE	He was the one with the gun.
+240	00:00:00,000 --> 00:00:00,000	JACK	You sure seem calm for someone who believes the world's going to end in the next 45 minutes.
+242	00:00:00,000 --> 00:00:00,000	LOCKE	He'll fix it.
+244	00:00:00,000 --> 00:00:00,000	JACK	You understand that what he's saying. It's -- it's insane. It's impossible.
+246	00:00:00,000 --> 00:00:00,000	LOCKE	Why is it insane?
+248	00:00:00,000 --> 00:00:00,000	JACK	Because the last time I saw a computer that was going to save the world, it didn't look like that.
+250	00:00:00,000 --> 00:00:00,000	LOCKE	Is the reason you're so upset because he said he recognized you? [Jack doesn't respond.] Because that would be impossible.
+252	00:00:00,000 --> 00:00:00,000		[The film:]
+254	00:00:00,000 --> 00:00:00,000		[Title screen: The DHARMA Initiative/3 of 6/Orientation. Then we see the image of the Swan and then the DHARMA logo/Orientation/Station 3/The Swan.]
+256	00:00:00,000 --> 00:00:00,000	MARVIN CANDLE	Welcome, I'm Dr. Marvin Candle, and this is the orientation film for Station 3 of the DHARMA Initiative. In a moment you'll be given a simple set of instructions for how you and your partner will fulfill the responsibilities associated with the station. But first, a little history.
+258	00:00:00,000 --> 00:00:00,000	MARVIN CANDLE	The DHARMA Initiative was created in 1970, and it is the brainchild of Gerald and Karen DeGroot -- two doctoral candidates at the University of Michigan. Following in the footsteps of visionaries such as B.F. Skinner [there is a jump cut/splice here] imagined a large scale communal research compound where scientists and free thinkers from around the globe could pursue research in meteorology, psychology, parapsychology, zoology, electromagnetism, and Utopian social [splice] Danish industrialist and munitions magnate Alvar Hanso whose financial backing made their dream of a multi-purpose social science research facility a reality.
+260	00:00:00,000 --> 00:00:00,000	MARVIN CANDLE	You and your partner are currently located in Station 3, or the Swan, and will be for the next 540 days. The Station 3 was originally constructed as a laboratory where scientists could work to understand the unique electromagnetic fluctuations emanating from this sector of the Island.
+262	00:00:00,000 --> 00:00:00,000	MARVIN CANDLE	Not long after the experiments began, however, there was an incident. And since that time the following protocol has been observed: every 108 minutes the button must be pushed. From the moment the alarm sounds you will have 4 minutes to enter the code into the microcomputer processor [splice] induction into the program. When the alarm sounds, either you or your partner must input the code. It is highly recommended that you and your partner take alternating shifts. In this manner you will stay as fresh and alert [splice] utmost importance that when the alarm sounds the code be entered correctly, and in a timely fashion. Do not attempt to use the computer [splice] for anything [splice]. Congratulations, until your replacements arrive, the future of the project is in your hands. On behalf of the DeGroots, Alvar Hanso and all of us at the DHARMA Initiative, thank you. Namaste. And good luck.
+264	00:00:00,000 --> 00:00:00,000		[End screen: The Hanso Foundation, 1980. All Rights Reserved.]
+266	00:00:00,000 --> 00:00:00,000	LOCKE	We're going to need to watch that again.
+268	00:00:00,000 --> 00:00:00,000		[Flashback - Locke and Helen at a restaurant. Helen puts a gift on Locke's plate.]
+270	00:00:00,000 --> 00:00:00,000	LOCKE	What's that?
+272	00:00:00,000 --> 00:00:00,000	HELEN	It's a present. It's been 6 months -- sort of an anniversary, right?
+274	00:00:00,000 --> 00:00:00,000	LOCKE	I didn't get you anything.
+276	00:00:00,000 --> 00:00:00,000	HELEN	That's okay. It only cost me a buck.
+278	00:00:00,000 --> 00:00:00,000		[Locke opens the box and finds a key.]
+280	00:00:00,000 --> 00:00:00,000	HELEN	It's to my place -- thought you might be tired of knocking.
+282	00:00:00,000 --> 00:00:00,000	LOCKE	Oh, well, Helen. I don't know what to say.
+284	00:00:00,000 --> 00:00:00,000	HELEN	There's uh, just one condition, though, John. When you stay over, you stay over.
+286	00:00:00,000 --> 00:00:00,000	LOCKE	What do you mean?
+288	00:00:00,000 --> 00:00:00,000	HELEN	I followed you last night -- to that house that you go to. Is it your father's house?
+290	00:00:00,000 --> 00:00:00,000	LOCKE	Why would you follow me, Helen? Why would you do that?
+292	00:00:00,000 --> 00:00:00,000	HELEN	Well, you sneak off in the middle of the night. I -- I just needed to know where you were going? I care about you, John.
+294	00:00:00,000 --> 00:00:00,000	LOCKE	Well, yeah, but what I do is my business. It's personal.
+296	00:00:00,000 --> 00:00:00,000	HELEN	I wasted 20 years of my life being angry. I told myself I would get over it, but I couldn't do it alone. I needed to find help. You help me John. And I can help you. You just have to promise me that you're not going to go to that place anymore.
+298	00:00:00,000 --> 00:00:00,000	LOCKE	Alright.
+300	00:00:00,000 --> 00:00:00,000	HELEN	Alright?
+302	00:00:00,000 --> 00:00:00,000		[Locke puts the key in his pocket and they kiss.]
+304	00:00:00,000 --> 00:00:00,000		[On-Island - Inside the hatch. Locke is re-threading the film.]
+306	00:00:00,000 --> 00:00:00,000	JACK	You're going to watch that again?
+308	00:00:00,000 --> 00:00:00,000	LOCKE	Aren't you?
+310	00:00:00,000 --> 00:00:00,000	JACK	No, John, I'm not.
+312	00:00:00,000 --> 00:00:00,000		[Back at the dug-out prison. Ana Lucia regains consciousness and appears frightened.]
+314	00:00:00,000 --> 00:00:00,000	MICHAEL	Okay, okay, okay.
+316	00:00:00,000 --> 00:00:00,000	SAWYER	You alright, sister?
+318	00:00:00,000 --> 00:00:00,000	ANA LUCIA	Who are you?
+320	00:00:00,000 --> 00:00:00,000	MICHAEL	We crashed here. We were on a plane, Sydney to Los Angeles.
+322	00:00:00,000 --> 00:00:00,000	ANA LUCIA	What?
+324	00:00:00,000 --> 00:00:00,000	SAWYER	40 of us made it.
+326	00:00:00,000 --> 00:00:00,000	ANA LUCIA	Flight 815?
+328	00:00:00,000 --> 00:00:00,000	SAWYER	You were on it, too?
+330	00:00:00,000 --> 00:00:00,000	MICHAEL	What? You were in the back? It broke off mid-air. How did you...
+332	00:00:00,000 --> 00:00:00,000	ANA LUCIA	I don't know. I don't know. The plane came apart, and -- and somebody's fricking hardside came out of the overhead and knocked me out. I woke up under water and made my way to the top -- swam to shore.
+334	00:00:00,000 --> 00:00:00,000	SAWYER	You've been out here by yourself all this time?
+336	00:00:00,000 --> 00:00:00,000	ANA LUCIA	Trying to find food -- making my way -- hoping to find somebody. And then, yesterday, they found me.
+338	00:00:00,000 --> 00:00:00,000	MICHAEL	Who are they?
+340	00:00:00,000 --> 00:00:00,000	ANA LUCIA	You tell me.
+342	00:00:00,000 --> 00:00:00,000	MICHAEL	Did you see a -- a boy? 10 years old? They took my son.
+344	00:00:00,000 --> 00:00:00,000	ANA LUCIA	No, I'm sorry. I'm Ana Lucia.
+346	00:00:00,000 --> 00:00:00,000	SAWYER	Sawyer. This is Mike. The quiet Korean guy is Jin. We're about to be the best thing that ever happened to you.
+348	00:00:00,000 --> 00:00:00,000	ANA LUCIA	How's that?
+350	00:00:00,000 --> 00:00:00,000	SAWYER	Because next time Shaft opens the cage [pulling the gun out of his waistband] he's going to get a surprising little howdy-doody.
+352	00:00:00,000 --> 00:00:00,000		[Desmond trying to fix the computer.]
+354	00:00:00,000 --> 00:00:00,000	JACK	Are you in contact with the people that made it -- the film? Are you in contact with anyone?
+356	00:00:00,000 --> 00:00:00,000	DESMOND	Do you think I'd be here if I was?
+358	00:00:00,000 --> 00:00:00,000	JACK	How is it that you didn't know about the crash? About us?
+360	00:00:00,000 --> 00:00:00,000	DESMOND	I push this button every 108 minutes. I don't get out much.
+362	00:00:00,000 --> 00:00:00,000	JACK	So, these replacements?
+364	00:00:00,000 --> 00:00:00,000	DESMOND	Kelvin died waiting for his replacements.
+366	00:00:00,000 --> 00:00:00,000	JACK	So, you don't get out, you don't see anyone. Where does your food come from? You really think this is happening.
+368	00:00:00,000 --> 00:00:00,000	DESMOND	Why wouldn't it be?
+370	00:00:00,000 --> 00:00:00,000	JACK	It says "quarantine" on the inside of the hatch to keep you down here. To keep you scared. But you know what? We've been up there for over 40 days and no one's gotten sick. You think that this is the only part of it that's true?! Do you ever think that maybe they put you down here to push a button every 100 minutes just to see if you would? That all of this -- the computer, the button -- it's just a mind game?! An experiment?
+372	00:00:00,000 --> 00:00:00,000	DESMOND	Every -- single -- day. And for all our sakes, I hope it's not real. But the film says this is an electromagnetic station. And I don't know about you, brother, but every time I walk past that concrete wall out there, my fillings hurt. [Clock shows 49:00.] Right. [Desmond flips the switch on the computer and the power goes out.] Oh no.
+374	00:00:00,000 --> 00:00:00,000	LOCKE	What happened?
+376	00:00:00,000 --> 00:00:00,000	DESMOND	It's over.
+378	00:00:00,000 --> 00:00:00,000	LOCKE	What do you mean, it's over?!
+380	00:00:00,000 --> 00:00:00,000		[Desmond fills a pack with food and the Rx bottles and injector.]
+382	00:00:00,000 --> 00:00:00,000	LOCKE	What are you doing? Are you leaving? Desmond? Wait. We can -- we can fix the computer. Sayid is coming. He knows...
+384	00:00:00,000 --> 00:00:00,000	DESMOND	Give him my best.
+386	00:00:00,000 --> 00:00:00,000	LOCKE	Wait, wait, wait -- where are you... You can't leave. Where are you going?
+388	00:00:00,000 --> 00:00:00,000	DESMOND	As far as I can run, brother.
+390	00:00:00,000 --> 00:00:00,000		[Desmond leaves, and Jack goes to follow him.]
+392	00:00:00,000 --> 00:00:00,000	LOCKE	What should we do?
+394	00:00:00,000 --> 00:00:00,000	JACK	Nothing. We do nothing. It's not real. None of it's real.
+396	00:00:00,000 --> 00:00:00,000	LOCKE	This isn't -- this isn't what was supposed to happen!
+398	00:00:00,000 --> 00:00:00,000	JACK	What was supposed to happen?
+400	00:00:00,000 --> 00:00:00,000	LOCKE	Please, don't leave me here.
+402	00:00:00,000 --> 00:00:00,000	JACK	Bye, John. You're on your own.
+404	00:00:00,000 --> 00:00:00,000	LOCKE	Jack.
+406	00:00:00,000 --> 00:00:00,000		[Jack closes the door and leaves. Locke tries to do something with the computer but knocks something on the floor.]
+408	00:00:00,000 --> 00:00:00,000	LOCKE	Why is this happening like this? What do you want? What do you... What am I supposed to do?!
+410	00:00:00,000 --> 00:00:00,000		[Flashback - Helen asleep and Locke staring at the ceiling. Locke splashing water on his face and looking at his kidney scar in the mirror. Cut to him sitting in his car in front of his father's house. Another car smacks into the back of his and Helen gets out.]
+412	00:00:00,000 --> 00:00:00,000	LOCKE	Helen? Helen, what...
+414	00:00:00,000 --> 00:00:00,000		[Helen grabs Locke's keys out of the ignition and walks over to the gate in front of Cooper's house.]
+416	00:00:00,000 --> 00:00:00,000	LOCKE	Helen, wait. Helen, don't. Helen. [She throws his keys over the gate.] Why are you doing this?
+418	00:00:00,000 --> 00:00:00,000	HELEN	He's not coming out of this house, John, because he doesn't care. I know why you're here -- why you keep coming here. You're scared. You're scared of moving forward -- with me, with us. You're going to have to choose. Him or me.
+420	00:00:00,000 --> 00:00:00,000	LOCKE	No, no, no, it's not that simple.
+422	00:00:00,000 --> 00:00:00,000	HELEN	Yes it is.
+424	00:00:00,000 --> 00:00:00,000	LOCKE	I, I, I can't. I can't.
+426	00:00:00,000 --> 00:00:00,000	HELEN	Yes, you can.
+428	00:00:00,000 --> 00:00:00,000	LOCKE	No, I can't! -- I don't know how.
+430	00:00:00,000 --> 00:00:00,000	HELEN	Because you don't know what's going to happen. None of us do. That's why it's called a leap of faith, John. You don't have to be alone.
+432	00:00:00,000 --> 00:00:00,000		[She stretches out her hand and Locke takes it.]
+434	00:00:00,000 --> 00:00:00,000		[On-Island - Back in the hatch Locke looks like he's crying. We hear Kate's voice.]
+436	00:00:00,000 --> 00:00:00,000	KATE	Jack! Jack! [entering] John?
+438	00:00:00,000 --> 00:00:00,000		[Hurley and Sayid enter.]
+440	00:00:00,000 --> 00:00:00,000	HURLEY	Dude.
+442	00:00:00,000 --> 00:00:00,000	SAYID	What is this place?
+444	00:00:00,000 --> 00:00:00,000	KATE	John, where's Jack?
+446	00:00:00,000 --> 00:00:00,000	LOCKE	Jack's gone. [to Sayid] I need your help.
+448	00:00:00,000 --> 00:00:00,000		[Timer shows 24:00. Kate is in the corridors looking for something.]
+450	00:00:00,000 --> 00:00:00,000	KATE	What does it look like?
+452	00:00:00,000 --> 00:00:00,000	SAYID	It's a breaker box. There has to be one. Follow the conduit lines.
+454	00:00:00,000 --> 00:00:00,000	HURLEY	Cool, okay, great. What's a conduit line?
+456	00:00:00,000 --> 00:00:00,000	KATE	[pointing] Those tubes -- follow those.
+458	00:00:00,000 --> 00:00:00,000		[Hurley finds the pantry.]
+460	00:00:00,000 --> 00:00:00,000	HURLEY	Whoa!
+462	00:00:00,000 --> 00:00:00,000	KATE	Did you find it?
+464	00:00:00,000 --> 00:00:00,000	HURLEY	Uh, uh, depends on what you mean by it?
+466	00:00:00,000 --> 00:00:00,000		[Back at the prison hold.]
+468	00:00:00,000 --> 00:00:00,000	SAWYER	[to Ana Lucia] Alright, here's what we're going to do -- Jin plays dead, you call for help.
+470	00:00:00,000 --> 00:00:00,000	ANA LUCIA	Sick prisoner -- are you serious?
+472	00:00:00,000 --> 00:00:00,000	SAWYER	What? You got a better idea, sweetheart?
+474	00:00:00,000 --> 00:00:00,000	ANA LUCIA	Where'd you get that gun, anyway?
+476	00:00:00,000 --> 00:00:00,000	SAWYER	What?
+478	00:00:00,000 --> 00:00:00,000	ANA LUCIA	The gun -- how'd you get it on the plane?
+480	00:00:00,000 --> 00:00:00,000	SAWYER	There was a federal marshal on the plane.
+482	00:00:00,000 --> 00:00:00,000	ANA LUCIA	So, what? You just happen to have his gun?
+484	00:00:00,000 --> 00:00:00,000	SAWYER	Yeah, I'm lucky. Mike, let's get this thing going...
+486	00:00:00,000 --> 00:00:00,000	ANA LUCIA	How come you didn't use it when they grabbed you?
+488	00:00:00,000 --> 00:00:00,000	SAWYER	Gosh, I guess I was too busy getting hit in the face with a club. How come you're suddenly so interested, cupcake?
+490	00:00:00,000 --> 00:00:00,000	MICHAEL	Hey!
+492	00:00:00,000 --> 00:00:00,000	SAWYER	What?
+494	00:00:00,000 --> 00:00:00,000	MICHAEL	C'mon, let's just -- we gotta=
+496	00:00:00,000 --> 00:00:00,000		[Ana Lucia grabs the gun, elbows Sawyer in the face, and points the gun at Jin who was going for her.]
+498	00:00:00,000 --> 00:00:00,000	ANA LUCIA	Back up! Back up. Pull me out. Pull me out!
+500	00:00:00,000 --> 00:00:00,000		[The leader guy lifts the cover, lowers a rope, and pulls Ana Lucia up.]
+502	00:00:00,000 --> 00:00:00,000	LEADER	What happened? Who are they?
+504	00:00:00,000 --> 00:00:00,000		[He lowers the cover and ties it down.]
+506	00:00:00,000 --> 00:00:00,000		[Desmond stumbles and falls while running through the jungle. Jack enters with his gun drawn.]
+508	00:00:00,000 --> 00:00:00,000	JACK	Stop.
+510	00:00:00,000 --> 00:00:00,000	DESMOND	Oh, right. The code, yeah?
+512	00:00:00,000 --> 00:00:00,000	JACK	What?
+514	00:00:00,000 --> 00:00:00,000	DESMOND	Listen carefully. If by some miracle you manage to get the computer working again you've got to enter the code: 4, 8, 15, 16, 23, 42, hit execute. Again: 4, 8, 15-
+516	00:00:00,000 --> 00:00:00,000	JACK	Shut up!
+518	00:00:00,000 --> 00:00:00,000	DESMOND	Sorry?
+520	00:00:00,000 --> 00:00:00,000	JACK	Nothing is going to happen. Some man takes you down there, shows you a movie, and you push a button on, on faith alone? [shouts] Nothing is going to happen!
+522	00:00:00,000 --> 00:00:00,000	DESMOND	In about 15 minutes you're either going to be very right, or very wrong, brother. You want to shoot me?! Shoot me! But I'm not-
+524	00:00:00,000 --> 00:00:00,000	JACK	Why are you running? You don't even know what you're running from?!
+526	00:00:00,000 --> 00:00:00,000	DESMOND	I remember you -- running -- I know you -- I met you -- Los Angeles. I was training, yeah? You twisted your ankle...
+528	00:00:00,000 --> 00:00:00,000	JACK	Stop.
+530	00:00:00,000 --> 00:00:00,000	DESMOND	You're a doctor, right? There was this girl -- you were worried -- you said, you said you failed her. That was you.
+532	00:00:00,000 --> 00:00:00,000	JACK	It doesn't matter.
+534	00:00:00,000 --> 00:00:00,000	DESMOND	Was she okay, the girl?
+536	00:00:00,000 --> 00:00:00,000	JACK	It doesn't matter.
+538	00:00:00,000 --> 00:00:00,000	DESMOND	What happened to her?
+540	00:00:00,000 --> 00:00:00,000	JACK	It doesn't matter.
+542	00:00:00,000 --> 00:00:00,000	DESMOND	How can you say it doesn't matter?
+544	00:00:00,000 --> 00:00:00,000	JACK	I married her! [Jack breaks down crying.]
+546	00:00:00,000 --> 00:00:00,000	DESMOND	Right, and you're -- you're not married to her anymore, then?
+548	00:00:00,000 --> 00:00:00,000		[Jack lowers his gun. Desmond goes back to get his pack.]
+550	00:00:00,000 --> 00:00:00,000	DESMOND	See you in another life, yeah?
+552	00:00:00,000 --> 00:00:00,000		[The timer is at 5:00.]
+554	00:00:00,000 --> 00:00:00,000	LOCKE	[to Sayid] Can you fix it?
+556	00:00:00,000 --> 00:00:00,000	SAYID	This man, whoever he was, replaced the motherboard. The power transformer is blown.
+558	00:00:00,000 --> 00:00:00,000	LOCKE	Don't you need to know why?
+560	00:00:00,000 --> 00:00:00,000	SAYID	All I need to know is that the timer is counting down to something, and that this computer needs to be repaired. I'm sure you'll tell me why once I've done so.
+562	00:00:00,000 --> 00:00:00,000		[Kate finds the breaker and flips the switch. The lights come back on.]
+564	00:00:00,000 --> 00:00:00,000	KATE	Found it!
+566	00:00:00,000 --> 00:00:00,000		[We hear the alarm sound and see the timer counting down past 4:00.]
+568	00:00:00,000 --> 00:00:00,000	HURLEY	Oh, what's that?
+570	00:00:00,000 --> 00:00:00,000	LOCKE	Sayid!
+572	00:00:00,000 --> 00:00:00,000	SAYID	Working on it.
+574	00:00:00,000 --> 00:00:00,000	LOCKE	You have to...
+576	00:00:00,000 --> 00:00:00,000	SAYID	I know what I have to do. Reconnected the processor, replaced the transformer.
+578	00:00:00,000 --> 00:00:00,000		[Sayid hits the computer's on switch and it turns on.]
+580	00:00:00,000 --> 00:00:00,000	LOCKE	It's on.
+582	00:00:00,000 --> 00:00:00,000	KATE	Okay, so what now?
+584	00:00:00,000 --> 00:00:00,000	LOCKE	There was a code. He made me enter it.
+586	00:00:00,000 --> 00:00:00,000	HURLEY	What code?
+588	00:00:00,000 --> 00:00:00,000	SAYID	Do you remember what it is?
+590	00:00:00,000 --> 00:00:00,000	LOCKE	4, 8...
+592	00:00:00,000 --> 00:00:00,000	HURLEY	Wait a minute...
+594	00:00:00,000 --> 00:00:00,000	LOCKE	15, 16...
+596	00:00:00,000 --> 00:00:00,000	HURLEY	Dude, I'm serious, stop.
+598	00:00:00,000 --> 00:00:00,000	LOCKE	Hugo, this is not the time or the place.
+600	00:00:00,000 --> 00:00:00,000	HURLEY	Yeah, well, I think it is.
+602	00:00:00,000 --> 00:00:00,000	LOCKE	23...
+604	00:00:00,000 --> 00:00:00,000	HURLEY	What is this thing? You don't even know what it does! I mean we need...
+606	00:00:00,000 --> 00:00:00,000	LOCKE	32...
+608	00:00:00,000 --> 00:00:00,000	HURLEY	You know what? Forget it, go ahead, do your thing.
+610	00:00:00,000 --> 00:00:00,000	JACK	It's not 32. It's 42. He just told me -- Desmond. The last number's 42.
+612	00:00:00,000 --> 00:00:00,000	LOCKE	You're sure.
+614	00:00:00,000 --> 00:00:00,000	JACK	Yeah, I'm sure.
+616	00:00:00,000 --> 00:00:00,000		[Locke enters 42, and is about to press the execute button.]
+618	00:00:00,000 --> 00:00:00,000	LOCKE	You do it, Jack.
+620	00:00:00,000 --> 00:00:00,000	JACK	What?
+622	00:00:00,000 --> 00:00:00,000	LOCKE	You have to do it.
+624	00:00:00,000 --> 00:00:00,000	JACK	You do it yourself, John.
+626	00:00:00,000 --> 00:00:00,000	LOCKE	No, you saw the film, Jack. This is a two person job, at least.
+628	00:00:00,000 --> 00:00:00,000	SAYID	This argument is irrelevant.
+630	00:00:00,000 --> 00:00:00,000	JACK	Sayid, don't.
+632	00:00:00,000 --> 00:00:00,000	SAYID	Jack.
+634	00:00:00,000 --> 00:00:00,000	JACK	Don't. It's not real. Look, you want to push the button, you do it yourself.
+636	00:00:00,000 --> 00:00:00,000	LOCKE	If it's not real, then what are you doing here, Jack? Why did you come back? Why do you find it so hard to believe?!
+638	00:00:00,000 --> 00:00:00,000	JACK	Why do you find it so easy?!
+640	00:00:00,000 --> 00:00:00,000	LOCKE	It's never been easy!
+642	00:00:00,000 --> 00:00:00,000		[The timer shows 1:04. Another, more insistent alarm starts to sound.]
+644	00:00:00,000 --> 00:00:00,000	KATE	Maybe you should just do it.
+646	00:00:00,000 --> 00:00:00,000	JACK	No. It's a button.
+648	00:00:00,000 --> 00:00:00,000	LOCKE	I can't do this alone, Jack. I don't want to. It's a leap of faith, Jack.
+650	00:00:00,000 --> 00:00:00,000		[The timer shows 0:27. Jack goes to the computer and pushes the button. The timer shows 0:01 and then resets to 108:00. Locke sits down at the computer.]
+652	00:00:00,000 --> 00:00:00,000	LOCKE	I'll take the first shift.
+654	00:00:00,000 --> 00:00:00,000		[The timer shows 107:00.]

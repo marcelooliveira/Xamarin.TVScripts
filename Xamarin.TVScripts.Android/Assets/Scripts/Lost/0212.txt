@@ -1,0 +1,347 @@
+Fire + Water
+2	00:00:00,000 --> 00:00:00,000	Written by	Adam Horowitz & Edward Kitsis
+4	00:00:00,000 --> 00:00:00,000	Directed by	Jack Bender
+6	00:00:00,000 --> 00:00:00,000		[We see a close up on a painting (The Baptism of Christ by Verrocchio) and then the feet of a child in bunny slippers coming down stairs. It's Christmas morning and a young Liam is already opening presents. Young Charlie looks for a present to open but they all have tags that say Liam.]
+8	00:00:00,000 --> 00:00:00,000	YOUNG LIAM	[opening a present] Voltron, whoa!
+10	00:00:00,000 --> 00:00:00,000	YOUNG CHARLIE	Where are my presents?
+12	00:00:00,000 --> 00:00:00,000	MRS. PACE	Right over here, Charlie. [She removes some blankets and wrapping from a piano.]
+14	00:00:00,000 --> 00:00:00,000	YOUNG CHARLIE	[excited] It's a piano! This is mine?
+16	00:00:00,000 --> 00:00:00,000	MRS. PACE	Yes, Charlie. Father Christmas must have known how talented you are. [He gives her a big hug] You're special, love. Someday you're going to get us out of here, all of us. Now, go on, play us a tune.
+18	00:00:00,000 --> 00:00:00,000	LIAM	[off camera] Come on, baby brother. [Young Charlie looks and we see the adult Liam sitting under the Christmas tree playing with his Voltron transformer wearing a diaper] You can't save us if you don't play.
+20	00:00:00,000 --> 00:00:00,000		[We see adult Charlie now sitting at the piano looking confused.]
+22	00:00:00,000 --> 00:00:00,000	MRS. PACE	Come on, Charlie, play. Play me a tune. Come on now, let's hear it.
+24	00:00:00,000 --> 00:00:00,000		[Charlie turns to the piano and we hear a man's voice, off camera.]
+26	00:00:00,000 --> 00:00:00,000	VOICE	He ain't saving no one, he ain't. Music. Music will never get you anywhere, Charlie boy.
+28	00:00:00,000 --> 00:00:00,000		[Charlie looks and we see a man from the neck down, dressed as a butcher and chopping meat with a cleaver. In the background, a butcher shop is blended in with the living room. Liam is sitting on a couch playing with Voltron. The man then puts a baby doll on the chopping block.]
+30	00:00:00,000 --> 00:00:00,000	BUTCHER	[pointing the cleaver at Charlie] You need a trade.
+32	00:00:00,000 --> 00:00:00,000	CHARLIE	Dad?
+34	00:00:00,000 --> 00:00:00,000		[The butcher cuts the head off the doll.]
+36	00:00:00,000 --> 00:00:00,000	LIAM	Do it baby bro; save us.
+38	00:00:00,000 --> 00:00:00,000	MRS. PACE	Save us, Charlie. Save us.
+40	00:00:00,000 --> 00:00:00,000		[Charlie starts playing and we see a close up of his hands at the piano. We hear sounds of the ocean and as the camera zooms out Charlie is playing piano in the surf. We hear the sound of a baby crying and Charlie stops playing.]
+42	00:00:00,000 --> 00:00:00,000	CHARLIE	Aaron?
+44	00:00:00,000 --> 00:00:00,000		[The baby sounds seem to be coming from inside the piano and Charlie tries to open the piano lid but it won't open.]
+46	00:00:00,000 --> 00:00:00,000	CHARLIE	Aaron! Aaron! It's okay Aaron, it's alright.
+48	00:00:00,000 --> 00:00:00,000		[Suddenly Charlie sees the trees moving and stops to watch. The piano falls into the water and starts washing out to sea.]
+50	00:00:00,000 --> 00:00:00,000	CHARLIE	Aaron!! Aaron!!
+52	00:00:00,000 --> 00:00:00,000		[Charlie wakes up on the beach and runs to see if Aaron is okay. He sees the cradle at Claire's shelter is empty and runs over to Sun.]
+54	00:00:00,000 --> 00:00:00,000	CHARLIE	Sun! Hey, Sun! Have you seen Claire and the baby, they've gone.
+56	00:00:00,000 --> 00:00:00,000	SUN	They're right over there.
+58	00:00:00,000 --> 00:00:00,000	CHARLIE	Is Aaron okay?
+60	00:00:00,000 --> 00:00:00,000	SUN	Yes, he's fine. Charlie!? --
+62	00:00:00,000 --> 00:00:00,000		[Charlie runs off in the direction Sun pointed and sees Claire with Aaron at the shore. Locke enters and plays with the baby. Claire and Locke talk and laugh while Charlie looks on from a distance.]
+64	00:00:00,000 --> 00:00:00,000		[We see Claire writing in her journal and rocking Aaron in his cradle.]
+66	00:00:00,000 --> 00:00:00,000	CLAIRE	It's okay, shhh.
+68	00:00:00,000 --> 00:00:00,000	CHARLIE	[approaching with some homemade diapers] Hey.
+70	00:00:00,000 --> 00:00:00,000	CLAIRE	Hey.
+72	00:00:00,000 --> 00:00:00,000	CHARLIE	I made Aaron some nappies this morning. [setting them down] I'll just put those there.
+74	00:00:00,000 --> 00:00:00,000	CLAIRE	Thanks.
+76	00:00:00,000 --> 00:00:00,000	CHARLIE	[looking at Aaron] Has he been asking about me?
+78	00:00:00,000 --> 00:00:00,000	CLAIRE	Charlie -- don't.
+80	00:00:00,000 --> 00:00:00,000	CHARLIE	I'm sorry. I should have told you about the statue -- what was in it. I just wish things could get back to the way they were before.
+82	00:00:00,000 --> 00:00:00,000	CLAIRE	There is no before, Charlie. We were strangers on a plane and we became friends.
+84	00:00:00,000 --> 00:00:00,000	CHARLIE	Now Locke's your friend, huh?
+86	00:00:00,000 --> 00:00:00,000	CLAIRE	Please, Charlie, just for now give me some space, okay?
+88	00:00:00,000 --> 00:00:00,000	CHARLIE	Yeah, space. [looking at Aaron] See ya, mate. Take care of your mom now, okay.
+90	00:00:00,000 --> 00:00:00,000		[Flashback - Close up on a baby in a hospital nursery. Charlie is watching her.]
+92	00:00:00,000 --> 00:00:00,000	KAREN	[entering] Charlie? Hey!
+94	00:00:00,000 --> 00:00:00,000	CHARLIE	[hugging her] Hey! What are you doing up? You should be lying down.
+96	00:00:00,000 --> 00:00:00,000	KAREN	I just needed to see her again. Isn't she brilliant?
+98	00:00:00,000 --> 00:00:00,000	CHARLIE	She's beautiful, Karen.
+100	00:00:00,000 --> 00:00:00,000	KAREN	I named her Megan. Where's Liam? [Charlie doesn't know what to say] He's not here.
+102	00:00:00,000 --> 00:00:00,000	CHARLIE	Karen, look, it wasn't his fault. We were leaving the club in Dresden -- I was in a cab -- he, he was in a van with the gear and they blew a tire on the way to the airport. He missed his flight. He's on the next plane, alright? He'll be here soon.
+104	00:00:00,000 --> 00:00:00,000	KAREN	But he's okay?
+106	00:00:00,000 --> 00:00:00,000	CHARLIE	He's great. He's a dad.
+108	00:00:00,000 --> 00:00:00,000		[We see Charlie at his apartment. He finds a cigarette burning on the piano.]
+110	00:00:00,000 --> 00:00:00,000	CHARLIE	Oh, for the -- Liam. Unbelievable. Liam?
+112	00:00:00,000 --> 00:00:00,000		[Charlie finds Liam passed out on a couch.]
+114	00:00:00,000 --> 00:00:00,000	CHARLIE	Liam, wake up! Oi, what the hell's wrong with you? [Charlie removes a tourniquet from Liam's arm] What the hell are you doing?
+116	00:00:00,000 --> 00:00:00,000	LIAM	Hey, baby brother.
+118	00:00:00,000 --> 00:00:00,000	CHARLIE	You're supposed to be cleaning up. Get up. I told Karen you missed your flight. She's all alone at the hospital and you're here fixing? What's the matter with you?
+120	00:00:00,000 --> 00:00:00,000	LIAM	I'm cool. I'm cool. I just needed to get right, that's all. [Charlie picks up the needle and drugs] Don't worry, I left you some.
+122	00:00:00,000 --> 00:00:00,000	CHARLIE	Get right? Why don't you get up? Take a shower, get dressed, get to the hospital.
+124	00:00:00,000 --> 00:00:00,000	LIAM	Alright. Alright, I'm on it. Alright.
+126	00:00:00,000 --> 00:00:00,000	CHARLIE	Oh, by the way -- you have a daughter. Her name's Megan.
+128	00:00:00,000 --> 00:00:00,000	LIAM	[smiling] After mum?
+130	00:00:00,000 --> 00:00:00,000	CHARLIE	Yeah, after mum. Now clean yourself up. You're a sodding father now.
+132	00:00:00,000 --> 00:00:00,000		[On-Island - We see Kate helping Sawyer do some physical therapy for his shoulder. Hurley is sitting nearby.]
+134	00:00:00,000 --> 00:00:00,000	KATE	Easy. That's good. That was good. Okay, one more.
+136	00:00:00,000 --> 00:00:00,000	HURLEY	Uh, Sawyer, when you were over there across the Island how well did you get to know those Tailies?
+138	00:00:00,000 --> 00:00:00,000	SAWYER	Well enough, why?
+140	00:00:00,000 --> 00:00:00,000	HURLEY	That Libby chick seems pretty cool. I mean, is she?
+142	00:00:00,000 --> 00:00:00,000	SAWYER	Well, you got a little love connection brewing over there, Jabba?
+144	00:00:00,000 --> 00:00:00,000	HURLEY	Nah, just asking.
+146	00:00:00,000 --> 00:00:00,000	SAWYER	I hear you asking.
+148	00:00:00,000 --> 00:00:00,000	HURLEY	[leaving] Forget it.
+150	00:00:00,000 --> 00:00:00,000	KATE	[to Sawyer] What's with you? You're acting like you're in junior high.
+152	00:00:00,000 --> 00:00:00,000		[Sawyer sees Jack and Ana coming out of the jungle.]
+154	00:00:00,000 --> 00:00:00,000	SAWYER	Well, what do we have here? It looks like Ana Lucia is getting the 20 dollar tour. That's the third time I've seen them walking out of the jungle. [suggestively] What do you suppose they're doing out there?
+156	00:00:00,000 --> 00:00:00,000	KATE	Why don't you just do your exercises, Sawyer.
+158	00:00:00,000 --> 00:00:00,000		[We see Charlie on the beach trying to tune his guitar.]
+160	00:00:00,000 --> 00:00:00,000	CHARLIE	Bloody hell.
+162	00:00:00,000 --> 00:00:00,000		[Suddenly Charlie hears Aaron crying and sees his cradle in the ocean.]
+164	00:00:00,000 --> 00:00:00,000	CHARLIE	[yelling] Hey! Hey! Somebody help me! I ca-- help!
+166	00:00:00,000 --> 00:00:00,000		[He looks around the beach but no one is there.]
+168	00:00:00,000 --> 00:00:00,000	CHARLIE	[removing his shoes and shirt] Help! The baby!
+170	00:00:00,000 --> 00:00:00,000		[Charlie swims out and gets the cradle.]
+172	00:00:00,000 --> 00:00:00,000	CHARLIE	Aaron! Aaron! I'm coming! I'm coming, Aaron! Okay. Just hang on.
+174	00:00:00,000 --> 00:00:00,000		[He gets the baby out of the water and picks him up.]
+176	00:00:00,000 --> 00:00:00,000	CHARLIE	I've got you. It's alright. It's okay. You're okay now. You're safe. You're safe. It's okay.
+178	00:00:00,000 --> 00:00:00,000		[Charlie sees something confusing or frightening. We see his mother and Claire on the beach dressed and posed like the angels in the Verrocchio painting from his childhood home.]
+180	00:00:00,000 --> 00:00:00,000	CHARLIE	[smiling] Mom? Claire?
+182	00:00:00,000 --> 00:00:00,000	MRS. PACE	[talking at the same time as Claire] He's in danger. You have to save him. The baby's in danger. You have to save him. The baby's in terrible danger. He's in danger. You have to save him. He's in danger. You have to save him. Danger. You have to save him. He's in danger.
+184	00:00:00,000 --> 00:00:00,000	CLAIRE	[talking at the same time at Mrs. Pace] You have to save the baby. Charlie, only you can save him. The baby. You have to save the baby, Charlie.
+186	00:00:00,000 --> 00:00:00,000		[The women keep repeating the message while we hear the sound of the Nigerian plane that Locke heard in his dream. There is a flash of light and a dove flies through the tableau and out to sea. Aaron starts to cry. Suddenly Hurley comes out of the jungle dressed similar to John the Baptist in the Verrocchio painting.]
+188	00:00:00,000 --> 00:00:00,000	HURLEY	Charlie? What are you doing?
+190	00:00:00,000 --> 00:00:00,000	CHARLIE	[looking confused] What?
+192	00:00:00,000 --> 00:00:00,000		[Suddenly it's night time and Hurley is in his regular clothes.]
+194	00:00:00,000 --> 00:00:00,000	HURLEY	What are you doing, man?
+196	00:00:00,000 --> 00:00:00,000	CHARLIE	What's going on?
+198	00:00:00,000 --> 00:00:00,000	HURLEY	It's the middle of the night. What are you doing with the baby?
+200	00:00:00,000 --> 00:00:00,000	CHARLIE	I don't know.
+202	00:00:00,000 --> 00:00:00,000	CLAIRE	[off camera] Help! Somebody took my baby!! [someone asks what happened] I don't know, Aaron's gone.
+204	00:00:00,000 --> 00:00:00,000	HURLEY	It's okay! We're over here!
+206	00:00:00,000 --> 00:00:00,000	CLAIRE	[running toward them] Is he alright?! Is he okay?!
+208	00:00:00,000 --> 00:00:00,000	CHARLIE	Claire. I don't know what happened. I'm sorry. He's okay, though. I, I had this dream --
+210	00:00:00,000 --> 00:00:00,000		[Claire slaps him hard across the face, and leaves. Everyone that has gathered around leaves Charlie standing alone.]
+212	00:00:00,000 --> 00:00:00,000		[We see Hurley and Sawyer playing cards on the beach.]
+214	00:00:00,000 --> 00:00:00,000	HURLEY	Stick? I don't know, dude. Don't you need 21? I think you should hit.
+216	00:00:00,000 --> 00:00:00,000	SAWYER	But I've got a 6; I'm going to bust.
+218	00:00:00,000 --> 00:00:00,000	HURLEY	How do you know that?
+220	00:00:00,000 --> 00:00:00,000	SAWYER	Well, I don't, but you've got to assume that I'm going to bust.
+222	00:00:00,000 --> 00:00:00,000	HURLEY	Why?
+224	00:00:00,000 --> 00:00:00,000		[Sawyer looks slightly irritated, then he sees Libby carrying some clothes.]
+226	00:00:00,000 --> 00:00:00,000	SAWYER	Well, well, look who's off to the laundromat? Well, go on. I'm sure you've got a load you need to drop in, don't you, Jethro?
+228	00:00:00,000 --> 00:00:00,000	HURLEY	I'm kind of waiting for my moment.
+230	00:00:00,000 --> 00:00:00,000	SAWYER	[standing up] Well, your moment is now, Hoss. Hey Libby!
+232	00:00:00,000 --> 00:00:00,000		[Sawyer ducks inside his tent so Libby thinks Hurley called to her. Hurley waves.]
+234	00:00:00,000 --> 00:00:00,000	LIBBY	Hey yourself. [She exits.]
+236	00:00:00,000 --> 00:00:00,000		[We see Charlie standing in the jungle and hear the sound of the bunker door opening and Locke emerges.]
+238	00:00:00,000 --> 00:00:00,000	CHARLIE	Hey, John, can I talk to you for a second?
+240	00:00:00,000 --> 00:00:00,000	LOCKE	Yeah, what is it, Charlie?
+242	00:00:00,000 --> 00:00:00,000	CHARLIE	I take it you heard about what happened last night.
+244	00:00:00,000 --> 00:00:00,000	LOCKE	If you mean you taking the baby out of Claire's tent in the middle of the night -- yeah, I heard.
+246	00:00:00,000 --> 00:00:00,000	CHARLIE	This whole thing was a big misunderstanding, John. I was sleepwalking. I don't how or why --
+248	00:00:00,000 --> 00:00:00,000	LOCKE	Is there something you want from me, Charlie?
+250	00:00:00,000 --> 00:00:00,000	CHARLIE	I was hoping you could speak to Claire for me. You know, put in a good word.
+252	00:00:00,000 --> 00:00:00,000	LOCKE	Are you using?
+254	00:00:00,000 --> 00:00:00,000	CHARLIE	What?
+256	00:00:00,000 --> 00:00:00,000	LOCKE	Heroin. Are you using again?
+258	00:00:00,000 --> 00:00:00,000	CHARLIE	Kate sees a horse -- nothing. Pretty much everybody's seen Walt wandering around the jungle. But when it's Charlie it must be the bloody drugs, right?
+260	00:00:00,000 --> 00:00:00,000	LOCKE	It's funny, you didn't answer my question.
+262	00:00:00,000 --> 00:00:00,000	CHARLIE	You remember the plane, John? We burned it, Eko and me. We burned the whole thing -- the heroin, the statues -- it's all gone. Destroyed.
+264	00:00:00,000 --> 00:00:00,000	LOCKE	All of them?
+266	00:00:00,000 --> 00:00:00,000	CHARLIE	All of them.
+268	00:00:00,000 --> 00:00:00,000	LOCKE	Trust is a hard thing to win back. Claire needs time. You should leave her and the baby alone for awhile.
+270	00:00:00,000 --> 00:00:00,000		[Flashback - We see the guys in Drive Shaft wearing robes and sitting in director's chairs on a film set. Liam looks terrible.]
+272	00:00:00,000 --> 00:00:00,000	CHARLIE	Can you do this? You look green.
+274	00:00:00,000 --> 00:00:00,000	LIAM	Sod off. I'm fine.
+276	00:00:00,000 --> 00:00:00,000	DIRECTOR	All right, let's give this another go, shall we?
+278	00:00:00,000 --> 00:00:00,000	CHARLIE	[to Liam] Get it together, alright. Lest you forget, we need this.
+280	00:00:00,000 --> 00:00:00,000	DIRECTOR	[to someone on the set] Tea. [to the band] So, you lads ready?
+282	00:00:00,000 --> 00:00:00,000	CHARLIE	Yeah, we're ready. [to Liam] Let's go.
+284	00:00:00,000 --> 00:00:00,000	DIRECTOR	Let's try not to blow it this time, eh.
+286	00:00:00,000 --> 00:00:00,000	CHARLIE	[to someone taking his tea] Thank you. [to Liam] You good?
+288	00:00:00,000 --> 00:00:00,000	DIRECTOR	We've only 20 minutes until we're in overtime. Now get it right.
+290	00:00:00,000 --> 00:00:00,000		[The guys take off their robes to reveal that they're dressed in nothing but diapers, with giant pacifiers around their necks. They're in a giant crib holding packages of "bubbies" diapers.]
+292	00:00:00,000 --> 00:00:00,000	DIRECTOR	Alright. Camera. Rotate on the 8 count.
+294	00:00:00,000 --> 00:00:00,000	CREW	Rolling.
+296	00:00:00,000 --> 00:00:00,000	DIRECTOR	Hold the product up!
+298	00:00:00,000 --> 00:00:00,000	CREW	Bubbies diapers, take 53.
+300	00:00:00,000 --> 00:00:00,000	CREW	Playback.
+302	00:00:00,000 --> 00:00:00,000	DIRECTOR	And, action.
+304	00:00:00,000 --> 00:00:00,000		[You All Everybody starts to play, and the band does a little step-kick dance. Liam can't keep up. They sing "You All Every Butt-ies," and stick their rear ends through the slats of the giant crib. Liam falls down.]
+306	00:00:00,000 --> 00:00:00,000	DIRECTOR	Cut!
+308	00:00:00,000 --> 00:00:00,000	CHARLIE	It's alright.
+310	00:00:00,000 --> 00:00:00,000	DIRECTOR	That's it. We wrap.
+312	00:00:00,000 --> 00:00:00,000	CHARLIE	Oi, no! Oi, mate, hang on. Wait, what are you doing?
+314	00:00:00,000 --> 00:00:00,000	DIRECTOR	Let's not waste anymore time, shall we? You were only hired as a favor to your lawyer. I wanted Dirt Spigot.
+316	00:00:00,000 --> 00:00:00,000	CHARLIE	Come on, mate. Give us another chance.
+318	00:00:00,000 --> 00:00:00,000	DIRECTOR	You want another chance? Take my advice; ditch that one [referring to Liam]. He's a bloody disaster.
+320	00:00:00,000 --> 00:00:00,000	CHARLIE	I'm not ditching anyone. He's my brother.
+322	00:00:00,000 --> 00:00:00,000	DIRECTOR	Right. Well then, I guess you're fired.
+324	00:00:00,000 --> 00:00:00,000		[On-Island - We find Hurley and Libby doing laundry in the Hatch.]
+326	00:00:00,000 --> 00:00:00,000	LIBBY	Is this washer and dryer newer than everything else in here?
+328	00:00:00,000 --> 00:00:00,000	HURLEY	It washes clothes. That's all I need to know.
+330	00:00:00,000 --> 00:00:00,000	LIBBY	Ah, finally, someone who keeps it simple. Oh, hey, look at this. [She holds up a shirt] I got it in some of the abandoned luggage. You think I can pull this off? [Hurley just stares at her] Let me give you a hand -- when a girl asks that kind of question, she's looking for validation.
+332	00:00:00,000 --> 00:00:00,000	HURLEY	[studying Libby's face] Do I know you from somewhere?
+334	00:00:00,000 --> 00:00:00,000	LIBBY	You mean other than the flight?
+336	00:00:00,000 --> 00:00:00,000	HURLEY	Flight?
+338	00:00:00,000 --> 00:00:00,000	LIBBY	Okay, turn around.
+340	00:00:00,000 --> 00:00:00,000	HURLEY	Huh?
+342	00:00:00,000 --> 00:00:00,000	LIBBY	Turn around. I want to try it on. Turn around.
+344	00:00:00,000 --> 00:00:00,000	HURLEY	Oh, oh, sure, go ahead.
+346	00:00:00,000 --> 00:00:00,000	LIBBY	No peeking. [She starts changing] I cannot believe you don't remember stepping on my foot.
+348	00:00:00,000 --> 00:00:00,000	HURLEY	I did?
+350	00:00:00,000 --> 00:00:00,000	LIBBY	Yes, you did. And it was hard. I know that because I remember you were the last one on the flight, and you were all sweaty, and you had headphones on -- and crunch. You stepped on my foot. Okay, turn around. What do you think?
+352	00:00:00,000 --> 00:00:00,000	HURLEY	It's awesome.
+354	00:00:00,000 --> 00:00:00,000	LIBBY	Thanks.
+356	00:00:00,000 --> 00:00:00,000		[We see Eko marking an X on a tree. Charlie approaches.]
+358	00:00:00,000 --> 00:00:00,000	CHARLIE	What are you doing?
+360	00:00:00,000 --> 00:00:00,000	EKO	I'm marking trees.
+362	00:00:00,000 --> 00:00:00,000	CHARLIE	Why?
+364	00:00:00,000 --> 00:00:00,000	EKO	Because these are the ones I like.
+366	00:00:00,000 --> 00:00:00,000	CHARLIE	Did you tell Locke you gave me one of those statues from the plane?
+368	00:00:00,000 --> 00:00:00,000	EKO	Why would I do that?
+370	00:00:00,000 --> 00:00:00,000	CHARLIE	He knows, man. Bald wanker knows something.
+372	00:00:00,000 --> 00:00:00,000	EKO	Something wrong, Charlie?
+374	00:00:00,000 --> 00:00:00,000	CHARLIE	Apart from me losing my mind? No, everything's just peachy.
+376	00:00:00,000 --> 00:00:00,000	EKO	Why would you say you are losing your mind?
+378	00:00:00,000 --> 00:00:00,000	CHARLIE	How about the fact that I've been sleepwalking? Stealing babies from their cribs? Oh yeah, and then there's the vivid dreams that make me feel like I'm completely awake until, of course, I wake up.
+380	00:00:00,000 --> 00:00:00,000	EKO	What are your dreams about?
+382	00:00:00,000 --> 00:00:00,000	CHARLIE	Variations on Aaron being in mortal peril -- trapped in a piano, drifting out to sea, there's the flying dove, and Claire and my mum dressed as angels telling me I need to save the baby. [Eko is silent] What?
+384	00:00:00,000 --> 00:00:00,000	EKO	Have you ever considered that these dreams mean something?
+386	00:00:00,000 --> 00:00:00,000	CHARLIE	Like what?
+388	00:00:00,000 --> 00:00:00,000	EKO	What if you do need to save the baby?
+390	00:00:00,000 --> 00:00:00,000		[We see Charlie walking toward Claire's tent. Kate gets up to intercept.]
+392	00:00:00,000 --> 00:00:00,000	CHARLIE	I have to talk to her.
+394	00:00:00,000 --> 00:00:00,000	KATE	Hey, you know, now's not a good time. Okay?
+396	00:00:00,000 --> 00:00:00,000	CHARLIE	No, I have to talk to her. She'll want to hear this.
+398	00:00:00,000 --> 00:00:00,000	KATE	[physically stopping Charlie from getting to Claire] Okay, you know what, so tell me and I will tell her.
+400	00:00:00,000 --> 00:00:00,000	CHARLIE	Kate! No. Claire!
+402	00:00:00,000 --> 00:00:00,000	KATE	I said not now!
+404	00:00:00,000 --> 00:00:00,000	CHARLIE	[pushing Kate aside] Claire! Wait, please, Claire! Listen to me. Aaron's in danger.
+406	00:00:00,000 --> 00:00:00,000	CLAIRE	What are you talking about?
+408	00:00:00,000 --> 00:00:00,000	CHARLIE	The baby's in danger! Look, I've been having these dreams. I know what they mean now.
+410	00:00:00,000 --> 00:00:00,000	KATE	Charlie.
+412	00:00:00,000 --> 00:00:00,000	CHARLIE	Kate! Claire, listen, we have to baptize Aaron.
+414	00:00:00,000 --> 00:00:00,000	CLAIRE	What?
+416	00:00:00,000 --> 00:00:00,000	CHARLIE	We can do this! Eko's a priest! We can do this!
+418	00:00:00,000 --> 00:00:00,000	KATE	[slightly pushing Charlie] It's time to go.
+420	00:00:00,000 --> 00:00:00,000	CHARLIE	No, wait! I'm not finished! Claire, look, we have to baptize Aaron!
+422	00:00:00,000 --> 00:00:00,000	KATE	[pushing him harder] I said it's time to go. Now!
+424	00:00:00,000 --> 00:00:00,000		[Camera pulls back to reveal Locke watching all this intently.]
+426	00:00:00,000 --> 00:00:00,000		[Ana Lucia is building a frame for a shelter. Jack approaches with a tarp.]
+428	00:00:00,000 --> 00:00:00,000	JACK	[handing her the tarp] Here. For when it rains.
+430	00:00:00,000 --> 00:00:00,000	ANA	Thanks.
+432	00:00:00,000 --> 00:00:00,000		[They drape the tarp over the frame.]
+434	00:00:00,000 --> 00:00:00,000	ANA	So when are you going to tell me what happened in the jungle?
+436	00:00:00,000 --> 00:00:00,000	JACK	I already did. Pull it tighter; it'll sag.
+438	00:00:00,000 --> 00:00:00,000	ANA	You told me what that guy said. You didn't tell me what made you turn around -- what made you come back.
+440	00:00:00,000 --> 00:00:00,000	JACK	He had a gun at Kate's head.
+442	00:00:00,000 --> 00:00:00,000	ANA	You hittin' that?
+444	00:00:00,000 --> 00:00:00,000	JACK	What?
+446	00:00:00,000 --> 00:00:00,000	ANA	Plane crash -- you both survive -- nice beach -- she's hot, you're hot. It's what people do.
+448	00:00:00,000 --> 00:00:00,000	JACK	I'm not hittin' that.
+450	00:00:00,000 --> 00:00:00,000		[We see Charlie go to his stash of Virgin Mary statues. He takes one out and breaks it open.]
+452	00:00:00,000 --> 00:00:00,000		[Flashback - We see Charlie at his piano, composing. Liam enters.]
+454	00:00:00,000 --> 00:00:00,000	CHARLIE	Hey.
+456	00:00:00,000 --> 00:00:00,000	LIAM	Karen kicked me out, man.
+458	00:00:00,000 --> 00:00:00,000	CHARLIE	What? What happened?
+460	00:00:00,000 --> 00:00:00,000	LIAM	She, uh, she thinks I'm dangerous.
+462	00:00:00,000 --> 00:00:00,000	CHARLIE	Why would she think that?
+464	00:00:00,000 --> 00:00:00,000	LIAM	Because I dropped her. [crying] I dropped Megan.
+466	00:00:00,000 --> 00:00:00,000	CHARLIE	Oh. Hey, Liam, sorry.
+468	00:00:00,000 --> 00:00:00,000	LIAM	I've got no money. I've got nothing. What are we going to do?
+470	00:00:00,000 --> 00:00:00,000	CHARLIE	We'll get through this.
+472	00:00:00,000 --> 00:00:00,000	LIAM	Yeah, how's that?
+474	00:00:00,000 --> 00:00:00,000	CHARLIE	I'm writing again. I've got a new song. It's about 2 brothers.
+476	00:00:00,000 --> 00:00:00,000	LIAM	2 brothers who should be butchers.
+478	00:00:00,000 --> 00:00:00,000	CHARLIE	Don't say that! It's a good one. I feel like this might be the one. Alright, listen to this, okay. [singing] Funny now, you finally see me standing here/Funny now, I'm crying in the rain. [Liam likes the song and joins Charlie at the piano] All alone, I try to be invincible/Together now [Liam joins in with a harmony], we can be saved. [Charlie stops playing] Nice, man.
+480	00:00:00,000 --> 00:00:00,000	LIAM	This could work.
+482	00:00:00,000 --> 00:00:00,000	CHARLIE	It's good, right?
+484	00:00:00,000 --> 00:00:00,000	LIAM	We could make it work. Write all night just like the old days.
+486	00:00:00,000 --> 00:00:00,000	CHARLIE	Alright.
+488	00:00:00,000 --> 00:00:00,000	LIAM	So, baby brother, have you got any?
+490	00:00:00,000 --> 00:00:00,000		[On-Island - Charlie holds a couple of baggies of heroin in his hand.]
+492	00:00:00,000 --> 00:00:00,000	LOCKE [suddenly, off camera at first]	I'm disappointed in you, Charlie.
+494	00:00:00,000 --> 00:00:00,000	CHARLIE	You followed me?
+496	00:00:00,000 --> 00:00:00,000	LOCKE	How long have you been coming out here?
+498	00:00:00,000 --> 00:00:00,000	CHARLIE	John, you've got the wrong idea, man.
+500	00:00:00,000 --> 00:00:00,000	LOCKE	You said you destroyed them all, and yet here they are. How is that the wrong idea?
+502	00:00:00,000 --> 00:00:00,000	CHARLIE	I came out here to finish the job. I'm going to get rid of these right now.
+504	00:00:00,000 --> 00:00:00,000	LOCKE	Yeah, that's very convenient now that I found you. [Locke goes to the statues with his pack.]
+506	00:00:00,000 --> 00:00:00,000	CHARLIE	What are you doing?
+508	00:00:00,000 --> 00:00:00,000	LOCKE [putting the statues in his pack]	There was a time when I let you choose whether or not you were going to do this to yourself. Now I'm making that choice for you.
+510	00:00:00,000 --> 00:00:00,000	CHARLIE	Oh, you don't believe me? Give them to me. Give them to me right now; I'll destroy them! Look! [He breaks up the baggies in his hand] I'll throw them in the sodding wind. Look, John, I know I lied, alright. [Locke starts walking away] Just wait, wait, wait! Remember all those talks we had, you and me? You said everything happens for a reason -- this island tests us. That's what this is, John, a test. This is my test. That's why these are here.
+512	00:00:00,000 --> 00:00:00,000	LOCKE	These are here because you put them here, Charlie. [Locke starts to leave again.]
+514	00:00:00,000 --> 00:00:00,000	CHARLIE	Wait, John, wait. [Charlie grabs Locke's arm, and Locke angrily breaks free.] What are you going to do? Are you going to tell Claire? You can't. If she sees them, I'm done. She'll never trust me again, and she has to, John. It's about the baby, alright? Aaron's in danger. You have to believe me.
+516	00:00:00,000 --> 00:00:00,000	LOCKE	You've given up the right to be believed, Charlie.
+518	00:00:00,000 --> 00:00:00,000		[We see Locke and Claire on the beach.]
+520	00:00:00,000 --> 00:00:00,000	CLAIRE	Hey.
+522	00:00:00,000 --> 00:00:00,000	LOCKE	Hi. How's our boy?
+524	00:00:00,000 --> 00:00:00,000	CLAIRE	Oh, he's good. Hey, John, can I ask you something?
+526	00:00:00,000 --> 00:00:00,000	LOCKE	Sure.
+528	00:00:00,000 --> 00:00:00,000	CLAIRE	Do you think Aaron and I could stay in the bedroom in the Hatch for a while?
+530	00:00:00,000 --> 00:00:00,000	LOCKE	A pretty loud alarm goes off every hour and a half. It's not the best place for a baby to sleep through the night.
+532	00:00:00,000 --> 00:00:00,000	CLAIRE	Oh, yeah, sure.
+534	00:00:00,000 --> 00:00:00,000	LOCKE	How about if my move my stuff down here for a couple of nights -- set up right next to your tent?
+536	00:00:00,000 --> 00:00:00,000	CLAIRE	That would be great, thanks.
+538	00:00:00,000 --> 00:00:00,000	LOCKE	Consider it done.
+540	00:00:00,000 --> 00:00:00,000	CLAIRE	Hey, John, you don't know anything about baptism, do you?
+542	00:00:00,000 --> 00:00:00,000	LOCKE	Not a whole lot, why?
+544	00:00:00,000 --> 00:00:00,000	CLAIRE	Charlie came by my tent before and told me Aaron had to be baptized -- he was in danger.
+546	00:00:00,000 --> 00:00:00,000	LOCKE	My understanding is that baptism is about making sure that children get into heaven -- should anything happen. Call it spiritual insurance. There isn't any danger, Claire. Charlie is just [Locke looks in pack and sees the statues] -- Charlie just feels like he has to save the baby because he can't save himself. I'll see you tonight.
+548	00:00:00,000 --> 00:00:00,000		[Night time. We see Charlie walking through the jungle. He starts a fire and walks away. He comes across Sayid and a redshirt moving something.]
+550	00:00:00,000 --> 00:00:00,000	SAYID	Charlie, can you give us a hand?
+552	00:00:00,000 --> 00:00:00,000	CHARLIE	[continuing to walk by] Now's not a good time, Sayid.
+554	00:00:00,000 --> 00:00:00,000	SAYID	[to the redshirt] Here, let's lift this.
+556	00:00:00,000 --> 00:00:00,000		[Sayid sees the fire.]
+558	00:00:00,000 --> 00:00:00,000	SAYID	Fire! Fire! [He runs through camp] Grab tools, containers for sand, anything you have. If we don't stop it now, it's going to burn right through the camp.
+560	00:00:00,000 --> 00:00:00,000	LOCKE	[to Claire] Stay here with Aaron.
+562	00:00:00,000 --> 00:00:00,000		[Everybody goes to put out the fire.]
+564	00:00:00,000 --> 00:00:00,000	SAYID	We need to cut a fire break right here! Form a bucket line!
+566	00:00:00,000 --> 00:00:00,000	LOCKE	Some of you people down to the water! [Locke grabs some buckets from a redshirt and runs to the shore] We'll hand them up, wait here.
+568	00:00:00,000 --> 00:00:00,000		[We see Claire watching from the beach. Charlie approaches from behind her.]
+570	00:00:00,000 --> 00:00:00,000		[Flashback - Charlie arrives home to find his piano is gone.]
+572	00:00:00,000 --> 00:00:00,000	CHARLIE	Liam! My piano. What's going on? Liam, where's my piano?
+574	00:00:00,000 --> 00:00:00,000	LIAM	I sold it.
+576	00:00:00,000 --> 00:00:00,000	CHARLIE	You what? [Liam walks by and Charlie gets in his face] Hey, wait, I don't have to --
+578	00:00:00,000 --> 00:00:00,000	LIAM	Get off me.
+580	00:00:00,000 --> 00:00:00,000	CHARLIE	Where's the money?! Is it up your sodding arm?!
+582	00:00:00,000 --> 00:00:00,000	LIAM	I'm clean. I haven't used in two days.
+584	00:00:00,000 --> 00:00:00,000	CHARLIE	Two days? Well, happy anniversary!
+586	00:00:00,000 --> 00:00:00,000	LIAM	Well, how long have you been clean?!
+588	00:00:00,000 --> 00:00:00,000	CHARLIE	Where's the money?
+590	00:00:00,000 --> 00:00:00,000	LIAM	She was going to leave me, Charlie. She was going to take Megan.
+592	00:00:00,000 --> 00:00:00,000	CHARLIE	What did you do, Liam?
+594	00:00:00,000 --> 00:00:00,000	LIAM	Karen's got an uncle in Australia. He's going to get me a job. There's a rehab clinic in Sydney. I just needed the money to get us there. I have to do this. I have to take care of myself for them -- for my family.
+596	00:00:00,000 --> 00:00:00,000	CHARLIE	I'm your family!
+598	00:00:00,000 --> 00:00:00,000		[We see Liam walking down a street with Charlie following behind.]
+600	00:00:00,000 --> 00:00:00,000	CHARLIE	Wait. Will you just wait?
+602	00:00:00,000 --> 00:00:00,000	LIAM	I can't, Charlie.
+604	00:00:00,000 --> 00:00:00,000	CHARLIE	What about the band? What about the song?
+606	00:00:00,000 --> 00:00:00,000	LIAM	Try to understand. I have to go. I have to. Look, I'll give you a call when things settle down for me. [He leaves]
+608	00:00:00,000 --> 00:00:00,000	CHARLIE	For you? What about me? What about my family? What about my family?!
+610	00:00:00,000 --> 00:00:00,000		[On-Island - We see people working to put out the last of the fire. Charlie takes Aaron out of his cradle, and Aaron starts to fuss.]
+612	00:00:00,000 --> 00:00:00,000	CLAIRE	Charlie, what are you doing?!
+614	00:00:00,000 --> 00:00:00,000	CHARLIE	I'm doing what I have to do.
+616	00:00:00,000 --> 00:00:00,000	CLAIRE	He's got my baby!! Stop it!
+618	00:00:00,000 --> 00:00:00,000	CHARLIE	No, Claire, it's alright! It's not --
+620	00:00:00,000 --> 00:00:00,000	CLAIRE	Charlie, stop! Help! Somebody help! He's got my baby!!
+622	00:00:00,000 --> 00:00:00,000		[Locke hears this and runs to help.]
+624	00:00:00,000 --> 00:00:00,000	CLAIRE	Help! Come on, Charlie, please. Stop it.
+626	00:00:00,000 --> 00:00:00,000	CHARLIE	I just wanted to save him!
+628	00:00:00,000 --> 00:00:00,000	LOCKE	Charlie! Give me the baby.
+630	00:00:00,000 --> 00:00:00,000		[Everybody gathers around this confrontation.]
+632	00:00:00,000 --> 00:00:00,000	CHARLIE	Eko, tell them! Tell them, Eko! Tell them what you told me -- that the baby has to be baptized!
+634	00:00:00,000 --> 00:00:00,000	EKO	This is not the way.
+636	00:00:00,000 --> 00:00:00,000	LOCKE	Charlie, come on, give him to me.
+638	00:00:00,000 --> 00:00:00,000	CHARLIE	Who the hell are you, John?! Aaron's not your responsibility! Where were you when he was born?! Where were you when he was taken?! You're not his father! You're not his family!
+640	00:00:00,000 --> 00:00:00,000	LOCKE	Neither are you, Charlie.
+642	00:00:00,000 --> 00:00:00,000	CHARLIE	I have to do this. I need to. I'm not going to hurt him.
+644	00:00:00,000 --> 00:00:00,000	CLAIRE	You're hurting me, Charlie.
+646	00:00:00,000 --> 00:00:00,000		[Locke takes the baby from Charlie and gives him to Claire who starts to leave.]
+648	00:00:00,000 --> 00:00:00,000	CHARLIE	[trying to get to Claire] Claire. I'm sorry, Claire.
+650	00:00:00,000 --> 00:00:00,000		[Locke suddenly punches Charlie, 3 times, very hard. Charlie goes down in the surf. Everyone starts to leave giving Charlie dirty/puzzled looks as they go.]
+652	00:00:00,000 --> 00:00:00,000		[We see Charlie sitting on the beach as Jack approaches.]
+654	00:00:00,000 --> 00:00:00,000	JACK	You need stitches. [He starts working on Charlie's cut] Try to be still.
+656	00:00:00,000 --> 00:00:00,000	CHARLIE	I started the fire, Jack.
+658	00:00:00,000 --> 00:00:00,000	JACK	Yeah, I know.
+660	00:00:00,000 --> 00:00:00,000	CHARLIE	I was desperate. She --
+662	00:00:00,000 --> 00:00:00,000	JACK	I need to know you're never going to do anything like this again. Ever.
+664	00:00:00,000 --> 00:00:00,000	CHARLIE	I know what this looks like -- what people think. It doesn't matter now, but I didn't use. I wanted to. I really wanted to. But I didn't.
+666	00:00:00,000 --> 00:00:00,000	JACK	That's not what I asked, Charlie.
+668	00:00:00,000 --> 00:00:00,000	CHARLIE	It's not going to happen again.
+670	00:00:00,000 --> 00:00:00,000		[We see Eko walking through the burned out area left by the fire. Claire approaches.]
+672	00:00:00,000 --> 00:00:00,000	CLAIRE	Charlie told me you were a priest.
+674	00:00:00,000 --> 00:00:00,000	EKO	Yes.
+676	00:00:00,000 --> 00:00:00,000	CLAIRE	He said that you told him that I had to have --
+678	00:00:00,000 --> 00:00:00,000	EKO	I did not tell Charlie to do what he did. I'm sorry if he misunderstood me.
+680	00:00:00,000 --> 00:00:00,000	CLAIRE	But, do you think the baby has to be baptized?
+682	00:00:00,000 --> 00:00:00,000	EKO	Do you know what baptism is?
+684	00:00:00,000 --> 00:00:00,000	CLAIRE	It's what gets you into heaven.
+686	00:00:00,000 --> 00:00:00,000	EKO	It is said that when John the Baptist baptized Jesus the skies opened up and a dove flew down from the sky. This told John something -- that he had cleansed this man of all his sins. That he had freed him. Heaven came much later.
+688	00:00:00,000 --> 00:00:00,000	CLAIRE	I haven't been baptized. Does that mean that if you do it to Aaron and something happened to us that we wouldn't be together?
+690	00:00:00,000 --> 00:00:00,000	EKO	Not if I baptize you both.
+692	00:00:00,000 --> 00:00:00,000		[Montage: Locke changing the combination on the gun vault; Eko baptizing Aaron and Claire; Locke putting the Virgin Mary statues in the gun vault; Charlie sitting by himself on the beach.]

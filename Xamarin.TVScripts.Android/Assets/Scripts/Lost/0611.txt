@@ -1,0 +1,445 @@
+Everybody Loves Hugo
+2	00:00:00,000 --> 00:00:00,000	Written by	Edward Kitsis & Adam Horowitz
+4	00:00:00,000 --> 00:00:00,000	Directed by	Daniel Attias
+6	00:00:00,000 --> 00:00:00,000		[Black screen with voiceover.]
+8	00:00:00,000 --> 00:00:00,000	CHANG	In a world of conflict and strife, there is but one fact we all can agree upon... everybody loves Hugo.
+10	00:00:00,000 --> 00:00:00,000		[Applause is heard as a picture of Hurley fills the screen.]
+12	00:00:00,000 --> 00:00:00,000	CHANG	Born to humble surroundings, Hugo Reyes has always been a beacon of light for all who cross his path.
+14	00:00:00,000 --> 00:00:00,000		[Photos of Hurley as a baby are shown.]
+16	00:00:00,000 --> 00:00:00,000	CHANG	Hugo's lifelong love affair with chicken led him to acquire and then expand the Mr. Cluck's chain into a worldwide phenomenon.
+18	00:00:00,000 --> 00:00:00,000		[Photos are shown of Mr. Cluck's stores in famous locations across the globe.]
+20	00:00:00,000 --> 00:00:00,000	CHANG	The exponential growth of Hugo's success was startling. But financial success wasn't the end. It was the beginning. Hugo and giving became synonymous.
+22	00:00:00,000 --> 00:00:00,000		[A video of Hurley shaking hands with volunteers in hard hats is played.]
+24	00:00:00,000 --> 00:00:00,000	CHANG	Parks, playgrounds, hospitals, the Mr. Cluck's House for Children... the philanthropy was unparalleled.
+26	00:00:00,000 --> 00:00:00,000		[Pictures of Hurley at various ribbon cutting ceremonies are shown.]
+28	00:00:00,000 --> 00:00:00,000	CHANG	Which brings us to this evening and the opening of the Hugo Reyes Palentology Wing at the Golden State Natural History Museum. A lasting beacon of culture that bears the name of one of our city's greatest benefactors.
+30	00:00:00,000 --> 00:00:00,000		[The previous clips and photos are revealed to have been part of a slide show. Flash sideways timeline - Pierre Chang is speaking in front of a large crowd at a formal banquet.]
+32	00:00:00,000 --> 00:00:00,000	CHANG	Ladies and gentlemen, our man of the year... Hugo Reyes!
+34	00:00:00,000 --> 00:00:00,000		[Applause fills the room as the spotlight shifts to Hurley. He stands and modestly accepts the praise. The cheers turn into a standing ovation.]
+36	00:00:00,000 --> 00:00:00,000		[Some time later, Hurley walks through the lobby with his mother while carrying an award in the shape of a dinosaur.]
+38	00:00:00,000 --> 00:00:00,000	HURLEY	Pretty cool trophy, huh?
+40	00:00:00,000 --> 00:00:00,000	CARMEN	Mmm hmm, Hugo...
+42	00:00:00,000 --> 00:00:00,000	HURLEY	Oh, you know we got the Human Fund next Saturday night... can you make it?
+44	00:00:00,000 --> 00:00:00,000	CARMEN	Another trophy... everybody loves Hugo... you know who doesn't? Women.
+46	00:00:00,000 --> 00:00:00,000	HURLEY	Ma!
+48	00:00:00,000 --> 00:00:00,000	CARMEN	You need a woman in your life. Especially one who has not nursed you.
+50	00:00:00,000 --> 00:00:00,000	HURLEY	That's disgusting. And I'm too busy to meet someone...
+52	00:00:00,000 --> 00:00:00,000	CARMEN	You're not too busy. You're too scared!
+54	00:00:00,000 --> 00:00:00,000	HURLEY	I'm not scared!
+56	00:00:00,000 --> 00:00:00,000	CARMEN	Good, because you have a date tomorrow.
+58	00:00:00,000 --> 00:00:00,000	HURLEY	I do?
+60	00:00:00,000 --> 00:00:00,000	CARMEN	Grandpa Tito's neighbor's daughter. Rosalita. She agreed to lunch with you.
+62	00:00:00,000 --> 00:00:00,000	HURLEY	What's she like?
+64	00:00:00,000 --> 00:00:00,000	CARMEN	Willing to meet you.
+66	00:00:00,000 --> 00:00:00,000	HURLEY	Ma--
+68	00:00:00,000 --> 00:00:00,000	CARMEN	You're going! She's gonna love you! And if she doesn't... we will find someone who does!
+70	00:00:00,000 --> 00:00:00,000		[She slaps him.]
+72	00:00:00,000 --> 00:00:00,000		[On-Island - Hurley kneels at Libby's grave and replaces a wilted flower with a fresh one.]
+74	00:00:00,000 --> 00:00:00,000	HURLEY	A lot of crazy stuff's been happening... I kind of wish I could talk to you about it in person. A lot of people come to talk to me after they've... you know... gone. It would be nice if you did too.
+76	00:00:00,000 --> 00:00:00,000	ILANA	Hugo!
+78	00:00:00,000 --> 00:00:00,000		[Ilana approaches.]
+80	00:00:00,000 --> 00:00:00,000	ILANA	You ready to go? Once I'm back, we're leaving.
+82	00:00:00,000 --> 00:00:00,000	HURLEY	Where are you going?
+84	00:00:00,000 --> 00:00:00,000	ILANA	The Black Rock. If we're going to destroy that plane, we'll need dynamite.
+86	00:00:00,000 --> 00:00:00,000	HURLEY	You sure that's the right move?
+88	00:00:00,000 --> 00:00:00,000	ILANA	No. But it's the only move we have.
+90	00:00:00,000 --> 00:00:00,000	HURLEY	Well... you're the expert.
+92	00:00:00,000 --> 00:00:00,000	ILANA	Whose grave is this?
+94	00:00:00,000 --> 00:00:00,000	HURLEY	Her name was Libby. She was in the tail section of the plane. We were gonna have our first date. It was gonna be, like... a picnic. But then she was murdered.
+96	00:00:00,000 --> 00:00:00,000	ILANA	I'm sorry.
+98	00:00:00,000 --> 00:00:00,000	HURLEY	Yeah, me too...
+100	00:00:00,000 --> 00:00:00,000		[Ilana walks away. The whispers are heard.]
+102	00:00:00,000 --> 00:00:00,000	MICHAEL	Hey!
+104	00:00:00,000 --> 00:00:00,000		[Hurley sees Michael standing before him.]
+106	00:00:00,000 --> 00:00:00,000	HURLEY	What are you doing here?
+108	00:00:00,000 --> 00:00:00,000	MICHAEL	I'm here to stop you from getting everyone killed.
+110	00:00:00,000 --> 00:00:00,000		[Hurley and Michael stare at each other.]
+112	00:00:00,000 --> 00:00:00,000	MICHAEL	You gonna say something?
+114	00:00:00,000 --> 00:00:00,000	HURLEY	Why should I trust you? You murdered Libby and Ana Lucia.
+116	00:00:00,000 --> 00:00:00,000	MICHAEL	That doesn't matter right now. What matters is you going across that island to blow up that plane. People are gonna die. A lot of people, and it's gonna be your fault.
+118	00:00:00,000 --> 00:00:00,000	HURLEY	What?
+120	00:00:00,000 --> 00:00:00,000	MICHAEL	Because people are listening to you now, Hurley.
+122	00:00:00,000 --> 00:00:00,000	JACK	Hurley!
+124	00:00:00,000 --> 00:00:00,000		[Jack approaches.]
+126	00:00:00,000 --> 00:00:00,000	JACK	Who are you talking to?
+128	00:00:00,000 --> 00:00:00,000	HURLEY	Um... no one.
+130	00:00:00,000 --> 00:00:00,000	JACK	Come on. We're leaving.
+132	00:00:00,000 --> 00:00:00,000		[Jack walks away.]
+134	00:00:00,000 --> 00:00:00,000		[Flash sideways - Hurley sits alone at a restaurant eating chips. A waiter approaches.]
+136	00:00:00,000 --> 00:00:00,000	WAITER	Can I get you some more homemade tortilla chips?
+138	00:00:00,000 --> 00:00:00,000	HURLEY	Sure. Whatever...
+140	00:00:00,000 --> 00:00:00,000		[The waiter begins collecting the extra dining ware opposite Hurley.]
+142	00:00:00,000 --> 00:00:00,000	HURLEY	Uh... can you leave those? I'm meeting someone. She's running late.
+144	00:00:00,000 --> 00:00:00,000	WAITER	Right. Chips are on the way.
+146	00:00:00,000 --> 00:00:00,000		[The waiter walks away.]
+148	00:00:00,000 --> 00:00:00,000	LIBBY	Hugo?
+150	00:00:00,000 --> 00:00:00,000		[Hurley looks up from his menu and sees Libby standing before him.]
+152	00:00:00,000 --> 00:00:00,000	HURLEY	Uh... hi. Nice to meet you.
+154	00:00:00,000 --> 00:00:00,000		[Hurley gets to his feet and pulls out a chair for her.]
+156	00:00:00,000 --> 00:00:00,000	HURLEY	Wow! Uh... I wasn't expecting someone like you.
+158	00:00:00,000 --> 00:00:00,000	LIBBY	Uh... I'm sorry?
+160	00:00:00,000 --> 00:00:00,000	HURLEY	You know, someone so... pretty. Please, have a seat.
+162	00:00:00,000 --> 00:00:00,000		[Libby sits down. Hurley returns to his seat.]
+164	00:00:00,000 --> 00:00:00,000	HURLEY	You don't look like a Rosalita...
+166	00:00:00,000 --> 00:00:00,000	LIBBY	Oh, uh... my name isn't Rosalita. It's Libby.
+168	00:00:00,000 --> 00:00:00,000	HURLEY	So... you're not my blind date?
+170	00:00:00,000 --> 00:00:00,000	LIBBY	No, I... I just saw you from across the room.
+172	00:00:00,000 --> 00:00:00,000	HURLEY	Well... how did you know my name?
+174	00:00:00,000 --> 00:00:00,000	LIBBY	Well, if I tell you, you're gonna think I'm crazy.
+176	00:00:00,000 --> 00:00:00,000	HURLEY	No I won't.
+178	00:00:00,000 --> 00:00:00,000		[Libby reaches out and grabs his hands.]
+180	00:00:00,000 --> 00:00:00,000	LIBBY	Hugo, do you believe that two people can be connected? Like soulmates?
+182	00:00:00,000 --> 00:00:00,000	HURLEY	I guess...
+184	00:00:00,000 --> 00:00:00,000	LIBBY	You don't remember me, do you?
+186	00:00:00,000 --> 00:00:00,000	HURLEY	Should I?
+188	00:00:00,000 --> 00:00:00,000	DR. BROOKS	What are you doing, Elizabeth? Are you bothering this man?
+190	00:00:00,000 --> 00:00:00,000		[Dr. Brooks approaches the table and speaks to Libby.]
+192	00:00:00,000 --> 00:00:00,000	LIBBY	No! No, he... he's an old friend.
+194	00:00:00,000 --> 00:00:00,000	HURLEY	Actually, we just... wait, what? What's going on?
+196	00:00:00,000 --> 00:00:00,000	DR. BROOKS	I apologize for the intrusion.
+198	00:00:00,000 --> 00:00:00,000		[He attempts to wrestle Libby from her chair.]
+200	00:00:00,000 --> 00:00:00,000	DR. BROOKS	Come on.
+202	00:00:00,000 --> 00:00:00,000	LIBBY	No, Dr. Brooks, if I could just--
+204	00:00:00,000 --> 00:00:00,000	HURLEY	Doctor?
+206	00:00:00,000 --> 00:00:00,000	DR. BROOKS	I'm sorry, she just wandered off.
+208	00:00:00,000 --> 00:00:00,000	HURLEY	Wandered off from where?
+210	00:00:00,000 --> 00:00:00,000	LIBBY	Everything that I said, Hugo... I meant it.
+212	00:00:00,000 --> 00:00:00,000	DR. BROOKS	Forgive us.
+214	00:00:00,000 --> 00:00:00,000		[Dr. Brooks leads Libby away from the table. Hurley follows them outside and sees them board a van belonging to the Santa Rosa Mental Health Institute.]
+216	00:00:00,000 --> 00:00:00,000		[On-Island - Ilana returns to the beach camp.]
+218	00:00:00,000 --> 00:00:00,000	ILANA	Alright, let's go. We have to make it to the outriggers and across the channel to Hydra Island before nightfall.
+220	00:00:00,000 --> 00:00:00,000	RICHARD	Do you have the dynamite?
+222	00:00:00,000 --> 00:00:00,000		[She opens her bag to show Richard.]
+224	00:00:00,000 --> 00:00:00,000	ILANA	Four sticks. Enough to destroy the cockpit and all the instruments. That plane'll never fly.
+226	00:00:00,000 --> 00:00:00,000	HURLEY	Um... I don't know if that's a good idea. I mean, for one thing, that stuff's really unstable.
+228	00:00:00,000 --> 00:00:00,000	ILANA	You have to trust me. I've been training my whole life for this.
+230	00:00:00,000 --> 00:00:00,000	HURLEY	To blow stuff up?
+232	00:00:00,000 --> 00:00:00,000	ILANA	To protect you!
+234	00:00:00,000 --> 00:00:00,000	HURLEY	Yeah, but how's blowing up the plane protecting us?
+236	00:00:00,000 --> 00:00:00,000	ILANA	With that plane gone, that thing won't be able to leave the island.
+238	00:00:00,000 --> 00:00:00,000	HURLEY	Yeah... well neither will we. And then we'll be stuck here with it and it will be angry at us.
+240	00:00:00,000 --> 00:00:00,000		[Ilana begins throwing bottles of water into her bag of dynamite.]
+242	00:00:00,000 --> 00:00:00,000	ILANA	Jacob said Richard will know what to do. And Richard said to blow up the plane, correct?
+244	00:00:00,000 --> 00:00:00,000	RICHARD	Yes.
+246	00:00:00,000 --> 00:00:00,000	HURLEY	Well, Jacob never said anything about it to me. I mean... what if Richard's wrong?
+248	00:00:00,000 --> 00:00:00,000	ILANA	Hugo, I'm looking out for your best interests! All of you! Nothing is more important than this! That thing is evil! And God help us if it ever leaves this island! Because if it--
+250	00:00:00,000 --> 00:00:00,000		[Ilana drops her bag and the dynamite explodes, killing her. The blasts knocks everyone else off their feet.]
+252	00:00:00,000 --> 00:00:00,000		[Elsewhere on the Island, Locke carves a wooden stick.]
+254	00:00:00,000 --> 00:00:00,000	MAN [background conversation]	...about six feet off the ground.
+256	00:00:00,000 --> 00:00:00,000	SAWYER	That gonna be a spear?
+258	00:00:00,000 --> 00:00:00,000	LOCKE	I'm not sure what it's gonna be yet, James. When the time is right, it'll tell me.
+260	00:00:00,000 --> 00:00:00,000	SAWYER	You talk to wood now?
+262	00:00:00,000 --> 00:00:00,000	KATE	Sawyer...
+264	00:00:00,000 --> 00:00:00,000	SAWYER	What?
+266	00:00:00,000 --> 00:00:00,000	LOCKE	Something I can do for you two?
+268	00:00:00,000 --> 00:00:00,000	SAWYER	Is there something you can do? How about anything? Those bastards on the other island grabbed Jin and we're just sittin' here twiddlin' our damn thumbs, doin' nothin' about it!
+270	00:00:00,000 --> 00:00:00,000	LOCKE	There's a difference between doing nothing and waiting.
+272	00:00:00,000 --> 00:00:00,000	KATE	So what are we waiting for?
+274	00:00:00,000 --> 00:00:00,000	LOCKE	You were only able to come back to this island because you all did it together. If we're gonna get on that plane and leave, it has to happen the same way. We're waiting for your friends to get here, Kate. Hugo... Sun... Jack. That's the only way we're ever getting off this... Godforsaken rock.
+276	00:00:00,000 --> 00:00:00,000	KATE	Well, I don't see that happening.
+278	00:00:00,000 --> 00:00:00,000	LOCKE	Well, let's just hope you're wrong.
+280	00:00:00,000 --> 00:00:00,000		[Sayid enters the camp.]
+282	00:00:00,000 --> 00:00:00,000	SAWYER	Where have you been?
+284	00:00:00,000 --> 00:00:00,000		[Sayid does not respond. He turns to Locke.]
+286	00:00:00,000 --> 00:00:00,000	SAYID	Can I speak to you in private?
+288	00:00:00,000 --> 00:00:00,000	LOCKE	Absolutely.
+290	00:00:00,000 --> 00:00:00,000		[They walk into the jungle together.]
+292	00:00:00,000 --> 00:00:00,000	LOCKE	Everything go alright?
+294	00:00:00,000 --> 00:00:00,000	SAYID	Yes.
+296	00:00:00,000 --> 00:00:00,000	LOCKE	Did Widmore see you?
+298	00:00:00,000 --> 00:00:00,000	SAYID	No, but his people did.
+300	00:00:00,000 --> 00:00:00,000	LOCKE	And you let them live?
+302	00:00:00,000 --> 00:00:00,000	SAYID	I didn't see the point of killing them when I had what I came for.
+304	00:00:00,000 --> 00:00:00,000	LOCKE	So you found what they were hiding in the submarine?
+306	00:00:00,000 --> 00:00:00,000	SAYID	I most certainly did.
+308	00:00:00,000 --> 00:00:00,000		[Sayid pulls back some bushes to reveal Desmond, bound to a tree.]
+310	00:00:00,000 --> 00:00:00,000		[Hurley looks through Ilana's possessions, including a book (Dostoevsky's "Notes from Underground" in Russian) and the pouch containing Jacob's ashes. Nearby, Richard empties out a bag.]
+312	00:00:00,000 --> 00:00:00,000	BEN	Now what?
+314	00:00:00,000 --> 00:00:00,000	RICHARD	We get more dynamite. Or else she died for nothing.
+316	00:00:00,000 --> 00:00:00,000	JACK	Maybe she died to show us to stay the hell away from dynamite.
+318	00:00:00,000 --> 00:00:00,000	RICHARD	Well Jack, that's a risk I'm willing to take.
+320	00:00:00,000 --> 00:00:00,000	JACK	Richard, I promised Sun that I'd get her off this island.
+322	00:00:00,000 --> 00:00:00,000	RICHARD	Well Jack, I... I wish you hadn't done that. If it makes you feel any better, you can blame it on me.
+324	00:00:00,000 --> 00:00:00,000	HURLEY	I think Richard's right. It's the only choice we've got. Trust me, Jack.
+326	00:00:00,000 --> 00:00:00,000	JACK	Okay.
+328	00:00:00,000 --> 00:00:00,000	RICHARD	Good. Let's get moving.
+330	00:00:00,000 --> 00:00:00,000		[Flash sideways - a cashier calls out order numbers at a Mr. Cluck's.]
+332	00:00:00,000 --> 00:00:00,000	CASHIER	38! Number 38!
+334	00:00:00,000 --> 00:00:00,000		[Hurley walks up to the counter.]
+336	00:00:00,000 --> 00:00:00,000	CASHIER	Mr. Reyes! What an honor!
+338	00:00:00,000 --> 00:00:00,000	HURLEY	Give me a bucket. Family size.
+340	00:00:00,000 --> 00:00:00,000	CASHIER	Of course. Right away, sir.
+342	00:00:00,000 --> 00:00:00,000		[Moments later, Hurley sits eating his bucket of chicken, he notices Desmond watching him.]
+344	00:00:00,000 --> 00:00:00,000	WOMAN	41! Number 41!
+346	00:00:00,000 --> 00:00:00,000	HURLEY	What?
+348	00:00:00,000 --> 00:00:00,000	DESMOND	I'm sorry. Have I seen you before?
+350	00:00:00,000 --> 00:00:00,000	HURLEY	I own the place. Maybe you saw my commercial. You want a Cluckateer key chain?
+352	00:00:00,000 --> 00:00:00,000	DESMOND	No, it's not that. Were you on Oceanic flight 815? About a week ago... from Sydney.
+354	00:00:00,000 --> 00:00:00,000	HURLEY	Uh... yeah.
+356	00:00:00,000 --> 00:00:00,000	DESMOND	So was I.
+358	00:00:00,000 --> 00:00:00,000	HURLEY	Wow, what a coincidence...
+360	00:00:00,000 --> 00:00:00,000	DESMOND	Listen, you mind if I join you while I wait for my order?
+362	00:00:00,000 --> 00:00:00,000		[Desmond sits down.]
+364	00:00:00,000 --> 00:00:00,000	HURLEY	Be my guest...
+366	00:00:00,000 --> 00:00:00,000	DESMOND	Ooh... that is a lot of chicken!
+368	00:00:00,000 --> 00:00:00,000	HURLEY	I eat when I'm depressed!
+370	00:00:00,000 --> 00:00:00,000	DESMOND	Ah! So what's her name?
+372	00:00:00,000 --> 00:00:00,000	HURLEY	I met a girl on a blind date the other night.
+374	00:00:00,000 --> 00:00:00,000	DESMOND	And you didn't... it didn't go how you hoped?
+376	00:00:00,000 --> 00:00:00,000	HURLEY	Mmm, she's totally awesome... except for one thing. She's crazy!
+378	00:00:00,000 --> 00:00:00,000	DESMOND	Well, all women are a little bit crazy, brother...
+380	00:00:00,000 --> 00:00:00,000	HURLEY	No, this one actually lives in the loony bin. I mean, I saw the van. She's full on nuts. I mean, she started sane... but then, she told me that we already knew each other. And that, I'd remember!
+382	00:00:00,000 --> 00:00:00,000	DESMOND	Tell me something...did you believe her when she said she knew you?
+384	00:00:00,000 --> 00:00:00,000	HURLEY	Yeah. Kinda...
+386	00:00:00,000 --> 00:00:00,000	DESMOND	Now, I say go with your gut. You know, maybe you should... you should try to find out where she thinks she knew you from before you give up on her.
+388	00:00:00,000 --> 00:00:00,000	CASHIER	42! Order 42!
+390	00:00:00,000 --> 00:00:00,000	DESMOND	Ah! That's me, brother. Well, uh... it was nice bumpin' into ya.
+392	00:00:00,000 --> 00:00:00,000		[On-Island - Locke approaches Desmond.]
+394	00:00:00,000 --> 00:00:00,000	LOCKE	Hello.
+396	00:00:00,000 --> 00:00:00,000	DESMOND	Hello.
+398	00:00:00,000 --> 00:00:00,000	LOCKE	I'm sorry Sayid tied you up but he was afraid you would run before we had a chance to talk.
+400	00:00:00,000 --> 00:00:00,000	DESMOND	I don't blame him. Although, as I explained to him before he left... I have nowhere to run to, brother.
+402	00:00:00,000 --> 00:00:00,000	LOCKE	Well, if that's not the best argument against captivity that I've ever heard, I don't know what is.
+404	00:00:00,000 --> 00:00:00,000		[Locke frees Desmond.]
+406	00:00:00,000 --> 00:00:00,000	LOCKE	Would you mind if I asked you a couple of questions, Desmond?
+408	00:00:00,000 --> 00:00:00,000	DESMOND	Not at all.
+410	00:00:00,000 --> 00:00:00,000	LOCKE	Why did Charles Widmore bring you back to the island?
+412	00:00:00,000 --> 00:00:00,000	DESMOND	Considering I was kidnapped, you'd have to ask him.
+414	00:00:00,000 --> 00:00:00,000		[Locke looks at Sayid.]
+416	00:00:00,000 --> 00:00:00,000	SAYID	They had him under armed guard.
+418	00:00:00,000 --> 00:00:00,000	DESMOND	He threw me into a wood shack and blasted me with a massive amount of electromagnetism.
+420	00:00:00,000 --> 00:00:00,000	LOCKE	If you don't mind my asking, Desmond... how could you be sure what it was that he blasted you with?
+422	00:00:00,000 --> 00:00:00,000	DESMOND	Experience.
+424	00:00:00,000 --> 00:00:00,000		[Locke is unsettled by Desmond's demeanor.]
+426	00:00:00,000 --> 00:00:00,000	LOCKE	Do you know who I am?
+428	00:00:00,000 --> 00:00:00,000	DESMOND	Of course. You're John Locke.
+430	00:00:00,000 --> 00:00:00,000		[Locke looks at Sayid.]
+432	00:00:00,000 --> 00:00:00,000	LOCKE	Head back to camp. I'll be back soon.
+434	00:00:00,000 --> 00:00:00,000	SAYID	Where are you going?
+436	00:00:00,000 --> 00:00:00,000	LOCKE	Desmond and I need to take a walk.
+438	00:00:00,000 --> 00:00:00,000		[Sayid leaves. Locke pulls Desmond to his feet.]
+440	00:00:00,000 --> 00:00:00,000	LOCKE	There's something I'd like to show you.
+442	00:00:00,000 --> 00:00:00,000		[Elsewhere on the Island, Richard, Miles, Frank, Ben, Jack and Sun are walking down a jungle path.]
+444	00:00:00,000 --> 00:00:00,000	BEN	Kinda makes you think, doesn't it?
+446	00:00:00,000 --> 00:00:00,000	JACK	What's that?
+448	00:00:00,000 --> 00:00:00,000	BEN	Ilana. There she was - handpicked by Jacob, trained to come and protect you candidates, no sooner does she tell you who you are, then she blows up. The Island was done with her. Makes me wonder what's gonna happen when it's done with us.
+450	00:00:00,000 --> 00:00:00,000		[They arrive at the Black Rock.]
+452	00:00:00,000 --> 00:00:00,000	RICHARD	All right everyone, this might take a few minutes. I don't want anyone but me handling that dynamite, so I'm gonna go it alone. Where's Hugo?
+454	00:00:00,000 --> 00:00:00,000	JACK	I thought he was up front with you
+456	00:00:00,000 --> 00:00:00,000	HURLEY [running and screaming]	Run! Run! Go! Go! Go! Go!
+458	00:00:00,000 --> 00:00:00,000		[The Black Rock explosion tumbles everyone to the ground. Hurley makes it to his feet.]
+460	00:00:00,000 --> 00:00:00,000	RICHARD	Why the hell did you do that?!
+462	00:00:00,000 --> 00:00:00,000	HURLEY	I'm protecting us.
+464	00:00:00,000 --> 00:00:00,000	RICHARD	What the hell were you thinking?!
+466	00:00:00,000 --> 00:00:00,000	JACK	Calm down.
+468	00:00:00,000 --> 00:00:00,000	RICHARD	Now what-what are we supposed to do now?
+470	00:00:00,000 --> 00:00:00,000	JACK	That's it. That's enough.
+472	00:00:00,000 --> 00:00:00,000	RICHARD	We're dead. We're all dead.
+474	00:00:00,000 --> 00:00:00,000		[Richard storms off.]
+476	00:00:00,000 --> 00:00:00,000	MILES	A warning might have been nice there, Hugo.
+478	00:00:00,000 --> 00:00:00,000	HURLEY	I did say "Run."
+480	00:00:00,000 --> 00:00:00,000	MILES	Why'd you do that?
+482	00:00:00,000 --> 00:00:00,000	HURLEY	Michael told me to.
+484	00:00:00,000 --> 00:00:00,000	MILES	Who?
+486	00:00:00,000 --> 00:00:00,000	HURLEY	Michael. He's one of the people who come back and yell at me after they die. He told me I had to stop everyone from blowing up the plane. So...no dynamite, no more blowing up.
+488	00:00:00,000 --> 00:00:00,000	MILES	That happen a lot? Dead people yelling at you?
+490	00:00:00,000 --> 00:00:00,000	HURLEY	It happens enough.
+492	00:00:00,000 --> 00:00:00,000	MILES	And you just listen to whatever they say?
+494	00:00:00,000 --> 00:00:00,000	HURLEY	Dead people are more reliable than alive people.
+496	00:00:00,000 --> 00:00:00,000		[Flash sideways - Large photo of tropical island on a wall.]
+498	00:00:00,000 --> 00:00:00,000	DR. BROOKS	How can I help you, Mr. Reyes?
+500	00:00:00,000 --> 00:00:00,000		[Dr. Brooks sits behind the desk of his office.]
+502	00:00:00,000 --> 00:00:00,000	HURLEY	Want to ask you about that girl the other day. Libby? I was wondering if maybe I could see her.
+504	00:00:00,000 --> 00:00:00,000	DR. BROOKS	I don't think that's a good idea. She's not well.
+506	00:00:00,000 --> 00:00:00,000	HURLEY	Clearly, she's well enough for, like, a fajita field trip.
+508	00:00:00,000 --> 00:00:00,000	DR. BROOKS	Well, that's my mistake. I misjudged her condition.
+510	00:00:00,000 --> 00:00:00,000	HURLEY	Her condition?
+512	00:00:00,000 --> 00:00:00,000	DR. BROOKS	She has issues with reality.
+514	00:00:00,000 --> 00:00:00,000	HURLEY	What do you mean?
+516	00:00:00,000 --> 00:00:00,000	DR. BROOKS	I just think it probably wouldn't be a good idea for you to see her right now. It'll only confuse her.
+518	00:00:00,000 --> 00:00:00,000	HURLEY	You said "probably", which means you might make an exception.
+520	00:00:00,000 --> 00:00:00,000	DR. BROOKS	Well, perhaps for family.
+522	00:00:00,000 --> 00:00:00,000	HURLEY	Or a generous donor?
+524	00:00:00,000 --> 00:00:00,000	DR. BROOKS	I'm sorry.
+526	00:00:00,000 --> 00:00:00,000	HURLEY [takes out a checkbook]	The rec room looked pretty gnarly on my way in. What do you think 100K might buy?
+528	00:00:00,000 --> 00:00:00,000		[In the rec room, Hugo watches a man play Connect Four. Other patients are moving about. Libby is escorted into the room. Libby and Hugo wave to each other. She sits down at his table.]
+530	00:00:00,000 --> 00:00:00,000	LIBBY	You remembered?
+532	00:00:00,000 --> 00:00:00,000	HURLEY	No. I'm sorry.
+534	00:00:00,000 --> 00:00:00,000	LIBBY	Then why are you here?
+536	00:00:00,000 --> 00:00:00,000	HURLEY	Where is it you think you know me from?
+538	00:00:00,000 --> 00:00:00,000	LIBBY	Um, I'm not sure. I...I know it won't make sense.
+540	00:00:00,000 --> 00:00:00,000	HURLEY	Try me.
+542	00:00:00,000 --> 00:00:00,000	LIBBY	A few days ago, I was watching TV, and one of your commercials came on. And the moment that I saw you, it was like I was hit over the hand. All these memories came washing back...of my life...only...it was...another life.
+544	00:00:00,000 --> 00:00:00,000	HURLEY	What kind of memories?
+546	00:00:00,000 --> 00:00:00,000	LIBBY	There was a plane crash...and uh...I was on an island.
+548	00:00:00,000 --> 00:00:00,000	HURLEY	And I was there?
+550	00:00:00,000 --> 00:00:00,000	LIBBY	Think so. We...knew each other. We...liked each other. And then when I got here, it was almost like I'd been here before. And for some reason, Hugo, I have a memory of you being here, too.
+552	00:00:00,000 --> 00:00:00,000	HURLEY	Um... This is the first time I've ever been in a mental hospital.
+554	00:00:00,000 --> 00:00:00,000	LIBBY	Yeah, I know. But I can't get you out of my brain. That's why the other night when I saw you, I had to talk to you, because if you remembered me...
+556	00:00:00,000 --> 00:00:00,000	HURLEY	I wish I could, Libby. But...I can't. I'm sorry.
+558	00:00:00,000 --> 00:00:00,000	LIBBY	It's okay. It's okay. I'm crazy.
+560	00:00:00,000 --> 00:00:00,000	HURLEY	Yeah, probably, but...we all got something, right? I mean, it takes a lot of guts to go up to a total stranger and tell them you know them from some bizarro alternate universe. I'm scared just saying "hi" to a girl.
+562	00:00:00,000 --> 00:00:00,000	LIBBY	You're doing fine.
+564	00:00:00,000 --> 00:00:00,000		[Hurley laughs.]
+566	00:00:00,000 --> 00:00:00,000	HURLEY	Hey, can you ever like, like...get outta here? On day pass or...
+568	00:00:00,000 --> 00:00:00,000	LIBBY	Yeah, I'm here voluntarily.
+570	00:00:00,000 --> 00:00:00,000	HURLEY	Well...would you like to do something?
+572	00:00:00,000 --> 00:00:00,000	LIBBY	You mean...a date?
+574	00:00:00,000 --> 00:00:00,000	HURLEY	Uh...yeah.
+576	00:00:00,000 --> 00:00:00,000	LIBBY	I'd love that.
+578	00:00:00,000 --> 00:00:00,000		[On-Island - Locke leading Desmond through the jungle.]
+580	00:00:00,000 --> 00:00:00,000	LOCKE	Remind me, Desmond - how long were you down in that hatch, pushing that button?
+582	00:00:00,000 --> 00:00:00,000	DESMOND	Three years.
+584	00:00:00,000 --> 00:00:00,000	LOCKE	And here you are, back for more. If I didn't know better, I'd say this island has it in for you.
+586	00:00:00,000 --> 00:00:00,000	DESMOND	Do you know better?
+588	00:00:00,000 --> 00:00:00,000	LOCKE	Excuse me?
+590	00:00:00,000 --> 00:00:00,000	DESMOND	Well, there's nothing special about me, brother. This island has it in for all of us.
+592	00:00:00,000 --> 00:00:00,000	LOCKE	Yes, it does.
+594	00:00:00,000 --> 00:00:00,000		[Locke looks upset at something behind Desmond in the jungle.]
+596	00:00:00,000 --> 00:00:00,000	DESMOND [turns his head]	What?
+598	00:00:00,000 --> 00:00:00,000		[A boy, with his hand on a tree, stares at them.]
+600	00:00:00,000 --> 00:00:00,000	DESMOND	Who's that?
+602	00:00:00,000 --> 00:00:00,000	LOCKE	Just ignore him.
+604	00:00:00,000 --> 00:00:00,000		[Locke walks away.]
+606	00:00:00,000 --> 00:00:00,000	DESMOND	Do you know that boy?
+608	00:00:00,000 --> 00:00:00,000	LOCKE	I said ignore him!
+610	00:00:00,000 --> 00:00:00,000		[The boy smiles broadly and departs.]
+612	00:00:00,000 --> 00:00:00,000		[Back at the exploded and burning "Black Rock".]
+614	00:00:00,000 --> 00:00:00,000	JACK	Where you going?
+616	00:00:00,000 --> 00:00:00,000	RICHARD	Ben, back at the DHARMA barracks - there's still grenades there? Explosives?
+618	00:00:00,000 --> 00:00:00,000	BEN	Yes, I think so.
+620	00:00:00,000 --> 00:00:00,000	RICHARD	Then that's where we're going.
+622	00:00:00,000 --> 00:00:00,000	JACK	Maybe we should talk about this a minute.
+624	00:00:00,000 --> 00:00:00,000	RICHARD	Talk? There's no time to talk, but if you know what we need to do, if you know how we stop that thing from leaving the Island without blowing that plane up, then let's hear it. Let's all hear it.
+626	00:00:00,000 --> 00:00:00,000	HURLEY	I know what we need to do.
+628	00:00:00,000 --> 00:00:00,000	RICHARD	Really? What's that?
+630	00:00:00,000 --> 00:00:00,000	HURLEY	We have to go talk to Locke.
+632	00:00:00,000 --> 00:00:00,000	BEN	Are you trying to get us killed?
+634	00:00:00,000 --> 00:00:00,000	HURLEY	It's not my idea. It's his. [He points to nothing] Jacob says we have to talk to Locke.
+636	00:00:00,000 --> 00:00:00,000	RICHARD	Jacob's here right now?
+638	00:00:00,000 --> 00:00:00,000	HURLEY	Yeah.
+640	00:00:00,000 --> 00:00:00,000	RICHARD	Ask him what the island is.
+642	00:00:00,000 --> 00:00:00,000	HURLEY	What?
+644	00:00:00,000 --> 00:00:00,000	RICHARD	A while back, Jacob told me what the Island was, and if he's really standing here right next to me, then just ask him.
+646	00:00:00,000 --> 00:00:00,000	HURLEY	I don't have to prove anything to you, Richard. You either come with me or you can keep trying to blow stuff up. Your call, dude.
+648	00:00:00,000 --> 00:00:00,000	RICHARD	He's lying. Jacob isn't telling us what to do. Because Jacob never tells us what to do. I'm going to make this simple. If that thing leaves the island, that's it. I-it's over.
+650	00:00:00,000 --> 00:00:00,000	MILES	What's over?
+652	00:00:00,000 --> 00:00:00,000	RICHARD	Everything. I'm destroying that plane and I can use all the help I can get. Who's coming with me?
+654	00:00:00,000 --> 00:00:00,000	BEN	I am.
+656	00:00:00,000 --> 00:00:00,000	MILES	I saw that thing in action, man. It doesn't want to talk. Sorry.
+658	00:00:00,000 --> 00:00:00,000	RICHARD	Anyone else?
+660	00:00:00,000 --> 00:00:00,000		[Lapidus shakes his head and Sun stays seated.]
+662	00:00:00,000 --> 00:00:00,000	JACK	Sorry, Richard. If Jacob says we go talk to Locke, we go talk to Locke. I'm going with Hugo.
+664	00:00:00,000 --> 00:00:00,000	HURLEY	Really?
+666	00:00:00,000 --> 00:00:00,000		[Jack nods his head.]
+668	00:00:00,000 --> 00:00:00,000	RICHARD	Don't get in our way.
+670	00:00:00,000 --> 00:00:00,000		[Richard leaves with Miles and Ben. Jack stands and approaches Hurley.]
+672	00:00:00,000 --> 00:00:00,000	JACK	All right, Hurley. Let's go talk to Locke.
+674	00:00:00,000 --> 00:00:00,000		[Hurley, Jack, Frank and Sun are walking through the jungle. Sun writes on notepad "Did we make a mistake?" and shows Frank.]
+676	00:00:00,000 --> 00:00:00,000	LAPIDUS	Probably.
+678	00:00:00,000 --> 00:00:00,000	HURLEY	So what do you think we should...say to Locke when we get there? I mean, how do you break the ice with a smoke monster?
+680	00:00:00,000 --> 00:00:00,000	JACK	I wouldn't worry about it. Something tells me he's going to do most of the talking.
+682	00:00:00,000 --> 00:00:00,000	HURLEY	Or he could just kill us all.
+684	00:00:00,000 --> 00:00:00,000	JACK	Yeah. He could.
+686	00:00:00,000 --> 00:00:00,000	HURLEY	I didn't see Jacob back there. I just said it because I wanted everyone to listen to me.
+688	00:00:00,000 --> 00:00:00,000	JACK	I know.
+690	00:00:00,000 --> 00:00:00,000	HURLEY	Then why'd you come with me?
+692	00:00:00,000 --> 00:00:00,000	JACK	Ever since Juliet died - ever since I got her killed - all I've wanted was to fix it. But I can't. I can't ever fix it. You've no idea how hard it is for me to sit back and listen to other people tell me what I should do...but I think maybe that's the point...maybe I'm supposed to let go.
+694	00:00:00,000 --> 00:00:00,000	HURLEY	Unless you letting go gets us killed. Going to see Locke was my idea, not Jacob's.
+696	00:00:00,000 --> 00:00:00,000	JACK	Hurley, you asked me to trust you. This is me trusting you.
+698	00:00:00,000 --> 00:00:00,000	HURLEY	It's a good thing you do, dude, because I have no idea where I'm going.
+700	00:00:00,000 --> 00:00:00,000		[The whispers are heard. Jack and Frank ready their guns.]
+702	00:00:00,000 --> 00:00:00,000	HURLEY	Wait. It's cool, I think I know what these things are.
+704	00:00:00,000 --> 00:00:00,000	LAPIDUS	Oh yeah? What the hell are they?
+706	00:00:00,000 --> 00:00:00,000	HURLEY	Wait here.
+708	00:00:00,000 --> 00:00:00,000		[Hurley goes a short distance into the jungle alone.]
+710	00:00:00,000 --> 00:00:00,000	HURLEY	Hey, you around? Michael?
+712	00:00:00,000 --> 00:00:00,000		[Michael steps out of the jungle.]
+714	00:00:00,000 --> 00:00:00,000	HURLEY	You're stuck on the Island aren't you?
+716	00:00:00,000 --> 00:00:00,000	MICHAEL	[nodding] 'Cause of what I did.
+718	00:00:00,000 --> 00:00:00,000	HURLEY	And...there're others out here like you, aren't there? That's what the whispers are?
+720	00:00:00,000 --> 00:00:00,000	MICHAEL	Yeah. We're the ones who can't move on.
+722	00:00:00,000 --> 00:00:00,000	HURLEY	Do you know where Locke is?
+724	00:00:00,000 --> 00:00:00,000		[Michael points to a light some distance away.]
+726	00:00:00,000 --> 00:00:00,000	MICHAEL	There.
+728	00:00:00,000 --> 00:00:00,000	HURLEY	Thanks. Is...is there anything I can do to...help you?
+730	00:00:00,000 --> 00:00:00,000	MICHAEL	Don't get yourself killed.
+732	00:00:00,000 --> 00:00:00,000	HURLEY	Okay.
+734	00:00:00,000 --> 00:00:00,000	MICHAEL	And Hurley, if you ever do see Libby again, tell her I'm very sorry.
+736	00:00:00,000 --> 00:00:00,000	HURLEY	I'll be sure and do that, dude.
+738	00:00:00,000 --> 00:00:00,000		[Flash sideways - Hurley and Libby are setting up a picnic on a beach.]
+740	00:00:00,000 --> 00:00:00,000	HURLEY	I got like, six different kinds of cheeses. I don't even know what they are, but the lady at the store said they were good, so...figured you'd like cheese because...everybody likes cheese.
+742	00:00:00,000 --> 00:00:00,000		[Libby stares out to sea.]
+744	00:00:00,000 --> 00:00:00,000	HURLEY	Something wrong?
+746	00:00:00,000 --> 00:00:00,000	LIBBY	No, not wrong, just...off.
+748	00:00:00,000 --> 00:00:00,000	HURLEY	Have you been here before?
+750	00:00:00,000 --> 00:00:00,000	LIBBY	No. It's just being here with you...feels so familiar. It's like a date we never had. Wow I sound completely insane, don't I?
+752	00:00:00,000 --> 00:00:00,000	HURLEY	No...not completely.
+754	00:00:00,000 --> 00:00:00,000	LIBBY	Why do you even want to be with me?
+756	00:00:00,000 --> 00:00:00,000	HURLEY	Why do you want to be with me?
+758	00:00:00,000 --> 00:00:00,000	LIBBY	What?
+760	00:00:00,000 --> 00:00:00,000	HURLEY	C'mon. Look at me.
+762	00:00:00,000 --> 00:00:00,000	LIBBY	I wanna be with you because I like you.
+764	00:00:00,000 --> 00:00:00,000	HURLEY	Yeah but, you like me because...well...you're...delusional.
+766	00:00:00,000 --> 00:00:00,000		[They kiss. Hurley sees flashes of them kissing in on the Island.]
+768	00:00:00,000 --> 00:00:00,000	LIBBY	What? What's wrong?
+770	00:00:00,000 --> 00:00:00,000	HURLEY	Whoa, dude.
+772	00:00:00,000 --> 00:00:00,000	LIBBY	What?
+774	00:00:00,000 --> 00:00:00,000	HURLEY	I...I think I'm remembering stuff.
+776	00:00:00,000 --> 00:00:00,000	LIBBY	You are? You mean I'm not crazy?
+778	00:00:00,000 --> 00:00:00,000	HURLEY	No, I don't think you are.
+780	00:00:00,000 --> 00:00:00,000		[We see Desmond has been watching them from his parked car. He drives away.]
+782	00:00:00,000 --> 00:00:00,000		[On-Island - Locke leads Desmond through the jungle to an old stone well.]
+784	00:00:00,000 --> 00:00:00,000	LOCKE	We're here.
+786	00:00:00,000 --> 00:00:00,000	DESMOND	What is it?
+788	00:00:00,000 --> 00:00:00,000	LOCKE	It's a well.
+790	00:00:00,000 --> 00:00:00,000		[Desmond approaches the well and looks down.]
+792	00:00:00,000 --> 00:00:00,000	LOCKE	Let me guess. You're wondering how deep it is?
+794	00:00:00,000 --> 00:00:00,000	DESMOND	You read my mind.
+796	00:00:00,000 --> 00:00:00,000		[Locke drops a torch down the well, it falls some distance and lands with a splash.]
+798	00:00:00,000 --> 00:00:00,000	LOCKE	You have any idea how old this well is, Desmond?
+800	00:00:00,000 --> 00:00:00,000	DESMOND	Very old?
+802	00:00:00,000 --> 00:00:00,000	LOCKE	That's exactly right, very old. So old in fact, that the people who dug this well did it completely by hand. God knows how long it took 'em.
+804	00:00:00,000 --> 00:00:00,000	DESMOND	That seems like a lot of work just to get some water.
+806	00:00:00,000 --> 00:00:00,000	LOCKE	Oh, they weren't looking for water. They were looking for answers. A long time ago places like the one we're standing at right now made compass needles spin. And the people holding the compasses needed to know why, so they dug.
+808	00:00:00,000 --> 00:00:00,000	DESMOND	Did they find what they were looking for?
+810	00:00:00,000 --> 00:00:00,000	LOCKE	No, they didn't. The reason I wanted you to see this, Desmond, is because Charles Widmore is not interested in answers, he's only interested in power. And he brought you back to the Island so that you could help him find what he's looking for. After all, this isn't the only well.
+812	00:00:00,000 --> 00:00:00,000	DESMOND	And that's the reason you wanted me to see this?
+814	00:00:00,000 --> 00:00:00,000	LOCKE	Why aren't you afraid?
+816	00:00:00,000 --> 00:00:00,000	DESMOND	Excuse me?
+818	00:00:00,000 --> 00:00:00,000	LOCKE	You're out here, middle of the jungle, with me, not a person on earth even knows you're here. Why aren't you afraid?
+820	00:00:00,000 --> 00:00:00,000	DESMOND	What is the point in being afraid?
+822	00:00:00,000 --> 00:00:00,000		[Locke pushes Desmond into the well.]
+824	00:00:00,000 --> 00:00:00,000	DESMOND	Aah!
+826	00:00:00,000 --> 00:00:00,000		[Locke returns to his camp.]
+828	00:00:00,000 --> 00:00:00,000	SAYID	How's our friend?
+830	00:00:00,000 --> 00:00:00,000	LOCKE	You don't have to worry about him any more.
+832	00:00:00,000 --> 00:00:00,000		[Sayid walks off and Sawyer approaches.]
+834	00:00:00,000 --> 00:00:00,000	SAWYER	Where you been?
+836	00:00:00,000 --> 00:00:00,000	LOCKE	I went for a walk, James.
+838	00:00:00,000 --> 00:00:00,000	SAWYER	Well, now that you've stretched your legs, maybe you can--
+840	00:00:00,000 --> 00:00:00,000		[Hurley arrives.]
+842	00:00:00,000 --> 00:00:00,000	SAWYER	Son of a bitch.
+844	00:00:00,000 --> 00:00:00,000	HURLEY	Ummm...hey.
+846	00:00:00,000 --> 00:00:00,000	LOCKE	Hello, Hugo.
+848	00:00:00,000 --> 00:00:00,000	HURLEY	I don't know who you are, dude, or what you want, but we have to talk to you.
+850	00:00:00,000 --> 00:00:00,000	LOCKE	We?
+852	00:00:00,000 --> 00:00:00,000	HURLEY	There are other people with me. The thing is...you got weapons and we got weapons, and I don't want anyone to get hurt...or killed. So, we're not gonna do anything. I want your word that you're not gonna do anything either.
+854	00:00:00,000 --> 00:00:00,000		[Locke hands Hurley his knife.]
+856	00:00:00,000 --> 00:00:00,000	LOCKE	You have my word.
+858	00:00:00,000 --> 00:00:00,000	HURLEY	Okay guys, come on out.
+860	00:00:00,000 --> 00:00:00,000		[Frank, Sun and Jack arrive. Sun looks around for Jin, but does not see him.]
+862	00:00:00,000 --> 00:00:00,000	LOCKE	Hello, Jack.
+864	00:00:00,000 --> 00:00:00,000		[Jack notices Locke and the two share a long moment of eye contact.]
+866	00:00:00,000 --> 00:00:00,000		[Flash sideways - Locke is crossing the road in his wheelchair, Desmond waits in his parked car. Ben knocks on the car window.]
+868	00:00:00,000 --> 00:00:00,000	BEN	Hello there. You wating for someone in particular?
+870	00:00:00,000 --> 00:00:00,000	DESMOND	Excuse me?
+872	00:00:00,000 --> 00:00:00,000	BEN	Well, I noticed you've been parked here a while watching the kids, and well, it is a school. Do you have a child who goes here?
+874	00:00:00,000 --> 00:00:00,000	DESMOND	No. No. I was um, uh, I just moved to the neighborhood, and um, and, uh, I'm looking for a school for my son.
+876	00:00:00,000 --> 00:00:00,000	BEN	What's your son's name?
+878	00:00:00,000 --> 00:00:00,000	DESMOND	Charlie.
+880	00:00:00,000 --> 00:00:00,000	BEN	Well, as a teacher here I can vouch for it completely. It's a wonderful school.
+882	00:00:00,000 --> 00:00:00,000	DESMOND	That's great to hear, thanks. Well, it was nice talking to you.
+884	00:00:00,000 --> 00:00:00,000	BEN	Have a good day.
+886	00:00:00,000 --> 00:00:00,000		[Desmond starts his car and accelerates into Locke, who bounces over roof and onto the road. Ben rushes towards Locke.]
+888	00:00:00,000 --> 00:00:00,000	BEN	Call 911, do it now! Mr. Locke? Oh, my God. Don't, don't move. We're gonna get you to the hospital. Mr. Locke? Mr. Locke? Can you hear me?

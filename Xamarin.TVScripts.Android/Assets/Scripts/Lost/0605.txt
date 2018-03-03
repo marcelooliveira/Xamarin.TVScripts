@@ -1,0 +1,377 @@
+Sundown
+2	00:00:00,000 --> 00:00:00,000	Written by	Paul Zbyszewski & Graham Roland
+4	00:00:00,000 --> 00:00:00,000	Directed by	Bobby Roth
+6	00:00:00,000 --> 00:00:00,000		[Flash sideways - Sayid sits in the back of a parked taxi cab.]
+8	00:00:00,000 --> 00:00:00,000	CABBIE	The meter doesn't stop until you get out, pal.
+10	00:00:00,000 --> 00:00:00,000		[Sayid passes him some money.]
+12	00:00:00,000 --> 00:00:00,000	SAYID	Keep the change.
+14	00:00:00,000 --> 00:00:00,000		[Sayid exits the cab with some flowers. He approaches a house and rings the doorbell, Nadia answers.]
+16	00:00:00,000 --> 00:00:00,000	NADIA	Sayid.
+18	00:00:00,000 --> 00:00:00,000		[He kisses her on the cheek, they hug.]
+20	00:00:00,000 --> 00:00:00,000	SAYID	Hello, Nadia.
+22	00:00:00,000 --> 00:00:00,000		[Two children run into the foyer.]
+24	00:00:00,000 --> 00:00:00,000	EVA	You're here!
+26	00:00:00,000 --> 00:00:00,000	SAM	Where were you, Uncle Sayid?
+28	00:00:00,000 --> 00:00:00,000		[Eva hugs Sayid.]
+30	00:00:00,000 --> 00:00:00,000	SAYID	I was in Sydney.
+32	00:00:00,000 --> 00:00:00,000	EVA	Where's Sydney?
+34	00:00:00,000 --> 00:00:00,000	OMER	In Australia.
+36	00:00:00,000 --> 00:00:00,000		[Sayid's brother, Omer, enters the foyer.]
+38	00:00:00,000 --> 00:00:00,000	OMER	You bring flowers for my wife?
+40	00:00:00,000 --> 00:00:00,000		[Sayid glances awkwardly at Nadia, then back at his brother.]
+42	00:00:00,000 --> 00:00:00,000	SAYID	I'll give them to you if you want.
+44	00:00:00,000 --> 00:00:00,000		[Omer laughs and embraces his brother.]
+46	00:00:00,000 --> 00:00:00,000	OMER	It's good to see you, Sayid.
+48	00:00:00,000 --> 00:00:00,000	SAYID	Good to see you too, brother.
+50	00:00:00,000 --> 00:00:00,000	OMER	Come.
+52	00:00:00,000 --> 00:00:00,000		[Omer leads his children further into the house, moments later they sit around a table.]
+54	00:00:00,000 --> 00:00:00,000	EVA	Uncle Sayid, what did you bring us from Australia?
+56	00:00:00,000 --> 00:00:00,000	SAYID	Go look in my bag. It's on the couch.
+58	00:00:00,000 --> 00:00:00,000		[Nadia laughs as the children run from the room.]
+60	00:00:00,000 --> 00:00:00,000	NADIA	It's good you came, Sayid. They've missed you.
+62	00:00:00,000 --> 00:00:00,000	OMER	We're lucky he even showed up! The world traveler off on his exotic business trips...
+64	00:00:00,000 --> 00:00:00,000	SAYID	Translating contracts for an oil company is hardly exotic. And it's painfully dull.
+66	00:00:00,000 --> 00:00:00,000	OMER	There's, uh... little adventure in the world of dry cleaning.
+68	00:00:00,000 --> 00:00:00,000	NADIA	He's being modest. Omer's just opened up a new store.
+70	00:00:00,000 --> 00:00:00,000	SAYID	Congratulations.
+72	00:00:00,000 --> 00:00:00,000		[Omer's cell phone rings.]
+74	00:00:00,000 --> 00:00:00,000	NADIA	I thought we talked about cell phones at the dinner table...
+76	00:00:00,000 --> 00:00:00,000		[Omer's eyes widen as he sees who the call is from.]
+78	00:00:00,000 --> 00:00:00,000	OMER	Dinner is over. This is business.
+80	00:00:00,000 --> 00:00:00,000		[He answers his phone.]
+82	00:00:00,000 --> 00:00:00,000	OMER	Yes?
+84	00:00:00,000 --> 00:00:00,000		[He leaves the room.]
+86	00:00:00,000 --> 00:00:00,000	NADIA	Did you get my letters?
+88	00:00:00,000 --> 00:00:00,000	SAYID	Yes.
+90	00:00:00,000 --> 00:00:00,000	NADIA	You never wrote back.
+92	00:00:00,000 --> 00:00:00,000		[The children return carrying boomerangs.]
+94	00:00:00,000 --> 00:00:00,000	SAM	These are awesome! Thanks!
+96	00:00:00,000 --> 00:00:00,000	SAYID	You're welcome.
+98	00:00:00,000 --> 00:00:00,000	EVA	Mommy, we found a picture of you in Uncle Sayid's bag.
+100	00:00:00,000 --> 00:00:00,000		Eva hands the picture to Nadia, Omer watches from outside the room.
+102	00:00:00,000 --> 00:00:00,000		[On-Island - Sayid marches through the temple, he enters Dogen's study.]
+104	00:00:00,000 --> 00:00:00,000	SAYID	I want to talk to you. I want some answers.
+106	00:00:00,000 --> 00:00:00,000	DOGEN	Answers to what?
+108	00:00:00,000 --> 00:00:00,000	SAYID	Let's start with that machine. You hooked me up to this thing, you stuck needles in me, and you called it a test.
+110	00:00:00,000 --> 00:00:00,000	DOGEN	For every man there is a scale. On one side of the scale there is good. On the other side, evil. This machine tells us how the scale is balanced. And yours tipped the wrong way.
+112	00:00:00,000 --> 00:00:00,000	SAYID	And that's why you tried to poison me?
+114	00:00:00,000 --> 00:00:00,000	DOGEN	Yes. I think it would be best if you were dead.
+116	00:00:00,000 --> 00:00:00,000	SAYID	You think you know me, but you don't. I'm a good man. So if you're trying to kill me…
+118	00:00:00,000 --> 00:00:00,000		[Dogen suddenly trips Sayid, they engage in a lengthy fight that culminates with Dogen holding a knife to Sayid's throat. Dogen sees that the baseball was knocked off his desk during the struggle.]
+120	00:00:00,000 --> 00:00:00,000	DOGEN	Go. Leave this place. Never come back.
+122	00:00:00,000 --> 00:00:00,000		[He releases Sayid and picks up the baseball.]
+124	00:00:00,000 --> 00:00:00,000		[Claire stands with Locke outside the ring of ash that encircles the Temple.]
+126	00:00:00,000 --> 00:00:00,000	LOCKE	Are you ready?
+128	00:00:00,000 --> 00:00:00,000	CLAIRE	Why does it have to be me? I mean, you could send Sawyer or Jin or... do it yourself...
+130	00:00:00,000 --> 00:00:00,000	LOCKE	If I could do it myself I wouldn't be asking you, Claire.
+132	00:00:00,000 --> 00:00:00,000	CLAIRE	If I go in there, I need to know you'll do what you said. I want my son back.
+134	00:00:00,000 --> 00:00:00,000	LOCKE	I always do what I say.
+136	00:00:00,000 --> 00:00:00,000	CLAIRE	Are you gonna hurt them?
+138	00:00:00,000 --> 00:00:00,000	LOCKE	Only the ones who won't listen.
+140	00:00:00,000 --> 00:00:00,000		[Claire heads towards the Temple.]
+142	00:00:00,000 --> 00:00:00,000		[Flash sideways - Sayid sleeps on a couch, he reacts instinctively when someone reaches out to wake him.]
+144	00:00:00,000 --> 00:00:00,000	OMER	It's me! Calm down!
+146	00:00:00,000 --> 00:00:00,000	SAYID	What are you doing? It's two-thirty in the morning!
+148	00:00:00,000 --> 00:00:00,000	OMER	Sayid...I'm in trouble.
+150	00:00:00,000 --> 00:00:00,000	SAYID	What kind of trouble?
+152	00:00:00,000 --> 00:00:00,000	OMER	I borrowed money to open the second store. But...I didn't borrow it from a bank. I paid the loan back, but the man who lent me this money, he says I still owe him interest every month. For as long as I own my business.
+154	00:00:00,000 --> 00:00:00,000	SAYID	If you need money I'll lend it to you.
+156	00:00:00,000 --> 00:00:00,000	OMER	I don't need money, Sayid! I need you to convince these people to leave me alone.
+158	00:00:00,000 --> 00:00:00,000	SAYID	Convince them?
+160	00:00:00,000 --> 00:00:00,000	OMER	Sayid, don't forget who you're talking to. I know what you did in the war. You were an interrogator for the Republican Guard. I know what kind of man you are.
+162	00:00:00,000 --> 00:00:00,000	SAYID	If you think I'm going to hurt someone just because you made a bad business decision…
+164	00:00:00,000 --> 00:00:00,000	OMER	No, this is not about me! Our life savings... it's all gone, Sayid... all of it! We could lose our home! Please! Look... I know you care about Nadia. If you care about us... about her... you will do this, Sayid.
+166	00:00:00,000 --> 00:00:00,000	SAYID	I'm sorry. I'm not that man anymore.
+168	00:00:00,000 --> 00:00:00,000		[On-Island - Sayid walks through the Temple grounds and grabs a backpack.]
+170	00:00:00,000 --> 00:00:00,000	MILES	What are you doing?
+172	00:00:00,000 --> 00:00:00,000	SAYID	I'm leaving. I've been banished.
+174	00:00:00,000 --> 00:00:00,000	MILES	Banished? For what?
+176	00:00:00,000 --> 00:00:00,000	SAYID	Apparently I'm evil. These people say I'm better off dead. Which is surprising, considering they were the ones who saved my life.
+178	00:00:00,000 --> 00:00:00,000	MILES	Well, actually, they're not. They...they tried to save you, but...you were dead man. For two hours. Trust me when…when you sat up they were just as surprised as the rest of us. So whatever brought you back, it wasn't them.
+180	00:00:00,000 --> 00:00:00,000		[Claire enters the Temple, her hands above her head…the others aim guns at her.]
+182	00:00:00,000 --> 00:00:00,000	RANDOM-OTHER	Hold it...
+184	00:00:00,000 --> 00:00:00,000	LENNON	Stop! Don't shoot her. What are you doing here?
+186	00:00:00,000 --> 00:00:00,000		[Dogen approaches Claire, who addresses him.]
+188	00:00:00,000 --> 00:00:00,000	CLAIRE	He wants to see you.
+190	00:00:00,000 --> 00:00:00,000	DOGEN	Nanno kotodaka wakaran[Ã¤Â½â€¢Ã£ÂÂ®Ã¤Âºâ€¹Ã£Ââ€¹Ã£â€šÂÃ£Ââ€¹Ã£â€šâ€°Ã£â€šâ€œ-¢What's talking about?]
+192	00:00:00,000 --> 00:00:00,000	CLAIRE	Speak English.
+194	00:00:00,000 --> 00:00:00,000	DOGEN	Who wants to see me?
+196	00:00:00,000 --> 00:00:00,000	CLAIRE	You know who.
+198	00:00:00,000 --> 00:00:00,000	DOGEN	If he wants to see me, then tell him to come in.
+200	00:00:00,000 --> 00:00:00,000	CLAIRE	No, he wants you to go to him. He's waiting outside beyond the outer wall.
+202	00:00:00,000 --> 00:00:00,000	DOGEN	I'm not a fool. If I step outside this temple, he'll kill me.
+204	00:00:00,000 --> 00:00:00,000	CLAIRE	Well, then maybe you should send someone he won't kill.
+206	00:00:00,000 --> 00:00:00,000		[Claire turns to leave.]
+208	00:00:00,000 --> 00:00:00,000	DOGEN	Stop her!
+210	00:00:00,000 --> 00:00:00,000		[Others grab Claire.]
+212	00:00:00,000 --> 00:00:00,000	DOGEN	Kono kettyaku ga tsukumade onna wo anagura ni hourikonde oke. [Ã£Ââ€œÃ£ÂÂ®Ã¦Â±ÂºÃ§Ââ‚¬Ã£ÂÅ’Ã§Ââ‚¬Ã£ÂÂÃ£ÂÂ¾Ã£ÂÂ§Ã¥Â¥Â³Ã£â€šâ€™Ã§Â©Â´Ã¥â‚¬â€°Ã£ÂÂ¸Ã¦â€Â¾Ã£â€šÅ Ã¨Â¾Â¼Ã£â€šâ€œÃ£ÂÂ§Ã£ÂÅ Ã£Ââ€˜Ã£â‚¬â€š-¢Put the girl in the hole until this is resolved.] Soshite suguni Shephard to Reyes wo heyani tsurete koi. [Ã£ÂÂÃ£Ââ€”Ã£ÂÂ¦Ã£Ââ„¢Ã£ÂÂÃ£ÂÂ«Ã£â€šÂ·Ã£â€šÂ§Ã£Æ’â€˜Ã£Æ’Â¼Ã£Æ’â€°Ã£ÂÂ¨Ã£Æ’Â¬Ã£â€šÂ¤Ã£â€šÂ¨Ã£â€šÂ¹Ã£â€šâ€™Ã©Æ’Â¨Ã¥Â±â€¹Ã£ÂÂ«Ã©â‚¬Â£Ã£â€šÅ’Ã£ÂÂ¦Ã£Ââ€œÃ£Ââ€ž-¢Then bring Shephard and Reyes to my room immediately.]
+214	00:00:00,000 --> 00:00:00,000	LENNON	Uh, that's gonna be a little difficult. We can't find them.
+216	00:00:00,000 --> 00:00:00,000	DOGEN	Shikkari sagase! [Ã£Ââ€”Ã£ÂÂ£Ã£Ââ€¹Ã£â€šÅ Ã¦Å½Â¢Ã£Ââ€ºÃ¯Â¼Â-¢Look. Harder!]
+218	00:00:00,000 --> 00:00:00,000		[Lennon addresses others holding Claire.]
+220	00:00:00,000 --> 00:00:00,000	LENNON	Come on!
+222	00:00:00,000 --> 00:00:00,000		[The Others leave with Claire. Dogen addresses Sayid.]
+224	00:00:00,000 --> 00:00:00,000	DOGEN	Come with me.
+226	00:00:00,000 --> 00:00:00,000	SAYID	I thought you wanted me to leave.
+228	00:00:00,000 --> 00:00:00,000	DOGEN	Things have changed.
+230	00:00:00,000 --> 00:00:00,000		[Dogen enters his room, followed by Sayid.]
+232	00:00:00,000 --> 00:00:00,000	DOGEN	Your friends, Shephard and Reyes. Do you know where they went?
+234	00:00:00,000 --> 00:00:00,000	SAYID	No I don't.
+236	00:00:00,000 --> 00:00:00,000		[Dogen takes out a wooden box.]
+238	00:00:00,000 --> 00:00:00,000	SAYID	Why is Claire here? And what was she talking about?
+240	00:00:00,000 --> 00:00:00,000	DOGEN	She's a confused girl, under the influence of an angry man.
+242	00:00:00,000 --> 00:00:00,000	SAYID	What man?
+244	00:00:00,000 --> 00:00:00,000	DOGEN	For years, he has been trapped, but now Jacob is gone, he's free. This man will not stop until he has destroyed every living thing on this island. He is evil incarnate.
+246	00:00:00,000 --> 00:00:00,000	SAYID	And you want me to speak to him?
+248	00:00:00,000 --> 00:00:00,000	DOGEN	No. I want you to kill him. He will come to you as someone you know, someone who has died. As soon as you see him...
+250	00:00:00,000 --> 00:00:00,000		[Dogen unsheathes a dagger.]
+252	00:00:00,000 --> 00:00:00,000	DOGEN	...plunge this deep into his chest. If you allow him to speak, it is already too late.
+254	00:00:00,000 --> 00:00:00,000	SAYID	Since I've been here, I've been drowned, beaten, and tortured...at your hands. Why would I ever do anything for you?
+256	00:00:00,000 --> 00:00:00,000	DOGEN	You said that there is still good in your soul...
+258	00:00:00,000 --> 00:00:00,000		[Dogen hands Sayid the dagger.]
+260	00:00:00,000 --> 00:00:00,000	DOGEN	...then prove it.
+262	00:00:00,000 --> 00:00:00,000		[Flash sideways - Sayid is walking Nadia's kids to the school bus.]
+264	00:00:00,000 --> 00:00:00,000	SAM	How long are you staying Uncle Sayid?
+266	00:00:00,000 --> 00:00:00,000	SAYID	Just a few more days. I have to go to Toronto, to work.
+268	00:00:00,000 --> 00:00:00,000	SAM	We like it when you're here.
+270	00:00:00,000 --> 00:00:00,000	EVA	Yeah, and mommy likes it too.
+272	00:00:00,000 --> 00:00:00,000	SAYID	Ok, be good.
+274	00:00:00,000 --> 00:00:00,000		[Kids get on bus, as it leaves Nadia exits her house looking concerned.]
+276	00:00:00,000 --> 00:00:00,000	NADIA	Sayid!
+278	00:00:00,000 --> 00:00:00,000		[Nadia and Sayid are walking through a hospital, past Jack flipping through a chart...a gurney comes into view.]
+280	00:00:00,000 --> 00:00:00,000	NADIA	Omer! What happened, is he going to be alright?!
+282	00:00:00,000 --> 00:00:00,000	DOCTOR	Taking him into surgery now, he suffered a punctured lung and some internal bleeding.
+284	00:00:00,000 --> 00:00:00,000	SAYID	Do you know how this happened?
+286	00:00:00,000 --> 00:00:00,000	DOCTOR	EMTs think he was mugged. I'll come get you as soon as he's stable.
+288	00:00:00,000 --> 00:00:00,000	NADIA	Sayid! Where are you going?
+290	00:00:00,000 --> 00:00:00,000	SAYID	Stay here with Omer.
+292	00:00:00,000 --> 00:00:00,000	NADIA	This wasn't a mugging, was it? Whatever you're thinking of doing, don't do it. I don't want you to, please. Just, go home? Wait for the kids. Make them feel safe Sayid. Will you do that?
+294	00:00:00,000 --> 00:00:00,000		On-Island - Sayid is trekking through the jungle and hears a voice approaching him.]
+296	00:00:00,000 --> 00:00:00,000	KATE	Hello? Sayid?
+298	00:00:00,000 --> 00:00:00,000	SAYID	Hello Kate.
+300	00:00:00,000 --> 00:00:00,000	KATE	Are you leaving?
+302	00:00:00,000 --> 00:00:00,000	SAYID	I'm not exactly sure.
+304	00:00:00,000 --> 00:00:00,000	KATE	What'd I miss?
+306	00:00:00,000 --> 00:00:00,000	SAYID	Ask Miles.
+308	00:00:00,000 --> 00:00:00,000		[Sayid leaves, leaving Kate looking confused.]
+310	00:00:00,000 --> 00:00:00,000		[Kate then goes to the temple and the door is opened for her.]
+312	00:00:00,000 --> 00:00:00,000	KATE	Thank you.
+314	00:00:00,000 --> 00:00:00,000		[Kate approaches Miles.]
+316	00:00:00,000 --> 00:00:00,000	MILES	Wow.
+318	00:00:00,000 --> 00:00:00,000	KATE	It's good to see you too Miles.
+320	00:00:00,000 --> 00:00:00,000	MILES	Sawyer sent you packing huh? I thought about going after him too. But, um, I knew he'd just end up berating me until I turned around and came back. That pretty much what happened?
+322	00:00:00,000 --> 00:00:00,000	KATE	Pretty much.
+324	00:00:00,000 --> 00:00:00,000	MILES	Well, welcome back to the circus.
+326	00:00:00,000 --> 00:00:00,000	KATE	What's going on in here?
+328	00:00:00,000 --> 00:00:00,000	MILES	Well, let's see, oh...that Australian chick's back.
+330	00:00:00,000 --> 00:00:00,000	KATE	Wait, what?
+332	00:00:00,000 --> 00:00:00,000	MILES	You know the...the blonde? One that had the baby?
+334	00:00:00,000 --> 00:00:00,000	KATE	Claire?
+336	00:00:00,000 --> 00:00:00,000	MILES	Right. Claire. She just strolled in here a couple hours ago, acting all weird. Still hot though.
+338	00:00:00,000 --> 00:00:00,000	KATE	Miles, where is she?
+340	00:00:00,000 --> 00:00:00,000		[Miles shakes his head.]
+342	00:00:00,000 --> 00:00:00,000	KATE	Where is she!?
+344	00:00:00,000 --> 00:00:00,000		[In the jungle, Sayid stops to drink some water. He hears the black smoke surround him, he quickly draws the dagger. Locke approaches Sayid.]
+346	00:00:00,000 --> 00:00:00,000	LOCKE	Hello Sayid.
+348	00:00:00,000 --> 00:00:00,000		[Sayid stabs Locke in the chest, hard. Locke, unharmed, takes the dagger out with a grunt, to Sayid's surprise.]
+350	00:00:00,000 --> 00:00:00,000	LOCKE	Now why'd you go and do that?
+352	00:00:00,000 --> 00:00:00,000		[Locke approaches Sayid with the bloodless dagger in his hand, he turns the handle toward Sayid.]
+354	00:00:00,000 --> 00:00:00,000	LOCKE	You want it back? Take it, I won't bite.
+356	00:00:00,000 --> 00:00:00,000		[Sayid takes the dagger.]
+358	00:00:00,000 --> 00:00:00,000	SAYID	What are you?
+360	00:00:00,000 --> 00:00:00,000	LOCKE	Well Sayid you seem to have some idea about that considering that you stabbed me in the chest without even saying hello. What'd they tell you?
+362	00:00:00,000 --> 00:00:00,000	SAYID	They said that you were evil incarnate.
+364	00:00:00,000 --> 00:00:00,000	LOCKE	Feel sorry for you.
+366	00:00:00,000 --> 00:00:00,000	SAYID	Why?
+368	00:00:00,000 --> 00:00:00,000	LOCKE	Dogen...the man who sent you out here, knew that you had no chance of killing me, and he believed that I would kill you if you tried. And this wasn't the first time that he tried to get someone else to do it for him was it?
+370	00:00:00,000 --> 00:00:00,000	SAYID	No.
+372	00:00:00,000 --> 00:00:00,000	LOCKE	Then shame on you, for being talked into it so easily.
+374	00:00:00,000 --> 00:00:00,000	SAYID	And what is it you are trying to talk me into?
+376	00:00:00,000 --> 00:00:00,000	LOCKE	Sorry?
+378	00:00:00,000 --> 00:00:00,000	SAYID	You haven't killed me, clearly there's something you want.
+380	00:00:00,000 --> 00:00:00,000	LOCKE	I just want you to deliver a message, that's all.
+382	00:00:00,000 --> 00:00:00,000	SAYID	Then why didn't you just have Claire deliver it?
+384	00:00:00,000 --> 00:00:00,000	LOCKE	Because it would mean a lot more coming from you. Sayid, if you'll do this for me... what if I told you that you could have anything you wanted. What if I said you can have anything in the entire world?
+386	00:00:00,000 --> 00:00:00,000	SAYID	I would tell you that the only thing I ever wanted, died in my arms, and I'll never see it again.
+388	00:00:00,000 --> 00:00:00,000	LOCKE	What if you could?
+390	00:00:00,000 --> 00:00:00,000		[Locke smiles, and Sayid begins to almost smile.]
+392	00:00:00,000 --> 00:00:00,000		[Flash sideways - Sayid is repairing a broken vase, Nadia walks in.]
+394	00:00:00,000 --> 00:00:00,000	SAYID	Ah, we had an unfortunate incident, involving a boomerang. My apologies.
+396	00:00:00,000 --> 00:00:00,000	NADIA	What time did the kids go to bed?
+398	00:00:00,000 --> 00:00:00,000	SAYID	About two hours ago.
+400	00:00:00,000 --> 00:00:00,000	NADIA	And what did you tell them?
+402	00:00:00,000 --> 00:00:00,000	SAYID	That daddy had an accident, but that he's going to be fine.
+404	00:00:00,000 --> 00:00:00,000	NADIA	He is still recovering from surgery but, he's awake now. Did he tell you about the loan?
+406	00:00:00,000 --> 00:00:00,000	SAYID	Look, I have money.
+408	00:00:00,000 --> 00:00:00,000	NADIA	No, this is Omer's responsibility, he brought this on himself.
+410	00:00:00,000 --> 00:00:00,000		[Sayid nods.]
+412	00:00:00,000 --> 00:00:00,000	NADIA	Why didn't you want to be with me? You carry my picture around with you, Sayid. If you care about me, why did you push me toward your brother?
+414	00:00:00,000 --> 00:00:00,000		[Nadia takes Sayid's hands.]
+416	00:00:00,000 --> 00:00:00,000	SAYID	For the last twelve years I've been trying to wash my hands of all the horrible things I've done. I can't be with you, because I don't deserve you.
+418	00:00:00,000 --> 00:00:00,000		[On-Island - Sayid walks toward the Temple, passing Dogen.]
+420	00:00:00,000 --> 00:00:00,000	DOGEN	What happened?
+422	00:00:00,000 --> 00:00:00,000		[Sayid approaches a group of Temple dwellers.]
+424	00:00:00,000 --> 00:00:00,000	SAYID	There is a man in the jungle... about a mile south of us by the outer wall. He sent me back here to give you a message. He wants you to know that Jacob is dead. And because he's gone, none of you have to stay here anymore. You're free.
+426	00:00:00,000 --> 00:00:00,000		[Cindy holds Zack and Emma as she listens curiously.]
+428	00:00:00,000 --> 00:00:00,000	SAYID	The man that I met is leaving the island forever. And those of you who want to go with him, should leave the temple and join him. You have until sundown to decide.
+430	00:00:00,000 --> 00:00:00,000	CINDY	What happens at sundown if we stay?
+432	00:00:00,000 --> 00:00:00,000	SAYID	You die.
+434	00:00:00,000 --> 00:00:00,000		[Kate walks through the temple, Lennon spots her.]
+436	00:00:00,000 --> 00:00:00,000	LENNON	Hey! When did you get back? Are Ford and Kwon with you?
+438	00:00:00,000 --> 00:00:00,000	KATE	Where is Claire?
+440	00:00:00,000 --> 00:00:00,000	LENNON	Okay, I need you to tell me what I need to know before I...
+442	00:00:00,000 --> 00:00:00,000		[Kate pins Lennon against the wall.]
+444	00:00:00,000 --> 00:00:00,000	KATE	I said where is Claire?
+446	00:00:00,000 --> 00:00:00,000	LENNON	Alright... you just let go of me, okay?
+448	00:00:00,000 --> 00:00:00,000		[Kate releases Lennon.]
+450	00:00:00,000 --> 00:00:00,000		[He leads her to a room with two guards and a hole. Claire can be heard singing "Catch a Falling Star" from inside the hole.]
+452	00:00:00,000 --> 00:00:00,000	LENNON	You have two minutes.
+454	00:00:00,000 --> 00:00:00,000		[Kate peers into the hole, Claire continues singing.]
+456	00:00:00,000 --> 00:00:00,000	KATE	Claire?
+458	00:00:00,000 --> 00:00:00,000		[Claire stops singing and looks up.]
+460	00:00:00,000 --> 00:00:00,000	KATE	Claire, it's me.
+462	00:00:00,000 --> 00:00:00,000	CLAIRE	Kate?
+464	00:00:00,000 --> 00:00:00,000	KATE	Are you okay?
+466	00:00:00,000 --> 00:00:00,000	CLAIRE	I... I can't believe you're here. Did they capture you too?
+468	00:00:00,000 --> 00:00:00,000	KATE	No. No, they...why did they put you down here? What happened?
+470	00:00:00,000 --> 00:00:00,000	CLAIRE	They have my son, Kate. They have Aaron. They took him from me.
+472	00:00:00,000 --> 00:00:00,000	KATE	No. No, Claire. They don't have Aaron. I took him.
+474	00:00:00,000 --> 00:00:00,000	CLAIRE	What?
+476	00:00:00,000 --> 00:00:00,000	KATE	I took him off the island. You were gone and we couldn't find you so... I raised him. And he is the most beautiful, amazing little boy. But I came back here to rescue you so that you could be with him. So that you guys could be together again.
+478	00:00:00,000 --> 00:00:00,000	CLAIRE	I'm not the one that needs to be rescued, Kate.
+480	00:00:00,000 --> 00:00:00,000		[Claire smiles eerily, Kate looks down at her in confusion.]
+482	00:00:00,000 --> 00:00:00,000	LENNON	Time's up, let's go.
+484	00:00:00,000 --> 00:00:00,000		[A guard pulls Kate away from the hole.]
+486	00:00:00,000 --> 00:00:00,000	KATE	No! No, wait! No! Wait, wait!
+488	00:00:00,000 --> 00:00:00,000	LENNON	You wanted to see her, so let's go!
+490	00:00:00,000 --> 00:00:00,000		[They leave the room, Claire calls after them.]
+492	00:00:00,000 --> 00:00:00,000	CLAIRE	He's coming, Kate! He's coming and they can't stop him!
+494	00:00:00,000 --> 00:00:00,000		[Sayid walks through the courtyard as the Temple dwellers scurry in all directions.]
+496	00:00:00,000 --> 00:00:00,000	LENNON	Everybody calm down! It's gonna be okay! No, no! Wait! Hang on!
+498	00:00:00,000 --> 00:00:00,000		[Lennon sees Sayid.]
+500	00:00:00,000 --> 00:00:00,000	LENNON	Hey! Hey, you created a panic here! Our people are leaving!
+502	00:00:00,000 --> 00:00:00,000	SAYID	I was asked to deliver a message. And that's what I did. What your people do now is up to them.
+504	00:00:00,000 --> 00:00:00,000		[Lennon sees Cindy heading towards the exit.]
+506	00:00:00,000 --> 00:00:00,000	LENNON	Cindy, wait. You're all safe here. As long as we stay in the Temple, he can't touch us.
+508	00:00:00,000 --> 00:00:00,000	CINDY	You heard him. Jacob's dead. And if it isn't safe here anymore, we can't take that risk.
+510	00:00:00,000 --> 00:00:00,000		[Cindy moves for the exit along with many others.]
+512	00:00:00,000 --> 00:00:00,000	LENNON	Everyone listen! This is a bluff! He can't come in! He can't come in!
+514	00:00:00,000 --> 00:00:00,000		[Miles approaches Sayid.]
+516	00:00:00,000 --> 00:00:00,000	MILES	Hey, what happened out there? One minute you're banished, the next you're telling everyone they're gonna die...
+518	00:00:00,000 --> 00:00:00,000	SAYID	That's the sum of it.
+520	00:00:00,000 --> 00:00:00,000	MILES	So... are we getting out of here or what?
+522	00:00:00,000 --> 00:00:00,000	SAYID	Not yet.
+524	00:00:00,000 --> 00:00:00,000		[He removes the dagger from his bag.]
+526	00:00:00,000 --> 00:00:00,000	SAYID	I have to return this.
+528	00:00:00,000 --> 00:00:00,000		[Flash sideways - Sayid walks along the sidewalk. A truck stops nearby, Omar gets out.]
+530	00:00:00,000 --> 00:00:00,000	OMAR	Going to pick up the kids?
+532	00:00:00,000 --> 00:00:00,000	SAYID	Excuse me?
+534	00:00:00,000 --> 00:00:00,000		[Another man gets out of the car.]
+536	00:00:00,000 --> 00:00:00,000	OMAR	Why don't you get in the car?
+538	00:00:00,000 --> 00:00:00,000		[Sayid does not reply.]
+540	00:00:00,000 --> 00:00:00,000	OMAR	Get in, Sayid.
+542	00:00:00,000 --> 00:00:00,000		[Sayid does not move, Omar speaks to him in Arabic.]
+544	00:00:00,000 --> 00:00:00,000	OMAR	Unless you want us to pick up the kids together?
+546	00:00:00,000 --> 00:00:00,000		[Sayid reluctantly gets in the car.]
+548	00:00:00,000 --> 00:00:00,000		[Later, he is led through a restaurant kitchen.]
+550	00:00:00,000 --> 00:00:00,000	OMAR	Why don't you have a seat?
+552	00:00:00,000 --> 00:00:00,000		[Sayid sits in the chair indicated, Keamy cooks nearby.]
+554	00:00:00,000 --> 00:00:00,000	KEAMY	Hey, you want some eggs? I can, uh... make whatever you want. Fried, scrambled, uh...
+556	00:00:00,000 --> 00:00:00,000		[Keamy turns to one of his henchman.]
+558	00:00:00,000 --> 00:00:00,000	KEAMY	We still got that poacher? Where's the poacher?
+560	00:00:00,000 --> 00:00:00,000		[Keamy turns back to Sayid.]
+562	00:00:00,000 --> 00:00:00,000	KEAMY	Want poached? 'Cause I can make you some good poached eggs.
+564	00:00:00,000 --> 00:00:00,000	SAYID	No. Thank you.
+566	00:00:00,000 --> 00:00:00,000	KEAMY	I make good eggs... no? Alright.
+568	00:00:00,000 --> 00:00:00,000		[Keamy makes himself a plate of eggs and approaches Sayid.]
+570	00:00:00,000 --> 00:00:00,000	KEAMY	Martin Keamy.
+572	00:00:00,000 --> 00:00:00,000	SAYID	Sayid Jarrah. But you already know that.
+574	00:00:00,000 --> 00:00:00,000		[They shake hands.]
+576	00:00:00,000 --> 00:00:00,000	KEAMY	Ah, that I do. Yeah. Alright...
+578	00:00:00,000 --> 00:00:00,000		Keamy sits down across from Sayid.
+580	00:00:00,000 --> 00:00:00,000	KEAMY	So, Sayid... how's your brother doin'?
+582	00:00:00,000 --> 00:00:00,000		[Sayid does not reply, Keamy turns to one of his henchmen.]
+584	00:00:00,000 --> 00:00:00,000	KEAMY	His brother got mugged right out front of his own store. It's just... terrible. But at least this way, you know, he's still around to take care of his family. You do want to take care of his family, don't you?
+586	00:00:00,000 --> 00:00:00,000		[Sayid nods.]
+588	00:00:00,000 --> 00:00:00,000	KEAMY	Yes? You know, I can see that you're a very direct guy Sayid, so I'm just gonna get to the point. Your brother, he borrowed money from me. And just like anybody who borrows money or has a loan to pay, he has to make payments.
+590	00:00:00,000 --> 00:00:00,000	SAYID	My brother told me he's paid you everything he owes. And that you still want more.
+592	00:00:00,000 --> 00:00:00,000	KEAMY	Sayid, that's a lie. Your brother does owe me, and somebody is gonna pay me that money.
+594	00:00:00,000 --> 00:00:00,000	SAYID	Did you put my brother in the hospital?
+596	00:00:00,000 --> 00:00:00,000	KEAMY	What, you think it was me? I didn't do that. You know, it's a dangerous world, Sayid. And you know that because you're from Iraq. You never know when somebody's just gonna sneak up…
+598	00:00:00,000 --> 00:00:00,000		[Sayid suddenly attacks Omar, Keamy's other henchman fires at Sayid but shoots Omar. Sayid steals Omar's gun and shoots the remaining henchman.]
+600	00:00:00,000 --> 00:00:00,000	KEAMY	Whoa, whoa, whoa, whoa, whoa... alright... okay. Just relax now.
+602	00:00:00,000 --> 00:00:00,000	SAYID	Shut up!
+604	00:00:00,000 --> 00:00:00,000	KEAMY	Okay, fine. Fine. Okay? It's done. Alright? Your brother doesn't owe me anything. The debt's forgiven. Alright?
+606	00:00:00,000 --> 00:00:00,000		[Sayid does not reply.]
+608	00:00:00,000 --> 00:00:00,000	KEAMY	Good? Okay? Just relax and... forget about it.
+610	00:00:00,000 --> 00:00:00,000	SAYID	I can't.
+612	00:00:00,000 --> 00:00:00,000		[Sayid shoots Keamy. Banging is heard coming from a large freezer, Sayid finds a beaten Jin tied up inside. Sayid removes the tape from Jin's mouth and Jin speaks in Korean.]
+614	00:00:00,000 --> 00:00:00,000	SAYID	Who are you?
+616	00:00:00,000 --> 00:00:00,000	JIN	No English!
+618	00:00:00,000 --> 00:00:00,000		[On-Island - Dogen sits by the spring in the Temple, holding the baseball. Sayid enters carrying the dagger.]
+620	00:00:00,000 --> 00:00:00,000	DOGEN	You let him talk to you...
+622	00:00:00,000 --> 00:00:00,000	SAYID	I stabbed him in the chest like you told me to. Then I let him talk to me.
+624	00:00:00,000 --> 00:00:00,000		[Sayid drops the dagger.]
+626	00:00:00,000 --> 00:00:00,000	SAYID	That's twice you've tried to have someone else kill me. You had the opportunity to do it yourself. Why didn't you?
+628	00:00:00,000 --> 00:00:00,000	DOGEN	I was a business man once. In Osaka. I worked at a bank. I was good at my job. Very successful. And one Friday, I was promoted. My associates took me out to celebrate. I had too much to drink. Every Friday I picked my son up from baseball. He was twelve. The accident was very bad. I survived. But my son...
+630	00:00:00,000 --> 00:00:00,000		[Dogen pauses.]
+632	00:00:00,000 --> 00:00:00,000	DOGEN	And then, in the hospital, a man came to me. A man I had never met. And he told me that he could save my son's life, but I would have to come here... to this island... where I would have a new job. And I could never see my boy again.
+634	00:00:00,000 --> 00:00:00,000		[Sayid sits next to Dogen.]
+636	00:00:00,000 --> 00:00:00,000	SAYID	Who was this man?
+638	00:00:00,000 --> 00:00:00,000	DOGEN	His name was Jacob.
+640	00:00:00,000 --> 00:00:00,000	SAYID	Jacob drives a hard bargain.
+642	00:00:00,000 --> 00:00:00,000	DOGEN	The man outside... I take it he offered you a similar bargain?
+644	00:00:00,000 --> 00:00:00,000	SAYID	Yes.
+646	00:00:00,000 --> 00:00:00,000	DOGEN	It is sundown. Will you choose to stay or go?
+648	00:00:00,000 --> 00:00:00,000	SAYID	I'd like to stay.
+650	00:00:00,000 --> 00:00:00,000		[Sayid tackles Dogen into the spring and drowns him. Lennon enters.]
+652	00:00:00,000 --> 00:00:00,000	LENNON	Oh my God... what have you done?
+654	00:00:00,000 --> 00:00:00,000		[Lennon wades into the spring and examines Dogen's body.]
+656	00:00:00,000 --> 00:00:00,000	LENNON	Do you realize what you just did? He was the only thing keeping it out! Idiot! You just let it in!
+658	00:00:00,000 --> 00:00:00,000		[The monster howls in the background. Sayid picks up the dagger and slits Lennon's throat. Lennon falls into the spring.]
+660	00:00:00,000 --> 00:00:00,000	SAYID	I know.
+662	00:00:00,000 --> 00:00:00,000		[The smoke monster arrives in the courtyard.]
+664	00:00:00,000 --> 00:00:00,000	KATE	We gotta go now.
+666	00:00:00,000 --> 00:00:00,000		[The smoke monster begins attacking the Temple dwellers.]
+668	00:00:00,000 --> 00:00:00,000	KATE	Run! Run! Run!
+670	00:00:00,000 --> 00:00:00,000	MILES	This way!
+672	00:00:00,000 --> 00:00:00,000		[They enter the Temple as the smoke monster continues to slaughter the Temple dwellers.]
+674	00:00:00,000 --> 00:00:00,000	MILES	This way! This way!
+676	00:00:00,000 --> 00:00:00,000	KATE	I have to go get Claire!
+678	00:00:00,000 --> 00:00:00,000		[The split up, Miles attempts to hold a door shut but it is forced open.]
+680	00:00:00,000 --> 00:00:00,000	ILANA	Where are Shephard and Reyes? And Ford?
+682	00:00:00,000 --> 00:00:00,000	MILES	Who the hell are you?
+684	00:00:00,000 --> 00:00:00,000	ILANA	Just answer the question!
+686	00:00:00,000 --> 00:00:00,000	MILES	They're gone, everyone's gone. I'm the only one left. Kate and I got separated.
+688	00:00:00,000 --> 00:00:00,000		[Frank, Sun, and Ben enter the room.]
+690	00:00:00,000 --> 00:00:00,000	MILES	Lapidus? How did you...
+692	00:00:00,000 --> 00:00:00,000	LAPIDUS	We'll play catch up later. You wanna live, you better move your ass!
+694	00:00:00,000 --> 00:00:00,000	ILANA	What about Jarrah? Is he here?
+696	00:00:00,000 --> 00:00:00,000	MILES	Yeah, he was headed to the pool room.
+698	00:00:00,000 --> 00:00:00,000	BEN	I'll go get him.
+700	00:00:00,000 --> 00:00:00,000		[Ben darts out of the room.]
+702	00:00:00,000 --> 00:00:00,000	ILANA	Linus, wait! Alright... the rest of you with me, come on!
+704	00:00:00,000 --> 00:00:00,000		[Kate runs to the hole where Claire is being held and kicks a ladder down.]
+706	00:00:00,000 --> 00:00:00,000	KATE	Claire, come on! Claire, we gotta go, you gotta get out of there!
+708	00:00:00,000 --> 00:00:00,000	CLAIRE	No.
+710	00:00:00,000 --> 00:00:00,000	KATE	What?
+712	00:00:00,000 --> 00:00:00,000	CLAIRE	We'll be much safer here.
+714	00:00:00,000 --> 00:00:00,000		[The smoke monster barges into the room, Kate leaps into the hole as it passes overhead.]
+716	00:00:00,000 --> 00:00:00,000		[Ben arrives at the spring and find Sayid holding the bloody dagger, watching over the corpses of Dogen and Lennon.]
+718	00:00:00,000 --> 00:00:00,000	BEN	Sayid? Come on. I know a way out of here. There's still time.
+720	00:00:00,000 --> 00:00:00,000		[Sayid smiles darkly.]
+722	00:00:00,000 --> 00:00:00,000	SAYID	Not for me.
+724	00:00:00,000 --> 00:00:00,000		[Ben fearfully runs from the room.]
+726	00:00:00,000 --> 00:00:00,000		[Frank, Miles, and Sun follow Ilana through the Temple.]
+728	00:00:00,000 --> 00:00:00,000	MILES	Where's your husband?
+730	00:00:00,000 --> 00:00:00,000	SUN	What?
+732	00:00:00,000 --> 00:00:00,000	MILES	Your husband. He took off yesterday.
+734	00:00:00,000 --> 00:00:00,000	SUN	Jin was here? He's alive?
+736	00:00:00,000 --> 00:00:00,000	MILES	Last I saw of him, yeah.
+738	00:00:00,000 --> 00:00:00,000		[Frank watches as Ilana examines hieroglyphics on the wall. The smoke monster howls nearby.]
+740	00:00:00,000 --> 00:00:00,000	LAPIDUS	You do hear that, right? You got a plan or are you gonna keep staring at the wall?
+742	00:00:00,000 --> 00:00:00,000		[Ilana presses a specific brick and it sinks into the wall.]
+744	00:00:00,000 --> 00:00:00,000	ILANA	Yes, I have a plan.
+746	00:00:00,000 --> 00:00:00,000		[A passageway opens.]
+748	00:00:00,000 --> 00:00:00,000	ILANA	Everybody inside, now.
+750	00:00:00,000 --> 00:00:00,000		[The smoke monster rushes past just as they escape.]
+752	00:00:00,000 --> 00:00:00,000		[Kate, Claire, and Sayid walk through the courtyard, which is littered with mangled corpses. Outside, they meet up with Locke, who has assembled a small group of Temple dwellers. They follow him into the darkness of the jungle.]

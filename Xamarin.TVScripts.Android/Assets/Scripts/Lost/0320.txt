@@ -1,0 +1,384 @@
+The Man Behind the Curtain
+2	00:00:00,000 --> 00:00:00,000	Written by	Elizabeth Sarnoff & Drew Goddard
+4	00:00:00,000 --> 00:00:00,000	Directed by	Bobby Roth
+6	00:00:00,000 --> 00:00:00,000		[Flashback - In the middle of a wooded area, a woman screams]
+8	00:00:00,000 --> 00:00:00,000	MAN	Come on! Dammit, push!
+10	00:00:00,000 --> 00:00:00,000	WOMAN	[Screams again] Something's wrong! I can't...oh...
+12	00:00:00,000 --> 00:00:00,000	MAN	Emily! You can do this! Now push, come on! Come on, baby. You can do it, now come on.
+14	00:00:00,000 --> 00:00:00,000		[Emily pushes, clenching her teeth and screaming.]
+16	00:00:00,000 --> 00:00:00,000	MAN	Come on, there you go. Come on.
+18	00:00:00,000 --> 00:00:00,000		[Emily screams as she pushes still. The sound of a baby's cries can then be heard.]
+20	00:00:00,000 --> 00:00:00,000	MAN	It's a boy! You did it.
+22	00:00:00,000 --> 00:00:00,000	EMILY	It hurts.
+24	00:00:00,000 --> 00:00:00,000		[The man wraps the baby in his jacket and gives him to Emily]
+26	00:00:00,000 --> 00:00:00,000	MAN	Oh...
+28	00:00:00,000 --> 00:00:00,000	EMILY	Roger, it hurts.
+30	00:00:00,000 --> 00:00:00,000		[Roger looks down; his hand is covered in Emily's blood.]
+32	00:00:00,000 --> 00:00:00,000	ROGER	Emily, no one knows we're out here. We gotta get back, okay, honey? Can you hold onto the baby? Emily! Can you hold the baby? Hold him tight.
+34	00:00:00,000 --> 00:00:00,000		[Roger picks up Emily and carries her through the trees. They make it out to a clearing, a road. Cars drive by and a sign lists Portland as 32 miles away.]
+36	00:00:00,000 --> 00:00:00,000	ROGER	Help. Help! Help!
+38	00:00:00,000 --> 00:00:00,000		[A red car stops with a man and woman inside.]
+40	00:00:00,000 --> 00:00:00,000	ROGER	Oh my God, help me.
+42	00:00:00,000 --> 00:00:00,000	MALE DRIVER	Hey, what happened, man?
+44	00:00:00,000 --> 00:00:00,000	ROGER	We were hiking. She went into labor and she wasn't due yet. She's bleeding.
+46	00:00:00,000 --> 00:00:00,000	MALE DRIVER	Okay, okay, look, we'll put her in the car, okay. Let me get you to the hospital.
+48	00:00:00,000 --> 00:00:00,000		[Emily screams and Roger puts her down.]
+50	00:00:00,000 --> 00:00:00,000	ROGER	Oh, okay, okay, honey.
+52	00:00:00,000 --> 00:00:00,000	MALE DRIVER	Okay, it's all right. Let's keep her warm, all right? How's the baby?
+54	00:00:00,000 --> 00:00:00,000	ROGER	Fine, I guess-I don't know.
+56	00:00:00,000 --> 00:00:00,000	EMILY	Roger? Roger.
+58	00:00:00,000 --> 00:00:00,000	ROGER	I'm right here.
+60	00:00:00,000 --> 00:00:00,000	EMILY	Call him Benjamin.
+62	00:00:00,000 --> 00:00:00,000		[Emily passes out.]
+64	00:00:00,000 --> 00:00:00,000	ROGER	Stay with me. Stay with me. Emily! Emily! Emily! Oh God, no!
+66	00:00:00,000 --> 00:00:00,000		[Present - Ben looks at a doll in his tent. The previous scene was obviously a flashback. As Ben sits, Richard enters.]
+68	00:00:00,000 --> 00:00:00,000	RICHARD	What you got there?
+70	00:00:00,000 --> 00:00:00,000	BEN	It's a birthday present. Mine just happens to be today. You do remember birthdays, don't you Richard?
+72	00:00:00,000 --> 00:00:00,000	RICHARD	So do you want me to bring the tape back to Juliet?
+74	00:00:00,000 --> 00:00:00,000	BEN	[Puts down the doll] What?
+76	00:00:00,000 --> 00:00:00,000	RICHARD	The tape with your instructions for Juliet, do you want me to bring it back to the medical station?
+78	00:00:00,000 --> 00:00:00,000	BEN	[Slightly irate] I recorded it yesterday, before we left. I thought you already took it!
+80	00:00:00,000 --> 00:00:00,000	RICHARD	No.
+82	00:00:00,000 --> 00:00:00,000		[Ben gets up quickly and heads out of the tent.]
+84	00:00:00,000 --> 00:00:00,000	BEN	Where's Tom? Tom! Have you seen my recorder?
+86	00:00:00,000 --> 00:00:00,000		[Tom's gaze is fixed farther away, and Ben looks to see what he's staring at. He sees Locke, carrying a body on his back, approaching him.]
+88	00:00:00,000 --> 00:00:00,000	LOCKE	You said that if I killed my father, you'd tell me everything I wanted to know about the Island.
+90	00:00:00,000 --> 00:00:00,000		[He dumps the body bag at Ben's feet.]
+92	00:00:00,000 --> 00:00:00,000	LOCKE	So why don't you start at the beginning?
+94	00:00:00,000 --> 00:00:00,000		[Inside Ben's tent, Locke and Ben discuss matters over a glass of alcohol.]
+96	00:00:00,000 --> 00:00:00,000	BEN	I know I promised to tell you everything, John, and I wish it was as simple as me taking out a dusty old book and opening it up.
+98	00:00:00,000 --> 00:00:00,000		[He offers Locke a glass, but is met with a blank face. He places the glass next to him instead.]
+100	00:00:00,000 --> 00:00:00,000	BEN	But it's not that simple.
+102	00:00:00,000 --> 00:00:00,000	LOCKE	How about you just tell me?
+104	00:00:00,000 --> 00:00:00,000	BEN	You probably think I'm the leader of this little community, but that's not entirely true. We all answer to someone, John.
+106	00:00:00,000 --> 00:00:00,000	LOCKE	And whom might that be?
+108	00:00:00,000 --> 00:00:00,000	BEN	His name is Jacob.
+110	00:00:00,000 --> 00:00:00,000	LOCKE	Okay, then. Take me to Jacob.
+112	00:00:00,000 --> 00:00:00,000	BEN	I can't do that.
+114	00:00:00,000 --> 00:00:00,000		[John gets up and heads to leave.]
+116	00:00:00,000 --> 00:00:00,000	BEN	Where are you going?
+118	00:00:00,000 --> 00:00:00,000	LOCKE	Hell, Ben, if you don't wanna take me, maybe someone else will. I'll just go and ask Richard...
+120	00:00:00,000 --> 00:00:00,000	BEN	Why would Richard take you? He doesn't know where Jacob is. He doesn't talk to Jacob...
+122	00:00:00,000 --> 00:00:00,000	LOCKE	Well, who talks to him?
+124	00:00:00,000 --> 00:00:00,000	BEN	I do.
+126	00:00:00,000 --> 00:00:00,000	LOCKE	So you're the only one who talks to him?
+128	00:00:00,000 --> 00:00:00,000	BEN	That's right!
+130	00:00:00,000 --> 00:00:00,000	LOCKE	And no one else knows where he is?
+132	00:00:00,000 --> 00:00:00,000	BEN	I was born here on this Island. I'm one of the last that was. Most of these people you see-I brought them here. So Jacob talks to me, John. He tells me what to do, trusts me.
+134	00:00:00,000 --> 00:00:00,000	LOCKE	And no one else has ever seen him?
+136	00:00:00,000 --> 00:00:00,000	BEN	That's right.
+138	00:00:00,000 --> 00:00:00,000	LOCKE	How convenient. You know what I think, Ben? I think there is no Jacob. I think your people are idiots if they believe you take orders from someone else. You are the man behind the curtain, the Wizard of Oz. And you're a liar.
+140	00:00:00,000 --> 00:00:00,000	BEN	And what might you base that theory on, John?
+142	00:00:00,000 --> 00:00:00,000	LOCKE	Because if you were telling the truth, your hand wouldn't be shaking.
+144	00:00:00,000 --> 00:00:00,000		[Ben steadies the glass in his hand, which is shaking.]
+146	00:00:00,000 --> 00:00:00,000		[Flashback - A young Ben walks down a jetty from the submarine with his father and a number of other people. Roger looks at an array of DHARMA boxes, vans, a boat, while Ben sees a sign saying "Namaste! The Dharma Initiative".]
+148	00:00:00,000 --> 00:00:00,000	WOMAN	Namaste!
+150	00:00:00,000 --> 00:00:00,000		[She puts a floral necklace over Roger.]
+152	00:00:00,000 --> 00:00:00,000	ROGER	Thanks.
+154	00:00:00,000 --> 00:00:00,000	WOMAN	Namaste!
+156	00:00:00,000 --> 00:00:00,000		[She puts another necklace over Ben. A man greets Roger. It's the same man who stopped his car when Ben was a baby.]
+158	00:00:00,000 --> 00:00:00,000	MALE DRIVER	Hey, welcome to the Island, man! Namaste.
+160	00:00:00,000 --> 00:00:00,000	ROGER	Namaste, yeah!
+162	00:00:00,000 --> 00:00:00,000	MALE DRIVER	So, what do ya think?
+164	00:00:00,000 --> 00:00:00,000	ROGER	Wow, this is...some place. Thanks again for the opportunity, Mr. Goodspeed.
+166	00:00:00,000 --> 00:00:00,000	MR. GOODSPEED	Horace! Please.
+168	00:00:00,000 --> 00:00:00,000	ROGER	Horace.
+170	00:00:00,000 --> 00:00:00,000	HORACE	And this must be Ben.
+172	00:00:00,000 --> 00:00:00,000	ROGER	Yeah. [To Ben] Mr. Goodspeed was there the day you were born.
+174	00:00:00,000 --> 00:00:00,000	HORACE	Yes, I was.
+176	00:00:00,000 --> 00:00:00,000	ROGER	He's doing us a big favor here. Gave your old man a job. [To Horace] Ah, he don't say much.
+178	00:00:00,000 --> 00:00:00,000	HORACE	That's okay. I bet he will when he has something to say. Right, Ben? Hey, you hungry kiddo? Huh, huh? Great. Well, I'll tell you what. After you're done processing, we'll have some lunch. How's that sound?
+180	00:00:00,000 --> 00:00:00,000	ROGER	Yeah, thank you.
+182	00:00:00,000 --> 00:00:00,000	HORACE	You're gonna love it here.
+184	00:00:00,000 --> 00:00:00,000		[Inside a room, a group of people are being inducted. A television shows a video of Marvin Candle.]
+186	00:00:00,000 --> 00:00:00,000	MARVIN	Welcome to the Island. For your own comfort and safety, we ask that you stay within the confines of your new living quarters. Our Barracks are surrounded by a high frequency sonar fence, to protect us from the Island's abundant and diverse wildlife. You are now a member of the DHARMA Initiative...[inaudible]
+188	00:00:00,000 --> 00:00:00,000	ROGER	[To other viewers] What kind of wildlife you think this fence is protecting us from?
+190	00:00:00,000 --> 00:00:00,000	MAN	Roger Linus? Roger Linus?
+192	00:00:00,000 --> 00:00:00,000	ROGER	Yeah.
+194	00:00:00,000 --> 00:00:00,000		[Roger heads to register as the video continues.]
+196	00:00:00,000 --> 00:00:00,000	MARVIN	...Every morning you will be given a new code which will allow you to cross outside the fences if you so desire... there are properties on this Island that exist nowhere else on Earth. Our mission is to study these properties for the betterment of mankind and advancement of world peace. Most of you will be working on the mainland. Should you be assigned zoological studies, the Pala Ferry will carry you to and from the Hydra 3 times a day...
+198	00:00:00,000 --> 00:00:00,000		[Ben looks around at staff giving injections to some individuals. A young girl approaches him.]
+200	00:00:00,000 --> 00:00:00,000	GIRL	Hey. You're new, huh?
+202	00:00:00,000 --> 00:00:00,000		[Ben nods.]
+204	00:00:00,000 --> 00:00:00,000	GIRL	I'm Annie. Want one?
+206	00:00:00,000 --> 00:00:00,000		[She shows him an Apollo bar. Ben takes it.]
+208	00:00:00,000 --> 00:00:00,000	ANNIE	We can have as many as we want.
+210	00:00:00,000 --> 00:00:00,000		[Ben then overhears Roger talking to a female member of staff. Her uniform reveals her name as "Opal".]
+212	00:00:00,000 --> 00:00:00,000	ROGER	Work man? What is this? Work man? I'm a janitor?!
+214	00:00:00,000 --> 00:00:00,000	OPAL	I'm sorry, Mr. Linus.
+216	00:00:00,000 --> 00:00:00,000	ROGER	Goodspeed told me you people were doing experiments, changing the world. I didn't come here to clean up after ya!
+218	00:00:00,000 --> 00:00:00,000	OPAL	Look, if anything else opens up, you can feel free to apply for it.
+220	00:00:00,000 --> 00:00:00,000		[Roger walks away in a huff.]
+222	00:00:00,000 --> 00:00:00,000	ROGER	[To Ben] Come on.
+224	00:00:00,000 --> 00:00:00,000		[Present - At the beach, Sawyer hides in the trees watching the camp.]
+226	00:00:00,000 --> 00:00:00,000	CHARLIE	[Holding Aaron] I think he'll grow out of it.
+228	00:00:00,000 --> 00:00:00,000	CLAIRE	You don't think it's too big?
+230	00:00:00,000 --> 00:00:00,000		[Further away, he sees Hurley and Desmond.]
+232	00:00:00,000 --> 00:00:00,000	HURLEY	Dude, you know what I'm saying? It can't be worse than haggis.
+234	00:00:00,000 --> 00:00:00,000	DESMOND	Oh I dunno, I could murder some haggis right now.
+236	00:00:00,000 --> 00:00:00,000		[Sawyer sees Sayid walk nearby.]
+238	00:00:00,000 --> 00:00:00,000	SAWYER	Hey! Sayid!
+240	00:00:00,000 --> 00:00:00,000	SAYID	What happened to you?
+242	00:00:00,000 --> 00:00:00,000	SAWYER	I was with Locke.
+244	00:00:00,000 --> 00:00:00,000	SAYID	Well, where is he?
+246	00:00:00,000 --> 00:00:00,000	SAWYER	He went back.
+248	00:00:00,000 --> 00:00:00,000	SAYID	Back where?
+250	00:00:00,000 --> 00:00:00,000	SAWYER	With them. Don't ask me where the hell it is, 'cause it don't matter right now. What does matter [shows him the tape recorder], is this.
+252	00:00:00,000 --> 00:00:00,000		[Out in the jungle, a man runs. Mikhail sprints into the Others camp.]
+254	00:00:00,000 --> 00:00:00,000	MIKHAIL	Where is Ben?! Where is he?!
+256	00:00:00,000 --> 00:00:00,000		[Ben steps out of his tent.]
+258	00:00:00,000 --> 00:00:00,000	BEN	I thought you were dead.
+260	00:00:00,000 --> 00:00:00,000	MIKHAIL	I'm fortunate the pylons were not set to a lethal level.
+262	00:00:00,000 --> 00:00:00,000		[Locke exits the tent, too.]
+264	00:00:00,000 --> 00:00:00,000	MIKHAIL	What is he doing here?
+266	00:00:00,000 --> 00:00:00,000	BEN	It's all right.
+268	00:00:00,000 --> 00:00:00,000	MIKHAIL	He's the one who tried to kill me!
+270	00:00:00,000 --> 00:00:00,000	BEN	He's with us now. Where have you been, Mikhail?
+272	00:00:00,000 --> 00:00:00,000	MIKHAIL	I encountered several of his people in the jungle. They had an injured woman with them. Apparently, she had just parachuted onto the Island.
+274	00:00:00,000 --> 00:00:00,000	BEN	What?!
+276	00:00:00,000 --> 00:00:00,000	MIKHAIL	Her helo crashed into water. She says her ship is approximately 130 clicks to the west of us. She has a radio telephone.
+278	00:00:00,000 --> 00:00:00,000	BEN	Where is she now?
+280	00:00:00,000 --> 00:00:00,000	MIKHAIL	I assume they have taken her back to their camp.
+282	00:00:00,000 --> 00:00:00,000	BEN	We'll be visiting their camp day after tomorrow. We'll take care of it then.
+284	00:00:00,000 --> 00:00:00,000	MIKHAIL	Day after tomorrow? We have to go now!
+286	00:00:00,000 --> 00:00:00,000	LOCKE	Ben's not going anywhere with you.
+288	00:00:00,000 --> 00:00:00,000	MIKHAIL	Excuse me?
+290	00:00:00,000 --> 00:00:00,000	LOCKE	He and I are going to see Jacob.
+292	00:00:00,000 --> 00:00:00,000		[The rest of the Others begin to murmur the name. Tom and Richard look on with shocked faces.]
+294	00:00:00,000 --> 00:00:00,000	MIKHAIL	Please tell me this isn't true, Benjamin.
+296	00:00:00,000 --> 00:00:00,000	BEN	[Pauses] I'm sorry I have to deal with this now, John. Our excursion will have to wait.
+298	00:00:00,000 --> 00:00:00,000	MIKHAIL	Since when do you explain yourself to him? An outsider-
+300	00:00:00,000 --> 00:00:00,000		[Locke punches Mikhail to the ground and proceeds to violently beat him.]
+302	00:00:00,000 --> 00:00:00,000	BEN	Tom? Richard?
+304	00:00:00,000 --> 00:00:00,000		[They don't respond. Locke ceases his attack, leaving Mikhail bleeding.]
+306	00:00:00,000 --> 00:00:00,000	LOCKE	[To Ben] So when do we leave?
+308	00:00:00,000 --> 00:00:00,000		[Later, Ben and Locke collect water from a stream.]
+310	00:00:00,000 --> 00:00:00,000	BEN	You know, you didn't have to beat Mikhail senseless to make your point, John.
+312	00:00:00,000 --> 00:00:00,000	LOCKE	Yes, I did.
+314	00:00:00,000 --> 00:00:00,000	ALEX	[entering] Locke.
+316	00:00:00,000 --> 00:00:00,000		[Both Ben and Locke turn to see Alex.]
+318	00:00:00,000 --> 00:00:00,000	ALEX	I hear you're gonna go see Jacob. You're gonna need this.
+320	00:00:00,000 --> 00:00:00,000		[She holds out a gun for Locke. Ben looks on with a look of surprise.]
+322	00:00:00,000 --> 00:00:00,000	LOCKE	[Taking the gun] Thanks.
+324	00:00:00,000 --> 00:00:00,000		[Alex turns to leave, but then looks back at Ben.]
+326	00:00:00,000 --> 00:00:00,000	ALEX	[Coldly] Happy birthday, Dad.
+328	00:00:00,000 --> 00:00:00,000		[She leaves.]
+330	00:00:00,000 --> 00:00:00,000		[Flashback - Ben sits in class while a teacher discusses volcanoes. Her uniform reveals her name to be "Olivia".]
+332	00:00:00,000 --> 00:00:00,000	OLIVIA	So, once water is added to the bicarbonate, we will get our very own volcanic reaction.
+334	00:00:00,000 --> 00:00:00,000		[Annie raises her hand.]
+336	00:00:00,000 --> 00:00:00,000	OLIVIA	Yes?
+338	00:00:00,000 --> 00:00:00,000	ANNIE	Is that what happened to the volcano on this Island?
+340	00:00:00,000 --> 00:00:00,000	OLIVIA	Exactly Annie, but that was a long time ago. Okay! Let's get ourselves an eruption.
+342	00:00:00,000 --> 00:00:00,000		[The kids murmur with excitement. Olivia pours the water into the model volcano and the volcano overflows with fizzy liquid]
+344	00:00:00,000 --> 00:00:00,000	OLIVIA	Just add water, and...voilÃƒÂ . Now I know it's not lava, but-
+346	00:00:00,000 --> 00:00:00,000		[The ground begins to shake. As the kids murmur, a siren sounds.]
+348	00:00:00,000 --> 00:00:00,000	OLIVIA	Okay, everyone into your positions! That's right, all together. Annie, lock the back door please!
+350	00:00:00,000 --> 00:00:00,000		[Olivia loads a shotgun as Annie padlocks the door.]
+352	00:00:00,000 --> 00:00:00,000	OLIVIA	[Sees Ben hasn't moved] Ben, come on, honey, you gotta move. Ben!
+354	00:00:00,000 --> 00:00:00,000		[Outside, a number of DHARMA staff are running past with guns. Annie grabs Ben.]
+356	00:00:00,000 --> 00:00:00,000	ANNIE	Come on!
+358	00:00:00,000 --> 00:00:00,000		[They sit in the corner with the others.]
+360	00:00:00,000 --> 00:00:00,000	ANNIE	Don't worry. It's just the Hostiles. We'll be okay.
+362	00:00:00,000 --> 00:00:00,000		[The DHARMA staff shout and a loud explosion can be heard.]
+364	00:00:00,000 --> 00:00:00,000		[At night, Horace talks with Roger in his house at the Barracks. Ben listens from the next room.]
+366	00:00:00,000 --> 00:00:00,000	HORACE	Hey, man, heard you ran into a little trouble.
+368	00:00:00,000 --> 00:00:00,000	ROGER	We're driving back from the Flame and we hear this huge explosion. Next thing I know, there's a siren wailing, and we're driving through the middle of a shootout.
+370	00:00:00,000 --> 00:00:00,000	HORACE	Look we're having some skirmishes with the natives.
+372	00:00:00,000 --> 00:00:00,000	ROGER	What do you mean, "natives"?
+374	00:00:00,000 --> 00:00:00,000	HORACE	Well, we're not exactly sure who they are.
+376	00:00:00,000 --> 00:00:00,000	ROGER	[Throws down a beer can] Oh, this ain't what I signed up for!
+378	00:00:00,000 --> 00:00:00,000	HORACE	Roger, I did you a favor, man. You were having trouble finding work. And don't forget about Ben-he's getting a quality education here.
+380	00:00:00,000 --> 00:00:00,000	ROGER	I don't give a damn about his education! If I'm gonna get shot at, I want hazard pay! I want another thirty grand.
+382	00:00:00,000 --> 00:00:00,000	HORACE	Calm down, man.
+384	00:00:00,000 --> 00:00:00,000	ROGER	And don't try to tell me you don't have it, you hear me?!
+386	00:00:00,000 --> 00:00:00,000		[Ben hears rattling at his window.]
+388	00:00:00,000 --> 00:00:00,000	ROGER	All right, get the hell out of my house!
+390	00:00:00,000 --> 00:00:00,000		[Ben closes his door fully and turns. Staring at him outside the window is his mother. Ben falls back, knocking over a chair. He gets up as Roger enters.]
+392	00:00:00,000 --> 00:00:00,000	ROGER	I thought I told you to go to bed.
+394	00:00:00,000 --> 00:00:00,000		[He leaves. Ben looks again but his mother is no longer there. He looks at an old photograph of her in his room and cries.]
+396	00:00:00,000 --> 00:00:00,000		[Present - At the beach, Sawyer and Sayid go to Juliet's tent]
+398	00:00:00,000 --> 00:00:00,000	SAYID	She's not here.
+400	00:00:00,000 --> 00:00:00,000	SAWYER	I noticed.
+402	00:00:00,000 --> 00:00:00,000		[Kate arrives.]
+404	00:00:00,000 --> 00:00:00,000	KATE	What are you doing?
+406	00:00:00,000 --> 00:00:00,000	SAYID	Looking for Juliet.
+408	00:00:00,000 --> 00:00:00,000	KATE	Well, you're not gonna find her in there. She left with Jack.
+410	00:00:00,000 --> 00:00:00,000	SAYID	Juliet left with Jack?
+412	00:00:00,000 --> 00:00:00,000	KATE	He took off right after I told him about Naomi.
+414	00:00:00,000 --> 00:00:00,000	SAWYER	Who's Naomi?
+416	00:00:00,000 --> 00:00:00,000	SAYID	And why would you do that, Kate?
+418	00:00:00,000 --> 00:00:00,000	KATE	Because she's hurt, because he's a doctor, and because he has a right to know.
+420	00:00:00,000 --> 00:00:00,000	SAYID	Where is he now?
+422	00:00:00,000 --> 00:00:00,000	KATE	I dunno, Sayid.
+424	00:00:00,000 --> 00:00:00,000	SAYID	Of course you don't.
+426	00:00:00,000 --> 00:00:00,000		[He begins to walk away. Kate calls after him.]
+428	00:00:00,000 --> 00:00:00,000	KATE	You know, it might be time for you to tell everybody else about Naomi, too.
+430	00:00:00,000 --> 00:00:00,000	SAYID	[Turns] Play her the tape!
+432	00:00:00,000 --> 00:00:00,000	KATE	[To Sawyer] What tape?
+434	00:00:00,000 --> 00:00:00,000		[Out in the jungle, Ben loads his canteen into his pack as they prepare to head out.]
+436	00:00:00,000 --> 00:00:00,000	BEN	Something you should know, John, before we go. Whether or not you think he's the Wizard of Oz, I can assure you that Jacob is very, very real. And we're gonna go see him, and he's not gonna like it. In fact, I have a feeling he's going to be very...angry. And that's why my hand was shaking, because this is not a man you go and see. This is a man who summons you.
+438	00:00:00,000 --> 00:00:00,000	LOCKE	Well, I guess there's a first time for everything.
+440	00:00:00,000 --> 00:00:00,000		[They leave the camp, drawing the stares of the Others.]
+442	00:00:00,000 --> 00:00:00,000		[Flashback - Ben sits on the swings at the Barracks with Annie. He unwraps a present to find two carved wooden dolls, one boy and one girl.]
+444	00:00:00,000 --> 00:00:00,000	ANNIE	It's us. That's you and that's me. Now we never have to be away from each other. Happy birthday, Ben.
+446	00:00:00,000 --> 00:00:00,000	BEN	Thanks.
+448	00:00:00,000 --> 00:00:00,000	ANNIE	You're welcome.
+450	00:00:00,000 --> 00:00:00,000		[At night, Ben arrives back at the house to find Roger asleep on the couch with beer cans scattered around the room. Ben puts a blanket over him and Roger rouses.]
+452	00:00:00,000 --> 00:00:00,000	ROGER	Wow... [Sees the wrapped present] It's your birthday. Sorry I forgot. Kinda hard to celebrate on the day you killed your mom. She was just seven months pregnant. We went for a hike, but you had to come early. Now, she's gone. And I'm stuck here on this island...with you. [Pauses, grunts] Happy birthday, Ben.
+454	00:00:00,000 --> 00:00:00,000		[Ben runs out, crying. He goes straight to the sonar fence, hearing whispers. His mother then appears in front of him, on the other side of the barrier.
+456	00:00:00,000 --> 00:00:00,000	BEN	Mom?
+458	00:00:00,000 --> 00:00:00,000		[Ben runs toward the fence.]
+460	00:00:00,000 --> 00:00:00,000	EMILY	Ben, don't!
+462	00:00:00,000 --> 00:00:00,000	BEN	Mom!
+464	00:00:00,000 --> 00:00:00,000	EMILY	It's not time yet, Benjamin.
+466	00:00:00,000 --> 00:00:00,000		[She leaves.]
+468	00:00:00,000 --> 00:00:00,000	BEN	Mom!
+470	00:00:00,000 --> 00:00:00,000		[Ben begins to run, stumbling, back toward the Barracks.]
+472	00:00:00,000 --> 00:00:00,000		[Present - Locke and Ben trek through the jungle at night. They approach a line of what appears to be gray powder. Ben pauses and then steps over it. Locke picks up a little and sniffs it.]
+474	00:00:00,000 --> 00:00:00,000	BEN	Let's go, John. John!
+476	00:00:00,000 --> 00:00:00,000		[Locke follows.]
+478	00:00:00,000 --> 00:00:00,000		[At the beach the whole camp are in uproar about Naomi's revelations.]
+480	00:00:00,000 --> 00:00:00,000	CLAIRE	So, what, the whole world thinks we're dead?
+482	00:00:00,000 --> 00:00:00,000	SAYID	That's not important right now.
+484	00:00:00,000 --> 00:00:00,000	SUN	Not important?!
+486	00:00:00,000 --> 00:00:00,000	CLAIRE	What do you mean it's not important, Sayid?
+488	00:00:00,000 --> 00:00:00,000	NAOMI	Excuse me. I'm sorry, don't you people want to be rescued?
+490	00:00:00,000 --> 00:00:00,000	SAYID	We kept her a secret to keep her safe.
+492	00:00:00,000 --> 00:00:00,000	KATE	Safe from what, Sayid?
+494	00:00:00,000 --> 00:00:00,000	SAYID	Safe from Jack. He spent a week with the Others, and he brought one of them back with him. Here, amongst us. And every time we try to get answers from this woman, he prevents her from giving them.
+496	00:00:00,000 --> 00:00:00,000	SUN	But it's Jack! He would never do anything to hurt us. And Juliet? I believe she's a good person.
+498	00:00:00,000 --> 00:00:00,000	SAWYER	Good person, huh? You basing that on what? Wouldn't involve her taking you to one of their medical stations would it now, Mrs. Kwon?
+500	00:00:00,000 --> 00:00:00,000	SUN	How-
+502	00:00:00,000 --> 00:00:00,000		[Sawyer plays the tape.]
+504	00:00:00,000 --> 00:00:00,000	JULIET [On the tape recorder]	Kwon is pregnant, the fetus is healthy and was conceived on-Island with her husband, he was sterile before they got here.
+506	00:00:00,000 --> 00:00:00,000	JIN	Ã«Â¬Â´Ã¬Å Â¨ Ã¬ÂÂ¼Ã¬ÂÂ´Ã¬â€¢Â¼?
+508	00:00:00,000 --> 00:00:00,000	JULIET [On the tape recorder]	I'm still working on getting samples from the other women. I should have Austen's soon. I'll report back when I know more.
+510	00:00:00,000 --> 00:00:00,000	JACK	Where'd you get that?
+512	00:00:00,000 --> 00:00:00,000		[The whole camp turn to see Jack and Juliet approach.]
+514	00:00:00,000 --> 00:00:00,000	SAYID	Where have you been, Jack?
+516	00:00:00,000 --> 00:00:00,000	JACK	I asked you where you got it.
+518	00:00:00,000 --> 00:00:00,000	SAWYER	You really think you're in a position to be asking us questions?
+520	00:00:00,000 --> 00:00:00,000	JULIET	Turn the tape over.
+522	00:00:00,000 --> 00:00:00,000	SAWYER	Stay out of it.
+524	00:00:00,000 --> 00:00:00,000	JULIET	You wanna burn me at the stake, here I am, but first, turn the tape over, press play.
+526	00:00:00,000 --> 00:00:00,000		[Sawyer does so, and the camp listen to another recording, this time by Ben.]
+528	00:00:00,000 --> 00:00:00,000	BEN [On the tape recorder]	Juliet, it's Ben. I'm sending three teams to extract Kwon the night after tomorrow. We won't have time to run Austen's sample, so if you determine that she or anyone else is pregnant, mark their tents, and we'll take them too. Good luck.
+530	00:00:00,000 --> 00:00:00,000	JULIET	[To Sun] The night I saw your baby on the ultrasound, I told Jack what they were making me do.
+532	00:00:00,000 --> 00:00:00,000	SAYID	Why didn't you tell us?
+534	00:00:00,000 --> 00:00:00,000	JACK	Because I hadn't decided what to do about it yet.
+536	00:00:00,000 --> 00:00:00,000	SAYID	"Yet"?
+538	00:00:00,000 --> 00:00:00,000	JACK	I think we've got some catching up to do.
+540	00:00:00,000 --> 00:00:00,000		[Flashback - Ben heads to the sonar fence armed with the deactivation code. He enters it, turns the dial, and the sound of the fence buzzing dies down. He pulls out a white rabbit, and shoos it across the fence line to ensure it really is off, then runs through, collecting the rabbit as he goes. He heads into the jungle, hearing whispers.]
+542	00:00:00,000 --> 00:00:00,000	BEN	Mom..? Mom? Mom! Mom! Mom!
+544	00:00:00,000 --> 00:00:00,000		[Ben hears the whispers, and then turns to see a long-haired Richard Alpert standing behind him.]
+546	00:00:00,000 --> 00:00:00,000	RICHARD	Whoa whoa whoa whoa. Whoa. Whoa, hey, hey, whoa, I didn't mean to scare you. Wait, wait! Are you lost? Wait!
+548	00:00:00,000 --> 00:00:00,000	BEN	Are you one of them?
+550	00:00:00,000 --> 00:00:00,000	RICHARD	One of whom?
+552	00:00:00,000 --> 00:00:00,000	BEN	A hostile.
+554	00:00:00,000 --> 00:00:00,000	RICHARD	Do you even know what that word means? What's your name?
+556	00:00:00,000 --> 00:00:00,000	BEN	Ben.
+558	00:00:00,000 --> 00:00:00,000	RICHARD	Ben? So you wanna tell me what you're doing in the middle of the jungle all by yourself?
+560	00:00:00,000 --> 00:00:00,000	BEN	I left home, and...I'm looking for my Mom.
+562	00:00:00,000 --> 00:00:00,000	RICHARD	You think she's out here?
+564	00:00:00,000 --> 00:00:00,000	BEN	You wouldn't believe me.
+566	00:00:00,000 --> 00:00:00,000	RICHARD	Try me.
+568	00:00:00,000 --> 00:00:00,000	BEN	She's dead.
+570	00:00:00,000 --> 00:00:00,000	RICHARD	Did she die here, on the Island?
+572	00:00:00,000 --> 00:00:00,000	BEN	No. When I was a baby.
+574	00:00:00,000 --> 00:00:00,000	RICHARD	Did you see her, out here, Ben, in the jungle?
+576	00:00:00,000 --> 00:00:00,000	BEN	She talked to me.
+578	00:00:00,000 --> 00:00:00,000	RICHARD	What did she say?
+580	00:00:00,000 --> 00:00:00,000	BEN	That I couldn't come with her. She said it wasn't time yet.
+582	00:00:00,000 --> 00:00:00,000	RICHARD	You should go home now, your people will be looking for you.
+584	00:00:00,000 --> 00:00:00,000	BEN	I don't want to go back there! I hate it there! Take me with you.
+586	00:00:00,000 --> 00:00:00,000	RICHARD	Maybe that can happen, maybe. But if that's what you really want, Ben, if that's what you want, I want you to really think about that. And you're gonna have to be very, very patient.
+588	00:00:00,000 --> 00:00:00,000		[Present - Ben and Locke approach an old shack in the jungle at night.]
+590	00:00:00,000 --> 00:00:00,000	BEN	We're here.
+592	00:00:00,000 --> 00:00:00,000		[Locke shines his flashlight at Ben.]
+594	00:00:00,000 --> 00:00:00,000	BEN	You'll wanna turn off your flashlight, John.
+596	00:00:00,000 --> 00:00:00,000	LOCKE	Why?
+598	00:00:00,000 --> 00:00:00,000	BEN	Jacob feels the same way about technology as you do.
+600	00:00:00,000 --> 00:00:00,000		[Locke turns the light off and they leave their bags outside. Ben reaches the door and lights a lantern.]
+602	00:00:00,000 --> 00:00:00,000	BEN	Once I open this door, there's no turning back. You sure this is what you want?
+604	00:00:00,000 --> 00:00:00,000		[Locke steps forward and looks at him resolutely.]
+606	00:00:00,000 --> 00:00:00,000	BEN	So be it. [To the door] Jacob? I'm here with John Locke. We're coming in now.
+608	00:00:00,000 --> 00:00:00,000		[Inside Locke looks around the room. Jars stand by the window, a painting of a dog can be seen by the wall. Ben moves over to an empty chair.]
+610	00:00:00,000 --> 00:00:00,000	BEN	Jacob. This is John. Aren't you going to say hello, John?
+612	00:00:00,000 --> 00:00:00,000	LOCKE	What?
+614	00:00:00,000 --> 00:00:00,000	BEN	[Looks to the chair] I told you he wouldn't.
+616	00:00:00,000 --> 00:00:00,000	LOCKE	Who-what are you talking about?
+618	00:00:00,000 --> 00:00:00,000	BEN	You can't see him?
+620	00:00:00,000 --> 00:00:00,000	LOCKE	See who?
+622	00:00:00,000 --> 00:00:00,000	BEN	Jacob! He's sitting right here, in this chair! [Looks at the chair] Yes, I know, but he insisted.
+624	00:00:00,000 --> 00:00:00,000	LOCKE	What is this?
+626	00:00:00,000 --> 00:00:00,000	BEN	You wanted the secrets of the Island? Well, here they are. This is the man who can answer every single- [Stops, pauses while looking at the chair] I am not. He made me bring him here-do you think that that was my-sorry, may I finish?
+628	00:00:00,000 --> 00:00:00,000	LOCKE	You're crazy.
+630	00:00:00,000 --> 00:00:00,000	BEN	Excuse me?
+632	00:00:00,000 --> 00:00:00,000	LOCKE	You don't know anything about the Island, do ya? You just...made it all up.
+634	00:00:00,000 --> 00:00:00,000	BEN	[Looks at the chair] Jacob, please, I can't hear him if you're gonna talk over what he's saying-
+636	00:00:00,000 --> 00:00:00,000	LOCKE	Stop. Stop. Shut up! You're putting on a show for me? Or do you...do you really think there's someone there?
+638	00:00:00,000 --> 00:00:00,000	BEN	I know there's someone there!
+640	00:00:00,000 --> 00:00:00,000	LOCKE	You don't know anything.
+642	00:00:00,000 --> 00:00:00,000	BEN	I'm sorry you feel that way, John. And I'm sorry that you're too limited to see.
+644	00:00:00,000 --> 00:00:00,000	LOCKE	You're pathetic.
+646	00:00:00,000 --> 00:00:00,000		[As Locke leaves he hears a voice.]
+648	00:00:00,000 --> 00:00:00,000	VOICE	Help me.
+650	00:00:00,000 --> 00:00:00,000		[Locke turns.]
+652	00:00:00,000 --> 00:00:00,000	LOCKE	What did you just say?
+654	00:00:00,000 --> 00:00:00,000	BEN	I-I didn't say anything.
+656	00:00:00,000 --> 00:00:00,000	LOCKE	Oh yes you did. I heard you, [raises the flash-light] you said...
+658	00:00:00,000 --> 00:00:00,000		[Suddenly the room takes on a life of its own. Chairs rock, glass smashes, the lantern catches fire and windows shatter.]
+660	00:00:00,000 --> 00:00:00,000	BEN	[To the chair] That's enough, you've had your fun!
+662	00:00:00,000 --> 00:00:00,000		[Ben is thrown back against the wall. For a brief moment, a figure is seen in the chair, followed by a closeup of an eye. Locke runs out of the cabin. Ben walks, shaken, from the cabin a moment later. Pause.]
+664	00:00:00,000 --> 00:00:00,000	LOCKE	What was that?
+666	00:00:00,000 --> 00:00:00,000	BEN	That was Jacob.
+668	00:00:00,000 --> 00:00:00,000		[The next day, Ben and Locke walk back through the jungle.]
+670	00:00:00,000 --> 00:00:00,000	BEN	What did you hear in there, John? What did Jacob say to you?
+672	00:00:00,000 --> 00:00:00,000	LOCKE	He didn't say anything to me. You did.
+674	00:00:00,000 --> 00:00:00,000	BEN	What are you talking about?
+676	00:00:00,000 --> 00:00:00,000	LOCKE	There is no Jacob, Ben. I'm not gonna be taken in by the little show you put on last night. You're a fraud. And it's time your people were told the truth. And this is not the way we came.
+678	00:00:00,000 --> 00:00:00,000	BEN	I'm taking us back another way. I wanted to show you something first.
+680	00:00:00,000 --> 00:00:00,000	LOCKE	I've seen enough.
+682	00:00:00,000 --> 00:00:00,000	BEN	You know, John, you're not wrong. Some of the things I've told you-some of the things I've told everybody-are simply not true.
+684	00:00:00,000 --> 00:00:00,000	LOCKE	Like what?
+686	00:00:00,000 --> 00:00:00,000	BEN	Well, for starters, I wasn't born on this island.
+688	00:00:00,000 --> 00:00:00,000	LOCKE	Then where did you come from?
+690	00:00:00,000 --> 00:00:00,000	BEN	That's what I wanna show you.
+692	00:00:00,000 --> 00:00:00,000		[Flashback - An adult Ben, twelve years younger than in the present, is in his house, and zips up a DHARMA jumpsuit with "Ben - Work Man" stitched on. He looks at his watch, and then the doll Annie gave him years earlier, which he places in his bag. He heads outside carrying items to a DHARMA van. A now aged Roger is struggling to put pallets of beer into the back.]
+694	00:00:00,000 --> 00:00:00,000	ROGER	Morning. Okay, wait. Put it right-right down there. What's the problem now? You're usually Chatty Cathy in the morning.
+696	00:00:00,000 --> 00:00:00,000	BEN	It's my birthday. I dunno why I keep fooling myself into thinking that one of these years you're actually gonna remember.
+698	00:00:00,000 --> 00:00:00,000	ROGER	Well, I'll tell you what. All we gotta do this morning is run this stuff out to Pearl station. Why don't we go up to the mesa, drink some beers? Have some...I dunno, father and son time.
+700	00:00:00,000 --> 00:00:00,000	BEN	I'd like that.
+702	00:00:00,000 --> 00:00:00,000	ROGER	Okay.
+704	00:00:00,000 --> 00:00:00,000		[Roger drives the van up to the mesa as "Shambala" plays from the van's speakers. They stop on a ridge.]
+706	00:00:00,000 --> 00:00:00,000	ROGER	Well, you sure can't say it ain't beautiful.
+708	00:00:00,000 --> 00:00:00,000		[Roger drinks a beer.]
+710	00:00:00,000 --> 00:00:00,000	BEN	Do you really blame me?
+712	00:00:00,000 --> 00:00:00,000	ROGER	What?
+714	00:00:00,000 --> 00:00:00,000	BEN	Do you really think it's my fault that she died?
+716	00:00:00,000 --> 00:00:00,000	ROGER	What do I know...
+718	00:00:00,000 --> 00:00:00,000		[Ben looks at his watch.]
+720	00:00:00,000 --> 00:00:00,000	ROGER	Why do you keep looking at your watch? You got a date? [Pauses] Listen...if it makes you feel any better, I will do my best to remember your birthday next year.
+722	00:00:00,000 --> 00:00:00,000	BEN	I don't think that's going to happen, Dad. [starts to unzip bag]
+724	00:00:00,000 --> 00:00:00,000	ROGER	What do you mean?
+726	00:00:00,000 --> 00:00:00,000	BEN	You know, I've missed her too. Maybe as much as you have. But the difference is, for as long as I can remember, I've had to put up with you. And doing that required a tremendous amount of patience.
+728	00:00:00,000 --> 00:00:00,000		[Ben pulls out a gas mask.]
+730	00:00:00,000 --> 00:00:00,000	BEN	Goodbye, Dad.
+732	00:00:00,000 --> 00:00:00,000		[Ben puts it on and then releases a gas canister.]
+734	00:00:00,000 --> 00:00:00,000	ROGER	Ben?
+736	00:00:00,000 --> 00:00:00,000		[Roger struggles for breath, coughing and retching as blood spurts from his nose and mouth, clawing at Ben's mask]
+738	00:00:00,000 --> 00:00:00,000		[At the Barracks, Ben walks with gas mask on. He sees all the DHARMA employees lining the ground, all dead. He then notices Horace on a bench, and closes his eyes. Richard and the Hostiles arrive with masks on. Richard checks his watch, then removes his mask taking a deep breath. The rest of the team follow, as does Ben.]
+740	00:00:00,000 --> 00:00:00,000	RICHARD	You want us to, um...go get his body?
+742	00:00:00,000 --> 00:00:00,000	BEN	No, leave him out there.
+744	00:00:00,000 --> 00:00:00,000		[Present - Locke stands over a mass open grave full of skeletons, some still wearing their DHARMA jumpsuits.]
+746	00:00:00,000 --> 00:00:00,000	BEN	This is where I came from, John. These are my people. The DHARMA Initiative. They came here seeking harmony, but they couldn't even coexist with the Island's original inhabitants. And when it became clear that one side had to go, one side had to be purged, I did what I had to do. I was one of the people that was smart enough to make sure that I didn't end up in that ditch. Which makes me considerably smarter than you, John.
+748	00:00:00,000 --> 00:00:00,000		[John stands up and turns but Ben shoots him. Locke falls into the ditch.]
+750	00:00:00,000 --> 00:00:00,000	BEN	What did Jacob say to you?
+752	00:00:00,000 --> 00:00:00,000	LOCKE	Why did you do this?
+754	00:00:00,000 --> 00:00:00,000	BEN	Because you heard him. Now, I need to know what he said.
+756	00:00:00,000 --> 00:00:00,000	LOCKE	Help me...
+758	00:00:00,000 --> 00:00:00,000	BEN	John, I'm not going to ask you again. What did he say to you?
+760	00:00:00,000 --> 00:00:00,000	LOCKE	He said, "Help me."
+762	00:00:00,000 --> 00:00:00,000		[Ben looks incredulous, pauses a moment, utters a disbelieving half-laugh.]
+764	00:00:00,000 --> 00:00:00,000	BEN	Well, I certainly hope he helps you, John.
+766	00:00:00,000 --> 00:00:00,000		[Ben leaves Locke lying in the ditch.]

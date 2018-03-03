@@ -1,0 +1,582 @@
+Some Like It Hoth
+2	00:00:00,000 --> 00:00:00,000	Written by	Melinda Hsu Taylor & Greggory Nations
+4	00:00:00,000 --> 00:00:00,000	Directed by	Jack Bender
+6	00:00:00,000 --> 00:00:00,000		[Flashback - A seven-segmented red LED clock on a 1980s microwave oven reads 3:16. A hand tests the handle of the microwave.]
+8	00:00:00,000 --> 00:00:00,000	TREVOR	Comes fully equipped.
+10	00:00:00,000 --> 00:00:00,000		[Inside of a small, empty apartmentment unit, Trevor, an older man, casually leans against the counter, as a middle-aged Asian woman with a purse checks things out. By "fully equipped", the man means that the kitchen has an oven with a range, a sink barely big enough to wash a hand in (let alone a dish), and the microwave. The woman turns the faucet on and off to test it.]
+12	00:00:00,000 --> 00:00:00,000	TREVOR	I'm telling you, it's a steal at $400.
+14	00:00:00,000 --> 00:00:00,000		[A siren wails in the distance. The woman looks through the other rooms.]
+16	00:00:00,000 --> 00:00:00,000	TREVOR	What, you gotta check with your husband?
+18	00:00:00,000 --> 00:00:00,000	WOMAN	It's just me.
+20	00:00:00,000 --> 00:00:00,000	BOY	Mommy?
+22	00:00:00,000 --> 00:00:00,000		[A boy stands in the outer doorway, just outside the apartment, in the building's courtyard.]
+24	00:00:00,000 --> 00:00:00,000	BOY	Can I have a quarter for the vending machine?
+26	00:00:00,000 --> 00:00:00,000	WOMAN	Honey, I said wait for me by the pool.
+28	00:00:00,000 --> 00:00:00,000	TREVOR	I thought you said it was "just me."
+30	00:00:00,000 --> 00:00:00,000	WOMAN	I meant my husband's out of the picture. It's just me and my son.
+32	00:00:00,000 --> 00:00:00,000	TREVOR	[Shaking his head] I don't know. Most of the other tenants--they don't like noise.
+34	00:00:00,000 --> 00:00:00,000		[She puts her hand on her boy's shoulder.]
+36	00:00:00,000 --> 00:00:00,000	WOMAN	He's very quiet.
+38	00:00:00,000 --> 00:00:00,000	TREVOR	I'm gonna need two months up front.
+40	00:00:00,000 --> 00:00:00,000		[She reaches into her purse and produces a quarter for her son.]
+42	00:00:00,000 --> 00:00:00,000	WOMAN	Here, honey.
+44	00:00:00,000 --> 00:00:00,000		[He takes it and runs away. The woman catches the unpleased glare of the landlord, and calls after her son.]
+46	00:00:00,000 --> 00:00:00,000	WOMAN	Hey, no running! You hear me, Miles?
+48	00:00:00,000 --> 00:00:00,000		[The obedient little boy slows up to a walk. Birds chirp and, distantly, a car alarm sounds. The boy crosses through the the fence that borders a small swimming pool--"NO LIFEGUARD ON DUTY" sign displayed--then stops short of a snack vending machine and a beverage vending machine. A flash of a vision comes to the boy: a hand laying dead on a floor next to an overturned plate of a sandwich and potato chips, and a TV remote control. A white-haired man toppled from his couch, his TV tray beside him. Ghostly whispering and whooshing sounds accompany the images. The boy zeros in on the source: an apartment door with a plate marking it number 4. Miles passes back through the fence and walks up to the door, putting his hand on it, as if testing for fire behind it. He closes his eyes. Taking his hand off the door, he steps back and lifts up a small garden ornament--a stone white rabbit that seems to have the number 8 engraved in its ear--to find an apartment key underneath. The key in the doorknob, Miles turns with both hands, and opens the door slowly with a creak. Back in the empty apartment, Miles' mother, Lara makes out a check for $800 on the kitchen counter, when she hears her boy calling for her.]
+50	00:00:00,000 --> 00:00:00,000	MILES	Mom! Mommy! Help!
+52	00:00:00,000 --> 00:00:00,000		[Lara runs out of the apartment and rounds the corner, searching for the source of her son's voice. Trevor the landlord follows.]
+54	00:00:00,000 --> 00:00:00,000	MILES	Mommy!
+56	00:00:00,000 --> 00:00:00,000		[Lara pushes open the open door of apartment 4.]
+58	00:00:00,000 --> 00:00:00,000	LARA	Miles?
+60	00:00:00,000 --> 00:00:00,000		[She finds her son standing in the living room over the body of the man from Miles's visions.]
+62	00:00:00,000 --> 00:00:00,000	LARA	Miles, what happened?
+64	00:00:00,000 --> 00:00:00,000	MILES	Mommy!
+66	00:00:00,000 --> 00:00:00,000	TREVOR	Oh, God. Mr. Vonner.
+68	00:00:00,000 --> 00:00:00,000		[She runs to her son and takes him by the shoulders while Trevor examines the body of Mr. Vonner.]
+70	00:00:00,000 --> 00:00:00,000	LARA	What were you doing in here?
+72	00:00:00,000 --> 00:00:00,000	MILES	He... he was all alone. He was scared. His chest hurt. He kept calling out for Kimberly.
+74	00:00:00,000 --> 00:00:00,000	TREVOR	Kimberly? That's his wife. No, she died last year. Now, how would you know that?
+76	00:00:00,000 --> 00:00:00,000	MILES	I heard him.
+78	00:00:00,000 --> 00:00:00,000	LARA	Miles, what are you talking about?
+80	00:00:00,000 --> 00:00:00,000	MILES	He's still talking right now.
+82	00:00:00,000 --> 00:00:00,000		[Mr. Vonner is clearly in no condition to speak.]
+84	00:00:00,000 --> 00:00:00,000	LARA	Honey... he's dead.
+86	00:00:00,000 --> 00:00:00,000	MILES	I told you! I can hear him! I can hear him!
+88	00:00:00,000 --> 00:00:00,000		[Miles shouts, covering his ears and shutting his eyes tight.]
+90	00:00:00,000 --> 00:00:00,000		[On-Island - In 1977, Miles, in a DHARMA Initiative security jumpsuit, sits in the Security Center, engrossed in reading Sports Illustrated, the cover of which reads, "After 23 years... NEW BOSS IN L.A." and features a picture of "Tom Lasorda".]
+92	00:00:00,000 --> 00:00:00,000	SAWYER	[Over walkie-talkie] Miles, you there? Pick up.
+94	00:00:00,000 --> 00:00:00,000		[Miles puts down the magazine and picks up his radio.]
+96	00:00:00,000 --> 00:00:00,000	MILES	Jim, where the hell are you?
+98	00:00:00,000 --> 00:00:00,000		[Out on the Island, Sawyer walks with Kate. They approach the perimeter of sonar fence pylons where, just within, they had left a blue DHARMA van.]
+100	00:00:00,000 --> 00:00:00,000	SAWYER	I'll fill you in later. Right now I need you to take care of something.
+102	00:00:00,000 --> 00:00:00,000	MILES	Like what?
+104	00:00:00,000 --> 00:00:00,000	SAWYER	The security tapes from the pylon camera feeds. They need to accidentally get erased.
+106	00:00:00,000 --> 00:00:00,000		[Sawyer bends down to enter the sonar fence deactivation code into the control panel at the base of one of the pylons.]
+108	00:00:00,000 --> 00:00:00,000	MILES	Erased? Why?
+110	00:00:00,000 --> 00:00:00,000	SAWYER	I ain't got time for questions, Miles. Just do it.
+112	00:00:00,000 --> 00:00:00,000	MILES	Okay. Okay. Uh, which ones?
+114	00:00:00,000 --> 00:00:00,000	SAWYER	Look on your monitors.
+116	00:00:00,000 --> 00:00:00,000		[Miles looks up, tossing the Sports Illustrated issue onto the typewriter desk where he sits. He gets out of his chair and steps over to the bank of eight security monitors. His attention is drawn to the upper-right black-and-white monitor.]
+118	00:00:00,000 --> 00:00:00,000	SAWYER	You see us?
+120	00:00:00,000 --> 00:00:00,000		[On the monitor, Sawyer stands with his hands out. He and Kate are inside the sonar fence with the DHARMA van.]
+122	00:00:00,000 --> 00:00:00,000	MILES	Yeah. You're on number 4. Is that Kate? What the hell are you doing out there?
+124	00:00:00,000 --> 00:00:00,000	SAWYER	Just erase number 4. And if anyone asks, I'm off the grid. I'm looking for the escaped Hostile.
+126	00:00:00,000 --> 00:00:00,000	MILES	You mean your pal Sayid?
+128	00:00:00,000 --> 00:00:00,000	SAWYER	Damn it, Miles! You gonna help me or not?!
+130	00:00:00,000 --> 00:00:00,000	MILES	Yeah, yeah. I got it.
+132	00:00:00,000 --> 00:00:00,000	SAWYER	All right. I owe you one.
+134	00:00:00,000 --> 00:00:00,000		[Kate has seated herself behind the driver's wheel of a DHARMA van. Another DHARMA van sits behind hers. Sawyer talks to her through the window.]
+136	00:00:00,000 --> 00:00:00,000	SAWYER	[To Kate] All right, I want you to go back and and find Juliet, see if anyone's noticed yet if Little Ben's gone missin'.
+138	00:00:00,000 --> 00:00:00,000	KATE	What are you gonna do when they find out?
+140	00:00:00,000 --> 00:00:00,000	SAWYER	Do my best to cover it up. In case you haven't noticed, [points to the embroidery on his jumpsuit] I'm Head of Security.
+142	00:00:00,000 --> 00:00:00,000		[Kate smiles.]
+144	00:00:00,000 --> 00:00:00,000	SAWYER	All right, I'll see you back there.
+146	00:00:00,000 --> 00:00:00,000		[Sawyer heads over to the other van.]
+148	00:00:00,000 --> 00:00:00,000		[Back in the Security Center, a U-Matic tape deck marked with the number 4 sits at timecode 03:17:51:19. A tape ejects with a whir; it is labeled "DHARMA SURVEILLANCE TAPE GND-2398923-CTP4" and has spaces to write in "CAMERA #" and "DATE", which have been filled in, respectively, "4" and "N/A". Miles is about to reach for the tape when Horace bursts in through the door carrying a package.]
+150	00:00:00,000 --> 00:00:00,000	HORACE	Where's LaFleur?
+152	00:00:00,000 --> 00:00:00,000		[Miles stands up and walks over to the monitor bank.]
+154	00:00:00,000 --> 00:00:00,000	MILES	Uh, he's, uh, out looking for the escaped prisoner. I tried to get him on his walkie, but...
+156	00:00:00,000 --> 00:00:00,000		[Miles picks up the walkie. The knob clicks as he turns it.]
+158	00:00:00,000 --> 00:00:00,000	MILES	Uh, he must be out of range.
+160	00:00:00,000 --> 00:00:00,000		[Horace adjusts his eyeglasses in frustration.]
+162	00:00:00,000 --> 00:00:00,000	HORACE	[Sighs] Damn it. All right. Then it's gonna have to be you. Jim already knows about this, but I'm gonna bring you into the circle of trust. Can I trust you, Miles?
+164	00:00:00,000 --> 00:00:00,000	MILES	[Shaking his head] Absolutely, Horace.
+166	00:00:00,000 --> 00:00:00,000	HORACE	Okay. Good. I need you to take this out to Radzinsky at grid 3-34.
+168	00:00:00,000 --> 00:00:00,000		[Horace hands miles the package, something about 2 feet long and oblong, wrapped in a black pouch.]
+170	00:00:00,000 --> 00:00:00,000	HORACE	He's gonna give you something in return. I want you to bring it back to me with no questions asked. You understand?
+172	00:00:00,000 --> 00:00:00,000		[Horace walks away and around to the typewriter desk, where he finds a clipboard of papers to flip through.]
+174	00:00:00,000 --> 00:00:00,000	MILES	Um... we're not supposed to be in 3-3-4. Isn't that Hostile territory?
+176	00:00:00,000 --> 00:00:00,000	HORACE	Welcome to the circle of trust.
+178	00:00:00,000 --> 00:00:00,000		[Miles signals a "you got it" by pointing his walkie at Horace, and walks away. The tape to camera 4 sits ejected in the U-Matic tape deck.]
+180	00:00:00,000 --> 00:00:00,000		[Out on the Island, Miles motors along a dirt path in a DHARMA van. A man in a black jumpsuit jumps out into his path pointing a rifle at him. It's Radzinsky.]
+182	00:00:00,000 --> 00:00:00,000	RADZINSKY	Stop right there!
+184	00:00:00,000 --> 00:00:00,000		[Miles slams on the brakes and the tires skid. The van stops several paces short of Radzinsky. Miles puts his hands up.]
+186	00:00:00,000 --> 00:00:00,000	RADZINSKY	Miles?! What are you doing out here?! I was expecting LaFleur.
+188	00:00:00,000 --> 00:00:00,000	MILES	[Leaning out the window of the van] LaFleur's busy. Horace sent me instead. I'm in the circle of trust.
+190	00:00:00,000 --> 00:00:00,000	RADZINSKY	Get out!
+192	00:00:00,000 --> 00:00:00,000		[Miles does so, bringing the package with him. Radzinsky shoulders his rifle.]
+194	00:00:00,000 --> 00:00:00,000	MILES	I'm supposed to give you this. And he said you had something for me.
+196	00:00:00,000 --> 00:00:00,000		[Radzinsky puts his fingers to his mouth and whistles. He removes the package's pouch and unfurls what looks like a black plastic mat on the ground. Two hard-hatted men come out of the jungle carrying a dead man on a strercher. The man, with curly hair and a beard, looks to have a fatal head wound. He has streaks of dried blood down his face. Birds squawk in the background.]
+198	00:00:00,000 --> 00:00:00,000	MILES	What happened to him?
+200	00:00:00,000 --> 00:00:00,000	RADZINSKY	He had an accident.
+202	00:00:00,000 --> 00:00:00,000		[Radzinsky's dark jumpsuit has a Swan patch on it. The two workers unfold the "package", which is now clear to be a body bag, and work at putting the dead man in it.]
+204	00:00:00,000 --> 00:00:00,000	MILES	What kind of accident?
+206	00:00:00,000 --> 00:00:00,000	RADZINSKY	He fell into a ditch.
+208	00:00:00,000 --> 00:00:00,000	MILES	Is that a bullet hole in his head? The ditch had a gun?
+210	00:00:00,000 --> 00:00:00,000	RADZINSKY	[Getting in Miles's face] It doesn't matter what happened to him... because knowing that is not your job--your job is to do what I tell you to.
+212	00:00:00,000 --> 00:00:00,000		[The two men load the body into Miles's van while Radzinsky keeps watch.]
+214	00:00:00,000 --> 00:00:00,000	RADZINSKY	Take him back to Horace now, Miles.
+216	00:00:00,000 --> 00:00:00,000		[Miles gets in his van. The workers close up the van's hatchback and go back into the jungle. As soon as they and Radzinsky are gone, Miles turns around in the van and removes the canvas tarp covering the body bag, then unzips the body bag to get a good look at the man's face.]
+218	00:00:00,000 --> 00:00:00,000	MILES	[Lowered voice] Okay... so what really happened?
+220	00:00:00,000 --> 00:00:00,000		[Flashback - Miles Straume knocks on the door of apartment 7 at the same Southern California apartment building seen earlier. He wears a red plaid hooded jacket with an upside-down numeral 1 on the back, jeans, boots, and a print patterned T-shirt. His black hair is spiked up rebelliously with a gray streak through it, and he has 4 piercings in his right ear, 3 piercings on his chin (including a pointy spike that protrudes straight out), 1 in his right nostril, 2 in his left eyebrow, and 5 on his left ear, for a total of 15 piercings on his face. Children shout indistinctly in the distance. A middle-aged woman named Evelyn answers the door; she wears pink nurse's scrubs and a look of mixed surprise and scorn.]
+222	00:00:00,000 --> 00:00:00,000	MILES	I need to see her.
+224	00:00:00,000 --> 00:00:00,000		[Evelyn stands aside and Miles enters the apartment. The bedroom looks more like a hospital room, with chairs arranged around a bed where a very ill-looking Lara lies, much of her hair having fallen out. Prescription pill bottles line a bed-table, an end table, and the headboard stand. Various other medical apparatus sits strewn about the room; a few bags of fluid hang from an IV pole. Also on the headboard stand are a few framed family photographs showing Miles as a child, one of them with Lara and another with a man wearing a shirt and tie. Artwork of a galloping mare and foal is displayed over the bed. Miles sits down in a bedside chair. His mother's eyes are closed.]
+226	00:00:00,000 --> 00:00:00,000	MILES	Ma? [Voice breaks] It's me.
+228	00:00:00,000 --> 00:00:00,000		[Lara comes to and exhales deeply.]
+230	00:00:00,000 --> 00:00:00,000	LARA	[Weakly] Miles.
+232	00:00:00,000 --> 00:00:00,000	MILES	[Taking her hand] I'm--I'm sorry that... I couldn't make it by sooner.
+234	00:00:00,000 --> 00:00:00,000	LARA	It's okay. You're here now. Why did you come, Miles?
+236	00:00:00,000 --> 00:00:00,000	MILES	I need you to tell me why I'm this way... how... how I do the things I do. And I need to know why you won't talk to me about my father.
+238	00:00:00,000 --> 00:00:00,000	LARA	Because he never cared about us... never cared about you.
+240	00:00:00,000 --> 00:00:00,000	MILES	I need to know where he is, Ma.
+242	00:00:00,000 --> 00:00:00,000	LARA	It doesn't matter where.
+244	00:00:00,000 --> 00:00:00,000	MILES	It does matter.
+246	00:00:00,000 --> 00:00:00,000	LARA	Miles, please.
+248	00:00:00,000 --> 00:00:00,000	MILES	I have a right to know!
+250	00:00:00,000 --> 00:00:00,000	LARA	He's dead.
+252	00:00:00,000 --> 00:00:00,000		[Miles releases his mother's hand in shock.]
+254	00:00:00,000 --> 00:00:00,000	LARA	Your father... kicked us out when you were just a baby. He didn't want anything to do with us. So the less you knew about him, the better.
+256	00:00:00,000 --> 00:00:00,000		[Miles's lower lip trembles as he tries to comprehend this news.]
+258	00:00:00,000 --> 00:00:00,000	MILES	Why didn't you just tell me?
+260	00:00:00,000 --> 00:00:00,000	LARA	Because it was over. Your dad has been dead a long time.
+262	00:00:00,000 --> 00:00:00,000	MILES	Where's his body?
+264	00:00:00,000 --> 00:00:00,000	LARA	Somewhere you can never go.
+266	00:00:00,000 --> 00:00:00,000		[On-Island - Back in 1977, Miles runs down the steps into the Security Center to find Horace speaking on the telephone.]
+268	00:00:00,000 --> 00:00:00,000	HORACE	Pierre, if it was caused by the electromagnetism, we need to know. You wanna see it now? Y--yeah, he just got back. I'll send him out with it right away. Okay!
+270	00:00:00,000 --> 00:00:00,000		[Horace slams the receiver down.]
+272	00:00:00,000 --> 00:00:00,000	HORACE	Did you bring the package?
+274	00:00:00,000 --> 00:00:00,000	MILES	"Package"? You mean the corpse?
+276	00:00:00,000 --> 00:00:00,000	HORACE	Yeah. Now I need you to bring it out to Dr. Chang at the Orchid.
+278	00:00:00,000 --> 00:00:00,000		[Miles shakes his head. Horace reaches for a binder from a shelf.]
+280	00:00:00,000 --> 00:00:00,000	MILES	Listen, man. I'm security. If you just need somebody to drive the van, can't someone from the motor pool do it?
+282	00:00:00,000 --> 00:00:00,000	HORACE	[Forcefully] If I wanted someone from the motor pool, I would have asked them. And since LaFleur decided to disappear, you're all I've got. So just bring it out to Dr. Chang, and we'll all call it a day. Okay?
+284	00:00:00,000 --> 00:00:00,000		[Miles turns and exits.]
+286	00:00:00,000 --> 00:00:00,000		[Outside at the motor pool, Hurley, wearing a tan DHARMA Initiative jumpsuit with his name (and his title, "Chef") embroidered on it, opens the hatchback of a DHARMA van and begins loading it with a couple of stainless steel coolers.]
+288	00:00:00,000 --> 00:00:00,000	MILES	Hey! What the hell are you doing?! That's my van!
+290	00:00:00,000 --> 00:00:00,000	HURLEY	Nah, dude, I just signed it out.
+292	00:00:00,000 --> 00:00:00,000	MILES	Doesn't matter. It's mine.
+294	00:00:00,000 --> 00:00:00,000	HURLEY	Well, where you going?
+296	00:00:00,000 --> 00:00:00,000		[Miles removes the cooler Hurley just put in, while Hurley loads the second cooler.]
+298	00:00:00,000 --> 00:00:00,000	MILES	The Orchid.
+300	00:00:00,000 --> 00:00:00,000	HURLEY	Me too. I made lunch for the crew. Sandwiches. Want one? Ham and cheese, and I made my secret garlic mayo.
+302	00:00:00,000 --> 00:00:00,000	MILES	You're waiting for the next van.
+304	00:00:00,000 --> 00:00:00,000		[Hurley picks up the first cooler to put it back in.]
+306	00:00:00,000 --> 00:00:00,000	HURLEY	Why? We're going to the same place. Why don't we carpool? It'll help with global warming, which hasn't happened yet, so maybe we can prevent it. ...Wait a sec. Are you on some kind of secret mission?
+308	00:00:00,000 --> 00:00:00,000	MILES	Just get in.
+310	00:00:00,000 --> 00:00:00,000		[Miles closes the hatchback on the two coolers and the "package".]
+312	00:00:00,000 --> 00:00:00,000		[Inside the Infirmary, Juliet opens a cabinet to stock some supplies. Kate walks in through the door.]
+314	00:00:00,000 --> 00:00:00,000	KATE	Hi.
+316	00:00:00,000 --> 00:00:00,000	JULIET	Hey.
+318	00:00:00,000 --> 00:00:00,000	JULIET	How'd it go?
+320	00:00:00,000 --> 00:00:00,000	KATE	We gave him to them--to the Others.
+322	00:00:00,000 --> 00:00:00,000		[Kate sits down.]
+324	00:00:00,000 --> 00:00:00,000	JULIET	Anyone see you?
+326	00:00:00,000 --> 00:00:00,000	KATE	I don't think so.
+328	00:00:00,000 --> 00:00:00,000	JULIET	Did James help?
+330	00:00:00,000 --> 00:00:00,000	KATE	Yes. Thank you so much for sending him.
+332	00:00:00,000 --> 00:00:00,000	JULIET	Of course.
+334	00:00:00,000 --> 00:00:00,000		[Roger Linus bursts into the Infirmary carrying a crate of medical supplies.]
+336	00:00:00,000 --> 00:00:00,000	ROGER	Hey. [Panting] I got here as soon as I could. [Exhales deeply] All the vans were out, so I had to ru--
+338	00:00:00,000 --> 00:00:00,000		[Roger sees an empty bed.]
+340	00:00:00,000 --> 00:00:00,000	ROGER	Where's Ben? Did he...
+342	00:00:00,000 --> 00:00:00,000	JULIET	No! No, Roger.
+344	00:00:00,000 --> 00:00:00,000		[Roger walks through the empty Infirmary, inspecting.]
+346	00:00:00,000 --> 00:00:00,000	ROGER	Then where is he?
+348	00:00:00,000 --> 00:00:00,000	JULIET	Roger, I--I'm so sorry. I--I was gone for ten minutes. I--I--I don't know.
+350	00:00:00,000 --> 00:00:00,000	ROGER	What? You--you said he was dying. How could he be gone?
+352	00:00:00,000 --> 00:00:00,000	JULIET	I don't know! I'm--Roger--
+354	00:00:00,000 --> 00:00:00,000	ROGER	[To Kate] What is she telling me, that he just got up and walked out?
+356	00:00:00,000 --> 00:00:00,000	KATE	I don't know. I just got here--
+358	00:00:00,000 --> 00:00:00,000	ROGER	You're his doctors! You're supposed to watch him!
+360	00:00:00,000 --> 00:00:00,000	JULIET	I know. I know. Roger, if we just calm down--
+362	00:00:00,000 --> 00:00:00,000	ROGER	Don't tell me to calm down! Somebody came and took my boy out of here?!
+364	00:00:00,000 --> 00:00:00,000	JULIET	I know. I am so sorry.
+366	00:00:00,000 --> 00:00:00,000	ROGER	I'm going to Security.
+368	00:00:00,000 --> 00:00:00,000		[Looking back over his shoulder at the two women as he storms out, Roger knocks over a tray of medical instruments. The door slams behind him.]
+370	00:00:00,000 --> 00:00:00,000	JULIET	[Looking at Kate] Well... here we go.
+372	00:00:00,000 --> 00:00:00,000		[Juliet walks away.]
+374	00:00:00,000 --> 00:00:00,000		[Miles's blue DHARMA van cruises down a dirt path cut through the vegetation on the Island. Albert Hammond's "It Never Rains In Southern California" plays on the DHARMA van's stereo. Hurley sits in the passenger seat, scribbling in a DHARMA Initiative brand composition notebook. The logo on the notebook figures an apple on a stack of books. The logo on Hurley's jumpsuit patch shows a chef's hat over a crossed knife and fork.]
+376	00:00:00,000 --> 00:00:00,000	STEREO	Got on board a westbound 747...
+378	00:00:00,000 --> 00:00:00,000	HURLEY	How do you spell "bounty hunter"?
+380	00:00:00,000 --> 00:00:00,000	MILES	What are you doing, writing your memoirs?
+382	00:00:00,000 --> 00:00:00,000		[Hurley defensively snaps the composition book closed.]
+384	00:00:00,000 --> 00:00:00,000	HURLEY	It's personal.
+386	00:00:00,000 --> 00:00:00,000		[Hurley goes back to writing. Later, he looks up at Miles again.]
+388	00:00:00,000 --> 00:00:00,000	HURLEY	Dude... did you just... you know?
+390	00:00:00,000 --> 00:00:00,000	MILES	What?
+392	00:00:00,000 --> 00:00:00,000	HURLEY	You know. It stinks. Did you...
+394	00:00:00,000 --> 00:00:00,000	MILES	No.
+396	00:00:00,000 --> 00:00:00,000	HURLEY	Well, it wasn't me.
+398	00:00:00,000 --> 00:00:00,000	MILES	So roll down your window.
+400	00:00:00,000 --> 00:00:00,000		[Hurley rolls down his window.]
+402	00:00:00,000 --> 00:00:00,000	HURLEY	Nah, man, there's something foul in here. It's coming from back there.
+404	00:00:00,000 --> 00:00:00,000	MILES	Maybe it's your famous garlic mayo.
+406	00:00:00,000 --> 00:00:00,000	HURLEY	Unh-unh. That's not possible.
+408	00:00:00,000 --> 00:00:00,000		[Hurley looks worriedly at Miles.]
+410	00:00:00,000 --> 00:00:00,000	HURLEY	Okay, maybe it is possible. Pull over. I gotta check.
+412	00:00:00,000 --> 00:00:00,000	MILES	Forget it. You're imagining things.
+414	00:00:00,000 --> 00:00:00,000	HURLEY	I gotta check. If those sandwiches are bad, people could get sick.
+416	00:00:00,000 --> 00:00:00,000		[Hurley tries to crawl out of his seat and into the back, but he finds he's just too big.]
+418	00:00:00,000 --> 00:00:00,000	HURLEY	Will you pull over?!
+420	00:00:00,000 --> 00:00:00,000		[Miles stops. The engine idles and turns off; the music turns off with it. Hurley hobbles out and opens the hatchback. Following his nose, he shifts around the coolers and feels the "package". He throws aside its canvas covering. Miles has stepped out of the van and joined him. Hurley feels the body bag.]
+422	00:00:00,000 --> 00:00:00,000	HURLEY	Dude, there's a body bag back here. With a body in it.
+424	00:00:00,000 --> 00:00:00,000	MILES	That's traditionally what you put in a body bag.
+426	00:00:00,000 --> 00:00:00,000	HURLEY	Yeah, well, who is he? What happened?
+428	00:00:00,000 --> 00:00:00,000	MILES	Don't worry about it and don't tell anybody you saw him.
+430	00:00:00,000 --> 00:00:00,000	HURLEY	Dude, what happened to him?
+432	00:00:00,000 --> 00:00:00,000		[Miles re-covers the body bag with the canvas tarp and scoots the cooler back into place.]
+434	00:00:00,000 --> 00:00:00,000	MILES	His name's Alvarez. He was digging a hole and thinking about some chick named AndrÃƒÂ©a. Then he felt this sharp pain in his mouth, which turned out to be a filling from his tooth being yanked right out of its socket and... blowing through his brain. Then he was dead.
+436	00:00:00,000 --> 00:00:00,000	HURLEY	How does a filling get blown through someone's head?
+438	00:00:00,000 --> 00:00:00,000	MILES	Got me. Can we go now?
+440	00:00:00,000 --> 00:00:00,000		[Miles closes the hatchback and heads back to the driver's seat.]
+442	00:00:00,000 --> 00:00:00,000	HURLEY	How do you know all this?
+444	00:00:00,000 --> 00:00:00,000	MILES	Because... I know.
+446	00:00:00,000 --> 00:00:00,000	HURLEY	Yeah, but how do you know what he was thinking?
+448	00:00:00,000 --> 00:00:00,000	MILES	I just know.
+450	00:00:00,000 --> 00:00:00,000	HURLEY	You can talk to dead people.
+452	00:00:00,000 --> 00:00:00,000		[Miles gets in and shuts the door.]
+454	00:00:00,000 --> 00:00:00,000	MILES	Can we please just go?
+456	00:00:00,000 --> 00:00:00,000	HURLEY	[Stepping up to Miles's window] Don't worry, dude. Your secret's safe with me. You wanna know why?
+458	00:00:00,000 --> 00:00:00,000	MILES	No.
+460	00:00:00,000 --> 00:00:00,000	HURLEY	'Cause I can talk to 'em, too.
+462	00:00:00,000 --> 00:00:00,000		[Miles looks at Hurley, finally making eye contact with him. Hurley taps Miles's door and goes around the van.]
+464	00:00:00,000 --> 00:00:00,000		[Flashback - Miles holds a framed photograph of a teenage man with close-cropped blond hair kneeling on a green grass field in a blue and gold football uniform and holding a football helmet. The player's number is 59. Miles sits at a picnic table in a backyard in Southern California. Laundry hangs from a clothesline, and a push lawnmower sits waiting to be used. A stocky middle-aged bald man sits across from Miles at the picnic table.]
+466	00:00:00,000 --> 00:00:00,000	MILES	If you don't mind, Mr. Gray, can you tell me what happened to him?
+468	00:00:00,000 --> 00:00:00,000	MR. GRAY	Last Labor Day weekend, drunk driver ran the light. That was that.
+470	00:00:00,000 --> 00:00:00,000	MILES	Where is your son buried?
+472	00:00:00,000 --> 00:00:00,000	MR. GRAY	We cremated him, scattered the ashes on the football field at school.
+474	00:00:00,000 --> 00:00:00,000		[At this news, Miles looks apprehensive, full of reservation.]
+476	00:00:00,000 --> 00:00:00,000	MILES	For what I do, it's much better if there's a body.
+478	00:00:00,000 --> 00:00:00,000	MR. GRAY	Oh, but your ad said you could communicate with the dead anytime, anywhere.
+480	00:00:00,000 --> 00:00:00,000	MILES	I--I know what my ad says, Mr. Gray, but it--
+482	00:00:00,000 --> 00:00:00,000	MR. GRAY	Please. I just want you to ask him... did he know that I loved him?
+484	00:00:00,000 --> 00:00:00,000	MILES	It's gonna cost extra.
+486	00:00:00,000 --> 00:00:00,000	MR. GRAY	Of course.
+488	00:00:00,000 --> 00:00:00,000		[Mr. Gray reaches into his pocket and pulls out a black wallet. He thumbs through a wad of six or eight hundred-dollar bills and hands the whole wad to Miles.]
+490	00:00:00,000 --> 00:00:00,000	MR. GRAY	Thank you.
+492	00:00:00,000 --> 00:00:00,000		[Miles folds the bills several and puts them into the inner pocket of his brown blazer.]
+494	00:00:00,000 --> 00:00:00,000	MILES	Uh... okay, now... please give me your hands.
+496	00:00:00,000 --> 00:00:00,000		[Miles takes one of Mr. Gray's hands in each of his own.]
+498	00:00:00,000 --> 00:00:00,000	MILES	I want you to concentrate on Russell. Just get a picture of him in your head. Can you do that?
+500	00:00:00,000 --> 00:00:00,000	MR. GRAY	Yeah. Okay.
+502	00:00:00,000 --> 00:00:00,000		[Miles looks down for a few moments, then looks up.]
+504	00:00:00,000 --> 00:00:00,000	MR. GRAY	Did it work?
+506	00:00:00,000 --> 00:00:00,000	MILES	Your son says he knew that you loved him. He always knew.
+508	00:00:00,000 --> 00:00:00,000		[Mr. Gray inhales and exhales deeply.]
+510	00:00:00,000 --> 00:00:00,000	MR. GRAY	Thank you.
+512	00:00:00,000 --> 00:00:00,000	MILES	I'm sorry for your loss.
+514	00:00:00,000 --> 00:00:00,000		[Miles gets up from the picnic table and picks up his brown ghostbuster device case from the bench. He heads out to his old and rusted car, pops the trunk, and throws the ghostbuster device case inside.]
+516	00:00:00,000 --> 00:00:00,000	NAOMI	Excuse me. Miles Straume?
+518	00:00:00,000 --> 00:00:00,000		[Naomi approaches from the front of the car.]
+520	00:00:00,000 --> 00:00:00,000	MILES	Yeah.
+522	00:00:00,000 --> 00:00:00,000		[The trunk slams.]
+524	00:00:00,000 --> 00:00:00,000	NAOMI	Hi. My name's Naomi Dorrit.
+526	00:00:00,000 --> 00:00:00,000		[Naomi hands Miles a business card.]
+528	00:00:00,000 --> 00:00:00,000	NAOMI	My employer's been following your work for some time now, and he's interested in retaining your rather unique services.
+530	00:00:00,000 --> 00:00:00,000		[Miles nods faintly.]
+532	00:00:00,000 --> 00:00:00,000	NAOMI	There's a restaurant not too far from here. Would you like to hear what I have to say?
+534	00:00:00,000 --> 00:00:00,000	MILES	Yeah. Absolutely.
+536	00:00:00,000 --> 00:00:00,000		[Naomi walks off and Miles follows her.]
+538	00:00:00,000 --> 00:00:00,000		[On-Island - Back at the Barracks in 1977, it is midday and indistinct conversations can be heard amongst all the activity. Roger Linus sits on a playground swing, swigging beer. He chucks one can and pops open another. It fizzes and he blows off the foam. Kate sees him and approaches furtively, compassionately.]
+540	00:00:00,000 --> 00:00:00,000	KATE	Hi, Roger.
+542	00:00:00,000 --> 00:00:00,000		[Roger waves a finger, not looking at her.]
+544	00:00:00,000 --> 00:00:00,000	KATE	You okay?
+546	00:00:00,000 --> 00:00:00,000	ROGER	[Scoffs] Let me see... Well, my son got shot and now he's disappeared, so... I think I'm pretty far from okay.
+548	00:00:00,000 --> 00:00:00,000	KATE	[Sitting down on the swing next to him] You know, I'm sure... things are gonna work out.
+550	00:00:00,000 --> 00:00:00,000		[Roger hands her a beer and she pops open the pop-top.]
+552	00:00:00,000 --> 00:00:00,000	ROGER	Well, thanks for the pep talk.
+554	00:00:00,000 --> 00:00:00,000	KATE	I just have a feeling he's gonna be okay.
+556	00:00:00,000 --> 00:00:00,000	ROGER	What do you mean, a feeling?
+558	00:00:00,000 --> 00:00:00,000	KATE	I just don't think that you should give up hope.
+560	00:00:00,000 --> 00:00:00,000	ROGER	Do you know something? Do you know what happened to my son?
+562	00:00:00,000 --> 00:00:00,000	KATE	No, I don't.
+564	00:00:00,000 --> 00:00:00,000		[She gets up, and Roger gets up too.]
+566	00:00:00,000 --> 00:00:00,000	ROGER	Wait a minute. Why are you so interested in my kid?
+568	00:00:00,000 --> 00:00:00,000	KATE	You know, I'm sorry I came over here, all right? I was just trying to help.
+570	00:00:00,000 --> 00:00:00,000	ROGER	Oh, you're trying to help, huh? You wanna help, Kate?! Well, why don't you just mind your own business?
+572	00:00:00,000 --> 00:00:00,000		[Miles and Hurley come over a grass hill in their DHARMA van. Captain & Tennille's "Love Will Keep Us Together" plays on the stereo. Inside, Hurley continues writing in his composition book.]
+574	00:00:00,000 --> 00:00:00,000	STEREO	Love / Love will keep us together...
+576	00:00:00,000 --> 00:00:00,000	HURLEY	I don't know why you just won't admit it. You can trust me. I talk to lots of dead people.
+578	00:00:00,000 --> 00:00:00,000	MILES	[Incredulously] So, you have conversations with them, like they're your pals?
+580	00:00:00,000 --> 00:00:00,000	HURLEY	Sure, all the time. Sometimes we even play chess.
+582	00:00:00,000 --> 00:00:00,000	MILES	You actually see them?
+584	00:00:00,000 --> 00:00:00,000	HURLEY	Of course. Why wouldn't I?
+586	00:00:00,000 --> 00:00:00,000	MILES	Because that's not how it works.
+588	00:00:00,000 --> 00:00:00,000	HURLEY	Aha! You wouldn't know how it works unless you can do it.
+590	00:00:00,000 --> 00:00:00,000	MILES	What I can do has nothing to do with chatting with ghosts, you nitwit. It's a... feeling... a sense. When somebody's dead, their brain stops functioning, which means there's no more talking. There's just who they were and whatever they knew before they died.
+592	00:00:00,000 --> 00:00:00,000	HURLEY	[Turning back to his composition book] That's how it works for me.
+594	00:00:00,000 --> 00:00:00,000	MILES	Great. I'm happy for you.
+596	00:00:00,000 --> 00:00:00,000	HURLEY	You're just jealous my powers are better than yours.
+598	00:00:00,000 --> 00:00:00,000	MILES	We're here. Now shut the hell up and deliver your damn sandwiches.
+600	00:00:00,000 --> 00:00:00,000		[The van pulls up to the Orchid greenhouse, still under construction. Workers carry cable, saw wood beams, wheelbarrow materials, and shout indistinctly to each other (the only distinct thing that can be heard in the chatter is "...we're ready for him"). Miles shuts off the engine. Hurley and Miles get out of the van. Miles spots Dr. Pierre Chang walking out of the greenhouse superstructure. Hurley opens the hatchback and they each grab a cooler, setting them on the ground. Dr. Chang walks up to them.]
+602	00:00:00,000 --> 00:00:00,000	DR. CHANG	[To Miles, referring to Hurley] What's he doing here?
+604	00:00:00,000 --> 00:00:00,000	MILES	Um, he came to deliver lunch to the work crew.
+606	00:00:00,000 --> 00:00:00,000	DR. CHANG	Lunch? Your instructions were to come alone.
+608	00:00:00,000 --> 00:00:00,000		[Dr. Chang goes to the body in the trunk, but turns when he hears Hurley.]
+610	00:00:00,000 --> 00:00:00,000	HURLEY	Don't worry. I won't tell anyone about the body.
+612	00:00:00,000 --> 00:00:00,000	DR. CHANG	[To Miles] He knows?
+614	00:00:00,000 --> 00:00:00,000	MILES	I'm sorry, sir. He--he was rooting around in the back, and he saw it.
+616	00:00:00,000 --> 00:00:00,000	HURLEY	Dude. I can keep a secret.
+618	00:00:00,000 --> 00:00:00,000	DR. CHANG	Well, you'd better... [Looking at Hurley's embroidered jumpsuit] "Hurley", 'cause if you think working in the kitchen is bad--
+620	00:00:00,000 --> 00:00:00,000	HURLEY	I like the kitchen.
+622	00:00:00,000 --> 00:00:00,000	DR. CHANG	Well, how do you feel about polar bear feces? Because if you breathe one word of this, I'll have you shipped to Hydra Island so you can weigh turds for their ridiculous experiments.
+624	00:00:00,000 --> 00:00:00,000	HURLEY	Gross.
+626	00:00:00,000 --> 00:00:00,000		[Dr. Chang sighs, then calls over to two men--evidently not construction workers, as they wear tan jumpsuits and no hardhats.]
+628	00:00:00,000 --> 00:00:00,000	DR. CHANG	You two! Get the package inside.
+630	00:00:00,000 --> 00:00:00,000		[The two men shuffle over to the van.]
+632	00:00:00,000 --> 00:00:00,000	DR. CHANG	[To Miles] And you? Stay here till I get back. You think you can handle that?
+634	00:00:00,000 --> 00:00:00,000	MILES	[Not looking at Dr. Chang] Yes, sir.
+636	00:00:00,000 --> 00:00:00,000		[Dr. Chang walks away.]
+638	00:00:00,000 --> 00:00:00,000	FIRST DHARMA INITIATIVE MAN	What the hell's he got, Jimmy Hoffa in here?
+640	00:00:00,000 --> 00:00:00,000	SECOND DHARMA INITIATIVE MAN	I don't know.
+642	00:00:00,000 --> 00:00:00,000	FIRST DHARMA INITIATIVE MAN	Lift him. [Grunts]
+644	00:00:00,000 --> 00:00:00,000		[A jackhammer sounds. The two men take the body away. Miles closes the hatchback. Hurley and Miles lean against the back of the van and look on as Dr. Chang berates a hard-hatted construction worker. They can just barely make out what he's saying from a distance, but it's not very nice.]
+646	00:00:00,000 --> 00:00:00,000	HURLEY	Dude, that guy's a total douche.
+648	00:00:00,000 --> 00:00:00,000	DR. CHANG	[To worker] Don't... [inaudible] You are not qualified to be touching that!...
+650	00:00:00,000 --> 00:00:00,000	MILES	That douche is my dad.
+652	00:00:00,000 --> 00:00:00,000		[Hurley looks at Miles.]
+654	00:00:00,000 --> 00:00:00,000	DR. CHANG	[Yelling at worker] What the hell do you think you're doing? What are you doing?!
+656	00:00:00,000 --> 00:00:00,000		[Miles looks at the ground.]
+658	00:00:00,000 --> 00:00:00,000		[Flashback - A darkened space. With a click, a light comes on, but it is only a small red light that barely illuminates anything, like an emergency light.]
+660	00:00:00,000 --> 00:00:00,000	MILES	You did say you were taking me out to dinner.
+662	00:00:00,000 --> 00:00:00,000		[Naomi and Miles round a corner. Naomi shines a flashlight, and finds a second switch.]
+664	00:00:00,000 --> 00:00:00,000	NAOMI	No, I said I was taking you to a restaurant.
+666	00:00:00,000 --> 00:00:00,000		[With the second click, more lights flick on. Empty shelves gather dust in the large kitchen of a deserted restaurant.]
+668	00:00:00,000 --> 00:00:00,000	MILES	You wanna tell me what's back here, sweetheart?
+670	00:00:00,000 --> 00:00:00,000		[Past rows of hanging pots and ovens, Naomi comes to some stainless steel counters and sinks. One of the tables has a man in a clear plastic body bag in it.]
+672	00:00:00,000 --> 00:00:00,000	NAOMI	Your audition.
+674	00:00:00,000 --> 00:00:00,000		[Naomi unzips the body bag while Miles keeps his distance.]
+676	00:00:00,000 --> 00:00:00,000	MILES	Look, whatever you got going on here, this isn't really my thing.
+678	00:00:00,000 --> 00:00:00,000	NAOMI	From what I understand, Miles, if the price is right, this is exactly your thing.
+680	00:00:00,000 --> 00:00:00,000		[Reaching into her jeans hip pocket, Naomi tosses a large wad of rubber-banded cash at Miles. He catches it and checks the values of the bills.]
+682	00:00:00,000 --> 00:00:00,000	NAOMI	So what can you tell me about this man?
+684	00:00:00,000 --> 00:00:00,000		[Miles pockets the money and steps up to the counter. He closes his eyes and nods his head a bit as if sniffing or sensing. Ghostly whispering, and a whoosh.]
+686	00:00:00,000 --> 00:00:00,000	MILES	His name's Felix. He was... on his way to deliver something to, uh...
+688	00:00:00,000 --> 00:00:00,000		[The whispering continues.]
+690	00:00:00,000 --> 00:00:00,000	MILES	A guy named... Wid-more.
+692	00:00:00,000 --> 00:00:00,000	NAOMI	Deliver what?
+694	00:00:00,000 --> 00:00:00,000	MILES	A bunch of papers, photos, pictures... of... [the whispering continues] empty graves. A purchase order... for an old airplane.
+696	00:00:00,000 --> 00:00:00,000		[Miles puts his head in his hands. Naomi zips up the body bag.]
+698	00:00:00,000 --> 00:00:00,000	MILES	[Sighs] So... did I pass?
+700	00:00:00,000 --> 00:00:00,000	NAOMI	I'm leading an expedition to an island, and on the island is a man that will be very difficult to find. That's why I need you.
+702	00:00:00,000 --> 00:00:00,000	MILES	Need me for what?
+704	00:00:00,000 --> 00:00:00,000	NAOMI	This island has a number of deceased individuals... residing on it, and as this man is the one responsible for their being deceased, we believe they can supply invaluable information as to his whereabouts.
+706	00:00:00,000 --> 00:00:00,000	MILES	As much as hunting down a mass murderer sounds really safe, uh, I'm--I'm gonna pass. Thanks for the audition.
+708	00:00:00,000 --> 00:00:00,000		[Miles turns to leave.]
+710	00:00:00,000 --> 00:00:00,000	NAOMI	My employer is willing to pay you $1.6 million.
+712	00:00:00,000 --> 00:00:00,000		[Miles stops and turns around.]
+714	00:00:00,000 --> 00:00:00,000	MILES	When do we leave?
+716	00:00:00,000 --> 00:00:00,000		[Naomi smiles.]
+718	00:00:00,000 --> 00:00:00,000		[On-Island - At the Orchid site, Hurley sits on a cooler and unwraps a sandwich.]
+720	00:00:00,000 --> 00:00:00,000	HURLEY	[Gleefully] So anyway...
+722	00:00:00,000 --> 00:00:00,000	MILES	I don't want to talk about it.
+724	00:00:00,000 --> 00:00:00,000	HURLEY	Are you kidding me? How weird is it that your dad is that dude from all those movies? Only back then, he was called Marvin Candle. Was that, like, a stage name?
+726	00:00:00,000 --> 00:00:00,000	MILES	What part of "I don't want to talk about it" isn't sinking in?
+728	00:00:00,000 --> 00:00:00,000	HURLEY	Well, if you didn't want to talk about it, why'd you tell me? How long have you known he was your dad?
+730	00:00:00,000 --> 00:00:00,000	MILES	Third day we were here, I was on line at the cafeteria, and my mother got in line behind me. That was my first clue.
+732	00:00:00,000 --> 00:00:00,000	HURLEY	But all those DHARMA dudes end up dead. Don't you wanna... save him?
+734	00:00:00,000 --> 00:00:00,000		[Dr. Chang walks rankledly in the background.]
+736	00:00:00,000 --> 00:00:00,000	MILES	I can't save him! They're gonna get killed no matter what I do, so why bother?
+738	00:00:00,000 --> 00:00:00,000		[Dr. Chang comes up to Hurley and Miles. His white lab coat has a Swan logo on it.]
+740	00:00:00,000 --> 00:00:00,000	DR. CHANG	I need you to take me to Radzinsky at the work site. Immediately. You... Hurley--you say a word...
+742	00:00:00,000 --> 00:00:00,000	HURLEY	Polar bear poop. Got it.
+744	00:00:00,000 --> 00:00:00,000	MILES	What happened to the body?
+746	00:00:00,000 --> 00:00:00,000	DR. CHANG	What body?
+748	00:00:00,000 --> 00:00:00,000		[Dr. Chang gets in and shuts the door of the van.]
+750	00:00:00,000 --> 00:00:00,000		[Inside the schoolhouse, where janitor Jack is busy wiping clean the chalkboards filled with the day's lessons about Ancient Egyptian language, a door opens and Roger Linus enters with his janitor's cart.]
+752	00:00:00,000 --> 00:00:00,000	ROGER	This room is on my rounds. What are you doing here?
+754	00:00:00,000 --> 00:00:00,000	JACK	I figured I'd cover for ya. I heard what happened to your son.
+756	00:00:00,000 --> 00:00:00,000	ROGER	Which part--that he got shot or that someone kidnapped him from the Infirmary?
+758	00:00:00,000 --> 00:00:00,000	JACK	Then what are you doing here at work?
+760	00:00:00,000 --> 00:00:00,000	ROGER	What else am I gonna do? Sit around and pray that those idiots are gonna find my boy? So you can get outta here.
+762	00:00:00,000 --> 00:00:00,000		[Roger kicks Jack's mop bucket toward the door of the schoolhouse, sloshing water all over the floor. The bucket collides with the door, pushing it open. Roger grabs some cleaning supplies and angrily knocks a chair off its perch on top of a schooldesk. Jack starts mopping up the water.]
+764	00:00:00,000 --> 00:00:00,000	ROGER	You came in here a couple days ago with that woman Kate, right?
+766	00:00:00,000 --> 00:00:00,000	JACK	Yeah.
+768	00:00:00,000 --> 00:00:00,000	ROGER	You know her at all?
+770	00:00:00,000 --> 00:00:00,000		[Roger sprays some cleaner.]
+772	00:00:00,000 --> 00:00:00,000	JACK	Why?
+774	00:00:00,000 --> 00:00:00,000	ROGER	[Wiping a desktop] 'Cause she's got some... kinda weird thing for my kid. First, she shows up at the infirmary and gave him blood. But then when he goes missing, she comes to me and she says, "Don't worry. He's gonna be okay." I'm gonna tell you somethin', man. I'm beginning to think that she's got something to do with this. I should go to Horace, report her. What do you think?
+776	00:00:00,000 --> 00:00:00,000		[Jack slowly steps up to Roger, confrontationally.]
+778	00:00:00,000 --> 00:00:00,000	JACK	I think, Roger, that, uh, that you've had a hell of a day, and that... it's given you a very good excuse to go out and get drunk. Maybe that's put some--some crazy ideas into your head. I know that woman--Kate. She's my friend, and she would never do anything to hurt your son.
+780	00:00:00,000 --> 00:00:00,000	ROGER	Sure.
+782	00:00:00,000 --> 00:00:00,000		[Roger steps back to his janitor's cart, beer can in hand, and wheels it out of the schoolhouse.]
+784	00:00:00,000 --> 00:00:00,000		[The DHARMA van clatters along down a trail. Dr. Chang sits in the passenger's seat, and Hurley sits in the back seat.]
+786	00:00:00,000 --> 00:00:00,000	HURLEY	So I'm new here, Dr. Chang. What is it exactly you do at the Orchid?
+788	00:00:00,000 --> 00:00:00,000	DR. CHANG	It's classified.
+790	00:00:00,000 --> 00:00:00,000	HURLEY	Oh, really? You can't tell anyone? Not even your wife?
+792	00:00:00,000 --> 00:00:00,000	DR. CHANG	No.
+794	00:00:00,000 --> 00:00:00,000	HURLEY	What about your kids?
+796	00:00:00,000 --> 00:00:00,000	DR. CHANG	I have a 3-month-old son, so, no, I haven't told him.
+798	00:00:00,000 --> 00:00:00,000	HURLEY	3 months? Wow! Congrats. What's his name?
+800	00:00:00,000 --> 00:00:00,000	DR. CHANG	Miles.
+802	00:00:00,000 --> 00:00:00,000	HURLEY	Small world! That's your name, too. Right, Miles?
+804	00:00:00,000 --> 00:00:00,000	MILES	Yeah.
+806	00:00:00,000 --> 00:00:00,000	HURLEY	So are you a fan of jazz, Dr. Chang? Like Miles Davis?
+808	00:00:00,000 --> 00:00:00,000	DR. CHANG	My wife is. [Sighs] I like country.
+810	00:00:00,000 --> 00:00:00,000		[Miles looks away incredulously.]
+812	00:00:00,000 --> 00:00:00,000	HURLEY	So you two have been here for... three years now. Must be pretty tight, huh?
+814	00:00:00,000 --> 00:00:00,000		[Dr. Chang looks at Miles and only frowns.]
+816	00:00:00,000 --> 00:00:00,000	MILES	Dr. Chang and I... don't exactly travel in the same circles.
+818	00:00:00,000 --> 00:00:00,000	DR. CHANG	I wasn't aware there were circles.
+820	00:00:00,000 --> 00:00:00,000	HURLEY	Great. We should all... get together for a beer sometime. How awesome would that be?
+822	00:00:00,000 --> 00:00:00,000		[Dr. Chang says nothing, but then leans forward, seeing something.]
+824	00:00:00,000 --> 00:00:00,000	DR. CHANG	Stop here.
+826	00:00:00,000 --> 00:00:00,000		[Miles applies the brakes and turns off the engine. Dr. Chang gets out and approaches a wall of ivy foliage. He tinkers with the ivy, and metal rattles, the wall of foliage swinging open. It's a large, well-camouflaged chain-link gate.]
+828	00:00:00,000 --> 00:00:00,000		[Moments later, the van rolls down the gravel road of a construction site past a Case backhoe, where a hard-hatted man in a navy blue jumpsuit guards the path with a rifle. The man nods as they pass down the slope, swinging around a giant pit in the ground filled with gravel and eight similarly navy-jumpsuited construction workers, a concrete mixer, wheelbarrows, power generators, a crane on a metal tower, scaffolding, an elevator on a tripod leading into a shaft, barrels, pipes, spools of cable, and various other equipment. Two large square shafts emerge from the gravel-filled pit. The construction workers shout indistinctly to each other. The van pulls into the pit and the engine shuts off. Dr. Chang opens the door and gets out. He shuts the door.]
+830	00:00:00,000 --> 00:00:00,000	DR. CHANG	[To Miles] You don't need to wait. I'll get a ride back with Radzinsky.
+832	00:00:00,000 --> 00:00:00,000		[Dr. Chang walks away. Hurley climbs into the front seat.]
+834	00:00:00,000 --> 00:00:00,000	HURLEY	Dude, what is this place? And what's up with all the secrecy?
+836	00:00:00,000 --> 00:00:00,000	MILES	Don't know. Don't care.
+838	00:00:00,000 --> 00:00:00,000		[In the work site, a saw buzzes away, and men speak indistinctly to each other. At least one of the construction workers is a woman. One of the workers, a man, sets down a sturdy-looking metal hatch door inset with a glass window onto a work table. He shouts over to another worker who carries a clipboard.]
+840	00:00:00,000 --> 00:00:00,000	WORKER	Hey, Glenn! What's the serial number that goes on the hatch lid?
+842	00:00:00,000 --> 00:00:00,000	GLENN	4, 8...
+844	00:00:00,000 --> 00:00:00,000		[The first worker picks up metal stamps and pounds them into the metal hatch lid with a heavy mallet, one by one.]
+846	00:00:00,000 --> 00:00:00,000	GLENN	15...
+848	00:00:00,000 --> 00:00:00,000		[The mallet pounds twice.]
+850	00:00:00,000 --> 00:00:00,000	GLENN	16...
+852	00:00:00,000 --> 00:00:00,000		[The mallet pounds twice.]
+854	00:00:00,000 --> 00:00:00,000	GLENN	23...
+856	00:00:00,000 --> 00:00:00,000		[The mallet pounds twice.]
+858	00:00:00,000 --> 00:00:00,000	GLENN	Hold on a minute. It's smudged.
+860	00:00:00,000 --> 00:00:00,000	HURLEY	42.
+862	00:00:00,000 --> 00:00:00,000	GLENN	42.
+864	00:00:00,000 --> 00:00:00,000		[The mallet pounds twice.]
+866	00:00:00,000 --> 00:00:00,000	MILES	How the hell did you know that?
+868	00:00:00,000 --> 00:00:00,000	HURLEY	'Cause they're building our hatch.
+870	00:00:00,000 --> 00:00:00,000	MILES	What hatch?
+872	00:00:00,000 --> 00:00:00,000	HURLEY	The one that crashed our plane.
+874	00:00:00,000 --> 00:00:00,000		[flashback - At night, Miles accepts a take-out container from a taco stand called La Vida Tacos. Mariachi music plays from the taco stand--men sing a forlorn love song in Spanish.]
+876	00:00:00,000 --> 00:00:00,000	MILES	Thanks.
+878	00:00:00,000 --> 00:00:00,000		[Walking away from the stand, Miles opens the foam container and hungrily bites into a soft taco. As Miles passes a barbershop, a dark navy van pulls up, and the man in the passenger seat calls out to Miles.]
+880	00:00:00,000 --> 00:00:00,000	MAN IN VAN	Hey, Miles.
+882	00:00:00,000 --> 00:00:00,000	MILES	Do I know you?
+884	00:00:00,000 --> 00:00:00,000		[The van door slides open and two men wearing hoods and white cloth over the lower two-thirds of their faces jump out and grab Miles, who drops his dinner. They lift him right up off the ground and push him into the van. The door closes, the tires peal, and the van is away. Inside the van as it drives, seated on the floor in the back, Miles looks around at his captors. The man in the passenger seat is turned around to look at Miles and gives a friendly wave.]
+886	00:00:00,000 --> 00:00:00,000	MAN IN VAN	[Amicably] Miles! My name's Bram.
+888	00:00:00,000 --> 00:00:00,000	MILES	You owe me a fish taco.
+890	00:00:00,000 --> 00:00:00,000	BRAM	Sorry about that, but your apartment's being watched. And we had to try our best to talk you out of working for Charles Widmore.
+892	00:00:00,000 --> 00:00:00,000	MILES	I have no idea who that is.
+894	00:00:00,000 --> 00:00:00,000		[Bram climbs out of his seat, positioning himself closer to Miles.]
+896	00:00:00,000 --> 00:00:00,000	BRAM	He's the man who chartered the boat you'll be getting on next week. And, my friend, you do not want to get on that boat. Do you know what lies in the shadow of the statue?
+898	00:00:00,000 --> 00:00:00,000	MILES	No, can't say that I do.
+900	00:00:00,000 --> 00:00:00,000	BRAM	Then you're not ready to go to that island. But if you come with us--all those things you've spent your life trying to find out? You'll know. You'll know who you are, Miles--why it is you have a gift, and most of all, you'll know about your father.
+902	00:00:00,000 --> 00:00:00,000	MILES	I don't know where you've been getting your intel, but I stopped caring about my father a long time ago. What I do care about is money. So, I'll tell you what. You want me to pass on going to the Island? It's gonna cost you double what they offered--$3.2 million.
+904	00:00:00,000 --> 00:00:00,000	BRAM	We're not paying you anything. All the money in the world isn't gonna fill that empty hole inside you, Miles.
+906	00:00:00,000 --> 00:00:00,000		[Bram climbs back into the front passenger seat.]
+908	00:00:00,000 --> 00:00:00,000	MILES	That's sad, isn't it?
+910	00:00:00,000 --> 00:00:00,000	BRAM	Toss him!
+912	00:00:00,000 --> 00:00:00,000		[The two masked men grab Miles by the shoulders, the van brakes in an empty street, the door opens, and Miles is summarily ejected from the van, landing on his feet. Bram calls out through his open window.]
+914	00:00:00,000 --> 00:00:00,000	BRAM	You're playing for the wrong team!
+916	00:00:00,000 --> 00:00:00,000	MILES	Yeah? What team are you on?
+918	00:00:00,000 --> 00:00:00,000	BRAM	The one that's gonna win.
+920	00:00:00,000 --> 00:00:00,000		[The van door slams shut, the engine revs, the tires peal, and the van is gone, leaving Miles alone.]
+922	00:00:00,000 --> 00:00:00,000		[On-Island - At night, a blue DHARMA van motors along a dirt trail on the Island. Miles is driving, and Hurley continues to work in his composition book by the moonlight.]
+924	00:00:00,000 --> 00:00:00,000	HURLEY	That hatch they're building? There's gonna be an accident, then they're gonna have to build a computer with a button you have to push so the world doesn't end.
+926	00:00:00,000 --> 00:00:00,000		[Miles scoffs.]
+928	00:00:00,000 --> 00:00:00,000	HURLEY	So your dad... is he around... you know, when we came from? The future?
+930	00:00:00,000 --> 00:00:00,000	MILES	No.
+932	00:00:00,000 --> 00:00:00,000	HURLEY	Well, then this is kind of awesome for you, huh?
+934	00:00:00,000 --> 00:00:00,000	MILES	How is it awesome?!
+936	00:00:00,000 --> 00:00:00,000	HURLEY	Because you get to hang out with him, you know, get to know him better and stuff.
+938	00:00:00,000 --> 00:00:00,000	MILES	Ch.
+940	00:00:00,000 --> 00:00:00,000	HURLEY	And don't bother thanking me, but he was totally down for that beer, dude. You know, and maybe he'll let you hold baby you, or you can change your own diaper or--
+942	00:00:00,000 --> 00:00:00,000		[Miles slams on the brakes.]
+944	00:00:00,000 --> 00:00:00,000	HURLEY	Whoa!
+946	00:00:00,000 --> 00:00:00,000	MILES	Listen up, 'cause we're only gonna have this conversation once. Okay? I don't want to "hang out" with my dad. I don't want to "know him better"... "and stuff".
+948	00:00:00,000 --> 00:00:00,000	HURLEY	Why not? Did he beat you up when you were little or something?
+950	00:00:00,000 --> 00:00:00,000	MILES	He wasn't even around when I was little, you dimwit! I never knew him, until now. Why am I even telling you this?
+952	00:00:00,000 --> 00:00:00,000	HURLEY	'Cause you're in pain and you need to let it out.
+954	00:00:00,000 --> 00:00:00,000	MILES	I'm not in pain! It doesn't matter. My father is dead! He's gone! He never cared about me, and nothing I can do will ever change that.
+956	00:00:00,000 --> 00:00:00,000	HURLEY	But he's not gone. We just dropped him off.
+958	00:00:00,000 --> 00:00:00,000	MILES	You want to get into my business?
+960	00:00:00,000 --> 00:00:00,000		[Miles snatches the composition book away from Hurley.]
+962	00:00:00,000 --> 00:00:00,000	MILES	Let's get into yours!
+964	00:00:00,000 --> 00:00:00,000		[Miles snatches Hurley's DHARMA Initiative-brand composition book from him.]
+966	00:00:00,000 --> 00:00:00,000	HURLEY	Give that back to me.
+968	00:00:00,000 --> 00:00:00,000	MILES	How about we read your little diary?
+970	00:00:00,000 --> 00:00:00,000	HURLEY	It's not a diary! It's personal!!
+972	00:00:00,000 --> 00:00:00,000		[Miles gets out of the van. Hurley gets out, chasing him.]
+974	00:00:00,000 --> 00:00:00,000	MILES	Let's see what's going on--
+976	00:00:00,000 --> 00:00:00,000	HURLEY	Give that--give that back to me.
+978	00:00:00,000 --> 00:00:00,000	MILES	--in that piece of granite you call a head.
+980	00:00:00,000 --> 00:00:00,000	HURLEY	Give it back!
+982	00:00:00,000 --> 00:00:00,000	MILES	"Exterior--Hoth. A little spy robot thingy zips through the atmosphere and crashes into the snowy planet below. That's when Chewbacca shows up and blasts it away with his crossbow laser. He shakes his fury fist in the sky in triumph. Chewbacca--Raaar."
+984	00:00:00,000 --> 00:00:00,000	HURLEY	[Embarrassedly] It's "furry." "Furry fist." I need a spell-check.
+986	00:00:00,000 --> 00:00:00,000	MILES	What the hell is this?
+988	00:00:00,000 --> 00:00:00,000	HURLEY	I'm writing Empire Strikes Back.
+990	00:00:00,000 --> 00:00:00,000	MILES	Uh... I'm sorry. What?
+992	00:00:00,000 --> 00:00:00,000	HURLEY	It's 1977, right?
+994	00:00:00,000 --> 00:00:00,000		[Miles nods.]
+996	00:00:00,000 --> 00:00:00,000	HURLEY	So Stars Wars just came out. And pretty soon, George Lucas is gonna be looking for a sequel. I've seen Empire, like, 200 times, so I figured I'd make life easier and send him the script... with a couple improvements.
+998	00:00:00,000 --> 00:00:00,000	MILES	That has gotta be the stupidest thing I've ever heard.
+1000	00:00:00,000 --> 00:00:00,000	HURLEY	Oh, yeah? Well, at least I'm not scared to talk to my own dad.
+1002	00:00:00,000 --> 00:00:00,000		[Hurley snatches his composition book back and gets back in the van.]
+1004	00:00:00,000 --> 00:00:00,000		[Still night, Sawyer crosses past a hammock in the Barracks and opens the door to his house. He enters with a sigh and looks around.]
+1006	00:00:00,000 --> 00:00:00,000	JULIET	James. You're back.
+1008	00:00:00,000 --> 00:00:00,000	SAWYER	Barely. You ever had one of those days you feel like the little Dutch boy with your finger in the...
+1010	00:00:00,000 --> 00:00:00,000		[Juliet indicates the other side of the room, where Jack stands quietly, holding a coffee mug.]
+1012	00:00:00,000 --> 00:00:00,000	SAWYER	Doc. Hey. What's going on?
+1014	00:00:00,000 --> 00:00:00,000	JACK	Ben's father thinks that Kate had something to do with his son going missing.
+1016	00:00:00,000 --> 00:00:00,000	SAWYER	Why the hell would he think that?
+1018	00:00:00,000 --> 00:00:00,000		[Jack looks to Juliet.]
+1020	00:00:00,000 --> 00:00:00,000	JULIET	Because she talked to him, tried to make him feel better.
+1022	00:00:00,000 --> 00:00:00,000		[Sawyer scoffs.]
+1024	00:00:00,000 --> 00:00:00,000	JACK	Her heart was in the right place.
+1026	00:00:00,000 --> 00:00:00,000	SAWYER	Yeah, well, where was her head?
+1028	00:00:00,000 --> 00:00:00,000	JACK	I had a talk with Roger. I don't think he's gonna say anything to anyone for now. Just wanted you to know.
+1030	00:00:00,000 --> 00:00:00,000		[Jack hands his empty coffee mug back to Juliet.]
+1032	00:00:00,000 --> 00:00:00,000	JACK	[To Juliet] Thank you.
+1034	00:00:00,000 --> 00:00:00,000	JULIET	Mm.
+1036	00:00:00,000 --> 00:00:00,000	SAWYER	Yeah? Well... [sighs] thanks for filling me in, Doc.
+1038	00:00:00,000 --> 00:00:00,000	JACK	No problem.
+1040	00:00:00,000 --> 00:00:00,000		[Jack opens the door and goes out. Sawyer follows him a bit, watching Jack walk into the night. He puts his hands in his pockets, leans against a post, and sighs deeply. Phil walks up from the other direction, carrying a knapsack.]
+1042	00:00:00,000 --> 00:00:00,000	PHIL	Hey, boss.
+1044	00:00:00,000 --> 00:00:00,000	SAWYER	Hey.
+1046	00:00:00,000 --> 00:00:00,000	PHIL	We got a development. You better come to the office.
+1048	00:00:00,000 --> 00:00:00,000	SAWYER	Phil, I've been running around the jungle all day, so whatever developments you got can wait a while.
+1050	00:00:00,000 --> 00:00:00,000	PHIL	I know who took the kid.
+1052	00:00:00,000 --> 00:00:00,000	SAWYER	Yeah? Who's that?
+1054	00:00:00,000 --> 00:00:00,000		[Phil produces from the backpack and holds up a U-matic videocassette tape. Its label reads "DHARMA SURVEILLANCE TAPE GND-2398923-CTP4", has the numbers "621-41" written on it, and indicates it is from camera #4.]
+1056	00:00:00,000 --> 00:00:00,000	PHIL	You.
+1058	00:00:00,000 --> 00:00:00,000	SAWYER	Got a perfectly good explanation for what you saw on that tape.
+1060	00:00:00,000 --> 00:00:00,000	PHIL	I sure as hell hope so.
+1062	00:00:00,000 --> 00:00:00,000		[Sawyer motions inside the house and steps in. Phil follows. Sawyer closes the door behind them. Phil puts the tape back in the knapsack and puts it on the table.]
+1064	00:00:00,000 --> 00:00:00,000	SAWYER	You talk to Horace yet?
+1066	00:00:00,000 --> 00:00:00,000	PHIL	No. I thought that after three years of working together, I'd give you the benefit of the doubt--
+1068	00:00:00,000 --> 00:00:00,000		[Sawyer throws his fist into Phil's face, sending Phil to the floor with a grunt, leaving him unconscious.]
+1070	00:00:00,000 --> 00:00:00,000	SAWYER	[To Juliet] Get some rope.
+1072	00:00:00,000 --> 00:00:00,000		[Sawyer sighs as he goes to pick up the unconscious Phil.]
+1074	00:00:00,000 --> 00:00:00,000		[Flashback - Mr. Gray rakes up leaves and tree debris in his backyard. Miles Straume enters the yard carrying a large canvas duffel bag, fully packed.]
+1076	00:00:00,000 --> 00:00:00,000	MILES	Mr. Gray? I hope you don't mind. Your gate was open.
+1078	00:00:00,000 --> 00:00:00,000		[Mr. Gray beckons Miles in with a hand gesture. Miles sets his duffel bag down on Mr. Gray's picnic table.]
+1080	00:00:00,000 --> 00:00:00,000	MR. GRAY	Mr. Straume. Of course. Of course. No problem. What, uh, what brings you by?
+1082	00:00:00,000 --> 00:00:00,000	MILES	Well, sir, uh... I'm about to go on a boat trip for a while, and... I wanted to give this back to you.
+1084	00:00:00,000 --> 00:00:00,000		[Miles hands Mr. Gray a folded brown envelope, which Mr. Gray opens to find the wad of hundreds he'd given Miles.]
+1086	00:00:00,000 --> 00:00:00,000	MILES	I lied to you, Mr. Gray. I wasn't able to talk to your son.
+1088	00:00:00,000 --> 00:00:00,000		[Miles picks up his duffel bag.]
+1090	00:00:00,000 --> 00:00:00,000	MR. GRAY	Why are you telling me this? You could have just let me go on believing what you said.
+1092	00:00:00,000 --> 00:00:00,000	MILES	That wouldn't have been fair to your son.
+1094	00:00:00,000 --> 00:00:00,000	MR. GRAY	I'm sorry?
+1096	00:00:00,000 --> 00:00:00,000	MILES	If you needed your son to know that you loved him, you should've told him when he was still alive.
+1098	00:00:00,000 --> 00:00:00,000		[Miles walks away again.]
+1100	00:00:00,000 --> 00:00:00,000		[On-Island - At night, a blue DHARMA van pulls into the Barracks and comes to a stop at the Motor Pool. The engine turns off, and Miles and Hurley get out. Miles walks over to a key rack and hangs the keys to the van back up on their peg--peg 8 out of 16 total.]
+1102	00:00:00,000 --> 00:00:00,000	HURLEY	Sorry I said you were afraid to talk to your dad, dude.
+1104	00:00:00,000 --> 00:00:00,000	MILES	Don't worry about it.
+1106	00:00:00,000 --> 00:00:00,000		[Miles finds the appropriate line on the sign-out sheet hanging next to the key rack and signs the van back in. Hurley removes the gas cap from the van and begins to refuel the vehicle.]
+1108	00:00:00,000 --> 00:00:00,000	HURLEY	I used to hate my dad, too.
+1110	00:00:00,000 --> 00:00:00,000	MILES	Yeah?
+1112	00:00:00,000 --> 00:00:00,000	HURLEY	He left when I was 10. But the best thing I ever did was give him a second chance. We got to be the best of friends, and although I may never see him again, I miss him. And I know he feels the same.
+1114	00:00:00,000 --> 00:00:00,000	MILES	My dad didn't leave when I was 10. I--I was a baby. I never knew him. And I don't want to. It's not happening.
+1116	00:00:00,000 --> 00:00:00,000		[Hurley removes the gas pump and recaps the van's fuel port.]
+1118	00:00:00,000 --> 00:00:00,000	HURLEY	That was Luke's attitude, too.
+1120	00:00:00,000 --> 00:00:00,000	MILES	What?
+1122	00:00:00,000 --> 00:00:00,000	HURLEY	In Empire, Luke found out Vader was his father, but instead of putting away his lightsaber and talking about it, he overreacted and got his hand cut off. I mean, they worked it out eventually, but at what cost? Another Death Star was destroyed, Boba Fett got eaten by the Sarlacc, and we got the Ewoks. It all could've been avoided if they'd just, you know, communicated. And let's face it. The Ewoks sucked, dude.
+1124	00:00:00,000 --> 00:00:00,000		[Hurley walks away.]
+1126	00:00:00,000 --> 00:00:00,000		[Miles, hands in his pockets, walks through the Barracks to the home of Dr. Chang. Looking in through the window, he sees Dr. Chang sitting in a chair holding the infant Miles as they page through a picture book, Me and My Polar Bear, together, the father pointing excitedly to the picutres.]
+1128	00:00:00,000 --> 00:00:00,000	DR. CHANG	[Gasps] Wow! Oh, wow!
+1130	00:00:00,000 --> 00:00:00,000		[Watching this scene, the adult Miles curls up his face briefly, and starts to choke up, as the telephone rings inside the house. Miles's mother answers the phone.]
+1132	00:00:00,000 --> 00:00:00,000	LARA	Hello? Oh, one moment. It's for you.
+1134	00:00:00,000 --> 00:00:00,000		[Lara tries to hand the phone to Dr. Chang, but it is impossible with Miles on his lap, so she sets the phone down as Dr. Chang kisses his boy and passes him off to his mother. He closes the book, stands up, and picks up the phone.]
+1136	00:00:00,000 --> 00:00:00,000	DR. CHANG	Hello? All right. I'll be right there.
+1138	00:00:00,000 --> 00:00:00,000		[Dr. Chang sets down the receiver and walks off, as Lara holds baby Miles in the background. The adult Miles watches this entire scene through the window unabashedly. When the Chang house door opens and Dr. Chang steps outside, putting on his coat, Miles turns quickly away and starts to go.]
+1140	00:00:00,000 --> 00:00:00,000	DR. CHANG	Miles! I need you.
+1142	00:00:00,000 --> 00:00:00,000		[Miles turns back around.]
+1144	00:00:00,000 --> 00:00:00,000	MILES	You do?
+1146	00:00:00,000 --> 00:00:00,000	DR. CHANG	Sub's here from H.Q. I need your help bringing them in.
+1148	00:00:00,000 --> 00:00:00,000	MILES	Sure. New recruits?
+1150	00:00:00,000 --> 00:00:00,000	DR. CHANG	No, uh, scientists from Ann Arbor. Get your van, and let's get to the dock.
+1152	00:00:00,000 --> 00:00:00,000		[A row of lamps on poles illuminate the dock in the darkness of night. A DHARMA dockworker throws a rope down on the deck of the docked submarine. Miles walks down the dock past some unloaded cargo. Behind him, a clipboard-checklisting Radzinsky, Dr. Chang, and other men and women on the dock carry out indistinct conversations. Miles takes a red suitcase from a female scientist in a black jumpsuit and helps her step down from the submarine deck onto the dock. A valise is pushed up from the submarine hatch and the man in the hatch calls out.]
+1154	00:00:00,000 --> 00:00:00,000	MAN	[Sighs] Hey, can I get a hand with this?
+1156	00:00:00,000 --> 00:00:00,000	MILES	[Setting down the female scientist's suitcase] Yeah, yeah, sure.
+1158	00:00:00,000 --> 00:00:00,000		[Miles picks up the valise from the submarine deck and looks as the man inside climbs out. Daniel Faraday, dressed in a fitted black DHARMA Initiative jumpsuit and boots, looks around.]
+1160	00:00:00,000 --> 00:00:00,000	MILES	Dan.
+1162	00:00:00,000 --> 00:00:00,000	FARADAY	Hey, Miles. Long time no see.

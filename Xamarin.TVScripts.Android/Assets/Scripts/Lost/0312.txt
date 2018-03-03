@@ -1,0 +1,374 @@
+Par Avion
+2	00:00:00,000 --> 00:00:00,000	Written by	Christina M. Kim & Jordan Rosenberg
+4	00:00:00,000 --> 00:00:00,000	Directed by	Paul Edwards
+6	00:00:00,000 --> 00:00:00,000		[Flashback - The episode opens to Claire's eye. She is in a car. There has just been an accident and she looks outside the window. On the street in front of her, her mom is lying unconscious.]
+8	00:00:00,000 --> 00:00:00,000	CLAIRE	Mom! Mom! [repeatedly cries for her mom.]
+10	00:00:00,000 --> 00:00:00,000		[On-Island - Claire awakes on the beach. She looks in the crib, but Aaron is not there.]
+12	00:00:00,000 --> 00:00:00,000	CHARLIE	Oh look Aaron! Your mom has finally decided to wake up.
+14	00:00:00,000 --> 00:00:00,000	CLAIRE	Mmm...
+16	00:00:00,000 --> 00:00:00,000		[Charlie hands Aaron to Claire.]
+18	00:00:00,000 --> 00:00:00,000	CHARLIE	Only way I could get you to sleep in, was to borrow the midget.
+20	00:00:00,000 --> 00:00:00,000		[Claire laughs and they both smile.]
+22	00:00:00,000 --> 00:00:00,000	CLAIRE	And, err, what is all this?
+24	00:00:00,000 --> 00:00:00,000	CHARLIE	An aperitif...of mysterious island fruit before the breakfast picnic I have set up in your honor a short walk down the beach.
+26	00:00:00,000 --> 00:00:00,000	CLAIRE	What's gotten into you Charlie?
+28	00:00:00,000 --> 00:00:00,000	CHARLIE	Sorry?
+30	00:00:00,000 --> 00:00:00,000	CLAIRE	It's just, you've been so depressed all week, and now it's breakfast in bed and picnics...
+32	00:00:00,000 --> 00:00:00,000	CHARLIE	I woke up this morning and I thought it's time to stop feeling sorry for yourself and seize the day, and I can't think of anyone I'd rather do some day-seizing with than you. So, what do you say? Let's drop the cherub off with Auntie Sun and Uncle Jin and you and I, go for a little stroll.
+34	00:00:00,000 --> 00:00:00,000	CLAIRE	I would love to.
+36	00:00:00,000 --> 00:00:00,000		[Charlie and Claire get up.]
+38	00:00:00,000 --> 00:00:00,000		[We see the "A-team" around a small campfire.]
+40	00:00:00,000 --> 00:00:00,000	SAYID	From the position of this stream, we should be here, and if the scale is right, his people are two miles in that direction. [to Mikhail] I don't expect you to confirm that.
+42	00:00:00,000 --> 00:00:00,000	LOCKE	It's electrical wiring map, Sayid. I'm not sure it's as accurate as you think.
+44	00:00:00,000 --> 00:00:00,000	SAYID	Well it's certainly not as infallible as the magical carvings on your stick.
+46	00:00:00,000 --> 00:00:00,000	LOCKE	Hey, the stick did get us to that station.
+48	00:00:00,000 --> 00:00:00,000	SAYID	Oh, the station which you accidentally blew up.
+50	00:00:00,000 --> 00:00:00,000	LOCKE	Well, if you'da warned me that the basement was rigged with C4, I might'a been a little more careful.
+52	00:00:00,000 --> 00:00:00,000	KATE	[to Mikhail] Why don't you just tell us if we're going to right way?
+54	00:00:00,000 --> 00:00:00,000	MIKHAIL	You're going the right way.
+56	00:00:00,000 --> 00:00:00,000	LOCKE	Remind me why we're keeping him alive.
+58	00:00:00,000 --> 00:00:00,000	SAYID	What do you suggest, we shoot him like a dog?
+60	00:00:00,000 --> 00:00:00,000	LOCKE	No, I like dogs.
+62	00:00:00,000 --> 00:00:00,000	ROUSSEAU	He's right; they will not trade his life for his friend's. We should shoot him.
+64	00:00:00,000 --> 00:00:00,000	KATE	Enough, nobody's shooting anybody. The map says where they are, and he says the map is right. Just keep moving.
+66	00:00:00,000 --> 00:00:00,000		[Kate starts to walk and everyone follows.]
+68	00:00:00,000 --> 00:00:00,000		[Charlie and Claire are on the beach.]
+70	00:00:00,000 --> 00:00:00,000	CHARLIE	Okay, here we are, here we are. Not bad eh?
+72	00:00:00,000 --> 00:00:00,000	CLAIRE	Not bad at all...
+74	00:00:00,000 --> 00:00:00,000	CHARLIE	Well, if you take a seat, we'll begin with our first course, which is cereal, we have fresh fruit salad-
+76	00:00:00,000 --> 00:00:00,000		[Desmond comes walking down to their picnic on the beach.]
+78	00:00:00,000 --> 00:00:00,000	DESMOND	Good morning.
+80	00:00:00,000 --> 00:00:00,000	CHARLIE	Morning yourself. What brings you down to the beach, Desmond?
+82	00:00:00,000 --> 00:00:00,000	DESMOND	Boar running thick. I was hoping you might want to join me in a hunt.
+84	00:00:00,000 --> 00:00:00,000	CHARLIE	Oh, well thanks for the invite, but as you can see we're just about to begin a picnic.
+86	00:00:00,000 --> 00:00:00,000		[Claire is looking up at birds in the sky, not paying attention to Desmond and Charlie's conversation.]
+88	00:00:00,000 --> 00:00:00,000	DESMOND	I think hunting might be a better way to spend your day, Charlie. I mean of all the things you could choose to do today, hunting with me might be your best option.
+90	00:00:00,000 --> 00:00:00,000	CLAIRE	Oh my god, oh, oh my god.
+92	00:00:00,000 --> 00:00:00,000	CHARLIE	What is it?
+94	00:00:00,000 --> 00:00:00,000	CLAIRE	I think I know how to get us off this island.
+96	00:00:00,000 --> 00:00:00,000		[Charlie looks at Desmond as Claire runs away.]
+98	00:00:00,000 --> 00:00:00,000	CLAIRE	Sun, Jin!
+100	00:00:00,000 --> 00:00:00,000	SUN	Claire! What's the matter?
+102	00:00:00,000 --> 00:00:00,000	CLAIRE	I need Jin's nets and fish. We gotta hurry, and buckets I'm gonna need those too.
+104	00:00:00,000 --> 00:00:00,000	JIN	Ã«Â­ÂÃ«ÂÂ¼ÃªÂ³ Ã­â€¢ËœÃ«Å â€ ÃªÂ±Â°Ã¬â€¢Â¼?
+106	00:00:00,000 --> 00:00:00,000	CLAIRE	We have to catch the birds.
+108	00:00:00,000 --> 00:00:00,000	SUN	What birds?
+110	00:00:00,000 --> 00:00:00,000	CLAIRE	They just flew over and they're only gonna be here today, so if we're gonna catch one, we need to do it now.
+112	00:00:00,000 --> 00:00:00,000	SAWYER	Oh, this sounds like fun.
+114	00:00:00,000 --> 00:00:00,000	CLAIRE	Can you get some nets?
+116	00:00:00,000 --> 00:00:00,000	SAWYER	Nets for what, Barb-
+118	00:00:00,000 --> 00:00:00,000		[Sun looks at Sawyer.]
+120	00:00:00,000 --> 00:00:00,000	SAWYER	Nets for what, Claire?
+122	00:00:00,000 --> 00:00:00,000	CLAIRE	Okay, five minutes ago, a flock of seabirds flew over my head. Seabirds are migratory which means they're going to keep heading south.
+124	00:00:00,000 --> 00:00:00,000	SUN	I'm sorry; I don't understand why we need to-
+126	00:00:00,000 --> 00:00:00,000	CLAIRE	They're tagged!
+128	00:00:00,000 --> 00:00:00,000	JIN	Tagged?
+130	00:00:00,000 --> 00:00:00,000	CLAIRE	Scientists tag these birds so they can track them. So, when they eventually land in Australia or New Zealand or wherever, somebody's gonna gather them up.
+132	00:00:00,000 --> 00:00:00,000	SUN	We can send a message!
+134	00:00:00,000 --> 00:00:00,000		[Charlie walks up to them. He looks at Desmond who is behind him.]
+136	00:00:00,000 --> 00:00:00,000	CLAIRE	If we can catch one. Okay, so here's the plan. First we gotta cut up these fish, make chum, that'll get the birds to settle in the water. And then, umm, we're gonna need to cut up some of this net. Charlie, can you go get some knives?
+138	00:00:00,000 --> 00:00:00,000		[Charlie does not respond.]
+140	00:00:00,000 --> 00:00:00,000	CLAIRE	Umm, Charlie.
+142	00:00:00,000 --> 00:00:00,000		[Still no response.]
+144	00:00:00,000 --> 00:00:00,000	CLAIRE	Charlie!
+146	00:00:00,000 --> 00:00:00,000	CHARLIE	Yeah, err, how do you even know this stuff about birds, Claire?
+148	00:00:00,000 --> 00:00:00,000	CLAIRE	I, umm, I watched a lot of nature shows with my mum.
+150	00:00:00,000 --> 00:00:00,000	CHARLIE	That doesn't exactly make you an expert. I just... I don't want to see you wasting your time, that's all.
+152	00:00:00,000 --> 00:00:00,000	CLAIRE	So what happened to seizing the day?
+154	00:00:00,000 --> 00:00:00,000	CHARLIE	Sorry, I don't see the point.
+156	00:00:00,000 --> 00:00:00,000		[As Charlie walks away, Claire looks at Desmond, and becomes very curious.]
+158	00:00:00,000 --> 00:00:00,000		[Flashback - Claire is getting her stitches completed by the doctor.]
+160	00:00:00,000 --> 00:00:00,000	E.R. DOCTOR	Hold still dear, just another second. There. [to Barnes] We're through now.
+162	00:00:00,000 --> 00:00:00,000	OFFICER BARNES	Miss Littleton? I'm Officer Barnes. I'm sorry to bother you, but I need to ask you a few questions. Can I-ask you how the accident happened?
+164	00:00:00,000 --> 00:00:00,000	CLAIRE	A truck forced us off the road.
+166	00:00:00,000 --> 00:00:00,000	BARNES	Okay... and who was driving?
+168	00:00:00,000 --> 00:00:00,000	CLAIRE	[hesitates] Me.
+170	00:00:00,000 --> 00:00:00,000	BARNES	Has anyone contacted your father?
+172	00:00:00,000 --> 00:00:00,000	CLAIRE	My father died when I was two.
+174	00:00:00,000 --> 00:00:00,000	BARNES	I'm sorry to hear that. I spoke with the truck driver - he's fine by the way - umm, he said that when you hit him-
+176	00:00:00,000 --> 00:00:00,000	CLAIRE	No, he hit us.
+178	00:00:00,000 --> 00:00:00,000	BARNES	At about what speed would you say that happened when you were driving?
+180	00:00:00,000 --> 00:00:00,000	CLAIRE	It just came out of nowhere, I didn't-
+182	00:00:00,000 --> 00:00:00,000	BARNES	That's not the question I asked, Miss Littleton.
+184	00:00:00,000 --> 00:00:00,000	CLAIRE	I don't, I don't know how fast I was driving. [overwhelmed] Why are you even asking me these questions?!
+186	00:00:00,000 --> 00:00:00,000	BARNES	These questions are standard procedure when there's a fatality.
+188	00:00:00,000 --> 00:00:00,000	CLAIRE	My mother is in surgery, she's not dead.
+190	00:00:00,000 --> 00:00:00,000	BARNES	Right. So she is.
+192	00:00:00,000 --> 00:00:00,000	CLAIRE	This is not my fault.
+194	00:00:00,000 --> 00:00:00,000	BARNES	Didn't say it was. Good day Miss Littleton.
+196	00:00:00,000 --> 00:00:00,000		[Barnes walks out as Claire looks worried.]
+198	00:00:00,000 --> 00:00:00,000		[On-Island - Kate and Rousseau are filling their water bottles by a stream.]
+200	00:00:00,000 --> 00:00:00,000	KATE	Can I ask you something? I told you that your daughter was living with them, and you haven't asked me a single question about her, you haven't-
+202	00:00:00,000 --> 00:00:00,000	ROUSSEAU	Your friend, Jack. Do you care about him?
+204	00:00:00,000 --> 00:00:00,000	KATE	Yes.
+206	00:00:00,000 --> 00:00:00,000	ROUSSEAU	Imagine 16 years from now, you're told he's still alive, but in your heart, you know that he wouldn't remember you. He wouldn't know you. He wouldn't even know that you ever cared about him. I haven't asked you questions about my daughter because I do not want to know the answers.
+208	00:00:00,000 --> 00:00:00,000		[Rousseau walks away.]
+210	00:00:00,000 --> 00:00:00,000		[The "A-team" are walking through the woods.]
+212	00:00:00,000 --> 00:00:00,000	KATE	[to Mikhail] Water?
+214	00:00:00,000 --> 00:00:00,000	MIKHAIL	No thank you.
+216	00:00:00,000 --> 00:00:00,000	KATE	So how'd you get here? How'd you get onto this island?
+218	00:00:00,000 --> 00:00:00,000	ROUSSEAU	Don't waste your breath; whatever he says will be a lie.
+220	00:00:00,000 --> 00:00:00,000	MIKHAIL	I was recruited when I was 24; I was approached by a man-
+222	00:00:00,000 --> 00:00:00,000	KATE	I didn't ask you when, I asked you how.
+224	00:00:00,000 --> 00:00:00,000	MIKHAIL	They brought me on the submarine.
+226	00:00:00,000 --> 00:00:00,000	KATE	So your people, they can just come and go whenever they want?
+228	00:00:00,000 --> 00:00:00,000	MIKHAIL	Oh yes, but two weeks ago, our underwater beacon stopped emitting its locator signal. There was an event, an electromagnetic pulse. It would be impossible to come back.
+230	00:00:00,000 --> 00:00:00,000	KATE	Why would you want to come back?
+232	00:00:00,000 --> 00:00:00,000	MIKHAIL	You would not understand.
+234	00:00:00,000 --> 00:00:00,000	KATE	[walks closer to Mikhail] Try me.
+236	00:00:00,000 --> 00:00:00,000	MIKHAIL	I misspoke. What I meant to say is you are not capable of understanding.
+238	00:00:00,000 --> 00:00:00,000	KATE	And why am I not capable?
+240	00:00:00,000 --> 00:00:00,000	SAYID	Kate.
+242	00:00:00,000 --> 00:00:00,000	MIKHAIL	Because you are not on the list.
+244	00:00:00,000 --> 00:00:00,000	KATE	What list?
+246	00:00:00,000 --> 00:00:00,000	MIKHAIL	The man who brought me here, who brought all of my people here, he is a magnificent man.
+248	00:00:00,000 --> 00:00:00,000	KATE	If Ben's so magnificent, then why did he need one of us to save him?
+250	00:00:00,000 --> 00:00:00,000	MIKHAIL	Ben? Ben is not. I will try to make this as simple as I can. You are not on the list because you are flawed. Because you are angry, and weak, and frightened.
+252	00:00:00,000 --> 00:00:00,000	SAYID	The more I learn about your people, the more I suspect you're not as omniscient as you'd have us believe. Don't speak to us as if you know us.
+254	00:00:00,000 --> 00:00:00,000	MIKHAIL	Of course I don't know you, Sayid Jarrah. How could I? And you, Kate Austen, are a complete stranger to me. But you John Locke, you I might have a fleeting memory of, but I must be confused, because the John Locke I know was paral-
+256	00:00:00,000 --> 00:00:00,000	ROUSSEAU	Hey! Look at this! Over here... come on.
+258	00:00:00,000 --> 00:00:00,000		[They walk out of the jungle to the sonic fence. The "A-team" looks up at the pylons in awe.]
+260	00:00:00,000 --> 00:00:00,000	LOCKE	Well, looks like we're here.
+262	00:00:00,000 --> 00:00:00,000		[Claire and Jin are at the beach, setting up a net in the water.]
+264	00:00:00,000 --> 00:00:00,000	CLAIRE	Will this work?
+266	00:00:00,000 --> 00:00:00,000	JIN	Yes, work.
+268	00:00:00,000 --> 00:00:00,000		[Sun walks towards them with two buckets of fish.]
+270	00:00:00,000 --> 00:00:00,000	JIN	Err, Sun, needs help.
+272	00:00:00,000 --> 00:00:00,000	CLAIRE	Okay.
+274	00:00:00,000 --> 00:00:00,000		[Claire walks up to Sun, and the two of them sit down and make chum.]
+276	00:00:00,000 --> 00:00:00,000	CLAIRE	Mmm... smells great!
+278	00:00:00,000 --> 00:00:00,000	SUN	Let's get it over with. This was my mother's worst fear.
+280	00:00:00,000 --> 00:00:00,000	CLAIRE	What do you mean?
+282	00:00:00,000 --> 00:00:00,000	SUN	That I would end up doing something very much like this, cutting bait. She had high hopes for my future. They did not include me marrying a fisherman's son.
+284	00:00:00,000 --> 00:00:00,000	CLAIRE	Well, I guess we don't always turn out like our mother's wanted.
+286	00:00:00,000 --> 00:00:00,000	SUN	Of course, mine never worked a day in her life.
+288	00:00:00,000 --> 00:00:00,000		[Claire looks upset.]
+290	00:00:00,000 --> 00:00:00,000	CLAIRE	My mom was a librarian.
+292	00:00:00,000 --> 00:00:00,000	SUN	Was?
+294	00:00:00,000 --> 00:00:00,000		[To avoid finishing the conversation, Claire looks over towards Jin.]
+296	00:00:00,000 --> 00:00:00,000	CLAIRE	We should get this stuff out there.
+298	00:00:00,000 --> 00:00:00,000		[Flashback - Claire walks into a hospital room. Her Aunt Lindsey is standing there next to her mom Carole, who is still in the hospital bed, unresponsive.]
+300	00:00:00,000 --> 00:00:00,000	LINDSEY	Where were you?
+302	00:00:00,000 --> 00:00:00,000	CLAIRE	Went home to take a shower.
+304	00:00:00,000 --> 00:00:00,000	LINDSEY	Oh, that must have been nice.
+306	00:00:00,000 --> 00:00:00,000	CLAIRE	They said she was still in surgery. I had glass in my hair, Aunt Lindsey.
+308	00:00:00,000 --> 00:00:00,000	LINDSEY	Well I'm glad that you're feeling refreshed.
+310	00:00:00,000 --> 00:00:00,000		[Doctor Woodruff walks into the room.]
+312	00:00:00,000 --> 00:00:00,000	DR. WOODRUFF	Good afternoon. Are you the daughter? I'm Doctor Woodruff, neural surgery. I'll be observing your mother for the next few days.
+314	00:00:00,000 --> 00:00:00,000	LINDSEY	How is she?
+316	00:00:00,000 --> 00:00:00,000	WOODRUFF	We've managed to stabilize her immediate injuries, but... your mother's suffered a severe head trauma. We'll have to wait for the swelling in her brain to go down before we determine the full extent of her injuries. But, uh, I'm afraid we're looking at fairly widespread damage.
+318	00:00:00,000 --> 00:00:00,000	CLAIRE	Wait, what does that mean?
+320	00:00:00,000 --> 00:00:00,000	WOODRUFF	It means that right now, these machines are sustaining her life.
+322	00:00:00,000 --> 00:00:00,000	CLAIRE	It won't always be, I mean when she wakes up she won't need-
+324	00:00:00,000 --> 00:00:00,000	WOODRUFF	I can't say with any real confidence-that she will wake up.
+326	00:00:00,000 --> 00:00:00,000	CLAIRE	Can she hear us?
+328	00:00:00,000 --> 00:00:00,000	WOODRUFF	I'd like to think she can.
+330	00:00:00,000 --> 00:00:00,000	LINDSEY	How long will she be like this?
+332	00:00:00,000 --> 00:00:00,000	WOODRUFF	Could be a day, a week, or years. We'll just have to wait and see. But I can assure you she'll be well looked after.
+334	00:00:00,000 --> 00:00:00,000	LINDSEY	Oh, that's very nice, but we can't pay for that.
+336	00:00:00,000 --> 00:00:00,000	WOODRUFF	Don't worry; her expenses have already been taken care of.
+338	00:00:00,000 --> 00:00:00,000	LINDSEY	By whom?
+340	00:00:00,000 --> 00:00:00,000	WOODRUFF	I've been asked to keep that confidential.
+342	00:00:00,000 --> 00:00:00,000		[On-Island - Claire, Sun, and Jin are hiding in the bushes. A bird lands in the net. They've got a makeshift rope running to them from the net.]
+344	00:00:00,000 --> 00:00:00,000	JIN	One, two.
+346	00:00:00,000 --> 00:00:00,000		[A gunshot is heard and all the birds fly away.]
+348	00:00:00,000 --> 00:00:00,000	CLAIRE	Oh no!
+350	00:00:00,000 --> 00:00:00,000		[Desmond comes running out of the jungle with a rifle in hand.]
+352	00:00:00,000 --> 00:00:00,000	JIN	Ã¬â€¢Â¼...
+354	00:00:00,000 --> 00:00:00,000	DESMOND	Look, I'm sorry.
+356	00:00:00,000 --> 00:00:00,000	JIN	Ã¬ÂÂ´ Ã«Â©ÂÃ¬Â²Â­Ã­â€¢Å“ Ã«â€ Ë†Ã¬â€¢â€ž!
+358	00:00:00,000 --> 00:00:00,000	DESMOND	I'm sorry, man.
+360	00:00:00,000 --> 00:00:00,000	JIN	Ã¬Å¡Â°Ã«Â¦Â¬ Ã«â€¹Â¤ Ã¬Â£Â½Ã¬Ââ€ž Ã«Â»â€ Ã­â€“Ë†Ã¬Å¾â€“Ã¬â€¢â€ž!
+362	00:00:00,000 --> 00:00:00,000	DESMOND	I said I'm sorry.
+364	00:00:00,000 --> 00:00:00,000	CLAIRE	What the hell is wrong with you?!
+366	00:00:00,000 --> 00:00:00,000	DESMOND	Look I was shooting at a boar, I had no idea you were out here.
+368	00:00:00,000 --> 00:00:00,000	CLAIRE	Where's Charlie? Is he with you?
+370	00:00:00,000 --> 00:00:00,000	DESMOND	He's back at the camp, look I'm really sorry.
+372	00:00:00,000 --> 00:00:00,000	CLAIRE	So it's just you?
+374	00:00:00,000 --> 00:00:00,000	DESMOND	Aye it's just me.
+376	00:00:00,000 --> 00:00:00,000	CLAIRE	Hunting? In the exact same spot we're setting our trap!
+378	00:00:00,000 --> 00:00:00,000	DESMOND	I was following a boar, Claire.
+380	00:00:00,000 --> 00:00:00,000	CLAIRE	Oh, so it's just a coincidence then. Where is it?
+382	00:00:00,000 --> 00:00:00,000	DESMOND	It got away.
+384	00:00:00,000 --> 00:00:00,000	CLAIRE	You don't want me to catch the birds do you? You and Charlie. What's going on?
+386	00:00:00,000 --> 00:00:00,000	DESMOND	Why wouldn't I want you to catch the birds?
+388	00:00:00,000 --> 00:00:00,000		[Claire walks away.]
+390	00:00:00,000 --> 00:00:00,000		[The "A-team" are at the sonic fence. Kate walks up to it.]
+392	00:00:00,000 --> 00:00:00,000	KATE	What is it?
+394	00:00:00,000 --> 00:00:00,000		[Sayid grabs her arm and pulls her back.]
+396	00:00:00,000 --> 00:00:00,000	SAYID	Don't touch it! Don't even go near it! [to Mikhail] What are these pylons?
+398	00:00:00,000 --> 00:00:00,000	MIKHAIL	What do you think they are?
+400	00:00:00,000 --> 00:00:00,000	SAYID	A security perimeter. Those sensors on the side would be triggered if anyone passed between them. It's an alarm system, or a trap. Either way, we'd be safer going around it.
+402	00:00:00,000 --> 00:00:00,000	MIKHAIL	You're right, it was a security perimeter. But like everything else on this island, it hasn't functioned in years.
+404	00:00:00,000 --> 00:00:00,000	SAYID	Of course it hasn't.
+406	00:00:00,000 --> 00:00:00,000	MIKHAIL	If you wish to waste your time, be my guest. The pylons encircle the entire Barracks. There is no going around them. If you don't believe me, look at your map.
+408	00:00:00,000 --> 00:00:00,000		[Sayid and Kate look at the map as Locke drops his pack to the ground.]
+410	00:00:00,000 --> 00:00:00,000	SAYID	He appears to be telling the truth.
+412	00:00:00,000 --> 00:00:00,000		[Locke grabs Mikhail by the suit and pushes him through the sonic barrier.]
+414	00:00:00,000 --> 00:00:00,000	SAYID	John, John!
+416	00:00:00,000 --> 00:00:00,000		[The barrier starts up.]
+418	00:00:00,000 --> 00:00:00,000	MIKHAIL	Thank you.
+420	00:00:00,000 --> 00:00:00,000		[A pulse is fired and Mikhail's brain is hemorrhaged as he begins foaming at the mouth and is thrown back onto the ground. He groans.]
+422	00:00:00,000 --> 00:00:00,000	KATE	Oh my god.
+424	00:00:00,000 --> 00:00:00,000	LOCKE	Sorry.
+426	00:00:00,000 --> 00:00:00,000		[Sayid is looking at Mikhail from the other side of the fence.]
+428	00:00:00,000 --> 00:00:00,000	SAYID	Looks like he suffered cerebral hemorrhage.
+430	00:00:00,000 --> 00:00:00,000	KATE	[to Locke] Why did you do that? We needed him!
+432	00:00:00,000 --> 00:00:00,000	LOCKE	They were never going to trade him for Jack.
+434	00:00:00,000 --> 00:00:00,000	KATE	You don't know that!
+436	00:00:00,000 --> 00:00:00,000	LOCKE	Well you don't know it either! What we do know is that he shot one of his own people who didn't want to be in this exact situation. So I'm going to stick with my opinion.
+438	00:00:00,000 --> 00:00:00,000	KATE	Yeah, well we could've discussed it.
+440	00:00:00,000 --> 00:00:00,000	LOCKE	Nobody asked me about it when we brought him along in the first place.
+442	00:00:00,000 --> 00:00:00,000	SAYID	Alright.
+444	00:00:00,000 --> 00:00:00,000	LOCKE	Pardon me, for not knowing that they had a- a sonic weapon fence. I didn't know he was gonna die, how would I know that?
+446	00:00:00,000 --> 00:00:00,000	SAYID	Why are you really here? Are you here for Jack?
+448	00:00:00,000 --> 00:00:00,000	LOCKE	Why else would I be here?
+450	00:00:00,000 --> 00:00:00,000	SAYID	We'll talk about this later.
+452	00:00:00,000 --> 00:00:00,000	LOCKE	Fine by me. Just tell me how we're gonna go through this.
+454	00:00:00,000 --> 00:00:00,000	KATE	We're not going through it, we're going over it. Sayid, where's the axe?
+456	00:00:00,000 --> 00:00:00,000	SAYID	It's in his pack.
+458	00:00:00,000 --> 00:00:00,000	LOCKE	No wait a minute I got it- here I got it.
+460	00:00:00,000 --> 00:00:00,000		[Sayid grabs Locke's pack before Locke can get it. Sayid pulls out a block of C4.]
+462	00:00:00,000 --> 00:00:00,000	SAYID	I thought you didn't know there was any C4?
+464	00:00:00,000 --> 00:00:00,000	LOCKE	Well I stand corrected.
+466	00:00:00,000 --> 00:00:00,000	SAYID	Why did you take it?
+468	00:00:00,000 --> 00:00:00,000	LOCKE	You never know when a little C4 might come in handy.
+470	00:00:00,000 --> 00:00:00,000	SAYID	You'll have to do better than that.
+472	00:00:00,000 --> 00:00:00,000		[Charlie lays Aaron down for a nap.]
+474	00:00:00,000 --> 00:00:00,000	CHARLIE	[whispering to Aaron] Okay, here we go. Ohh...
+476	00:00:00,000 --> 00:00:00,000	CLAIRE	What's going on with you Charlie?!
+478	00:00:00,000 --> 00:00:00,000	CHARLIE	[whispering] Shh, I just put Aaron down.
+480	00:00:00,000 --> 00:00:00,000	CLAIRE	No, you and Desmond, what's going on?
+482	00:00:00,000 --> 00:00:00,000	CHARLIE	I don't know what you're talking about.
+484	00:00:00,000 --> 00:00:00,000	CLAIRE	So you don't know anything about Desmond shooting off his gun and scaring away the birds?
+486	00:00:00,000 --> 00:00:00,000	CHARLIE	I've been with Aaron, all morning.
+488	00:00:00,000 --> 00:00:00,000	CLAIRE	You're lying to me Charlie.
+490	00:00:00,000 --> 00:00:00,000	CHARLIE	I am not lying!
+492	00:00:00,000 --> 00:00:00,000	CLAIRE	What happened to the guy that woke up this morning and wanted to go and have a picnic and seize the day?
+494	00:00:00,000 --> 00:00:00,000	CHARLIE	You really wanna know the truth? The glint you saw could have been anything; a piece of glass stuck in the birds foot, or it coulda been nothing at all! I don't want to advocate false hope, Claire. That's all.
+496	00:00:00,000 --> 00:00:00,000	CLAIRE	Well I'm sorry I bothered you with my stupid ideas. And err, it won't ever happen again. And Charlie, I don't want my baby around liars.
+498	00:00:00,000 --> 00:00:00,000	CHARLIE	I think you might be overreacting.
+500	00:00:00,000 --> 00:00:00,000	CLAIRE	Overreacting?! No, I thought you were here for me, that I could count on you! I was wrong!
+502	00:00:00,000 --> 00:00:00,000	CHARLIE	Claire...
+504	00:00:00,000 --> 00:00:00,000	CLAIRE	[yelling] No, I'm on my own and at least I know that now.
+506	00:00:00,000 --> 00:00:00,000	CHARLIE	Claire...
+508	00:00:00,000 --> 00:00:00,000	CLAIRE	[yelling] Just go!
+510	00:00:00,000 --> 00:00:00,000		[Claire sits and looks at Aaron as Charlie starts to walk away, disappointed.]
+512	00:00:00,000 --> 00:00:00,000		[Flashback - Claire walks into the hospital hallway.]
+514	00:00:00,000 --> 00:00:00,000	HEAD NURSE	Morning dear. Oh, I like your new doctor.
+516	00:00:00,000 --> 00:00:00,000	CLAIRE	What new doctor?
+518	00:00:00,000 --> 00:00:00,000	HEAD NURSE	Oh, the American. He's in with your mum now.
+520	00:00:00,000 --> 00:00:00,000	LOUDSPEAKER	Dr. Brown to the OR stat, Dr. Brown to the OR stat.
+522	00:00:00,000 --> 00:00:00,000		[Claire walks into her mother's room. There is a man standing over the bed.]
+524	00:00:00,000 --> 00:00:00,000	CLAIRE	'scuse me.
+526	00:00:00,000 --> 00:00:00,000		[The man turns. It is Christian Shephard, Jack's father.]
+528	00:00:00,000 --> 00:00:00,000	CLAIRE	The nurse said that-are you a doctor?
+530	00:00:00,000 --> 00:00:00,000	CHRISTIAN	Yes, umm. I'm umm. I'm very sorry, I shouldn't be disturbing you, I was just leaving.
+532	00:00:00,000 --> 00:00:00,000		[As Christian starts to put his jacket on, Lindsey walks into the room.]
+534	00:00:00,000 --> 00:00:00,000	LINDSEY	What are you doing here?
+536	00:00:00,000 --> 00:00:00,000	CHRISTIAN	I was just on my way out, Lindsey.
+538	00:00:00,000 --> 00:00:00,000	LINDSEY	If Carole knew you were here-
+540	00:00:00,000 --> 00:00:00,000	CHRISTIAN	She'd what? What would she do? She wouldn't be acting the way you are.
+542	00:00:00,000 --> 00:00:00,000	CLAIRE	Aunt Lindsey, err, what's going on here? Who is he?
+544	00:00:00,000 --> 00:00:00,000	LINDSEY	It doesn't matter, just go.
+546	00:00:00,000 --> 00:00:00,000	CHRISTIAN	Maybe you should tell her, Lindsey? She deserves to know.
+548	00:00:00,000 --> 00:00:00,000	LINDSEY	Please, just leave us alone.
+550	00:00:00,000 --> 00:00:00,000	CHRISTIAN	[yelling] You are not the arbiter here.
+552	00:00:00,000 --> 00:00:00,000	LINDSEY	[yelling] No, you are taking advantage of my-
+554	00:00:00,000 --> 00:00:00,000	CHRISTIAN	[yelling] Under these circumstances, I do believe that Claire has every right to know!
+556	00:00:00,000 --> 00:00:00,000	CLAIRE	[yelling] Just stop it! You are the one paying the bills? Are you the one taking care of all this?
+558	00:00:00,000 --> 00:00:00,000	CHRISTIAN	Yes.
+560	00:00:00,000 --> 00:00:00,000	CLAIRE	Then who are you?
+562	00:00:00,000 --> 00:00:00,000	CHRISTIAN	I'm your father, Claire.
+564	00:00:00,000 --> 00:00:00,000		[Claire looks very confused.]
+566	00:00:00,000 --> 00:00:00,000		[Locke is chopping down a tree as the others watch. They make an "X" stand and put the tree up to one of the pylons.]
+568	00:00:00,000 --> 00:00:00,000	SAYID	The system appears to fire a sonic pulse when an object breaks the plane between two pylons. So, as long as we don't break the plane, we should remain unharmed.
+570	00:00:00,000 --> 00:00:00,000	ROUSSEAU	Why don't we just use the plastic explosive you took?
+572	00:00:00,000 --> 00:00:00,000	LOCKE	Be my guest, you wanna go stick it on there?
+574	00:00:00,000 --> 00:00:00,000	SAYID	Whoever climbs over, give those sensors a wide berth.
+576	00:00:00,000 --> 00:00:00,000	KATE	I'll go first.
+578	00:00:00,000 --> 00:00:00,000		[Kate climbs up onto the tree and over the pylon. She cautiously jumps down and lands safely.]
+580	00:00:00,000 --> 00:00:00,000	LOCKE	I guess I'll go next.
+582	00:00:00,000 --> 00:00:00,000		[Kate turns over Mikhail's body as the scene cuts to Sun and Claire on the beach. Sun is helping put a new "diaper" on Aaron.]
+584	00:00:00,000 --> 00:00:00,000	SUN	Here you go.
+586	00:00:00,000 --> 00:00:00,000	CLAIRE	Thanks.
+588	00:00:00,000 --> 00:00:00,000	SUN	You have every right to be upset.
+590	00:00:00,000 --> 00:00:00,000	CLAIRE	It just doesn't make any sense. Desmond's never gone boar hunting before, and the boar never come that close to the beach.
+592	00:00:00,000 --> 00:00:00,000	SUN	Well whatever's going on, they're still talking about it.
+594	00:00:00,000 --> 00:00:00,000		[Claire looks at Desmond and Charlie who are arguing behind them.]
+596	00:00:00,000 --> 00:00:00,000	CLAIRE	Can you watch him? [indicating Aaron]
+598	00:00:00,000 --> 00:00:00,000	SUN	What are you going to do?
+600	00:00:00,000 --> 00:00:00,000	CLAIRE	Get some answers.
+602	00:00:00,000 --> 00:00:00,000		[Claire gets up and walks away.]
+604	00:00:00,000 --> 00:00:00,000		[Flashback - Claire is working in a tattoo and piercing parlor. The bell on the door rings as someone walks in.]
+606	00:00:00,000 --> 00:00:00,000	CLAIRE	I'll be with you in a sec!
+608	00:00:00,000 --> 00:00:00,000		[Claire finishes the piercing she is doing.]
+610	00:00:00,000 --> 00:00:00,000	CLAIRE	There you go, that'll be ten bucks.
+612	00:00:00,000 --> 00:00:00,000		[Claire looks up to Christian standing at the counter.]
+614	00:00:00,000 --> 00:00:00,000	CLAIRE	What are you doing here?
+616	00:00:00,000 --> 00:00:00,000	CHRISTIAN	Buy you a cup of coffee?
+618	00:00:00,000 --> 00:00:00,000	CLAIRE	I have nothing to say to you.
+620	00:00:00,000 --> 00:00:00,000	CHRISTIAN	Claire, I'm leaving tonight, then I'll be out of your life forever. Just one cup of coffee.
+622	00:00:00,000 --> 00:00:00,000		[The scene changes to Claire and Christian in a cafÃƒÂ© in a mall-type setting. They are drinking coffees as they talk.]
+624	00:00:00,000 --> 00:00:00,000	CLAIRE	So it's true?
+626	00:00:00,000 --> 00:00:00,000	CHRISTIAN	Yes, it's true.
+628	00:00:00,000 --> 00:00:00,000	CLAIRE	How'd you find out about the accident?
+630	00:00:00,000 --> 00:00:00,000	CHRISTIAN	A doctor friend here in Sydney told me. I got the call the minute your mother went into surgery.
+632	00:00:00,000 --> 00:00:00,000	CLAIRE	Why did she tell me that you were dead?
+634	00:00:00,000 --> 00:00:00,000	CHRISTIAN	Well, because I, no doubt, left her with so many wonderful memories. Look, we had a fling, I was back in Los Angeles, and she told me she was pregnant, that she was going to have the baby, have you.
+636	00:00:00,000 --> 00:00:00,000	CLAIRE	And you didn't want to see me?
+638	00:00:00,000 --> 00:00:00,000	CHRISTIAN	No, no, I came out a bunch of times when you were little. I stayed over, I gave you toys, I sang to you.
+640	00:00:00,000 --> 00:00:00,000	CLAIRE	Why'd you stop coming?
+642	00:00:00,000 --> 00:00:00,000	CHRISTIAN	Cause your aunt hates me and your mother didn't like the fact that I had another family.
+644	00:00:00,000 --> 00:00:00,000	CLAIRE	Why are you here now then? And why'd you come? You could've just paid the bills from the States.
+646	00:00:00,000 --> 00:00:00,000	CHRISTIAN	I came over because I wanted to help.
+648	00:00:00,000 --> 00:00:00,000	CLAIRE	Help with what?
+650	00:00:00,000 --> 00:00:00,000	CHRISTIAN	Claire, your mother is alive, but she's not really living.
+652	00:00:00,000 --> 00:00:00,000	CLAIRE	What the hell's that supposed to mean?
+654	00:00:00,000 --> 00:00:00,000	CHRISTIAN	It means that now may be the time to look at other alternatives; other ways to relieve her pain. Now, it is illegal to turn off her machines, but I know of ways that can achieve the same effect without the legal consequences.
+656	00:00:00,000 --> 00:00:00,000	CLAIRE	Just stop it! You didn't come here to help me, you came here to try and fix a mistake that you made.
+658	00:00:00,000 --> 00:00:00,000	CHRISTIAN	No honey, that's not true.
+660	00:00:00,000 --> 00:00:00,000	CLAIRE	You think that just paying her bills makes you noble or something? You come down here and you try and get me to kill her? You know, just go. Why don't you just go, go back to your real family.
+662	00:00:00,000 --> 00:00:00,000		[Claire gets up and throws her coffee away but turns to look at Christian.]
+664	00:00:00,000 --> 00:00:00,000	CLAIRE	You know... You know, you might be my father, but I don't even know your name, and I umm, want it to stay that way.
+666	00:00:00,000 --> 00:00:00,000		[Claire starts to walk away, but Christian jumps up and grabs her by the arm.]
+668	00:00:00,000 --> 00:00:00,000	CHRISTIAN	Claire! Claire, Claire listen to me. Do not keep your mother alive for the wrong reasons. Now there is hope and there is guilt. And believe me, I know the difference. [pause] Bye kiddo, it was great seeing you again.
+670	00:00:00,000 --> 00:00:00,000		[Christian walks away.]
+672	00:00:00,000 --> 00:00:00,000		[On-Island - Claire is following Desmond along a rocky shoreline. She catches up to him as he goes to the edge of a rock.]
+674	00:00:00,000 --> 00:00:00,000	CLAIRE	What the hell are you doing?!
+676	00:00:00,000 --> 00:00:00,000	DESMOND	You followed me. Stay back!
+678	00:00:00,000 --> 00:00:00,000		[On the rock, there is a bird in a nest.]
+680	00:00:00,000 --> 00:00:00,000	CLAIRE	It's one of the birds.
+682	00:00:00,000 --> 00:00:00,000	DESMOND	Stay back!
+684	00:00:00,000 --> 00:00:00,000	CLAIRE	It's a-
+686	00:00:00,000 --> 00:00:00,000		[Desmond picks the bird up.]
+688	00:00:00,000 --> 00:00:00,000	CLAIRE	How did you know it was gonna be here?
+690	00:00:00,000 --> 00:00:00,000	DESMOND	I didn't.
+692	00:00:00,000 --> 00:00:00,000	CLAIRE	Yes you did, you had to. That's what you and Charlie were arguing about. You knew.
+694	00:00:00,000 --> 00:00:00,000	DESMOND	How would I?
+696	00:00:00,000 --> 00:00:00,000	CLAIRE	I don't know, but you know, you walked straight here, no doubt at all about where you were going. You came right to this beach and right to this rock, and lo and behold, there's the bird. What the hell is going on Desmond?
+698	00:00:00,000 --> 00:00:00,000	DESMOND	See that spot over there? [points to a protruding rock in the water] That's where Charlie slipped and fell. He got pounded again and again by the rocks and broke his neck.
+700	00:00:00,000 --> 00:00:00,000	CLAIRE	What? What are you talking about?
+702	00:00:00,000 --> 00:00:00,000	DESMOND	That's where Charlie died.
+704	00:00:00,000 --> 00:00:00,000		[Claire is carrying the bird to Charlie on the beach.]
+706	00:00:00,000 --> 00:00:00,000	CLAIRE	Look what Desmond found.
+708	00:00:00,000 --> 00:00:00,000	CHARLIE	How 'bout that? It does have a tag. You were right.
+710	00:00:00,000 --> 00:00:00,000	CLAIRE	Desmond told me everything. About all his visions; that he knew you were gonna get hit by lightning; that you were gonna drown, trying to rescue me in the ocean; how you died trying to get me this bird.
+712	00:00:00,000 --> 00:00:00,000	CHARLIE	You don't believe all that, do you?
+714	00:00:00,000 --> 00:00:00,000		[Flashback - Claire, now resembling her present self [only, pregnant], walks into her mother's hospital room.]
+716	00:00:00,000 --> 00:00:00,000	CLAIRE	Now who turned the telly off? Don't they know how much you love your nature shows?
+718	00:00:00,000 --> 00:00:00,000		[Claire turns on the television.]
+720	00:00:00,000 --> 00:00:00,000	CLAIRE	That's better. So how are you today Mom? Did you have an okay night? There's umm, something I have to tell you, Mom, something I should have told you a long time ago. [pause] I'm pregnant. I err, I'm giving it away, it's for the best. I wish-I don't know how you did it... raising me alone? It must have been so hard. And I was just awful, awful... so horrible to you. [crying] I'm so sorry, Mom. I'm so sorry. I'm so sorry for all the awful things I said to you in the car; that I hated you; and that I wished you weren't my mother; and I wished you were dead. It's all my fault, the accident and everything. I'm so sorry, mom. I'm so sorry. I'm so sorry. I'll see you soon, okay?
+722	00:00:00,000 --> 00:00:00,000		[On-Island - Charlie and Claire are standing on the beach with the bird. Charlie has the letter they will attach.]
+724	00:00:00,000 --> 00:00:00,000	CHARLIE [reading the letter]	To whom it may concern, we are survivors of Oceanic Flight 815. We have survived on this island for 80 days. We were 6 hours into the flight when the pilot said we were off course and turned back towards Fiji. We hit turbulence and crashed. We've been waiting here, all this time, waiting for rescue that has not come. We do not know where we are; we only know you have not found us. We've done our best to live on this island. Some of us have come to accept that we may never leave it. Not all of us have survived since the crash, but there is new life too, and with it, there is hope. We are alive. Please don't give up on us.
+726	00:00:00,000 --> 00:00:00,000	CHARLIE	It's-it's perfect, Claire.
+728	00:00:00,000 --> 00:00:00,000	CLAIRE	You know, I'm not giving up on you either, Charlie. It's gonna be okay. You're gonna be okay. We'll get through this together.
+730	00:00:00,000 --> 00:00:00,000		[Charlie attaches the note to the bird's tag and Claire lets the bird fly away. They hold hands as the flock of birds fly over the island.]
+732	00:00:00,000 --> 00:00:00,000		[The scene cuts to the "A-team" in the jungle. Sayid walks up to Kate.]
+734	00:00:00,000 --> 00:00:00,000	KATE	What?
+736	00:00:00,000 --> 00:00:00,000	SAYID	We're here.
+738	00:00:00,000 --> 00:00:00,000		[They walk to the edge of the jungle and see the Barracks, the housing facility of "the Others." As they duck, Kate sees Jack running toward them.]
+740	00:00:00,000 --> 00:00:00,000	KATE	Jack-
+742	00:00:00,000 --> 00:00:00,000		[She almost runs out of the jungle, but Sayid grabs her. Jack turns and catches a football that was thrown by Tom.]
+744	00:00:00,000 --> 00:00:00,000	TOM	Ha! Whoop!
+746	00:00:00,000 --> 00:00:00,000		[Jack throws it back. Tom throws it to Jack once more, and Jack spikes it to the ground.]

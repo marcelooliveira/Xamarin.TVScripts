@@ -1,0 +1,487 @@
+The Little Prince
+2	00:00:00,000 --> 00:00:00,000	Written by	Brian K. Vaughan & Melinda Hsu Taylor
+4	00:00:00,000 --> 00:00:00,000	Directed by	Stephen Williams
+6	00:00:00,000 --> 00:00:00,000		[Flashback - It is nighttime on the Searcher, Jack is looking out to sea. Kate approaches with a sleeping Aaron.]
+8	00:00:00,000 --> 00:00:00,000	JACK	[Whispers] Hey.
+10	00:00:00,000 --> 00:00:00,000	KATE	Oh, you don't have to whisper. When he's out, he's out.
+12	00:00:00,000 --> 00:00:00,000	JACK	[Chuckles] At least one of us can sleep.
+14	00:00:00,000 --> 00:00:00,000	KATE	It's gonna take more than two nights for me to get used to sleeping in a normal bed. What are we gonna do about him? About Aaron.
+16	00:00:00,000 --> 00:00:00,000	JACK	I don't know.
+18	00:00:00,000 --> 00:00:00,000	KATE	I've been thinking a lot about him. Did you know that Claire was flying to L.A. to give him up for adoption?
+20	00:00:00,000 --> 00:00:00,000	JACK	No. No, I didn't.
+22	00:00:00,000 --> 00:00:00,000	KATE	I think we should say he's mine.
+24	00:00:00,000 --> 00:00:00,000	JACK	What?
+26	00:00:00,000 --> 00:00:00,000	KATE	We could say that I was six months pregnant when I was arrested and that I gave birth to him on the Island. No one would ever know.
+28	00:00:00,000 --> 00:00:00,000	JACK	Kate, no. You don't have to... [sighs] There's other ways too this.
+30	00:00:00,000 --> 00:00:00,000	KATE	After everyone we've lost--Michael, Jin, Sawyer... I can't lose him, too.
+32	00:00:00,000 --> 00:00:00,000	JACK	Sawyer's not dead.
+34	00:00:00,000 --> 00:00:00,000	KATE	No. But he's gone. Good night, Jack.
+36	00:00:00,000 --> 00:00:00,000	JACK	Kate... If we're gonna be safe, if we're gonna protect the people that we left behind, tomorrow morning, I'm gonna have to convince everyone to lie. If it's just me, they're never gonna go for it. So I'm gonna turn to you first. Are you with me?
+38	00:00:00,000 --> 00:00:00,000	KATE	I have always been with you.
+40	00:00:00,000 --> 00:00:00,000		[Present, off-Island - Kate is looking in the mirror, trying on a jacket. Sun enters.]
+42	00:00:00,000 --> 00:00:00,000	SUN	How does it fit?
+44	00:00:00,000 --> 00:00:00,000	KATE	It's perfect. Thank you for the loaner.
+46	00:00:00,000 --> 00:00:00,000	SUN	Looks great on you. [Sighs] Are you sure you want to do this?
+48	00:00:00,000 --> 00:00:00,000	KATE	[Chuckles] It was your idea.
+50	00:00:00,000 --> 00:00:00,000	AARON	Mommy!
+52	00:00:00,000 --> 00:00:00,000	KATE	Aaron, honey, mommy's gonna run out and do an errand. I'll be right back. Okay? And then we can go home.
+54	00:00:00,000 --> 00:00:00,000	SUN	Don't worry about us, Kate. There's candy in the minibar and a hundred channels on TV. We're going to be just fine here.
+56	00:00:00,000 --> 00:00:00,000	KATE	Sun... I don't know what I would've done if you weren't here. Thank you.
+58	00:00:00,000 --> 00:00:00,000	SUN	It's what any friend would do.
+60	00:00:00,000 --> 00:00:00,000	KATE	Okay, well, I will be back soon. Okay, you be good for Sun. Okay, honey?
+62	00:00:00,000 --> 00:00:00,000	SUN	Good luck.
+64	00:00:00,000 --> 00:00:00,000		[Kate leaves. Elevator bell dings. A delivery man approaches Sun.]
+66	00:00:00,000 --> 00:00:00,000	MAN	Delivery for you, Ms. Kwon.
+68	00:00:00,000 --> 00:00:00,000	SUN	Thank you. Thanks.
+70	00:00:00,000 --> 00:00:00,000		[Door closes.]
+72	00:00:00,000 --> 00:00:00,000	SUN	I'll be right back, honey.
+74	00:00:00,000 --> 00:00:00,000		[In the bedroom, Sun opens the package to find surveillance reports on Ben, including photos of him with Jack. She opens a box of chocolates included in the package. Under the tray, she finds a gun.]
+76	00:00:00,000 --> 00:00:00,000		[On-Island - Miles fills a canteen with water from the stream and brings it to Daniel and Juliet, who are examining an unconcious Charlotte.]
+78	00:00:00,000 --> 00:00:00,000	JULIET	Charlotte? Charlotte?
+80	00:00:00,000 --> 00:00:00,000	SAWYER	What the hell's wrong with her? She's been out for 10 minutes.
+82	00:00:00,000 --> 00:00:00,000	JULIET	Stop shouting, James.
+84	00:00:00,000 --> 00:00:00,000	MILES	Hey, man.
+86	00:00:00,000 --> 00:00:00,000		[Miles gives the bottle to Daniel.]
+88	00:00:00,000 --> 00:00:00,000	FARADAY	Thank you.
+90	00:00:00,000 --> 00:00:00,000	JULIET	If there's something that you want to tell me, Daniel, now would be a good time.
+92	00:00:00,000 --> 00:00:00,000	FARADAY	I'm not sure what you mean exactly.
+94	00:00:00,000 --> 00:00:00,000	SAWYER	She's asking if you know why your girlfriend had a seizure.
+96	00:00:00,000 --> 00:00:00,000	JULIET	Give us some space, would you?
+98	00:00:00,000 --> 00:00:00,000	SAWYER	She's like this 'cause the sky keeps lighting up. He knew this would happen and he didn't say squat about it.
+100	00:00:00,000 --> 00:00:00,000	JULIET	James... go away.
+102	00:00:00,000 --> 00:00:00,000		[He sighs and walks away.]
+104	00:00:00,000 --> 00:00:00,000	JULIET	Did you know that this would happen?
+106	00:00:00,000 --> 00:00:00,000	FARADAY	I thought... I thought it might. I think it's neurological. Our brains have an internal clock, a sense of time. The flashes... throw the clock off. It's like really bad jet lag.
+108	00:00:00,000 --> 00:00:00,000	JULIET	Really bad jet lag doesn't make you hemorrhage, Daniel. You wanna tell me why it isn't happening to the rest of us?
+110	00:00:00,000 --> 00:00:00,000	FARADAY	I don't know. But thank God it's not.
+112	00:00:00,000 --> 00:00:00,000		[Off-Island - Kate is looking out of a window in an office. Dan Norton enters the office.]
+114	00:00:00,000 --> 00:00:00,000	NORTON	Thank you for waiting. Did my assistant offer you something to drink?
+116	00:00:00,000 --> 00:00:00,000	KATE	Um, yes. I'm fine, thank you.
+118	00:00:00,000 --> 00:00:00,000	NORTON	Good. Please, Ms. Austen, sit. [She sits] So... how can I help you?
+120	00:00:00,000 --> 00:00:00,000	KATE	Uh... [sighs] Mr. Norton, when you came to my house looking for blood samples from me and my son, I asked you who your client was...
+122	00:00:00,000 --> 00:00:00,000	NORTON	And I said I couldn't tell you.
+124	00:00:00,000 --> 00:00:00,000	KATE	Yeah. I'm here to offer you a deal. I'll give you the blood samples, but first, I wanna talk to your client. Considering what you're asking for, that's more than reasonable.
+126	00:00:00,000 --> 00:00:00,000	NORTON	Well, I am, uh, seeing my client later today, and I will be sure to pass along your offer. But I am pretty sure of what the answer's gonna be--no. And the reason, of course, is that you're in no position to be making any kind of deals, and we both know it. I have a signed court order compelling you to let us confirm that you're the child's mother. I could send the sheriff over there today and make you do it, but my client insists that we... handle the exchange of custody quietly.
+128	00:00:00,000 --> 00:00:00,000	KATE	What do you mean "exchange of custody"?
+130	00:00:00,000 --> 00:00:00,000	NORTON	You know exactly what I mean.
+132	00:00:00,000 --> 00:00:00,000	KATE	No, I... Mr. Norton, I just wanna know who is doing this to me.
+134	00:00:00,000 --> 00:00:00,000	NORTON	You did this to yourself. Now it is time you prepare yourself, Ms. Austen. You are going to lose the boy.
+136	00:00:00,000 --> 00:00:00,000		[On-Island - Sawyer and Locke watch as Juliet and Daniel are still examining Charlotte.]
+138	00:00:00,000 --> 00:00:00,000	LOCKE	We have to go back to the Orchid.
+140	00:00:00,000 --> 00:00:00,000	SAWYER	Excuse me?
+142	00:00:00,000 --> 00:00:00,000	LOCKE	The Orchid. That's where all this started. Maybe it's where it'll all stop.
+144	00:00:00,000 --> 00:00:00,000	SAWYER	That greenhouse is a long ways away.
+146	00:00:00,000 --> 00:00:00,000	LOCKE	You said you had a Zodiac raft back at the beach. We could take that, cut around the horn of the Island, be at the Orchid in half the time.
+148	00:00:00,000 --> 00:00:00,000	SAWYER	And let me guess. You know exactly what to do when we get there.
+150	00:00:00,000 --> 00:00:00,000	LOCKE	No, not exactly at all, but I know that Ben used it to leave the Island. And if I can do the same thing, I believe I can save us.
+152	00:00:00,000 --> 00:00:00,000	SAWYER	And how you gonna do that?
+154	00:00:00,000 --> 00:00:00,000	LOCKE	This is all happening because they left. I think it'll stop if I can bring them back.
+156	00:00:00,000 --> 00:00:00,000	SAWYER	Bring who back?
+158	00:00:00,000 --> 00:00:00,000	LOCKE	Jack, Sun, Sayid, Hugo, Kate.
+160	00:00:00,000 --> 00:00:00,000	SAWYER	The boat blew up, and that chopper was probably on it.
+162	00:00:00,000 --> 00:00:00,000	LOCKE	They're not dead, James.
+164	00:00:00,000 --> 00:00:00,000	SAWYER	Says who?
+166	00:00:00,000 --> 00:00:00,000	LOCKE	That doesn't matter. All that matters is they've gotta come back. I have to make them come back... even if it kills me. Don't you want 'em to come back, James? Don't you want her to come back?
+168	00:00:00,000 --> 00:00:00,000	SAWYER	It doesn't matter what I want.
+170	00:00:00,000 --> 00:00:00,000	MILES	Hey! She's waking up!
+172	00:00:00,000 --> 00:00:00,000	FARADAY	Are you okay?
+174	00:00:00,000 --> 00:00:00,000	CHARLOTTE	Who are you?
+176	00:00:00,000 --> 00:00:00,000	FARADAY	It's me. It's Daniel.
+178	00:00:00,000 --> 00:00:00,000	CHARLOTTE	Daniel. [Groans, grunts] Oh, my head. [Exhales deeply] What happened?
+180	00:00:00,000 --> 00:00:00,000	FARADAY	There was another flash. You passed out. How do you feel?
+182	00:00:00,000 --> 00:00:00,000	CHARLOTTE	A bit dizzy, but... I'm fine.
+184	00:00:00,000 --> 00:00:00,000	FARADAY	Good.
+186	00:00:00,000 --> 00:00:00,000	MILES	[Flatly] Hooray. Everything's back to normal. Now what?
+188	00:00:00,000 --> 00:00:00,000	SAWYER	I'll tell you "now what". We're going to the Orchid.
+190	00:00:00,000 --> 00:00:00,000		[Sawyer leaves, and Locke follows.]
+192	00:00:00,000 --> 00:00:00,000		[Off-Island - Jack is examining Sayid at the hospital.]
+194	00:00:00,000 --> 00:00:00,000		[Woman over P.A.: Oncologist on call to the ICU.]
+196	00:00:00,000 --> 00:00:00,000	JACK	Dilation's almost back to normal.
+198	00:00:00,000 --> 00:00:00,000	SAYID	Good. Now take this IV out of my arm, and let's go.
+200	00:00:00,000 --> 00:00:00,000	JACK	Sayid, you were unconscious for 42 hours. You had the equivalent of three doses of horse tranquilizer in your system.
+202	00:00:00,000 --> 00:00:00,000	SAYID	If you sent that man to Hurley's house, we have to leave now.
+204	00:00:00,000 --> 00:00:00,000	JACK	You need to relax. Ben is not gonna hurt Hurley. Ben is on our side.
+206	00:00:00,000 --> 00:00:00,000	SAYID	The only side he's on is his own.
+208	00:00:00,000 --> 00:00:00,000		[A woman enters the room.]
+210	00:00:00,000 --> 00:00:00,000	DR. ARIZA	Dr. Shephard? I'm Dr. Ariza, director of clinical services. A word with you, please?
+212	00:00:00,000 --> 00:00:00,000	JACK	I'll be right back.
+214	00:00:00,000 --> 00:00:00,000		[They walk down the hall.]
+216	00:00:00,000 --> 00:00:00,000	DR. ARIZA	What do you think you are doing here?
+218	00:00:00,000 --> 00:00:00,000	JACK	I was treating a patient. I apologize. It was an emergency. I know that-
+220	00:00:00,000 --> 00:00:00,000	DR. ARIZA	You were suspended on charges of substance abuse. Emergency or not, Dr. Shephard, you have no business being here.
+222	00:00:00,000 --> 00:00:00,000	JACK	I understand, and I take full responsibility for my actions.
+224	00:00:00,000 --> 00:00:00,000	DR. ARIZA	No, Doctor. The hospital takes full responsibility for your actions, and that makes us liable for them.
+226	00:00:00,000 --> 00:00:00,000		[Jack's cell phone rings.]
+228	00:00:00,000 --> 00:00:00,000	JACK	Excuse me.
+230	00:00:00,000 --> 00:00:00,000	JACK	Hello?
+232	00:00:00,000 --> 00:00:00,000	HURLEY	Jack? It's me.
+234	00:00:00,000 --> 00:00:00,000	JACK	Hurley.
+236	00:00:00,000 --> 00:00:00,000	HURLEY	Hey, did Sayid get to you? Did my dad drop him off?
+238	00:00:00,000 --> 00:00:00,000	JACK	Yes. He did. Hurley, where are-
+240	00:00:00,000 --> 00:00:00,000	HURLEY	Is he okay?
+242	00:00:00,000 --> 00:00:00,000	JACK	He's fine.
+244	00:00:00,000 --> 00:00:00,000	HURLEY	Awesome.
+246	00:00:00,000 --> 00:00:00,000	JACK	Hurley, where are you?
+248	00:00:00,000 --> 00:00:00,000		[We see Hurley dressed in orange prison uniform using the phone at a prison facility.]
+250	00:00:00,000 --> 00:00:00,000	HURLEY	Dude, I'm totally cool. I'm in L.A. County lockup. Oh, and tell Sayid I did exactly what he said. I'm totally safe. Ben's never gonna get me now. Thanks, dude.
+252	00:00:00,000 --> 00:00:00,000	JACK	What are you talking about, Hurley? Wait! Wait-
+254	00:00:00,000 --> 00:00:00,000		[The line disconnects. Jack sighs. He turns around and sees Ben entering the hallway.]
+256	00:00:00,000 --> 00:00:00,000	BEN	Good. You're here. How's Sayid?
+258	00:00:00,000 --> 00:00:00,000		[Cut to Sayid's room. A male nurse enters.]
+260	00:00:00,000 --> 00:00:00,000	NURSE	How you doing today, sir? [Sayid doesn't speak] Got your meds for you.
+262	00:00:00,000 --> 00:00:00,000	SAYID	Sorry, I think you have the wrong room.
+264	00:00:00,000 --> 00:00:00,000	NURSE	Nope. Room 133, right? Got the orders right here. But don't worry. I won't have to give you an injection. Put this right in your IV line.
+266	00:00:00,000 --> 00:00:00,000		[Plastic crinkles, the nurse turns and fires two darts at the pillow where Sayid was lying. Sayid and the nurse struggle, knocking over metal trays. Sayid manages to get a plastic cord around the nurse's neck.]
+268	00:00:00,000 --> 00:00:00,000	SAYID	Who are you? Who are you working for?
+270	00:00:00,000 --> 00:00:00,000	NURSE	[Grunts and grasps]
+272	00:00:00,000 --> 00:00:00,000	SAYID	Okay, talk, talk.
+274	00:00:00,000 --> 00:00:00,000	NURSE	Address - it's in my pocket.
+276	00:00:00,000 --> 00:00:00,000		[Sayid gets up and shoots two darts into the nurse. He reaches into the nurses pocket. Ben and Jack enter.]
+278	00:00:00,000 --> 00:00:00,000	BEN	Hello, Sayid.
+280	00:00:00,000 --> 00:00:00,000	JACK	What happened?
+282	00:00:00,000 --> 00:00:00,000	SAYID	Do we know anyone who lives at 42 Panorama Crest?
+284	00:00:00,000 --> 00:00:00,000	JACK	That's Kate's address.
+286	00:00:00,000 --> 00:00:00,000		[Jack is exiting the elevator in the hospital. He is on his cell phone. Cut to Kate in her car. Her cell phone rings, and we see "Jack Shephard" on the caller ID. She waits a few rings and then answers.]
+288	00:00:00,000 --> 00:00:00,000	KATE	Hello?
+290	00:00:00,000 --> 00:00:00,000	JACK	Kate? It's Jack. Are you okay?
+292	00:00:00,000 --> 00:00:00,000	KATE	Yeah. I'm fine.
+294	00:00:00,000 --> 00:00:00,000	JACK	Where are you right now? Are you at home?
+296	00:00:00,000 --> 00:00:00,000	KATE	Uh... what?
+298	00:00:00,000 --> 00:00:00,000	JACK	Listen, I'll explain everything once you're out, but you've gotta get Aaron-
+300	00:00:00,000 --> 00:00:00,000	KATE	Look, I'm not at home, okay? I'm... Aaron is at a hotel with Sun.
+302	00:00:00,000 --> 00:00:00,000	JACK	Sun? Sun's in L.A.?
+304	00:00:00,000 --> 00:00:00,000	KATE	Yeah, she's here on business. [She sees a car in the distance that's about to cross an intersection] Listen. Jack, this is really not a good time. I'm so sorry that I even picked up the phone. I'm not-
+306	00:00:00,000 --> 00:00:00,000	JACK	Kate, do not hang up on me. Please listen. Listen, uh ... will you tell me where you are? I need to see you. [She doesn't say anything] Kate, please.
+308	00:00:00,000 --> 00:00:00,000	KATE	I'm downtown. Wilshire and Olive.
+310	00:00:00,000 --> 00:00:00,000	JACK	Okay. All right. I'm on my way.
+312	00:00:00,000 --> 00:00:00,000		[He hangs up. Ben, Jack, and Sayid are outside of the hospital.]
+314	00:00:00,000 --> 00:00:00,000	JACK	She's not at home, but I'm gonna go to her right now.
+316	00:00:00,000 --> 00:00:00,000	BEN	Good. I'll go deal with Hugo.
+318	00:00:00,000 --> 00:00:00,000	SAYID	Sorry, Ben. I'm not letting you get anywhere near him.
+320	00:00:00,000 --> 00:00:00,000	BEN	You have friends in trouble. Let's get them to safety and save the dirty linen for later.
+322	00:00:00,000 --> 00:00:00,000		[Sayid grabs the keys out of Ben's hand.]
+324	00:00:00,000 --> 00:00:00,000	SAYID	I'll drive.
+326	00:00:00,000 --> 00:00:00,000	BEN	After you get Kate, meet us at the Long Beach Marina, slip 23. And, Jack - hurry. We're running out of time.
+328	00:00:00,000 --> 00:00:00,000		[Jack starts his engine and backs out.]
+330	00:00:00,000 --> 00:00:00,000		[On-Island - Locke leads Sawyer, Juliet, Daniel, Charlotte and Miles through the jungle.]
+332	00:00:00,000 --> 00:00:00,000	SAWYER	Hey, Locke? What are you gonna say to her?
+334	00:00:00,000 --> 00:00:00,000	LOCKE	Sorry?
+336	00:00:00,000 --> 00:00:00,000	SAWYER	Kate. What are you gonna say to her to get her to come back?
+338	00:00:00,000 --> 00:00:00,000		[Thunder rumbling.]
+340	00:00:00,000 --> 00:00:00,000	LOCKE	I haven't figured that out yet.
+342	00:00:00,000 --> 00:00:00,000	SAWYER	Well, let me tell you something. She was pretty excited to hop on that chopper and get the hell out of here.
+344	00:00:00,000 --> 00:00:00,000		[The group sees a beam of light in the distance - the light from the Hatch the night Boone died and when Locke was pounding on the Hatch door.]
+346	00:00:00,000 --> 00:00:00,000	MILES	What the hell is that?
+348	00:00:00,000 --> 00:00:00,000	LOCKE	Whatever it is, we better stay clear of it.
+350	00:00:00,000 --> 00:00:00,000	SAWYER	Beach is this way. Now you wanna take the scenic route?
+352	00:00:00,000 --> 00:00:00,000	FARADAY	John... do you know when we are?
+354	00:00:00,000 --> 00:00:00,000	LOCKE	We need to keep moving.
+356	00:00:00,000 --> 00:00:00,000		[Locke stares at the light for a few moments longer as the rest of the group begins to move.]
+358	00:00:00,000 --> 00:00:00,000		[Moments later, the group are making their way through the jungle.]
+360	00:00:00,000 --> 00:00:00,000	FARADAY	Hey. How's your headache?
+362	00:00:00,000 --> 00:00:00,000	CHARLOTTE	Better. Nothing like sore feet to take your mind off your head, eh?
+364	00:00:00,000 --> 00:00:00,000	FARADAY	[Chuckles] Well, don't worry. Once we get to the beach, we're gonna take the Zodiac around the other side of the island and you can rest.
+366	00:00:00,000 --> 00:00:00,000	CHARLOTTE	You're sweet, but you don't need to baby me. I'm fine.
+368	00:00:00,000 --> 00:00:00,000		[Behind them, Miles puts his hand to his nose and sees a little blood.]
+370	00:00:00,000 --> 00:00:00,000	JULIET	You okay?
+372	00:00:00,000 --> 00:00:00,000	MILES	I'm peachy.
+374	00:00:00,000 --> 00:00:00,000		[Suddenly, they hear a woman screaming in the distance.]
+376	00:00:00,000 --> 00:00:00,000	SAWYER	Shh!
+378	00:00:00,000 --> 00:00:00,000	MILES	Now what?
+380	00:00:00,000 --> 00:00:00,000		[Screaming continues.]
+382	00:00:00,000 --> 00:00:00,000	SAWYER	[whispers] Nobody move.
+384	00:00:00,000 --> 00:00:00,000		[Screaming continues.]
+386	00:00:00,000 --> 00:00:00,000	LOCKE	[whispers] James!
+388	00:00:00,000 --> 00:00:00,000	SAWYER	I got this.
+390	00:00:00,000 --> 00:00:00,000		[Cocks rifle.]
+392	00:00:00,000 --> 00:00:00,000		[Woman speaking indistinctly.]
+394	00:00:00,000 --> 00:00:00,000	CLAIRE	It knows I don't want it, and I was gonna give it away. Babies know that stuff.
+396	00:00:00,000 --> 00:00:00,000	KATE	Okay, no, no, hang on. Listen, listen. Do you want this baby? Do you want it to be safe and healthy?
+398	00:00:00,000 --> 00:00:00,000		[Claire sniffles.]
+400	00:00:00,000 --> 00:00:00,000	KATE	You're not alone in this. We are all here for you. This baby is all of ours. But I need you to push. Okay?
+402	00:00:00,000 --> 00:00:00,000		[Claire pants.]
+404	00:00:00,000 --> 00:00:00,000	KATE	One, two, three... push! Push!
+406	00:00:00,000 --> 00:00:00,000		[Claire grunts.]
+408	00:00:00,000 --> 00:00:00,000	KATE	Come on, Claire! Push!
+410	00:00:00,000 --> 00:00:00,000	CLAIRE	[Grunting and screaming] Aah!
+412	00:00:00,000 --> 00:00:00,000	KATE	Okay! He's coming!
+414	00:00:00,000 --> 00:00:00,000	KATE	Push! Push! Push! Push!
+416	00:00:00,000 --> 00:00:00,000		[Claire grunts.]
+418	00:00:00,000 --> 00:00:00,000	KATE	Push! Push! Push! Push!
+420	00:00:00,000 --> 00:00:00,000		[Aaron is born and begins to cry. Kate carries him, smiling. Sawyer looks on, overcome with emotion. Suddenly, the buzzing, magnetic humming is heard. White light starts filling the screen. The sound stops - it is now daytime. Sawyer grunts and pants. He looks to where Claire and Kate were, but they aren't there anymore. There is only the log where Claire was sitting when she delivered her baby. Locke arrives.]
+422	00:00:00,000 --> 00:00:00,000	LOCKE	James? What happened? Did you see something out here, James?
+424	00:00:00,000 --> 00:00:00,000	SAWYER	Don't matter. It's gone now.
+426	00:00:00,000 --> 00:00:00,000		[Off-Island - Kate is in her car. We hear the sound of a car door shutting and see Jack crossing the street toward Kate's car. He smiles at her and makes his way to the driver's window.]
+428	00:00:00,000 --> 00:00:00,000	KATE	You shaved your beard.
+430	00:00:00,000 --> 00:00:00,000	JACK	Yeah. Just needed a change.
+432	00:00:00,000 --> 00:00:00,000		[She gives him a brief smile and then looks away.]
+434	00:00:00,000 --> 00:00:00,000	KATE	Look, Jack, uh... I don't know why you called, but I can't be dealing with this right now. I...
+436	00:00:00,000 --> 00:00:00,000		[She continues to look into the distance.]
+438	00:00:00,000 --> 00:00:00,000	JACK	What's going on?
+440	00:00:00,000 --> 00:00:00,000	KATE	Nothing. Just... can you just go?
+442	00:00:00,000 --> 00:00:00,000	JACK	Why don't you just tell me?
+444	00:00:00,000 --> 00:00:00,000	KATE	Jack, please, just go.
+446	00:00:00,000 --> 00:00:00,000	JACK	Kate, please, tell me.
+448	00:00:00,000 --> 00:00:00,000	KATE	[Voice breaking] Somebody wants Aaron.
+450	00:00:00,000 --> 00:00:00,000	JACK	What?
+452	00:00:00,000 --> 00:00:00,000	KATE	There's a lawyer in there. His clients - they know we're lying. They know I'm not his mom, and they're gonna take him away.
+454	00:00:00,000 --> 00:00:00,000	JACK	Who's gonna take him away?
+456	00:00:00,000 --> 00:00:00,000		[We see the lawyer Dan Norton in a black car leaving the parking garage of his office, about to cross the same intersection we saw earlier. Kate puts her hands on the wheel.]
+458	00:00:00,000 --> 00:00:00,000	JACK	What-what are you doing?
+460	00:00:00,000 --> 00:00:00,000	KATE	Look, I gotta go, all right? Get in or don't.
+462	00:00:00,000 --> 00:00:00,000		[Kate starts the engine, and Jack hurries to the passenger side.]
+464	00:00:00,000 --> 00:00:00,000		[On-Island - Locke, Sawyer, Juliet, Daniel, Charlotte and Miles are trekking through the jungle. Sawyer leads the way, rifle in hand.]
+466	00:00:00,000 --> 00:00:00,000	LOCKE	Hey. You ready to tell me who you saw back there?
+468	00:00:00,000 --> 00:00:00,000	SAWYER	I already told you. It was nothin'.
+470	00:00:00,000 --> 00:00:00,000	LOCKE	You and I both know when we were before the flash, James. So who was it you saw? Charlie? Shannon? Yourself?
+472	00:00:00,000 --> 00:00:00,000	SAWYER	And how is it that you knew when we were, Johnny Boy? That light in the sky - it was from the Hatch, wasn't it?
+474	00:00:00,000 --> 00:00:00,000	LOCKE	The night that Boone died... I went out there and started pounding on it as hard as I could. I was... confused... scared. Babbling like an idiot, asking, why was all this happening to me?
+476	00:00:00,000 --> 00:00:00,000	SAWYER	Did you get an answer?
+478	00:00:00,000 --> 00:00:00,000	LOCKE	Light came on, shot up into the sky. At the time, I thought it meant something.
+480	00:00:00,000 --> 00:00:00,000	SAWYER	Did it?
+482	00:00:00,000 --> 00:00:00,000	LOCKE	No. It was just a light.
+484	00:00:00,000 --> 00:00:00,000	SAWYER	So why'd you turn us around then? Don't you wanna go back there?
+486	00:00:00,000 --> 00:00:00,000	LOCKE	Why would I wanna do that?
+488	00:00:00,000 --> 00:00:00,000	SAWYER	So you could tell yourself to do things different, save yourself a world of pain.
+490	00:00:00,000 --> 00:00:00,000	LOCKE	No, I needed that pain - to get to where I am now.
+492	00:00:00,000 --> 00:00:00,000		[Behind them, Miles and Daniel are walking together.]
+494	00:00:00,000 --> 00:00:00,000	MILES	Hey. [Sniffles] I just got a nosebleed.
+496	00:00:00,000 --> 00:00:00,000	FARADAY	What? When?
+498	00:00:00,000 --> 00:00:00,000	MILES	Let's just not freak out the others, okay? Just tell me... why-why her? Why me?
+500	00:00:00,000 --> 00:00:00,000	FARADAY	I don't know. Uh, I think it might have something to do with duration of exposure. You know, the amount of time you've spent on the island.
+502	00:00:00,000 --> 00:00:00,000	MILES	Doesn't make any sense. Those yahoos have been here for months. I've never been here before two weeks ago.
+504	00:00:00,000 --> 00:00:00,000	FARADAY	Are you sure about that?
+506	00:00:00,000 --> 00:00:00,000		[Miles gives him a look.]
+508	00:00:00,000 --> 00:00:00,000	SAWYER	Hello?!
+510	00:00:00,000 --> 00:00:00,000		[The group arrives at the beach camp.]
+512	00:00:00,000 --> 00:00:00,000	JULIET	The camp's back
+514	00:00:00,000 --> 00:00:00,000	SAWYER	Finally. Anybody for a DHARMA beer? Hello? Anybody here? Rose? Bernard?
+516	00:00:00,000 --> 00:00:00,000		[We see the beach camp is deserted. The tents are worn. There's no food in the kitchen, only trash. It's as if no one has been there for years.]
+518	00:00:00,000 --> 00:00:00,000	LOCKE	I wonder how long ago this happened.
+520	00:00:00,000 --> 00:00:00,000	SAWYER	Son of a bitch!
+522	00:00:00,000 --> 00:00:00,000		[Locke finds a rope ending in a loop and picks it up.]
+524	00:00:00,000 --> 00:00:00,000	JULIET	What is it?
+526	00:00:00,000 --> 00:00:00,000	LOCKE	It's Vincent's.
+528	00:00:00,000 --> 00:00:00,000	SAWYER	Yeah? Well, where's the rest of the dog? Where's the rest of our people?
+530	00:00:00,000 --> 00:00:00,000	FARADAY	The Zodiac's gone, too.
+532	00:00:00,000 --> 00:00:00,000	CHARLOTTE	Maybe your people took the boat.
+534	00:00:00,000 --> 00:00:00,000	SAWYER	Why the hell would they do that?
+536	00:00:00,000 --> 00:00:00,000	MILES	To get away from whoever came in those.
+538	00:00:00,000 --> 00:00:00,000		[We see a pair of canoes.]
+540	00:00:00,000 --> 00:00:00,000	CHARLOTTE	Where did these come from?
+542	00:00:00,000 --> 00:00:00,000	FARADAY	That's a good question. They're pretty old.
+544	00:00:00,000 --> 00:00:00,000	MILES	Not that old. [Picking up a water bottle with the Ajira logo on it.]
+546	00:00:00,000 --> 00:00:00,000	SAWYER	Let me see that. "Adg-eh-ruh"?
+548	00:00:00,000 --> 00:00:00,000	JULIET	Ajira. It's an airline. It's based out of India, but they fly everywhere.
+550	00:00:00,000 --> 00:00:00,000	SAWYER	Great. Maybe they got a flight out of here to Vegas tonight.
+552	00:00:00,000 --> 00:00:00,000	SAWYER	Who came in these? Other Others?
+554	00:00:00,000 --> 00:00:00,000	JULIET	Don't look at me.
+556	00:00:00,000 --> 00:00:00,000	FARADAY	My question is, when are they coming back?
+558	00:00:00,000 --> 00:00:00,000	LOCKE	Let's not wait to find out.
+560	00:00:00,000 --> 00:00:00,000		[Locke and the others start to push one of the canoes into the water.]
+562	00:00:00,000 --> 00:00:00,000		[Some time later, the six of them are paddling in the middle of the ocean.]
+564	00:00:00,000 --> 00:00:00,000	MILES	This plan sounded a hell of a lot better when we were going by motorboat. [Shouting up to Locke] How far is this place?
+566	00:00:00,000 --> 00:00:00,000	LOCKE	It's around that point. Not more than a couple hours.
+568	00:00:00,000 --> 00:00:00,000	MILES	[Flatly] Oh, joy.
+570	00:00:00,000 --> 00:00:00,000	JULIET	[To Sawyer] You all right?
+572	00:00:00,000 --> 00:00:00,000	SAWYER	I saw Kate.
+574	00:00:00,000 --> 00:00:00,000	JULIET	What?
+576	00:00:00,000 --> 00:00:00,000	SAWYER	Last night, in the jungle. Before the last flash. She was delivering Claire's baby.
+578	00:00:00,000 --> 00:00:00,000	JULIET	But that was two months ago.
+580	00:00:00,000 --> 00:00:00,000	SAWYER	Time travel's a bitch.
+582	00:00:00,000 --> 00:00:00,000		[Gunshot.]
+584	00:00:00,000 --> 00:00:00,000	JULIET	Get down!
+586	00:00:00,000 --> 00:00:00,000		[Gunshot.]
+588	00:00:00,000 --> 00:00:00,000		[We see another canoe far behind them.]
+590	00:00:00,000 --> 00:00:00,000	SAWYER	Paddle!
+592	00:00:00,000 --> 00:00:00,000	MILES	I think they want their boat back!
+594	00:00:00,000 --> 00:00:00,000	LOCKE	Move!
+596	00:00:00,000 --> 00:00:00,000		[More gunshots are heard, as the other canoe approaches. Our survivors paddle as fast as they can.]
+598	00:00:00,000 --> 00:00:00,000	MILES	These your people?!
+600	00:00:00,000 --> 00:00:00,000	JULIET	No! Are they yours?!
+602	00:00:00,000 --> 00:00:00,000	SAWYER	Shut up and keeping paddling!
+604	00:00:00,000 --> 00:00:00,000		[Gunshot.]
+606	00:00:00,000 --> 00:00:00,000		[Gunshot, a bullet pierces Sawyer's paddle.]
+608	00:00:00,000 --> 00:00:00,000	SAWYER	Little help! Little help!
+610	00:00:00,000 --> 00:00:00,000		[Juliet gives Sawyer her paddle, then picks up a rifle and returns fire. We see one of the people in the other canoe get hit.]
+612	00:00:00,000 --> 00:00:00,000		[Gunshot.]
+614	00:00:00,000 --> 00:00:00,000		[Gunshot.]
+616	00:00:00,000 --> 00:00:00,000		[Gunshot ricochets.]
+618	00:00:00,000 --> 00:00:00,000	SAWYER	Paddle harder! They're getting closer!
+620	00:00:00,000 --> 00:00:00,000		[Suddenly - buzzing, magnetic humming. The white light begins to embrace them.]
+622	00:00:00,000 --> 00:00:00,000	SAWYER	[shouts to the sky] Thank you, Lord!
+624	00:00:00,000 --> 00:00:00,000		[It's now nighttime and pouring rain The survivors are still in the canoe. Thunder rumbles.]
+626	00:00:00,000 --> 00:00:00,000	SAWYER	I take that back!
+628	00:00:00,000 --> 00:00:00,000	LOCKE	Everybody, paddle! Head for the shore!
+630	00:00:00,000 --> 00:00:00,000		[Thunder rumbling, lightning crashing.]
+632	00:00:00,000 --> 00:00:00,000		[Off-Island - Jack and Kate are parked outside of a motel. They see Norton walk up some stairs toward a room.]
+634	00:00:00,000 --> 00:00:00,000	JACK	Kate, just because the guy told you that he was meeting his client doesn't mean that they're here in L.A. He could've just told you that to-to throw you off.
+636	00:00:00,000 --> 00:00:00,000	KATE	Or they're in that hotel right now.
+638	00:00:00,000 --> 00:00:00,000	JACK	Okay. And what if they are? What if the person who wants to take Aaron is sitting in that hotel room right now? Then what? Come on. Come with me. We'll-we'll go get Aaron, we'll put our heads together, and we'll figure something out.
+640	00:00:00,000 --> 00:00:00,000	KATE	All right.
+642	00:00:00,000 --> 00:00:00,000		[The motel door opens for Norton. We briefly see a blonde middle-aged woman.]
+644	00:00:00,000 --> 00:00:00,000	KATE	Oh my god.
+646	00:00:00,000 --> 00:00:00,000	JACK	[Exhales deeply] It's Claire's mother.
+648	00:00:00,000 --> 00:00:00,000		[Some time later, Norton is running to his car outside the motel, holding his briefcase over his head to shield the rain. Kate and Jack watch him drive away. As Kate puts down the clutch, Jack places his hand over hers.]
+650	00:00:00,000 --> 00:00:00,000	JACK	Wait.
+652	00:00:00,000 --> 00:00:00,000	KATE	What am I waiting for, Jack?
+654	00:00:00,000 --> 00:00:00,000	JACK	Wait. I just... let's just think about this for a minute.
+656	00:00:00,000 --> 00:00:00,000	KATE	She knows.
+658	00:00:00,000 --> 00:00:00,000	JACK	Maybe she doesn't know.
+660	00:00:00,000 --> 00:00:00,000	KATE	No, but she knows about Aaron, and that's all that matters!
+662	00:00:00,000 --> 00:00:00,000	JACK	[Sighs] Let me go talk to her.
+664	00:00:00,000 --> 00:00:00,000	KATE	What?
+666	00:00:00,000 --> 00:00:00,000	JACK	If I can just explain to her why we did it - maybe if I can get her to understand why... she'll listen to me. I can fix this, Kate. I can fix it. Hey... Aaron is my family too.
+668	00:00:00,000 --> 00:00:00,000		[Kate closes her eyes, holding back tears. She gives him a weak smile and nods. Jack leaves the car and begins running toward the motel.]
+670	00:00:00,000 --> 00:00:00,000		[Inside her motel room, Carole looks at a framed photo of Claire. There is a knock on the door. Carole sighs. She opens the door and sees Jack.]
+672	00:00:00,000 --> 00:00:00,000	CAROLE	Dr. Shephard?
+674	00:00:00,000 --> 00:00:00,000	JACK	Hello, Ms. Littleton. Um... may I come in?
+676	00:00:00,000 --> 00:00:00,000	CAROLE	Of course.
+678	00:00:00,000 --> 00:00:00,000		[Door closes.]
+680	00:00:00,000 --> 00:00:00,000	CAROLE	You look drenched.
+682	00:00:00,000 --> 00:00:00,000	JACK	No, no. No, I'm fine.
+684	00:00:00,000 --> 00:00:00,000	CAROLE	God, I haven't seen you since your father's funeral. How did you even know I was here?
+686	00:00:00,000 --> 00:00:00,000	JACK	Uh... I knew you were here, Ms. Littleton, because I followed your lawyer.
+688	00:00:00,000 --> 00:00:00,000	CAROLE	Why would you do that?
+690	00:00:00,000 --> 00:00:00,000	JACK	I'm - I did it because, um... I understand that you feel the need to do this. But I need you to know that everything that Kate and I have done-it was for Aaron.
+692	00:00:00,000 --> 00:00:00,000	CAROLE	Who's... Aaron? I-I'm afraid I'm not following you.
+694	00:00:00,000 --> 00:00:00,000	JACK	Ms. Littleton, um... what are you doing here in Los Angeles?
+696	00:00:00,000 --> 00:00:00,000		[Thunder rumbles and the rain continues to pour as Jack runs back to the car and quickly gets in.]
+698	00:00:00,000 --> 00:00:00,000	JACK	Let's go. Drive. Then call Sun and tell her to bring Aaron to the Long Beach Marina. We'll meet her there.
+700	00:00:00,000 --> 00:00:00,000	KATE	What--wh-what are you talking about? What happened?
+702	00:00:00,000 --> 00:00:00,000	JACK	Kate, we have to go now.
+704	00:00:00,000 --> 00:00:00,000	KATE	I'm not going anywhere until you tell me what just happened!
+706	00:00:00,000 --> 00:00:00,000	JACK	She doesn't know anything.
+708	00:00:00,000 --> 00:00:00,000	KATE	What?
+710	00:00:00,000 --> 00:00:00,000	JACK	She doesn't know. She still thinks that Claire is dead. [Pants] She doesn't even know that Aaron exists.
+712	00:00:00,000 --> 00:00:00,000	KATE	But the lawyer-
+714	00:00:00,000 --> 00:00:00,000	JACK	She sued Oceanic, and she's in town to pick up her settlement.
+716	00:00:00,000 --> 00:00:00,000	KATE	What, and it's just a coincidence that her lawyer happens to be the same one that's trying to take my son?
+718	00:00:00,000 --> 00:00:00,000	JACK	I don't know. But whoever's trying to take Aaron... it's not her.
+720	00:00:00,000 --> 00:00:00,000	KATE	Then who is it?
+722	00:00:00,000 --> 00:00:00,000		[Sayid and Ben are driving in a van.]
+724	00:00:00,000 --> 00:00:00,000	BEN	Can I ask you something? Why'd you take it upon yourself to rescue Hugo?
+726	00:00:00,000 --> 00:00:00,000	SAYID	I had to make sure Hurley was safe.
+728	00:00:00,000 --> 00:00:00,000	BEN	You can pull in over here.
+730	00:00:00,000 --> 00:00:00,000		[The two pull into a parking garage. A man approaches Ben's window.]
+732	00:00:00,000 --> 00:00:00,000	NORTON	Mr. Linus.
+734	00:00:00,000 --> 00:00:00,000	BEN	Mr. Norton.
+736	00:00:00,000 --> 00:00:00,000	NORTON	I looked into it, and they don't have any kind of solid case against Reyes. The M.E. said that the man found outside Santa Rosa was killed before Reyes escaped.
+738	00:00:00,000 --> 00:00:00,000	BEN	That's very good news.
+740	00:00:00,000 --> 00:00:00,000	NORTON	We have a prelim hearing in the morning. The judge will never let it get past that, and Reyes will be a free man.
+742	00:00:00,000 --> 00:00:00,000	BEN	Thank you, Dan.
+744	00:00:00,000 --> 00:00:00,000	NORTON	Anytime.
+746	00:00:00,000 --> 00:00:00,000		[Norton leaves.]
+748	00:00:00,000 --> 00:00:00,000	SAYID	Who was that?
+750	00:00:00,000 --> 00:00:00,000	BEN	That's my lawyer.
+752	00:00:00,000 --> 00:00:00,000		[On-Island - Locke et al grunt as they push the canoe onto a beach.]
+754	00:00:00,000 --> 00:00:00,000	LOCKE	Aah! Okay!
+756	00:00:00,000 --> 00:00:00,000		[All panting.]
+758	00:00:00,000 --> 00:00:00,000	MILES	Remind me never to do that again.
+760	00:00:00,000 --> 00:00:00,000	FARADAY	Where are we?
+762	00:00:00,000 --> 00:00:00,000	LOCKE	It's hard to say til it gets light.
+764	00:00:00,000 --> 00:00:00,000		[Juliet and Sawyer sit in the sand with their backs against the canoe.]
+766	00:00:00,000 --> 00:00:00,000	JULIET	We didn't get a chance to finish our conversation.
+768	00:00:00,000 --> 00:00:00,000	SAWYER	What conversation was that?
+770	00:00:00,000 --> 00:00:00,000	JULIET	The one before they started shooting at us, where you were about to tell me how it felt to see Kate again.
+772	00:00:00,000 --> 00:00:00,000	SAWYER	I wasn't about to tell you anything.
+774	00:00:00,000 --> 00:00:00,000		[Thunder rumbling, waves crashing.]
+776	00:00:00,000 --> 00:00:00,000	JULIET	Why don't you tell me now?
+778	00:00:00,000 --> 00:00:00,000		[Sawyer pauses for a few moments before speaking.]
+780	00:00:00,000 --> 00:00:00,000	SAWYER	I was close enough to touch her. If I wanted to, I could've... stood right up and talked to her.
+782	00:00:00,000 --> 00:00:00,000	JULIET	Why didn't you?
+784	00:00:00,000 --> 00:00:00,000	SAWYER	What's done is done... Juliet?
+786	00:00:00,000 --> 00:00:00,000	JULIET	What's wrong?
+788	00:00:00,000 --> 00:00:00,000		[Sawyer points under his nose. Juliet checks herself and we see that her nose is bleeding.]
+790	00:00:00,000 --> 00:00:00,000	CHARLOTTE	Oi! Come and look at this!
+792	00:00:00,000 --> 00:00:00,000		[There's a black box in the sand.]
+794	00:00:00,000 --> 00:00:00,000	CHARLOTTE	It's wreckage. Looks like it just happened.
+796	00:00:00,000 --> 00:00:00,000		[Locke turns the black box over with his foot. It has "bÃƒÂ©sixdouze" written on it.]
+798	00:00:00,000 --> 00:00:00,000	LOCKE	Anybody speak French?
+800	00:00:00,000 --> 00:00:00,000		[Cut to a French team in a life raft on the stormy sea.]
+802	00:00:00,000 --> 00:00:00,000		[No French is subtitled.]
+804	00:00:00,000 --> 00:00:00,000	ROBERT	Mais j'te l'ai dit, on aurait jamais dÃƒÂ» suivre ces maudits chiffres ! [Translation: I told you so! We never should have followed those damn numbers!]
+806	00:00:00,000 --> 00:00:00,000	MONTAND	Mais c'est pas ma faute, Robert. C'est Brennan qui devait tenir le sonar ! [Translation: It's not my fault, Robert. Brennan was in charge of the sonar!]
+808	00:00:00,000 --> 00:00:00,000	BRENNAN	Mais je le faisais, Montand! Je vous l'ai dÃƒÂ©ja dit, les instruments ont mal fonctionnÃƒÂ© ! [Translation: I was watching, Montand! I told you already, the instruments malfunctioned!]
+810	00:00:00,000 --> 00:00:00,000	YOUNG WOMAN	Un homme Ãƒ la mer ! [Translation: Man overboard!]
+812	00:00:00,000 --> 00:00:00,000	ROBERT	Quoi? [Translation: What?]
+814	00:00:00,000 --> 00:00:00,000		[It is unclear who says the following lines.]
+816	00:00:00,000 --> 00:00:00,000	BRENNAN	Mais je pensais qu'on ÃƒÂ©tait tous lÃƒÂ  ! [Translation: I thought we were all there!]
+818	00:00:00,000 --> 00:00:00,000	MONTAND	On est tous lÃƒÂ  ! Il n'est pas des nÃƒÂ´tres. [Translation: We are all here! He's not one of us.]
+820	00:00:00,000 --> 00:00:00,000	BRENNAN	Alors qui est-ce? [Translation: So who is he?]
+822	00:00:00,000 --> 00:00:00,000		[Shouting in French.]
+824	00:00:00,000 --> 00:00:00,000	ROBERT	Pagaie!
+826	00:00:00,000 --> 00:00:00,000	MONTAND	Pagayez! Allez! [Translation: Paddle! Paddle! Come on!]
+828	00:00:00,000 --> 00:00:00,000	UNKNOWN	Pointez la lampe de poche sur lui. [Translation: Point the flashlight at him.]
+830	00:00:00,000 --> 00:00:00,000	YOUNG WOMAN	Il faut tenir la lampe torche. Brennan, aide-les Ãƒ pagayer. [Translation: You have to hold the flashlight. Brennan, help them paddle.]
+832	00:00:00,000 --> 00:00:00,000	UNKNOWN	Allez! DÃƒÂ©pÃƒÂªchez-vous ! Nous dÃƒÂ©rivons avec le courant. [Translation: Come on! Hurry up! We are drifting with the current.]
+834	00:00:00,000 --> 00:00:00,000	UNKNOWN	Non, y'a que lui ! Pas de bateau, rien. [Translation: No... There's only him! No boat, nothing.]
+836	00:00:00,000 --> 00:00:00,000	UNKNOWN	Les vagues vont nous amener jusque sur la cÃƒÂ´te. [Translation: The waves will bring us to the coast.]
+838	00:00:00,000 --> 00:00:00,000	UNKNOWN	Le vent va passer par ici. [Translation: The wind is coming over here.]
+840	00:00:00,000 --> 00:00:00,000	YOUNG WOMAN	Au nom de dieu, Brennan ! Ta gueule ! [Translation: In the name of God, Brennan! Shut up!]
+842	00:00:00,000 --> 00:00:00,000	UNKNOWN	Allez, tirez-le dans le radeau. [Translation: Come on, bring him in the raft.]
+844	00:00:00,000 --> 00:00:00,000	UNKNOWN	Aide moi. [Translation: Help me.]
+846	00:00:00,000 --> 00:00:00,000	UNKNOWN	Il est lourd ! [Translation: He's heavy!]
+848	00:00:00,000 --> 00:00:00,000	UNKNOWN	Tiens, il respire encore. [Translation: He's still breathing.]
+850	00:00:00,000 --> 00:00:00,000		[They turn the man over to reveal a battered and unconscious Jin.]
+852	00:00:00,000 --> 00:00:00,000		[Off-Island - Kate shifts gears, turns off engine.]
+854	00:00:00,000 --> 00:00:00,000	KATE	Jack, why did you call me today?
+856	00:00:00,000 --> 00:00:00,000	JACK	I told you. I was... I was worried.
+858	00:00:00,000 --> 00:00:00,000	KATE	But why? Why were you worried? Why today?
+860	00:00:00,000 --> 00:00:00,000		[Jack hands her the paper with her address on it.]
+862	00:00:00,000 --> 00:00:00,000	KATE	I don't...
+864	00:00:00,000 --> 00:00:00,000	JACK	Right before I called you, Sayid was attacked. And the guy that did it--your address was in his pocket.
+866	00:00:00,000 --> 00:00:00,000	KATE	Sayid? What's he doing here?
+868	00:00:00,000 --> 00:00:00,000	JACK	That's not important right now. What matters is that we get you and Aaron someplace safe.
+870	00:00:00,000 --> 00:00:00,000		[Car approaching.]
+872	00:00:00,000 --> 00:00:00,000	KATE	Safe from who?
+874	00:00:00,000 --> 00:00:00,000		[Engine turns off. Jack and Kate exit the car.]
+876	00:00:00,000 --> 00:00:00,000	BEN	Hello, Kate.
+878	00:00:00,000 --> 00:00:00,000		[Car door shuts.]
+880	00:00:00,000 --> 00:00:00,000	JACK	It's okay. He's with me.
+882	00:00:00,000 --> 00:00:00,000	KATE	He's with you?
+884	00:00:00,000 --> 00:00:00,000	JACK	I know this is gonna be hard to understand, but he's here to help us. To help everyone that we left behind. We all need to be together again.
+886	00:00:00,000 --> 00:00:00,000	KATE	It's him.
+888	00:00:00,000 --> 00:00:00,000	JACK	What?
+890	00:00:00,000 --> 00:00:00,000	KATE	It's him. He's the one who's trying to take Aaron.
+892	00:00:00,000 --> 00:00:00,000	JACK	No. No. You--you don't understand.
+894	00:00:00,000 --> 00:00:00,000	BEN	No, Jack. She's right. It was me. Sorry.
+896	00:00:00,000 --> 00:00:00,000	KATE	Who the hell do you think you are? Why don't you just stay away?! Why don't you leave me and my son alone?!
+898	00:00:00,000 --> 00:00:00,000	BEN	Because he's not your son, Kate.
+900	00:00:00,000 --> 00:00:00,000		[The camera zooms out to reveal Sun watching the scene from her car. Aaron is asleep in the back. Sun reaches into her bag and grabs the gun and leaves the car.]
+902	00:00:00,000 --> 00:00:00,000		[On-Island - Jin wakes up on a beach. The French team is there. Some are gathering belongings; one is fiddling with a radio phone. It's now daytime and the storm has cleared.]
+904	00:00:00,000 --> 00:00:00,000	AUTOMATED VOICE OVER RADIO	4... 8...
+906	00:00:00,000 --> 00:00:00,000	MONTAND	Robert... Regarde, le signal vient de l'ÃƒÂ®le. [Translation: Look, the signal's coming from the island.]
+908	00:00:00,000 --> 00:00:00,000	ROBERT	Tu peux dÃƒÂ©terminer la source ? [Translation: Can you find the source?]
+910	00:00:00,000 --> 00:00:00,000	AUTOMATED VOICE OVER RADIO	15... 16...
+912	00:00:00,000 --> 00:00:00,000	MONTAND	Bien sÃƒÂ»r que oui. Regarde. [Translation: Yes, of course. Look.]
+914	00:00:00,000 --> 00:00:00,000	ROBERT	Tu crois que l'ÃƒÂ®le est habitÃƒÂ©e ? [Translation: Do you think it is inhabited?]
+916	00:00:00,000 --> 00:00:00,000	MONTAND	J'sais pas. [Translation: I don't know.]
+918	00:00:00,000 --> 00:00:00,000	YOUNG WOMAN	[To Jin] Ãƒâ€¡a va ? Comment tu te sens ? [Translation: How are you? How are you feeling?]
+920	00:00:00,000 --> 00:00:00,000	JIN	No understand.
+922	00:00:00,000 --> 00:00:00,000	YOUNG WOMAN	[French accent] You speak English?
+924	00:00:00,000 --> 00:00:00,000	JIN	[Panting] Little.
+926	00:00:00,000 --> 00:00:00,000	YOUNG WOMAN	Are you okay?
+928	00:00:00,000 --> 00:00:00,000	JIN	Yes.
+930	00:00:00,000 --> 00:00:00,000	YOUNG WOMAN	How did you get here?
+932	00:00:00,000 --> 00:00:00,000	JIN	Boat.
+934	00:00:00,000 --> 00:00:00,000	ROBERT	Qui est-ce ? [Translation: Who is he?]
+936	00:00:00,000 --> 00:00:00,000	MONTAND	On s'en fout qui c'est. Qu'est ce qu'il fait ici ? [Translation: Who cares who he is. What is he doing here?]
+938	00:00:00,000 --> 00:00:00,000	YOUNG WOMAN	Il dit qu'il est venu en bateau. [Translation: He said he came by boat.]
+940	00:00:00,000 --> 00:00:00,000	ROBERT	[French accent] What boat?
+942	00:00:00,000 --> 00:00:00,000	JIN	It's gone. Sink.
+944	00:00:00,000 --> 00:00:00,000	YOUNG WOMAN	It must've been caught in the same storm as ours.
+946	00:00:00,000 --> 00:00:00,000	MONTAND	[French accent] Who are you? How long you in the water?
+948	00:00:00,000 --> 00:00:00,000	JIN	I don't know.
+950	00:00:00,000 --> 00:00:00,000	MONTAND	How do you not know how you wound up in the middle of the ocean, huh?
+952	00:00:00,000 --> 00:00:00,000	YOUNG WOMAN	Montand ! Laisse-le, il est en ÃƒÂ©tat de choc. On a de l'eau Ãƒ lui donner ? [Translation: Montand! Leave him alone, he's in a state of shock. Do we have water to give him?]
+954	00:00:00,000 --> 00:00:00,000	ROBERT	Ouais. [Translation: Yeah.]
+956	00:00:00,000 --> 00:00:00,000		[The young woman takes off her coat, revealing a pregnant stomach. Robert comes back with a canteen of water.]
+958	00:00:00,000 --> 00:00:00,000	ROBERT	Tiens. [Translation: Here.]
+960	00:00:00,000 --> 00:00:00,000	YOUNG WOMAN	Merci, Robert. [Translation: Thank you, Robert.]
+962	00:00:00,000 --> 00:00:00,000		[The young woman opens the canteen for Jin, who drinks with immense thirst.]
+964	00:00:00,000 --> 00:00:00,000	JIN	[Exhales deeply] Thank you.
+966	00:00:00,000 --> 00:00:00,000	YOUNG WOMAN	What is your name?
+968	00:00:00,000 --> 00:00:00,000	JIN	Kwon Jin-soo. Jin.
+970	00:00:00,000 --> 00:00:00,000	YOUNG WOMAN	Hello, Jin. I'm Danielle. Danielle Rousseau.
+972	00:00:00,000 --> 00:00:00,000		[Jin stares in shock.]

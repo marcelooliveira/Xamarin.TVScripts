@@ -1,0 +1,477 @@
+The Constant
+2	00:00:00,000 --> 00:00:00,000	Written by	Carlton Cuse & Damon Lindelof
+4	00:00:00,000 --> 00:00:00,000	Directed by	Jack Bender
+6	00:00:00,000 --> 00:00:00,000		[2004 - On the helicopter, Desmond is looking at the photo of himself and Penny. Frank is piloting the helicopter, with Sayid looking on. Frank is looking at a piece of notebook paper with a compass bearing on it.]
+8	00:00:00,000 --> 00:00:00,000	SAYID	What's that?
+10	00:00:00,000 --> 00:00:00,000	FRANK	Cheat sheet Faraday drew for me.
+12	00:00:00,000 --> 00:00:00,000	SAYID	You don't know where your boat is?
+14	00:00:00,000 --> 00:00:00,000	FRANK	I know where it is.
+16	00:00:00,000 --> 00:00:00,000		[The helicopter begins flying into a thunderhead.]
+18	00:00:00,000 --> 00:00:00,000	SAYID	Why are you flying directly into the thunderhead?
+20	00:00:00,000 --> 00:00:00,000	FRANK	Why don't you just sit back and let me do my job, huh?
+22	00:00:00,000 --> 00:00:00,000		[Sayid turns to look at Desmond, who is still looking at the photograph.]
+24	00:00:00,000 --> 00:00:00,000	SAYID	Is that Penelope? [Desmond nods.] She told Charlie she didn't know about this boat, correct?
+26	00:00:00,000 --> 00:00:00,000	DESMOND	Aye.
+28	00:00:00,000 --> 00:00:00,000	SAYID	What do you expect to find when you get there?
+30	00:00:00,000 --> 00:00:00,000	DESMOND	Answers.
+32	00:00:00,000 --> 00:00:00,000		[The helicopter experiences turbulence. There's a lightning strike.]
+34	00:00:00,000 --> 00:00:00,000	FRANK	Damn it!
+36	00:00:00,000 --> 00:00:00,000		[Frank struggles to keep the copter steady.]
+38	00:00:00,000 --> 00:00:00,000	FRANK	Hold on!
+40	00:00:00,000 --> 00:00:00,000		[Desmond looks around, gripping the seat.]
+42	00:00:00,000 --> 00:00:00,000		[1996 - Suddenly, he's gripping a bed. His hair is cut short, and he's in a military barrack.]
+44	00:00:00,000 --> 00:00:00,000	SERGEANT	On your sodding feet, move, move, move!
+46	00:00:00,000 --> 00:00:00,000		[Desmond is slow getting up.]
+48	00:00:00,000 --> 00:00:00,000	SGT	What are you waiting for, Hume?
+50	00:00:00,000 --> 00:00:00,000		[Desmond gets into line.]
+52	00:00:00,000 --> 00:00:00,000	SGT	What's the matter, Hume? Did you not hear me?
+54	00:00:00,000 --> 00:00:00,000	DESMOND	I'm sorry, sir. I was...I was having a dream, sir.
+56	00:00:00,000 --> 00:00:00,000	SGT	You were having a dream, were you? And what were you dreaming about, that it took you so sodding long to get to your mark?
+58	00:00:00,000 --> 00:00:00,000	DESMOND	I was in a helicopter, sir. And there was a storm, sir. And I don't remember the rest, sir.
+60	00:00:00,000 --> 00:00:00,000	SGT	Well, at least it was a bloody military dream. Right! All of ya! In the yard, four minutes. And you can thank Private Hume for having to do it in double time. Move!
+62	00:00:00,000 --> 00:00:00,000		[They're then out in the mud and rain, doing pushups.]
+64	00:00:00,000 --> 00:00:00,000	SOLDIER 1	One, two, three!
+66	00:00:00,000 --> 00:00:00,000	REST	Four!
+68	00:00:00,000 --> 00:00:00,000	SOLDIER 1	One, two, three!
+70	00:00:00,000 --> 00:00:00,000	REST	Five!
+72	00:00:00,000 --> 00:00:00,000	SGT	One hundred crunches! Go, go, go, go, go!
+74	00:00:00,000 --> 00:00:00,000	SOLDIER 1	One, two three, four...
+76	00:00:00,000 --> 00:00:00,000	SOLDIER 2	[to Desmond] I hope your dream was worth this, mate.
+78	00:00:00,000 --> 00:00:00,000	DESMOND	Sorry brother. It's just that, I've never had a dream so vivid. It was like I was actually there.
+80	00:00:00,000 --> 00:00:00,000	SGT	Have you got something to say, Hume?
+82	00:00:00,000 --> 00:00:00,000		[Desmond remains silent.]
+84	00:00:00,000 --> 00:00:00,000	SGT	I asked you a question!
+86	00:00:00,000 --> 00:00:00,000		[2004 - Desmond is suddenly back on the helicopter, extremely disturbed.]
+88	00:00:00,000 --> 00:00:00,000	FRANK	We're almost through it. I see daylight!
+90	00:00:00,000 --> 00:00:00,000		[Desmond begins to unbuckle himself.]
+92	00:00:00,000 --> 00:00:00,000	SAYID	What are you doing? Desmond! Are you alright?
+94	00:00:00,000 --> 00:00:00,000	DESMOND	Who are you? How do you know my name?!
+96	00:00:00,000 --> 00:00:00,000		[On the beach, Daniel and Charlotte are pouring coffee. Jack continues trying the phone, worried, while Juliet stands nearby.]
+98	00:00:00,000 --> 00:00:00,000	JACK	Alright. They took off a day ago. Why haven't we heard from them?
+100	00:00:00,000 --> 00:00:00,000	CHARLOTTE	I'm going to tell you again, as I've been telling you all night, doctor. I don't know! You heard the same thing as I did when we called the boat. What makes you think I know anything?
+102	00:00:00,000 --> 00:00:00,000	JULIET	Because you're not worried.
+104	00:00:00,000 --> 00:00:00,000	CHARLOTTE	Excuse me?
+106	00:00:00,000 --> 00:00:00,000	JULIET	You're boat's 40 miles off the coast, it should have taken them what, 20 minutes to get there? So why aren't you worried?
+108	00:00:00,000 --> 00:00:00,000	CHARLOTTE	Should I wring my hands together and whisper a prayer on their behalf?
+110	00:00:00,000 --> 00:00:00,000	DANIEL	Hey, hey, hey, c'mon. Maybe we should just, just tell them.
+112	00:00:00,000 --> 00:00:00,000	JACK	Tell us what?
+114	00:00:00,000 --> 00:00:00,000	CHARLOTTE	Dan, let's not confuse anyone.
+116	00:00:00,000 --> 00:00:00,000	JULIET	Well, Daniel, maybe if you talk real slow, we'll be able to follow.
+118	00:00:00,000 --> 00:00:00,000	DANIEL	Your perception of how long your friends have been gone, it's not necessarily how long they've actually been gone.
+120	00:00:00,000 --> 00:00:00,000	JACK	What does that mean?
+122	00:00:00,000 --> 00:00:00,000	CHARLOTTE	This is a mistake.
+124	00:00:00,000 --> 00:00:00,000	DANIEL	It'll be fine, it'll be fine. As long as Frank flew on the bearings I gave him. If he stayed on it, it'll be fine.
+126	00:00:00,000 --> 00:00:00,000	JACK	And what if he didn't?
+128	00:00:00,000 --> 00:00:00,000	DANIEL	Then there might be side-effects.
+130	00:00:00,000 --> 00:00:00,000		[On the copter.]
+132	00:00:00,000 --> 00:00:00,000	SAYID	We're at two thousand feet, sit down!
+134	00:00:00,000 --> 00:00:00,000	DESMOND	What am I doing here?!
+136	00:00:00,000 --> 00:00:00,000	FRANK	What the hell's going on?!
+138	00:00:00,000 --> 00:00:00,000	SAYID	Something's wrong with Desmond!
+140	00:00:00,000 --> 00:00:00,000	DESMOND	How do you know my name?!
+142	00:00:00,000 --> 00:00:00,000	FRANK	Hold him there, Sayid!
+144	00:00:00,000 --> 00:00:00,000	SAYID	I'm trying!
+146	00:00:00,000 --> 00:00:00,000	DESMOND	Let go of me!
+148	00:00:00,000 --> 00:00:00,000	FRANK	Keep him away from the stick! We'll be there in two minutes!
+150	00:00:00,000 --> 00:00:00,000		[The helicopter veers down, and comes close to the freighter. Sayid lets Desmond go, Desmond notices the photo clenched in his hand. The helicopter lands. As Keamy and Omar run over, Sayid arms himself.]
+152	00:00:00,000 --> 00:00:00,000	KEAMY	What are you doing back?
+154	00:00:00,000 --> 00:00:00,000	OMAR	Who are they?!
+156	00:00:00,000 --> 00:00:00,000	FRANK	Survivors of 815.
+158	00:00:00,000 --> 00:00:00,000	KEAMY	You shouldn't have brought them here, what the hell were you thinking?!
+160	00:00:00,000 --> 00:00:00,000	DESMOND	Alright, where am I?
+162	00:00:00,000 --> 00:00:00,000	KEAMY	Alright, just take it easy.
+164	00:00:00,000 --> 00:00:00,000	OMAR	Whoa.
+166	00:00:00,000 --> 00:00:00,000	DESMOND	Alright, who are you people?
+168	00:00:00,000 --> 00:00:00,000	OMAR	Whoa, buddy. Calm down.
+170	00:00:00,000 --> 00:00:00,000	DESMOND	What am I doing here? who are you people?
+172	00:00:00,000 --> 00:00:00,000	SAYID	My friend is disoriented!
+174	00:00:00,000 --> 00:00:00,000	DESMOND	I'm not your friend! I don't know you! I don't know you!
+176	00:00:00,000 --> 00:00:00,000	KEAMY	When did he start doing this?
+178	00:00:00,000 --> 00:00:00,000	FRANK	He was fine when we took off. When we hit some weather... Hey, Faraday told me as long as I stayed on the vector --
+180	00:00:00,000 --> 00:00:00,000		[Keamy motions for him to stay quiet. He and Omar step toward Desmond, but are blocked by Sayid.]
+182	00:00:00,000 --> 00:00:00,000	KEAMY	What's your name, my friend?
+184	00:00:00,000 --> 00:00:00,000	SAYID	Sayid.
+186	00:00:00,000 --> 00:00:00,000	KEAMY	Okay, Sayid. Look, we're going to take your buddy down to the sick bay, okay.
+188	00:00:00,000 --> 00:00:00,000	SAYID	I'm going with you.
+190	00:00:00,000 --> 00:00:00,000	KEAMY	Let a doctor look at him first, then you can come down. You got my word on that, okay?
+192	00:00:00,000 --> 00:00:00,000		[Sayid, after some time, nods. Keamy and Omar approach Desmond.]
+194	00:00:00,000 --> 00:00:00,000	OMAR	Alright.
+196	00:00:00,000 --> 00:00:00,000	DESMOND	Listen, listen. This is a mistake, alright?
+198	00:00:00,000 --> 00:00:00,000	OMAR	Settle down.
+200	00:00:00,000 --> 00:00:00,000	DESMOND	I don't know these people.
+202	00:00:00,000 --> 00:00:00,000	OMAR	I understand.
+204	00:00:00,000 --> 00:00:00,000	DESMOND	No, this is wrong! I'm not supposed to be-
+206	00:00:00,000 --> 00:00:00,000		[1996 - Desmond suddenly appears in the rain, standing up while the rest of his regiment is doing crunches.]
+208	00:00:00,000 --> 00:00:00,000	DESMOND	-here!
+210	00:00:00,000 --> 00:00:00,000	SOLDIER 1	Twenty, twenty-one, twenty-three...
+212	00:00:00,000 --> 00:00:00,000	SGT	Here? Here what? What the hell are you doing on your feet? Are you finished with your crunches, because you want to run?! [to all] Right! Squad, on your feet! Right face! Ten kilometers, go, go, go, go, go!
+214	00:00:00,000 --> 00:00:00,000	BILLY	[to Desmond] Keep moving, or so help me, I'll kill you myself!
+216	00:00:00,000 --> 00:00:00,000		[Cut to the soldiers loading a truck.]
+218	00:00:00,000 --> 00:00:00,000	BILLY	What the hell's the matter with you, Des?
+220	00:00:00,000 --> 00:00:00,000	DESMOND	If I told you, you'd think I was crazy.
+222	00:00:00,000 --> 00:00:00,000	BILLY	I already know you're crazy.
+224	00:00:00,000 --> 00:00:00,000	DESMOND	This morning, when I was in the yard doing crunches, I left.
+226	00:00:00,000 --> 00:00:00,000	BILLY	What do you mean you left?
+228	00:00:00,000 --> 00:00:00,000	DESMOND	I was on a boat. And then I was back here...right where I started.
+230	00:00:00,000 --> 00:00:00,000	BILLY	Des, if you're trying to get tossed out of service-
+232	00:00:00,000 --> 00:00:00,000	DESMOND	Billy, I'm telling you the truth, man.
+234	00:00:00,000 --> 00:00:00,000	BILLY	Who else was on this...boat? Anyone you recognized?
+236	00:00:00,000 --> 00:00:00,000	DESMOND	Penny. There was a photo. Penny was in the photo.
+238	00:00:00,000 --> 00:00:00,000		[He gets up, walks away.]
+240	00:00:00,000 --> 00:00:00,000	BILLY	What? Oi, Des...where you going?
+242	00:00:00,000 --> 00:00:00,000		[Desmond walks over to a phone booth. As he steps up, another soldier comes out, bumping him and knocking the change out of his hand.]
+244	00:00:00,000 --> 00:00:00,000	SOLDIER 3	Thanks for this morning, Hume.
+246	00:00:00,000 --> 00:00:00,000		[Desmond bends down to pick up the coins, and reappears back on the freighter.]
+248	00:00:00,000 --> 00:00:00,000		[2004 - Desmond almost falls over.]
+250	00:00:00,000 --> 00:00:00,000	KEAMY	Whoa, whoa, whoa, whoa, whoa. Watch your step. Watch your step. Take it easy.
+252	00:00:00,000 --> 00:00:00,000	DESMOND	I'm not here. This...this isn't happening.
+254	00:00:00,000 --> 00:00:00,000	KEAMY	You are here. And, this is happening. Look, we're going to take care of you.
+256	00:00:00,000 --> 00:00:00,000	DESMOND	Wh-wh-what am I doing here?
+258	00:00:00,000 --> 00:00:00,000	KEAMY	It's alright, you're gonna be okay.
+260	00:00:00,000 --> 00:00:00,000		[They step into a doorway, and walk down a hallway.]
+262	00:00:00,000 --> 00:00:00,000	DESMOND	Who are you people?
+264	00:00:00,000 --> 00:00:00,000	KEAMY	Well, my name is Keamy, and this is Omar. I'm from Vegas and he's from Florida, but as for where we are, I-
+266	00:00:00,000 --> 00:00:00,000	OMAR	The last port was Fiji. So at least we know we're still in the Pacific.
+268	00:00:00,000 --> 00:00:00,000		[Omar opens a door, and Desmond steps into the sick bay.]
+270	00:00:00,000 --> 00:00:00,000	KEAMY	Alright, my friend. Now you just relax, okay? Now, we're gonna go get the doc, and he's gonna want to ask you some questions to help us sort all this out.
+272	00:00:00,000 --> 00:00:00,000	DESMOND	What do you mean, sort out? Wait a minute! What do you mean?
+274	00:00:00,000 --> 00:00:00,000		[Keamy slams and locks the door.]
+276	00:00:00,000 --> 00:00:00,000	DESMOND	I'm not supposed to be here!
+278	00:00:00,000 --> 00:00:00,000		[Desmond struggles with the door.]
+280	00:00:00,000 --> 00:00:00,000	DESMOND	I'm not supposed to be here! Open this door! Open this door!
+282	00:00:00,000 --> 00:00:00,000		[He hears a voice.]
+284	00:00:00,000 --> 00:00:00,000	MAN	Hey. Hey! Hey.
+286	00:00:00,000 --> 00:00:00,000		[Desmond turns to see a man strapped to a bed.]
+288	00:00:00,000 --> 00:00:00,000	MAN	It's happening to you too, isn't it?
+290	00:00:00,000 --> 00:00:00,000		[Sayid is on the deck, studying the boat. He notices Keamy yelling at Frank. Frank approaches Sayid.]
+292	00:00:00,000 --> 00:00:00,000	SAYID	What's happening to Desmond? Your friends know what's wrong with him.
+294	00:00:00,000 --> 00:00:00,000	FRANK	Well if they do, they're not sharing it with me.
+296	00:00:00,000 --> 00:00:00,000	SAYID	Then perhaps you'll share how we took off at dusk and landed in the middle of the day.
+298	00:00:00,000 --> 00:00:00,000	FRANK	Listen. I don't know what's happening to your buddy, alright? But you gotta trust me when I tell you this. I am trying to help you.
+300	00:00:00,000 --> 00:00:00,000	SAYID	You want to help me? Give me your phone. Let me call my people.
+302	00:00:00,000 --> 00:00:00,000	FRANK	You give me that weapon and I'll give you this phone.
+304	00:00:00,000 --> 00:00:00,000		[They trade.]
+306	00:00:00,000 --> 00:00:00,000	FRANK	Be quick. And don't go trying to call Baghdad, those phones can only call each other.
+308	00:00:00,000 --> 00:00:00,000		[On the beach, the phone in Jack's hand rings.]
+310	00:00:00,000 --> 00:00:00,000	JACK	Hello?
+312	00:00:00,000 --> 00:00:00,000	SAYID	Jack, it's Sayid. I'm on the freighter.
+314	00:00:00,000 --> 00:00:00,000	JACK	Are you okay? Where the hell have you been?
+316	00:00:00,000 --> 00:00:00,000	SAYID	Something happened during the flight, and now Desmond's in their sick bay.
+318	00:00:00,000 --> 00:00:00,000	JACK	Hold on, hold on, hold on. Alright, you're on speaker.
+320	00:00:00,000 --> 00:00:00,000	SAYID	On the helicopter, something happened to Desmond. He doesn't appear to recognize me or know where he is.
+322	00:00:00,000 --> 00:00:00,000	JACK	[to Dan] Side-effects?
+324	00:00:00,000 --> 00:00:00,000	DAN	Wait, your friend, Desmond? Has he recently been exposed to high levels of radiation or electromagnetism?
+326	00:00:00,000 --> 00:00:00,000		[Jack and Juliet have no idea.]
+328	00:00:00,000 --> 00:00:00,000	DAN	Okay, look. Uh, we don't know why, but going to and coming from the Island, some people can get a little...confused.
+330	00:00:00,000 --> 00:00:00,000	JULIET	So, what, is this amnesia?
+332	00:00:00,000 --> 00:00:00,000	DAN	No, this is not amnesia.
+334	00:00:00,000 --> 00:00:00,000		[Desmond leans over the man, who is staring blankly into space.]
+336	00:00:00,000 --> 00:00:00,000	DESMOND	Hey. Hey. Hey! Can you hear me? Are you alright? Hello?
+338	00:00:00,000 --> 00:00:00,000		[The man blinks.]
+340	00:00:00,000 --> 00:00:00,000	MAN	I was just on a ferris wheel.
+342	00:00:00,000 --> 00:00:00,000		[The doctor, Ray, enters the room.]
+344	00:00:00,000 --> 00:00:00,000	MAN	See, Ray? I'm not crazy. It's happening to him too, Ray. And it's going to happen to you. It's going to happen to all of us. Everyone! Once we start heading to that Island again.
+346	00:00:00,000 --> 00:00:00,000		[Ray prepares a syringe.]
+348	00:00:00,000 --> 00:00:00,000	RAY	[to Desmond] Would you please step aside?
+350	00:00:00,000 --> 00:00:00,000	MAN	No, Ray, Ray, no.
+352	00:00:00,000 --> 00:00:00,000	RAY	I need you to relax for a minute.
+354	00:00:00,000 --> 00:00:00,000	MAN	No! It's not going to stop it, Ray, nothing can stop it, Ray, nothing can stop it!
+356	00:00:00,000 --> 00:00:00,000		[The man is injected, and immediately relaxes.]
+358	00:00:00,000 --> 00:00:00,000	RAY	[to Desmond] And how are you feeling?
+360	00:00:00,000 --> 00:00:00,000	DESMOND	What the bloody hell is going on?!
+362	00:00:00,000 --> 00:00:00,000	RAY	I understand, you're disoriented.
+364	00:00:00,000 --> 00:00:00,000	DESMOND	You're not going to stick me with that, brother!
+366	00:00:00,000 --> 00:00:00,000	RAY	I don't want to stick you with anything. It's okay, I just want to check your eyes.
+368	00:00:00,000 --> 00:00:00,000	DESMOND	Why?
+370	00:00:00,000 --> 00:00:00,000	RAY	So I can help you.
+372	00:00:00,000 --> 00:00:00,000		[Desmond lets him.]
+374	00:00:00,000 --> 00:00:00,000	RAY	What's your name?
+376	00:00:00,000 --> 00:00:00,000	DESMOND	Desmond.
+378	00:00:00,000 --> 00:00:00,000	RAY	Desmond. Desmond, why don't you tell me about the last thing you remem-
+380	00:00:00,000 --> 00:00:00,000		[1996 - Desmond is in the rain at the military camp, picking up his coins. Going into the phone booth, he inserts them and dials the number.]
+382	00:00:00,000 --> 00:00:00,000	PENNY	Hello?
+384	00:00:00,000 --> 00:00:00,000	DESMOND	Penny?
+386	00:00:00,000 --> 00:00:00,000	PENNY	What do you want, Desmond?
+388	00:00:00,000 --> 00:00:00,000	DESMOND	Uh, Penny, listen. I'm in trouble, and I think something's happening to me, and I'm confused, and I need to see you.
+390	00:00:00,000 --> 00:00:00,000	PENNY	You broke up with me and then you joined the army. And now you call with the expectation that I still care about you? Yeah, I say you are confused, Desmond.
+392	00:00:00,000 --> 00:00:00,000	DESMOND	No, no, I'm not. It's... look, I've got two days leave starting tonight. Can I...can I come and see you?
+394	00:00:00,000 --> 00:00:00,000	PENNY	No. No, and don't you go showing up at the flat, either, cause I've moved.
+396	00:00:00,000 --> 00:00:00,000	DESMOND	Moved? Where?
+398	00:00:00,000 --> 00:00:00,000	PENNY	That doesn't matter. Look, Desmond, I'm going to go. Please, just don't call me again.
+400	00:00:00,000 --> 00:00:00,000	DESMOND	Look, look, now listen, Penny, Penny, I need-
+402	00:00:00,000 --> 00:00:00,000		[2004 - Desmond is back in the sick bay.]
+404	00:00:00,000 --> 00:00:00,000	DESMOND	-need you.
+406	00:00:00,000 --> 00:00:00,000	RAY	Did you just experience something, Desmond?
+408	00:00:00,000 --> 00:00:00,000		[Frank and Sayid walk in.]
+410	00:00:00,000 --> 00:00:00,000	RAY	What the hell, Frank? You're not supposed to be down here, and definitely not with him.
+412	00:00:00,000 --> 00:00:00,000	FRANK	Sorry, doc, but I've got Faraday calling from the Island, and he needs to talk to this-
+414	00:00:00,000 --> 00:00:00,000	RAY	No, Faraday's not talking to my patient, now get out of here.
+416	00:00:00,000 --> 00:00:00,000	SAYID	He's not your patient.
+418	00:00:00,000 --> 00:00:00,000		[Sayid slams Ray to the wall.]
+420	00:00:00,000 --> 00:00:00,000	RAY	Hey!
+422	00:00:00,000 --> 00:00:00,000	SAYID	Give Desmond the phone.
+424	00:00:00,000 --> 00:00:00,000		[Ray sounds an alarm.]
+426	00:00:00,000 --> 00:00:00,000	SAYID	Give him the phone now!
+428	00:00:00,000 --> 00:00:00,000		[Desmond takes the phone. Sayid closes the door.]
+430	00:00:00,000 --> 00:00:00,000	DESMOND	Hello?
+432	00:00:00,000 --> 00:00:00,000	DAN	Desmond! Desmond, my name is Daniel Faraday. We met yesterday before you took off? But I'm guessing you don't remember that. Am I right?
+434	00:00:00,000 --> 00:00:00,000	DESMOND	Took off? What?
+436	00:00:00,000 --> 00:00:00,000	DAN	Desmond, we don't have long to talk so I need you to tell me what year you think it is.
+438	00:00:00,000 --> 00:00:00,000	DESMOND	What do you mean, what year do I think it - it's 1996!
+440	00:00:00,000 --> 00:00:00,000	DAN	Alright, Desmond, Desmond look, you gotta tell me... where are you?
+442	00:00:00,000 --> 00:00:00,000	DESMOND	Um...um...I'm in some kind of sick bay...
+444	00:00:00,000 --> 00:00:00,000	DAN	No, no, no, no. Not right now, Desmond. Where are you supposed to be. Where are you in 1996?
+446	00:00:00,000 --> 00:00:00,000	DESMOND	Uh, Camp Millar, it's a... Royal Scots Regiment, it's just north of Glasgow.
+448	00:00:00,000 --> 00:00:00,000	JACK	Dan. You might wanna-
+450	00:00:00,000 --> 00:00:00,000	DAN	No, no, no. I'm thinking, I'm thinking. Desmond, listen. When it happens again, Desmond, I need you to get on a train. Get on a train and go to Oxford. Oxford University. Queens College Physics Department. Alright?
+452	00:00:00,000 --> 00:00:00,000	DESMOND	What, why?
+454	00:00:00,000 --> 00:00:00,000	DAN	Because I need you to find me.
+456	00:00:00,000 --> 00:00:00,000		[Daniel searches in his backpack.]
+458	00:00:00,000 --> 00:00:00,000	DAN	[mumbling] Where is it? Where is it?
+460	00:00:00,000 --> 00:00:00,000	CHARLOTTE	What?
+462	00:00:00,000 --> 00:00:00,000	DAN	My journal. I need my journal, I won't believe him.
+464	00:00:00,000 --> 00:00:00,000	JACK	Why does he think he's in 1996?
+466	00:00:00,000 --> 00:00:00,000	DAN	I don't know, I don't know. It's unpredictable, it's a random effect. Sometimes it takes place for only a couple of hours, sometimes it's years.
+468	00:00:00,000 --> 00:00:00,000	JACK	Wait, wait. This has happened before?
+470	00:00:00,000 --> 00:00:00,000		[Daniel finds the journal.]
+472	00:00:00,000 --> 00:00:00,000	DAN	The phone now, please. Thank you. [into phone] Desmond, you still there?
+474	00:00:00,000 --> 00:00:00,000		[Sayid blocking the door, behind which there is yelling.]
+476	00:00:00,000 --> 00:00:00,000	SAYID	Talk to him! I can't hold them for long.
+478	00:00:00,000 --> 00:00:00,000	DESMOND	[to Dan] Yes! What've you got?
+480	00:00:00,000 --> 00:00:00,000	DAN	Okay, Desmond, listen. When you find me at Queens College, I need you to tell me to set the device to 2.342.
+482	00:00:00,000 --> 00:00:00,000	DESMOND	What?
+484	00:00:00,000 --> 00:00:00,000	DAN	Alright, you got it? 2.342! And it must be oscillating at 11 hertz. You got it Desmond?
+486	00:00:00,000 --> 00:00:00,000	DESMOND	2.342 and oscillating at eleven...
+488	00:00:00,000 --> 00:00:00,000	DAN	Just remember that. 2.342 and eleven hertz, alright? And one more thing, Desmond. If the numbers don't convince me, I need you to tell me that you know about Eloise.
+490	00:00:00,000 --> 00:00:00,000		[Keamy and Omar bust in.]
+492	00:00:00,000 --> 00:00:00,000	OMAR	Hey, hey, hey! Take it easy...
+494	00:00:00,000 --> 00:00:00,000	DAN	Desmond! Tell me that you know about Eloise!
+496	00:00:00,000 --> 00:00:00,000		[Keamy snatches the phone away from Desmond.]
+498	00:00:00,000 --> 00:00:00,000		[1996 - Desmond reappears in the phone booth. He travels to Queens College. He walks down a hall, and sees Daniel talking to a student.]
+500	00:00:00,000 --> 00:00:00,000	DAN	...not a single piece of original thinking. You do understand the concept of original, the opposite of derivative? Now I'm the one you need to impress, Mr. Hollister, and I'm not impressed. So go. Go try again.
+502	00:00:00,000 --> 00:00:00,000	DESMOND	Um, sorry. Are you Daniel Faraday?
+504	00:00:00,000 --> 00:00:00,000	DAN	And you are...?
+506	00:00:00,000 --> 00:00:00,000	DESMOND	Um...sorry, I'm Desmond Hume, and um...I was told I could find you here. I think I've ... just been to the future.
+508	00:00:00,000 --> 00:00:00,000	DAN	...the future?
+510	00:00:00,000 --> 00:00:00,000	DESMOND	Yes. Uh, I spoke to you there, you told me to come here, to Oxford, to find you. You said you'd help me.
+512	00:00:00,000 --> 00:00:00,000	DAN	Why didn't I just help you there, in the future?
+514	00:00:00,000 --> 00:00:00,000	DESMOND	Sorry?
+516	00:00:00,000 --> 00:00:00,000	DAN	Why would I put you through the headache of time travel, you know? You know what I mean, it just seems a little... unnecessary. And don't you think that my esteemed colleagues could have come up with something just a little more believable, huh? Wha-what kind of a prank is that? Huh, paradox. So uninspired.
+518	00:00:00,000 --> 00:00:00,000	DESMOND	Set your device to um... 2.342 and make sure it oscillates at 11.
+520	00:00:00,000 --> 00:00:00,000	DAN	Okay, now you, you're going to tell me who told you those numbers.
+522	00:00:00,000 --> 00:00:00,000	DESMOND	You did.
+524	00:00:00,000 --> 00:00:00,000	DAN	No, this is - this is ridiculous.
+526	00:00:00,000 --> 00:00:00,000	DESMOND	I know about Eloise.
+528	00:00:00,000 --> 00:00:00,000		[Daniel takes Desmond into his office.]
+530	00:00:00,000 --> 00:00:00,000	DESMOND	What, what is all this?
+532	00:00:00,000 --> 00:00:00,000	DAN	This is where I do the things Oxford frowns upon. Alright, this, this future version of me... uh, he referenced this meeting, right? Obviously, so, so I would remember you coming to Oxford, right? I would remember this, here, right now.
+534	00:00:00,000 --> 00:00:00,000	DESMOND	Actually, um, no.
+536	00:00:00,000 --> 00:00:00,000	DAN	No.
+538	00:00:00,000 --> 00:00:00,000	DESMOND	Maybe you just forgot.
+540	00:00:00,000 --> 00:00:00,000	DAN	Yeah, right, how would that happen?
+542	00:00:00,000 --> 00:00:00,000	DESMOND	So this, this is changing the future?
+544	00:00:00,000 --> 00:00:00,000	DAN	You can't change the future.
+546	00:00:00,000 --> 00:00:00,000		[Daniel puts on a special coat.]
+548	00:00:00,000 --> 00:00:00,000	DESMOND	What's that for?
+550	00:00:00,000 --> 00:00:00,000	DAN	Radiation.
+552	00:00:00,000 --> 00:00:00,000	DESMOND	Do I get one?
+554	00:00:00,000 --> 00:00:00,000	DAN	You don't need one. For prolonged exposure, I do this 20 times a day.
+556	00:00:00,000 --> 00:00:00,000	DESMOND	So what do you put on your head?
+558	00:00:00,000 --> 00:00:00,000	DAN	[chuckles] Yeah.
+560	00:00:00,000 --> 00:00:00,000		[Daniel flicks some switches. He then reaches over, taking out a white rat.]
+562	00:00:00,000 --> 00:00:00,000	DAN	And this... this is Eloise.
+564	00:00:00,000 --> 00:00:00,000		[Daniel places Eloise in the maze.]
+566	00:00:00,000 --> 00:00:00,000	DESMOND	What does this do?
+568	00:00:00,000 --> 00:00:00,000	DAN	This, if the numbers you gave me are correct, what this will do is unstick Eloise in time. Just like you.
+570	00:00:00,000 --> 00:00:00,000		[He presses a button, and a purple-white light consumes Eloise for a few seconds]
+572	00:00:00,000 --> 00:00:00,000	DESMOND	What happened?
+574	00:00:00,000 --> 00:00:00,000	DAN	Wait, shhshhshh! She's not back yet...there she is. Okay, here goes everything.
+576	00:00:00,000 --> 00:00:00,000		[Daniel lifts a flap, and Eloise runs out into the maze.]
+578	00:00:00,000 --> 00:00:00,000	DAN	Come on, come on, that's it, come on, that's it, yes, yes, yes, haha! Yes! Oh, it worked! This is incredible.
+580	00:00:00,000 --> 00:00:00,000	DESMOND	I'm sorry, how is a rat running through a bloody maze so incredible?
+582	00:00:00,000 --> 00:00:00,000	DAN	What is incredible, is I just finished the maze this morning. I'm not going to teach her to run it until an hour from now.
+584	00:00:00,000 --> 00:00:00,000	DESMOND	S-so you, you sent her to the future!
+586	00:00:00,000 --> 00:00:00,000	DAN	No, no, no. Her consciousness. Her mind.
+588	00:00:00,000 --> 00:00:00,000		[Daniel runs over to a board and starts erasing things.]
+590	00:00:00,000 --> 00:00:00,000	DESMOND	So, so how does that help me?
+592	00:00:00,000 --> 00:00:00,000	DAN	You, what? I don't understand, am I supposed to help you? Didn't I send you back here to help me?
+594	00:00:00,000 --> 00:00:00,000	DESMOND	I don't know why you sent me here. All I know about you is, you, you end up on some bloody island.
+596	00:00:00,000 --> 00:00:00,000	DAN	An island. What island, where...why would I go to an island?
+598	00:00:00,000 --> 00:00:00,000		[2004 - Desmond reappears back on the freighter, still struggling for the phone.]
+600	00:00:00,000 --> 00:00:00,000	KEAMY	Desmond, give me the phone.
+602	00:00:00,000 --> 00:00:00,000		[Keamy takes the phone.]
+604	00:00:00,000 --> 00:00:00,000	FRANK	Hey look! Hey, come on! Everybody relax, listen! Look! Daniel wanted to talk to the guy so we brought him the phone, that's all.
+606	00:00:00,000 --> 00:00:00,000	KEAMY	You let Faraday talk to him?
+608	00:00:00,000 --> 00:00:00,000	FRANK	He said he could help!
+610	00:00:00,000 --> 00:00:00,000	RAY	Faraday can't even help himself!
+612	00:00:00,000 --> 00:00:00,000	OMAR	[to Frank] Outside now. The captain wants to talk to you.
+614	00:00:00,000 --> 00:00:00,000	SAYID	And I want to talk to your captain.
+616	00:00:00,000 --> 00:00:00,000	KEAMY	I'll be sure to let him know. In the meantime, have a seat.
+618	00:00:00,000 --> 00:00:00,000		[They leave Sayid, Desmond, and the man in the sick bay, locked in. Desmond begins shining the doctor's light pen into his eyes.]
+620	00:00:00,000 --> 00:00:00,000	DESMOND	I need to get back.
+622	00:00:00,000 --> 00:00:00,000	SAYID	Back where? The island?
+624	00:00:00,000 --> 00:00:00,000	DESMOND	He said he could help me, said he could tell me what I needed to do.
+626	00:00:00,000 --> 00:00:00,000	SAYID	Desmond, Desmond, can you please explain to me-
+628	00:00:00,000 --> 00:00:00,000	MAN	Desmond? You're Desmond?
+630	00:00:00,000 --> 00:00:00,000	DESMOND	Do I know you?
+632	00:00:00,000 --> 00:00:00,000	MAN	I'm George Minkowski. I'm the communications officer. Before they strapped me down here, all the calls to and from this boat came through me, in the radio room. And every so often, I'd get this flashing light on my console. An incoming call. We were under strict orders never to answer it.
+634	00:00:00,000 --> 00:00:00,000	DESMOND	So? What's that got to do with me?
+636	00:00:00,000 --> 00:00:00,000	MINKOWSKI	Those calls came from your girlfriend. Penelope Widmore.
+638	00:00:00,000 --> 00:00:00,000		[1996 - Desmond awakes. He is back in Daniel's office.]
+640	00:00:00,000 --> 00:00:00,000	DESMOND	What happened?
+642	00:00:00,000 --> 00:00:00,000	DAN	Whoa, you're back, and you were out almost 75 minutes.
+644	00:00:00,000 --> 00:00:00,000	DESMOND	Out?
+646	00:00:00,000 --> 00:00:00,000	DAN	Yeah, yeah, yeah. You just whoof, went catatonic right in the middle of a sentence. I had to carry you to the chair. So I take it you were, you were in the future again?
+648	00:00:00,000 --> 00:00:00,000	DESMOND	Aye.
+650	00:00:00,000 --> 00:00:00,000	DAN	For how long?
+652	00:00:00,000 --> 00:00:00,000	DESMOND	I don't know...five minutes? Why does this keep happening?
+654	00:00:00,000 --> 00:00:00,000	DAN	In your case, I'm guessing that progression is exponential. Each time your consciousness jumps, it gets harder and harder to jump back. I would be careful crossing the street if I were you.
+656	00:00:00,000 --> 00:00:00,000		[Desmond sees Eloise. It is clear that she is dead.]
+658	00:00:00,000 --> 00:00:00,000	DESMOND	What happened to her?
+660	00:00:00,000 --> 00:00:00,000	DAN	She died.
+662	00:00:00,000 --> 00:00:00,000	DESMOND	Yeah, I can see that. How?
+664	00:00:00,000 --> 00:00:00,000	DAN	Brain aneurysm, probably. I dunno. I'll need to do an autopsy later.
+666	00:00:00,000 --> 00:00:00,000	DESMOND	Is that going to happen to me?
+668	00:00:00,000 --> 00:00:00,000	DAN	The effects seem to vary from case to case, but uh-
+670	00:00:00,000 --> 00:00:00,000		[Desmond pins Daniel to the wall.]
+672	00:00:00,000 --> 00:00:00,000	DESMOND	If these keeps happening, am I gonna die?!
+674	00:00:00,000 --> 00:00:00,000	DAN	I don't know. I think Eloise's brain short-circuited. The jumps between the present and the future...she eventually, she couldn't tell which was which - she had no anchor.
+676	00:00:00,000 --> 00:00:00,000	DESMOND	Wh...what do you mean, anchor?
+678	00:00:00,000 --> 00:00:00,000	DAN	Something familiar in both times. All this, see this is all variables, it's random, it's chaotic. Every equation needs stability, something known. It's called a constant. Desmond, you have no constant. When you go to the future, nothing there is familiar. So if you want to stop this, then you need to find something there...something that you really, really care about...that also exists back here, in 1996.
+680	00:00:00,000 --> 00:00:00,000	DESMOND	This constant - can it be a person?
+682	00:00:00,000 --> 00:00:00,000	DAN	Yeah, maybe. But you have to make some kind of contact. Didn't you say you were off on a boat, in the middle of nowhere?
+684	00:00:00,000 --> 00:00:00,000		[Desmond begins dialing on a phone.]
+686	00:00:00,000 --> 00:00:00,000	DAN	Uh...who're you calling?
+688	00:00:00,000 --> 00:00:00,000	DESMOND	I'm calling my bloody constant.
+690	00:00:00,000 --> 00:00:00,000	OPERATOR	The number you have dialed has been disconnected.
+692	00:00:00,000 --> 00:00:00,000		[Desmond slams the phone down, leaves. He collapses near the steps...]
+694	00:00:00,000 --> 00:00:00,000		[2004 - ... and awakes on the freighter.]
+696	00:00:00,000 --> 00:00:00,000	SAYID	Hey, hey. You okay?
+698	00:00:00,000 --> 00:00:00,000	MINKOWSKI	You look a lot older now, huh? Welcome back, Desmond.
+700	00:00:00,000 --> 00:00:00,000	DESMOND	I need to call Penny.
+702	00:00:00,000 --> 00:00:00,000	SAYID	Calling your girlfriend is not our priority.
+704	00:00:00,000 --> 00:00:00,000	DESMOND	Listen, brother, I don't know you. But you seem to know me, so...so if you and me are friends, then I need your help. I need to call Penny, now.
+706	00:00:00,000 --> 00:00:00,000	MINKOWSKI	Whoa! You boys are getting way ahead of yourselfs. Two days ago, someone sabotaged all the equipment. We lost all communication with the mainland. I probably could have fixed it, but then...then I went nuts.
+708	00:00:00,000 --> 00:00:00,000	SAYID	Where's the radio room?
+710	00:00:00,000 --> 00:00:00,000	MINKOWSKI	It's one deck up. I'll take you there. Come on.
+712	00:00:00,000 --> 00:00:00,000		[They unstrap Minkowski.]
+714	00:00:00,000 --> 00:00:00,000	SAYID	And how do we get out of here?
+716	00:00:00,000 --> 00:00:00,000	MINKOWSKI	Through the door.
+718	00:00:00,000 --> 00:00:00,000		[The door is open.]
+720	00:00:00,000 --> 00:00:00,000	MINKOWSKI	Looks like you guys have a, a friend on this boat.
+722	00:00:00,000 --> 00:00:00,000		[Minkowski's nose is bleeding]
+724	00:00:00,000 --> 00:00:00,000	DESMOND	Hey, uh...your nose, brother.
+726	00:00:00,000 --> 00:00:00,000	SAYID	It's clear. Let's g-
+728	00:00:00,000 --> 00:00:00,000		[1996 - Desmond awakes back in the stairwell at Oxford. He gets up, and runs down.]
+730	00:00:00,000 --> 00:00:00,000		[He comes to an auction.]
+732	00:00:00,000 --> 00:00:00,000	AUCTIONEER	The Black Rock set sail from Portsmouth England on March 22, 1845 on a trading mission to the kingdom of Siam, when she was tragically lost at sea. The only known artifact of this journey is the journal of the ship's first mate, which was discovered among the artifacts of pirates on the Ile Sante-Marie off the coast of Madagascar seven years later. The contents of this journal have never been made public, or known to anyone outside the family of the seller, Tovard Hanso. We open the bidding on lot 2342 at 150,000 pounds. 150,000, sir. For 160? Do I hear one six- 160, sir. 170, sir. 180 on the phone. 200,000 pounds. 220,000 pounds, 240? 260,000 pounds, sir. 280? On the phone I have 300,000...320. 340,000 pounds. 360? 380...
+734	00:00:00,000 --> 00:00:00,000		[Desmond attempts to enter.]
+736	00:00:00,000 --> 00:00:00,000	SUITED GUARD	This auction's reservation only, sir.
+738	00:00:00,000 --> 00:00:00,000	DESMOND	Listen, brother, I just need to speak to that gentleman, just for a moment, okay?
+740	00:00:00,000 --> 00:00:00,000	SUITED GUARD	I'm sorry.
+742	00:00:00,000 --> 00:00:00,000	AUCTIONEER	Sold, for 380,000 pounds to bidder 755. Thank you.
+744	00:00:00,000 --> 00:00:00,000		[Charles Widmore, the winning bidder, stands up and leaves.]
+746	00:00:00,000 --> 00:00:00,000	DESMOND	Just for a minute, alright? Mr. Widmore!
+748	00:00:00,000 --> 00:00:00,000	WIDMORE	Desmond?
+750	00:00:00,000 --> 00:00:00,000	DESMOND	Can I have a word, sir?
+752	00:00:00,000 --> 00:00:00,000	SUITED GUARD	I'm sorry, Mr. Widmore, he-
+754	00:00:00,000 --> 00:00:00,000	WIDMORE	No, no. It's fine. Walk with me.
+756	00:00:00,000 --> 00:00:00,000		[In the restroom, Widmore finishes urinating and begins to wash his hands.]
+758	00:00:00,000 --> 00:00:00,000	WIDMORE	Your word. Let's have it.
+760	00:00:00,000 --> 00:00:00,000	DESMOND	I need to get in touch with Penny. I don't know how to reach her, and her number's been disconnected.
+762	00:00:00,000 --> 00:00:00,000	WIDMORE	There was a time when if you'd have asked her to marry you, I'm certain she would've said yes. Unfortunately, your cowardice won out instead. I take it you've had second thoughts, and you'd like her to give you another chance.
+764	00:00:00,000 --> 00:00:00,000	DESMOND	Why do you hate me so much?
+766	00:00:00,000 --> 00:00:00,000	WIDMORE	It's not me who hates you. Here's her address... I'll let her tell you herself.
+768	00:00:00,000 --> 00:00:00,000		[Desmond goes to turn off the water faucet.]
+770	00:00:00,000 --> 00:00:00,000		[2004 - He finds himself back on the freighter.]
+772	00:00:00,000 --> 00:00:00,000	MINKOWSKI	Desmond. I know...it's getting harder. It starts happening faster too.
+774	00:00:00,000 --> 00:00:00,000	SAYID	Come on, let's move.
+776	00:00:00,000 --> 00:00:00,000	DESMOND	Hey, how did this happen to you?
+778	00:00:00,000 --> 00:00:00,000	MINKOWSKI	We were anchored here. Waiting for our orders. Bored out of our minds. Me and Brandon - he's one of the crew members we took off the ship's tender. We just wanted to see the island. But Brandon started acting crazy...so we had to turn around.
+780	00:00:00,000 --> 00:00:00,000	DESMOND	Where is he?
+782	00:00:00,000 --> 00:00:00,000	MINKOWSKI	In a body bag.
+784	00:00:00,000 --> 00:00:00,000		[They enter the communications room, which is all messed up.]
+786	00:00:00,000 --> 00:00:00,000	MINKOWSKI	There.
+788	00:00:00,000 --> 00:00:00,000	SAYID	Who did this?
+790	00:00:00,000 --> 00:00:00,000	MINKOWSKI	You got me. But when the captain finds out, I feel sorr-
+792	00:00:00,000 --> 00:00:00,000		[Minkowski passes out. Desmond cradles him in his arms.]
+794	00:00:00,000 --> 00:00:00,000	SAYID	After your call, someone has to tell me precisely what is going on.
+796	00:00:00,000 --> 00:00:00,000	DESMOND	Can you fix it, brother?
+798	00:00:00,000 --> 00:00:00,000	SAYID	I need a minute. Do you have the number to make the call?
+800	00:00:00,000 --> 00:00:00,000		[Minkowski seizes.]
+802	00:00:00,000 --> 00:00:00,000	DESMOND	Wake up, wake up, you've got to come back! You've got to come back-
+804	00:00:00,000 --> 00:00:00,000	SAYID	Desmond! Do you know the number?
+806	00:00:00,000 --> 00:00:00,000	DESMOND	No.
+808	00:00:00,000 --> 00:00:00,000	SAYID	Well, you better remember it.
+810	00:00:00,000 --> 00:00:00,000		[Desmond notices a calendar on the wall with days crossed off on it - it's December 24, 2004]
+812	00:00:00,000 --> 00:00:00,000	DESMOND	It's 2004...
+814	00:00:00,000 --> 00:00:00,000	SAYID	I didn't realize it was almost Christmas. It's been...
+816	00:00:00,000 --> 00:00:00,000		[Desmond's nose is bleeding. Sayid points it out to him.]
+818	00:00:00,000 --> 00:00:00,000	SAYID	...Desmond.
+820	00:00:00,000 --> 00:00:00,000		[Minkowski starts flailing again.]
+822	00:00:00,000 --> 00:00:00,000	MINKOWSKI	I...can't....get....back!
+824	00:00:00,000 --> 00:00:00,000		[Minkowski dies.]
+826	00:00:00,000 --> 00:00:00,000	SAYID	What happened to him?
+828	00:00:00,000 --> 00:00:00,000	DESMOND	The same thing that's gonna happen to me.
+830	00:00:00,000 --> 00:00:00,000		[1996 - Desmond wakes up on the floor of the bathroom, where the sink is overflowing. He gets up, splashes water on his face and looks at himself in the mirror. He then seizes the address Widmore wrote for him and leaves. He goes to Penny's house, and knocks on the door.]
+832	00:00:00,000 --> 00:00:00,000	PENNY	Desmond? What are you doing here?
+834	00:00:00,000 --> 00:00:00,000	DESMOND	I had to...I mean, I tried to call you, but you disconnected your phone.
+836	00:00:00,000 --> 00:00:00,000	PENNY	Yeah, because I moved. Look, I don't know if you're getting the signals, Desmond, but I'm trying to make a clean break from you, so if you don't mind, I'm gonna-
+838	00:00:00,000 --> 00:00:00,000	DESMOND	Wait a minute, Pen, please wait. I just need to get your new phone number, okay?
+840	00:00:00,000 --> 00:00:00,000	PENNY	Why would I give you that?
+842	00:00:00,000 --> 00:00:00,000	DESMOND	Because I made a huge mistake, I never should have broken up with you, and, and and ... and I know that now, and I'm sorry, and-
+844	00:00:00,000 --> 00:00:00,000	PENNY	Don't, just don't dare-
+846	00:00:00,000 --> 00:00:00,000	DESMOND	-and I understand. And I know it's...it's too late to change things, but I need to tell you something and, and I need you to listen to me, and I know it's going to sound ridiculous, but...please, Pen. I need you to listen to me.
+848	00:00:00,000 --> 00:00:00,000		[Penelope lets him inside.]
+850	00:00:00,000 --> 00:00:00,000	PENNY	Just, say what you need to say and then go.
+852	00:00:00,000 --> 00:00:00,000	DESMOND	I know this doesn't make any sense, because it doesn't make any sense to me. But...eight years from now...I, I need to call you, and I, I can't call you if I don't have your number.
+854	00:00:00,000 --> 00:00:00,000	PENNY	What?
+856	00:00:00,000 --> 00:00:00,000	DESMOND	Look, Penny, just, just give me your number, and, and I, I know I've ruined things, and I know you think things are over between us, but they're not. If there's any part of you that still believes in us, just give me your number.
+858	00:00:00,000 --> 00:00:00,000	PENNY	And what's to say you won't call me tonight, or tomorrow.
+860	00:00:00,000 --> 00:00:00,000	DESMOND	I won't call for eight years. December 24, 2004. Christmas Eve. I promise. Please, Pen.
+862	00:00:00,000 --> 00:00:00,000	PENNY	If I give you the number, will you leave?
+864	00:00:00,000 --> 00:00:00,000	DESMOND	Aye.
+866	00:00:00,000 --> 00:00:00,000	PENNY	7946-0893.
+868	00:00:00,000 --> 00:00:00,000		[Desmond repeats the number, whispering.]
+870	00:00:00,000 --> 00:00:00,000	PENNY	All that, and you're not going to write it down?
+872	00:00:00,000 --> 00:00:00,000	DESMOND	[Sighs] It wouldn't do any good. You have to keep that number. You can't change the-
+874	00:00:00,000 --> 00:00:00,000	PENNY	Just get out, get out!
+876	00:00:00,000 --> 00:00:00,000	DESMOND	-just, just remember, December the 24th, 2004. If you still care about me you'll have to-
+878	00:00:00,000 --> 00:00:00,000		[Door slams in his face.]
+880	00:00:00,000 --> 00:00:00,000	DESMOND	I'm not crazy, Penny! You have to believe me! You have to-
+882	00:00:00,000 --> 00:00:00,000		[2004 - Desmond is back on the freighter.]
+884	00:00:00,000 --> 00:00:00,000	DESMOND	-trust me.
+886	00:00:00,000 --> 00:00:00,000	SAYID	I do trust you. But you still have to remember that number.
+888	00:00:00,000 --> 00:00:00,000	DESMOND	7946-0893. [repeating] It's a London number.
+890	00:00:00,000 --> 00:00:00,000	SAYID	Excellent timing...the patch is done, but I don't know how long the battery will last. I hope she's there.
+892	00:00:00,000 --> 00:00:00,000	DESMOND	I hope so too.
+894	00:00:00,000 --> 00:00:00,000		[The phone rings, the sound playing over the 1996 scene when Desmond leaves Penelope's home. She briefly looks down at him from a second-story window before closing the drapes. After several rings, someone answers.]
+896	00:00:00,000 --> 00:00:00,000	PENNY	Hello?
+898	00:00:00,000 --> 00:00:00,000	DESMOND	Penny?
+900	00:00:00,000 --> 00:00:00,000	PENNY	Desmond?
+902	00:00:00,000 --> 00:00:00,000		[The scene briefly changes to 1996 when Desmond is walking away from Penelope's]
+904	00:00:00,000 --> 00:00:00,000	DESMOND	Penny...Penny, you answered. You answered, Penny.
+906	00:00:00,000 --> 00:00:00,000		[In London, Penelope is at home standing by a Christmas tree.]
+908	00:00:00,000 --> 00:00:00,000	PENNY	Des, where are you?
+910	00:00:00,000 --> 00:00:00,000	DESMOND	I'm...I'm, I'm on a boat. Um...I've been on an island, and - Oh my god, Penny. Is that really you?
+912	00:00:00,000 --> 00:00:00,000	PENNY	Yeah! Yes, it's me!
+914	00:00:00,000 --> 00:00:00,000	DESMOND	You believe me? You still care about me?
+916	00:00:00,000 --> 00:00:00,000	PENNY	Des, I've been looking for you for the past three years. I know about the island. I've been researching---[static]---and then when I spoke to your friend Charlie, that's when I knew you were still alive. That's when I knew I wasn't crazy. Des, are you still there!?
+918	00:00:00,000 --> 00:00:00,000	DESMOND	Yes, yes, I'm here! I'm still here, can you hear me?
+920	00:00:00,000 --> 00:00:00,000	PENNY	Yeah, yeah, that's better.
+922	00:00:00,000 --> 00:00:00,000	DESMOND	I love you, Penny. I've always loved you. I'm so sorry. I love you.
+924	00:00:00,000 --> 00:00:00,000	PENNY	I love you too.
+926	00:00:00,000 --> 00:00:00,000	DESMOND	I don't know where I am, but-
+928	00:00:00,000 --> 00:00:00,000	PENNY	I'll find you, Des-
+930	00:00:00,000 --> 00:00:00,000	DESMOND	-I promise-
+932	00:00:00,000 --> 00:00:00,000	PENNY	-no matter what-
+934	00:00:00,000 --> 00:00:00,000	DESMOND	-I'll come back to you-
+936	00:00:00,000 --> 00:00:00,000	PENNY	-I won't give up-
+938	00:00:00,000 --> 00:00:00,000	BOTH	I promise. I love you.
+940	00:00:00,000 --> 00:00:00,000		[Static cuts them off.]
+942	00:00:00,000 --> 00:00:00,000	SAYID	I'm sorry. The power source went dead, it's all we have.
+944	00:00:00,000 --> 00:00:00,000		[Desmond walks toward Sayid, his memory of him and his time on the island returning.]
+946	00:00:00,000 --> 00:00:00,000	DESMOND	Thank you, Sayid. [They shake hands] It was enough.
+948	00:00:00,000 --> 00:00:00,000	SAYID	Are you alright now?
+950	00:00:00,000 --> 00:00:00,000	DESMOND	Aye. I'm perfect.
+952	00:00:00,000 --> 00:00:00,000		[Daniel is on the beach flipping through his journal. On a page, he sees: "If anything goes wrong, Desmond Hume will be MY constant."]

@@ -1,0 +1,368 @@
+Exodus, Part 1
+2	00:00:00,000 --> 00:00:00,000	Written by	Damon Lindelof & Carlton Cuse
+4	00:00:00,000 --> 00:00:00,000	Directed by	Jack Bender
+6	00:00:00,000 --> 00:00:00,000		[Flashback - Shot of tickets on a hotel nightstand. Walt throws open the curtains to reveal a view of the Sydney Harbor Bridge and skyline at night. He turns on the TV to watch Power Rangers with the volume way up which wakes Michael.]
+8	00:00:00,000 --> 00:00:00,000	MICHAEL	What are you doing?
+10	00:00:00,000 --> 00:00:00,000	WALT	Watching TV.
+12	00:00:00,000 --> 00:00:00,000		[Michael looks at the clock which says 5:23]
+14	00:00:00,000 --> 00:00:00,000	MICHAEL	Oh, man, do you see what time it is? Go back to sleep, Walt.
+16	00:00:00,000 --> 00:00:00,000	WALT	I always watch this show.
+18	00:00:00,000 --> 00:00:00,000	MICHAEL	Okay, then, can you at least turn it down a little.
+20	00:00:00,000 --> 00:00:00,000		[Walt turns it up.]
+22	00:00:00,000 --> 00:00:00,000	MICHAEL	I said turn it down, Walt.
+24	00:00:00,000 --> 00:00:00,000	WALT	Brian lets me watch it as loud as I want.
+26	00:00:00,000 --> 00:00:00,000	MICHAEL	I'm not Brian.
+28	00:00:00,000 --> 00:00:00,000		[Michael grabs the remote and turns off the TV. Walt gets Vincent and starts to walk out.]
+30	00:00:00,000 --> 00:00:00,000	WALT	Let's go, Vincent.
+32	00:00:00,000 --> 00:00:00,000	MICHAEL	Hey, where do you think you're going? [He follows Walt and Vincent into the hotel hallway.] Hey, Walt.
+34	00:00:00,000 --> 00:00:00,000	WALT	[yelling] Get away from me! Leave me alone!
+36	00:00:00,000 --> 00:00:00,000	MICHAEL	Don't even - don't you think about it.
+38	00:00:00,000 --> 00:00:00,000	WALT	I said get away from me!
+40	00:00:00,000 --> 00:00:00,000	MICHAEL	Don't you walk away from me.
+42	00:00:00,000 --> 00:00:00,000		[Walt tries to get in the elevator. Michael grabs him and pulls him back to the room.]
+44	00:00:00,000 --> 00:00:00,000	MICHAEL	Look, I don't think so. Come on.
+46	00:00:00,000 --> 00:00:00,000	WALT	Get off of me!
+48	00:00:00,000 --> 00:00:00,000	MICHAEL	I don't like this either, but you're getting on that plane.
+50	00:00:00,000 --> 00:00:00,000	WALT	No, I'm not!
+52	00:00:00,000 --> 00:00:00,000		[Steve Jenkins, who later is to survive the crash of Flight 815 along with Michael and Walt, opens a hotel door to see what the commotion is.]
+54	00:00:00,000 --> 00:00:00,000	STEVE	What's going on?
+56	00:00:00,000 --> 00:00:00,000	MICHAEL	It's okay, I'm his father.
+58	00:00:00,000 --> 00:00:00,000	WALT	No, you're not. You're not my father! You're not my father!
+60	00:00:00,000 --> 00:00:00,000		[On-Island - Back at the beach. Michael and Walt are sleeping. Walt wakes up and goes over to a tree to pee. He sees Danielle approaching camp and follows her. She sees him and he runs.]
+62	00:00:00,000 --> 00:00:00,000	WALT	Dad! Dad, wake up!
+64	00:00:00,000 --> 00:00:00,000	MICHAEL	What? What?
+66	00:00:00,000 --> 00:00:00,000	WALT	Somebody's here.
+68	00:00:00,000 --> 00:00:00,000		[Danielle continues moving into the beach camp, as people are waking up in alarm.]
+70	00:00:00,000 --> 00:00:00,000	MICHAEL	Hey, hey, hey, hey, stop, slow, slow down. Stay right there. [to Sawyer] Who is that?
+72	00:00:00,000 --> 00:00:00,000	SAWYER	She's got to be the French chick.
+74	00:00:00,000 --> 00:00:00,000	SAYID	Calm down everyone. It's alright.
+76	00:00:00,000 --> 00:00:00,000		[Claire's baby cries. Danielle and Claire share a long look.]
+78	00:00:00,000 --> 00:00:00,000	SAYID	Danielle? Danielle? What are you doing here?
+80	00:00:00,000 --> 00:00:00,000	DANIELLE	The Others are coming.
+82	00:00:00,000 --> 00:00:00,000	DANIELLE	Our ship went aground on this Island 16 years ago. There were 6 of us -- my team, 6. At that time I was already 7 months pregnant. I delivered the infant myself. The baby and I were together for only 1 week when I saw black smoke -- a pillar of black smoke 5 kilometers inland. That night they came, they came and took her -- Alex. They took my baby. And now, they're coming again. They're coming for all of you.
+84	00:00:00,000 --> 00:00:00,000	JACK	Who's coming?
+86	00:00:00,000 --> 00:00:00,000	DANIELLE	The Others. You have only 3 choices: run, hide, or die.
+88	00:00:00,000 --> 00:00:00,000		[We see Jack and Locke walking on the beach.]
+90	00:00:00,000 --> 00:00:00,000	JACK	This is a woman who blew up her own shelter. And now she's talking about seeing black smoke and hearing whispers. I mean, she's not playing with a full deck.
+92	00:00:00,000 --> 00:00:00,000	LOCKE	That doesn't mean that what she's saying isn't true.
+94	00:00:00,000 --> 00:00:00,000	JACK	Well, if you want to focus on the "what if,", be my guest, but I've got to stick with what's tangible. And right now, that's the launching of the raft.
+96	00:00:00,000 --> 00:00:00,000		[They arrive at the raft and Jack addresses Michael.]
+98	00:00:00,000 --> 00:00:00,000	JACK	How's it going?
+100	00:00:00,000 --> 00:00:00,000	MICHAEL	I wanted to get off today, but, realistically, man, after we get the rudder done, we've still got to lay the rails to get it down to the water.
+102	00:00:00,000 --> 00:00:00,000	JIN	Good.
+104	00:00:00,000 --> 00:00:00,000	JACK	Wouldn't it save time if we were laying the rails while you were finishing the rudder?
+106	00:00:00,000 --> 00:00:00,000	MICHAEL	Manpower shortage.
+108	00:00:00,000 --> 00:00:00,000	JACK	What do you need to lay the rails and then move the boat?
+110	00:00:00,000 --> 00:00:00,000	MICHAEL	To get it all done today? Pretty much everybody.
+112	00:00:00,000 --> 00:00:00,000	JACK	Alright, give me 20 minutes.
+114	00:00:00,000 --> 00:00:00,000		[Shot of Locke watching Jack as he walks off.]
+116	00:00:00,000 --> 00:00:00,000		[We see Jack with a group of 4 male redshirts.]
+118	00:00:00,000 --> 00:00:00,000	JACK	Grab as many palm tree logs as you can find, the longer the better. Take them over to the raft area and Michael will know what to do with them.
+120	00:00:00,000 --> 00:00:00,000	REDSHIRT	Okay.
+122	00:00:00,000 --> 00:00:00,000		[We see a group of people working on the raft.]
+124	00:00:00,000 --> 00:00:00,000	MICHAEL	You need to get them in there tight. You need leverage to get them on the rails. Good, that's good. Okay, that's good man. Just get it under there, okay? Okay. [to Locke] You alright?
+126	00:00:00,000 --> 00:00:00,000	LOCKE	Yep.
+128	00:00:00,000 --> 00:00:00,000	MICHAEL	So, listen, on my count - I'll do 1-2-3-lift and then push, okay? Got it? Okay, c'mon. Once we get it down to the water line, we'll drop it and load it up. Alright. Ready. 1-2-3! Lift!
+130	00:00:00,000 --> 00:00:00,000		[They start moving the raft forward.]
+132	00:00:00,000 --> 00:00:00,000	MICHAEL	Push! Push, c'mon guys, push, push! Use the levers, use the levers! Good, good. 1-2-3, lift!
+134	00:00:00,000 --> 00:00:00,000		[The raft picks up momentum and starts moving on it's own. It "crashes" and Sawyer backs away. The mast breaks off.]
+136	00:00:00,000 --> 00:00:00,000	MICHAEL	I can't believe this [giving Sawyer a dirty look.] Can't believe it.
+138	00:00:00,000 --> 00:00:00,000	SAWYER	What are you looking at me for?! It's not my fault!
+140	00:00:00,000 --> 00:00:00,000	MICHAEL	You missed a lever!
+142	00:00:00,000 --> 00:00:00,000	SAWYER	Because you couldn't keep the raft going straight!
+144	00:00:00,000 --> 00:00:00,000	MICHAEL	I couldn't keep the boat going straight? Everybody's attention-
+146	00:00:00,000 --> 00:00:00,000	WALT	Dad! Look.
+148	00:00:00,000 --> 00:00:00,000		[Everybody looks inland to see a pillar of black smoke on the horizon.]
+150	00:00:00,000 --> 00:00:00,000		[We see Jack, Locke, Sayid, and Hurley gathered around Danielle who's preparing her rifle.]
+152	00:00:00,000 --> 00:00:00,000	JACK	How many of them are there?
+154	00:00:00,000 --> 00:00:00,000	DANIELLE	I told you all I know.
+156	00:00:00,000 --> 00:00:00,000	SAYID	There has to be more you tell us. How did you know?
+158	00:00:00,000 --> 00:00:00,000	DANIELLE	You have a bigger problem. I can vanish into the jungle, but I'm just one person. You have 40 people. Where will you hide them?
+160	00:00:00,000 --> 00:00:00,000		[We see Danielle, Jack, Hurley, Locke and Sayid at the hatch.]
+162	00:00:00,000 --> 00:00:00,000	HURLEY	Dude. Whoa.
+164	00:00:00,000 --> 00:00:00,000	DANIELLE	What is this?
+166	00:00:00,000 --> 00:00:00,000	JACK	We were hoping you could tell us.
+168	00:00:00,000 --> 00:00:00,000	DANIELLE	I have never seen anything like it.
+170	00:00:00,000 --> 00:00:00,000	HURLEY	Uh, question -- how do we know we can all, like, fit in there?
+172	00:00:00,000 --> 00:00:00,000	LOCKE	No handle on the outside, means there must be another way in. Another entrance means space.
+174	00:00:00,000 --> 00:00:00,000	SAYID	This is a mistake. We don't know anything about these Others. We're reacting with no information, no intelligence. This hatch might even be theirs. Black smoke on the horizon doesn't mean they're-
+176	00:00:00,000 --> 00:00:00,000	DANIELLE	It means they're coming!
+178	00:00:00,000 --> 00:00:00,000	JACK	Yeah, we got that.
+180	00:00:00,000 --> 00:00:00,000	LOCKE	You booby-trapped your shelter with explosives. You have any more?
+182	00:00:00,000 --> 00:00:00,000	DANIELLE	Dynamite, at the Black Rock, in the dark territory.
+184	00:00:00,000 --> 00:00:00,000	HURLEY	Well, that's 3 reasons to go right there.
+186	00:00:00,000 --> 00:00:00,000	DANIELLE	If we're to make it back by sunset we have to leave within the hour.
+188	00:00:00,000 --> 00:00:00,000		[Flashback - We see Jack at an airport bar. A woman, Ana Lucia, enters and sits near him.]
+190	00:00:00,000 --> 00:00:00,000	ANA LUCIA	Tequila and tonic with a wedge of lemon. [to Jack] Why were you yelling? -- The girl, at the check-in counter? You were yelling at her.
+192	00:00:00,000 --> 00:00:00,000	JACK	I'm sorry, uh, do I know you?
+194	00:00:00,000 --> 00:00:00,000	ANA LUCIA	I'm on your flight. LA? So your dad died, huh?
+196	00:00:00,000 --> 00:00:00,000	JACK	I thought you didn't hear what I was yelling about.
+198	00:00:00,000 --> 00:00:00,000	ANA LUCIA	I was being polite.
+200	00:00:00,000 --> 00:00:00,000	JACK	Yeah. My dad died.
+202	00:00:00,000 --> 00:00:00,000	ANA LUCIA	How?
+204	00:00:00,000 --> 00:00:00,000	JACK	A heart attack.
+206	00:00:00,000 --> 00:00:00,000	ANA LUCIA	Not a drinker, huh?
+208	00:00:00,000 --> 00:00:00,000	JACK	No, no, not really.
+210	00:00:00,000 --> 00:00:00,000	ANA LUCIA	No ring because you're single or because you don't like wearing one?
+212	00:00:00,000 --> 00:00:00,000	JACK	You asking me if I'm married?
+214	00:00:00,000 --> 00:00:00,000	ANA LUCIA	Are you married?
+216	00:00:00,000 --> 00:00:00,000	JACK	No. No, not any more. [to bartender] Can we get another tequila and tonic, please?
+218	00:00:00,000 --> 00:00:00,000	ANA LUCIA	I didn't think you were listening.
+220	00:00:00,000 --> 00:00:00,000	JACK	So, what's your name?
+222	00:00:00,000 --> 00:00:00,000	ANA LUCIA	Ana Lucia.
+224	00:00:00,000 --> 00:00:00,000	JACK	So, tell me, Ana Lucia, why are you drinking tequila and tonics at ten to noon?
+226	00:00:00,000 --> 00:00:00,000	ANA LUCIA	I hate flying. And they stuck me all the way in the back of the plane where the wheels come down right under your damn feet. So where are you sitting?
+228	00:00:00,000 --> 00:00:00,000	JACK	[checking his ticket] 23B.
+230	00:00:00,000 --> 00:00:00,000	ANA LUCIA	42F. Wanna trade? [Her cell phone rings.] Hey, yeah. I'm in Sydney. Hold on. [to Jack] Sorry...
+232	00:00:00,000 --> 00:00:00,000	JACK	Jack.
+234	00:00:00,000 --> 00:00:00,000	ANA LUCIA	Jack, I've got to talk. We'll have the next drink on the plane, okay?
+236	00:00:00,000 --> 00:00:00,000	JACK	42F.
+238	00:00:00,000 --> 00:00:00,000	ANA LUCIA	42F, right. And Jack, the worst part's over.
+240	00:00:00,000 --> 00:00:00,000		[On-Island - We see Jack at the beach with the redshirts and regulars.]
+242	00:00:00,000 --> 00:00:00,000	JACK	Look, I know you're all scared. And I know everybody has a lot of questions. All I can tell you right now is that we do have a plan. We've got to go into the jungle to get some supplies. We'll be back in a few hours. In the meantime, do everything you can to help Michael get that raft on the water. And after that, go to the caves. We'll be back as soon as we can. I promise.
+244	00:00:00,000 --> 00:00:00,000	ARZT	Hey, nice speech. Plan's a little flawed, but, hey, nobody's perfect.
+246	00:00:00,000 --> 00:00:00,000	JACK	What plan?
+248	00:00:00,000 --> 00:00:00,000	ARZT	Yeah, your plan. You're going to go into the jungle and get some dynamite and blow open a hatch and then you're going to hide everyone inside. You want to keep a secret don't tell the fat guy.
+250	00:00:00,000 --> 00:00:00,000	JACK	What do want, Arzt?
+252	00:00:00,000 --> 00:00:00,000	ARZT	God knows how long that dynamite has been out there. And from what I can tell, Madam Nutso doesn't seem too concerned with how to handle it. So, unless you want to blow up, I'm coming with you.
+254	00:00:00,000 --> 00:00:00,000	JACK	Okay. Grab some water bottles. We're leaving in half an hour.
+256	00:00:00,000 --> 00:00:00,000		[We see Michael and others working on the raft.]
+258	00:00:00,000 --> 00:00:00,000	MICHAEL	We can salvage the cable but we need new bamboo for the mast.
+260	00:00:00,000 --> 00:00:00,000	JIN	[looking at the rails under the raft] Ã¬ÂÂ´ÃªÂ±Â°, Ã¬â€“Â´Ã«â€“Â»ÃªÂ²Å’ Ã«â€¹Â¤Ã¬â€¹Å“ Ã¬â€“Â¹Ã¬â€“Â´ Ã«â€ â€œÃ¬Â§â‚¬?
+262	00:00:00,000 --> 00:00:00,000	MICHAEL	We need to fix the rudder before we even start to think about that.
+264	00:00:00,000 --> 00:00:00,000	JIN	Ã¬ËœÂ¬Ã«Â¦Â¬Ã«â€¹Â¤ÃªÂ°â‚¬ Ã«Â°Â©Ã­â€“Â¥Ã­â€šÂ¤ÃªÂ°â‚¬ Ã«Â¶â‚¬Ã«Å¸Â¬Ã¬Â§â‚¬Ã«Â©Â´ Ã¬â€“Â´Ã«â€“Â¡Ã­â€¢Â´?
+266	00:00:00,000 --> 00:00:00,000	SAWYER	Need some help?
+268	00:00:00,000 --> 00:00:00,000	MICHAEL	[to Jin] Let's just get this done first.
+270	00:00:00,000 --> 00:00:00,000		[Michael and Jin ignore Sawyer and walk by.]
+272	00:00:00,000 --> 00:00:00,000	SAWYER	Hey, this wasn't my fault. So put me to work.
+274	00:00:00,000 --> 00:00:00,000	MICHAEL	No offense, we just work faster this way, okay.
+276	00:00:00,000 --> 00:00:00,000	JIN	Ã«â€¹Â¤ Ã«ÂÂÃ«â€šËœÃ¬â€¦Â¨Ã¬â€“Â´Ã¬Å¡â€? Ã¬ÂÂ¼ Ã¬Â¢â‚¬ Ã­â€¢Â ÃªÂ¹Å’Ã¬Å¡â€?
+278	00:00:00,000 --> 00:00:00,000	MICHAEL	[to Jin] Alright, alright. What do you think I'm doing over here?
+280	00:00:00,000 --> 00:00:00,000		[Flashback - We see Sawyer in a police station in Australia.]
+282	00:00:00,000 --> 00:00:00,000	CALDERWOOD	You remember me? 3 nights ago? You were hauled in here thrashing and fighting. As you were being escorted by you kicked my desk. And you broke my mug. [He shows him the glued mug with a picture of a woman and a boy - presumably Calderwood's wife and son - on a South Sea vacation.]
+284	00:00:00,000 --> 00:00:00,000	SAWYER	Nice kids.
+286	00:00:00,000 --> 00:00:00,000	CALDERWOOD	Sadly for you, breaking my mug was not the most significant mistake you made that evening.
+288	00:00:00,000 --> 00:00:00,000	SAWYER	C'mon, Doctor, I got into a bar fight. Isn't that a badge of honor in this country?
+290	00:00:00,000 --> 00:00:00,000	CALDERWOOD	Do you know who you head-butted in that bar? You head-butted the Honorable Warren Truss, Minister of Agriculture, Fisheries, and Forestry. One of the most important pe-
+292	00:00:00,000 --> 00:00:00,000	SAWYER	He head-butted me.
+294	00:00:00,000 --> 00:00:00,000	CALDERWOOD	We have witnesses he did no such thing.
+296	00:00:00,000 --> 00:00:00,000	SAWYER	Of course.
+298	00:00:00,000 --> 00:00:00,000	CALDERWOOD	You think this is funny, James? [He opens a file folder.] James Ford, assault, wire fraud, identity theft, bank fraud, telemarketing fraud...
+300	00:00:00,000 --> 00:00:00,000	SAWYER	This going some place?
+302	00:00:00,000 --> 00:00:00,000	CALDERWOOD	You're a blight, a stain, a scavenger. You're a conman who prays on the weak and the needy. Tell me something, James, how do you live with yourself?
+304	00:00:00,000 --> 00:00:00,000	SAWYER	I do just fine.
+306	00:00:00,000 --> 00:00:00,000	CALDERWOOD	Do you? You're not even worth what it would cost us to incarcerate you. Which is why you're being deported. Your plane leaves this afternoon. And, James, you're banned from ever setting foot in Australia again.
+308	00:00:00,000 --> 00:00:00,000	SAWYER	Don't you worry, I ain't ever coming back here.
+310	00:00:00,000 --> 00:00:00,000	CALDERWOOD	Best not, mate.
+312	00:00:00,000 --> 00:00:00,000		[On-Island - We see Sawyer chopping down a bamboo pole. Jack enters.]
+314	00:00:00,000 --> 00:00:00,000	JACK	A lumberjack.
+316	00:00:00,000 --> 00:00:00,000	SAWYER	Excuse me?
+318	00:00:00,000 --> 00:00:00,000	JACK	I never asked you what you did back in the real world, so, I'm taking a wild guess -- lumberjack.
+320	00:00:00,000 --> 00:00:00,000	SAWYER	Something I can help you with, Doc, because I've got work to do.
+322	00:00:00,000 --> 00:00:00,000	JACK	[handing Sawyer a gun] I've got something for you. You're the only one on the raft who knows how to use one.
+324	00:00:00,000 --> 00:00:00,000	SAWYER	What do I need a gun for?
+326	00:00:00,000 --> 00:00:00,000	JACK	Just in case.
+328	00:00:00,000 --> 00:00:00,000	SAWYER	You think we're going to run out of food or water? Am I supposed to put the kid out of his misery?
+330	00:00:00,000 --> 00:00:00,000	JACK	Just in case.
+332	00:00:00,000 --> 00:00:00,000	SAWYER	What are you doing with the rest of them?
+334	00:00:00,000 --> 00:00:00,000	JACK	I'm giving them to Sayid.
+336	00:00:00,000 --> 00:00:00,000	SAWYER	Going into the jungle after the boom sticks, huh?
+338	00:00:00,000 --> 00:00:00,000	JACK	Yeah.
+340	00:00:00,000 --> 00:00:00,000	SAWYER	By the time you get back, we'll be in the water. Guess this is pretty much goodbye, then.
+342	00:00:00,000 --> 00:00:00,000	JACK	Yeah, I guess it is. Good luck, Sawyer.
+344	00:00:00,000 --> 00:00:00,000	SAWYER	[calling after Jack as he walks away] Jack. -- About a week before we all got on the plane, I got to talking to this man in a bar in Sydney. He was American, too. A doctor. I've been on some benders in my time, but this guy -- he was going for an all time record. So, it turns out this guy has a son. His son's a doctor, too. They had some kind of big time falling out. The guy knew it was his fault, even though his son was back in the States thinking the same damn thing. See, kids are like dogs, you knock them around enough they'll think they did something to deserve it. Anyway, there's a pay phone in this bar. And this guy, Christian, tells me he wishes he had the stones to pick up the phone, call his kid, tell him he's sorry, that he's a better doctor than he'll ever be -- he's proud, and he loves him. I had to take off, but -- something tells me he never got around to making that call. Small world, huh?
+346	00:00:00,000 --> 00:00:00,000	JACK	Yeah.
+348	00:00:00,000 --> 00:00:00,000	SAWYER	Good luck, Jack.
+350	00:00:00,000 --> 00:00:00,000		[Flashback - We see Kate and the Marshal at an airport official's office.]
+352	00:00:00,000 --> 00:00:00,000	AUSTRALIAN OFFICIAL	[opening the case] You going to be armed?
+354	00:00:00,000 --> 00:00:00,000	MARSHAL	Yes, sir, ankle holster.
+356	00:00:00,000 --> 00:00:00,000	AUSTRALIAN OFFICIAL	You have to stow this in the crew luggage compartment in the front.
+358	00:00:00,000 --> 00:00:00,000	MARSHAL	No problemo.
+360	00:00:00,000 --> 00:00:00,000	AUSTRALIAN OFFICIAL	Why do you need 5 guns?
+362	00:00:00,000 --> 00:00:00,000	MARSHAL	Gee, you want to tell him, Kate? Why do I need 5 guns? [to Official] She's shy.
+364	00:00:00,000 --> 00:00:00,000	AUSTRALIAN OFFICIAL	[pulling the toy plane out of the case] What's this, then?
+366	00:00:00,000 --> 00:00:00,000	MARSHAL	That's a good story, you want to tell it, huh, Kate? [He grabs the plane.] This belonged to her childhood sweetheart who she got killed a couple of years ago when she was on the run. Poor guy -- a wife, a 2 year old kid. What was his name? Hmm? Well, somewhere along the way during the 3 years that I was chasing her, she starts calling me, at my house, and whining on about her mitigating circumstances. But what she's really doing is taunting me. So, I tell her that I've got whats-his-name's little toy airplane in a safe deposit box in New Mexico. So, she somehow figures out which bank, which safe deposit box. She seduces some idiot to rob the damn bank, and then she puts a bullet in her new friend because she's done using him. But she leaves all the money. She just takes the plane because that's the one thing in the whole world that Kate does care about. She has no attachments, and I think she's telling herself she needs it to atone for killing her boyfriend, whats-his-name. God, Kate, c'mon, what was his name?
+368	00:00:00,000 --> 00:00:00,000		[Kate jumps up and pins the Marshal to the wall.]
+370	00:00:00,000 --> 00:00:00,000	KATE	Tom, it's Tom, you son-of-a-bitch!
+372	00:00:00,000 --> 00:00:00,000		[The Marshal elbows her in the face and she falls to the ground.]
+374	00:00:00,000 --> 00:00:00,000	MARSHAL	And that is why I need 5 guns.
+376	00:00:00,000 --> 00:00:00,000		[He kicks the toy plane away from her as she tries to grab it.]
+378	00:00:00,000 --> 00:00:00,000		[On-Island - We see Kate on the beach approaching Jack.]
+380	00:00:00,000 --> 00:00:00,000	KATE	So, you're heading out?
+382	00:00:00,000 --> 00:00:00,000	JACK	Yeah.
+384	00:00:00,000 --> 00:00:00,000	KATE	I was thinking that I might go with you -- for old time's sake? I want to help.
+386	00:00:00,000 --> 00:00:00,000	JACK	You won't be here for the raft launching.
+388	00:00:00,000 --> 00:00:00,000	KATE	Yeah, well, I'm -- I'm not very good at goodbyes.
+390	00:00:00,000 --> 00:00:00,000	JACK	Grab your stuff.
+392	00:00:00,000 --> 00:00:00,000		[Shot of the black smoke. Charlie, near the raft, is collecting messages to put in a bottle.]
+394	00:00:00,000 --> 00:00:00,000	CHARLIE	[to a man who puts a message in the bottle] Thanks, man, I'll keep it safe. Hey, Locke, do you have a message? It's going on the raft. You know: "Dear mom, Everything's fine. I'm on the Island, unless, of course, the black smoke people turn up. Love, your name here." For when they get rescued-they can contact your family.
+396	00:00:00,000 --> 00:00:00,000	LOCKE	Message in a bottle. That's sweet. [Locke pats Charlie's shoulder and walks away.]
+398	00:00:00,000 --> 00:00:00,000	CHARLIE	[approaching Hurley] You ready?
+400	00:00:00,000 --> 00:00:00,000	HURLEY	Here you go.
+402	00:00:00,000 --> 00:00:00,000	CHARLIE	Okay.
+404	00:00:00,000 --> 00:00:00,000	HURLEY	Don't look at it.
+406	00:00:00,000 --> 00:00:00,000	CHARLIE	You got it. [Charlie looks at it]
+408	00:00:00,000 --> 00:00:00,000	HURLEY	Dude! Do not look at it.
+410	00:00:00,000 --> 00:00:00,000	CHARLIE	Arzt, do you want paper?
+412	00:00:00,000 --> 00:00:00,000	ARZT	I gave at the office.
+414	00:00:00,000 --> 00:00:00,000	CHARLIE	Okay.
+416	00:00:00,000 --> 00:00:00,000		[Jack enters. Michael runs into Hurley as he's leaving the scene.]
+418	00:00:00,000 --> 00:00:00,000	MICHAEL	Careful.
+420	00:00:00,000 --> 00:00:00,000	HURLEY	Good luck, dude. [to Walt in the background] Keep dry, kiddo.
+422	00:00:00,000 --> 00:00:00,000	WALT	I will.
+424	00:00:00,000 --> 00:00:00,000	MICHAEL	[to Jack] Hey, good luck.
+426	00:00:00,000 --> 00:00:00,000	JACK	[hugging Michael] Same to you.
+428	00:00:00,000 --> 00:00:00,000	MICHAEL	See you soon.
+430	00:00:00,000 --> 00:00:00,000	JACK	Yes, you will. [to Walt] Hey, guy, look after your dad, okay.
+432	00:00:00,000 --> 00:00:00,000	WALT	I will.
+434	00:00:00,000 --> 00:00:00,000	JACK	Alright. [to Jin] Jin. [They shake hands.] Good luck.
+436	00:00:00,000 --> 00:00:00,000	JIN	Ã¬Â¡Â°Ã¬â€¹Â¬Ã­â€¢Â´Ã¬Å¡â€.
+438	00:00:00,000 --> 00:00:00,000		[We see Kate looking around for Sawyer.]
+440	00:00:00,000 --> 00:00:00,000	KATE	[to Charlie] Hey, have -- have you seen Sawyer?
+442	00:00:00,000 --> 00:00:00,000	CHARLIE	No.
+444	00:00:00,000 --> 00:00:00,000	JACK	Alright, let's go.
+446	00:00:00,000 --> 00:00:00,000	CHARLIE	[to Kate] Take care, okay.
+448	00:00:00,000 --> 00:00:00,000		[We see the dynamite expedition leaves the beach]
+450	00:00:00,000 --> 00:00:00,000		[The dynamite team are walking across the cove. They stop to rest for a moment. Danielle takes her sweater off which reveals scratches on her arm.]
+452	00:00:00,000 --> 00:00:00,000	LOCKE	Where'd you get the scratches?
+454	00:00:00,000 --> 00:00:00,000	DANIELLE	A bush.
+456	00:00:00,000 --> 00:00:00,000	LOCKE	Mean bush.
+458	00:00:00,000 --> 00:00:00,000	DANIELLE	We've got to keep moving.
+460	00:00:00,000 --> 00:00:00,000		[They start walking again.]
+462	00:00:00,000 --> 00:00:00,000	HURLEY	Let me ask you something, Arnzt.
+464	00:00:00,000 --> 00:00:00,000	ARZT	Arzt.
+466	00:00:00,000 --> 00:00:00,000	HURLEY	Arnzt.
+468	00:00:00,000 --> 00:00:00,000	ARZT	No, not Arnzt, Arzt. A-R-Z-T, Arzt.
+470	00:00:00,000 --> 00:00:00,000	HURLEY	Sorry, man, the name's hard to pronounce.
+472	00:00:00,000 --> 00:00:00,000	ARZT	Yeah, well, I know a bunch of 9th graders who pronounce it just fine.
+474	00:00:00,000 --> 00:00:00,000	HURLEY	How about I just call you by your first name?
+476	00:00:00,000 --> 00:00:00,000	ARZT	How about you don't?
+478	00:00:00,000 --> 00:00:00,000	HURLEY	Why not? I remember it from the plane's manifest. I think Leslie's a bitchin' name.
+480	00:00:00,000 --> 00:00:00,000	ARZT	Arnzt is fine.
+482	00:00:00,000 --> 00:00:00,000		[They come to a piece of black fabric hanging from a branch.]
+484	00:00:00,000 --> 00:00:00,000	DANIELLE	Le Territoire Fonce.
+486	00:00:00,000 --> 00:00:00,000	JACK	The Dark Territory.
+488	00:00:00,000 --> 00:00:00,000	DANIELLE	The Black Rock is not far. This is where it all began -- where my team got infected, where Montand lost his arm. We must move quickly.
+490	00:00:00,000 --> 00:00:00,000	ARZT	You know what? I'm going back.
+492	00:00:00,000 --> 00:00:00,000	JACK	Hey, I thought you wanted to help.
+494	00:00:00,000 --> 00:00:00,000	ARZT	Yeah, I wanted to help and that was before Montand lost his fricking arm.
+496	00:00:00,000 --> 00:00:00,000	JACK	Well, what about the dynamite?
+498	00:00:00,000 --> 00:00:00,000	ARZT	Just be very careful with it.
+500	00:00:00,000 --> 00:00:00,000		[Arzt leaves.]
+502	00:00:00,000 --> 00:00:00,000		[We see Michael and Jin at the raft.]
+504	00:00:00,000 --> 00:00:00,000	MICHAEL	No, no, no! This one goes there! That one goes there!
+506	00:00:00,000 --> 00:00:00,000	JIN	Okay, okay.
+508	00:00:00,000 --> 00:00:00,000	SAWYER	[entering with his bamboo pole] Hey, Chief! Cut and measured to length -- perfect mast.
+510	00:00:00,000 --> 00:00:00,000	MICHAEL	Thanks.
+512	00:00:00,000 --> 00:00:00,000	SAWYER	Well, alright. Now, are we going to get off this rock or stand around talking about it?
+514	00:00:00,000 --> 00:00:00,000		[The dynamite expedition is in the jungle in the rain, now. They hear a strange sound.]
+516	00:00:00,000 --> 00:00:00,000	KATE	Did you hear that?
+518	00:00:00,000 --> 00:00:00,000		[Arzt comes running toward them. We hear the sound of the monster shortly after.]
+520	00:00:00,000 --> 00:00:00,000	ARZT	Run! Run! Run!
+522	00:00:00,000 --> 00:00:00,000		[We see Arzt running. Kate, Jack, and Danielle run. Locke stops Hurley.]
+524	00:00:00,000 --> 00:00:00,000	ARZT	Run!
+526	00:00:00,000 --> 00:00:00,000	HURLEY	What are you...
+528	00:00:00,000 --> 00:00:00,000	LOCKE	Just be still.
+530	00:00:00,000 --> 00:00:00,000		[We hear the sounds of the monster and see Arzt running around. Danielle runs into a bamboo stand.]
+532	00:00:00,000 --> 00:00:00,000	DANIELLE	[motioning to Kate and Jack] Here, in here.
+534	00:00:00,000 --> 00:00:00,000	HURLEY	Dude, we've got to book.
+536	00:00:00,000 --> 00:00:00,000	LOCKE	Wait. It's headed the other way.
+538	00:00:00,000 --> 00:00:00,000		[The rain stops.]
+540	00:00:00,000 --> 00:00:00,000	DANIELLE	We're safe now.
+542	00:00:00,000 --> 00:00:00,000	KATE	What was that thing?
+544	00:00:00,000 --> 00:00:00,000	DANIELLE	It's a security system.
+546	00:00:00,000 --> 00:00:00,000	JACK	Security system? What does that mean?
+548	00:00:00,000 --> 00:00:00,000	DANIELLE	Its purpose is that of any security systems -- to protect something.
+550	00:00:00,000 --> 00:00:00,000	KATE	Protect what?
+552	00:00:00,000 --> 00:00:00,000	DANIELLE	The Island.
+554	00:00:00,000 --> 00:00:00,000		[Hurley and Locke meet up with Danielle, Jack and Kate.]
+556	00:00:00,000 --> 00:00:00,000	HURLEY	Uh, where's Arnzt?
+558	00:00:00,000 --> 00:00:00,000	ARZT	[entering] It's Arzt, you idiot.
+560	00:00:00,000 --> 00:00:00,000	HURLEY	Dude, I thought you were dead.
+562	00:00:00,000 --> 00:00:00,000	ARZT	Can we just, please, go get the dynamite, please?
+564	00:00:00,000 --> 00:00:00,000		[We see Shannon at the beach folding Boone's clothes. Walt enters.]
+566	00:00:00,000 --> 00:00:00,000	WALT	Why are you folding the clothes?
+568	00:00:00,000 --> 00:00:00,000	SHANNON	Because I'm anal. Is there something you want?
+570	00:00:00,000 --> 00:00:00,000	WALT	I think you should take Vincent.
+572	00:00:00,000 --> 00:00:00,000	SHANNON	Are you serious?
+574	00:00:00,000 --> 00:00:00,000	WALT	He'll take care of you.
+576	00:00:00,000 --> 00:00:00,000	SHANNON	What makes you think I need a dog to take care of me?
+578	00:00:00,000 --> 00:00:00,000	WALT	Vincent took care of me when my mom died -- and nobody would talk to me. They pretended like nothing happened. So I had to talk to Vincent. He's a good listener. You could talk to him about Boone if you want.
+580	00:00:00,000 --> 00:00:00,000	SHANNON	Alright, but only until you get us rescued, okay.
+582	00:00:00,000 --> 00:00:00,000		[Flashback - We see Shannon doing word search puzzles at the airport.]
+584	00:00:00,000 --> 00:00:00,000	AIRPORT ANNOUNCEMENT	[in background] Flight 338 to Fiji will be delayed. Please check the board for flight details.
+586	00:00:00,000 --> 00:00:00,000		[Sayid comes partially into frame and sets his bag down by Shannon.]
+588	00:00:00,000 --> 00:00:00,000	SAYID	Excuse me, would you mind watching my bag for a moment? I'll be right back.
+590	00:00:00,000 --> 00:00:00,000	SHANNON	Sure, whatever.
+592	00:00:00,000 --> 00:00:00,000	SAYID	Thank you.
+594	00:00:00,000 --> 00:00:00,000	BOONE	[entering] I couldn't get us into first class.
+596	00:00:00,000 --> 00:00:00,000	SHANNON	Why not?
+598	00:00:00,000 --> 00:00:00,000	BOONE	Um, maybe you shouldn't have yelled at the gate agent.
+600	00:00:00,000 --> 00:00:00,000	SHANNON	What? You're on his side, now?
+602	00:00:00,000 --> 00:00:00,000	BOONE	One day you're going to appreciate everything I do for you.
+604	00:00:00,000 --> 00:00:00,000	SHANNON	Yeah, I can't wait for that day.
+606	00:00:00,000 --> 00:00:00,000		[We see Shannon and Boone on an escalator.]
+608	00:00:00,000 --> 00:00:00,000	SHANNON	You can try again with the gate agent.
+610	00:00:00,000 --> 00:00:00,000	BOONE	Would you let it go?
+612	00:00:00,000 --> 00:00:00,000	SHANNON	Excuse me for not being pathetic enough to not want to sit next to some crying baby for the next 15 hours.
+614	00:00:00,000 --> 00:00:00,000	BOONE	Oh god, you can be a bitch.
+616	00:00:00,000 --> 00:00:00,000	SHANNON	Oh, you want to play? I will get you thrown off this flight.
+618	00:00:00,000 --> 00:00:00,000	BOONE	Yeah, how are you going to do that?
+620	00:00:00,000 --> 00:00:00,000	SHANNON	I can do whatever I want. I could tell them...
+622	00:00:00,000 --> 00:00:00,000	BOONE	Tell them what? Who's going to believe you? You're not even capable of...
+624	00:00:00,000 --> 00:00:00,000	SHANNON	You have no idea what I'm capable of.
+626	00:00:00,000 --> 00:00:00,000		[Shannon approaches an airport cop.]
+628	00:00:00,000 --> 00:00:00,000	SHANNON	Excuse me, sir?
+630	00:00:00,000 --> 00:00:00,000	AIRPORT COP	Yes, ma'am.
+632	00:00:00,000 --> 00:00:00,000	SHANNON	Hi, um, some Arab guy just left his bags in the chairs downstairs and then just walked away.
+634	00:00:00,000 --> 00:00:00,000	AIRPORT COP	Can you describe him, please?
+636	00:00:00,000 --> 00:00:00,000	SHANNON	Um, Arab? He went towards the shops. [to Boone] How's that?
+638	00:00:00,000 --> 00:00:00,000		[On-Island - At the raft.]
+640	00:00:00,000 --> 00:00:00,000	SAYID	I salvaged a few things for you from the Beechcraft. This is the plane's radar emitter. It needs to be mounted on the mast or the top of the cabin.
+642	00:00:00,000 --> 00:00:00,000	SAWYER	I'll do it.
+644	00:00:00,000 --> 00:00:00,000	SAYID	Michael, to conserve power, turn it on only once every hour or so. It will show you any ships within the horizon line, approximately 25 miles. The same with the radio transmitter. [Sayid hands Michael a flare gun.] This was in the plane's toolbox. There's only one flare. Choose wisely when you use it.
+646	00:00:00,000 --> 00:00:00,000		[We see the dynamite expedition.]
+648	00:00:00,000 --> 00:00:00,000	LOCKE	Why are we stopping?
+650	00:00:00,000 --> 00:00:00,000	DANIELLE	Because we're here. This is the Black Rock.
+652	00:00:00,000 --> 00:00:00,000		[Reveal shows an old ship.]
+654	00:00:00,000 --> 00:00:00,000		[Flashback - We see Sun carrying a tray back to the table where Jin is waiting at the airport.]
+656	00:00:00,000 --> 00:00:00,000	JIN	Ã¬â„¢Å“ Ã¬ÂÂ´Ã«Â â€¡ÃªÂ²Å’ Ã¬ËœÂ¤Ã«Å¾Ëœ ÃªÂ±Â¸Ã«Â Â¸Ã¬â€“Â´? Ã«Â°Â°ÃªÂ³Â Ã­Å’Å’ Ã¬Â£Â½ÃªÂ²Â Ã«Å â€Ã«ÂÂ°. [Subtitle: Why did it take so long?]
+658	00:00:00,000 --> 00:00:00,000	SUN	Ã¬â€šÂ¬Ã«Å¾Å’Ã«â€œÂ¤Ã¬ÂÂ´ Ã«â€žË†Ã«Â¬Â´ Ã«Â§Å½Ã¬â€¢â€žÃ¬â€žÅ“. Ã«Â¨Â¹Ã¬Ââ€žÃªÂ²Å’ Ã«Â³â€žÃ«Â¡Å“ Ã¬â€”â€ Ã¬â€“Â´Ã¬â€žÅ“ ÃªÂ·Â¸Ã«Æ’Â¥ ÃªÂ°â€žÃ«â€¹Â¨Ã­â€¢Å“ ÃªÂ±Â¸Ã«Â¡Å“ Ã¬â€šÂ¬Ã¬â„¢â€Ã¬â€“Â´Ã¬Å¡â€. [Subtitle: I'm really hungry now. There were a lot of people in line. There really wasn't much to choose from, so I just got some simple things for us.] [Sun puts a napkin on Jin's lap] Here.
+660	00:00:00,000 --> 00:00:00,000	GINA	[at the next table] If you ever catch me doing anything like that for you, shoot me.
+662	00:00:00,000 --> 00:00:00,000	JEFF	Don't knock it. Their divorce rate's 20 times lower than ours.
+664	00:00:00,000 --> 00:00:00,000		[Sun overhears them.]
+666	00:00:00,000 --> 00:00:00,000	SUN	Ã¬â€”Â¬ÃªÂ¸Â°Ã¬Å¡â€. [then knocks over a drink onto Jin. She tries to help.]
+668	00:00:00,000 --> 00:00:00,000	JIN	Ã¬â€¢â€ž, Ã«Å“Â¨ÃªÂ±Â°Ã¬â€ºÅ’!
+670	00:00:00,000 --> 00:00:00,000	SUN	Ã¬â€“Â´Ã«Â¨Â¸, Ã¬â€“Â´Ã«â€“Â¡Ã­â€¢Â´! Ã¬â€“Â´Ã«â€“Â¡Ã­â€¢Â´, Ã«Â¯Â¸Ã¬â€¢Ë†Ã­â€¢Â´Ã¬Å¡â€. Ã«Å“Â¨ÃªÂ²ÂÃ¬Â£Â ?
+672	00:00:00,000 --> 00:00:00,000	JIN	Ã«ÂÂÃ¬â€“Â´, Ã«ÂÂÃ¬â€“Â´. Ã­â„¢â€Ã¬Å¾Â¥Ã¬â€¹Â¤... [Jin apparently asks where the bathroom is.]
+674	00:00:00,000 --> 00:00:00,000	SUN	[Sun points] Ã¬Â â‚¬ÃªÂ¸Â° Ã¬Å¾Ë†Ã«â€žÂ¤Ã¬Å¡â€.
+676	00:00:00,000 --> 00:00:00,000		[Jin exits.]
+678	00:00:00,000 --> 00:00:00,000	GINA	My god, it's "Memoirs of a Geisha" come to life.
+680	00:00:00,000 --> 00:00:00,000	JEFF	Hey, volume.
+682	00:00:00,000 --> 00:00:00,000	GINA	Relax, they don't speak English.
+684	00:00:00,000 --> 00:00:00,000		[On-Island - We see Sun approach Jin at the raft. When Jin sees her he starts to walk away.]
+686	00:00:00,000 --> 00:00:00,000	SUN	Ã¬Â§â€žÃ¬Ë†ËœÃ¬â€Â¨. [handing Jin some papers] Ã¬ÂÂ´ÃªÂ±Â°Ã¬Å¡â€. [Subtitle: This is for you.]
+688	00:00:00,000 --> 00:00:00,000	JIN	[reading the papers] Star... star board.
+690	00:00:00,000 --> 00:00:00,000	SUN	Starboard. ÃªÂ°â€žÃ«â€¹Â¨Ã­â€¢Å“ Ã¬ËœÂÃ¬â€“Â´Ã«Â¥Â¼ Ã«Â°Å“Ã¬ÂÅ’Ã«Å’â‚¬Ã«Â¡Å“ Ã¬Â ÂÃ¬â€”Ë†Ã¬â€“Â´Ã¬Å¡â€. Ã«â€¹Â¹Ã¬â€¹Â Ã­â€¢Å“Ã­â€¦Å’ Ã«Ââ€žÃ¬â€ºâ‚¬Ã¬ÂÂ´ Ã«Â ÃªÂ²Æ’ ÃªÂ°â„¢Ã¬â€¢â€žÃ¬â€žÅ“ Ã­â€¢Å“Ã«Â²Ë† Ã«Â§Å’Ã«â€œÂ¤Ã¬â€“Â´ Ã«Â´Â¤Ã¬â€“Â´Ã¬Å¡â€. [Subtitle: It's a list of simple English words spelled out phonetically... I thought this would help you so I made it for you.]
+692	00:00:00,000 --> 00:00:00,000	JIN	Ã¬Â â€¢Ã«Â§Â Ã«Â¯Â¸Ã¬â€¢Ë†Ã­â€¢ËœÃ«â€¹Â¤... [Subtitle: I'm sorry.]
+694	00:00:00,000 --> 00:00:00,000	SUN	Ã¬Â â‚¬Ã«Ââ€žÃ¬Å¡â€. Ã«â€¹Â¹Ã¬â€¹Â Ã¬ÂÂ´ ÃªÂ¼Â­ ÃªÂ°Ë† Ã­â€¢â€žÃ¬Å¡â€Ã«Å â€ Ã¬â€”â€ Ã¬Å¾â€“Ã¬â€¢â€žÃ¬Å¡â€. [Subtitle: I am too. You don't have to go.]
+696	00:00:00,000 --> 00:00:00,000	JIN	Ã¬â€¢â€žÃ¬Â§ÂÃ«Ââ€ž Ã«ÂªÂ¨Ã«Â¥Â´ÃªÂ²Â Ã¬â€“Â´? Ã«â€šÅ“ Ã¬Â§â‚¬ÃªÂ¸Ë† Ã«Â²Å’Ã¬Ââ€ž Ã«Â°â€ºÃªÂ³ Ã¬Å¾Ë†Ã«Å â€ Ã¬Â¤â€˜Ã¬ÂÂ´Ã¬â€¢Â¼. Ã«â€šËœ Ã«â€¢Å’Ã«Â¬Â¸Ã¬â€”Â Ã¬â€“Â¼Ã«Â§Ë†Ã«â€šËœ ÃªÂ³Â Ã¬Æ’ÂÃ­â€“Ë†Ã«Å â€Ã¬Â§â‚¬ Ã¬Å¾Ëœ Ã¬â€¢Å’ÃªÂ³ Ã¬Å¾Ë†Ã¬â€“Â´. Ã«â€¹Â¹Ã¬â€¹ ÃªÂ°â„¢Ã¬Ââ‚¬ Ã¬â€”Â¬Ã¬Å¾ÂÃªÂ°â‚¬ Ã¬â„¢Å“ Ã¬ÂÂ´ ÃªÂ³Â Ã¬Æ’ÂÃ¬Ââ€ž Ã­â€¢Â´Ã¬â€¢Â¼Ã«ÂÂ¼? [Subtitle: No, don't you understand, Sun. I'm in this place because I'm being punished. I made you suffer. You don't deserve any of this.]
+698	00:00:00,000 --> 00:00:00,000	SUN	Ã¬â€”Â¬Ã«Â³Â´... [Subtitle: Jin...]
+700	00:00:00,000 --> 00:00:00,000	JIN	Ã¬â€¢â€žÃ«â€¹Ë†, Ã«â€šÂ´ÃªÂ°â‚¬ ÃªÂ°â‚¬Ã¬â€¢Â¼Ã«Â§Å’ Ã«â€¹Â¹Ã¬â€¹Â Ã¬Ââ€ž ÃªÂµÂ¬Ã­â€¢ Ã¬Ë†Ëœ Ã¬Å¾Ë†Ã¬â€“Â´. Ã¬Å¾Â­Ã¬ÂÂ´ Ã¬Â§â‚¬Ã¬Â¼Å“ Ã¬Â¤â€ž ÃªÂ±Â°Ã¬â€¢Â¼. Ã¬Å¾Â­Ã¬ÂÂ´Ã«Å¾â€˜ ÃªÂ°â„¢Ã¬ÂÂ´ Ã¬Å¾Ë†Ã¬â€“Â´. [Subtitle: I have to go because I'm going to save you. Stay with Jack. He'll keep you safe.]
+702	00:00:00,000 --> 00:00:00,000	SUN	ÃªÂ·Â¸Ã«Å¸Â¼ Ã«â€¹Â¹Ã¬â€¹Â Ã¬Ââ‚¬... Ã«â€¹Â¹Ã¬â€¹Â Ã¬Ââ‚¬ Ã«Ë†â€žÃªÂ°â‚¬ Ã¬Â§â‚¬Ã¬Â¼Å“Ã¬Â¤â€ž ÃªÂ±Â°Ã¬â€”ÂÃ¬Å¡â€? [Subtitle: Who will keep you safe?]
+704	00:00:00,000 --> 00:00:00,000		[They hug and cry.]
+706	00:00:00,000 --> 00:00:00,000	SUN	Ã¬â€šÂ¬Ã«Å¾â€˜Ã­â€¢Â´. Ã¬â€šÂ¬Ã«Å¾â€˜Ã­â€¢Â´. [Subtitle: I love you.]
+708	00:00:00,000 --> 00:00:00,000	JIN	Ã¬Â â€¢Ã«Â§Â Ã«Â¯Â¸Ã¬â€¢Ë†Ã­â€¢Â´. [Subtitle: I'm so sorry.]
+710	00:00:00,000 --> 00:00:00,000	SUN	ÃªÂ´Å“Ã¬Â°Â®Ã¬â€¢â€žÃ¬Å¡â€. [Subtitle: It's okay.]
+712	00:00:00,000 --> 00:00:00,000		[They kiss.]
+714	00:00:00,000 --> 00:00:00,000		[We see Shannon give Charlie a message for the bottle. Everyone is gathering around to see off the raft. Hugs goodbye. Charlie gives the bottle to Sawyer. They push the raft out into the water.]
+716	00:00:00,000 --> 00:00:00,000	MICHAEL	Go, go, go!
+718	00:00:00,000 --> 00:00:00,000	WALT	Bye Vincent, bye Vincent!
+720	00:00:00,000 --> 00:00:00,000		[The raft sets sail. People wave and whoop. Vincent swims after Walt.]
+722	00:00:00,000 --> 00:00:00,000	WALT	Stay, Vincent! Go back, Vincent! Vincent, go back, go back!
+724	00:00:00,000 --> 00:00:00,000		[Vincent turns around and Shannon gets him. Sawyer hoists the sail.]
+726	00:00:00,000 --> 00:00:00,000	MICHAEL	[to Walt] What'd I say?
+728	00:00:00,000 --> 00:00:00,000	WALT	We did it!
+730	00:00:00,000 --> 00:00:00,000		[More waving and whooping. Jin and Sun share a long goodbye look. Long shot of the boat moving out toward sea.]
+732	00:00:00,000 --> 00:00:00,000		[Shot of the pillar of black smoke.]
+734	00:00:00,000 --> 00:00:00,000		[Continued at Exodus, Part 2 transcript]

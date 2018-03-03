@@ -1,0 +1,397 @@
+Dead Is Dead
+2	00:00:00,000 --> 00:00:00,000	Written by	Brian K. Vaughan & Elizabeth Sarnoff
+4	00:00:00,000 --> 00:00:00,000	Directed by	Stephen Williams
+6	00:00:00,000 --> 00:00:00,000		[Flashback - A man rides into a camp on horseback. He dismounts and walks through the camp until he finds Richard Alpert.]
+8	00:00:00,000 --> 00:00:00,000	MAN	[British accent] What have you done, Richard?
+10	00:00:00,000 --> 00:00:00,000	RICHARD	Calm down. Calm down. This has nothing to do with you.
+12	00:00:00,000 --> 00:00:00,000	MAN	So it's true? You actually brought one of them to our Temple?
+14	00:00:00,000 --> 00:00:00,000	RICHARD	He's just a boy, and he was dying.
+16	00:00:00,000 --> 00:00:00,000	MAN	Then you should've let him die.
+18	00:00:00,000 --> 00:00:00,000	RICHARD	Jacob wanted it done. The Island chooses who the Island chooses. You know that.
+20	00:00:00,000 --> 00:00:00,000	MAN	Yes. Yes, of course. What's his name?
+22	00:00:00,000 --> 00:00:00,000		[The man enters a tent. A young Benjamin Linus is resting inside.]
+24	00:00:00,000 --> 00:00:00,000	MAN	Hello, Benjamin.
+26	00:00:00,000 --> 00:00:00,000	YOUNG BEN	What happened?
+28	00:00:00,000 --> 00:00:00,000	MAN	You were injured.
+30	00:00:00,000 --> 00:00:00,000	YOUNG BEN	How?
+32	00:00:00,000 --> 00:00:00,000	MAN	You don't remember?
+34	00:00:00,000 --> 00:00:00,000	YOUNG BEN	Where am I?
+36	00:00:00,000 --> 00:00:00,000	MAN	You're among friends. We're going to take care of you.
+38	00:00:00,000 --> 00:00:00,000	YOUNG BEN	My dad -- Is he here?
+40	00:00:00,000 --> 00:00:00,000	MAN	You'll be back to him soon enough.
+42	00:00:00,000 --> 00:00:00,000	YOUNG BEN	No. No, I don't want to go back.
+44	00:00:00,000 --> 00:00:00,000		[Ben tries to sit up, but gasps.]
+46	00:00:00,000 --> 00:00:00,000	MAN	Okay, easy. Easy.
+48	00:00:00,000 --> 00:00:00,000	YOUNG BEN	Oh! [Groans] [strained voice] I don't want to go back. [Inhales deeply] [Normal voice] I wanna stay. I wanna be one of you.
+50	00:00:00,000 --> 00:00:00,000	MAN	Just because you're living with them doesn't mean you can't be one of us. You should be dead, Benjamin. But this Island... it saved your life.
+52	00:00:00,000 --> 00:00:00,000	YOUNG BEN	Who are you?
+54	00:00:00,000 --> 00:00:00,000	MAN	I'm Charles. Charles Widmore.
+56	00:00:00,000 --> 00:00:00,000		[Present - Ben is sleeping at the makeshift infirmary at the Hydra. Locke is watching over him.]
+58	00:00:00,000 --> 00:00:00,000	LOCKE	Ben.
+60	00:00:00,000 --> 00:00:00,000		[Ben wakes up.]
+62	00:00:00,000 --> 00:00:00,000	LOCKE	Hello, Ben. Welcome back to the land of the living.
+64	00:00:00,000 --> 00:00:00,000	BEN	[Whispers] My God. You're alive.
+66	00:00:00,000 --> 00:00:00,000	LOCKE	Yes, I am.
+68	00:00:00,000 --> 00:00:00,000	BEN	I knew it. I knew that this would happen.
+70	00:00:00,000 --> 00:00:00,000	LOCKE	Then why are you so surprised to see me?
+72	00:00:00,000 --> 00:00:00,000	BEN	[Normal voice] Because it's one thing to believe it, John. It's another thing to see it.
+74	00:00:00,000 --> 00:00:00,000	LOCKE	Then why were you trying to run away to the main Island?
+76	00:00:00,000 --> 00:00:00,000	BEN	I broke the rules, John. I came back to the Island. I was going to answer for what I'd done. I was going back... to be judged.
+78	00:00:00,000 --> 00:00:00,000	LOCKE	[Whispers] Judged? [Normal voice] By whom?
+80	00:00:00,000 --> 00:00:00,000	BEN	Well, J-John, we don't even have a word for it, but I believe you call it the Monster.
+82	00:00:00,000 --> 00:00:00,000		[On the beach on Hydra Island, Ben walks past a group of survivors who are fixing lengths of bamboo to the sides of a metal crate.]
+84	00:00:00,000 --> 00:00:00,000	ILANA	Morning.
+86	00:00:00,000 --> 00:00:00,000	BEN	Hello. What's in the crate?
+88	00:00:00,000 --> 00:00:00,000	ILANA	Just some stuff we need to get moved.
+90	00:00:00,000 --> 00:00:00,000	BEN	Need a hand?
+92	00:00:00,000 --> 00:00:00,000	BRAM	Oh, thanks. We got it.
+94	00:00:00,000 --> 00:00:00,000	BEN	Okay. Have a great day.
+96	00:00:00,000 --> 00:00:00,000		[He leaves and searches a bag for a bottle of water. Ceasar approaches.]
+98	00:00:00,000 --> 00:00:00,000	CEASAR	How you feeling, my friend?
+100	00:00:00,000 --> 00:00:00,000	BEN	Like someone hit me with an oar, but I'll live.
+102	00:00:00,000 --> 00:00:00,000	CAESAR	[Motions toward Locke in background] What do you make of him?
+104	00:00:00,000 --> 00:00:00,000	BEN	I'm not sure. What has he told you?
+106	00:00:00,000 --> 00:00:00,000	CAESAR	When you were out cold, he was watching over you. And he said you killed him.
+108	00:00:00,000 --> 00:00:00,000	BEN	I killed him? Really? 'Cause he looks fine to me. [Chuckles] You know, I don't really remember him from the plane. Do you?
+110	00:00:00,000 --> 00:00:00,000	CAESAR	No, I don't.
+112	00:00:00,000 --> 00:00:00,000	BEN	What if... he was already here, before we crashed? If he thinks I killed him, then he's insane. We may be dealing with a man who's dangerously deranged. Then the question is, what are we gonna do about it?
+114	00:00:00,000 --> 00:00:00,000	CAESAR	Don't worry, my friend.
+116	00:00:00,000 --> 00:00:00,000		[Caesar opens his bag and flashes some heat--the sawed-off shotgun taken from underneath the desk in Ben's office.]
+118	00:00:00,000 --> 00:00:00,000	CAESAR	I have your back. Caesar.
+120	00:00:00,000 --> 00:00:00,000	BEN	Pleasure to meet you, Caesar. I'm Ben.
+122	00:00:00,000 --> 00:00:00,000		[Flashback - At night, a grown up yet younger Ben and another small boy crouch behind a bush on a beach.]
+124	00:00:00,000 --> 00:00:00,000	TEENAGER	You want me to do it?
+126	00:00:00,000 --> 00:00:00,000	BEN	Shh.
+128	00:00:00,000 --> 00:00:00,000	TEENAGER	I can do it if you want me to, Ben.
+130	00:00:00,000 --> 00:00:00,000	BEN	[Whispers] Shut up! And stay here, Ethan.
+132	00:00:00,000 --> 00:00:00,000		[Ben draws a gun and makes his way to a tent on the beach. He cocks his gun, enters the tent and aims it at a woman who is sleeping. Suddenly a baby begins to cry, which startles Ben and causes him to knock a music box onto the floor. It opens and begins to play, waking the sleeping woman, who is revealed to be Rousseau. She tries to grab her rifle.]
+134	00:00:00,000 --> 00:00:00,000	BEN	Don't! Don't do it.
+136	00:00:00,000 --> 00:00:00,000		[Baby continues crying.]
+138	00:00:00,000 --> 00:00:00,000	ROUSSEAU	You're the one who infected us, aren't you?! C'est vous qui nous avez infectÃƒÂ©s!
+140	00:00:00,000 --> 00:00:00,000		[Ben moves toward the baby.]
+142	00:00:00,000 --> 00:00:00,000	ROUSSEAU	Non! Non! Rendez-moi mon bÃƒÂ©bÃƒÂ©! Non!
+144	00:00:00,000 --> 00:00:00,000	BEN	Shh.
+146	00:00:00,000 --> 00:00:00,000	ROUSSEAU	Rendez-moi mon bÃƒÂ©bÃƒÂ©!
+148	00:00:00,000 --> 00:00:00,000	BEN	It's okay. It's okay, baby.
+150	00:00:00,000 --> 00:00:00,000		[With his gun still on Rousseau, he picks the baby up.]
+152	00:00:00,000 --> 00:00:00,000	ROUSSEAU	Ne l'infectez pas, lui aussi! [Shouts, repeating herself] Please, don't take my Alex!
+154	00:00:00,000 --> 00:00:00,000	BEN	Do you want your baby to live?
+156	00:00:00,000 --> 00:00:00,000	ROUSSEAU	Why are you taking her?!
+158	00:00:00,000 --> 00:00:00,000		[Rousseau attempts to get up, but Ben fires a warning shot. Alex wailing.]
+160	00:00:00,000 --> 00:00:00,000	BEN	Be grateful you're still alive. Now you listen to me. If you try to follow me or if you ever come looking for me, I'll kill you. And if you want your child to live, every time you hear whispers, you run the other way.
+162	00:00:00,000 --> 00:00:00,000		[Ben leaves the tent. Rousseau cries.]
+164	00:00:00,000 --> 00:00:00,000		[Present - In his Hydra office, Ben opens a drawer and searches through it. He closes it and looks around his desk, opening another drawer, and another drawer, until he finds a framed photograph of him and Alex. He takes it from the frame. Locke startles him.]
+166	00:00:00,000 --> 00:00:00,000	LOCKE	What's that?
+168	00:00:00,000 --> 00:00:00,000	BEN	Just something sentimental.
+170	00:00:00,000 --> 00:00:00,000		[Ben folds the photo and puts it in his pocket. Locke walks behind the desk as Ben walks to the front of it.]
+172	00:00:00,000 --> 00:00:00,000	LOCKE	So this is your old office, huh? I never pictured you leading your people from behind a desk. It seems a little... [chair rattles as he sits] corporate.
+174	00:00:00,000 --> 00:00:00,000		[Chair continues rattling. He sighs and puts his feet on the desk.]
+176	00:00:00,000 --> 00:00:00,000	BEN	Was there something that you needed, John?
+178	00:00:00,000 --> 00:00:00,000	LOCKE	Well, Ben, I was hoping that you and I could talk about the elephant in the room.
+180	00:00:00,000 --> 00:00:00,000	BEN	I assume you're referring to the fact that I killed you.
+182	00:00:00,000 --> 00:00:00,000	LOCKE	Yeah. [Clicks tongue]
+184	00:00:00,000 --> 00:00:00,000	BEN	It was the only way to get you back to the Island, along with as many of those who left as possible. You do remember, John--that's why you left in the first place, to convince 'em to come back? But you failed. And the only way to bring them together was by your death, and you understood that. It's why you were about to kill yourself when I stopped you.
+186	00:00:00,000 --> 00:00:00,000	LOCKE	If all I had to do was die, Ben, they why did you stop me?
+188	00:00:00,000 --> 00:00:00,000	BEN	You had critical information that would've died with you. And once you'd given it to me... well, I just didn't have time to talk you back into hanging yourself. So I took a shortcut. And look at you, John. I was right. You're here. You're back. So are the rest of them. I don't know where yet exactly, but they came. It worked. And that's why I did it, because it was in the best interests of the Island. [takes off his glasses]
+190	00:00:00,000 --> 00:00:00,000	LOCKE	[Sniffs] I was just hoping for an apology.
+192	00:00:00,000 --> 00:00:00,000		[Ben stares at Locke and does not respond. Chair rattles as Locke stands up.]
+194	00:00:00,000 --> 00:00:00,000	LOCKE	I've decided to help you, Ben.
+196	00:00:00,000 --> 00:00:00,000	BEN	Help me do what?
+198	00:00:00,000 --> 00:00:00,000	LOCKE	Do what you say you are on your way to do. Be judged.
+200	00:00:00,000 --> 00:00:00,000	BEN	That's not something you want to see, John.
+202	00:00:00,000 --> 00:00:00,000	LOCKE	If everything you've done has been in the best interests of the Island... [moves closer to Ben] then I'm sure the Monster will understand. Let's go.
+204	00:00:00,000 --> 00:00:00,000		[On the beach, Locke and Ben uncover an outrigger. A shout comes from a short distance.]
+206	00:00:00,000 --> 00:00:00,000	CAESAR	Hey!
+208	00:00:00,000 --> 00:00:00,000		[Caesar walks up with three other men.]
+210	00:00:00,000 --> 00:00:00,000	CAESAR	What are you doing?
+212	00:00:00,000 --> 00:00:00,000	LOCKE	We're taking a boat.
+214	00:00:00,000 --> 00:00:00,000	CAESAR	Where?
+216	00:00:00,000 --> 00:00:00,000	LOCKE	Over to the main Island.
+218	00:00:00,000 --> 00:00:00,000	CAESAR	I don't think so, my friend.
+220	00:00:00,000 --> 00:00:00,000	LOCKE	Are these your boats?
+222	00:00:00,000 --> 00:00:00,000	CAESAR	Are they yours?
+224	00:00:00,000 --> 00:00:00,000	LOCKE	Caesar, right? I was under the impression these were found here, so I'm just gonna borrow one. I'm happy to leave the other boat for you in case you want to follow us.
+226	00:00:00,000 --> 00:00:00,000	CAESAR	"Us"? [to Ben] Are you going with him?
+228	00:00:00,000 --> 00:00:00,000	BEN	He didn't really give me a choice.
+230	00:00:00,000 --> 00:00:00,000	CAESAR	I'm sorry, but I'm calling the shots here, and I say you are not taking anything. What you are going to do is to sit down and tell us how you know so much about this Island, my friend.
+232	00:00:00,000 --> 00:00:00,000		[Locke bangs his shoes and puts them into a backpack.]
+234	00:00:00,000 --> 00:00:00,000	LOCKE	You're in the habit of calling people "friend", but I don't think you mean it.
+236	00:00:00,000 --> 00:00:00,000	CAESAR	Step away from the boat.
+238	00:00:00,000 --> 00:00:00,000	LOCKE	No. I'm not gonna step away from the boat. I'm gonna take it, and you're gonna let me, my friend.
+240	00:00:00,000 --> 00:00:00,000	CAESAR	You're not taking anything.
+242	00:00:00,000 --> 00:00:00,000		[Caesar reaches into his bag for the sawed-off shotgun, but Ben points it at Caesar.]
+244	00:00:00,000 --> 00:00:00,000	BEN	You looking for this?
+246	00:00:00,000 --> 00:00:00,000		[Ben fires, blowing Caesar away. Struck square in the chest, Caesar flies backwards with a grunt. Ben turns the gun to the other three men.]
+248	00:00:00,000 --> 00:00:00,000	BEN	This gentleman and I are taking a boat. Does anyone else have a problem with that?
+250	00:00:00,000 --> 00:00:00,000		[Stunned, the other three men shake their heads and back away. Ben throws the shotgun to Locke, who catches it.]
+252	00:00:00,000 --> 00:00:00,000	BEN	Consider that my apology.
+254	00:00:00,000 --> 00:00:00,000		[Birds chirping and squawking in distance as Locke and Ben arrive at the dock on the main Island.]
+256	00:00:00,000 --> 00:00:00,000	BEN	Home sweet home.
+258	00:00:00,000 --> 00:00:00,000	LOCKE	Looks like we're not the first ones who decided to tie up here.
+260	00:00:00,000 --> 00:00:00,000	BEN	That would be Sun and Lapidus. I showed 'em where the boats were, and Sun thanked me by smashing me on the head with a paddle.
+262	00:00:00,000 --> 00:00:00,000	LOCKE	Oh. Is she the one that hurt your arm? I noticed you were favoring it on the way over.
+264	00:00:00,000 --> 00:00:00,000	BEN	No. Someone else hurt my arm.
+266	00:00:00,000 --> 00:00:00,000	LOCKE	You just make friends everywhere you go, don't ya?
+268	00:00:00,000 --> 00:00:00,000	BEN	Well, I've found sometimes that friends can be significantly more dangerous than enemies, John.
+270	00:00:00,000 --> 00:00:00,000	LOCKE	Is that why you shot an unarmed man in the chest?
+272	00:00:00,000 --> 00:00:00,000	BEN	The man was unarmed because I'd stolen his gun--the gun he was going to use to kill you. I couldn't let that happen.
+274	00:00:00,000 --> 00:00:00,000	LOCKE	No sense in me dying twice, right?
+276	00:00:00,000 --> 00:00:00,000	BEN	You're welcome.
+278	00:00:00,000 --> 00:00:00,000	LOCKE	We're going to your old house, aren't we?
+280	00:00:00,000 --> 00:00:00,000	BEN	Yes. It's the only place I can summon it... the "monster." Once it arrives, I'll either be forgiven... or I won't.
+282	00:00:00,000 --> 00:00:00,000	LOCKE	I think you're lying.
+284	00:00:00,000 --> 00:00:00,000	BEN	Lying about what?
+286	00:00:00,000 --> 00:00:00,000	LOCKE	That you want to be judged for leaving the Island and coming back because it's against the rules. I don't think you care about rules.
+288	00:00:00,000 --> 00:00:00,000	BEN	Then what do I want to be judged for, John?
+290	00:00:00,000 --> 00:00:00,000	LOCKE	For killing your daughter.
+292	00:00:00,000 --> 00:00:00,000		[Flashback - In the jungle at night, Ben and young Ethan arrive back at the Others camp.]
+294	00:00:00,000 --> 00:00:00,000	WIDMORE	Well? Did you do it?
+296	00:00:00,000 --> 00:00:00,000	BEN	We had a...
+298	00:00:00,000 --> 00:00:00,000		[Alex fusses.]
+300	00:00:00,000 --> 00:00:00,000	BEN	...complication.
+302	00:00:00,000 --> 00:00:00,000		[Alex cries.]
+304	00:00:00,000 --> 00:00:00,000	WIDMORE	I'm sorry. Is that a... baby? Your orders were to exterminate that woman.
+306	00:00:00,000 --> 00:00:00,000	BEN	Why? She's no threat to us. She's insane, Charles. Besides, you didn't tell me she had a child. What was it I was supposed to do?
+308	00:00:00,000 --> 00:00:00,000	CHARLES	Kill it.
+310	00:00:00,000 --> 00:00:00,000		[Alex cries.]
+312	00:00:00,000 --> 00:00:00,000	BEN	It's not an "it". This is a child.
+314	00:00:00,000 --> 00:00:00,000		[Widmore gets up and walks over to Ben.]
+316	00:00:00,000 --> 00:00:00,000	WIDMORE	You might find this difficult to understand, Benjamin... every decision I've made has been about protecting this Island.
+318	00:00:00,000 --> 00:00:00,000	BEN	Is killing this baby what Jacob wants?
+320	00:00:00,000 --> 00:00:00,000		[Alex fusses.]
+322	00:00:00,000 --> 00:00:00,000	BEN	Then here she is.
+324	00:00:00,000 --> 00:00:00,000		[Ben holds her out to Widmore. Alex cries.]
+326	00:00:00,000 --> 00:00:00,000	BEN	You do it.
+328	00:00:00,000 --> 00:00:00,000		[Widmore scoffs and backs down, then leaves.]
+330	00:00:00,000 --> 00:00:00,000		[Present - The "PROCESSING CENTER" sign hangs swings from its single remaining chain, making a metal creaking sound in the night. Ben and Locke walk through the Barracks.]
+332	00:00:00,000 --> 00:00:00,000	LOCKE	So whose idea was it to move into these houses?
+334	00:00:00,000 --> 00:00:00,000	BEN	Excuse me?
+336	00:00:00,000 --> 00:00:00,000	LOCKE	Well, your people were living in the jungle. And then after you murdered the DHARMA folk, you relocated here. I just wondered if it was your idea.
+338	00:00:00,000 --> 00:00:00,000	BEN	Do you disapprove, John?
+340	00:00:00,000 --> 00:00:00,000	LOCKE	It just doesn't seem like something the Island would want.
+342	00:00:00,000 --> 00:00:00,000	BEN	You don't have the first idea what this Island wants.
+344	00:00:00,000 --> 00:00:00,000	LOCKE	Are you sure about that?
+346	00:00:00,000 --> 00:00:00,000		[Inside one of the houses, a light turns on.]
+348	00:00:00,000 --> 00:00:00,000	LOCKE	That was your house, wasn't it?
+350	00:00:00,000 --> 00:00:00,000	BEN	Yes, and that's Alex's room.
+352	00:00:00,000 --> 00:00:00,000	LOCKE	Well, I suppose you better go over there and check it out.
+354	00:00:00,000 --> 00:00:00,000		[Ben enters the house and notices the came of Risk is still on the table, as it was back in 2004. He walks through the house to Alex's room and opens the door to find Sun, who is scared by the sudden entrance.]
+356	00:00:00,000 --> 00:00:00,000	BEN	Sun?
+358	00:00:00,000 --> 00:00:00,000	LAPIDUS	[entering] What are you doing here?
+360	00:00:00,000 --> 00:00:00,000	BEN	This used to be my house. I saw a light turned on. What are the two of you doing in here?
+362	00:00:00,000 --> 00:00:00,000		[Lapidus hands Ben the DHARMA Initiative new recruit group photo from the Processing Center.]
+364	00:00:00,000 --> 00:00:00,000	SUN	That was taken in 1977.
+366	00:00:00,000 --> 00:00:00,000	BEN	Are you trying to tell me that your friends were in the DHARMA Initiative?
+368	00:00:00,000 --> 00:00:00,000	SUN	You don't know about this?
+370	00:00:00,000 --> 00:00:00,000	BEN	Of course not. Where did you get this? Who gave this to you?
+372	00:00:00,000 --> 00:00:00,000	LAPIDUS	We met some crazy old man outside.
+374	00:00:00,000 --> 00:00:00,000	SUN	He said his name was Christian. He told us to come in here and wait.
+376	00:00:00,000 --> 00:00:00,000	BEN	Wait for what?
+378	00:00:00,000 --> 00:00:00,000	SUN	He said if I ever wanted to see my husband again, I had to wait here for John Locke.
+380	00:00:00,000 --> 00:00:00,000	LAPIDUS	But considering he's dead, we ain't holding our breath.
+382	00:00:00,000 --> 00:00:00,000	BEN	Well, you might want to look outside.
+384	00:00:00,000 --> 00:00:00,000		[Sun looks out the window and sees John Locke, who waves.]
+386	00:00:00,000 --> 00:00:00,000		[Locke is now in the house, Sun is staring at him. Frank and Ben remain silent.]
+388	00:00:00,000 --> 00:00:00,000	SUN	What you're saying, it's... impossible.
+390	00:00:00,000 --> 00:00:00,000	LOCKE	But here I am. I don't know how, I don't know why, but I'm sure there's a very good reason for it.
+392	00:00:00,000 --> 00:00:00,000	LAPIDUS	As long as the dead guy says there's a reason, well, then I guess everything's gonna be just peachy. And forget about the fact that the rest of your people are supposedly 30 years ago... now the only ones who are here to help us are a murderer and a guy who can't seem to remember how the hell he got out of a coffin. Sun, please, let's just go back to the plane, see if I can fix the radio, and maybe we can get some help.
+394	00:00:00,000 --> 00:00:00,000	LOCKE	If you leave with him, you'll never find your husband again. I'm all the help you need.
+396	00:00:00,000 --> 00:00:00,000	SUN	Are you saying you know how to find them? How to find Jin?
+398	00:00:00,000 --> 00:00:00,000	LOCKE	I have some ideas.
+400	00:00:00,000 --> 00:00:00,000	LAPIDUS	I'm sorry to say, but I'm leaving with or without you.
+402	00:00:00,000 --> 00:00:00,000	SUN	If there's any chance of finding my husband, then I have to stay.
+404	00:00:00,000 --> 00:00:00,000	LAPIDUS	All right. Well, for God sake, watch your back.
+406	00:00:00,000 --> 00:00:00,000		[Frank leaves. Door opens.]
+408	00:00:00,000 --> 00:00:00,000	SUN	All right.
+410	00:00:00,000 --> 00:00:00,000		[Door closes.]
+412	00:00:00,000 --> 00:00:00,000	SUN	How do we find Jin?
+414	00:00:00,000 --> 00:00:00,000	LOCKE	Ben has something to do first. Isn't that right, Ben?
+416	00:00:00,000 --> 00:00:00,000	BEN	Yes, John. That's right.
+418	00:00:00,000 --> 00:00:00,000	LOCKE	Better get to it then.
+420	00:00:00,000 --> 00:00:00,000		[Ben slides the bookcase forward and enters his hidden room. He closes the door and slides the panel back to reveal a stone door with hieroglyphics on it. He pushes this door open, which requires some effort, then proceeds to light a gas lamp and make his way down a tunnel. He comes to a puddle of muddy water in the floor. Reaching down into the water, Ben twists something and the water drains away.]
+422	00:00:00,000 --> 00:00:00,000	BEN	I'll be outside.
+424	00:00:00,000 --> 00:00:00,000		[Flashback - Ben is pushing Alex on the swing in the Barracks.]
+426	00:00:00,000 --> 00:00:00,000	ALEX	Again, Daddy! Again!
+428	00:00:00,000 --> 00:00:00,000		[Giggles.]
+430	00:00:00,000 --> 00:00:00,000	BEN	Okay. Okay. [Chuckles]
+432	00:00:00,000 --> 00:00:00,000		[Richard arrives.]
+434	00:00:00,000 --> 00:00:00,000	RICHARD	Wow, Alex! Any higher, and you're gonna fly right off the Island.
+436	00:00:00,000 --> 00:00:00,000		[Alex laughs.]
+438	00:00:00,000 --> 00:00:00,000	RICHARD	[to Ben] The sub's about to leave.
+440	00:00:00,000 --> 00:00:00,000	ALEX	Higher, Daddy! Higher!
+442	00:00:00,000 --> 00:00:00,000	BEN	All right.
+444	00:00:00,000 --> 00:00:00,000	RICHARD	You don't have to see him off, Ben.
+446	00:00:00,000 --> 00:00:00,000	BEN	Yes, Richard, I do.
+448	00:00:00,000 --> 00:00:00,000	ALEX	Higher! Higher, Daddy!
+450	00:00:00,000 --> 00:00:00,000		[Metal clanks.]
+452	00:00:00,000 --> 00:00:00,000		[On the dock, Widmore handcuffed and is being escorted by two men to the submarine. Birds squawking in distance. Ben catches up to them.]
+454	00:00:00,000 --> 00:00:00,000	BEN	Charles!
+456	00:00:00,000 --> 00:00:00,000		[The guards stop.]
+458	00:00:00,000 --> 00:00:00,000	BEN	I came to say good-bye.
+460	00:00:00,000 --> 00:00:00,000	WIDMORE	[Chuckles] No, you didn't. You came to gloat.
+462	00:00:00,000 --> 00:00:00,000	BEN	No, don't act as if I wanted this. You brought this on yourself.
+464	00:00:00,000 --> 00:00:00,000	WIDMORE	Are you quite certain you want to do this, Benjamin?
+466	00:00:00,000 --> 00:00:00,000	BEN	You left the Island regularly. You had a daughter with an outsider. You broke the rules, Charles.
+468	00:00:00,000 --> 00:00:00,000	WIDMORE	And what makes you think you deserve to take what's mine?
+470	00:00:00,000 --> 00:00:00,000	BEN	Because I won't be selfish. Because I'll sacrifice anything to protect this Island.
+472	00:00:00,000 --> 00:00:00,000	WIDMORE	You wouldn't sacrifice Alex.
+474	00:00:00,000 --> 00:00:00,000	BEN	You're the one who wanted her dead, Charles, not the Island.
+476	00:00:00,000 --> 00:00:00,000	WIDMORE	I hope you're right, Benjamin, because if you aren't, and it is the Island that wants her dead, she'll be dead. And one day, you'll be standing where I'm standing now. You'll be the one being banished, and then you'll finally realize that you cannot fight the inevitable. I'll be seeing you, boy.
+478	00:00:00,000 --> 00:00:00,000		[He turns and walks toward the sub.]
+480	00:00:00,000 --> 00:00:00,000		[Present - Sun is sat on a bench outside Ben's house. Ben comes outside.]
+482	00:00:00,000 --> 00:00:00,000	BEN	Where did John go?
+484	00:00:00,000 --> 00:00:00,000	SUN	He said he had something to do.
+486	00:00:00,000 --> 00:00:00,000	BEN	Did he say what it was?
+488	00:00:00,000 --> 00:00:00,000	SUN	No, I didn't ask. Jack must have lied.
+490	00:00:00,000 --> 00:00:00,000	BEN	Excuse me?
+492	00:00:00,000 --> 00:00:00,000	SUN	About Locke being dead? I don't know why he would, but that's the only explanation.
+494	00:00:00,000 --> 00:00:00,000	BEN	Jack didn't lie. John was dead.
+496	00:00:00,000 --> 00:00:00,000	SUN	Just because he was in a coffin doesn't mean that he couldn't have faked his dea--
+498	00:00:00,000 --> 00:00:00,000	BEN	[Forcefully] Trust me. I'm sure.
+500	00:00:00,000 --> 00:00:00,000	SUN	So you knew this would happen to Locke if we brought him back here?
+502	00:00:00,000 --> 00:00:00,000	BEN	Sun, I had no idea it would happen. I've seen this Island do miraculous things. I've seen it heal the sick, but never once has it done anything like this. Dead is dead. You don't get to come back from that, not even here. So the fact that John Locke is walking around this Island... scares the living hell out of me.
+504	00:00:00,000 --> 00:00:00,000		[Crackling.]
+506	00:00:00,000 --> 00:00:00,000	BEN	You may want to go inside.
+508	00:00:00,000 --> 00:00:00,000	SUN	Why?
+510	00:00:00,000 --> 00:00:00,000	BEN	Because what's about to come out of that jungle is something I can't control.
+512	00:00:00,000 --> 00:00:00,000		[Footsteps approach. Locke steps out of the bushes.]
+514	00:00:00,000 --> 00:00:00,000	LOCKE	Any luck?
+516	00:00:00,000 --> 00:00:00,000	BEN	It hasn't shown up yet.
+518	00:00:00,000 --> 00:00:00,000	LOCKE	Last time we didn't have to wait this long.
+520	00:00:00,000 --> 00:00:00,000	BEN	It's not a train, John. It doesn't run on a schedule.
+522	00:00:00,000 --> 00:00:00,000	LOCKE	Well, if it's not gonna come to us, then... I suppose we'll have to go to it.
+524	00:00:00,000 --> 00:00:00,000	BEN	It doesn't work that way. I only know how to summon it. I don't know where it actually is.
+526	00:00:00,000 --> 00:00:00,000	LOCKE	I do.
+528	00:00:00,000 --> 00:00:00,000		[Locke is preparing a torch.]
+530	00:00:00,000 --> 00:00:00,000	LOCKE	It's weird for me, too.
+532	00:00:00,000 --> 00:00:00,000	SUN	Excuse me?
+534	00:00:00,000 --> 00:00:00,000	LOCKE	I realize how strange this all is--me, here. But I assure you, Sun, I'm the same man I've always been.
+536	00:00:00,000 --> 00:00:00,000		[Ben comes outside.]
+538	00:00:00,000 --> 00:00:00,000	LOCKE	[to Ben] Are you ready?
+540	00:00:00,000 --> 00:00:00,000	BEN	Lead the way.
+542	00:00:00,000 --> 00:00:00,000		[Flashback, off-Island - At the Long Beach Marina. European phone rings.]
+544	00:00:00,000 --> 00:00:00,000	WIDMORE	Hello?
+546	00:00:00,000 --> 00:00:00,000	BEN	Charles? It's Benjamin.
+548	00:00:00,000 --> 00:00:00,000	WIDMORE	How did you get this number?
+550	00:00:00,000 --> 00:00:00,000	BEN	Doesn't matter. What matters is I'm going back to the Island today.
+552	00:00:00,000 --> 00:00:00,000		[Widmore is in London, leaving his office building.]
+554	00:00:00,000 --> 00:00:00,000	WIDMORE	The Island won't let you come back, trust me. I've spent almost 20 years trying to return.
+556	00:00:00,000 --> 00:00:00,000	BEN	Well, Charles, where you failed, I'm going to succeed... just as soon as I do one thing.
+558	00:00:00,000 --> 00:00:00,000	WIDMORE	And what's that, Benjamin?
+560	00:00:00,000 --> 00:00:00,000	BEN	Kill your daughter. [he sees Penny on a boat] In fact, I'm looking at Our Mutual Friend right now.
+562	00:00:00,000 --> 00:00:00,000	WIDMORE	I don't know what you're talking about.
+564	00:00:00,000 --> 00:00:00,000	BEN	It's the name of the boat that Penny's on.
+566	00:00:00,000 --> 00:00:00,000	WIDMORE	Don't you dare.
+568	00:00:00,000 --> 00:00:00,000	BEN	Good-bye, Charles.
+570	00:00:00,000 --> 00:00:00,000		[Line disconnects. Ben shuts his cell phone.]
+572	00:00:00,000 --> 00:00:00,000		[Present - Locke is leading Ben and Sun through the jungle.]
+574	00:00:00,000 --> 00:00:00,000	BEN	May I ask you a question, John?
+576	00:00:00,000 --> 00:00:00,000	LOCKE	Shoot.
+578	00:00:00,000 --> 00:00:00,000	BEN	How is it that you know where you're going?
+580	00:00:00,000 --> 00:00:00,000	LOCKE	I just know.
+582	00:00:00,000 --> 00:00:00,000	BEN	I mean, how does that work, exactly?
+584	00:00:00,000 --> 00:00:00,000	LOCKE	How does what work?
+586	00:00:00,000 --> 00:00:00,000	BEN	The knowing. I mean, did it come upon you gradually, or did you wake up one morning suddenly understanding the mysteries of the universe?
+588	00:00:00,000 --> 00:00:00,000	LOCKE	You don't like this, do you?
+590	00:00:00,000 --> 00:00:00,000	BEN	What?
+592	00:00:00,000 --> 00:00:00,000		[They all stop.]
+594	00:00:00,000 --> 00:00:00,000	LOCKE	Having to ask questions that you don't know the answers to, blindly following someone in the hopes that they'll lead you to whatever it is you're looking for.
+596	00:00:00,000 --> 00:00:00,000	BEN	No, John, I don't like it at all.
+598	00:00:00,000 --> 00:00:00,000	LOCKE	Well, now you know what it was like to be me.
+600	00:00:00,000 --> 00:00:00,000	SUN	We should keep moving.
+602	00:00:00,000 --> 00:00:00,000	LOCKE	Yes, we should.
+604	00:00:00,000 --> 00:00:00,000		[They continue.]
+606	00:00:00,000 --> 00:00:00,000	BEN	I think I know where we're going now, John.
+608	00:00:00,000 --> 00:00:00,000	LOCKE	Do you?
+610	00:00:00,000 --> 00:00:00,000	BEN	It's the same place they brought me as a child. It's where the Island healed me.
+612	00:00:00,000 --> 00:00:00,000	LOCKE	Well... let's hope it's as generous this time around.
+614	00:00:00,000 --> 00:00:00,000		[They come upon the Temple wall.]
+616	00:00:00,000 --> 00:00:00,000	SUN	What is it?
+618	00:00:00,000 --> 00:00:00,000	BEN	It's the wall around our Temple.
+620	00:00:00,000 --> 00:00:00,000	SUN	What Temple?
+622	00:00:00,000 --> 00:00:00,000	BEN	About a half mile from here. We built this wall to keep people like the two of you from ever seeing it.
+624	00:00:00,000 --> 00:00:00,000	LOCKE	We're not going into your Temple, Ben.
+626	00:00:00,000 --> 00:00:00,000		[Locke looks down into a hole.]
+628	00:00:00,000 --> 00:00:00,000	LOCKE	We're going under it.
+630	00:00:00,000 --> 00:00:00,000		[Ben moves closer to the hole.]
+632	00:00:00,000 --> 00:00:00,000	LOCKE	After you.
+634	00:00:00,000 --> 00:00:00,000	BEN	I need to ask a favor of you, Sun. If you can ever get off this Island, find Desmond Hume for me. Tell him I said I was sorry.
+636	00:00:00,000 --> 00:00:00,000	SUN	Sorry for what?
+638	00:00:00,000 --> 00:00:00,000	BEN	[Gasps] He'll know.
+640	00:00:00,000 --> 00:00:00,000		[Ben enters the hole, followed by Locke.]
+642	00:00:00,000 --> 00:00:00,000		[Flashback, off-Island - Ben is still at the marina. He starts to walk to the boat Penny is on, when Desmond notices him as he gets groceries from his car.]
+644	00:00:00,000 --> 00:00:00,000	DESMOND	Hey! What are you doing here?
+646	00:00:00,000 --> 00:00:00,000		[Ben stops and turns. Then he shoots Desmond, sending him clattering to the ground.]
+648	00:00:00,000 --> 00:00:00,000	PENNY	Desmond! Desmond! Des?!
+650	00:00:00,000 --> 00:00:00,000	BEN	Don't move. Not another word. Hello, Penelope. My name is Benjamin Linus. I'm sorry that you're caught up in the middle of this thing, but your father--
+652	00:00:00,000 --> 00:00:00,000	PENNY	My father and I have absolutely no relationship whatsoever, so whatever--
+654	00:00:00,000 --> 00:00:00,000	BEN	Your father is a really terrible human being. He's responsible for the killing of my daughter. That's why I'm here.
+656	00:00:00,000 --> 00:00:00,000		[A toddler emerges from below deck.]
+658	00:00:00,000 --> 00:00:00,000	CHARLIE	Mommy!
+660	00:00:00,000 --> 00:00:00,000	PENNY	[Voice breaking] Charlie, go back inside, babe. Go back inside. [To Ben] Please. Please, whatever you do, don't hurt my son. Please don't hurt my son.
+662	00:00:00,000 --> 00:00:00,000	CHARLIE	Mommy? Mommy?
+664	00:00:00,000 --> 00:00:00,000	PENNY	Charlie, go inside!
+666	00:00:00,000 --> 00:00:00,000		[The lad obeys. Ben lowers the gun, and is attacked by Desmond.]
+668	00:00:00,000 --> 00:00:00,000	DESMOND	Aah!
+670	00:00:00,000 --> 00:00:00,000		[Both grunting. Desmond beats Ben, knocking the gun away, and throwing Ben into the harbour. Ben is shown underwater, bleeding from his nose.]
+672	00:00:00,000 --> 00:00:00,000		[Present - Frank is back on Hydra Island. A man runs up to him.]
+674	00:00:00,000 --> 00:00:00,000	MAN	Captain Lapidus! Captain Lapidus! You're back. Thank God. They found guns.
+676	00:00:00,000 --> 00:00:00,000	LAPIDUS	What are you talking about? Who found guns?
+678	00:00:00,000 --> 00:00:00,000	MAN	Ilana and three of the others. They said they were in charge now.
+680	00:00:00,000 --> 00:00:00,000	LAPIDUS	Where are they?
+682	00:00:00,000 --> 00:00:00,000		[Up the beach, Ilana and Bram are still working on the crate.]
+684	00:00:00,000 --> 00:00:00,000	LAPIDUS	Ilana!
+686	00:00:00,000 --> 00:00:00,000		[Ilana picks up her rifle and cocks it. She aims it at Frank.]
+688	00:00:00,000 --> 00:00:00,000	LAPIDUS	What's going on?
+690	00:00:00,000 --> 00:00:00,000	ILANA	What lies in the shadow of the statue?
+692	00:00:00,000 --> 00:00:00,000	LAPIDUS	What?
+694	00:00:00,000 --> 00:00:00,000	BRAM	Answer the question!
+696	00:00:00,000 --> 00:00:00,000	ILANA	What lies in the shadow of the statue?
+698	00:00:00,000 --> 00:00:00,000	LAPIDUS	I have no idea what the--
+700	00:00:00,000 --> 00:00:00,000		[Ilana hits Frank on the head with the butt of her rifle, sending him to the sand with a grunt.]
+702	00:00:00,000 --> 00:00:00,000	ILANA	[to Bram] Get everyone else. Tell them it's time. And tie him up. He's coming with us.
+704	00:00:00,000 --> 00:00:00,000		[Bram leaves.]
+706	00:00:00,000 --> 00:00:00,000		[Under the Temple, Locke lights a torch and gives it to Ben. They make their way through the corridors.]
+708	00:00:00,000 --> 00:00:00,000	BEN	You know, you were right.
+710	00:00:00,000 --> 00:00:00,000	LOCKE	About what?
+712	00:00:00,000 --> 00:00:00,000	BEN	Why I need to be judged. When Charles Widmore's men came, they gave me a choice. Either leave the Island or let my daughter die. All I had to do was walk out of the house and go with them. But I didn't do it. So you were right. John, I did kill Alex. And now I have to answer for that. I appreciate you showing me the way, but I think I can take it from here.
+714	00:00:00,000 --> 00:00:00,000	LOCKE	You got it.
+716	00:00:00,000 --> 00:00:00,000	BEN	I'll meet you outside, if I live--Aah!
+718	00:00:00,000 --> 00:00:00,000		[Ben makes a false step and the stone floor collapses underneath him. Ben falls into a chamber below, lit only by the light of his torch. Ben grunts as he lays on the stone floor of the chamber.]
+720	00:00:00,000 --> 00:00:00,000	LOCKE	Ben!
+722	00:00:00,000 --> 00:00:00,000		[Ben groans in reply.]
+724	00:00:00,000 --> 00:00:00,000	LOCKE	Are you all right?
+726	00:00:00,000 --> 00:00:00,000	BEN	[Grunts] Never better.
+728	00:00:00,000 --> 00:00:00,000	LOCKE	Hang on. I'll find something to get you out of there.
+730	00:00:00,000 --> 00:00:00,000	BEN	John, wait!
+732	00:00:00,000 --> 00:00:00,000		[Locke leaves. With a grunt, Ben lifts himself up off the floor. Nothing broken. He finds himself in a room filled with pillars covered in hieroglyphics. He comes to a stone carving on a wall above a stone vent with lots of holes. The chittering of the monster is heard. Suddenly, Ben's torch flame goes out and black smoke begins to ooze out of the holes in the stone. It spreads across the floor around his feet, then forms a tendril and surrounds Ben. Inside the smoke, Ben sees images of Alex.]
+734	00:00:00,000 --> 00:00:00,000	BEN'S VOICE	You didn't tell me she had a child. What was it I was supposed to do?
+736	00:00:00,000 --> 00:00:00,000		[Image of Widmore's face.]
+738	00:00:00,000 --> 00:00:00,000	WIDMORE'S VOICE	Kill it.
+740	00:00:00,000 --> 00:00:00,000	BEN'S VOICE	It's not an "it." This is a child.
+742	00:00:00,000 --> 00:00:00,000		[Image of Ben pushing Alex on a swing.]
+744	00:00:00,000 --> 00:00:00,000	ALEX'S VOICE	Higher! Again, Daddy! Again! [Giggles] Higher! Higher, Daddy!
+746	00:00:00,000 --> 00:00:00,000		[Image of a teenage Alex.]
+748	00:00:00,000 --> 00:00:00,000	ALEX'S VOICE	I hate you! I hate your guts! I wish you were dead.
+750	00:00:00,000 --> 00:00:00,000		[Image of Alex's face.]
+752	00:00:00,000 --> 00:00:00,000	ALEX'S VOICE	These people--you said they're dangerous. More dangerous than you?
+754	00:00:00,000 --> 00:00:00,000		[Image of Alex holding a walkie talkie in front of Keamy.]
+756	00:00:00,000 --> 00:00:00,000	ALEX'S VOICE	[Sobbing] Dad, they're serious. They killed Karl and my mother. Please, Dad. Help me!
+758	00:00:00,000 --> 00:00:00,000	BEN'S VOICE	She's not my daughter. She means nothing to me. So if you wanna kill her, go ahead and--
+760	00:00:00,000 --> 00:00:00,000		[Image of Alex being shot. The smoke recedes back into the vent. The flame is restored to Ben's torch.]
+762	00:00:00,000 --> 00:00:00,000	ALEX	Daddy?
+764	00:00:00,000 --> 00:00:00,000		[Ben whirls around to see Alex standing in the chamber.]
+766	00:00:00,000 --> 00:00:00,000	BEN	Alex.
+768	00:00:00,000 --> 00:00:00,000	ALEX	Hi, Dad.
+770	00:00:00,000 --> 00:00:00,000	BEN	Ohh, Alex. I'm so, so sorry. It was all my fault.
+772	00:00:00,000 --> 00:00:00,000	ALEX	I know.
+774	00:00:00,000 --> 00:00:00,000		[Suddenly Alex grabs Ben by the collar and forces him against a pillar.]
+776	00:00:00,000 --> 00:00:00,000	ALEX	Listen to me, you bastard! I know that you're already planning to kill John again, and I want you to know that if you so much as touch him, I will hunt you down and destroy you. You will listen to every word John Locke says, and you will follow his every order. Do you understand?
+778	00:00:00,000 --> 00:00:00,000		[Ben nods, fear-stricken.]
+780	00:00:00,000 --> 00:00:00,000	ALEX	Say it! Say you'll follow him.
+782	00:00:00,000 --> 00:00:00,000	BEN	Yes, I will. I'll follow him. I swear. [Whimpers]
+784	00:00:00,000 --> 00:00:00,000		[Ben closes his eyes and Alex lets go of him. When he opens his eyes, she is gone. He picks up his torch.]
+786	00:00:00,000 --> 00:00:00,000	LOCKE	[from above] Ben? [throwing a vine down the hole in the floor] Ben! Ben?
+788	00:00:00,000 --> 00:00:00,000		[Ben looks up from the chamber below.]
+790	00:00:00,000 --> 00:00:00,000	LOCKE	What happened?
+792	00:00:00,000 --> 00:00:00,000	BEN	It let me live.

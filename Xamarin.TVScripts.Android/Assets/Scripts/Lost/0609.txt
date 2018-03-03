@@ -1,0 +1,423 @@
+The Package
+2	00:00:00,000 --> 00:00:00,000	Written by	Paul Zbyszewski & Graham Roland
+4	00:00:00,000 --> 00:00:00,000	Directed by	Paul Edwards
+6	00:00:00,000 --> 00:00:00,000		[On-Island - Locke's camp is seen through night vision goggles. Sawyer hands Kate a mug.]
+8	00:00:00,000 --> 00:00:00,000	SAWYER	Want some cocoa?
+10	00:00:00,000 --> 00:00:00,000	KATE	Where'd you find cocoa?
+12	00:00:00,000 --> 00:00:00,000	SAWYER	I didn't. Pretend.
+14	00:00:00,000 --> 00:00:00,000		[Locke approaches Jin, who is bandaging his leg. The night vision switches off.]
+16	00:00:00,000 --> 00:00:00,000	LOCKE	How's the leg?
+18	00:00:00,000 --> 00:00:00,000	JIN	Still hurts.
+20	00:00:00,000 --> 00:00:00,000	LOCKE	You should leave the bandage off for a while. The air'll do it some good.
+22	00:00:00,000 --> 00:00:00,000	JIN	I'll try that.
+24	00:00:00,000 --> 00:00:00,000	LOCKE	You mind if I sit down?
+26	00:00:00,000 --> 00:00:00,000		[Jin nods and Locke sits.]
+28	00:00:00,000 --> 00:00:00,000	LOCKE	I know you and I haven't had time to talk, but I was wondering if James had filled you in on what I showed him at the cliffs?
+30	00:00:00,000 --> 00:00:00,000	JIN	You mean the cave? The one with the names on the wall?
+32	00:00:00,000 --> 00:00:00,000	LOCKE	Most of the names have been crossed off now. There are just a few left. Kwon is one of them.
+34	00:00:00,000 --> 00:00:00,000		[Claire eavesdrops on their conversation.]
+36	00:00:00,000 --> 00:00:00,000	JIN	Does that mean me or Sun?
+38	00:00:00,000 --> 00:00:00,000	LOCKE	Well Jin, I'm not sure. But what it does mean is that the only way we can leave the island is if all the names that haven't been crossed off go together.
+40	00:00:00,000 --> 00:00:00,000	JIN	But, Sun is not here...
+42	00:00:00,000 --> 00:00:00,000	LOCKE	You just take care of that leg. I'm workin' on it.
+44	00:00:00,000 --> 00:00:00,000		[Locke gets up and walks away.]
+46	00:00:00,000 --> 00:00:00,000		[Flash sideways - Sun waits in the airport as Jin cooperates with security.]
+48	00:00:00,000 --> 00:00:00,000	SECURITY OFFICER	Alright Mr. Kwon, here's your suitcase and your watch.
+50	00:00:00,000 --> 00:00:00,000		[Jin waits for a moment.]
+52	00:00:00,000 --> 00:00:00,000	JIN	Money?
+54	00:00:00,000 --> 00:00:00,000	SECURITY OFFICER	I'm sorry, federal law says we have to confiscate the $25,000.
+56	00:00:00,000 --> 00:00:00,000	JIN	Confiscate?
+58	00:00:00,000 --> 00:00:00,000	SECURITY OFFICER	It means that if you want it back, you're gonna have to fill out the necessary paperwork.
+60	00:00:00,000 --> 00:00:00,000	JIN	And... the money...
+62	00:00:00,000 --> 00:00:00,000	SECURITY OFFICER	You can exit right over there, sir.
+64	00:00:00,000 --> 00:00:00,000		[Frustrated, Jin turns to Sun.]
+66	00:00:00,000 --> 00:00:00,000	JIN	ÃªÂ°â‚¬Ã¬Å¾Â. [Subtitle: Let's go.]
+68	00:00:00,000 --> 00:00:00,000	SUN	ÃªÂ´Å“Ã¬Â°Â®Ã¬â€¢â€žÃ¬Å¡â€? [Subtitle: Are you okay?]
+70	00:00:00,000 --> 00:00:00,000	JIN	Ã¬â€¹ÂÃ«â€¹Â¹Ã¬â€”ÂÃ¬â€žÅ“ Ã«Â§Å’Ã«â€šËœÃªÂ¸Â°Ã«Â¡Å“ Ã­â€¢Å“ Ã¬â€¢Â½Ã¬â€ ÂÃ«Ââ€ž Ã«â€ â€œÃ¬Â³Â¤Ã¬Å¾â€“Ã¬â€¢â€ž! [Subtitle: I've missed the meeting at the restaurant.]
+72	00:00:00,000 --> 00:00:00,000	SUN	ÃªÂ·Â¸ Ã«ÂË†Ã¬Ââ‚¬ Ã«Â­ÂÃ¬â€”ÂÃ¬Å¡â€? [Subtitle: What was the money for?]
+74	00:00:00,000 --> 00:00:00,000	JIN	Ã«â€šËœÃ«Ââ€ž Ã«ÂªÂ°Ã«ÂÂ¼. Ã¬Å¡Â°Ã«Â¦Â¬ Ã«Â°â€Ã«Â¡Å“ Ã«â€“Â Ã«â€šËœÃªÂ¸Â° Ã¬Â â€žÃ¬â€”Â Ã¬â€¢â€žÃ«Â²â€žÃ«â€¹ËœÃ¬ÂÂ´ Ã¬â€¹Å“ÃªÂ³â€žÃ­â€¢ËœÃªÂ³ ÃªÂ°â„¢Ã¬ÂÂ´ Ã¬Â â€žÃ­â€¢Â´Ã¬Â£Â¼Ã«ÂÂ¼ÃªÂ³ Ã¬Â£Â¼Ã¬â€¹Â ÃªÂ±Â°Ã¬â€¢Â¼. Ã¬â€¢â€žÃ«Â²â€žÃ«â€¹ËœÃªÂ»Ëœ Ã¬Â§Ë†Ã«Â¬Â¸Ã­â€¢ Ã¬Å¾â€¦Ã¬Å¾Â¥Ã«Ââ€ž Ã¬â€¢â€žÃ«â€¹Ë†ÃªÂ³Â , Ã¬â€¹Å“Ã­â€šÂ¤Ã«Å â€ Ã«Å’â‚¬Ã«Â¡Å“ Ã­â€¢ Ã«Â¿ÂÃ¬ÂÂ´Ã¬â€¢Â¼. [Subtitle: I don't know. Your father gave it to me right before we left. He told me to deliver it with the watch. I don't ask your father questions. I do what he tells me.]
+76	00:00:00,000 --> 00:00:00,000		[Some time later, they approach the front desk at a hotel.]
+78	00:00:00,000 --> 00:00:00,000	CLERK	May I help you?
+80	00:00:00,000 --> 00:00:00,000		[Sun hands him some papers.]
+82	00:00:00,000 --> 00:00:00,000	SUN	Paik.
+84	00:00:00,000 --> 00:00:00,000	CLERK	A reservation for Paik...
+86	00:00:00,000 --> 00:00:00,000		[He checks his computer.]
+88	00:00:00,000 --> 00:00:00,000	CLERK	Yes, I've got it right here. I've got a beautiful oceanview room for you on the eighth floor.
+90	00:00:00,000 --> 00:00:00,000	JIN	Two room. Two! No marry.
+92	00:00:00,000 --> 00:00:00,000	CLERK	Oh...
+94	00:00:00,000 --> 00:00:00,000	JIN	Kwon. Jin-Soo Kwon.
+96	00:00:00,000 --> 00:00:00,000	CLERK	I'm sorry, I apologize... yes, there is a separate room reservation for Kwon. Room 842. Here you go, sir.
+98	00:00:00,000 --> 00:00:00,000		[He hands Jin a room key.]
+100	00:00:00,000 --> 00:00:00,000	CLERK	Miss. Paik, Mr. Kwon... welcome to Los Angeles.
+102	00:00:00,000 --> 00:00:00,000		[On-Island - Locke approaches Sayid, who is chopping wood.]
+104	00:00:00,000 --> 00:00:00,000	LOCKE	I'm leavin' for a little while. I got an errand to run.
+106	00:00:00,000 --> 00:00:00,000	SAYID	When will you be back?
+108	00:00:00,000 --> 00:00:00,000	LOCKE	Morning. Keep an eye on the camp while I'm gone.
+110	00:00:00,000 --> 00:00:00,000		[Locke turns to leave.]
+112	00:00:00,000 --> 00:00:00,000	SAYID	I don't feel anything.
+114	00:00:00,000 --> 00:00:00,000	LOCKE	Excuse me?
+116	00:00:00,000 --> 00:00:00,000	SAYID	Anger. Happiness. Pain. I don't feel it anymore.
+118	00:00:00,000 --> 00:00:00,000	LOCKE	Maybe that's best, Sayid. It'll help you get through what's coming.
+120	00:00:00,000 --> 00:00:00,000		[Locke walks into the jungle. Jin immediately starts gathering his things.]
+122	00:00:00,000 --> 00:00:00,000	SAWYER	What're you doin', Hoss?
+124	00:00:00,000 --> 00:00:00,000	JIN	I'm getting out of here before that thing comes back.
+126	00:00:00,000 --> 00:00:00,000	SAWYER	What thing?
+128	00:00:00,000 --> 00:00:00,000	JIN	Locke. And you're just sitting around here listening to whatever he tells you...
+130	00:00:00,000 --> 00:00:00,000	SAWYER	I ain't listenin' to nobody! I already told you I have a deal with Widmore, so if you just--
+132	00:00:00,000 --> 00:00:00,000	JIN	It doesn't matter who you have a deal with! I've waited long enough. I'm going to find my wife.
+134	00:00:00,000 --> 00:00:00,000	SAWYER	Find her where?
+136	00:00:00,000 --> 00:00:00,000	JIN	Go back to the temple. And if she's not there I'll try the beach. But I will find Sun so stop trying to--
+138	00:00:00,000 --> 00:00:00,000		[Jin is silenced by a tranquilizer dart. Sawyer and the rest of Locke's camp soon follow. Armed men with night vision goggles step out of the jungle and examine the bodies.]
+140	00:00:00,000 --> 00:00:00,000	SEAMUS	Is this the guy?
+142	00:00:00,000 --> 00:00:00,000		[Zoe stares down at Jin.]
+144	00:00:00,000 --> 00:00:00,000	ZOE	Yeah. Let's take him.
+146	00:00:00,000 --> 00:00:00,000		[They lift Jin's unconscious body.]
+148	00:00:00,000 --> 00:00:00,000		[On-Island - Miles and Frank play cards on the beach.]
+150	00:00:00,000 --> 00:00:00,000	MILES	Play your card, captain.
+152	00:00:00,000 --> 00:00:00,000		[Frank throws down a card. Nearby, Ben watches Ilana clean her rifle.]
+154	00:00:00,000 --> 00:00:00,000	BEN	Now what?
+156	00:00:00,000 --> 00:00:00,000	ILANA	We wait.
+158	00:00:00,000 --> 00:00:00,000	BEN	Wait... for what?
+160	00:00:00,000 --> 00:00:00,000	ILANA	For Richard to come back.
+162	00:00:00,000 --> 00:00:00,000	BEN	You'll forgive my skepticism, but... the last thing Richard said before he went stomping off into the jungle was that we were all in Hell and he had no idea what we were supposed to do next! In fact, I would bet money we never see him again!
+164	00:00:00,000 --> 00:00:00,000	ILANA	Hugo will find him. He will track him down and bring him back.
+166	00:00:00,000 --> 00:00:00,000	MILES	Unless Alpert's covered in bacon grease, I'm not sure Hurley can track anything...
+168	00:00:00,000 --> 00:00:00,000	LAPIDUS	Hey, don't talk about bacon.
+170	00:00:00,000 --> 00:00:00,000	ILANA	Jacob has never lied to me before. If he said Richard knows what to do, then Richard knows what to do. He'll come back. And until then, we wait.
+172	00:00:00,000 --> 00:00:00,000		[Sun throws a piece of fruit in anger, then stabs a knife into the table. She storms off.]
+174	00:00:00,000 --> 00:00:00,000		[A few moments later, Jack finds her pulling weeds in her garden.]
+176	00:00:00,000 --> 00:00:00,000	JACK	How are the tomatoes?
+178	00:00:00,000 --> 00:00:00,000	SUN	Dead.
+180	00:00:00,000 --> 00:00:00,000	JACK	I remember when you first planted this here. Feels like a hundred years ago...
+182	00:00:00,000 --> 00:00:00,000		[Sun remains silent.]
+184	00:00:00,000 --> 00:00:00,000	JACK	You don't believe Alpert's coming back, do you?
+186	00:00:00,000 --> 00:00:00,000	SUN	I don't care if he comes back.
+188	00:00:00,000 --> 00:00:00,000	JACK	What about us... being candidates?
+190	00:00:00,000 --> 00:00:00,000	SUN	What about it?
+192	00:00:00,000 --> 00:00:00,000	JACK	Hurley took me to a lighthouse. To Jacob's lighthouse. And there was a mirror. And all around it there were... there were hundreds of names written down.
+194	00:00:00,000 --> 00:00:00,000	SUN	I don't care. I don't care about Alpert, or being a candidate.
+196	00:00:00,000 --> 00:00:00,000	JACK	Sun... there was a reason why we were--
+198	00:00:00,000 --> 00:00:00,000	SUN	I don't want to hear about how this is our purpose or destiny! I just want you to go away and leave me alone!
+200	00:00:00,000 --> 00:00:00,000		[Jack walks away as Sun cries.]
+202	00:00:00,000 --> 00:00:00,000		[Flash sideways - Jin knocks on the door of Sun's hotel room, she answers.]
+204	00:00:00,000 --> 00:00:00,000	SUN	Ã¬Â§â€žÃ¬Ë†Ëœ Ã¬â€Â¨... Ã«Â­ÂÃ­â€¢ËœÃ«Å â€ ÃªÂ±Â°Ã¬â€”ÂÃ¬Å¡â€? [Subtitle: Jin... what are you doing?]
+206	00:00:00,000 --> 00:00:00,000		[He is carrying the watch from her father.]
+208	00:00:00,000 --> 00:00:00,000	JIN	Ã¬ÂÂ´ Ã¬â€¹Å“ÃªÂ³â€žÃ«Â¥Â¼ Ã¬Â â€žÃ­â€¢ËœÃ«Å¸Â¬ Ã¬ÂÂ´Ã«Â â€¡ÃªÂ²Å’ Ã«Â©â‚¬Ã«Â¦Â¬ÃªÂ¹Å’Ã¬Â§â‚¬ Ã¬â„¢â€Ã«Å â€Ã«ÂÂ°... Ã¬â€¹ÂÃ«â€¹Â¹Ã¬â€”Ëœ ÃªÂ°â‚¬ Ã«Â´ÂÃ¬â€¢Â¼ÃªÂ²Â Ã¬â€“Â´. [Subtitle: Your father sent me halfway around the world to deliver the watch... so I'm going to the restaurant.]
+210	00:00:00,000 --> 00:00:00,000	SUN	Ã«â€œÂ¤Ã¬â€“Â´Ã¬ËœÂ¤Ã¬Â§â‚¬ Ã¬â€¢Å Ã¬Ââ€žÃ«Å¾ËœÃ¬Å¡â€? Ã¬ÂÂ´Ã«Å¸Â° Ã¬â€“ËœÃªÂ¸Â° Ã¬â€”Â¬ÃªÂ¸Â°Ã¬â€žÅ“ Ã­â€¢ËœÃªÂ³Â Ã¬â€¹Â¶Ã¬Â§â‚¬ Ã¬â€¢Å Ã¬â€¢â€žÃ¬Å¡â€. [Subtitle: Will you come inside? I don't want to have this conversation here.]
+212	00:00:00,000 --> 00:00:00,000		[Jin enters the room.]
+214	00:00:00,000 --> 00:00:00,000	SUN	Ã¬Â§â‚¬ÃªÂ¸Ë† Ã¬â€”Â´Ã­â€¢Å“Ã¬â€¹Å“ Ã«Â°ËœÃ¬ÂÂ´Ã¬â€”ÂÃ¬Å¡â€. Ã¬ÂÂ´ Ã¬â€¹Å“ÃªÂ°â€žÃ¬â€”Â Ã«Ë†â€žÃªÂ°â‚¬ Ã¬â€¹ÂÃ«â€¹Â¹Ã¬â€”Â Ã¬Å¾Ë†ÃªÂ²Â Ã¬â€“Â´Ã¬Å¡â€? [Subtitle: It's eleven-thirty. No one's going to be at the restaurant.]
+216	00:00:00,000 --> 00:00:00,000	JIN	ÃªÂ·Â¸Ã«Å¾ËœÃ«Ââ€ž ÃªÂ°â‚¬Ã«Â³Â´ÃªÂ¸Â´ Ã­â€¢Â´Ã¬â€¢Â¼Ã¬Â§â‚¬. [Subtitle: I should still try...]
+218	00:00:00,000 --> 00:00:00,000	SUN	Ã¬Â§â€žÃ¬Ë†Ëœ Ã¬â€Â¨. ÃªÂ·Â¸ Ã¬â€šÂ¬Ã«Å¾Å’, Ã¬Å¡Â°Ã«Â¦Â¬ Ã¬â€¢â€žÃ«Â¹ Ã¬Â§ÂÃ¬â€ºÂÃ¬ÂÂ´Ã¬â€”ÂÃ¬Å¡â€. ÃªÂ·Â¸Ã«Â â€¡ÃªÂ²Å’ ÃªÂ±Â±Ã¬Â â€¢Ã­â€¢ Ã­â€¢â€žÃ¬Å¡â€ÃªÂ°â‚¬ Ã¬â€”â€ Ã¬â€“Â´Ã¬Å¡â€. [Subtitle: Jin... this man works for my father. It's not going to be a problem.]
+220	00:00:00,000 --> 00:00:00,000	JIN	Ã«Â¬Â´Ã¬Å Â¨ Ã¬Æ’ÂÃªÂ´â‚¬Ã¬ÂÂ´Ã¬â€¢Â¼. Ã¬Å¾ÂÃªÂ¸Â´ Ã¬â€”Â¬ÃªÂ¸Â° Ã¬â€¡Â¼Ã­â€¢â€˜Ã«Â§Å’ Ã­â€¢ËœÃ«Å¸Â¬ Ã¬ËœÂ¨ ÃªÂ±Â° Ã¬â€¢â€žÃ«â€¹Ë†Ã¬â€¢Â¼? [Subtitle: What do you care? You're here for a shopping trip.]
+222	00:00:00,000 --> 00:00:00,000	SUN	Ã«â€šËœÃ¬â€”Â Ã«Å’â‚¬Ã­â€¢Â´Ã¬â€žÅ“ ÃªÂ·Â¸Ã«Â â€¡ÃªÂ²Å’Ã«Â°â€“Ã¬â€”Â Ã¬Æ’ÂÃªÂ°Â Ã«ÂªÂ»Ã­â€¢Â´Ã¬Å¡â€? Ã«â€šÂ´ÃªÂ°â‚¬ ÃªÂ·Â¸Ã«Æ’Â¥ Ã¬â€”Â¬ÃªÂ¸Â° Ã¬â€¡Â¼Ã­â€¢â€˜Ã­â€¢ËœÃ«Å¸Â¬ Ã¬ËœÂ¨ ÃªÂ²Æ’ ÃªÂ°â„¢Ã¬â€¢â€ž? [Subtitle: So that's all you think of me? That I'm here to shop?]
+224	00:00:00,000 --> 00:00:00,000	JIN	Ã¬â€¢â€žÃ«â€¹Å’ÃªÂ°â‚¬? [Subtitle: No...]
+226	00:00:00,000 --> 00:00:00,000		[Sun unbuttons the top button of her blouse.]
+228	00:00:00,000 --> 00:00:00,000	SUN	Ã¬â„¢Å“? Ã«â€¹Â¨Ã¬Â¶â€ Ã¬Â±â€žÃ¬Å¡Â°Ã«ÂÂ¼ÃªÂ³ Ã­â€¢ËœÃ¬Â§â‚¬ ÃªÂ·Â¸Ã«Å¾Ëœ? ÃªÂ¸Â°Ã«â€šÂ´ Ã¬â€¢Ë†Ã¬â€”ÂÃ¬â€žÅ“ Ã­â€“Ë†Ã«ÂËœ ÃªÂ²Æ’ Ã¬Â²ËœÃ«Å¸Â¼? [Subtitle: Maybe you should tell me to button it... like you did on the plane?]
+230	00:00:00,000 --> 00:00:00,000	JIN	Ã¬â€šÂ¬Ã«Å¾Å’Ã«â€œÂ¤Ã¬ÂÂ´ Ã«Â§Å½Ã¬â€¢ËœÃ¬Å¾â€“Ã¬â€¢â€ž. Ã«Ë†â€žÃªÂµÂ°ÃªÂ°â‚¬ Ã¬Å¡Â°Ã«Â¦Â¬Ã«Â¥Â¼ Ã«Â³Â´ÃªÂ³ Ã¬Å¾Ë†Ã¬Ââ€žÃ¬Ë†ËœÃ«Ââ€ž Ã¬Å¾Ë†ÃªÂ³Â . [Subtitle: It was a crowded flight... I didn't know who might be watching us.]
+232	00:00:00,000 --> 00:00:00,000	SUN	Ã¬Å¡Â°Ã«Â¦Â´ Ã«Â³Â´Ã«Å â€ Ã¬â€šÂ¬Ã«Å¾Å’Ã¬Ââ‚¬ Ã¬â€¢â€žÃ«Â¬Â´Ã«Ââ€ž Ã¬â€”â€ Ã¬â€“Â´. ÃªÂ·Â¸Ã«Å¾ËœÃ¬â€žÅ“... Ã«â€¹Â¨Ã¬Â¶â€Ã«Â¥Â¼ Ã¬Â±â€žÃ¬Å¡Â°Ã«ÂÂ¼Ã«Å â€ ÃªÂ±Â°Ã¬â€¢Â¼, Ã«Â§ÂÃ«ÂÂ¼Ã«Å â€ ÃªÂ±Â°Ã¬â€¢Â¼? [Subtitle: No one is watching us. So... do you want me to button it?]
+234	00:00:00,000 --> 00:00:00,000	JIN	Ã¬â€¢â€žÃ«â€¹Ë†. [Subtitle: No.]
+236	00:00:00,000 --> 00:00:00,000		[Sun unbuttons a second button.]
+238	00:00:00,000 --> 00:00:00,000	SUN	ÃªÂ·Â¸Ã«Å¸Â¼... Ã¬ÂÂ´ÃªÂ±Â°Ã«Å â€Ã¬Å¡â€? [Subtitle: What about... this one?
+240	00:00:00,000 --> 00:00:00,000	JIN	Ã¬â€¢â€žÃ«â€¹Ë†Ã¬Â§â‚¬. [Subtitle: No.]
+242	00:00:00,000 --> 00:00:00,000		[Sun unbuttons the final button.]
+244	00:00:00,000 --> 00:00:00,000	SUN	Ã¬ÂÂ´ÃªÂ²Æ’Ã«Ââ€ž? [Subtitle: And this one?]
+246	00:00:00,000 --> 00:00:00,000	JIN	ÃªÂ·Â¸ÃªÂ±Â´... Ã«â€¹Â¹Ã¬â€”Â°Ã­Å¾Ë† Ã¬â€¢â€žÃ«â€¹Ë†Ã¬Â§â‚¬. [Subtitle: No... definitely not that one.]
+248	00:00:00,000 --> 00:00:00,000		[Sun removes her blouse. They kiss passionately.]
+250	00:00:00,000 --> 00:00:00,000		[On-Island - Sun continues pulling weeds in her garden, she cuts her hand.]
+252	00:00:00,000 --> 00:00:00,000	LOCKE	Sun...
+254	00:00:00,000 --> 00:00:00,000		[Sun is startled.]
+256	00:00:00,000 --> 00:00:00,000	LOCKE	I'm sorry. I didn't mean to startle you. Bad day?
+258	00:00:00,000 --> 00:00:00,000	SUN	What are you doing here?
+260	00:00:00,000 --> 00:00:00,000	LOCKE	I found your husband.
+262	00:00:00,000 --> 00:00:00,000	SUN	What?
+264	00:00:00,000 --> 00:00:00,000	LOCKE	I promised you I would reunite you two... took me a little longer than I thought it would... but he's with my people, back at my camp across the island. I can take you to him right now.
+266	00:00:00,000 --> 00:00:00,000	SUN	I don't believe you. You killed those people at the temple.
+268	00:00:00,000 --> 00:00:00,000	LOCKE	Those people were confused. They were lied to. I didn't want to hurt them. Any one of them could have chosen to come with me. And I'm giving you that choice, Sun... right now. I would never make you do anything against your will. I'm asking you. Please. Come with me. Jin is waiting.
+270	00:00:00,000 --> 00:00:00,000		[Sun runs away.]
+272	00:00:00,000 --> 00:00:00,000	LOCKE	Sun!
+274	00:00:00,000 --> 00:00:00,000		[Locke chases after her.]
+276	00:00:00,000 --> 00:00:00,000	LOCKE	Sun, wait!
+278	00:00:00,000 --> 00:00:00,000		[On-Island - Sun continues to run from Locke. She looks behind and slams into a tree.]
+280	00:00:00,000 --> 00:00:00,000		[Flash sideways - Sun wakes in bed next to Jin.]
+282	00:00:00,000 --> 00:00:00,000	SUN	Ã¬Â¢â€¹Ã¬Ââ‚¬ Ã¬Æ’ÂÃªÂ°ÂÃ¬ÂÂ´ Ã¬Å¾Ë†Ã¬â€“Â´Ã¬Å¡â€. [Subtitle: I've got an idea...]
+284	00:00:00,000 --> 00:00:00,000	JIN	Ã«Â­â€Ã«ÂÂ°? [Subtitle: What's that?]
+286	00:00:00,000 --> 00:00:00,000	SUN	Ã¬Å¡Â°Ã«Â¦Â¬ Ã«Ââ€žÃ«Â§ÂÃªÂ°â‚¬Ã¬Å¡â€. [Subtitle: Let's run away.]
+288	00:00:00,000 --> 00:00:00,000	JIN	Ã«Â­Â? [Subtitle: What?]
+290	00:00:00,000 --> 00:00:00,000	SUN	Ã«â€ ÂÃ«â€¹Â´ Ã¬â€¢â€žÃ«â€¹Ë†Ã¬â€¢Â¼. ÃªÂ°â„¢Ã¬ÂÂ´ Ã«Ââ€žÃ«Â§ÂÃªÂ°â‚¬Ã¬Å¡â€. [Subtitle: I'm serious. Let's run away.]
+292	00:00:00,000 --> 00:00:00,000	JIN	Ã«ÂË†Ã«Ââ€ž Ã¬â€”â€ Ã¬ÂÂ´ Ã¬â€“Â´Ã«â€“Â»ÃªÂ²Å’? [Subtitle: How could we do that?]
+294	00:00:00,000 --> 00:00:00,000	SUN	Ã«â€šÂ´ Ã¬â€¢Å¾Ã¬Å“Â¼Ã«Â¡Å“ Ã«ÂÅ“ ÃªÂ³â€žÃ¬Â¢Å’ÃªÂ°â‚¬ Ã¬Å¾Ë†Ã¬â€“Â´Ã¬Å¡â€. [Subtitle: I've got an account.]
+296	00:00:00,000 --> 00:00:00,000		[Jin gets out of bed, troubled.]
+298	00:00:00,000 --> 00:00:00,000	JIN	Ã¬â€¢â€žÃ«â€¹Ë†, Ã¬ÂÂ´ÃªÂ²Å’ Ã«â€¹Â¤ Ã¬Â²ËœÃ¬ÂÅ’Ã«Â¶â‚¬Ã­â€žÂ° ÃªÂ³â€žÃ­Å¡ÂÃ­â€¢Å“ÃªÂ±Â°Ã¬â€¢Â¼? [Subtitle: This was your plan all along?]
+300	00:00:00,000 --> 00:00:00,000	SUN	Ã­â„¢â€Ã«â€šÂ¬Ã¬â€“Â´Ã¬Å¡â€? [Subtitle: Are you angry?]
+302	00:00:00,000 --> 00:00:00,000	JIN	Ã¬â€¢â€žÃ«â€¹Ë†... ÃªÂ·Â¸Ã«Â â€¡Ã¬Â§â‚¬Ã«Â§Å’ ÃªÂ·Â¸ÃªÂ±Â´ Ã«Â§ÂÃ«Ââ€ž Ã¬â€¢Ë†Ã«ÂÂ¼. [Subtitle: No... but what you're saying... it's forbidden.]
+304	00:00:00,000 --> 00:00:00,000	SUN	Ã«â€šÂ´ÃªÂ°â‚¬ Ã«Â¬Â»Ã«Å â€ Ã«Â§ÂÃ¬â€”ÂÃ«Â§Å’ Ã«Å’â‚¬Ã«â€¹ÂµÃ­â€¢Â´Ã¬Å¡â€. Ã«â€š Ã¬â€šÂ¬Ã«Å¾â€˜Ã­â€¢Â´Ã¬Å¡â€? [Subtitle: Do you want to be with me or not?]
+306	00:00:00,000 --> 00:00:00,000	JIN	Ã¬Å¾ÂÃªÂ¸Â° Ã¬Å¾Ëœ Ã¬â€¢Å’Ã¬Å¾â€“Ã¬â€¢â€ž, Ã«â€šÂ´ÃªÂ°â‚¬ Ã¬â€“Â¼Ã«Â§Ë†Ã«â€šËœ Ã¬â€šÂ¬Ã«Å¾â€˜Ã­â€¢ËœÃ«Å â€Ã¬Â§â‚¬. [Subtitle: Of course I do. I love you.]
+308	00:00:00,000 --> 00:00:00,000	SUN	Ã¬Â¢â€¹Ã¬â€¢â€žÃ¬Å¡â€. Ã«â€¹Â¹Ã¬â€¹Â Ã¬ÂÂ´ Ã¬â€¢Å’Ã¬â€¢â€žÃ¬â€¢Â¼ Ã«Â ÃªÂ²Å’ Ã¬Å¾Ë†Ã¬â€“Â´Ã¬Å¡â€. [Subtitle: Good. Then there's something you need to know...]
+310	00:00:00,000 --> 00:00:00,000		[A knock at the door startles them.]
+312	00:00:00,000 --> 00:00:00,000	JIN	Ã«Ë†â€žÃªÂµÂ¬Ã¬Â§â‚¬? [Subtitle: Who is that?]
+314	00:00:00,000 --> 00:00:00,000	SUN	ÃªÂ¸â‚¬Ã¬Å½â€žÃ¬Å¡â€. Ã¬â€šÂ¬Ã¬ÂÂ¸Ã¬Ââ€ž ÃªÂ±Â¸Ã¬â€“Â´Ã«â€ Â¨Ã«Å â€Ã«ÂÂ°? [Subtitle: I don't know. I put out the sign...]
+316	00:00:00,000 --> 00:00:00,000	JIN	Ã¬Å¾â€Ã«â€¹Â¤ÃªÂ³ ÃªÂ·Â¸Ã«Æ’Â¥ Ã«Â³Â´Ã«â€šÂ´. [Subtitle: Tell them you're sleeping.]
+318	00:00:00,000 --> 00:00:00,000		[Jin hides in the bathroom. Sun checks herself out in the mirror and gets lost in a meaningful look, a second round of knocking brings her back to reality, she opens the door.]
+320	00:00:00,000 --> 00:00:00,000	KEAMY	Miss Paik? Hi. I'm, uh... Martin Keamy.
+322	00:00:00,000 --> 00:00:00,000		[Sun doesn't recognize him.]
+324	00:00:00,000 --> 00:00:00,000	KEAMY	I'm a friend of your father's.
+326	00:00:00,000 --> 00:00:00,000		[Sun does not reply.]
+328	00:00:00,000 --> 00:00:00,000	KEAMY	Mind if I come in? I believe you got something for me...
+330	00:00:00,000 --> 00:00:00,000		[He steps past her into the room.]
+332	00:00:00,000 --> 00:00:00,000		[On-Island - Sun lays unconscious in the jungle. Ben stumbles upon her and attempts to rouse her.]
+334	00:00:00,000 --> 00:00:00,000	BEN	Sun? Sun, can you hear me?
+336	00:00:00,000 --> 00:00:00,000		[Sun groans and sits up.]
+338	00:00:00,000 --> 00:00:00,000	BEN	What happened? You alright?
+340	00:00:00,000 --> 00:00:00,000	SUN	ÃªÂ·Â¸ Ã¬â€šÂ¬Ã«Å¾Å’ Ã¬â€“Â´Ã«â€â€ Ã¬Å¾Ë†Ã¬â€“Â´Ã¬Å¡â€? [Subtitle: Where is he?]
+342	00:00:00,000 --> 00:00:00,000	BEN	I'm sorry, what?
+344	00:00:00,000 --> 00:00:00,000	SUN	Ã«â€š Ã¬Â«â€œÃ¬â€¢â€ž Ã¬â„¢â€Ã«Å â€Ã«ÂÂ°... ÃªÂ·Â¸ Ã¬â€šÂ¬Ã«Å¾Å’... Ã«Â¶â€žÃ«Âªâ€¦Ã­Å¾Ë† Ã¬â„¢â€Ã¬â€“Â´Ã¬Å¡â€. ÃªÂ·Â¸ Ã¬â€šÂ¬Ã«Å¾Å’... [Subtitle: He was chasing me... he was here... I saw him. He was--]
+346	00:00:00,000 --> 00:00:00,000	BEN	Slow down. Tell me what happened in English. Who did this to you?
+348	00:00:00,000 --> 00:00:00,000	SUN	Locke.
+350	00:00:00,000 --> 00:00:00,000		[Across the Island, Locke returns to his camp and finds his people still unconscious. He pulls a dart out of Sayid and wakes him.]
+352	00:00:00,000 --> 00:00:00,000	LOCKE	Sayid! Sayid, hey! What happened?
+354	00:00:00,000 --> 00:00:00,000	SAYID	We were attacked.
+356	00:00:00,000 --> 00:00:00,000	LOCKE	By whom?
+358	00:00:00,000 --> 00:00:00,000	SAYID	I don't know.
+360	00:00:00,000 --> 00:00:00,000	LOCKE	Where is Jin?
+362	00:00:00,000 --> 00:00:00,000		[On Hydra Island, Jin wakes in Room 23. He attempts to open the door but it won't budge, he bangs on it.]
+364	00:00:00,000 --> 00:00:00,000	JIN	Hey! Hey!
+366	00:00:00,000 --> 00:00:00,000		[No one comes to his aid, he flips a switch and the brainwashing video begins to play, he turns it off.]
+368	00:00:00,000 --> 00:00:00,000	ZOE	Well... that was weird, huh?
+370	00:00:00,000 --> 00:00:00,000	JIN	Where am I?
+372	00:00:00,000 --> 00:00:00,000	ZOE	It's called Room 23. The DHARMA Initiative was doing experiments on subliminal messaging in here. But... you know all about the DHARMA Initiative... don't you, Mr. Kwon?
+374	00:00:00,000 --> 00:00:00,000	JIN	Why did you bring me here?
+376	00:00:00,000 --> 00:00:00,000	ZOE	Relax. You're safe.
+378	00:00:00,000 --> 00:00:00,000	JIN	I'm leaving.
+380	00:00:00,000 --> 00:00:00,000		[Zoe sighs and hits him with a taser, he slumps to the floor.]
+382	00:00:00,000 --> 00:00:00,000	ZOE	Sorry, but we went to a lot of trouble getting you here off of the other island. And I can't let you leave.
+384	00:00:00,000 --> 00:00:00,000	JIN	What do you want from me?
+386	00:00:00,000 --> 00:00:00,000		[Zoe produces a map.]
+388	00:00:00,000 --> 00:00:00,000	ZOE	These are grid maps that the...the DHARMA people used to identify pockets of electromagnetism. Whoever signed these could really help me out. I know... I know the writing's diffcult to read but... but sure looks like it says Jin Soo-Kwon. So, is it you or isn't it?
+390	00:00:00,000 --> 00:00:00,000	JIN	You want answers to your questions? Then get me your boss. I want to talk with Charles Widmore.
+392	00:00:00,000 --> 00:00:00,000	ZOE	Well... then you're in luck, Mr. Kwon. Because he'd like to talk to you too.
+394	00:00:00,000 --> 00:00:00,000		[Back on the main Island, Locke talks with Sayid.]
+396	00:00:00,000 --> 00:00:00,000	LOCKE	You a good swimmer?
+398	00:00:00,000 --> 00:00:00,000	SAYID	Good enough.
+400	00:00:00,000 --> 00:00:00,000		[Locke hands him a pistol.]
+402	00:00:00,000 --> 00:00:00,000	LOCKE	Wrap this in plastic, you don't want it to get wet. We're taking the outrigger.
+404	00:00:00,000 --> 00:00:00,000		[Sayid takes the gun and walks away. Locke notices Claire watching him.]
+406	00:00:00,000 --> 00:00:00,000	LOCKE	Something wrong, Claire?
+408	00:00:00,000 --> 00:00:00,000		[She stands up and moves closer to him.]
+410	00:00:00,000 --> 00:00:00,000	CLAIRE	Um... what, what you said to Jin... about the names on the wall? Told him you needed them all to get off the island?
+412	00:00:00,000 --> 00:00:00,000	LOCKE	Yes I did.
+414	00:00:00,000 --> 00:00:00,000	CLAIRE	So... was my name on the wall?
+416	00:00:00,000 --> 00:00:00,000	LOCKE	No.
+418	00:00:00,000 --> 00:00:00,000	CLAIRE	Then... it doesn't matter if I get on that plane then. I mean you don't, you don't need me--
+420	00:00:00,000 --> 00:00:00,000	LOCKE	No. That's not true, Claire. I need you.
+422	00:00:00,000 --> 00:00:00,000		[Claire sits beside Locke.]
+424	00:00:00,000 --> 00:00:00,000	LOCKE	And there's plenty of room on that plane for all of us.
+426	00:00:00,000 --> 00:00:00,000	CLAIRE	Now when we go home, Aaron's not going to know me. Stranger to my own son. He thinks Kate's his mother. Was her name on the wall?
+428	00:00:00,000 --> 00:00:00,000	LOCKE	No, Claire... it isn't. Not anymore. But I need Kate.
+430	00:00:00,000 --> 00:00:00,000	CLAIRE	Why?
+432	00:00:00,000 --> 00:00:00,000	LOCKE	Because I'm three people shy of getting off this island and Kate can help me get these people on that plane. But... once she does... then whatever happens, happens.
+434	00:00:00,000 --> 00:00:00,000		[Locke gets up and walks away, Sayid joins him.]
+436	00:00:00,000 --> 00:00:00,000	SAWYER	What's up with the guns? You two goin' somewhere?
+438	00:00:00,000 --> 00:00:00,000	LOCKE	We're taking a boat ride over to the other island.
+440	00:00:00,000 --> 00:00:00,000	SAWYER	What do you need a boat for? Can't you just turn into smoke and fly your ass over the water?
+442	00:00:00,000 --> 00:00:00,000	LOCKE	Do you think if I could do that I would still be on this island?
+444	00:00:00,000 --> 00:00:00,000	SAWYER	No, 'cause that would be ridiculous... what the hell are you goin' over there for anyway? Thought you were tryin' to avoid Charlie Widmore.
+446	00:00:00,000 --> 00:00:00,000	LOCKE	They took one of our people, James. So I'm going to get him back.
+448	00:00:00,000 --> 00:00:00,000		[Flash sideways - Keamy enters the hotel bedroom. Sun hands him a box which he opens to find a watch.]
+450	00:00:00,000 --> 00:00:00,000	KEAMY	Is this for me? Wow this is really nice. Hmm. Your bodyguard is supposed to give me some money. Where's Mr. Kwon?
+452	00:00:00,000 --> 00:00:00,000	SUN	No English.
+454	00:00:00,000 --> 00:00:00,000		[There is a knock on the door.]
+456	00:00:00,000 --> 00:00:00,000	KEAMY	Sit down.
+458	00:00:00,000 --> 00:00:00,000		[He opens the door, Omar enters.]
+460	00:00:00,000 --> 00:00:00,000	OMAR	I checked his room, he's not there.
+462	00:00:00,000 --> 00:00:00,000	KEAMY	Check the bathroom.
+464	00:00:00,000 --> 00:00:00,000		[Omar opens the bathroom door and sees Jin.]
+466	00:00:00,000 --> 00:00:00,000	OMAR	Come on, let's go.
+468	00:00:00,000 --> 00:00:00,000	KEAMY	Mr. Kwon! Why don't you come and join us? Look, thank you for the watch, okay, but you're also supposed to give me an envelope with money in it. Twenty-five thousand dollars. Yeah?
+470	00:00:00,000 --> 00:00:00,000	JIN	ÃªÂ·Â¸Ã«Å¸Â¼ Ã¬â€“Â´Ã«â€“Â»ÃªÂ²Å’ Ã­â€¢Â´? [Subtitle: What can we do?]
+472	00:00:00,000 --> 00:00:00,000	SUN	Ã¬Å¡Â°Ã«Â¦Â¬ Ã«ÂË†Ã¬Ââ€ž Ã¬Â¢â‚¬ Ã¬Â£Â¼Ã«Â©Â´ Ã¬â€¢Ë†Ã«ÂÂ ÃªÂ¹Å’? [Subtitle: We'll give him some of our money.]
+474	00:00:00,000 --> 00:00:00,000	JIN	Ã«â€ Ë†Ã­â€¢Å“Ã­â€¦Å’ Ã«ÂË†Ã¬Ââ€ž Ã¬Â£Â¼Ã¬Å¾ÂÃªÂ³Â ? [Subtitle: You want us to pay him?]
+476	00:00:00,000 --> 00:00:00,000	KEAMY	[inaudible mumbling imitating Korean] Stop it. I feel like I'm in a damn Godzilla movie. What's that guy's name, the uhhh Russian guy, speaks like nine different languages, uhhh uhhh Danny's friend?
+478	00:00:00,000 --> 00:00:00,000	OMAR	Mikhail.
+480	00:00:00,000 --> 00:00:00,000	KEAMY	Mikhail. He speak Korean?
+482	00:00:00,000 --> 00:00:00,000	OMAR	Think so.
+484	00:00:00,000 --> 00:00:00,000	KEAMY	Go get him. [to Sun] Now put your damn clothes on.
+486	00:00:00,000 --> 00:00:00,000		[Some time later in the hotel room, Mikhail is present.]
+488	00:00:00,000 --> 00:00:00,000	SUN	ÃªÂ·Â¸ Ã«ÂË†Ã¬Ââ‚¬ Ã¬â€žÂ¸ÃªÂ´â‚¬Ã¬â€”ÂÃ¬â€žÅ“ Ã¬â€¢â€¢Ã«Â¥ËœÃ«â€¹Â¹Ã­â€“Ë†Ã¬Â§â‚¬Ã«Â§Å’, Ã«â€šËœÃ­â€¢Å“Ã­â€¦Å’ Ã«ÂË†Ã¬ÂÂ´ Ã¬Å¾Ë†Ã¬â€“Â´Ã¬Å¡â€. [Subtitle: The money was confiscated at customs. But I have money.]
+490	00:00:00,000 --> 00:00:00,000	MIKHAIL	She says the money her father gave them was taken at customs.
+492	00:00:00,000 --> 00:00:00,000	KEAMY	It's not my problem.
+494	00:00:00,000 --> 00:00:00,000	SUN	ÃªÂ°â„¢Ã¬ÂÂ´ Ã¬Ââ‚¬Ã­â€“â€°Ã¬â€”Â ÃªÂ°â‚¬Ã«Â©Â´ Ã«â€šÂ´ÃªÂ°â‚¬ Ã«ÂË†Ã¬Ââ€ž Ã¬Â°Â¾Ã¬â€¢â€žÃ¬Â¤â€žÃªÂ²Å’Ã¬Å¡â€. [Subtitle: Let us go to the bank, and I'll give it to you.]
+496	00:00:00,000 --> 00:00:00,000	MIKHAIL	She wants you to let them please go to the bank, they will get it for you.
+498	00:00:00,000 --> 00:00:00,000		[Keamy takes a moment to think.]
+500	00:00:00,000 --> 00:00:00,000	KEAMY	You take her to the bank, I'll take Casanova here to the restaurant, then we'll meet there.
+502	00:00:00,000 --> 00:00:00,000	MIKHAIL	Ã¬Â§â€žÃ¬Ë†ËœÃ«Å â€ Ã«â€šËœÃ¬Â¤â€˜Ã¬â€”Â Ã«Â³Â´ÃªÂ¸Â°Ã«Â¡Å“ Ã­â€¢ËœÃ¬Â£Â . [Subtitle: He'll take Jin to the restaurant.]
+504	00:00:00,000 --> 00:00:00,000	JIN	Ã¬Â â‚¬Ã­ÂÂ¬... Ã«â€˜Â Ã¬â€šÂ¬Ã«Å¾Å’Ã¬â€”Â Ã«Å’â‚¬Ã­â€¢Â´Ã¬â€žÅ“Ã«Å â€ Ã«Â¯Â¸Ã¬Å Â¤Ã­â€žÂ° Ã«Â°Â±ÃªÂ»Ëœ Ã«Â¹â€žÃ«Â°â‚¬Ã«Â¡Å“ Ã­â€¢Â´Ã¬Â£Â¼Ã¬â€¹Â­Ã¬â€¹Å“Ã¬ËœÂ¤. Ã«Â¶â‚¬Ã­Æ’ÂÃ«â€œÅ“Ã«Â¦Â½Ã«â€¹Ë†Ã«â€¹Â¤. [Subtitle: Please, you must promise not to tell Mr. Paik about us. Please.]
+506	00:00:00,000 --> 00:00:00,000	KEAMY	What's he whining about?
+508	00:00:00,000 --> 00:00:00,000	MIKHAIL	He wants you to promise that you won't tell her father that they are involved.
+510	00:00:00,000 --> 00:00:00,000	KEAMY	Oh. Hey, don't worry about that. Okay, your secret, it's safe with me. Okay? Just bring me the money and then we could all live happily ever after, right?
+512	00:00:00,000 --> 00:00:00,000		[Mikhail leads Sun towards the door.]
+514	00:00:00,000 --> 00:00:00,000		[On-Island - Jack is examining Sun's head injury. Ilana has a suspicious look on her face.]
+516	00:00:00,000 --> 00:00:00,000	BEN	What? Oh, for the fourth time, I was gathering mangoes and she was already unconscious when I found her. Why won't you believe me?
+518	00:00:00,000 --> 00:00:00,000	ILANA	Because you're speaking.
+520	00:00:00,000 --> 00:00:00,000	JACK	You got a pretty descent size bump, might be a slight concussion. You can understand what I'm saying?
+522	00:00:00,000 --> 00:00:00,000		[Sun nods.]
+524	00:00:00,000 --> 00:00:00,000	JACK	But you can only speak Korean.
+526	00:00:00,000 --> 00:00:00,000	SUN	Ã«Â§Å¾Ã¬â€¢â€žÃ¬Å¡â€. [Subtitle: That's right.]
+528	00:00:00,000 --> 00:00:00,000	MILES	She hits her head and forgets English? Are we supposed to buy that?
+530	00:00:00,000 --> 00:00:00,000	LAPIDUS	Asks the man who communes with the dead.
+532	00:00:00,000 --> 00:00:00,000	JACK	It might be aphasia. It's um, a condition that's caused by trauma and it affects the language center of your brain. It's usually temporary. Sun, You're gonna be okay.
+534	00:00:00,000 --> 00:00:00,000		[Ilana smiles.]
+536	00:00:00,000 --> 00:00:00,000	MILES	What are you smiling about?
+538	00:00:00,000 --> 00:00:00,000		[We see Richard walk toward them with Hurley.]
+540	00:00:00,000 --> 00:00:00,000	RICHARD	Pack your bags, we're leaving.
+542	00:00:00,000 --> 00:00:00,000		[On Hydra Island, we see Locke get off the outrigger and walk toward the sonic pylons. There is gunfire. Widmore's men jump out of the bushes.]
+544	00:00:00,000 --> 00:00:00,000	MEN	DON'T MOVE!!
+546	00:00:00,000 --> 00:00:00,000	SEAMUS	Let me see your hands!
+548	00:00:00,000 --> 00:00:00,000		[He shows his hands.]
+550	00:00:00,000 --> 00:00:00,000	LOCKE	Easy, friend, I come in peace.
+552	00:00:00,000 --> 00:00:00,000		[Locke walks down the beach and he sees Widmore emerge from the tree line.]
+554	00:00:00,000 --> 00:00:00,000	WIDMORE	Do you know who I am?
+556	00:00:00,000 --> 00:00:00,000	LOCKE	Charles Widmore. Do you know who I am?
+558	00:00:00,000 --> 00:00:00,000	WIDMORE	Obviously you're not John Locke. Everything else I know is a combination of myth, ghost stories, and jungle noises in the night.
+560	00:00:00,000 --> 00:00:00,000	LOCKE	I think you know more than that judging by these pylons.
+562	00:00:00,000 --> 00:00:00,000	WIDMORE	Why did you come here?
+564	00:00:00,000 --> 00:00:00,000	LOCKE	You took one of my people, Jin Kwon.
+566	00:00:00,000 --> 00:00:00,000	WIDMORE	I have no idea what you're talking about.
+568	00:00:00,000 --> 00:00:00,000		[There is a pause.]
+570	00:00:00,000 --> 00:00:00,000	LOCKE	A wise man once said that war was coming to this Island, I think it just got here.
+572	00:00:00,000 --> 00:00:00,000		[On the beach Richard and Jack talk.]
+574	00:00:00,000 --> 00:00:00,000	JACK	Where exactly are we going, Richard?
+576	00:00:00,000 --> 00:00:00,000	RICHARD	Where's Locke?
+578	00:00:00,000 --> 00:00:00,000	BEN	What?
+580	00:00:00,000 --> 00:00:00,000	RICHARD	You said he came to recruit you. Where did he say he'd be?
+582	00:00:00,000 --> 00:00:00,000	BEN	Hydra island.
+584	00:00:00,000 --> 00:00:00,000	RICHARD	Which is exactly where you landed the plane that you flew back here, right?
+586	00:00:00,000 --> 00:00:00,000	LAPIDUS	That's right.
+588	00:00:00,000 --> 00:00:00,000	RICHARD	This man wants to leave the island, and that plane's the only way he can do it. You wanna know where we're going, we're gonna stop him.
+590	00:00:00,000 --> 00:00:00,000	MILES	This is your fault isn't it?
+592	00:00:00,000 --> 00:00:00,000	HURLEY	Sorta.
+594	00:00:00,000 --> 00:00:00,000	ILANA	How are we gonna stop him from getting on the plane?
+596	00:00:00,000 --> 00:00:00,000	RICHARD	We have to destroy it.
+598	00:00:00,000 --> 00:00:00,000	SUN	Ã«Â­ÂÃ«ÂÂ¼ÃªÂ³Â Ã¬Å¡â€? Ã«Â¹â€žÃ­â€“â€°ÃªÂ¸Â°Ã«Â¥Â¼ Ã¬â€”â€ Ã¬â€¢Â Ã«Â²â€žÃ«Â¦Â°Ã«â€¹Â¤ÃªÂ³Â Ã¬Å¡â€? ÃªÂ·Â¸Ã«Å¸Â¼ Ã¬ÂÂ´ Ã¬â€žÂ¬Ã¬â€”ÂÃ¬â€žÅ“ Ã¬â€“Â´Ã«â€“Â»ÃªÂ²Å’ Ã­Æ’Ë†Ã¬Â¶Å“Ã­â€¢ËœÃ«Â Â¤ÃªÂµÂ¬Ã¬Å¡â€? [Subtitle: What? You want to destroy the plane? How are we supposed to get off the island?]
+600	00:00:00,000 --> 00:00:00,000	RICHARD	Why isn't she speaking English?
+602	00:00:00,000 --> 00:00:00,000	JACK	She was hit on the head when she was running away from Locke.
+604	00:00:00,000 --> 00:00:00,000	RICHARD	He came back here?
+606	00:00:00,000 --> 00:00:00,000		[Jack nods.]
+608	00:00:00,000 --> 00:00:00,000	RICHARD	What, what did he want? What did he say to you? Do you understand me?
+610	00:00:00,000 --> 00:00:00,000	SUN	ÃªÂ·Â¸Ã«Å¾Ëœ, Ã«â€¹Â¤ Ã¬ÂÂ´Ã­â€¢Â´Ã­â€“Ë†Ã¬â€“Â´ Ã¬ÂÂ´ Ã«Â°â€Ã«Â³Â´Ã¬â€¢Â¼! Ã«â€šÂ´ÃªÂ°â‚¬ Ã«â€žÂ Ã«Ââ€žÃ¬â„¢â‚¬Ã¬â€žÅ“ Ã¬ÂÂ´ Ã¬â€žÂ¬Ã¬Ââ€ž Ã«Â¹Â Ã¬Â Â¸Ã«â€šËœÃªÂ°Ë† Ã¬Å“Â Ã¬ÂÂ¼Ã­â€¢Å“ Ã«Â°Â©Ã«Â²â€¢Ã¬Ââ€ž Ã¬â€”â€ Ã¬â€¢Â¨ÃªÂ±Â°Ã«ÂÂ¼ÃªÂ³ Ã¬Æ’ÂÃªÂ°ÂÃ­â€¢Å“Ã«â€¹Â¤Ã«Â©Â´ Ã«â€žÅ’ Ã«Â¯Â¸Ã¬Â³ÂÃ«Ââ€ž Ã­â€¢Å“Ã¬Â°Â¸ Ã«Â¯Â¸Ã¬Â³Â¤Ã¬â€“Â´! Ã«â€šÅ“ Ã¬ÂÂ´ Ã¬â€žÂ¸Ã¬Æ’ÂÃ¬Ââ€ž ÃªÂµÂ¬Ã­â€¢ËœÃ«Å¸Â¬ Ã¬ËœÂ¨ÃªÂ²Å’ Ã¬â€¢â€žÃ«â€¹Ë†Ã«ÂÂ¼ Ã«â€šÂ´ Ã«â€šÂ¨Ã­Å½Â¸Ã¬Ââ€ž Ã«â€¹Â¤Ã¬â€¹Å“ Ã¬Â°Â¾Ã¬â€¢â€žÃ¬â€žÅ“ Ã«â€¹Â¤Ã¬â€¹Å“ Ã«ÂÅ’Ã¬â€¢â€žÃªÂ°â‚¬Ã«Â Â¤ÃªÂ³ Ã¬â€”Â¬ÃªÂ¸Â° Ã¬ËœÂ¨ÃªÂ±Â°Ã¬â€¢Â¼. Ã«â€šÂ´ÃªÂ°â‚¬ Ã¬Â¤â€˜Ã¬Å¡â€Ã­â€¢ËœÃ«â€¹Â¤ÃªÂ³ Ã¬ÂÂ´ Ã¬â€”Â¬Ã¬Å¾ÂÃªÂ°â‚¬ ÃªÂ·Â¸Ã«Å¾Â¬Ã¬â€“Â´. [Subtitle: Yes. I understand, you idiot-- but if you think I'm gonna help you destroy our only way off this island, you're insane! I came here to find my husband so I could bring him home, not so I could save the damn world! She says I'm important.]
+612	00:00:00,000 --> 00:00:00,000		[Sun points to Ilana.]
+614	00:00:00,000 --> 00:00:00,000	SUN	Ã«Â§Å’Ã¬â€¢Â½Ã¬â€”Â Ã¬â€šÂ¬Ã¬â€¹Â¤Ã¬ÂÂ´Ã«ÂÂ¼Ã«Â©Â´, Ã«â€žÅ’ Ã«â€šÂ´ÃªÂ°â‚¬ ÃªÂ¼Â­ Ã­â€¢â€žÃ¬Å¡â€Ã­â€¢Â´! Ã­â€¢ËœÃ¬Â§â‚¬Ã«Â§Å’ Ã¬ÂÂ´ÃªÂ²Æ’Ã«Â§Å’Ã¬Ââ‚¬ Ã¬â€¢Å’Ã¬â€¢â€žÃ«â€˜Â¬, Ã«â€šÅ“ Ã¬â€”Â¬ÃªÂ¸Â°Ã¬â€žÅ“ Ã­â€¢Å“Ã«Â°Å“Ã¬Â§ÂÃ«Ââ€ž Ã¬â€ºâ‚¬Ã¬Â§ÂÃ¬ÂÂ´Ã¬Â§â‚¬ Ã¬â€¢Å Ã¬Ââ€žÃªÂ±Â°Ã¬â€¢Â¼! [Subtitle: If that's true, you need me! So, "understand" this...I'm not going anywhere!]
+616	00:00:00,000 --> 00:00:00,000		[Sun walks away furiously.]
+618	00:00:00,000 --> 00:00:00,000	HURLEY	I don't think she wants to come.
+620	00:00:00,000 --> 00:00:00,000		[Flash sideways - Sun and Mikhail are at the bank, a bank clerk is looking up the account details.]
+622	00:00:00,000 --> 00:00:00,000	SUN	Ã«Â¬Â´Ã¬Å Â¨ Ã«Â¬Â¸Ã¬Â Å“Ã«ÂÂ¼Ã«Ââ€ž Ã¬Å¾Ë†Ã¬â€“Â´Ã¬Å¡â€? [Subtitle: Is there a problem?]
+624	00:00:00,000 --> 00:00:00,000	MIKHAIL	Miss Paik would like to know if there is a problem.
+626	00:00:00,000 --> 00:00:00,000	BANK CLERK	I'm sorry, I'm showing that your account was closed. The balance is zero.
+628	00:00:00,000 --> 00:00:00,000	MIKHAIL	Ã«â€¹Â¹Ã¬â€¹ ÃªÂ³â€žÃ¬Â¢Å’ÃªÂ°â‚¬ Ã«ÂÅ ÃªÂ²Â¼Ã«â€¹ÂµÃ«â€¹Ë†Ã«â€¹Â¤. [Subtitle: She says your account is closed.]
+630	00:00:00,000 --> 00:00:00,000	SUN	Ã¬â€¢â€žÃ«â€¹Ë†, ÃªÂ·Â¸Ã«Å¸Â´ Ã«Â¦Â¬ÃªÂ°â‚¬ Ã¬â€”â€ Ã¬â€“Â´Ã¬Å¡â€. Ã«â€šËœ Ã«Â°â€“Ã¬â€”ÂÃ«Å â€ Ã¬ÂÂ´ ÃªÂ³â€žÃ¬Â¢Å’Ã¬â€”Â Ã«Å’â‚¬Ã­â€¢Â´Ã¬â€žÅ“ Ã¬â€¢â€žÃ«Â¬Â´Ã«Ââ€ž Ã¬â€¢â€žÃ«Å â€ Ã¬â€šÂ¬Ã«Å¾Å’Ã¬ÂÂ´ Ã¬â€”â€ Ã¬â€“Â´Ã¬Å¡â€. [Subtitle: No, that can't be right. No one knows it exists but me.]
+632	00:00:00,000 --> 00:00:00,000	MIKHAIL	If she may ask, who closed the account please?
+634	00:00:00,000 --> 00:00:00,000	BANK CLERK	Looks like her father, Mr. Woo-Jung Paik had access. The funds were transferred to one of his other accounts at our main branch in Seoul.
+636	00:00:00,000 --> 00:00:00,000	MIKHAIL	Ã¬â€¢â€žÃ«Â²â€žÃ«â€¹ËœÃªÂ»ËœÃ¬â€žÅ“ Ã¬Â§â‚¬Ã¬â€¹Å“Ã­â€¢ËœÃ¬â€¦Â¨Ã¬Å ÂµÃ«â€¹Ë†Ã«â€¹Â¤. [Subtitle: Your father closed the account.]
+638	00:00:00,000 --> 00:00:00,000	SUN	Ã¬â„¢Å“? Ã«Â­Â Ã«â€¢Å’Ã«Â¬Â¸Ã¬â€”ÂÃ¬Å¡â€? [Subtitle: Why...would he do that?]
+640	00:00:00,000 --> 00:00:00,000	MIKHAIL	Ã¬Â â€¢Ã«Â§Â Ã«ÂªÂ°Ã«ÂÂ¼Ã¬â€žÅ“ Ã«Â¬Â¼Ã¬â€“Â´Ã¬Å¡â€? [Subtitle: Why do you think?]
+642	00:00:00,000 --> 00:00:00,000		[At the restaurant, Omar pushes Jin into the freezer room, accidentally bumping Jin's head on the door, and ties him up in a chair.]
+644	00:00:00,000 --> 00:00:00,000	OMAR	Go on, get in.
+646	00:00:00,000 --> 00:00:00,000		[Keamy appears in the doorway.]
+648	00:00:00,000 --> 00:00:00,000	KEAMY	What's going on?
+650	00:00:00,000 --> 00:00:00,000	OMAR	I bumped his head on the door.
+652	00:00:00,000 --> 00:00:00,000	KEAMY	Come on Omar, you gotta be more careful than that.
+654	00:00:00,000 --> 00:00:00,000		[Keamy gets a damp cloth from the kitchen, and returns.]
+656	00:00:00,000 --> 00:00:00,000	KEAMY	I got this. You go get the Arab guy.
+658	00:00:00,000 --> 00:00:00,000	OMAR	Hey...I'm an Arab.
+660	00:00:00,000 --> 00:00:00,000	KEAMY	Just go pick him up
+662	00:00:00,000 --> 00:00:00,000		[Omar leaves.]
+664	00:00:00,000 --> 00:00:00,000	KEAMY	Sorry about that. Omar is loyal but he lacks attention to detail. You don't really understand a word I'm saying to you right now, do you? Nothing? Right. Just hold still okay. I'm gonna strap you in here just in case you figure out what's about to happen to you, I can't have you freaking out. I don't think you realise how unhappy Mr. Paik was when he found out that you were doing his little girl. That other twenty five that you were supposed to deliver, that was my fee for popping you. From what I hear, now anyone who works for Paik knows the cardinal rule - hands off the boss's daughter. But you, you couldn't resist her, could you? The heart wants what the heart wants.
+666	00:00:00,000 --> 00:00:00,000	JIN	Thank you.
+668	00:00:00,000 --> 00:00:00,000		[Keamy puts tape over Jin's mouth.]
+670	00:00:00,000 --> 00:00:00,000	KEAMY	I'm sorry. Some people just aren't meant to be together.
+672	00:00:00,000 --> 00:00:00,000		[Keamy shuts the freezer door.]
+674	00:00:00,000 --> 00:00:00,000		[On-Island - Zoe and Widmore are at the Hydra station.]
+676	00:00:00,000 --> 00:00:00,000	WIDMORE	What the hell were you thinking?
+678	00:00:00,000 --> 00:00:00,000	ZOE	I'm sorry, I know, I know we panicked.
+680	00:00:00,000 --> 00:00:00,000	WIDMORE	This was not supposed to happen for days. We had a timetable.
+682	00:00:00,000 --> 00:00:00,000	ZOE	See, he was leaving their camp.
+684	00:00:00,000 --> 00:00:00,000	WIDMORE	Well you should have let him leave and taken him in the jungle.
+686	00:00:00,000 --> 00:00:00,000	ZOE	Well maybe you should put a mercenary in charge instead of a geophysicist.
+688	00:00:00,000 --> 00:00:00,000	WIDMORE	What's done is done. I need you to get the package from the submarine and take it to the infirmary. Can you do that for me please Zoe?
+690	00:00:00,000 --> 00:00:00,000	ZOE	Yeah. Sure.
+692	00:00:00,000 --> 00:00:00,000		[Zoe leaves. Jin enters the room.]
+694	00:00:00,000 --> 00:00:00,000	WIDMORE	Mr Kwon, my deepest apologies for everything that's been done to you. My name is--
+696	00:00:00,000 --> 00:00:00,000	JIN	I know who you are. Why did you bring me here.
+698	00:00:00,000 --> 00:00:00,000	WIDMORE	We searched the Ajira plane, discovered your wife's luggage and found this inside. I thought you might want to have it. Go ahead, turn it on.
+700	00:00:00,000 --> 00:00:00,000		[He hands Jin a digital camera, Jin sees images of Ji Yeon on the display.]
+702	00:00:00,000 --> 00:00:00,000	WIDMORE	Her name is Ji Yeon. Your daughter. I understand you've never seen her before. I have a daughter too. I know what it's like to be kept apart. I understand the one thing you want is to be reunited with your wife and daughter. But it would be short lived. If that thing masquerading as John Locke ever got off this island, your wife, your daughter, my daughter, everyone we know and love - would simply cease to be. I came here to make sure that doesn't happen.
+704	00:00:00,000 --> 00:00:00,000	JIN	How?
+706	00:00:00,000 --> 00:00:00,000	WIDMORE	Come with me. I think it's time for you to see the package.
+708	00:00:00,000 --> 00:00:00,000	JIN	What package?
+710	00:00:00,000 --> 00:00:00,000	WIDMORE	It's not a what. It's a who.
+712	00:00:00,000 --> 00:00:00,000		[Flash sideways - Jin hears muffled voices through the freezer door, followed by several gunshots. He starts kicking the door. Sayid enters and removes the tape from Jin's mouth.]
+714	00:00:00,000 --> 00:00:00,000	JIN	Ã¬Â£Â½Ã¬ÂÂ´Ã¬Â§â‚¬ Ã«Â§ÂÃ¬â€¢â€žÃ¬Â£Â¼Ã¬â€žÂ¸Ã¬Å¡â€. Ã¬Â Å“Ã«Â°Å“ Ã¬â€šÂ´Ã«Â Â¤Ã¬Â£Â¼Ã¬â€žÂ¸Ã¬Å¡â€! [Subtitle: Please don't kill me. Please, let me go!]
+716	00:00:00,000 --> 00:00:00,000	SAYID	Who are you?
+718	00:00:00,000 --> 00:00:00,000	JIN	No English.
+720	00:00:00,000 --> 00:00:00,000	SAYID	I don't know why you're here and I don't really care.
+722	00:00:00,000 --> 00:00:00,000		[Sayid starts towards the door.]
+724	00:00:00,000 --> 00:00:00,000	JIN	No! Free! Free! Free!
+726	00:00:00,000 --> 00:00:00,000		[Jin gestures with his head towards a cutter on the bench. Sayid places the cutter in in Jin's bound hands.]
+728	00:00:00,000 --> 00:00:00,000	SAYID	Good luck.
+730	00:00:00,000 --> 00:00:00,000		[Sayid leaves.]
+732	00:00:00,000 --> 00:00:00,000		[Sometime later, Mikhail and Jin enter the kitchen and see the bodies of Keamy and his henchmen. Mikhail draws his pistol. He sees Keamy is still alive.]
+734	00:00:00,000 --> 00:00:00,000	MIKHAIL	Martin! Martin! Who did this to you?
+736	00:00:00,000 --> 00:00:00,000	KEAMY	Look behind you, you idiot.
+738	00:00:00,000 --> 00:00:00,000		[Jin has a pistol against Mikhail's neck.]
+740	00:00:00,000 --> 00:00:00,000	JIN	Ã¬Â´Â Ã«â€šÂ´Ã«Â Â¤Ã«â€ â€. [Subtitle: Drop your gun!]
+742	00:00:00,000 --> 00:00:00,000	MIKHAIL	Ã­ÂÂ¥Ã«Â¶â€žÃ­â€¢ËœÃ¬Â§â‚¬ Ã«Â§Ë†. Ã¬â€¢Å’Ã¬â€¢ËœÃ¬â€“Â´. Ã«Ë†â€žÃªÂ°â‚¬ Ã¬ÂÂ´Ã«Å¸Â°ÃªÂ±Â°Ã¬â€¢Â¼? [Subtitle: Take it easy. It's okay. Who did all of this?]
+744	00:00:00,000 --> 00:00:00,000	JIN	Ã«Â²â€žÃ«Â¦Â¬Ã«ÂÂ¼ÃªÂ³ ÃªÂ·Â¸Ã«Å¾Â¬Ã¬Â§â‚¬. Ã¬â€“Â´Ã¬â€žÅ“! Ã¬â€žÂ , Ã¬Â â‚¬Ã«Â¦Â¬ ÃªÂ°â‚¬. ÃªÂ·â‚¬ Ã«Â¨Â¹Ã¬â€”Ë†Ã¬â€“Â´, Ã¬ÂÂ´ Ã¬Æ’Ë†Ã«ÂÂ¼Ã¬â€¢Â¼? Ã¬â€¢Ë† Ã«Â²â€žÃ«Â¦Â¬Ã«Â©Â´ Ã¬ÂÅ“Ã«â€¹Â¤! [Subtitle: I said put the gun down. Now! Sun, move away. [to Mikhail] Do you hear me? Drop it or I'm going to kill you.]
+746	00:00:00,000 --> 00:00:00,000	MIKHAIL	ÃªÂ·Â¸Ã«Å¸Â¬Ã¬Â§â€ž Ã«ÂªÂ» Ã­â€¢Â ÃªÂ±Â¸. Ã¬Â£Â½Ã¬ÂÂ´Ã«Â Â¤ÃªÂ³ Ã­â€“Ë†Ã«â€¹Â¤Ã«Â©Â´ Ã«Â²Å’Ã¬ÂÂ¨ Ã¬ÂË†ÃªÂ²Â Ã¬Â§â‚¬. [Subtitle: No I don't think so...because if you were the person who did this? [sic] you would've shot me already.]
+748	00:00:00,000 --> 00:00:00,000		[Mikhail spins round and hits Jin, several wild shots are fired as they struggle over the gun, Mikhail runs and grabs a kitchen knife, Jin shoots him dead. We see he has been shot through the right eye. Sun starts gasping. Jin runs over and sees blood on her hands. She appears to be shot in the abdomen.]
+750	00:00:00,000 --> 00:00:00,000	JIN	[Subtitle: Sun! Ohmygod! Ohmygod! I'm going to get you some help! You're going to be all right...]
+752	00:00:00,000 --> 00:00:00,000		[He carries her out of the kitchen.]
+754	00:00:00,000 --> 00:00:00,000	SUN	Ã«â€šËœ Ã¬Å¾â€žÃ¬â€¹Â Ã­â€“Ë†Ã¬â€“Â´... [Subtitle: I'm pregnant...]
+756	00:00:00,000 --> 00:00:00,000		[On-Island - Sun is at a beach campfire. Jack approaches.]
+758	00:00:00,000 --> 00:00:00,000	JACK	Brought you a couple of things. Thinking about a patient that I had during my residency. Car crash, banged his head, when he woke up he couldn't talk. The guy was frustrated, I mean, who wouldn't be. Then one of the nurses said "just because he can't speak, doesn't mean that he can't write". Think you can give it a try?
+760	00:00:00,000 --> 00:00:00,000		[Jack hands Sun a pen and notebook. Sun writes "Yes".]
+762	00:00:00,000 --> 00:00:00,000	JACK	Take a little longer to get your point across, but at least you have your voice back. Went back out to your garden to see if he was there. He wasn't. I found this.
+764	00:00:00,000 --> 00:00:00,000		[Jack takes a tomato from his bag.]
+766	00:00:00,000 --> 00:00:00,000	JACK	That's one stubborn tomato. Guess no-one told it it was supposed to die.
+768	00:00:00,000 --> 00:00:00,000		[Sun writes "Sorry" and a smiley face.]
+770	00:00:00,000 --> 00:00:00,000	JACK	Don't worry about it. Not the first person to tell me to leave them alone.
+772	00:00:00,000 --> 00:00:00,000		[They smile.]
+774	00:00:00,000 --> 00:00:00,000	JACK	Locke - what did he say to you?
+776	00:00:00,000 --> 00:00:00,000		[Sun writes "He said he had Jin".]
+778	00:00:00,000 --> 00:00:00,000	JACK	Why didn't you go with him?
+780	00:00:00,000 --> 00:00:00,000		[Sun writes "I don't trust him".]
+782	00:00:00,000 --> 00:00:00,000	JACK	You trust me?
+784	00:00:00,000 --> 00:00:00,000		[Sun nods.]
+786	00:00:00,000 --> 00:00:00,000	JACK	Sun, come with us and I'll help you find Jin. I'll help you find him and I'll get you both on that plane and as far away from this island as you can get. I promise.
+788	00:00:00,000 --> 00:00:00,000		[They shake hands.]
+790	00:00:00,000 --> 00:00:00,000		[Over in Locke's camp, Kate is at another campfire. Sawyer approaches.]
+792	00:00:00,000 --> 00:00:00,000	SAWYER	Where'd you go?
+794	00:00:00,000 --> 00:00:00,000	KATE	What?
+796	00:00:00,000 --> 00:00:00,000	SAWYER	Looked like your brain took a little stroll.
+798	00:00:00,000 --> 00:00:00,000	KATE	Why aren't you worried, James?
+800	00:00:00,000 --> 00:00:00,000	SAWYER	I am worried. Just really good at pretending I ain't. But I got a feeling this is almost over. 'Cause if Locke rode over there on a boat with Sayid, then Charlie Widmore blew him right out of the water.
+802	00:00:00,000 --> 00:00:00,000	KATE	What if he didn't?
+804	00:00:00,000 --> 00:00:00,000	SAWYER	Well then we're screwed six ways from sun--
+806	00:00:00,000 --> 00:00:00,000		[He is interrupted by Locke approaching.]
+808	00:00:00,000 --> 00:00:00,000	SAWYER	Oh Hell.
+810	00:00:00,000 --> 00:00:00,000	KATE	He's alone.
+812	00:00:00,000 --> 00:00:00,000	SAWYER	Thought you went over there to find Jin?
+814	00:00:00,000 --> 00:00:00,000	LOCKE	They said they didn't have him.
+816	00:00:00,000 --> 00:00:00,000	SAWYER	And you believed that?
+818	00:00:00,000 --> 00:00:00,000	LOCKE	No.
+820	00:00:00,000 --> 00:00:00,000	SAWYER	Where's Sayid? You lose him too?
+822	00:00:00,000 --> 00:00:00,000	LOCKE	When you were over there James, you mentioned that Widmore had someone guarding a room on his submarine. Guarding something that he didn't want you to see?
+824	00:00:00,000 --> 00:00:00,000	SAWYER	Yeah, so?
+826	00:00:00,000 --> 00:00:00,000	LOCKE	I don't like secrets.
+828	00:00:00,000 --> 00:00:00,000		[Locke leaves.]
+830	00:00:00,000 --> 00:00:00,000		[On Hydra Island, Sayid swims up to the submarine. Zoe and Seamus are dragging someone out of the hatch and onto the jetty.]
+832	00:00:00,000 --> 00:00:00,000	SEAMUS	The guy can hardly stand.
+834	00:00:00,000 --> 00:00:00,000	ZOE	Well what do you expect?
+836	00:00:00,000 --> 00:00:00,000		[Sayid sees it is Desmond being dumped on the jetty. They silently recognise each other.]
+838	00:00:00,000 --> 00:00:00,000	SEAMUS	How much did you give him?
+840	00:00:00,000 --> 00:00:00,000	ZOE	Obviously I gave him too much but we needed him knocked out for the trip. I'm not a nurse. Come on, get him up.
+842	00:00:00,000 --> 00:00:00,000	SEAMUS	Let's go Mr. Hume.
+844	00:00:00,000 --> 00:00:00,000		[They begin carrying him away.]

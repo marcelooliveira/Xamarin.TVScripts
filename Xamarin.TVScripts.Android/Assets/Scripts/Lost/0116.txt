@@ -1,0 +1,321 @@
+Outlaws
+2	00:00:00,000 --> 00:00:00,000	Written by	Drew Goddard
+4	00:00:00,000 --> 00:00:00,000	Directed by	Jack Bender
+6	00:00:00,000 --> 00:00:00,000		[Flashback - Shot of Young Sawyer's eye opening. Sound of pounding on a door. Shouts of "Open this door!"]
+8	00:00:00,000 --> 00:00:00,000	MARY	Wake up. He's here. C'mon. Got to get you up. He'll think you're still with your grandparents, okay? Get under the bed. Let's go. Okay. Listen to mommy, this is really important. Get under the bed, don't make a sound. Don't come out, no matter what happens. Don't come out, okay?
+10	00:00:00,000 --> 00:00:00,000	YOUNG SAWYER	Okay.
+12	00:00:00,000 --> 00:00:00,000	MARY	I love you.
+14	00:00:00,000 --> 00:00:00,000	YOUNG SAWYER	I love you too, mommy.
+16	00:00:00,000 --> 00:00:00,000	MARY	Let's go. Down you go.
+18	00:00:00,000 --> 00:00:00,000	SAWYER'S FATHER	Open this door!
+20	00:00:00,000 --> 00:00:00,000	MARY	Stop it! Please stop it! Go away! Stop it!
+22	00:00:00,000 --> 00:00:00,000		[Sound of the door breaking.]
+24	00:00:00,000 --> 00:00:00,000	MARY	What the hell is wrong with you?! I'm calling the police, get out of here. What are you doing? What the hell are you doing with a gun, get out of...
+26	00:00:00,000 --> 00:00:00,000		[Sound of gunshot and her body falling to the floor. Shot of Sawyer under the bed, and his POV watching his father's boots walk into the room. The father sits on the bed and we hear the sound of him shooting himself.]
+28	00:00:00,000 --> 00:00:00,000		[Shot of Sawyer waking up on the Island. He hears boar sounds in his tent. He hits it with a metal pipe, and goes running after it. Then he hears the whispers. We can hear the last line of the whispers: It'll come back around.]
+30	00:00:00,000 --> 00:00:00,000		[Shot of Sawyer cleaning up the mess the boar made in his tent area.]
+32	00:00:00,000 --> 00:00:00,000	SAYID	Boar took your tarp?
+34	00:00:00,000 --> 00:00:00,000	SAWYER	It was dark, but yeah, I'm pretty sure it was a boar.
+36	00:00:00,000 --> 00:00:00,000	SAYID	I thought the boar had vacated this area?
+38	00:00:00,000 --> 00:00:00,000	SAWYER	Well, genius, I think we got some bad info.
+40	00:00:00,000 --> 00:00:00,000	SAYID	What was he doing inside your tent?
+42	00:00:00,000 --> 00:00:00,000	SAWYER	It was staring at me. Then it came at me, so I hit it, and it ran off into the jungle.
+44	00:00:00,000 --> 00:00:00,000	SAYID	With you tarp? Perhaps he wanted to go camping?
+46	00:00:00,000 --> 00:00:00,000	SAWYER	You enjoying yourself?
+48	00:00:00,000 --> 00:00:00,000	SAYID	Yes.
+50	00:00:00,000 --> 00:00:00,000	SAWYER	Well, laugh it up, Mohammad. But I come back and find my stuff's gone, I'm coming after you. [Sayid starts walking away.] Sayid, what did you hear? After you ran into the French woman you said you heard something in the jungle.
+52	00:00:00,000 --> 00:00:00,000	SAYID	I was injured and I was exhausted, my mind was playing tricks.
+54	00:00:00,000 --> 00:00:00,000	SAWYER	What did you hear?
+56	00:00:00,000 --> 00:00:00,000	SAYID	I thought I heard whispering.
+58	00:00:00,000 --> 00:00:00,000	SAWYER	What was it saying?
+60	00:00:00,000 --> 00:00:00,000	SAYID	Why? Did you hear something?
+62	00:00:00,000 --> 00:00:00,000	SAWYER	Forget it. I didn't hear anything.
+64	00:00:00,000 --> 00:00:00,000		[Flashback - We see Sawyer going into a hotel room with Mary Jo.]
+66	00:00:00,000 --> 00:00:00,000	MARY JO	What are you so afraid of?
+68	00:00:00,000 --> 00:00:00,000	SAWYER	I'm not the one trembling, sweetness.
+70	00:00:00,000 --> 00:00:00,000		[Sawyer carries a laughing Mary Jo to the bed.]
+72	00:00:00,000 --> 00:00:00,000	HIBBS	[turning on the light] Okay, this is really awkward, but if I don't say something now, things are liable to get downright embarrassing.
+74	00:00:00,000 --> 00:00:00,000	SAWYER	Hibbs.
+76	00:00:00,000 --> 00:00:00,000	HIBBS	Hello, Sawyer. Ma'am, I must apologize. I -- I figured my good friend Sawyer here would be alone. I just need a few minutes.
+78	00:00:00,000 --> 00:00:00,000	SAWYER	Listen, baby...
+80	00:00:00,000 --> 00:00:00,000	MARY JO	Baby, who is this?
+82	00:00:00,000 --> 00:00:00,000	SAWYER	Listen, go down to the bar, get a drink...
+84	00:00:00,000 --> 00:00:00,000	MARY JO	No, I don't want to leave you here.
+86	00:00:00,000 --> 00:00:00,000	SAWYER	As soon as I get rid of him, then I'll come get you and I'll explain everything.
+88	00:00:00,000 --> 00:00:00,000	MARY JO	But, I...
+90	00:00:00,000 --> 00:00:00,000	SAWYER	Listen, just trust me on this. I will find you, I promise. I promise.
+92	00:00:00,000 --> 00:00:00,000	HIBBS	I've got to hand it to you, Sawbucks. How you find women that beautiful to work your grift.
+94	00:00:00,000 --> 00:00:00,000		[Sawyer grabs Hibbs and pins him against a wall.]
+96	00:00:00,000 --> 00:00:00,000	SAWYER	Now, if I'm not mistaken, I'm fairly certain I said I'd kill you if I ever saw you again.
+98	00:00:00,000 --> 00:00:00,000	HIBBS	That's why I'm here, to make things right. Besides, we both know you ain't the killing type. [He pulls an envelope out his pocket and throws it on a table.] Here. I figure that makes us even for the Tampa job.
+100	00:00:00,000 --> 00:00:00,000	SAWYER	What could possibly make us even for the Tampa job?
+102	00:00:00,000 --> 00:00:00,000	HIBBS	How about the known whereabouts of the man who ruined your life? I'm going to make myself a drink. You want one? You remember old man Parks, right? Ran capper for us on that gig in Atlanta.
+104	00:00:00,000 --> 00:00:00,000	SAWYER	Yeah, what about him?
+106	00:00:00,000 --> 00:00:00,000	HIBBS	He's been working the wire at an off track parlor down in Sydney. So, last week one of his regulars gets a little too sauced, starts running his mouth off about his glory days as a grifter. That guy, Frank Duckett. Real hard luck case - gambling addict, alcoholic, runs a shrimp truck. Back in the day this guy Duckett was quite the hustler. He ran the romance angle, hooked the wife and took the husband for all the money. He was pretty good at it, too, from what I hear. Till, sadly, one of his marks, in despair, took a gun, shot up his wife and blew his own head off. All in front of their little boy. I paid Tony to pull his jacket. Turns out Frank Duckett used to be named Frank Sawyer. A name I believe you appropriated for yourself.
+108	00:00:00,000 --> 00:00:00,000	SAWYER	[looking at a photo] This is him?
+110	00:00:00,000 --> 00:00:00,000	HIBBS	That's him.
+112	00:00:00,000 --> 00:00:00,000		[On-Island - Shot of guns in the case, Kate giving Jack her gun.]
+114	00:00:00,000 --> 00:00:00,000	KATE	Thanks for the loaner.
+116	00:00:00,000 --> 00:00:00,000	JACK	Always a pleasure.
+118	00:00:00,000 --> 00:00:00,000	KATE	So, was anyone curious where they came from?
+120	00:00:00,000 --> 00:00:00,000	JACK	The others knew there was a Marshal on the plane. I guess they just assumed he was traveling alone, protecting them from terrorists. Sounds like a good theory to me.
+122	00:00:00,000 --> 00:00:00,000	KATE	Did you get all the guns back?
+124	00:00:00,000 --> 00:00:00,000	JACK	All except one.
+126	00:00:00,000 --> 00:00:00,000	KATE	Who?
+128	00:00:00,000 --> 00:00:00,000	JACK	Let me give you 3 guesses.
+130	00:00:00,000 --> 00:00:00,000	KATE	Sawyer. I can get it back.
+132	00:00:00,000 --> 00:00:00,000	JACK	Really? How are you going to do that?
+134	00:00:00,000 --> 00:00:00,000	KATE	Speak his language.
+136	00:00:00,000 --> 00:00:00,000	JACK	You've done this before, Kate. And if I remember it right, you made out with him, and he never even had what you said you could get.
+138	00:00:00,000 --> 00:00:00,000	KATE	Well, I only made out with him because torturing him didn't work.
+140	00:00:00,000 --> 00:00:00,000	JACK	Let him keep the gun. It's not worth it.
+142	00:00:00,000 --> 00:00:00,000	KATE	What, are you worried he's going to shoot me if I ask?
+144	00:00:00,000 --> 00:00:00,000	JACK	I just don't want you to owe him anything.
+146	00:00:00,000 --> 00:00:00,000		[Shot of Charlie making a shovel. Claire approaches.]
+148	00:00:00,000 --> 00:00:00,000	CLAIRE	Hey.
+150	00:00:00,000 --> 00:00:00,000	CHARLIE	Hi. How are you feeling?
+152	00:00:00,000 --> 00:00:00,000	CLAIRE	Very pregnant. I -- I had some dreams last night. Actually, more like memories. You were in them.
+154	00:00:00,000 --> 00:00:00,000	CHARLIE	Sorry.
+156	00:00:00,000 --> 00:00:00,000	CLAIRE	Thought I'd see if you wanted to go for a walk.
+158	00:00:00,000 --> 00:00:00,000	CHARLIE	Sorry. I have to... do something.
+160	00:00:00,000 --> 00:00:00,000	CLAIRE	Sure.
+162	00:00:00,000 --> 00:00:00,000	CHARLIE	See you later, okay?
+164	00:00:00,000 --> 00:00:00,000		[Shot of Sawyer in the jungle. He sees his tarp, grabs it, and starts walking back to camp when he hears the whispers again: "It'll come back around." Then he hears the boar running toward him. The boar knocks Sawyer over.]
+166	00:00:00,000 --> 00:00:00,000	SAWYER	[in a mud puddle] Son of a bitch.
+168	00:00:00,000 --> 00:00:00,000		[We see Sawyer and Kate at what's left of Sawyer's tent area.]
+170	00:00:00,000 --> 00:00:00,000	KATE	A boar? Did all this?
+172	00:00:00,000 --> 00:00:00,000	SAWYER	Last night -- wrecked my tent. This morning when I went to get my tent back it attacks me from behind and runs off into the jungle like a coward.
+174	00:00:00,000 --> 00:00:00,000	KATE	A boar wouldn't just attack you for no reason.
+176	00:00:00,000 --> 00:00:00,000	SAWYER	Thank you, boar expert. This one did. It's harassing me. [Sawyer gets the gun.]
+178	00:00:00,000 --> 00:00:00,000	KATE	What are doing?
+180	00:00:00,000 --> 00:00:00,000	SAWYER	Getting even.
+182	00:00:00,000 --> 00:00:00,000	KATE	Would you listen to yourself? It's a boar. Just go tell Locke and he'll kill it.
+184	00:00:00,000 --> 00:00:00,000	SAWYER	Nope. This is my fight.
+186	00:00:00,000 --> 00:00:00,000	KATE	Do you know anything about hunting boar? You are going to get yourself lost, or worse.
+188	00:00:00,000 --> 00:00:00,000	SAWYER	Since when do you care?
+190	00:00:00,000 --> 00:00:00,000	KATE	I don't.
+192	00:00:00,000 --> 00:00:00,000	SAWYER	Good. Then if you'll excuse me, I've got some revenge to tend to.
+194	00:00:00,000 --> 00:00:00,000		[Flashback - We see Sawyer walking into a workshop type place on a dock.]
+196	00:00:00,000 --> 00:00:00,000	LAURENCE	You must be Hibbs' mate. [He picks up a gun to give Sawyer.] I did a few jobs with Hibbs back in the States. Nice enough fella.
+198	00:00:00,000 --> 00:00:00,000	SAWYER	He's a son of a bitch.
+200	00:00:00,000 --> 00:00:00,000	LAURENCE	Right, indeed he is. A few disclaimers: Australia doesn't allow its citizens to carry handguns. You get nicked with this...
+202	00:00:00,000 --> 00:00:00,000	SAWYER	I'm not going to rat you out.
+204	00:00:00,000 --> 00:00:00,000	LAURENCE	Secondly, you know, I've been doing this for awhile and a man who buys a compact 357 with hollow point loads -- he's not looking to scare or steal. He's looking to kill. But when it comes down to it, if he finds he doesn't have what it takes to do the job...
+206	00:00:00,000 --> 00:00:00,000	SAWYER	Your sales pitch needs some work.
+208	00:00:00,000 --> 00:00:00,000	LAURENCE	What I'm saying is, you look a man in the eye and you point a gun at him, you find who you really are, mate. And should you find you're not a killer, there's no refund.
+210	00:00:00,000 --> 00:00:00,000	SAWYER	Won't be a problem.
+212	00:00:00,000 --> 00:00:00,000		[Shot of the ocean, pan over to Hurley and Charlie.]
+214	00:00:00,000 --> 00:00:00,000	CHARLIE	Hurley, look, I appreciate the help. You don't have to. I killed Ethan, I can bury him.
+216	00:00:00,000 --> 00:00:00,000	HURLEY	Yeah, 'til he rises from the dead. Dude, I know how this works. This is going to end with you and me running through the jungle screaming and crying. He catches me first because I'm heavy and I get cramps.
+218	00:00:00,000 --> 00:00:00,000		[Charlie just starts digging without saying anything.]
+220	00:00:00,000 --> 00:00:00,000	HURLEY	You alright? [Charlie doesn't respond.]
+222	00:00:00,000 --> 00:00:00,000		[Shot of Hurley walking up the beach toward Sayid.]
+224	00:00:00,000 --> 00:00:00,000	HURLEY	Yo, Sayid, can I ask you a question?
+226	00:00:00,000 --> 00:00:00,000	SAYID	Of course.
+228	00:00:00,000 --> 00:00:00,000	HURLEY	Did you ever get that Gulf War syndrome?
+230	00:00:00,000 --> 00:00:00,000	SAYID	That was the other side.
+232	00:00:00,000 --> 00:00:00,000	HURLEY	Oh, right. Then what's the one when you're all, like, shell-shocked?
+234	00:00:00,000 --> 00:00:00,000	SAYID	Post Traumatic Stress Disorder.
+236	00:00:00,000 --> 00:00:00,000	HURLEY	Yeah, that's it. Did you ever have that?
+238	00:00:00,000 --> 00:00:00,000	SAYID	Why do you ask?
+240	00:00:00,000 --> 00:00:00,000	HURLEY	Because I'm worried about Charlie.
+242	00:00:00,000 --> 00:00:00,000	SAYID	What's wrong with Charlie?
+244	00:00:00,000 --> 00:00:00,000	HURLEY	I mean, he killed a guy. He shot him in the chest 4 times. Maybe you should talk to him.
+246	00:00:00,000 --> 00:00:00,000		[Shot of Sawyer tracking the boar.]
+248	00:00:00,000 --> 00:00:00,000	KATE	[from behind him] It's a foot print. Based on the weight and the distance between strides, I'd say you've been following Boone for about an hour.
+250	00:00:00,000 --> 00:00:00,000	SAWYER	Look...
+252	00:00:00,000 --> 00:00:00,000	KATE	It could be Charlie, I suppose.
+254	00:00:00,000 --> 00:00:00,000	SAWYER	I'm tickled you're taking such an interest in my affairs. I really am. So don't take it personal when I tell you to go...
+256	00:00:00,000 --> 00:00:00,000	KATE	I want carte blanche.
+258	00:00:00,000 --> 00:00:00,000	SAWYER	What?
+260	00:00:00,000 --> 00:00:00,000	KATE	It's simple. You can't track this boar without my help. Over the last few hours you have managed to follow the tracks of humans, birds, a rock slide, yourself, basically everything except boar. You have no idea what you're doing.
+262	00:00:00,000 --> 00:00:00,000	SAWYER	Carte blanche...
+264	00:00:00,000 --> 00:00:00,000	KATE	It means blank check.
+266	00:00:00,000 --> 00:00:00,000	SAWYER	I know what it means.
+268	00:00:00,000 --> 00:00:00,000	KATE	Anytime I want something from your stash -- medicine, soap, whatever -- I get it. No questions asked. Take it or leave it.
+270	00:00:00,000 --> 00:00:00,000	SAWYER	Alright, you got a deal.
+272	00:00:00,000 --> 00:00:00,000		[Shot of Sawyer and Kate at night at a fire. Sawyer takes out a little bottle of booze and starts drinking it.]
+274	00:00:00,000 --> 00:00:00,000	KATE	Where did you get that?
+276	00:00:00,000 --> 00:00:00,000	SAWYER	Plane.
+278	00:00:00,000 --> 00:00:00,000	KATE	Jack was looking for the liquor cart.
+280	00:00:00,000 --> 00:00:00,000	SAWYER	It's a good thing I found it instead, then, huh?
+282	00:00:00,000 --> 00:00:00,000	KATE	Got any more of those?
+284	00:00:00,000 --> 00:00:00,000	SAWYER	I've got a lot more of everything, but you ain't got carte blanche yet.
+286	00:00:00,000 --> 00:00:00,000	KATE	Is that a no?
+288	00:00:00,000 --> 00:00:00,000	SAWYER	Alright, sassafras, but if you want to drink, you've got to play.
+290	00:00:00,000 --> 00:00:00,000	KATE	Play what?
+292	00:00:00,000 --> 00:00:00,000	SAWYER	I never.
+294	00:00:00,000 --> 00:00:00,000	KATE	What?
+296	00:00:00,000 --> 00:00:00,000	SAWYER	I never.
+298	00:00:00,000 --> 00:00:00,000	KATE	How am I supposed to know what that means?
+300	00:00:00,000 --> 00:00:00,000	SAWYER	Call it a way to get to know each other better. For example, I know you've never been to college.
+302	00:00:00,000 --> 00:00:00,000	KATE	And how do you know that?
+304	00:00:00,000 --> 00:00:00,000	SAWYER	If you had, you'd have heard about I never. It's simple, you say "I never" and then you finish the sentence. If it's something you did you drink, if it's something you never did, you don't drink.
+306	00:00:00,000 --> 00:00:00,000	KATE	That makes absolutely no sense.
+308	00:00:00,000 --> 00:00:00,000	SAWYER	Learn by example. I never kissed a man. Now you drink 'cause you've kissed man. Your turn.
+310	00:00:00,000 --> 00:00:00,000	KATE	I never implied that I've been to college when I never have.
+312	00:00:00,000 --> 00:00:00,000		[Sawyer drinks.]
+314	00:00:00,000 --> 00:00:00,000	SAWYER	I never been to Disneyland.
+316	00:00:00,000 --> 00:00:00,000		[Kate doesn't drink.]
+318	00:00:00,000 --> 00:00:00,000	SAWYER	Ah, that's just sad.
+320	00:00:00,000 --> 00:00:00,000	KATE	I never wore pink.
+322	00:00:00,000 --> 00:00:00,000		[Sawyer drinks.]
+324	00:00:00,000 --> 00:00:00,000	KATE	I knew it.
+326	00:00:00,000 --> 00:00:00,000	SAWYER	The '80's. I never voted democrat.
+328	00:00:00,000 --> 00:00:00,000		[Kate doesn't drink.]
+330	00:00:00,000 --> 00:00:00,000	KATE	I never voted.
+332	00:00:00,000 --> 00:00:00,000		[Sawyer drinks.]
+334	00:00:00,000 --> 00:00:00,000	SAWYER	I've never been in love.
+336	00:00:00,000 --> 00:00:00,000	KATE	You've never been in love?
+338	00:00:00,000 --> 00:00:00,000	SAWYER	I ain't drinking, am I?
+340	00:00:00,000 --> 00:00:00,000		[Kate drinks.]
+342	00:00:00,000 --> 00:00:00,000	KATE	I've never had a one night stand.
+344	00:00:00,000 --> 00:00:00,000		[Sawyer drinks.]
+346	00:00:00,000 --> 00:00:00,000	KATE	Bottoms up, sailor.
+348	00:00:00,000 --> 00:00:00,000	SAWYER	I've gotta drink for each one.
+350	00:00:00,000 --> 00:00:00,000	KATE	Your turn.
+352	00:00:00,000 --> 00:00:00,000	SAWYER	I've never been married.
+354	00:00:00,000 --> 00:00:00,000		[Kate drinks a small sip.]
+356	00:00:00,000 --> 00:00:00,000	KATE	It didn't last very long. I never blamed a boar for all my problems.
+358	00:00:00,000 --> 00:00:00,000		[Sawyer drinks.]
+360	00:00:00,000 --> 00:00:00,000	SAWYER	I never cared about having carte blanche because I just wanted to spend some time with the only other person on this Island that just don't belong.
+362	00:00:00,000 --> 00:00:00,000		[Kate drinks.]
+364	00:00:00,000 --> 00:00:00,000	KATE	I never carried a letter around for 20 years because I couldn't get over my baggage.
+366	00:00:00,000 --> 00:00:00,000		[Sawyer drinks.]
+368	00:00:00,000 --> 00:00:00,000	SAWYER	I never killed a man.
+370	00:00:00,000 --> 00:00:00,000		[Kate drinks. Sawyer drinks.]
+372	00:00:00,000 --> 00:00:00,000	SAWYER	Well, looks like we got something in common, after all.
+374	00:00:00,000 --> 00:00:00,000		[Shot of Young Sawyer under the bed. We see the father's cowboy boots walking in the room. We see Young Sawyer under the bed and then the legs of a boar instead of his father. Then the whisper: "It'll come back around." We hear the sound of the gunshot, then a close-up of Sawyer's face on the Island having a bad dream.]
+376	00:00:00,000 --> 00:00:00,000	KATE	You okay? You were shaking.
+378	00:00:00,000 --> 00:00:00,000	SAWYER	I'm fine. I was just having a...
+380	00:00:00,000 --> 00:00:00,000		[They look around and see their camp is destroyed.]
+382	00:00:00,000 --> 00:00:00,000	SAWYER	I can't believe this.
+384	00:00:00,000 --> 00:00:00,000	KATE	There are hoof marks everywhere.
+386	00:00:00,000 --> 00:00:00,000	SAWYER	It ate all our stuff?
+388	00:00:00,000 --> 00:00:00,000	KATE	Nope. It ate your stuff. Mine's fine.
+390	00:00:00,000 --> 00:00:00,000	SAWYER	Oh, that hog's gonna suffer. I swear to god.
+392	00:00:00,000 --> 00:00:00,000		[They hear something rustling in the bushes, and Sawyer grabs his gun and points it. Locke comes into the clearing.]
+394	00:00:00,000 --> 00:00:00,000	LOCKE	Mornin'. What happened to your campsite?
+396	00:00:00,000 --> 00:00:00,000	KATE	So, what are you doing all the way out here, John?
+398	00:00:00,000 --> 00:00:00,000	LOCKE	Looking for salvage from the crash.
+400	00:00:00,000 --> 00:00:00,000	KATE	Find anything useful?
+402	00:00:00,000 --> 00:00:00,000	LOCKE	Occasional scrap of metal, a few bags of coffee. I picked up your path about a mile back, I thought I'd say howdy.
+404	00:00:00,000 --> 00:00:00,000	SAWYER	[throwing down a shirt] Awww, son of a -- ohhh, peed on my shirt! Took my shirt out of the bag and peed on it! And you say this ain't personal.
+406	00:00:00,000 --> 00:00:00,000	KATE	He thinks the boar we're after has a vendetta against him.
+408	00:00:00,000 --> 00:00:00,000	LOCKE	Uh-huh.
+410	00:00:00,000 --> 00:00:00,000	SAWYER	That's 3 times it's attacked me.
+412	00:00:00,000 --> 00:00:00,000	KATE	Maybe it's got your scent, doesn't like your cologne?
+414	00:00:00,000 --> 00:00:00,000	SAWYER	I don't wear cologne.
+416	00:00:00,000 --> 00:00:00,000	KATE	Yes, you do.
+418	00:00:00,000 --> 00:00:00,000	SAWYER	Yeah, well. The thing's got it in for me.
+420	00:00:00,000 --> 00:00:00,000	KATE	It's a boar, Sawyer.
+422	00:00:00,000 --> 00:00:00,000	LOCKE	[making coffee] My sister, Jeanie, died when I was a boy. Fell off the monkey bars and broke her neck. And my mother, well, my foster mother, she blamed herself, of course. She thought she wasn't watching close enough. So, she stopped eating, stopped sleeping. The neighbors started talking, afraid she might do something to herself, I guess. [Sipping coffee] Oh, that's good. Anyway, about 6 months after Jeanie's funeral, this golden retriever comes padding up our driveway, walks right into our house, sits down on the floor, and looks right at my mother, there on the couch. And my mother looks back at the dog. After about a minute of this, of them both staring at each other like that, my mother burst into tears. Beautiful dog, no tags, no collar, healthy, and sweet. The dog slept in Jeanie's old room, on Jeanie's old bed and stayed with us until my mother passed 5 years later. Then, disappeared back to wherever it was she came from in the first place.
+424	00:00:00,000 --> 00:00:00,000	KATE	So, you're saying the dog was your sister?
+426	00:00:00,000 --> 00:00:00,000	LOCKE	Well, that would be silly. But my mother thought it was, thought that Jeanie had come back to tell her the accident wasn't her fault, let her off the hook.
+428	00:00:00,000 --> 00:00:00,000		[Flashback - Shot of Sawyer with a gun at the shrimp stand.]
+430	00:00:00,000 --> 00:00:00,000	DUCKETT	[to the customer at the window] Good to go. [to Sawyer] Only two choices, shrimp in mild sauce, shrimp in hot sauce. [Sawyer doesn't respond.] Ssss, Pal?
+432	00:00:00,000 --> 00:00:00,000	SAWYER	I'll go with the hot.
+434	00:00:00,000 --> 00:00:00,000	DUCKETT	Hot it is. [Sawyer cocks the gun.] Fellow American, huh? Good for you. You missed the lunch rush. Whereabouts you from?
+436	00:00:00,000 --> 00:00:00,000	SAWYER	Tennessee.
+438	00:00:00,000 --> 00:00:00,000	DUCKETT	Yeah. I love the south. Miss those southern women. [laughs] In Australia long?
+440	00:00:00,000 --> 00:00:00,000	SAWYER	Not really.
+442	00:00:00,000 --> 00:00:00,000	DUCKETT	For what it's worth, we've got a special at the truck here. Half price for all Americans. Name's Frank, by the way.
+444	00:00:00,000 --> 00:00:00,000	SAWYER	James.
+446	00:00:00,000 --> 00:00:00,000	DUCKETT	Good to meet you, James. One shrimp and hot sauce.
+448	00:00:00,000 --> 00:00:00,000		[He turns to hand Sawyer the shrimp, but Sawyer's gone. We the sound of his car driving away.]
+450	00:00:00,000 --> 00:00:00,000		[Shot of Sawyer drinking at a bar.]
+452	00:00:00,000 --> 00:00:00,000	SAWYER	[downing a shot] Again.
+454	00:00:00,000 --> 00:00:00,000	BARTENDER	Are you sure about that, mate?
+456	00:00:00,000 --> 00:00:00,000	SAWYER	Again.
+458	00:00:00,000 --> 00:00:00,000	CHRISTIAN SHEPHARD	You tell 'em, cowboy. These bastards think Americans can't hold their liquor. I, uh, I hate to hold my hand out, but I seem to have misplaced my wallet.
+460	00:00:00,000 --> 00:00:00,000	SAWYER	Set him up.
+462	00:00:00,000 --> 00:00:00,000	CHRISTIAN SHEPHARD	I drink to you. What's your name, cowboy.
+464	00:00:00,000 --> 00:00:00,000	SAWYER	Sawyer.
+466	00:00:00,000 --> 00:00:00,000	CHRISTIAN SHEPHARD	To Sawyer, may he find whatever he's looking for in the bottom of a glass. So, Sawyer, what brings you to Sydney?
+468	00:00:00,000 --> 00:00:00,000	SAWYER	Business.
+470	00:00:00,000 --> 00:00:00,000	CHRISTIAN SHEPHARD	You know why they call Australia down under, don't you? Because it's as close as you can get to hell without being burned.
+472	00:00:00,000 --> 00:00:00,000	SAWYER	[to bartender] How about you leave the bottles? [to Shephard] What'd you handle, back in the States?
+474	00:00:00,000 --> 00:00:00,000	CHRISTIAN SHEPHARD	I was a Chief of Surgery.
+476	00:00:00,000 --> 00:00:00,000	SAWYER	Was?
+478	00:00:00,000 --> 00:00:00,000	CHRISTIAN SHEPHARD	Yeah, was.
+480	00:00:00,000 --> 00:00:00,000	SAWYER	So, we're in hell, huh?
+482	00:00:00,000 --> 00:00:00,000	CHRISTIAN SHEPHARD	Don't let the air conditioning fool you, son. You are here, too. You are suffering. But, don't beat yourself up about it. It's fate. Some people are just supposed to suffer. That's why the Red Sox will never win the damn series. I have a son who's about your age. He's not like me, he does what's in his heart. He's a good man, maybe a great one. And right now, he thinks that I hate him. He thinks I feel betrayed by him. But what I really feel is gratitude, and pride because of what he did to me. What he did for me. It took more courage than I have. There's a pay phone over here. I could pick it up and I could call my son. I could tell him about all this. I could tell him that I love him. One simple phone call and I could fix everything.
+484	00:00:00,000 --> 00:00:00,000	SAWYER	Why don't you?
+486	00:00:00,000 --> 00:00:00,000	CHRISTIAN SHEPHARD	Because I am weak. This -- this business that you have, will it ease your suffering?
+488	00:00:00,000 --> 00:00:00,000	SAWYER	Yeah.
+490	00:00:00,000 --> 00:00:00,000	CHRISTIAN SHEPHARD	Then what are you doing here?
+492	00:00:00,000 --> 00:00:00,000	SAWYER	It ain't that simple.
+494	00:00:00,000 --> 00:00:00,000	CHRISTIAN SHEPHARD	Of course it is. Unless you want to end up like me, of course it is.
+496	00:00:00,000 --> 00:00:00,000		[Shot of Sawyer in the rain at the shrimp truck, in his car, getting his gun to go get Duckett.]
+498	00:00:00,000 --> 00:00:00,000		[On-Island - Shot of Charlie shucking coconut.]
+500	00:00:00,000 --> 00:00:00,000	SAYID	You're developing quite a talent.
+502	00:00:00,000 --> 00:00:00,000	CHARLIE	Yeah. -- I get it. You're here to check up on me.
+504	00:00:00,000 --> 00:00:00,000	SAYID	You killed a man.
+506	00:00:00,000 --> 00:00:00,000	CHARLIE	A man who killed one of us, who kidnapped Claire, who strung me up and left me for dead. He deserved to die. I'd do it again in a minute. Pardon me, if I'm fresh out of bad feeling.
+508	00:00:00,000 --> 00:00:00,000	SAYID	When I was in the army in Tikrit, in Iraq, the man who lived next door was a policeman. One day his car was rigged with a bomb. It killed his wife and 3 young children instead. They caught the man who did it. I volunteered to be on the firing squad, and I did my duty without a single ounce of remorse. Then, for no reason, I found myself waking up at night, replaying what I did in my head.
+510	00:00:00,000 --> 00:00:00,000	CHARLIE	It looks like you're the one who needs checking up on.
+512	00:00:00,000 --> 00:00:00,000	SAYID	All I'm saying is that what happened with Ethan will be with you for the rest of your life.
+514	00:00:00,000 --> 00:00:00,000	CHARLIE	Any suggestions?
+516	00:00:00,000 --> 00:00:00,000	SAYID	You're not alone. Don't pretend to be.
+518	00:00:00,000 --> 00:00:00,000		[Shot of Sawyer and Kate walking in the jungle.]
+520	00:00:00,000 --> 00:00:00,000	SAWYER	I take comfort knowing that someday this all going to be a real nice shopping complex. Maybe even an auto mall. Where you going?
+522	00:00:00,000 --> 00:00:00,000	KATE	[pointing] Know what that is?
+524	00:00:00,000 --> 00:00:00,000	SAWYER	A hole in the mud.
+526	00:00:00,000 --> 00:00:00,000	KATE	It's a wallow.
+528	00:00:00,000 --> 00:00:00,000	SAWYER	What the hell's a wallow?
+530	00:00:00,000 --> 00:00:00,000	KATE	A boar's wallow? It's a den where he sleeps. And these tree rubbings are from his tusks.
+532	00:00:00,000 --> 00:00:00,000	SAWYER	You mean he's around here?
+534	00:00:00,000 --> 00:00:00,000	KATE	Maybe.
+536	00:00:00,000 --> 00:00:00,000		[They hear a baby boar sound. Sawyer goes running toward it.]
+538	00:00:00,000 --> 00:00:00,000	KATE	Sawyer?
+540	00:00:00,000 --> 00:00:00,000	SAWYER	Gotcha, ha ha ha.
+542	00:00:00,000 --> 00:00:00,000	KATE	I thought it'd be bigger.
+544	00:00:00,000 --> 00:00:00,000	SAWYER	Funny. Now we know daddy's got to be around here. Here piggy, piggy, piggy.
+546	00:00:00,000 --> 00:00:00,000	KATE	Hey, Sawyer, put it down. That's not funny.
+548	00:00:00,000 --> 00:00:00,000	SAWYER	Here piggy, piggy, piggy!
+550	00:00:00,000 --> 00:00:00,000	KATE	Put it down. What is the matter with you, Sawyer?! You're going to hurt it!
+552	00:00:00,000 --> 00:00:00,000	SAWYER	We're right over here!
+554	00:00:00,000 --> 00:00:00,000	KATE	Not funny.
+556	00:00:00,000 --> 00:00:00,000		[Kate kicks Sawyer and makes him let go of the piglet.]
+558	00:00:00,000 --> 00:00:00,000	SAWYER	Oww.
+560	00:00:00,000 --> 00:00:00,000	KATE	You're sick.
+562	00:00:00,000 --> 00:00:00,000	SAWYER	I didn't hurt it.
+564	00:00:00,000 --> 00:00:00,000	KATE	[walking off] Find your own way home.
+566	00:00:00,000 --> 00:00:00,000	SAWYER	No problem!
+568	00:00:00,000 --> 00:00:00,000		[Flashback - Shot of Sawyer in the rain. He walks up to Duckett.]
+570	00:00:00,000 --> 00:00:00,000	SAWYER	Sawyer. [He shoots Duckett.] I've got a letter for you. [reads] "Dear Mr. Sawyer..."
+572	00:00:00,000 --> 00:00:00,000	DUCKETT	Who?
+574	00:00:00,000 --> 00:00:00,000	SAWYER	You used to go by the name of Sawyer.
+576	00:00:00,000 --> 00:00:00,000	DUCKETT	What the hell are you talking about? You didn't have to -- tell Hibbs I would've paid.
+578	00:00:00,000 --> 00:00:00,000	SAWYER	How do you know Hibbs?
+580	00:00:00,000 --> 00:00:00,000	DUCKETT	You don't -- you don't know what you're doing, do you?
+582	00:00:00,000 --> 00:00:00,000	SAWYER	You borrowed money from Hibbs?
+584	00:00:00,000 --> 00:00:00,000	DUCKETT	I was going to pay. It'll come back around.
+586	00:00:00,000 --> 00:00:00,000		[On-Island - Shot of Sawyer wandering around in the jungle.]
+588	00:00:00,000 --> 00:00:00,000	SAWYER	Kate?!
+590	00:00:00,000 --> 00:00:00,000		[Sawyer sees the boar and gets his gun. Kate appears, looking on. Sawyer stares into the eyes of the boar and puts his gun away. Then he sees Kate.]
+592	00:00:00,000 --> 00:00:00,000	SAWYER	It's just a boar. Let's get back to camp.
+594	00:00:00,000 --> 00:00:00,000		[Shot of people with the net at the beach. Claire sitting on the beach. Walt playing with Vincent. Michael building the raft. Charlie approaches Claire.]
+596	00:00:00,000 --> 00:00:00,000	CHARLIE	Hey.
+598	00:00:00,000 --> 00:00:00,000	CLAIRE	Hey.
+600	00:00:00,000 --> 00:00:00,000	CHARLIE	Want to take that walk now?
+602	00:00:00,000 --> 00:00:00,000	CLAIRE	Sure.
+604	00:00:00,000 --> 00:00:00,000		[Shot of Jack getting wood, Sawyer comes up and pulls his gun out.]
+606	00:00:00,000 --> 00:00:00,000	SAWYER	Stick 'em up.
+608	00:00:00,000 --> 00:00:00,000	JACK	Trying to be funny?
+610	00:00:00,000 --> 00:00:00,000	SAWYER	Yeah, I was fresh out of pies to throw at you. Here you go, sheriff.
+612	00:00:00,000 --> 00:00:00,000	JACK	I asked you for this 2 days ago.
+614	00:00:00,000 --> 00:00:00,000	SAWYER	And I told you, stick it. But I made a deal with your girlfriend.
+616	00:00:00,000 --> 00:00:00,000	JACK	What did she give you? Kate -- what did she give you?
+618	00:00:00,000 --> 00:00:00,000	SAWYER	Nothing she wasn't willing to part with.
+620	00:00:00,000 --> 00:00:00,000	JACK	That's why the Sox will never win the series.
+622	00:00:00,000 --> 00:00:00,000	SAWYER	What's that?
+624	00:00:00,000 --> 00:00:00,000	JACK	Huh?
+626	00:00:00,000 --> 00:00:00,000	SAWYER	What'd you just say?
+628	00:00:00,000 --> 00:00:00,000	JACK	I said "That's why the Red Sox will never win the series".
+630	00:00:00,000 --> 00:00:00,000	SAWYER	What the hell is that supposed to mean?
+632	00:00:00,000 --> 00:00:00,000	JACK	It's just something my father used to say -- going through life knowing that people hated him. Instead of taking responsibility for it, he just put it on fate. Said he was made that way.
+634	00:00:00,000 --> 00:00:00,000	SAWYER	Your daddy, he a doctor, too?
+636	00:00:00,000 --> 00:00:00,000	JACK	Was. He is dead. Why do you want to know about my father?
+638	00:00:00,000 --> 00:00:00,000	SAWYER	No reason.
+640	00:00:00,000 --> 00:00:00,000		[Sawyer leaves. Jack snaps a log of wood with his foot.]

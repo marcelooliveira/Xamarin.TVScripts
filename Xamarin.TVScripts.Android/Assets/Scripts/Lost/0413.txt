@@ -1,0 +1,726 @@
+There's No Place Like Home, Parts 2 & 3
+2	00:00:00,000 --> 00:00:00,000	Written by	Damon Lindelof and Carlton Cuse
+4	00:00:00,000 --> 00:00:00,000	Directed by	Jack Bender
+6	00:00:00,000 --> 00:00:00,000		[Flash-forward - Kate's car speeds away from Jack outside the runway at the airport in Los Angeles at night. Suddenly, her tires skid as the car brakes to a stop, then speeds back toward Jack in reverse gear. Kate sighs, tear trickling down her face, before she starts in on Jack, who stands there at the fence beyond the runway.]
+8	00:00:00,000 --> 00:00:00,000	KATE	"We have to go back"? "We have to go back"?
+10	00:00:00,000 --> 00:00:00,000	JACK	Now hold on-
+12	00:00:00,000 --> 00:00:00,000	KATE	Who do you think you are?! You call me over and over again for two days straight, stoned on your pills! And then you show up here with an obituary for Jeremy Bentham. [Sighs] When he came to me and I heard what he had to say, I knew he was crazy. But you... You believed him.
+14	00:00:00,000 --> 00:00:00,000	JACK	Yes.
+16	00:00:00,000 --> 00:00:00,000	KATE	Him, of all people.
+18	00:00:00,000 --> 00:00:00,000	JACK	Yes, Kate, I did, because he said that that was the only way that I could keep you safe - you and Aaron.
+20	00:00:00,000 --> 00:00:00,000		[Kate slaps Jack.]
+22	00:00:00,000 --> 00:00:00,000	KATE	Don't you say his name. I still have to explain to him why you are not there to read to him, so don't you say his name!
+24	00:00:00,000 --> 00:00:00,000	JACK	I'm sorry.
+26	00:00:00,000 --> 00:00:00,000	KATE	I've spent the last three years trying to forget all the horrible things that happened on the day that we left. How dare you ask me to go back?
+28	00:00:00,000 --> 00:00:00,000		[Kate turns around and walks back to her car. She gets back in, shuts the door, and speeds off, leaving Jack standing there.]
+30	00:00:00,000 --> 00:00:00,000		[On-Island - Jack leads Sawyer through the jungle. Sawyer carries a rifle; Jack, a handgun.]
+32	00:00:00,000 --> 00:00:00,000	SAWYER	You sure we're going the right way?
+34	00:00:00,000 --> 00:00:00,000	JACK	Lapidus said they were headed northeast.
+36	00:00:00,000 --> 00:00:00,000	SAWYER	You might wanna slow down a little, 'cause you look like you're about to keel over, Doc.
+38	00:00:00,000 --> 00:00:00,000	JACK	I'm fine.
+40	00:00:00,000 --> 00:00:00,000	SAWYER	Of course you're fine. You're always fine-
+42	00:00:00,000 --> 00:00:00,000		[Jack stops Sawyer as they take in the dilapidated greenhouse in front of them. Most of its walls and roof have fallen in, and the jungle has had a big head start reclaiming the rest. They crouch down and observe quietly.]
+44	00:00:00,000 --> 00:00:00,000	SAWYER	Is this it?
+46	00:00:00,000 --> 00:00:00,000	JACK	I don't know.
+48	00:00:00,000 --> 00:00:00,000	SAWYER	So what's the plan, Sundance?
+50	00:00:00,000 --> 00:00:00,000	JACK	The plan is we wait til-
+52	00:00:00,000 --> 00:00:00,000		[They hear what sounds like a zipper zipping. They swing around, pointing their weapons toward the source of the sound, rustling branches. Through the foliage they see Hurley, apparently finishing up some business.]
+54	00:00:00,000 --> 00:00:00,000	SAWYER	Hugo?
+56	00:00:00,000 --> 00:00:00,000	HURLEY	Sawyer!
+58	00:00:00,000 --> 00:00:00,000		[Hurley zips up his pants.]
+60	00:00:00,000 --> 00:00:00,000	SAWYER	You all right?
+62	00:00:00,000 --> 00:00:00,000	HURLEY	Dude, you came back. How'd you know where I was?
+64	00:00:00,000 --> 00:00:00,000		[Hurley sees Jack a few feet behind Sawyer.]
+66	00:00:00,000 --> 00:00:00,000	JACK	It's good to see you, Hurley.
+68	00:00:00,000 --> 00:00:00,000	HURLEY	[Awkwardly] Yeah. Yeah, man. You, too.
+70	00:00:00,000 --> 00:00:00,000	JACK	So where the hell is he?
+72	00:00:00,000 --> 00:00:00,000		[Birds chirp as Jack, Sawyer, and Hurley hike up toward the greenhouse. Within, Jack sees Locke checking underneath overgrown shelves of plants.]
+74	00:00:00,000 --> 00:00:00,000	JACK	Locke!
+76	00:00:00,000 --> 00:00:00,000		[Locke turns around.]
+78	00:00:00,000 --> 00:00:00,000	LOCKE	Hello, Jack.
+80	00:00:00,000 --> 00:00:00,000		[The freighter Kahana motors through open water. Inside the armory, a green light shines on a radio receiver. Desmond examines the bomb it's connected to. Michael and Jin are with him.]
+82	00:00:00,000 --> 00:00:00,000	DESMOND	There's enough C-4 here to blow up a bloody aircraft carrier. When I was in the army... I did six months' explosive ordnance disposal, which, as the saying goes, is just enough time to learn how to blow yourself up.
+84	00:00:00,000 --> 00:00:00,000	MICHAEL	Is it on a timer? And why hasn't it gone off yet?
+86	00:00:00,000 --> 00:00:00,000	DESMOND	This is a-a radio receiver. It's... it's like a walkie-talkie. You send it a signal, and, uh... it--it triggers a bomb remotely.
+88	00:00:00,000 --> 00:00:00,000	JIN	So can we... turn off?
+90	00:00:00,000 --> 00:00:00,000	DESMOND	[Exhaling deeply through his lips] This is a... this is a trip wire. Move it, and... boom. This is dummy wiring. If you cut the wrong one... boom. This is multiple firing systems. You disable one, and the next one... boom. Uh, this... battery's the power source. If you disconnect it-
+92	00:00:00,000 --> 00:00:00,000	JIN	Boom.
+94	00:00:00,000 --> 00:00:00,000		[In the greenhouse, Jack confronts Locke while Sawyer and Hurley stand idly behind.]
+96	00:00:00,000 --> 00:00:00,000	JACK	What are you doing in here?
+98	00:00:00,000 --> 00:00:00,000	LOCKE	There's a--a DHARMA station below us, and, um, I'm looking for a way to get in.
+100	00:00:00,000 --> 00:00:00,000	JACK	Get in and do what?
+102	00:00:00,000 --> 00:00:00,000	LOCKE	Hugo, James, would you mind if I spoke to Jack alone?
+104	00:00:00,000 --> 00:00:00,000		[Hurley and Sawyer turn to leave.]
+106	00:00:00,000 --> 00:00:00,000	JACK	Don't bother. We just came back for Hurley. Let's go.
+108	00:00:00,000 --> 00:00:00,000		[Jack turns to leave. Sawyer starts to leave, but Hurley looks like he doesn't want to leave Locke behind.]
+110	00:00:00,000 --> 00:00:00,000	LOCKE	Jack, you need to hear what I have to say-
+112	00:00:00,000 --> 00:00:00,000		[Jack turns around and begins speaking forcefully.]
+114	00:00:00,000 --> 00:00:00,000	JACK	What I need to do is to walk back to the chopper, get on it, and get the rest of our people off this island.
+116	00:00:00,000 --> 00:00:00,000	HURLEY	Uh, dude, probably not the best idea right now. Those Rambo guys are taking Ben to that helicopter. He surrendered himself to 'em about an hour ago.
+118	00:00:00,000 --> 00:00:00,000	JACK	[to Locke] Now why the hell would he do that?
+120	00:00:00,000 --> 00:00:00,000		[Keamy and the other mercenaries march Ben through the jungle. Hulky, crew-cut Redfern takes up the rear, his giant rifle pointed into the trees, vigilant against any ambush. Ben's hands are bound with plastic hand bindings.]
+122	00:00:00,000 --> 00:00:00,000	KEAMY	So tell me something, Ben. What is it that makes you so important, hmm? I'm curious. I'm curious as to why Mr. Widmore would pay me so much money just to come out here and capture you and bring you back alive.
+124	00:00:00,000 --> 00:00:00,000	BEN	Charles Widmore tell you to kill my daughter?
+126	00:00:00,000 --> 00:00:00,000		[Keamy and they others hear metal rattling. The helicopter is very near, and pilot Frank Lapidus tries to un-handcuff himself from it using a pair of pliers.]
+128	00:00:00,000 --> 00:00:00,000	KEAMY	Hey! How'd he get the toolbox?
+130	00:00:00,000 --> 00:00:00,000		[Keamy marches up to Lapidus.]
+132	00:00:00,000 --> 00:00:00,000	LAPIDUS	Damn.
+134	00:00:00,000 --> 00:00:00,000		[Lapidus throws the pliers away into the helicopter.]
+136	00:00:00,000 --> 00:00:00,000	KEAMY	Who gave you the toolbox, Frank?
+138	00:00:00,000 --> 00:00:00,000	LAPIDUS	Who, uh...
+140	00:00:00,000 --> 00:00:00,000	KEAMY	[Forcefully, in Lapidus's face] Hey!
+142	00:00:00,000 --> 00:00:00,000		[Behind Keamy, a branch snaps, and some grass rustles. Frank looks in the direction of the disturbance. Keamy whirls around and draws his rifle at the source of the sound. All the other mercenaries do the same. Kate comes running out. She puts her hands up.]
+144	00:00:00,000 --> 00:00:00,000	KEAMY	Whoa, whoa, whoa, whoa, whoa. You're good right there.
+146	00:00:00,000 --> 00:00:00,000		[Kate stops and pants, out of breath.]
+148	00:00:00,000 --> 00:00:00,000	KEAMY	Who are you?
+150	00:00:00,000 --> 00:00:00,000	KATE	[Gasping] I'm Kate. I'm one of the passengers of Flight 815.
+152	00:00:00,000 --> 00:00:00,000	KEAMY	Why are you running?
+154	00:00:00,000 --> 00:00:00,000	KATE	I'm being chased... [pants, and points to Ben] by his people.
+156	00:00:00,000 --> 00:00:00,000		[Keamy calls to his men and orders them, pointing to different positions in the jungle.]
+158	00:00:00,000 --> 00:00:00,000	KEAMY	Kocol... Lacour... Redfern on flank.
+160	00:00:00,000 --> 00:00:00,000		[The men go. Omar stays near the helicopter. Keamy grabs Kate by the wrist and pulls her over down beside Ben near the helicopter.]
+162	00:00:00,000 --> 00:00:00,000	KEAMY	Come here.
+164	00:00:00,000 --> 00:00:00,000	KATE	Whoa. Hey.
+166	00:00:00,000 --> 00:00:00,000	KEAMY	Get on your knees.
+168	00:00:00,000 --> 00:00:00,000		[He pushes Kate and she falls to her knees.]
+170	00:00:00,000 --> 00:00:00,000	KATE	Uhh!
+172	00:00:00,000 --> 00:00:00,000	KEAMY	Hands above your heads, both of you.
+174	00:00:00,000 --> 00:00:00,000		[They do as they are told. Kate pants. Lapidus looks around, still handcuffed to the helicopter.]
+176	00:00:00,000 --> 00:00:00,000		[Voices whisper indistinctly. The ghostly whispers distract the mercenaries as they search for the source of the sounds. Distantly, something runs through the foliage. Suddenly, a man topples out of a tree onto Kocol, tackling him to the ground, pulling his head backwards and cracking his neck before Kocol can make a sound. Keamy looks in Lacour's direction, but sees nothing. Keamy and Redfern spread out. Keamy sees something run through the foliage. Kate looks at Ben, who observes silently. Then, another man jumps from a hiding spot behind some tall grass and whips a snare around Lacour's legs. Lacour trips backward, squeezing the trigger on his rifle as he falls, spraying a stream of muzzle flare into the air.]
+178	00:00:00,000 --> 00:00:00,000	KEAMY	Now! Spray it!
+180	00:00:00,000 --> 00:00:00,000		[Keamy, Redfern, and Omar begin shooting blindly into the jungle around them. Kate and Ben duck and cover. Lapidus seeks refuge inside the helicopter and dodges the return fire that seems to be coming at the mercenaries from the jungle, where men are spotted shooting rifles from. Near Redfern, a man raises a pistol-like weapon and fires. With a whoosh, a stun dart flies through the air into Redfern's muscular neck. Redfern grabs at his neck on the point of impact, but with an electric crackling sound the stun dart activates and Redfern goes down, his limbs quaking. Grunting, Keamy leaps for cover behind a large rock as the gunfire continues from all around him. Omar fires aimlessly. Bullets ricochet.]
+182	00:00:00,000 --> 00:00:00,000	KATE	Ben, stay close. Run! Run.
+184	00:00:00,000 --> 00:00:00,000		[She grabs onto Ben and the two start running away from the helicopter. Keamy cocks his rifle and leaves his cover to pursue. Just then, a grenade lands right next to the helicopter.]
+186	00:00:00,000 --> 00:00:00,000	LAPIDUS	Grenade!
+188	00:00:00,000 --> 00:00:00,000		[Keamy kicks the grenade away from the helicopter, grunting. It lands right next to Omar and explodes, sending Omar flying backward through the air. Keamy ducks again behind the rock as dirt and debris rain on him. He gets up, lets show a grimace that evinces both exasperation and determination, and goes after Kate and Ben. The chase through the jungle is on. Kate and Ben have a head start, but Ben, whose hands are bound, has a tough time keeping up, and finally stumbles and falls.]
+190	00:00:00,000 --> 00:00:00,000	BEN	Uhh!
+192	00:00:00,000 --> 00:00:00,000	KATE	Get up. Come on. Get up.
+194	00:00:00,000 --> 00:00:00,000		[Kate runs back for him and pulls him up--but Keamy is closer now. Suddenly, Sayid sacks Keamy--]
+196	00:00:00,000 --> 00:00:00,000	KEAMY	Uhh! Aah!
+198	00:00:00,000 --> 00:00:00,000		[--and the two tumble down a slope. Keamy recovers first and draws his handgun, but Sayid grabs Keamy's arm and pushes it to the side just before Keamy gets off a shot. Keamy swings his arm around and pulls the trigger a second time; the bullet flies aimlessly in the opposite direction. Keamy twists Sayid's arm, leveraging Sayid into the ground, but Sayid keeps hold of the gun and flips a leg up to kick Keamy off of him. Keamy falls backward and loses hold of the gun. Sayid grabs it and begins to point it at Keamy, but Keamy kicks a long leg up toward Sayid and kicks the gun out of Sayid's hands. Sayid turns to run toward it. Keamy gets up and pursues, latching onto Sayid's two shoulders. Sayid forgets about the gun and turns under Keamy, unsheathing a curve-bladed knife from Keamy's leg and stabbing it into Keamy's armpit.]
+200	00:00:00,000 --> 00:00:00,000	KEAMY	Aah!
+202	00:00:00,000 --> 00:00:00,000		[The two shout battle grunts at each other through a rapid-fire series of attacks and counterattacks: Keamy grabs Sayid's knife arm and knees Sayid, causing Sayid to drop the knife and double over just before Keamy drives an elbow down onto the back of Sayid's head. Sayid recovers quickly, and Keamy throws a right-left one-two, but Sayid blocks the blows and uppercuts Keamy. Keamy's head goes backward, but Keamy comes up with an elbow directly to Sayid's face, and Sayid goes down, falling on his back. Keamy spits from a bloodied mouth. Keamy limps toward the fallen gun. Sayid rolls over and crawls toward it. He picks up a fallen tree limb and swings it around into the back of Keamy's right leg. He hits Keamy in the legs again, and then swings around and hits Keamy in the front of the neck, sending Keamy backward down the slope and onto his back.]
+204	00:00:00,000 --> 00:00:00,000	KEAMY	Aah! [Grunting]
+206	00:00:00,000 --> 00:00:00,000		[Sayid comes down upon Keamy with the tree limb, but Keamy grabs it and catapults Sayid over the top of him. The momentum of the motion sends Sayid landing on his back with Keamy square on top of him, straddling Sayid's body and pressing the tree limb down into Sayid, with Sayid's only defense to try to bench-press the limb up and away from him. Keamy wins this fight and the limb presses down into Sayid's neck, strangling him. Sayid gasps for air. Keamy presses harder. And harder. And harder. Then--gunfire. Three shots. Keamy topples off of Sayid. Panting, Sayid looks up to see Richard with a handgun in his outstretched arm. Richard lowers the gun and walks toward Sayid. Sayid struggles to his knees as numerous, dirty Others emerge from the tall grass and jungle around them. Kate and Ben, too, come running down the path and into the clearing where Sayid and Keamy's fight took place. Kate offers Sayid a hand and helps him up, smiling at him. Ben looks down at Keamy. Keamy's eyes stare blankly into the sky, wide open. Ben turns toward the man who fired the final shots.]
+208	00:00:00,000 --> 00:00:00,000	BEN	Thank you for coming, Richard.
+210	00:00:00,000 --> 00:00:00,000	RICHARD	My pleasure.
+212	00:00:00,000 --> 00:00:00,000		[Ben reaches his bound hands toward Kate, who has picked up Keamy's knife that Sayid dropped in the fight.]
+214	00:00:00,000 --> 00:00:00,000	BEN	Could you cut me free, Kate?
+216	00:00:00,000 --> 00:00:00,000		[Kate cuts the plastic bindings off of Ben's hands.]
+218	00:00:00,000 --> 00:00:00,000	BEN	What was the arrangement?
+220	00:00:00,000 --> 00:00:00,000	RICHARD	They, uh, help us free you, and we let 'em off the island.
+222	00:00:00,000 --> 00:00:00,000	BEN	Fair enough. The helicopter is yours. You and Sayid have a safe journey back.
+224	00:00:00,000 --> 00:00:00,000	KATE	So we can go? Off the island? That's it?
+226	00:00:00,000 --> 00:00:00,000	BEN	That's it.
+228	00:00:00,000 --> 00:00:00,000		[Flash-forward - In Santa Rosa Mental Health Institute, Hurley opens a candy bar.]
+230	00:00:00,000 --> 00:00:00,000	MICHAEL'S MOTHER	Thank you, miss.
+232	00:00:00,000 --> 00:00:00,000	NURSE	Mm-hmm.
+234	00:00:00,000 --> 00:00:00,000	MICHAEL'S MOTHER	Are you Hurley?
+236	00:00:00,000 --> 00:00:00,000	HURLEY	Yeah.
+238	00:00:00,000 --> 00:00:00,000	MICHAEL'S MOTHER	Are you dangerous?
+240	00:00:00,000 --> 00:00:00,000	HURLEY	I'm sorry. Do I know you?
+242	00:00:00,000 --> 00:00:00,000	MICHAEL'S MOTHER	No, you don't know me... but you know my grandson.
+244	00:00:00,000 --> 00:00:00,000		[Behind Michael's mother, Walt stands at the far end of the room. No longer a ten-year-old, he has grown into a strikingly handsome teenage man.]
+246	00:00:00,000 --> 00:00:00,000	MICHAEL'S MOTHER	Now we've traveled all the way across country just so he could see you. I need to know if you're gonna do anything crazy.
+248	00:00:00,000 --> 00:00:00,000	HURLEY	I won't do anything crazy.
+250	00:00:00,000 --> 00:00:00,000		[Walt sits down in a chair across from Hurley.]
+252	00:00:00,000 --> 00:00:00,000	HURLEY	Hey, Walt.
+254	00:00:00,000 --> 00:00:00,000	WALT	Hey, Hurley.
+256	00:00:00,000 --> 00:00:00,000	HURLEY	You're getting big, Dude.
+258	00:00:00,000 --> 00:00:00,000	WALT	You know, when you came back, I was waiting for one of you to come see me, but... nobody did.
+260	00:00:00,000 --> 00:00:00,000	HURLEY	I'm sorry.
+262	00:00:00,000 --> 00:00:00,000	WALT	Do you know who did come see me? Jeremy Bentham. I don't understand why you're all lying.
+264	00:00:00,000 --> 00:00:00,000	HURLEY	[Lowered voice] We're lying... because it's the only way to protect everyone that didn't come back.
+266	00:00:00,000 --> 00:00:00,000	WALT	Like my dad?
+268	00:00:00,000 --> 00:00:00,000	HURLEY	Like your dad, yeah.
+270	00:00:00,000 --> 00:00:00,000		[On-Island - Hurley and Sawyer are waiting just outside the Orchid greenhouse.]
+272	00:00:00,000 --> 00:00:00,000	SAWYER	What the hell they talkin' about in there, anyway?
+274	00:00:00,000 --> 00:00:00,000	HURLEY	I don't know. Leader stuff?
+276	00:00:00,000 --> 00:00:00,000		[Sawyer scoffs. He eyes Hurley's wrapper of soda crackers.]
+278	00:00:00,000 --> 00:00:00,000	SAWYER	Where'd you get that?
+280	00:00:00,000 --> 00:00:00,000	HURLEY	Came from a box Ben dug up out of the ground. They're good.
+282	00:00:00,000 --> 00:00:00,000		[Hurley gives Sawyer a soda cracker.]
+284	00:00:00,000 --> 00:00:00,000	HURLEY	Thanks for coming back for me.
+286	00:00:00,000 --> 00:00:00,000	SAWYER	[Crunching on the cracker] Ah, you got it.
+288	00:00:00,000 --> 00:00:00,000	HURLEY	Claire and the baby okay?
+290	00:00:00,000 --> 00:00:00,000		[Sawyer looks at Hurley.]
+292	00:00:00,000 --> 00:00:00,000		[Jack and Locke are inside the Orchid greenhouse.]
+294	00:00:00,000 --> 00:00:00,000	JACK	What did you wanna talk to me about, John?
+296	00:00:00,000 --> 00:00:00,000		[Bird squawks in distance.]
+298	00:00:00,000 --> 00:00:00,000	LOCKE	I want you to reconsider leaving the island, Jack. I would like you to stay.
+300	00:00:00,000 --> 00:00:00,000	JACK	You'd like me to stay?
+302	00:00:00,000 --> 00:00:00,000	LOCKE	Yeah, that's right.
+304	00:00:00,000 --> 00:00:00,000	JACK	[Chuckles] You threw a knife into the back of an unarmed woman. You led half of our people across the island and got most of them killed.
+306	00:00:00,000 --> 00:00:00,000	LOCKE	Well, Jack, you put a gun to my head and you pulled the trigger. I was hoping we could let bygones be bygones.
+308	00:00:00,000 --> 00:00:00,000	JACK	Well, I'll tell you what. You stay here in your little greenhouse, but the rest of us are going home.
+310	00:00:00,000 --> 00:00:00,000	LOCKE	But you're not supposed to go home.
+312	00:00:00,000 --> 00:00:00,000	JACK	And what am I supposed to do? Oh, I think I remember. What was it that you said on the way out to the hatch--that crashing here was our destiny?
+314	00:00:00,000 --> 00:00:00,000	LOCKE	You know, Jack. You know that you're here for a reason. You know it. And if you leave this place, that knowledge is gonna eat you alive from the inside out...until you decide to come back.
+316	00:00:00,000 --> 00:00:00,000	JACK	Good-bye, John.
+318	00:00:00,000 --> 00:00:00,000		[Jack turns to leave.]
+320	00:00:00,000 --> 00:00:00,000	LOCKE	You're gonna have to lie.
+322	00:00:00,000 --> 00:00:00,000	JACK	Excuse me?
+324	00:00:00,000 --> 00:00:00,000	LOCKE	If you have to go, then you have to lie about everything...everything that happened since we got to the island it's the only way to protect it.
+326	00:00:00,000 --> 00:00:00,000	JACK	[Sighs] It's an island, John. No one needs to protect it.
+328	00:00:00,000 --> 00:00:00,000	LOCKE	It's not an island. It's a place where miracles happen. And--and--if you--if you don't believe that, Jack, if you can't believe that, just wait till you see what I'm about to do.
+330	00:00:00,000 --> 00:00:00,000	JACK	There's no such thing as miracles.
+332	00:00:00,000 --> 00:00:00,000	LOCKE	Well...we'll just have to see which one of us is right.
+334	00:00:00,000 --> 00:00:00,000	BEN	Am I interrupting?
+336	00:00:00,000 --> 00:00:00,000		[Jack whirls around to see Ben entering the greenhouse. He points his gun at Ben, cocking it.]
+338	00:00:00,000 --> 00:00:00,000	BEN	Nice to see you, too, Jack.
+340	00:00:00,000 --> 00:00:00,000		[Ben ignores the threat from Jack and moves right past Jack and Locke into the interior of the greenhouse.]
+342	00:00:00,000 --> 00:00:00,000	BEN	Couldn't find the Anthuriums, could you?
+344	00:00:00,000 --> 00:00:00,000	LOCKE	I don't know what they look like.
+346	00:00:00,000 --> 00:00:00,000		[Ben shakes a small potted flower, then reaches underneath a shelf and activates a switch. Metal clacks, and a door creaks as a secret elevator is exposed.]
+348	00:00:00,000 --> 00:00:00,000	JACK	What are you doing?
+350	00:00:00,000 --> 00:00:00,000	BEN	Didn't you tell him?
+352	00:00:00,000 --> 00:00:00,000	LOCKE	I tried.
+354	00:00:00,000 --> 00:00:00,000	BEN	Sayid and Kate are waiting for you at the helicopter. I understand that your people from the beach are being brought to the freighter even as we speak.
+356	00:00:00,000 --> 00:00:00,000	JACK	What?
+358	00:00:00,000 --> 00:00:00,000	BEN	I'd love to fill you in on everything you missed, Jack, but you, Hugo, James, you need to get moving. If I were you, I'd want to be on that boat within the hour. Good-bye, Jack. [To Locke] Let's go.
+360	00:00:00,000 --> 00:00:00,000	LOCKE	Lie to them, Jack. If you do it half as well as you lie to yourself, they'll believe you.
+362	00:00:00,000 --> 00:00:00,000		[Locke gets into the elevator. He and Jack share a glance through the window before it takes him and Ben down.]
+364	00:00:00,000 --> 00:00:00,000		[On the freigher, Michael is pushing a tank of liquid nitrogen across the deck.]
+366	00:00:00,000 --> 00:00:00,000		[Man speaks indistinctly.]
+368	00:00:00,000 --> 00:00:00,000	MAN	Yeah, I'll be right here.
+370	00:00:00,000 --> 00:00:00,000		[Aaron crying.]
+372	00:00:00,000 --> 00:00:00,000	SUN	Michael? What's going on down there?
+374	00:00:00,000 --> 00:00:00,000	MAN	Ready to go?
+376	00:00:00,000 --> 00:00:00,000		[Man speaks indistinctly.]
+378	00:00:00,000 --> 00:00:00,000	MICHAEL	Did you tell anybody?
+380	00:00:00,000 --> 00:00:00,000	SUN	No, Michael. I--I didn't. Can you... t-turn it off?
+382	00:00:00,000 --> 00:00:00,000		[Aaron fusses.]
+384	00:00:00,000 --> 00:00:00,000	MICHAEL	It isn't even on yet. But, yeah, if what's in this tank does what it's supposed to do, we're gonna be okay.
+386	00:00:00,000 --> 00:00:00,000		[Aaron continues fussing.]
+388	00:00:00,000 --> 00:00:00,000	MICHAEL	Look, I'll send Jin upstairs. There's no need for him to be down there with me when he can be up here with you.
+390	00:00:00,000 --> 00:00:00,000	SUN	I'm pregnant.
+392	00:00:00,000 --> 00:00:00,000	MICHAEL	Congratulations, Sun.
+394	00:00:00,000 --> 00:00:00,000		[Michael takes the canister below deck.]
+396	00:00:00,000 --> 00:00:00,000	DESMOND	You're gonna what?
+398	00:00:00,000 --> 00:00:00,000	MICHAEL	Freeze it. This is liquid nitrogen. We use it in the refrigeration hold. The bomb needs a charge from the battery to detonate, right? And the battery runs on a--a chemical reaction. I spray the battery. I can keep it cold. No reaction.
+400	00:00:00,000 --> 00:00:00,000	DESMOND	And what's the catch?
+402	00:00:00,000 --> 00:00:00,000	MICHAEL	The catch is we only have one canister. We use it up, we're right back where we started.
+404	00:00:00,000 --> 00:00:00,000	DESMOND	Well, shouldn't we save it till the light turns red?
+406	00:00:00,000 --> 00:00:00,000	MICHAEL	If we see that light turn red and the battery's not already cold, that is the last thing we will ever see. Either way, at least we'll have a warning, buy ourselves some time.
+408	00:00:00,000 --> 00:00:00,000	DESMOND	All right, um, freeze the battery. Jin, help me trace back these wires, make a list of where each of them goes to.
+410	00:00:00,000 --> 00:00:00,000		[Hissing.]
+412	00:00:00,000 --> 00:00:00,000		[Michael begins to freeze the battery.]
+414	00:00:00,000 --> 00:00:00,000		[Motor revving in distance.]
+416	00:00:00,000 --> 00:00:00,000		[On the Island, Daniel arrives back on the beach with the raft.]
+418	00:00:00,000 --> 00:00:00,000	MAN	Boat!
+420	00:00:00,000 --> 00:00:00,000		[Man shouts indistinctly. Motor powers down. People run to help Daniel pull the raft onto the beach.]
+422	00:00:00,000 --> 00:00:00,000	FARADAY	Thank you.
+424	00:00:00,000 --> 00:00:00,000	MAN	Down there.
+426	00:00:00,000 --> 00:00:00,000	JULIET	Did you get them all to the boat?
+428	00:00:00,000 --> 00:00:00,000	FARADAY	Yeah, everybody's safe.
+430	00:00:00,000 --> 00:00:00,000	JULIET	Are they coming closer?
+432	00:00:00,000 --> 00:00:00,000	FARADAY	They fixed the engine, and they're gonna get as close to the island as they can without hitting the reef, so the next trip shouldn't take so long. I'm just gonna get some water, and I'll come back in a minute.
+434	00:00:00,000 --> 00:00:00,000	JULIET	Okay, I'll get the next group ready to go.
+436	00:00:00,000 --> 00:00:00,000	FARADAY	Thank you.
+438	00:00:00,000 --> 00:00:00,000	JULIET	Dan!
+440	00:00:00,000 --> 00:00:00,000	FARADAY	Yeah?
+442	00:00:00,000 --> 00:00:00,000	JULIET	Thanks for helping us.
+444	00:00:00,000 --> 00:00:00,000	FARADAY	Absolutely.
+446	00:00:00,000 --> 00:00:00,000	JULIET	Okay, let's go!
+448	00:00:00,000 --> 00:00:00,000		[Further up the beach, Rose finds Miles in the kitchen.]
+450	00:00:00,000 --> 00:00:00,000	ROSE	Uh, who told you you could eat those peanuts?
+452	00:00:00,000 --> 00:00:00,000	MILES	May--may I eat these peanuts?
+454	00:00:00,000 --> 00:00:00,000	ROSE	I'm gonna keep my eye on you, shorty.
+456	00:00:00,000 --> 00:00:00,000	FARADAY	[entering] Miles...
+458	00:00:00,000 --> 00:00:00,000	MILES	Somethin' wrong with your neck?
+460	00:00:00,000 --> 00:00:00,000	FARADAY	Follow me, please.
+462	00:00:00,000 --> 00:00:00,000	CHARLOTTE	Dan, you're back. Hey. What's wrong?
+464	00:00:00,000 --> 00:00:00,000	FARADAY	I'm leaving in ten minutes to take the next group of people to the freighter. You need to make sure that you're with me on that raft, all right?
+466	00:00:00,000 --> 00:00:00,000	MILES	Well, don't worry about me, 'cause I'm gonna stay.
+468	00:00:00,000 --> 00:00:00,000	FARADAY	Miles, no, uh, uh, I don't think I'm getting across the... direness of the circumstance.
+470	00:00:00,000 --> 00:00:00,000	MILES	Oh, no, you're very dire, but I'm still gonna stay.
+472	00:00:00,000 --> 00:00:00,000		[Faraday sees Charlotte come near.]
+474	00:00:00,000 --> 00:00:00,000	FARADAY	Hey, ten minutes.
+476	00:00:00,000 --> 00:00:00,000	CHARLOTTE	Yep.
+478	00:00:00,000 --> 00:00:00,000		[Faraday leaves.]
+480	00:00:00,000 --> 00:00:00,000	MILES	I'm surprised you wanna leave.
+482	00:00:00,000 --> 00:00:00,000	CHARLOTTE	Sorry?
+484	00:00:00,000 --> 00:00:00,000	MILES	It's just weird. You know, after all that time you spent trying to get back here.
+486	00:00:00,000 --> 00:00:00,000	CHARLOTTE	What do you mean, get back here?
+488	00:00:00,000 --> 00:00:00,000	MILES	...What do I mean?
+490	00:00:00,000 --> 00:00:00,000		[He walks away as Charlotte considers what he said.]
+492	00:00:00,000 --> 00:00:00,000		[Locke and Ben are going down in the elevator. Whirring.]
+494	00:00:00,000 --> 00:00:00,000	LOCKE	How deep is the station?
+496	00:00:00,000 --> 00:00:00,000	BEN	Deep.
+498	00:00:00,000 --> 00:00:00,000		[Clank, squeak.]
+500	00:00:00,000 --> 00:00:00,000		[When it stops, Ben begins switching lights on. Switch clicks, electricity powers up. Switches and knobs clicking.]
+502	00:00:00,000 --> 00:00:00,000	LOCKE	Is this the magic box?
+504	00:00:00,000 --> 00:00:00,000	BEN	No, John, it's not.
+506	00:00:00,000 --> 00:00:00,000		[Switch clicks, whirring.]
+508	00:00:00,000 --> 00:00:00,000	LOCKE	What is all this stuff for?
+510	00:00:00,000 --> 00:00:00,000	BEN	Same things that all the DHARMA stations are for (flips paper) - silly experiments.
+512	00:00:00,000 --> 00:00:00,000	LOCKE	What kind of experiments?
+514	00:00:00,000 --> 00:00:00,000	BEN	You know what, John?
+516	00:00:00,000 --> 00:00:00,000		[Objects rattle as Ben rummages through a drawer and retrieves a videocassette.]
+518	00:00:00,000 --> 00:00:00,000	BEN	Why don't you watch this very informative video that will answer some of your questions...
+520	00:00:00,000 --> 00:00:00,000		[Ben flips on a TV set, which hisses with static.]
+522	00:00:00,000 --> 00:00:00,000	BEN	...and I'll take care of some business.
+524	00:00:00,000 --> 00:00:00,000		[The videotape player whirrs into operation. The image on the screen warps and distorts, as if the tape is very old and has seen many playings.]
+526	00:00:00,000 --> 00:00:00,000	SCIENTIST	[On video] Hello. I'm Dr. Edgar Halliwax... [warps and distorts] and this is the orientation film for station six of the DHARMA Initiative. As you've no doubt surmised, station six, or "The Orchid," is not... [warps and distorts] a botanical research unit. The unique properties... [warps and distorts] of this island have created a kind of Casimir effect, allowing the DHARMA initiative to conduct unique experiments in both space and time. [Clatter] This... is "the vault", constructed adjacent to a pocket of what we believe... [warps and distorts] to be negatively charged "exotic matter". Great care must be taken to avoid leaving inorganic materials... [warps and distorts] inside the chamber. The electromagnetic energy within the island can be highly volatile and unpredictable. Now for your own safety and the safety of those around you, metallic objects must never... [warps and distorts] be placed within the vault.
+528	00:00:00,000 --> 00:00:00,000		[There's a loud clank as Ben sets a metal trash bin into the vault.]
+530	00:00:00,000 --> 00:00:00,000	SCIENTIST	[On video] [whirring] In our first demonstration, we will attempt to shift the test subject 100 milliseconds ahead in four-dimensional space. For the briefest... [warps and distorts] of moments, the animal will seem to disappear, but in reality... [voice distorts]
+532	00:00:00,000 --> 00:00:00,000		[Suddenly, the tape starts to rewind. Locke tries pressing the stop button, but the tape keeps rewinding. He bangs on the top of the videotape player, but to no effect. The machine keeps whirring. Locke gets up and goes to Ben.]
+534	00:00:00,000 --> 00:00:00,000	LOCKE	Hey. Uh... was he talking about what I think he was talking about?
+536	00:00:00,000 --> 00:00:00,000	BEN	If you mean time-travelling bunnies, then yes.
+538	00:00:00,000 --> 00:00:00,000	LOCKE	You do know that he said specifically not to put anything metal in here.
+540	00:00:00,000 --> 00:00:00,000		[Ben stares at Locke for a second, then gives a curt, exasperated nod and turns back to his work. Suddenly, they hear a metal creak and a clank and a squeak as the elevator starts making the trip back up the shaft with a whirring sound.]
+542	00:00:00,000 --> 00:00:00,000	LOCKE	You expecting someone?
+544	00:00:00,000 --> 00:00:00,000		[The elevator continues to squeak up the shaft.]
+546	00:00:00,000 --> 00:00:00,000	BEN	May I have my weapon back?
+548	00:00:00,000 --> 00:00:00,000		[Hurley, Sawyer and Jack arrives at the helicopter.]
+550	00:00:00,000 --> 00:00:00,000	HURLEY	Sayid! Kate! [Sayid and Hurley hug] Good to see you, Dude.
+552	00:00:00,000 --> 00:00:00,000		[Sawyer looks at the dead body of a mercenary.]
+554	00:00:00,000 --> 00:00:00,000	SAWYER	He say somethin' to tick you off, Freckles?
+556	00:00:00,000 --> 00:00:00,000	KATE	Didn't kill that one.
+558	00:00:00,000 --> 00:00:00,000	SAWYER	Well, which one did you kill?
+560	00:00:00,000 --> 00:00:00,000	JACK	Where's the baby?
+562	00:00:00,000 --> 00:00:00,000	KATE	He's with Sun, and they should be at the freighter by now. Are you okay?
+564	00:00:00,000 --> 00:00:00,000	JACK	I am now.
+566	00:00:00,000 --> 00:00:00,000		[Panting.]
+568	00:00:00,000 --> 00:00:00,000	SAWYER	[To Frank] Hey Kenny Rogers. What you trying to do there, pick a lock?
+570	00:00:00,000 --> 00:00:00,000	LAPIDUS	You got a better idea?
+572	00:00:00,000 --> 00:00:00,000	SAWYER	Hacksaw.
+574	00:00:00,000 --> 00:00:00,000	LAPIDUS	For the handcuffs, right?
+576	00:00:00,000 --> 00:00:00,000		[He begins to saw the handcuffs.]
+578	00:00:00,000 --> 00:00:00,000	LAPIDUS	Okay, take it easy.
+580	00:00:00,000 --> 00:00:00,000	SAWYER	Ay. All right, all right.
+582	00:00:00,000 --> 00:00:00,000	JACK	Sayid, how'd you get back?
+584	00:00:00,000 --> 00:00:00,000	SAYID	I took the Zodiac from the freighter.
+586	00:00:00,000 --> 00:00:00,000	JACK	Is it safe? A body from the boat washed up on the beach.
+588	00:00:00,000 --> 00:00:00,000	SAYID	It's safe now.
+590	00:00:00,000 --> 00:00:00,000		[Sawyer finishing cutting Lapidus free.]
+592	00:00:00,000 --> 00:00:00,000	LAPIDUS	All right! Let's get the hell outta here!
+594	00:00:00,000 --> 00:00:00,000	SAWYER	Let's go, Freckles. I've seen enough of this rock.
+596	00:00:00,000 --> 00:00:00,000		[Rotors powering up. Everyone boards the helicopter.]
+598	00:00:00,000 --> 00:00:00,000	HURLEY	After we drop everyone off at the boat, we can come back and look for Claire, right?
+600	00:00:00,000 --> 00:00:00,000	JACK	Absolutely.
+602	00:00:00,000 --> 00:00:00,000	LAPIDUS	Hands and feet inside the vehicle! Let's go for a ride!
+604	00:00:00,000 --> 00:00:00,000		[The chopper takes off and heads away from the Island.]
+606	00:00:00,000 --> 00:00:00,000		[Inside the Orchid station, the elevator creaks to the bottom of the shaft. It stops with a clank and a squeak. Two army boots stand inside. Above them, a hand reaches down and unsheathes a knife from a boot. It's Keamy. He lifts the elevator gate and limps out into the station. In the distance, Dr. Halliwax continues to talk on the videotape.]
+608	00:00:00,000 --> 00:00:00,000	SCIENTIST	[On video] ...properties of this island have created a kind of Casimir effect...
+610	00:00:00,000 --> 00:00:00,000	KEAMY	I know you're down here, Ben. [Panting] Crouching in the dark, just waiting to take a shot at me.
+612	00:00:00,000 --> 00:00:00,000	SCIENTIST	[On video] This... is "the vault"...
+614	00:00:00,000 --> 00:00:00,000	KEAMY	Well, you better aim for the head, Ben! Not like your boyfriend who shot me in the back like a coward!
+616	00:00:00,000 --> 00:00:00,000	SCIENTIST	[On video] ...to avoid leaving inorganic materials inside...
+618	00:00:00,000 --> 00:00:00,000	KEAMY	This body armor's, um, been known to take a bullet or two in its time.
+620	00:00:00,000 --> 00:00:00,000		[Halliwax continues to speak indistinctly.]
+622	00:00:00,000 --> 00:00:00,000	KEAMY	But before you take your shot, Ben, let me tell you about this. [Panting]
+624	00:00:00,000 --> 00:00:00,000		[Keamy removes his flack jacket and it falls to the floor. Strapped to his bare bicep is a device with a green light on it. The light shines in the darkness.]
+626	00:00:00,000 --> 00:00:00,000	KEAMY	See that? I took out a bit of a--a life insurance policy, Ben. It's a heart rate monitor, and it's connected to a radio transmitter. W--we call it a "dead man's trigger", Ben. If my heart stops beating... [panting] it sends a little signal to the 500 pounds of C-4 that I've got hardwired out there on the freighter that'd kill a lot of innocent people, Ben. If you think I'm bluffing, need I remind you of, uh... how your daughter looked as she bled out? Face-down in the grass? [Panting]
+628	00:00:00,000 --> 00:00:00,000		[Keamy wheels around and assumes a combat stance with his knife when he sees Locke standing there.]
+630	00:00:00,000 --> 00:00:00,000	KEAMY	Who the hell are you?
+632	00:00:00,000 --> 00:00:00,000	LOCKE	My name is John Locke, and I have no... conflict with you. And neither do the people on that boat. So... why don't you put your knife down? We can talk about this.
+634	00:00:00,000 --> 00:00:00,000	KEAMY	Well, John Locke... I've never really been one for talk.
+636	00:00:00,000 --> 00:00:00,000		[With a clank and a shouted grunt, Ben emerges from his hiding place, leaping at Keamy. He hits Keamy first in the head, then in Keamy's injured leg with his telescopic baton, sending Keamy to the floor. Then he grabs the knife from Keamy and begins stabbing.]
+638	00:00:00,000 --> 00:00:00,000	BEN	You killed my daughter.
+640	00:00:00,000 --> 00:00:00,000	KEAMY	Aah!
+642	00:00:00,000 --> 00:00:00,000	BEN	You killed my daughter!
+644	00:00:00,000 --> 00:00:00,000	LOCKE	Ben! Ben! Ben, stop! No, no! Stop!
+646	00:00:00,000 --> 00:00:00,000		[Ben keeps screaming and grunts as Locke pulls Ben away from the wounded, gagging Keamy.]
+648	00:00:00,000 --> 00:00:00,000	LOCKE	Ben, what did you do?
+650	00:00:00,000 --> 00:00:00,000		[Keamy's device starts beeping.]
+652	00:00:00,000 --> 00:00:00,000	LOCKE	You just killed everybody on that boat.
+654	00:00:00,000 --> 00:00:00,000		[Beeping continues.]
+656	00:00:00,000 --> 00:00:00,000	BEN	So?
+658	00:00:00,000 --> 00:00:00,000		[At a distant end of the beach camp, Daniel Faraday finds and shares a private moment with Charlotte Lewis.]
+660	00:00:00,000 --> 00:00:00,000	FARADAY	Hey, Charlotte! Listen, uh, I wanted to say before you get on the boat, please--
+662	00:00:00,000 --> 00:00:00,000	CHARLOTTE	I'm gonna stay, Daniel... for now, anyway.
+664	00:00:00,000 --> 00:00:00,000	FARADAY	Charlotte... there is no "for now". If you don't come with me, "for now" could be forever.
+666	00:00:00,000 --> 00:00:00,000	CHARLOTTE	Nothing's forever.
+668	00:00:00,000 --> 00:00:00,000	FARADAY	Why?
+670	00:00:00,000 --> 00:00:00,000	CHARLOTTE	Would it make any sense if I told you I was still looking for where I was born?
+672	00:00:00,000 --> 00:00:00,000	FARADAY	N--no.
+674	00:00:00,000 --> 00:00:00,000		[They laugh as they embrace and Charlotte kisses Faraday on the cheek.]
+676	00:00:00,000 --> 00:00:00,000	CHARLOTTE	Good-bye, Daniel.
+678	00:00:00,000 --> 00:00:00,000		[Daniel walks to the raft.]
+680	00:00:00,000 --> 00:00:00,000	FARADAY	Let me guess. You're not coming.
+682	00:00:00,000 --> 00:00:00,000	JULIET	I promised I wouldn't leave until I got everyone here safely off this island. Relax. I'll still be here when you get back.
+684	00:00:00,000 --> 00:00:00,000	FARADAY	Right, right... when I get back. Okay. Everybody ready? Let's get started. Off we go.
+686	00:00:00,000 --> 00:00:00,000		[On the freighet, Michael continues to spray the battery.]
+688	00:00:00,000 --> 00:00:00,000	DESMOND	I think I might have something. Okay, so... so if... if I cut this wire, it... it should disconnect the firing mechanisms.
+690	00:00:00,000 --> 00:00:00,000	JIN	Stop! Ã¬â€”Â¬ÃªÂ¸Â° Ã¬â€”Â°ÃªÂ²Â°Ã«ÂÂ¼ Ã¬Å¾Ë†Ã¬â€“Â´. No good.
+692	00:00:00,000 --> 00:00:00,000	DESMOND	Damn it! I--I just don't know enough. H--how do we even know your little freezing trick's doing anything?
+694	00:00:00,000 --> 00:00:00,000	MICHAEL	We'll know if that light turns red and we're still here.
+696	00:00:00,000 --> 00:00:00,000	DESMOND	How much stuff do we have left?
+698	00:00:00,000 --> 00:00:00,000	MICHAEL	We got a quarter tank.
+700	00:00:00,000 --> 00:00:00,000	DESMOND	What happens if we can't deactivate the bomb?
+702	00:00:00,000 --> 00:00:00,000	MICHAEL	We better get everybody the hell off this boat.
+704	00:00:00,000 --> 00:00:00,000		[The chopper is heading for the freigher. Frank notices the fuel gauge rapidly going down.]
+706	00:00:00,000 --> 00:00:00,000	SAYID	What's the matter?
+708	00:00:00,000 --> 00:00:00,000	LAPIDUS	We're losing fuel.
+710	00:00:00,000 --> 00:00:00,000	JACK	What?!
+712	00:00:00,000 --> 00:00:00,000	LAPIDUS	We're losing fuel! Look outside, tell me if you can see anything!
+714	00:00:00,000 --> 00:00:00,000		[Everyone looks outside. Sayid spots a fuel leak.]
+716	00:00:00,000 --> 00:00:00,000	SAYID	We have a fuel leak! A bullet must have pierced the tank!
+718	00:00:00,000 --> 00:00:00,000	LAPIDUS	We gotta find a place to set her down!
+720	00:00:00,000 --> 00:00:00,000	JACK	No, don't land!
+722	00:00:00,000 --> 00:00:00,000	LAPIDUS	What?!
+724	00:00:00,000 --> 00:00:00,000	JACK	There's no fuel on the island! We've gotta get to the boat, or this chopper's useless!
+726	00:00:00,000 --> 00:00:00,000	LAPIDUS	I'm telling ya, I don't see the boat!
+728	00:00:00,000 --> 00:00:00,000	JACK	Well, then keep looking!
+730	00:00:00,000 --> 00:00:00,000	LAPIDUS	We gotta get every ounce of extra weight off this chopper now! Anything that's not bolted down, toss it out!
+732	00:00:00,000 --> 00:00:00,000		[Everyone throws various pieces of luggage into the water.]
+734	00:00:00,000 --> 00:00:00,000	JACK	Now what? Is that enough? Can we make it?!
+736	00:00:00,000 --> 00:00:00,000	LAPIDUS	I'd feel a hell of a lot better if we were a few hundred pounds lighter! Well, if we don't make it, we're still close enough to ditch it on the beach.
+738	00:00:00,000 --> 00:00:00,000	JACK	Hey! Do not go back to the island!
+740	00:00:00,000 --> 00:00:00,000	LAPIDUS	We might not have a choice, Doc.
+742	00:00:00,000 --> 00:00:00,000	SAWYER	Hey... [whispering indistinctly]
+744	00:00:00,000 --> 00:00:00,000	KATE	Why are you telling me this?
+746	00:00:00,000 --> 00:00:00,000		[Sawyer and Kate kiss.]
+748	00:00:00,000 --> 00:00:00,000	SAWYER	Just do it, Freckles.
+750	00:00:00,000 --> 00:00:00,000		[Sawyer jumps from the chopper.]
+752	00:00:00,000 --> 00:00:00,000	KATE	Sawyer!
+754	00:00:00,000 --> 00:00:00,000		[After a moment, he surfaces from the water. After watching the helicopter flying away, he turns and starts swimming back to the Island.]
+756	00:00:00,000 --> 00:00:00,000		[Flash-forward - Outside Santa Rosa, a man is reading a newspaper in his car when there is a knock at the window.]
+758	00:00:00,000 --> 00:00:00,000	SAYID	Excuse me, sir. I'm sorry to bother you. But do you have the time, please?
+760	00:00:00,000 --> 00:00:00,000	GUY IN CAR	Yeah. It's eight fif--
+762	00:00:00,000 --> 00:00:00,000		[Sayid shoots the man dead.]
+764	00:00:00,000 --> 00:00:00,000		[Inside, Sayid finds Hurley's room and enters. Hurley is playing a game of chess, seemingly against no one.]
+766	00:00:00,000 --> 00:00:00,000	HURLEY	Sayid?
+768	00:00:00,000 --> 00:00:00,000	SAYID	Hello, Hurley.
+770	00:00:00,000 --> 00:00:00,000	HURLEY	I think visiting hours are over, Dude.
+772	00:00:00,000 --> 00:00:00,000	SAYID	This isn't a visit. I want you to come with me.
+774	00:00:00,000 --> 00:00:00,000	HURLEY	Come with you where?
+776	00:00:00,000 --> 00:00:00,000	SAYID	Somewhere safe.
+778	00:00:00,000 --> 00:00:00,000	HURLEY	And why would I go anywhere with you? I haven't seen you in, like, forever.
+780	00:00:00,000 --> 00:00:00,000	SAYID	Because circumstances have changed.
+782	00:00:00,000 --> 00:00:00,000	HURLEY	What circumstances?
+784	00:00:00,000 --> 00:00:00,000	SAYID	Bentham's dead.
+786	00:00:00,000 --> 00:00:00,000	HURLEY	What?
+788	00:00:00,000 --> 00:00:00,000	SAYID	Two days ago.
+790	00:00:00,000 --> 00:00:00,000	HURLEY	What happened?
+792	00:00:00,000 --> 00:00:00,000	SAYID	They said it was suicide.
+794	00:00:00,000 --> 00:00:00,000	HURLEY	What do you mean, they "said" it was suicide? And why are you calling him "Bentham"? His name is--
+796	00:00:00,000 --> 00:00:00,000	SAYID	Don't say it. We're being watched.
+798	00:00:00,000 --> 00:00:00,000	HURLEY	Dude, I've been having regular conversations with dead people. The last thing I need now is paranoia.
+800	00:00:00,000 --> 00:00:00,000	SAYID	I just killed a man who's been perched outside this facility for the last week. I'm finding paranoia keeps me alive.
+802	00:00:00,000 --> 00:00:00,000	HURLEY	We're not going back, are we?
+804	00:00:00,000 --> 00:00:00,000	SAYID	No. Just somewhere safe.
+806	00:00:00,000 --> 00:00:00,000	HURLEY	Okay then. Hold on a sec.
+808	00:00:00,000 --> 00:00:00,000		[Hurley makes a move on the chess board.]
+810	00:00:00,000 --> 00:00:00,000	HURLEY	Checkmate, Mr. Eko.
+812	00:00:00,000 --> 00:00:00,000		[They leave.]
+814	00:00:00,000 --> 00:00:00,000		[On-Island - The chopper is still heading for the boat.]
+816	00:00:00,000 --> 00:00:00,000	SAYID	Where's the freighter?
+818	00:00:00,000 --> 00:00:00,000	LAPIDUS	I don't know. I stayed on course. They must have it on the move again.
+820	00:00:00,000 --> 00:00:00,000	SAYID	How much fuel?
+822	00:00:00,000 --> 00:00:00,000	LAPIDUS	Four, five minutes worth, unless somebody else wants to jump.
+824	00:00:00,000 --> 00:00:00,000	JACK	[seeing Kate looking out the window] As soon as we get to the boat, we'll go back for him.
+826	00:00:00,000 --> 00:00:00,000	HURLEY	Hey! There it is! The boat! I see it! Behind us!
+828	00:00:00,000 --> 00:00:00,000		[In the Orchid, Keamy is breathing erratically. Monitor beeping steadily.]
+830	00:00:00,000 --> 00:00:00,000	LOCKE	Ben, help me. If he dies, everybody on that boat dies.
+832	00:00:00,000 --> 00:00:00,000	BEN	That's not my problem, John.
+834	00:00:00,000 --> 00:00:00,000		[Steady beeping continues. Keamy wheezes.]
+836	00:00:00,000 --> 00:00:00,000	LOCKE	Hang on, man. Hang on!
+838	00:00:00,000 --> 00:00:00,000	KEAMY	[Hoarsely] Wherever you go... Widmore... [breathing erratically] he'll find you.
+840	00:00:00,000 --> 00:00:00,000		[Steady beeping continues.]
+842	00:00:00,000 --> 00:00:00,000	BEN	Not if I find him first.
+844	00:00:00,000 --> 00:00:00,000		[Monitor beeping erratically.]
+846	00:00:00,000 --> 00:00:00,000	LOCKE	[whispers] Hey. No. No. [Normal voice] Hey. Hey! Hey!
+848	00:00:00,000 --> 00:00:00,000		[Keamy dies. Beep, beep. The light on the device turns red.]
+850	00:00:00,000 --> 00:00:00,000		[Beep. The light on the bomb receiver turns red.]
+852	00:00:00,000 --> 00:00:00,000	MICHAEL	You two need to go now. Get everybody off the boat. We have maybe five minutes left in the tank. Go!
+854	00:00:00,000 --> 00:00:00,000	JIN	You go. Go. I stay.
+856	00:00:00,000 --> 00:00:00,000		[Desmond leaves. Valve squeaking. Michael sprays the battery.]
+858	00:00:00,000 --> 00:00:00,000		[Desmond runs to the deck and notices the chopping coming.]
+860	00:00:00,000 --> 00:00:00,000	DESMOND	Oh, bloody hell. Don't land! You can't land! Don't land! Don't land! There's a bomb! There's a bomb! Get away! There's a bomb! You can't land! Go back!
+862	00:00:00,000 --> 00:00:00,000	JACK	Did he say "bomb"?
+864	00:00:00,000 --> 00:00:00,000	DESMOND	Don't land!
+866	00:00:00,000 --> 00:00:00,000	JACK	What are you doing?!
+868	00:00:00,000 --> 00:00:00,000	LAPIDUS	I don't care what the hell he's screaming! I'm flying on fumes! I gotta put this bird down!
+870	00:00:00,000 --> 00:00:00,000	DESMOND	No! Don't land! [Hissing] No! No! Look, you don't understand! Jin and Michael are doing everything they can, but there's no time! You've gotta get off the boat now!
+872	00:00:00,000 --> 00:00:00,000		[Grunts, knocks.]
+874	00:00:00,000 --> 00:00:00,000	JACK	How long till we can fly again?
+876	00:00:00,000 --> 00:00:00,000	LAPIDUS	Somebody patch the other hole where the bullet came out!
+878	00:00:00,000 --> 00:00:00,000	DESMOND	Give it to me. I'll do it.
+880	00:00:00,000 --> 00:00:00,000	LAPIDUS	Here! Somebody pump some gas!
+882	00:00:00,000 --> 00:00:00,000	JACK	I'll handle the fuel.
+884	00:00:00,000 --> 00:00:00,000	LAPIDUS	Get that life raft right there! Come on! Let's go!
+886	00:00:00,000 --> 00:00:00,000		[Aaron crying.]
+888	00:00:00,000 --> 00:00:00,000	KATE	Hey, Sun! Sun! Where you going? We gotta go.
+890	00:00:00,000 --> 00:00:00,000	SUN	Jin's below with Michael. I can't--
+892	00:00:00,000 --> 00:00:00,000	KATE	No, no, there's no time! There's no time. We have to go.
+894	00:00:00,000 --> 00:00:00,000	SUN	I won't leave him!
+896	00:00:00,000 --> 00:00:00,000	KATE	Okay. You get the baby on the chopper. I'll get Jin. All right?
+898	00:00:00,000 --> 00:00:00,000	LAPIDUS	Just keep pumping till I get it started! That'll be enough to get us to the island.
+900	00:00:00,000 --> 00:00:00,000		[Hissing resumes.]
+902	00:00:00,000 --> 00:00:00,000	MICHAEL	Jin, you gotta go. There's nothing more we can do, man.
+904	00:00:00,000 --> 00:00:00,000	JIN	No, I can find--
+906	00:00:00,000 --> 00:00:00,000	MICHAEL	Hey, come on. It's over. I'm almost out of this stuff. Listen, you are a father now. Get to your wife and get her home.
+908	00:00:00,000 --> 00:00:00,000	JIN	Thank you, Michael.
+910	00:00:00,000 --> 00:00:00,000	MICHAEL	You're welcome. Go.
+912	00:00:00,000 --> 00:00:00,000		[Jin leaves.]
+914	00:00:00,000 --> 00:00:00,000		[Helicopter engine starting. Jin runs through the corridors of the boat.]
+916	00:00:00,000 --> 00:00:00,000	JACK	Hey! Not yet!
+918	00:00:00,000 --> 00:00:00,000	LAPIDUS	Your buddy said we got five minutes as of three minutes ago. If you're going, this is it. Let's go!
+920	00:00:00,000 --> 00:00:00,000	JACK	Kate! Come on!
+922	00:00:00,000 --> 00:00:00,000	KATE	Jin's still inside! Jin's still inside. We can't leave him behind.
+924	00:00:00,000 --> 00:00:00,000	JACK	Come on. Listen, I'm not leaving without you. We gotta get out of here now.
+926	00:00:00,000 --> 00:00:00,000	LAPIDUS	Let's go!
+928	00:00:00,000 --> 00:00:00,000		[Aaron continues crying.]
+930	00:00:00,000 --> 00:00:00,000	DESMOND	Give me a minute! No! Wait!
+932	00:00:00,000 --> 00:00:00,000	SUN	Where's Jin?
+934	00:00:00,000 --> 00:00:00,000		[The chopper takes off. Man shouts indistinctly. Jin makes it to the deck.]
+936	00:00:00,000 --> 00:00:00,000	JIN	Ã¬Å¾ÂÃªÂ¸Â°Ã¬â€¢Â¼! Ã¬Å¾ÂÃªÂ¸Â°Ã¬â€¢Â¼! Ã¬â€”Â¬ÃªÂ¸Â°Ã¬â€¢Â¼! Ã¬â€”Â¬ÃªÂ¸Â°Ã¬â€¢Â¼! Ã«â€šËœ Ã¬â€¢â€žÃ¬Â§Â Ã¬â€”Â¬ÃªÂ¸Â° Ã¬Å¾Ë†Ã¬â€“Â´!
+938	00:00:00,000 --> 00:00:00,000		[Aaron continues crying.]
+940	00:00:00,000 --> 00:00:00,000	SUN	It's Jin! No! Jin! Jin! Jin! We have to go back! Turn around!
+942	00:00:00,000 --> 00:00:00,000	LAPIDUS	We can't do it!
+944	00:00:00,000 --> 00:00:00,000	SUN	We have to! We need to go back!
+946	00:00:00,000 --> 00:00:00,000		[Below deck, Michael sprays the battery but the tank runs out. Ghostly voices are whispering.]
+948	00:00:00,000 --> 00:00:00,000	CHRISTIAN	You can go now, Michael.
+950	00:00:00,000 --> 00:00:00,000	MICHAEL	Who are you?
+952	00:00:00,000 --> 00:00:00,000		[Boom. The freigher explodes.]
+954	00:00:00,000 --> 00:00:00,000	SUN	[Shrieking] Jin! [Sobbing] Aah!
+956	00:00:00,000 --> 00:00:00,000		[Metal creaking loudly.]
+958	00:00:00,000 --> 00:00:00,000	SUN	[Shrieking] Jin!
+960	00:00:00,000 --> 00:00:00,000		[Sun gasping and sobbing.]
+962	00:00:00,000 --> 00:00:00,000	SUN	Go back lower! We have to go find Jin!
+964	00:00:00,000 --> 00:00:00,000	JACK	Sun, there's nobody down there!
+966	00:00:00,000 --> 00:00:00,000	SUN	You can't see anything from here!
+968	00:00:00,000 --> 00:00:00,000	LAPIDUS	We didn't get enough fuel! We can't go back!
+970	00:00:00,000 --> 00:00:00,000	SUN	Go lower! I know he's there!
+972	00:00:00,000 --> 00:00:00,000	SAYID	Sun, I'm--Sun, I'm so sorry. He's not--
+974	00:00:00,000 --> 00:00:00,000	SUN	He's down there! I know he's down there!
+976	00:00:00,000 --> 00:00:00,000	LAPIDUS	We gotta go!
+978	00:00:00,000 --> 00:00:00,000	SUN	No! I'm not leaving him!
+980	00:00:00,000 --> 00:00:00,000	SAYID	Can't get to him!
+982	00:00:00,000 --> 00:00:00,000	SUN	No, we're not leaving him! We're not! Turn back around!
+984	00:00:00,000 --> 00:00:00,000	JACK	Sun! Sun! It's gone!
+986	00:00:00,000 --> 00:00:00,000		[Aaron wailing.]
+988	00:00:00,000 --> 00:00:00,000	JACK	He's gone.
+990	00:00:00,000 --> 00:00:00,000		[Continues wailing.]
+992	00:00:00,000 --> 00:00:00,000	KATE	Shh. Shh.
+994	00:00:00,000 --> 00:00:00,000	JACK	Lapidus! Fly us back to the island.
+996	00:00:00,000 --> 00:00:00,000	LAPIDUS	You got it.
+998	00:00:00,000 --> 00:00:00,000		[Aaron continues wailing.]
+1000	00:00:00,000 --> 00:00:00,000	SUN	No! [Sobbing] No! No! [Shrieking] No!
+1002	00:00:00,000 --> 00:00:00,000		[Flash-forward - In London, Sun walks alongside the Thames near the Tower Bridge. Her cell phone rings. She takes it out and opens it up.]
+1004	00:00:00,000 --> 00:00:00,000	SUN	Ã¬â€“Â´, Ã¬â€”â€žÃ«Â§Ë†. [Subtitle: Hello?]
+1006	00:00:00,000 --> 00:00:00,000	MRS. PAIK	Ã¬â€“Ëœ, Ã«Ë†â€žÃªÂ°â‚¬ Ã«â€žË†Ã­â€¢ËœÃªÂ³ Ã¬â€“ËœÃªÂ¸Â°Ã­â€¢ËœÃªÂ³ Ã¬â€¹Â¶Ã«Å’â‚¬! Ã¬Â§â‚¬Ã¬â€”Â°Ã¬â€¢â€ž, Ã¬â€”â€žÃ«Â§Ë†Ã­â€¢ËœÃªÂ³ Ã¬â€“ËœÃªÂ¸Â° Ã¬Â¢â‚¬ Ã­â€¢Â´Ã«Â³Â¼Ã«Å¾Ëœ?[Subtitle: Hello! Someone wants to talk to you! Say hello to your mother, Ji Yeon.]
+1008	00:00:00,000 --> 00:00:00,000	JI YEON	Ã¬â€”â€žÃ«Â§Ë†, Ã¬â€”â€žÃ«Â§Ë†. [Subtitle: Mama, Mama.]
+1010	00:00:00,000 --> 00:00:00,000	SUN	Ã¬Å¡Â°Ã«Â¦Â¬ Ã¬ËœË†Ã¬ÂÅ“ Ã«â€Â¸! [Subtitle: Hello my love!]
+1012	00:00:00,000 --> 00:00:00,000	MRS. PAIK	Ã¬â€“Ëœ, Ã«â€žË† Ã¬â€“Â´Ã«â€â€ Ã¬Å¾Ë†Ã«â€¹Ë†? [Subtitle: Where are you?]
+1014	00:00:00,000 --> 00:00:00,000	SUN	Ã«Å¸Â°Ã«ÂËœÃ¬â€”Â Ã¬Å¾Ë†Ã¬â€“Â´Ã¬Å¡â€. Ã¬ÂÂ¼ Ã«Â§Ë†Ã«Â¬Â´Ã«Â¦Â¬ Ã­â€¢ËœÃªÂ³ Ã¬ËœÂ¤Ã«Å Ëœ Ã«Â°Â¤Ã¬â€”Â Ã¬Â¶Å“Ã«Â°Å“Ã­â€¢Â´Ã¬Å¡â€. [Subtitle: I'm in London. I leave tonight. Just finishing a little business.]
+1016	00:00:00,000 --> 00:00:00,000	MRS. PAIK	ÃªÂ·Â¸Ã«Å¾Ëœ, ÃªÂ·Â¸Ã«Å¸Â¼ Ã¬â€”Â¬Ã­â€“â€° Ã¬â€¢Ë†Ã¬Â â€žÃ­â€¢ËœÃªÂ²Å’ Ã¬Å¾Ëœ Ã­â€¢Â´. [Subtitle: Fly safe.]
+1018	00:00:00,000 --> 00:00:00,000	SUN	ÃªÂ·Â¸Ã«Å¸Â´ÃªÂ²Å’Ã¬Å¡â€, Ã¬â€”â€žÃ«Â§Ë†. Ã¬Â§â€˜Ã¬â€”ÂÃ¬â€žÅ“ Ã«Â´ÂÃ¬Å¡â€. [Subtitle: I will. Good-bye mother.]
+1020	00:00:00,000 --> 00:00:00,000		[Speaking indistinctly.]
+1022	00:00:00,000 --> 00:00:00,000	WIDMORE	All right, guys. Thanks.
+1024	00:00:00,000 --> 00:00:00,000	SUN	Excuse me. Mr. Widmore?
+1026	00:00:00,000 --> 00:00:00,000	WIDMORE	Yes.
+1028	00:00:00,000 --> 00:00:00,000	SUN	I'm Sun Kwon... Mr. Paik's daughter. I'm the managing director of Paik Industries.
+1030	00:00:00,000 --> 00:00:00,000	WIDMORE	Yes, of course. How is your father?
+1032	00:00:00,000 --> 00:00:00,000	SUN	Excellent, thank you.
+1034	00:00:00,000 --> 00:00:00,000	WIDMORE	Quite the golfer. I believe I owe him dinner after our last game.
+1036	00:00:00,000 --> 00:00:00,000	SUN	Are you really going to pretend that you don't know who I am?
+1038	00:00:00,000 --> 00:00:00,000	WIDMORE	I'm afraid I don't know what you're talking about, Ms. Kwon.
+1040	00:00:00,000 --> 00:00:00,000	SUN	Yes, you do know, Mr. Widmore... just like you know we've been lying all this time about where we were and what happened to us there. You and I have common interests. When you're ready to discuss them...
+1042	00:00:00,000 --> 00:00:00,000		[Sun hands Widmore her Paik Industries business card from her pocket.]
+1044	00:00:00,000 --> 00:00:00,000	SUN	Call me. As you know, we're not the only ones who left the island.
+1046	00:00:00,000 --> 00:00:00,000		[Sun turns and begins to walk away. Widmore calls after her.]
+1048	00:00:00,000 --> 00:00:00,000	WIDMORE	Ms. Kwon? Why would you want to help me?
+1050	00:00:00,000 --> 00:00:00,000		[She continues walking.]
+1052	00:00:00,000 --> 00:00:00,000		[On-Island - In the Orchid, Ben is still putting objects into the vault.]
+1054	00:00:00,000 --> 00:00:00,000	LOCKE	Why?
+1056	00:00:00,000 --> 00:00:00,000	BEN	"Why" what?
+1058	00:00:00,000 --> 00:00:00,000	LOCKE	Why did you kill him when you knew it would destroy the boat?
+1060	00:00:00,000 --> 00:00:00,000	BEN	Well, John, I really wasn't thinking straight. Sometimes... good command decisions get compromised by bad emotional responses.
+1062	00:00:00,000 --> 00:00:00,000		[Loud clatter.]
+1064	00:00:00,000 --> 00:00:00,000	BEN	I'm sure you're gonna do a much better job of separating the two than I ever did.
+1066	00:00:00,000 --> 00:00:00,000		[Ben closes the door on the vault and turns it on.]
+1068	00:00:00,000 --> 00:00:00,000	LOCKE	What are you doing?
+1070	00:00:00,000 --> 00:00:00,000		[Mechanical whirring and crackling.]
+1072	00:00:00,000 --> 00:00:00,000	LOCKE	I asked you a question!
+1074	00:00:00,000 --> 00:00:00,000	BEN	If I were you, I'd duck.
+1076	00:00:00,000 --> 00:00:00,000		[Whirring and crackling grows louder. Electricity crackling, hissing, rumbling. The vault explodes. Crackling, hissing and rumbling stop.]
+1078	00:00:00,000 --> 00:00:00,000	BEN	I better change.
+1080	00:00:00,000 --> 00:00:00,000		[Juliet is sitting on the beach with a bottle of alcohol. Sawyer swims to the shore and walks up to Juliet.]
+1082	00:00:00,000 --> 00:00:00,000	SAWYER	Nice day for a swim.
+1084	00:00:00,000 --> 00:00:00,000	JULIET	What are you doing here?
+1086	00:00:00,000 --> 00:00:00,000	SAWYER	Decided to take a dip.
+1088	00:00:00,000 --> 00:00:00,000		[Sawyer regards Juliet's bottle of DHARMA-brand flavored rum.]
+1090	00:00:00,000 --> 00:00:00,000	SAWYER	Whatcha celebratin'?
+1092	00:00:00,000 --> 00:00:00,000	JULIET	I'm not celebrating.
+1094	00:00:00,000 --> 00:00:00,000		[With a flick of her sad eyes, Juliet indicates behind Sawyer. He gets the point and looks to the ocean. A distant plume of black smoke wafts on the horizon.]
+1096	00:00:00,000 --> 00:00:00,000	SAWYER	Is that our boat?
+1098	00:00:00,000 --> 00:00:00,000	JULIET	It was.
+1100	00:00:00,000 --> 00:00:00,000	LOCKE	What's that for?
+1102	00:00:00,000 --> 00:00:00,000	BEN	I'm going somewhere cold.
+1104	00:00:00,000 --> 00:00:00,000		[Ben zips up jacket.]
+1106	00:00:00,000 --> 00:00:00,000	LOCKE	Then where is mine?
+1108	00:00:00,000 --> 00:00:00,000	BEN	You don't need one because you're not going with me.
+1110	00:00:00,000 --> 00:00:00,000	LOCKE	Yes, I am going with you.
+1112	00:00:00,000 --> 00:00:00,000	BEN	No, John, you're not.
+1114	00:00:00,000 --> 00:00:00,000	LOCKE	Jacob told me what we had to do. You don't get to make all the decisions--
+1116	00:00:00,000 --> 00:00:00,000	BEN	He told you what to do, but he didn't tell you how because he wants me to suffer the consequences.
+1118	00:00:00,000 --> 00:00:00,000	LOCKE	What consequences?
+1120	00:00:00,000 --> 00:00:00,000	BEN	Whoever moves the island can never come back. So I'd like you to get on the elevator, John, and go back up. Richard and my people will be waiting 2 miles east of the Orchid.
+1122	00:00:00,000 --> 00:00:00,000	LOCKE	Waiting for me?
+1124	00:00:00,000 --> 00:00:00,000	BEN	Ready, willing and able to share what they know. And then they will follow your every word. Good-bye, John. I'm sorry I made your life so miserable.
+1126	00:00:00,000 --> 00:00:00,000		[Ben exhales deeply as he shakes Locke's hand.]
+1128	00:00:00,000 --> 00:00:00,000	LOCKE	What do I tell 'em to do?
+1130	00:00:00,000 --> 00:00:00,000		[Ben picks up a crowbar.]
+1132	00:00:00,000 --> 00:00:00,000	BEN	You'll find your way, John. You always do.
+1134	00:00:00,000 --> 00:00:00,000		[Locke walks through the jungle. Birds chirping. He comes across the Others' camp. Man and woman speaking indistinctly. Fire crackling.]
+1136	00:00:00,000 --> 00:00:00,000	RICHARD	Hello, John. Welcome home.
+1138	00:00:00,000 --> 00:00:00,000		[Back in the Orchid, Ben clears the vault and enters a hole which has been blown into the back of it. He makes his way down a tunnel until he comes to a wooden ladder. At the bottom, a thin layer of ice covers a hole. Ben breaks the ice with his foot and continues down the ladder on the other side. The bottom rung breaks as Ben steps on it, causing him to fall and cut his arm on a nail sticking out. He finds himself in a frozen chamber with a wooden wheel in the wall. He approaches the wheel and looks up.]
+1140	00:00:00,000 --> 00:00:00,000	BEN	I hope you're happy now, Jacob.
+1142	00:00:00,000 --> 00:00:00,000		[Ben tries to turn the wheel but it is frozen solid. He takes the crowbar and breaks the ice, then uses it to start turning the wheel. He then struggles the push the wheel. A loud buzzing noise is heard. Richard and Locke hear the noice. So do Sawyer, Juliet, the people on the raft and the chopper. Aaron is crying.]
+1144	00:00:00,000 --> 00:00:00,000	DESMOND	Yeah, what is that?
+1146	00:00:00,000 --> 00:00:00,000		[Ben continues pushing the wheel. Before long, a bright white light engulfs him and everyone else on the Island, as well as the helicopter as it heads toward the Island. Everything turns white. When it clears, a ripple in the ocean reveals where the Island used to be.]
+1148	00:00:00,000 --> 00:00:00,000	LAPIDUS	Where's the island? Where's the island?! Where the hell's the island?!
+1150	00:00:00,000 --> 00:00:00,000	HURLEY	It's gone.
+1152	00:00:00,000 --> 00:00:00,000	LAPIDUS	Where the hell am I gonna land this thing?!
+1154	00:00:00,000 --> 00:00:00,000	JACK	There's another smaller island close by they took us to!
+1156	00:00:00,000 --> 00:00:00,000	LAPIDUS	I got news for ya, Doc. There's nothing but water in every direction!
+1158	00:00:00,000 --> 00:00:00,000		[Helicopter engine sputtering. Alarm beeping.]
+1160	00:00:00,000 --> 00:00:00,000	LAPIDUS	Doesn't matter now. That's it, people! We're out of fuel!
+1162	00:00:00,000 --> 00:00:00,000		[Beeping continues. Wind blowing loudly, rotors slowing down.]
+1164	00:00:00,000 --> 00:00:00,000	LAPIDUS	Get your life vests on! We're going in! Brace yourselves!
+1166	00:00:00,000 --> 00:00:00,000		[Wind blowing loudly.]
+1168	00:00:00,000 --> 00:00:00,000	SAYID	Desmond! The life raft!
+1170	00:00:00,000 --> 00:00:00,000	LAPIDUS	Hold on!
+1172	00:00:00,000 --> 00:00:00,000		[Sayid releases the life raft into the ocean. He chopper crashes into the sea and flips over.]
+1174	00:00:00,000 --> 00:00:00,000		[Jack is under the water.]
+1176	00:00:00,000 --> 00:00:00,000	KATE	Where's Jack?!
+1178	00:00:00,000 --> 00:00:00,000	LAPIDUS	Kate! Where is he?!
+1180	00:00:00,000 --> 00:00:00,000	SAYID	Are you okay?
+1182	00:00:00,000 --> 00:00:00,000	KATE	Hurley, carry the baby.
+1184	00:00:00,000 --> 00:00:00,000		[Jack makes his way to the surface.]
+1186	00:00:00,000 --> 00:00:00,000	LAPIDUS	Sayid, are you all right?
+1188	00:00:00,000 --> 00:00:00,000	SAYID	Yes!
+1190	00:00:00,000 --> 00:00:00,000	HURLEY	Jack!
+1192	00:00:00,000 --> 00:00:00,000	LAPIDUS	Where's Desmond?
+1194	00:00:00,000 --> 00:00:00,000	KATE	Get the baby.
+1196	00:00:00,000 --> 00:00:00,000	HURLEY	I got him.
+1198	00:00:00,000 --> 00:00:00,000		[Kate grunts. Aaron crying.]
+1200	00:00:00,000 --> 00:00:00,000	LAPIDUS	Desmond?! Jack! Give me a hand!
+1202	00:00:00,000 --> 00:00:00,000		[Sun gasps and grunts.]
+1204	00:00:00,000 --> 00:00:00,000	SUN	Here you go.
+1206	00:00:00,000 --> 00:00:00,000	JACK	Get him to the raft. Get him to the raft. Get him up in the raft. We've gotta get him in the raft.
+1208	00:00:00,000 --> 00:00:00,000	HURLEY	Is he breathing? Oh, my God. Is he breathing?
+1210	00:00:00,000 --> 00:00:00,000		[Frank and Jack get an unconcious Desmond to the life raft. Jack performs CPR.]
+1212	00:00:00,000 --> 00:00:00,000	KATE	Oh, my god.
+1214	00:00:00,000 --> 00:00:00,000	JACK	Oh, come on, Desmond.
+1216	00:00:00,000 --> 00:00:00,000		[Panting.]
+1218	00:00:00,000 --> 00:00:00,000	JACK	One, two, three.
+1220	00:00:00,000 --> 00:00:00,000		[Desmond opens his eyes, coughing out water.]
+1222	00:00:00,000 --> 00:00:00,000	JACK	Yeah. Yeah, yeah.
+1224	00:00:00,000 --> 00:00:00,000	HURLEY	Yeah.
+1226	00:00:00,000 --> 00:00:00,000	JACK	Yeah. Yeah.
+1228	00:00:00,000 --> 00:00:00,000		[Coughing.]
+1230	00:00:00,000 --> 00:00:00,000	JACK	Yeah, you're all right.
+1232	00:00:00,000 --> 00:00:00,000	HURLEY	You're all right, man. You're okay.
+1234	00:00:00,000 --> 00:00:00,000		[Continues coughing.]
+1236	00:00:00,000 --> 00:00:00,000	HURLEY	Desmond.
+1238	00:00:00,000 --> 00:00:00,000	JACK	That's it. You're all right. That's it.
+1240	00:00:00,000 --> 00:00:00,000		[Desmond continues coughing.]
+1242	00:00:00,000 --> 00:00:00,000	JACK	[whispers] It's okay. It's okay. We're alive. [Sighs deeply]
+1244	00:00:00,000 --> 00:00:00,000		[Flash-forward - Kate is in bed. She is woken up and switches the lamp on. Suddeny the phone rings.]
+1246	00:00:00,000 --> 00:00:00,000	KATE	Hello?
+1248	00:00:00,000 --> 00:00:00,000		[Clicking.]
+1250	00:00:00,000 --> 00:00:00,000	KATE	Hello? Who's there?
+1252	00:00:00,000 --> 00:00:00,000		[Ghostly voices whispering. The line goes dead, then a door opens outside. Kate grabs a gun from her closet and goes into Aaron's room, which is open.]
+1254	00:00:00,000 --> 00:00:00,000	KATE	Don't move. Don't you touch my son!
+1256	00:00:00,000 --> 00:00:00,000		[She gasps. Claire is in the room.]
+1258	00:00:00,000 --> 00:00:00,000	KATE	[Whispers] Claire? How did y--
+1260	00:00:00,000 --> 00:00:00,000	CLAIRE	[voice breaks] Don't bring him back, Kate. [Chair creaks] Don't you dare bring him back.
+1262	00:00:00,000 --> 00:00:00,000		[Kate wakes up from her dream. She gets out of bed and runs to Aaron's room. She puts her hand on his.]
+1264	00:00:00,000 --> 00:00:00,000	KATE	[crying] I'm sorry. I'm sorry.
+1266	00:00:00,000 --> 00:00:00,000		[Present - Kate is on the life raft holding Aaron. It is nighttime.]
+1268	00:00:00,000 --> 00:00:00,000	HURLEY	Is he okay?
+1270	00:00:00,000 --> 00:00:00,000	KATE	He's fine. It's a miracle.
+1272	00:00:00,000 --> 00:00:00,000	HURLEY	I can't believe he did it.
+1274	00:00:00,000 --> 00:00:00,000	KATE	Who did what?
+1276	00:00:00,000 --> 00:00:00,000	HURLEY	Locke. He moved the island.
+1278	00:00:00,000 --> 00:00:00,000	JACK	No, he didn't.
+1280	00:00:00,000 --> 00:00:00,000	HURLEY	Oh, really? 'Cause... one minute it was there, and the next it was gone, so... unless we, like, overlooked it, Dude, that's exactly what he did. But... if you've got another explanation, man, I'd love to hear it.
+1282	00:00:00,000 --> 00:00:00,000		[Frank spots lights on the horizon.]
+1284	00:00:00,000 --> 00:00:00,000	LAPIDUS	God almighty. There's a boat. There's a boat out there! There's a boat out there. Hey! There's a boat! You see it?! Hey! Hey! Hey! Over here! Does it see us?
+1286	00:00:00,000 --> 00:00:00,000	DESMOND	I think it does!
+1288	00:00:00,000 --> 00:00:00,000	SAYID	Hey!
+1290	00:00:00,000 --> 00:00:00,000	HURLEY AND DESMOND	Hey!
+1292	00:00:00,000 --> 00:00:00,000	LAPIDUS	Is it turning? It's turning! Hey! Hey!
+1294	00:00:00,000 --> 00:00:00,000	JACK	[Softly] We're gonna have to lie.
+1296	00:00:00,000 --> 00:00:00,000	KATE	What?
+1298	00:00:00,000 --> 00:00:00,000	JACK	[Normal voice] We're gonna have to lie.
+1300	00:00:00,000 --> 00:00:00,000	SAYID	Lie about what?
+1302	00:00:00,000 --> 00:00:00,000	JACK	Everything, all of it, every moment since we crashed on the island.
+1304	00:00:00,000 --> 00:00:00,000	LAPIDUS	Jack... now I know I'm new to this group and everything, but isn't this the place where everybody starts jumping up and down and hugging each other?
+1306	00:00:00,000 --> 00:00:00,000	JACK	Your freighter... those men came to the island to kill us, all of us. You said that our plane was discovered on the bottom of the ocean. Well, someone put it there--someone who wants everyone to think that we're dead. So what do you think's gonna happen to us when we tell them that that wasn't our plane? What do you think's gonna happen to the people that we left behind?
+1308	00:00:00,000 --> 00:00:00,000	KATE	Jack, we can't. We can't pull it off.
+1310	00:00:00,000 --> 00:00:00,000	JACK	Just let me do the talking.
+1312	00:00:00,000 --> 00:00:00,000	MAN	Aponta adiante, lÃƒÂ¡! LÃƒÂ¡!
+1314	00:00:00,000 --> 00:00:00,000		[Water lapping]
+1316	00:00:00,000 --> 00:00:00,000	MAN	Uma jangada. Cheio de gente! SÃƒÂ£o oito deles!
+1318	00:00:00,000 --> 00:00:00,000		[engine whirring]
+1320	00:00:00,000 --> 00:00:00,000	MAN	De onde eles vieram? De onde eles vieram?
+1322	00:00:00,000 --> 00:00:00,000	HENRIK	Ei, aqui! DÃƒÂ¡ uma olhada aqui!
+1324	00:00:00,000 --> 00:00:00,000	MAN	Depressa! Pega uns cobertores e a caixa de primeiros socorros. Traga pra aqui agora.
+1326	00:00:00,000 --> 00:00:00,000	HENRIK	Uma jangada com pessoas, Ms. Widmore! [Pause] Ms. Widmore, venha Ãƒ proa!
+1328	00:00:00,000 --> 00:00:00,000	PENNY	Throw them a rope! Take them 'round to the stern!
+1330	00:00:00,000 --> 00:00:00,000	DESMOND	Penny? Penny! Penny!
+1332	00:00:00,000 --> 00:00:00,000		[Desmond climbs the side of the boat and meets Penny on the deck. They kiss passionately.]
+1334	00:00:00,000 --> 00:00:00,000	PENNY	Are you okay?
+1336	00:00:00,000 --> 00:00:00,000	DESMOND	[Chuckles] I'm--I'm fine. [Whispers] I'm fine. [Normal voice] H--how did you find me?
+1338	00:00:00,000 --> 00:00:00,000	PENNY	Your phone call... I have a tracking station. [Sniffles]
+1340	00:00:00,000 --> 00:00:00,000	DESMOND	I love you, Penny... and I'll never leave you again.
+1342	00:00:00,000 --> 00:00:00,000		[Laughs.]
+1344	00:00:00,000 --> 00:00:00,000	MAN	NÃƒÂ£o, nÃƒÂ£o, nÃƒÂ£o. NÃƒÂ£o faz isso. NÃƒÂ£o faz isso. TÃƒÂ¡ bom, tÃƒÂ¡ bom, tÃƒÂ¡ bom. Chega pra lÃƒÂ¡. Chega, chega.
+1346	00:00:00,000 --> 00:00:00,000		[The survivors board the boat.]
+1348	00:00:00,000 --> 00:00:00,000	DESMOND	Uh... this is--this is Penny. This is, um, Kate and then Aaron.
+1350	00:00:00,000 --> 00:00:00,000	KATE	Hi.
+1352	00:00:00,000 --> 00:00:00,000	PENNY	Hi.
+1354	00:00:00,000 --> 00:00:00,000	DESMOND	Um... and this is Sun, Sayid, Hurley.
+1356	00:00:00,000 --> 00:00:00,000	HURLEY	Hi.
+1358	00:00:00,000 --> 00:00:00,000	DESMOND	This is Frank. And Jack. Jack, this is--this is Penny.
+1360	00:00:00,000 --> 00:00:00,000	JACK	It's nice to meet you, Penny.
+1362	00:00:00,000 --> 00:00:00,000	PENNY	Hi.
+1364	00:00:00,000 --> 00:00:00,000	JACK	[Sighs] But we need to talk.
+1366	00:00:00,000 --> 00:00:00,000		[One week later.]
+1368	00:00:00,000 --> 00:00:00,000	HURLEY	What's this place called?
+1370	00:00:00,000 --> 00:00:00,000	SAYID	Membata.
+1372	00:00:00,000 --> 00:00:00,000	HURLEY	Membata. Why are we doing this, Dude? Sailing 3,000 miles to another island?
+1374	00:00:00,000 --> 00:00:00,000	SAYID	Because it's the only way to keep them safe.
+1376	00:00:00,000 --> 00:00:00,000		[At the rear of the boat, Frank and Jack put a raft into the water. Lapidus grunts.]
+1378	00:00:00,000 --> 00:00:00,000	JACK	How long till we'll hit land?
+1380	00:00:00,000 --> 00:00:00,000	LAPIDUS	Well, if the wind's not too brutal... eight, nine hours. [Drops plank] Just long enough to give you a nice, convincing sunburn.
+1382	00:00:00,000 --> 00:00:00,000	JACK	Well... it's been a pleasure, Frank. I hope we never see each other again.
+1384	00:00:00,000 --> 00:00:00,000	LAPIDUS	Roger that, Doc. [Chuckles]
+1386	00:00:00,000 --> 00:00:00,000	PENNY	[to Aaron] Bye, sweetheart.
+1388	00:00:00,000 --> 00:00:00,000	DESMOND	[to Jack] Are you sure about this, brother?
+1390	00:00:00,000 --> 00:00:00,000	JACK	Are you sure?
+1392	00:00:00,000 --> 00:00:00,000	DESMOND	[Scoffs] As long as I've got Penny... I'll be fine.
+1394	00:00:00,000 --> 00:00:00,000	JACK	Don't let him find you, Desmond. And I'll see you in another life, brother.
+1396	00:00:00,000 --> 00:00:00,000	DESMOND	Aye. I guess you will.
+1398	00:00:00,000 --> 00:00:00,000	JACK	All right. Let's go home.
+1400	00:00:00,000 --> 00:00:00,000		[They paddle the raft to an Island. The villagers help them to the shore. Jack, Hurley, Sayid, Sun and Kate, who is holding Aaron, make their way up the beach.]
+1402	00:00:00,000 --> 00:00:00,000		[The Pixies' "Gouge Away" plays in Jack's Ford Bronco as Jack cruises down a Los Angeles street.]
+1404	00:00:00,000 --> 00:00:00,000		[Sleeping on your belly /You break my arms, /You spoon my eyes /Been rubbing a bad charm]
+1406	00:00:00,000 --> 00:00:00,000		[Jack's brakes squeal as he stops in front of Hoffs/Drawler Funeral Home.]
+1408	00:00:00,000 --> 00:00:00,000		[With holy fingers /Gouge away /You can--]
+1410	00:00:00,000 --> 00:00:00,000		[Jack parks and turns off the engine. He sniffles as he gets out and approaches the building. A train horn blows in the distance. Jack tries the doorknob, but it's locked. He rattles it again. Dogs bark in the distance. The train horn continue to blow. Jack picks up a stray chunk of cement and--CLANK--bashes on the doorknob once, putting a gash in the door. Another hit--CLANK--and the doorknob breaks and bends out. A third hit with the cement chunk and the knob is knocked clean off. Jack pushes his way inside the funeral parlor. With a BANG of the door, Jack breaks inside the mortuary of the funeral home. Jack sighs and flicks on the light switch. There, inside, is Jeremy Bentham's coffin. Jack approaches the coffin. The body claim form, unfilled except for the name, sits on a clipboard on the top of the coffin. Jack throws the clipboard onto the stainless steel body preparation table behind him. From the sound of it, a plane flies overhead as Jack lifts the upper cover of the coffin and looks at the body inside.]
+1412	00:00:00,000 --> 00:00:00,000	BEN	Hello, Jack.
+1414	00:00:00,000 --> 00:00:00,000		[Jack is startled almost off his balance by the voice. The sound of vehicles passing by can be heard from outside.]
+1416	00:00:00,000 --> 00:00:00,000	BEN	Sorry. Didn't mean to scare you. Did he tell you that I was off the island?
+1418	00:00:00,000 --> 00:00:00,000	JACK	[Exhales deeply] Yes, he did.
+1420	00:00:00,000 --> 00:00:00,000	BEN	When did you speak to him?
+1422	00:00:00,000 --> 00:00:00,000	JACK	[Inhales deeply] About a month ago.
+1424	00:00:00,000 --> 00:00:00,000	BEN	And Kate?
+1426	00:00:00,000 --> 00:00:00,000	JACK	Yeah. Yeah, he came to see her, too.
+1428	00:00:00,000 --> 00:00:00,000	BEN	And what did he say to you?
+1430	00:00:00,000 --> 00:00:00,000	JACK	He told me... that after I left the island, some very bad things happened. And he told me that it was my fault for leaving. And he said that I had to come back.
+1432	00:00:00,000 --> 00:00:00,000	BEN	Yes, I heard that you've been flying on passenger planes... hoping that you'd crash. It's dark, Jack, very dark.
+1434	00:00:00,000 --> 00:00:00,000	JACK	Why are you here?
+1436	00:00:00,000 --> 00:00:00,000	BEN	I'm here to tell you that the island won't let you come alone. All of you have to go back.
+1438	00:00:00,000 --> 00:00:00,000	JACK	[Scoffs] Are you... [sighs] Sayid--I don't even know where Sayid is. Hurley... [scoffs] is insane. Sun blames me for... and then Kate... [chuckles, sighs] She won't even talk to me anymore.
+1440	00:00:00,000 --> 00:00:00,000	BEN	Perhaps I can help you with that. This is the way it has to be, Jack. It's the only way. You have to do it together, all of you.
+1442	00:00:00,000 --> 00:00:00,000	JACK	How?
+1444	00:00:00,000 --> 00:00:00,000	BEN	I have a few ideas.
+1446	00:00:00,000 --> 00:00:00,000		[Jack sighs deeply and turns to leave.]
+1448	00:00:00,000 --> 00:00:00,000	BEN	Jack... I said, all of you. We're gonna have to bring him, too.
+1450	00:00:00,000 --> 00:00:00,000		[Jack, standing feet from Ben and facing him in the tiny mortuary, turns back and looks at the body in the coffin. Ben regards the body for a moment too. The well-dressed, peaceful-looking body in the coffin, the body of Jeremy Bentham, is the body of John Locke.]

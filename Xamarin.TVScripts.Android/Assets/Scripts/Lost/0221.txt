@@ -1,0 +1,325 @@
+?
+2	00:00:00,000 --> 00:00:00,000	Written by	Damon Lindelof & Carlton Cuse
+4	00:00:00,000 --> 00:00:00,000	Directed by	Deran Sarafian
+6	00:00:00,000 --> 00:00:00,000		[We see Eko chopping wood, working on his church.]
+8	00:00:00,000 --> 00:00:00,000	ANA	[off camera at first] What are you building?
+10	00:00:00,000 --> 00:00:00,000	EKO	Hello, Ana.
+12	00:00:00,000 --> 00:00:00,000	ANA	Well, hello yourself. So, are you going to tell me? What is it?
+14	00:00:00,000 --> 00:00:00,000	EKO	I am building a church.
+16	00:00:00,000 --> 00:00:00,000	ANA	Now, why the hell would you want to do that?
+18	00:00:00,000 --> 00:00:00,000	EKO	Because I was told to.
+20	00:00:00,000 --> 00:00:00,000	ANA	Told to by who?
+22	00:00:00,000 --> 00:00:00,000	EKO	I was just told. I think it was in a dream.
+24	00:00:00,000 --> 00:00:00,000	ANA	A dream like this one?
+26	00:00:00,000 --> 00:00:00,000		[Suddenly blood appears on Ana's chest and the corner of her mouth.]
+28	00:00:00,000 --> 00:00:00,000	ANA	You need to help John.
+30	00:00:00,000 --> 00:00:00,000		[We see a series of very quick flashes of event's from Eko's life. Then we see Eko in the Hatch still holding the axe. Yemi is sitting at the computer.]
+32	00:00:00,000 --> 00:00:00,000	EKO	Yemi?
+34	00:00:00,000 --> 00:00:00,000	YEMI	Hello, brother.
+36	00:00:00,000 --> 00:00:00,000	EKO	Forgive me. I should have listened to you. You were right. I didn't want to do it.
+38	00:00:00,000 --> 00:00:00,000	YEMI	[shushing Eko] The work being done in this place is important, Eko. It is more important than anything. And it is in danger. You must help John. He has lost his way. You must make him take you to the question mark.
+40	00:00:00,000 --> 00:00:00,000		[We hear the timer alarm start to sound. The timer starts flipping and shows black and red question marks flipping, instead of numbers. Yemi tries to enter the Numbers but all the keys have questions marks on them.]
+42	00:00:00,000 --> 00:00:00,000	YEMI	John will not want to show you, so you must make him. [Eko turns to leave, but Yemi grabs his arm] Eko, there are many distractions, brother [we see equipment shaking like in an earthquake], but you must move past them. What is done is done. Do you understand?
+44	00:00:00,000 --> 00:00:00,000	EKO	Yes, Yemi.
+46	00:00:00,000 --> 00:00:00,000	YEMI	And, Eko, bring the axe.
+48	00:00:00,000 --> 00:00:00,000		[We see Eko wake up with a start, breathing hard. Charlie wakes up near him.]
+50	00:00:00,000 --> 00:00:00,000	CHARLIE	What's the matter? [Eko looks at his cross, but doesn't respond] You alright, mate?
+52	00:00:00,000 --> 00:00:00,000		[Eko gets his axe.]
+54	00:00:00,000 --> 00:00:00,000	EKO	I need to find John.
+56	00:00:00,000 --> 00:00:00,000		[We see Locke, Kate, Jack and Sawyer walking through the jungle at night.]
+58	00:00:00,000 --> 00:00:00,000	JACK	What were you thinking, John?
+60	00:00:00,000 --> 00:00:00,000	KATE	Jack, leave him alone.
+62	00:00:00,000 --> 00:00:00,000	SAWYER	No, Jack, don't leave him alone.
+64	00:00:00,000 --> 00:00:00,000	JACK	Shut it, Sawyer. If Ana hadn't lifted your gun we wouldn't...
+66	00:00:00,000 --> 00:00:00,000	SAWYER	Well, ain't that swell, Gimpy McCrutch over here covers up that the Artist Formally Known as Henry Gale tried to strangle your little amiga, and suddenly it's on me when she goes vigilante.
+68	00:00:00,000 --> 00:00:00,000	JACK	How about you go back to the beach?
+70	00:00:00,000 --> 00:00:00,000	KATE	Hey, enough -- both of you.
+72	00:00:00,000 --> 00:00:00,000		[Suddenly Michael stumbles out of the Hatch door which the group has almost reached.]
+74	00:00:00,000 --> 00:00:00,000	JACK	Michael, hey.
+76	00:00:00,000 --> 00:00:00,000	MICHAEL	He shot me.
+78	00:00:00,000 --> 00:00:00,000	JACK	Who?
+80	00:00:00,000 --> 00:00:00,000	MICHAEL	He's gone. He ran out.
+82	00:00:00,000 --> 00:00:00,000	JACK	[to the others] Go, I got him.
+84	00:00:00,000 --> 00:00:00,000	MICHAEL	I was sleeping and I heard gunshots. I came out of the bedroom and there was this guy. He had a gun and...
+86	00:00:00,000 --> 00:00:00,000	JACK	Okay, come on, we've got to get you up.
+88	00:00:00,000 --> 00:00:00,000	EKO	[appearing] Let me help you.
+90	00:00:00,000 --> 00:00:00,000		[Sawyer, Kate and Locke enter the Hatch, horrified to see Ana and Libby have been shot. Sawyer goes to Libby. Kate goes to Ana. Locke notices that Henry is gone. Eko, Jack and Michael enter.]
+92	00:00:00,000 --> 00:00:00,000	KATE	She's dead.
+94	00:00:00,000 --> 00:00:00,000		[Libby suddenly coughs blood all over Sawyer and cries out in pain. Michael looks on.]
+96	00:00:00,000 --> 00:00:00,000	JACK	Okay, we've got to get her up. We've got to get her to the back room, okay.
+98	00:00:00,000 --> 00:00:00,000		[Eko places Ana's arms over her chest and crosses her, as Locke looks on]
+100	00:00:00,000 --> 00:00:00,000	EKO	Grant us this mercy, oh Lord. We beseech, Thee. Amen.
+102	00:00:00,000 --> 00:00:00,000		[Jack and Kate attend to Libby.]
+104	00:00:00,000 --> 00:00:00,000	JACK	She's in shock. Alright we've got to keep pressure on this.
+106	00:00:00,000 --> 00:00:00,000	KATE	Can you do anything? Jack?
+108	00:00:00,000 --> 00:00:00,000	JACK	I heard you. Keep pressure on her, okay. [he walks into the kitchen area]
+110	00:00:00,000 --> 00:00:00,000	MICHAEL	How is she?
+112	00:00:00,000 --> 00:00:00,000	JACK	I'm doing what I can. How long ago?
+114	00:00:00,000 --> 00:00:00,000	MICHAEL	What?
+116	00:00:00,000 --> 00:00:00,000	JACK	When did this happen? How long ago did he leave?
+118	00:00:00,000 --> 00:00:00,000	MICHAEL	I don't know. 20 minutes, maybe a half hour.
+120	00:00:00,000 --> 00:00:00,000	JACK	We can pick up the trail, catch up to him.
+122	00:00:00,000 --> 00:00:00,000	SAWYER	Man's got a head-start, a gun, and he ain't afraid to...
+124	00:00:00,000 --> 00:00:00,000	JACK	He shot 3 of our people! One of them is dead, one of them...
+126	00:00:00,000 --> 00:00:00,000	SAWYER	Who's going to take care of Libby while you're off playing Daniel Boone?
+128	00:00:00,000 --> 00:00:00,000	EKO	I will go. John, you have tracking experience, yes?
+130	00:00:00,000 --> 00:00:00,000	LOCKE	Yeah.
+132	00:00:00,000 --> 00:00:00,000	EKO	We will find his trail together.
+134	00:00:00,000 --> 00:00:00,000	JACK	You find anything -- anything -- you come right back here and we figure out what we're going to do next, together.
+136	00:00:00,000 --> 00:00:00,000	EKO	Let's go, John.
+138	00:00:00,000 --> 00:00:00,000		[Flashback - We see Eko dressed as a priest in a confessional.]
+140	00:00:00,000 --> 00:00:00,000	EKO	How long has it been since your last confession?
+142	00:00:00,000 --> 00:00:00,000	CALDWELL	Oh, good question. Too many years for me to even remember.
+144	00:00:00,000 --> 00:00:00,000	EKO	What do you wish to ask God's forgiveness for? What sins have you committed?
+146	00:00:00,000 --> 00:00:00,000	CALDWELL	Let's see. Well, I slept with another woman besides my wife.
+148	00:00:00,000 --> 00:00:00,000	EKO	Just once, or many times?
+150	00:00:00,000 --> 00:00:00,000	CALDWELL	How many is many?
+152	00:00:00,000 --> 00:00:00,000	EKO	To receive God's forgiveness you must be penitent for your sins.
+154	00:00:00,000 --> 00:00:00,000	CALDWELL	Oh, I also forged ID papers for a guy pretending to be a priest.
+156	00:00:00,000 --> 00:00:00,000		[We see Eko and Caldwell outside the church.]
+158	00:00:00,000 --> 00:00:00,000	EKO	Do you have it?
+160	00:00:00,000 --> 00:00:00,000		[Caldwell hands Eko a fake Australian passport.]
+162	00:00:00,000 --> 00:00:00,000	CALDWELL	What'd you do, Padre? Skim from the collection plate? You know, I've got some friends in Los Angeles. I could get you on with them.
+164	00:00:00,000 --> 00:00:00,000	EKO	Doing what?
+166	00:00:00,000 --> 00:00:00,000	CALDWELL	You know, stuff.
+168	00:00:00,000 --> 00:00:00,000	MONSIGNOR	[entering] Good morning, Father Tunde.
+170	00:00:00,000 --> 00:00:00,000	EKO	Good morning, Monsignor. This is Mr. Caldwell. He has been helping me arrange my trip to the United States.
+172	00:00:00,000 --> 00:00:00,000	MONSIGNOR	I'm sorry Father, but I've got some bad news. You're going to have to postpone your trip. It appears we have a miracle.
+174	00:00:00,000 --> 00:00:00,000		[Scene switches to the Monsignor and Eko with a woman, Joyce.]
+176	00:00:00,000 --> 00:00:00,000	JOYCE	My daughter, she -- she drowned.
+178	00:00:00,000 --> 00:00:00,000	EKO	I'm very sorry for your loss.
+180	00:00:00,000 --> 00:00:00,000	JOYCE	Oh, no, you don't understand. She came back to life. We were out in the back blocks and Charlotte must have slipped; and she went into the river and she's not much of a swimmer. She was dead and the next day she woke up. Don't you understand? It's a miracle -- a confirmation of faith. Everyone needs to know about it. People need...
+182	00:00:00,000 --> 00:00:00,000	EKO	Where is your daughter?
+184	00:00:00,000 --> 00:00:00,000	JOYCE	At home with my husband.
+186	00:00:00,000 --> 00:00:00,000	EKO	What does he think?
+188	00:00:00,000 --> 00:00:00,000	JOYCE	The world needs to know about this. We need to tell the Vatican. We need to tell the world-
+190	00:00:00,000 --> 00:00:00,000	MONSIGNOR	I'm sorry; we can't just do that, Mrs. Malkin. The church needs to conduct an investigation before anyone can be told. Father Tunde will start this process, if you'll permit him.
+192	00:00:00,000 --> 00:00:00,000	EKO	Mrs. Malkin, will you excuse us for a moment, please.
+194	00:00:00,000 --> 00:00:00,000	JOYCE	Of course.
+196	00:00:00,000 --> 00:00:00,000	EKO	Monsignor, with all due respect, I cannot do what you have asked.
+198	00:00:00,000 --> 00:00:00,000	MONSIGNOR	Why not?
+200	00:00:00,000 --> 00:00:00,000	EKO	Because I do not believe what this woman says.
+202	00:00:00,000 --> 00:00:00,000	MONSIGNOR	Why do you think I chose you?
+204	00:00:00,000 --> 00:00:00,000		[On-Island - We see Eko and Locke walking through the jungle.]
+206	00:00:00,000 --> 00:00:00,000	LOCKE	Are you seeing something I'm not? [Locke stops] Hey! I haven't seen a single track or piece of sign since we left the Hatch. What the hell are you following?
+208	00:00:00,000 --> 00:00:00,000	EKO	Where is the question mark?
+210	00:00:00,000 --> 00:00:00,000	LOCKE	The what?
+212	00:00:00,000 --> 00:00:00,000	EKO	The question mark, John. Where is it?
+214	00:00:00,000 --> 00:00:00,000	LOCKE	You know what, you keep chasing after your own shadow; I'm going back.
+216	00:00:00,000 --> 00:00:00,000		[Eko moves in front of him to stop him.]
+218	00:00:00,000 --> 00:00:00,000	EKO	I know you do not want to show me, but you must.
+220	00:00:00,000 --> 00:00:00,000	LOCKE	No, I don't have to show you anything.
+222	00:00:00,000 --> 00:00:00,000	EKO	Then I am sorry.
+224	00:00:00,000 --> 00:00:00,000		[Eko suddenly head-butts Locke who instantly collapses.]
+226	00:00:00,000 --> 00:00:00,000		[We see Eko and Locke around a fire. Locke regains consciousness.]
+228	00:00:00,000 --> 00:00:00,000	LOCKE	You hit me. Why did you...?
+230	00:00:00,000 --> 00:00:00,000	EKO	Because you were being difficult.
+232	00:00:00,000 --> 00:00:00,000	LOCKE	Are you insane?
+234	00:00:00,000 --> 00:00:00,000	EKO	No.
+236	00:00:00,000 --> 00:00:00,000	LOCKE	Ana Lucia, your friend, was just murdered and you...
+238	00:00:00,000 --> 00:00:00,000	EKO	Ana wants me to help you, John.
+240	00:00:00,000 --> 00:00:00,000	LOCKE	Help me do what?
+242	00:00:00,000 --> 00:00:00,000	EKO	Find the question mark.
+244	00:00:00,000 --> 00:00:00,000	LOCKE	You don't even know what you're talking about, do you?
+246	00:00:00,000 --> 00:00:00,000	EKO	No, but you know what I am talking about, John, and that is all that matters.
+248	00:00:00,000 --> 00:00:00,000	LOCKE	[pulling the map out of his pocket] Here, you want to find your damn question mark? Here, this is it right here. Here take it. Take it because it's nothing. It's a memory. It's 10 seconds of nothing.
+250	00:00:00,000 --> 00:00:00,000	EKO	[pointing on the map] This is your hatch, yes?
+252	00:00:00,000 --> 00:00:00,000	LOCKE	It's not my hatch.
+254	00:00:00,000 --> 00:00:00,000	EKO	If the Swan is where we came from then we go that way.
+256	00:00:00,000 --> 00:00:00,000	LOCKE	We shouldn't even be out here. Ana Lucia would still be alive if I just told Jack that Henry attacked her.
+258	00:00:00,000 --> 00:00:00,000	EKO	Now, she wants us to go here, John, together. She said this in my dream.
+260	00:00:00,000 --> 00:00:00,000	LOCKE	Of course, a dream.
+262	00:00:00,000 --> 00:00:00,000	EKO	Tell me, John, haven't you ever followed a dream?
+264	00:00:00,000 --> 00:00:00,000		[Flashback - We see Eko at Dr. Ian McVay's office.]
+266	00:00:00,000 --> 00:00:00,000	MCVAY	So, the Vatican's really interested in this one, eh?
+268	00:00:00,000 --> 00:00:00,000	EKO	That depends upon what I put in my report. Why don't you just start by telling me what happened that night?
+270	00:00:00,000 --> 00:00:00,000	MCVAY	Well, I got a call around 1am -- Ambrose brought this girl in, dead. She'd been in the water 2 hours.
+272	00:00:00,000 --> 00:00:00,000	EKO	Have you had much experience in this type of death?
+274	00:00:00,000 --> 00:00:00,000	MCVAY	Yeah, of course. I'm, I'm an undertaker. [Eko looks skeptical] Well, I mean, it's my day job. I mean, I'm perfectly qualified to be a coroner. I mean, I did go to medical school.
+276	00:00:00,000 --> 00:00:00,000	EKO	And when did you find out that she was -- not dead?
+278	00:00:00,000 --> 00:00:00,000	MCVAY	During the autopsy.
+280	00:00:00,000 --> 00:00:00,000	EKO	During the autopsy?
+282	00:00:00,000 --> 00:00:00,000	MCVAY	It's alright; I didn't expect you to believe me.
+284	00:00:00,000 --> 00:00:00,000		[McVay presses play on a tape recorder.]
+286	00:00:00,000 --> 00:00:00,000	MCVAY	I figured you'd want to have a listen for yourself.
+288	00:00:00,000 --> 00:00:00,000	MCVAY	[on the tape] This is a Caucasian female. She's 161 cm, 51.3 kilos. Body prepped and washed by the very lovely Valerie McDervish.
+290	00:00:00,000 --> 00:00:00,000	VALERIE	[on the tape] Ian, stop it.
+292	00:00:00,000 --> 00:00:00,000	MCVAY	[on the tape] Commencing with the post. This is a clear case of drowning. I'll begin with a thoracic...
+294	00:00:00,000 --> 00:00:00,000		[We hear screams, Oh God!, lots more screaming. McVay turns off the recorder and hands Eko the tape.]
+296	00:00:00,000 --> 00:00:00,000	MCVAY	Take it. No, please, I don't ever want to listen to that tape again.
+298	00:00:00,000 --> 00:00:00,000		[On-Island - We see Eko holding the map as he and Locke are walking through the jungle.]
+300	00:00:00,000 --> 00:00:00,000	LOCKE	You lost already?
+302	00:00:00,000 --> 00:00:00,000	EKO	Your map is inexact.
+304	00:00:00,000 --> 00:00:00,000	LOCKE	No kidding.
+306	00:00:00,000 --> 00:00:00,000	EKO	These landmarks -- is this a river?
+308	00:00:00,000 --> 00:00:00,000	LOCKE	No, it's a wavy line. I didn't draw it, I just transcribed it. I told you, I don't even know if it is a map.
+310	00:00:00,000 --> 00:00:00,000	EKO	Let's assume it is.
+312	00:00:00,000 --> 00:00:00,000	LOCKE	What's the axe for?
+314	00:00:00,000 --> 00:00:00,000	EKO	I don't know yet.
+316	00:00:00,000 --> 00:00:00,000		[Eko steps on something and we hear it break. The camera reveals that it's one of the Virgin Mary statues. They continue walking on and find themselves at the site of the burned out plane.]
+318	00:00:00,000 --> 00:00:00,000	EKO	You are the one that found this plane, yes?
+320	00:00:00,000 --> 00:00:00,000	LOCKE	Yeah. [looking up] It was up there.
+322	00:00:00,000 --> 00:00:00,000	EKO	And what made it fall?
+324	00:00:00,000 --> 00:00:00,000	LOCKE	Boone. Boone made it fall. Then he died. A sacrifice that the Island demanded.
+326	00:00:00,000 --> 00:00:00,000	EKO	Excuse me?
+328	00:00:00,000 --> 00:00:00,000	LOCKE	Nothing. So, what's next?
+330	00:00:00,000 --> 00:00:00,000	EKO	We make camp. Get some sleep, and wait for further instruction.
+332	00:00:00,000 --> 00:00:00,000		[We see Jack and Kate, et al, back in the Hatch.]
+334	00:00:00,000 --> 00:00:00,000	JACK	Where the hell are they?
+336	00:00:00,000 --> 00:00:00,000	KATE	Just calm down. Finding his trail in the dark is not going to be easy. They'll be back.
+338	00:00:00,000 --> 00:00:00,000	MICHAEL	She say anything? Libby?
+340	00:00:00,000 --> 00:00:00,000	JACK	[shaking his head] She's still unconscious. The bleeding stopped.
+342	00:00:00,000 --> 00:00:00,000	KATE	That's good, right?
+344	00:00:00,000 --> 00:00:00,000	JACK	No, it's not good.
+346	00:00:00,000 --> 00:00:00,000	MICHAEL	And there's nothing you can...
+348	00:00:00,000 --> 00:00:00,000	JACK	I can make her comfortable. [he looks at Sawyer] But I don't have what I need.
+350	00:00:00,000 --> 00:00:00,000	SAWYER	Why are you looking at me? I gave you all the damn meds 2 days ago...
+352	00:00:00,000 --> 00:00:00,000	JACK	The heroin, Sawyer.
+354	00:00:00,000 --> 00:00:00,000	SAWYER	Give me 20 minutes.
+356	00:00:00,000 --> 00:00:00,000	JACK	Kate's going to go with you.
+358	00:00:00,000 --> 00:00:00,000	SAWYER	It doesn't take 2 people to...
+360	00:00:00,000 --> 00:00:00,000	JACK	Kate is going with you.
+362	00:00:00,000 --> 00:00:00,000	KATE	What are you talking about? Why would he need me to go with him?
+364	00:00:00,000 --> 00:00:00,000	SAWYER	Jacko here knows his heroin's in my stash with the guns. So, I can either show you where it's at, or let poor Libby suffer. That pretty much it, Doc?
+366	00:00:00,000 --> 00:00:00,000	JACK	Yeah. Yeah, that's pretty much it.
+368	00:00:00,000 --> 00:00:00,000	SAWYER	Let's go, Freckles.
+370	00:00:00,000 --> 00:00:00,000		[We see Kate and Sawyer heading for Sawyer's tent on the beach.]
+372	00:00:00,000 --> 00:00:00,000	KATE	I'm curious about something.
+374	00:00:00,000 --> 00:00:00,000	SAWYER	Yeah, what's that?
+376	00:00:00,000 --> 00:00:00,000	KATE	How did Ana Lucia get your gun?
+378	00:00:00,000 --> 00:00:00,000	SAWYER	I don't know, she must've lifted it off me.
+380	00:00:00,000 --> 00:00:00,000	KATE	She pick-pocketed your gun? How'd she do that?
+382	00:00:00,000 --> 00:00:00,000	SAWYER	Well, if I knew how she did it, she wouldn't be able to do it, now would she? [he stops outside his tent] After you.
+384	00:00:00,000 --> 00:00:00,000	KATE	I thought you were taking me to your stash.
+386	00:00:00,000 --> 00:00:00,000	SAWYER	Do you have to make everything so damned difficult? Just go in.
+388	00:00:00,000 --> 00:00:00,000		[Sawyer lifts up a piece of wreckage and reveals his stash.]
+390	00:00:00,000 --> 00:00:00,000	KATE	You kept the guns here, all this time, right under you?
+392	00:00:00,000 --> 00:00:00,000	SAWYER	Fooled you, didn't I?
+394	00:00:00,000 --> 00:00:00,000		[He hands her a statue and they exit the tent. Hurley approaches.]
+396	00:00:00,000 --> 00:00:00,000	HURLEY	Hey guys, you seen Libby around?
+398	00:00:00,000 --> 00:00:00,000		[The camera pulls out to a long shot and Kate puts her arm on Hurley's shoulder, apparently telling him what happened.]
+400	00:00:00,000 --> 00:00:00,000		[We see Eko and Locke in the jungle. Eko is poking at the remains of the fire while Locke still sleeps.]
+402	00:00:00,000 --> 00:00:00,000	YEMI	Eko.
+404	00:00:00,000 --> 00:00:00,000	EKO	[smiling] Yemi.
+406	00:00:00,000 --> 00:00:00,000	YEMI	[shushing him] You'll wake John. Come, follow me.
+408	00:00:00,000 --> 00:00:00,000	EKO	[limpingly follows] Yemi.
+410	00:00:00,000 --> 00:00:00,000		[We see Yemi climbing up the cliff where the plane was perched. Eko follows.]
+412	00:00:00,000 --> 00:00:00,000	EKO	Yemi! Yemi.
+414	00:00:00,000 --> 00:00:00,000		[At the top Eko looks surprised. We see Yemi sitting in a wheelchair.]
+416	00:00:00,000 --> 00:00:00,000	YEMI	Wake up, John.
+418	00:00:00,000 --> 00:00:00,000		[We see Eko fall. Locke suddenly wakes up.]
+420	00:00:00,000 --> 00:00:00,000	EKO	Are you alright, John?
+422	00:00:00,000 --> 00:00:00,000	LOCKE	Yeah. Yeah, I'm fine.
+424	00:00:00,000 --> 00:00:00,000	EKO	You had a dream. [Locke nods] Was there a man? A priest? [Locke looks shocked/puzzled] The man that you saw was my brother.
+426	00:00:00,000 --> 00:00:00,000	LOCKE	Your brother?
+428	00:00:00,000 --> 00:00:00,000	EKO	This is why we needed to come together. This is how we are going to be led, and how we will know where to go next.
+430	00:00:00,000 --> 00:00:00,000	LOCKE	But I don't know where to go.
+432	00:00:00,000 --> 00:00:00,000	EKO	Did he tell you anything?
+434	00:00:00,000 --> 00:00:00,000	LOCKE	No, he, he...
+436	00:00:00,000 --> 00:00:00,000	EKO	Nothing? Anything?
+438	00:00:00,000 --> 00:00:00,000	LOCKE	It wasn't even me. It was you. It didn't -- he wanted me to follow him.
+440	00:00:00,000 --> 00:00:00,000	EKO	Follow him where? [Locke looks up the cliff] Wait here.
+442	00:00:00,000 --> 00:00:00,000		[Eko starts for the cliff.]
+444	00:00:00,000 --> 00:00:00,000	LOCKE	Eko, it was just a dream. It's not safe. Eko!
+446	00:00:00,000 --> 00:00:00,000		[Flashback - We see Eko getting out of his car at a house where a young woman is sitting on the porch. Joyce Malkin comes out to greet him.]
+448	00:00:00,000 --> 00:00:00,000	JOYCE	Father, I'm afraid it's not a very good time. You'll have to come back later.
+450	00:00:00,000 --> 00:00:00,000	EKO	Mrs. Malkin, I must speak to your daughter. Yesterday in the church you said that...
+452	00:00:00,000 --> 00:00:00,000	JOYCE	I know what I said. It's just that right this minute is not a very good time.
+454	00:00:00,000 --> 00:00:00,000		[Richard Malkin comes out onto the porch.]
+456	00:00:00,000 --> 00:00:00,000	MALKIN	Get back in the house, Joyce. Get her inside.
+458	00:00:00,000 --> 00:00:00,000	JOYCE	Richard, please.
+460	00:00:00,000 --> 00:00:00,000	MALKIN	Inside, now!
+462	00:00:00,000 --> 00:00:00,000		[Joyce and Charlotte exit.]
+464	00:00:00,000 --> 00:00:00,000	MALKIN	I know why you're here, friend. But you can save yourself the trouble. What happened here was not a miracle.
+466	00:00:00,000 --> 00:00:00,000	EKO	The doctor that treated your daughter seems to feel differently.
+468	00:00:00,000 --> 00:00:00,000	MALKIN	Treated her? He tried to cut her open. He's just trying to cover up his own negligence. He tell you the whole story -- how she supposedly drowned? She fell into a mountain river, her body shut down; she went into hypothermia which made her appear dead.
+470	00:00:00,000 --> 00:00:00,000	EKO	And why is your wife so convinced otherwise?
+472	00:00:00,000 --> 00:00:00,000	MALKIN	Because she's a zealot. All of this -- everything she's doing -- is to spite me.
+474	00:00:00,000 --> 00:00:00,000	EKO	Why would she spite you?
+476	00:00:00,000 --> 00:00:00,000	MALKIN	Because she knows I'm a fraud. Because I make my living as a psychic. You see, that's what I do. I gather intelligence on people and I exploit it. Everyday I meet people looking for a miracle, desperate to find one. But there are none to be had. Not in this world, anyway.
+478	00:00:00,000 --> 00:00:00,000	EKO	I will report back to my Monsignor that there was no miracle here. Your daughter is alive. This is all that matters.
+480	00:00:00,000 --> 00:00:00,000		[As Eko is leaving he looks back and sees Charlotte looking out at him from a window.]
+482	00:00:00,000 --> 00:00:00,000		[On-Island - We see Eko climbing up the cliff.]
+484	00:00:00,000 --> 00:00:00,000	LOCKE	Eko, be careful!
+486	00:00:00,000 --> 00:00:00,000		[Eko loses his grip and almost falls.]
+488	00:00:00,000 --> 00:00:00,000	LOCKE	Eko! Eko!
+490	00:00:00,000 --> 00:00:00,000	EKO	I'm fine.
+492	00:00:00,000 --> 00:00:00,000		[He gets to the top and surveys the landscape around him.]
+494	00:00:00,000 --> 00:00:00,000	LOCKE	Eko, what's up there?! You see anything?!
+496	00:00:00,000 --> 00:00:00,000	EKO	I don't see nothing.
+498	00:00:00,000 --> 00:00:00,000		[He looks down at Locke and sees a circle where not much is growing.]
+500	00:00:00,000 --> 00:00:00,000		[We see Eko tasting some dirt in the circle area.]
+502	00:00:00,000 --> 00:00:00,000	EKO	It's salty.
+504	00:00:00,000 --> 00:00:00,000	LOCKE	What?
+506	00:00:00,000 --> 00:00:00,000	EKO	The earth. It's been salted so that nothing can grow.
+508	00:00:00,000 --> 00:00:00,000	LOCKE	Why would any want to salt -- there's nothing here.
+510	00:00:00,000 --> 00:00:00,000	EKO	I believe they made a circle -- a target -- so that this place can be seen from up above.
+512	00:00:00,000 --> 00:00:00,000	LOCKE	They? What place?
+514	00:00:00,000 --> 00:00:00,000	EKO	The place that this plane fell upon, John.
+516	00:00:00,000 --> 00:00:00,000		[Eko searches the ground near the plane. He brushes away dirt and uncovers something metallic.]
+518	00:00:00,000 --> 00:00:00,000	EKO	John! Will you help me with this?
+520	00:00:00,000 --> 00:00:00,000		[They push the plane out of the way and uncover a large set of doors. Locke tries to open the latches, but can't.]
+522	00:00:00,000 --> 00:00:00,000	EKO	Wait.
+524	00:00:00,000 --> 00:00:00,000		[Eko uses the axe to loosen the latches and he starts to open the doors.]
+526	00:00:00,000 --> 00:00:00,000	LOCKE	Eko, may I?
+528	00:00:00,000 --> 00:00:00,000	EKO	Please, be my guest.
+530	00:00:00,000 --> 00:00:00,000		[Eko and Locke lift the doors up together. They stare down into a shaft much like the shaft into the Swan hatch.]
+532	00:00:00,000 --> 00:00:00,000		[We see Jack break open a Virgin Mary statue while Kate and Sawyer look worriedly on. We see Michael watching it all.]
+534	00:00:00,000 --> 00:00:00,000	HURLEY	[off camera at first, but sitting near Michael] We were going to have our first date.
+536	00:00:00,000 --> 00:00:00,000	MICHAEL	Date?
+538	00:00:00,000 --> 00:00:00,000	HURLEY	Yeah, a picnic on the beach. I'm glad you're okay, man.
+540	00:00:00,000 --> 00:00:00,000		[We see Eko and Locke climbing down a ladder into the Hatch. We see a DHARMA logo with only a white circle. Locke turns some lights on. They continue on and see a room with old TV monitors and a couple of large chairs. Locke turns on the TV monitors. Most of them remain black-screened. One shows static. One shows the inside of the Swan hatch kitchen/dining table area; Jack walks by . Locke turns on more lights. He finds a computer terminal which displays, "Printlog Y/N." Locke presses Y and Execute. Something starts printing. Meanwhile, Eko opens a closet and finds a stack of notebooks. We see the printout which shows lines of numbers and the word "accepted." Eko opens a dusty notebook, but there's nothing written in it. Locke finds a pneumatic tube and puts his map in it and watches it get sucked away. Eko finds an old style video tape.]
+542	00:00:00,000 --> 00:00:00,000	EKO	John.
+544	00:00:00,000 --> 00:00:00,000		[He shows it to John and we see that it's labeled "Orientation." Eko puts in a player.]
+546	00:00:00,000 --> 00:00:00,000		[Title Screen: The DHARMA Initiative/5 of 6/Orientation. Next we see a screen with the white circle DHARMA logo and under it is written: Orientation - Station 5 - The Pearl. As the film starts we see "Marvin Candle" minus the white lab coat. He's dressed in a turtleneck and sport coat, standing in the Pearl hatch.]
+548	00:00:00,000 --> 00:00:00,000	WICKMAN	Hello, I'm Dr. Mark Wickman, and this is the orientation film for Station 5 of DHARMA Initiative. Station 5, or the Pearl, is a monitoring station where the activities of participants in DHARMA Initiative projects can be observed and recorded -- not only for posterity, but for the ongoing refinement of the Initiative as a whole. As Karen DeGroot herself has written, "Careful observation in the only key to true and complete awareness." Your tour of duty will last 3 weeks and during this time you and your partner will observe a psychological experiment in progress. Your duty is to observe team members at another station on the Island. These team members are not aware that they are under surveillance, or that they are the subjects of an experiment. Working in 8 hour shifts, you and your partner will record everything you observe in the notebooks we provided. What is the nature of the experiment, you might ask? What do these subjects believe they are accomplishing as they struggle to fulfill their tasks? You, as the observer, don't need to know. All you need to know is the subjects believe their job is of the utmost importance. Remember, everything that occurs, no matter how minute or seemingly unimportant, must be recorded. Each time a notebook is filled with the fruits of your diligent observation, roll it up [audio/video problem] containers provided. Then, simply place the container in the pneumatic tube, and presto, it will be transported directly to us. At the end of your 8 hour shift, proceed to the Pala ferry which will take you back to the barracks [audio/video problem] prepare for your next shift [/audio/video warp problem]. On behalf of the DeGroots, Alvar Hanso, and all of us here at the DHARMA Initiative, thank you. Namaste and good luck.
+550	00:00:00,000 --> 00:00:00,000		[End Screen: The Hanso Foundation,/1980 All Rights Reserved.]
+552	00:00:00,000 --> 00:00:00,000	EKO	Would you like to watch that again?
+554	00:00:00,000 --> 00:00:00,000	LOCKE	No. No, I've seen enough.
+556	00:00:00,000 --> 00:00:00,000		[We see Eko gathering papers from a table.]
+558	00:00:00,000 --> 00:00:00,000	LOCKE	What are you doing?
+560	00:00:00,000 --> 00:00:00,000	EKO	I'm taking this back with us.
+562	00:00:00,000 --> 00:00:00,000	LOCKE	Why?
+564	00:00:00,000 --> 00:00:00,000	EKO	Because they may be important.
+566	00:00:00,000 --> 00:00:00,000	LOCKE	Important? I'm sorry, weren't you just watching the same thing I was?
+568	00:00:00,000 --> 00:00:00,000	EKO	Yes, John. And I believe the work you have been doing is more important now than ever.
+570	00:00:00,000 --> 00:00:00,000	LOCKE	What work?
+572	00:00:00,000 --> 00:00:00,000	EKO	Pushing the button.
+574	00:00:00,000 --> 00:00:00,000	LOCKE	That's not work. That's a joke -- rats in a maze with no cheese.
+576	00:00:00,000 --> 00:00:00,000	EKO	It is work, John. We are being tested.
+578	00:00:00,000 --> 00:00:00,000	LOCKE	Tested?
+580	00:00:00,000 --> 00:00:00,000	EKO	The reason to do it -- push the button -- is not because we are told to do so in a film.
+582	00:00:00,000 --> 00:00:00,000	LOCKE	Oh -- well, then what is the reason, Mr. Eko?
+584	00:00:00,000 --> 00:00:00,000	EKO	We do it because we believe we are meant to. Isn't that the reason you pushed it, John?
+586	00:00:00,000 --> 00:00:00,000	LOCKE	I was never meant to do anything! Every single second of my pathetic little life is as useless as that button! You think it's important? You think it's necessary? It's nothing. It's nothing. It's meaningless. And who are you to tell me that it's not?
+588	00:00:00,000 --> 00:00:00,000		[Flashback - We see Eko at airport check-in in Australia.]
+590	00:00:00,000 --> 00:00:00,000	AGENT	[handing him a board pass] That's flight 815, leaving from gate 23.
+592	00:00:00,000 --> 00:00:00,000	EKO	Thank you.
+594	00:00:00,000 --> 00:00:00,000		[Eko turns to see Charlotte Malkin waiting for him.]
+596	00:00:00,000 --> 00:00:00,000	EKO	What are you doing here?
+598	00:00:00,000 --> 00:00:00,000	CHARLOTTE	I had to see you.
+600	00:00:00,000 --> 00:00:00,000	EKO	Look, your father said I shouldn't...
+602	00:00:00,000 --> 00:00:00,000	CHARLOTTE	I know. He doesn't want me talking to you. And I know you probably think I'm crazy, but I have a message for you and I promised to deliver it.
+604	00:00:00,000 --> 00:00:00,000	EKO	A message?
+606	00:00:00,000 --> 00:00:00,000	CHARLOTTE	He says you were a good priest.
+608	00:00:00,000 --> 00:00:00,000	EKO	Who says that?
+610	00:00:00,000 --> 00:00:00,000	CHARLOTTE	Yemi.
+612	00:00:00,000 --> 00:00:00,000	EKO	[shocked] Speaking about my brother is not a joke, so you should be very careful what you say next.
+614	00:00:00,000 --> 00:00:00,000	CHARLOTTE	I saw him when I was -- between places. He said that you would come and see me. He said that even though you were pretending, you're a good man.
+616	00:00:00,000 --> 00:00:00,000	EKO	Who put you up to this? Did your father tell you to do this?
+618	00:00:00,000 --> 00:00:00,000	CHARLOTTE	He wants you to know that he will see you soon. He said that even though you don't have faith in yourself, that he has faith in you.
+620	00:00:00,000 --> 00:00:00,000	EKO	Why are you doing this to me? What do you want from me? Why are you doing this to me?!
+622	00:00:00,000 --> 00:00:00,000	LIBBY	[appearing] Is everything alright?
+624	00:00:00,000 --> 00:00:00,000		[Charlotte nods and Libby keeps walking.]
+626	00:00:00,000 --> 00:00:00,000	CHARLOTTE	He has faith in you. One day you'll believe me. [she exits]
+628	00:00:00,000 --> 00:00:00,000		[Heard in the background] Announcer: Oceanic Flight 815 is now boarding...
+630	00:00:00,000 --> 00:00:00,000		[On-Island - We see Eko showing his cross to Locke.]
+632	00:00:00,000 --> 00:00:00,000	EKO	This cross was worn by my brother, Yemi. Yemi was a great man, a priest, a man of God. And because I betrayed him he was shot and died. He was placed on a plane which took off from an airstrip in Nigeria half a world from here. Then, the plane that I was on crashed on this island. And somehow, here, I found my brother again. I found him in the same plane that took off from Nigeria. In the same plane that lies above us now -- that has concealed this place. And I took this cross from around Yemi's neck and put it back on mine, just as it was on the day I first took another man's life. So let me ask you -- how can you say this is meaningless? I believe the work being done in the Hatch is more important than anything. If you will not continue to push the button, John, I will.
+634	00:00:00,000 --> 00:00:00,000		[We see Jack injecting Libby with the heroin, as Hurley looks on.]
+636	00:00:00,000 --> 00:00:00,000	HURLEY	Can, can I talk to her?
+638	00:00:00,000 --> 00:00:00,000	JACK	Sure. [he exits]
+640	00:00:00,000 --> 00:00:00,000	HURLEY	[trying not to cry] Hey, it's Hurley. Hugo. I'm sorry I forgot the blankets. I'm sorry I forgot the blankets. [she opens her eyes] Libby?
+642	00:00:00,000 --> 00:00:00,000		[Libby struggles to say something. Jack enters.]
+644	00:00:00,000 --> 00:00:00,000	LIBBY	Michael.
+646	00:00:00,000 --> 00:00:00,000	JACK	Michael. He's okay. He made it, Libby. It's okay. It's alright.
+648	00:00:00,000 --> 00:00:00,000		[Libby gasps for air and dies. Jack closes her eyelids. Hurley cries. Kate cries and Sawyer comforts her. We hear the timer alarm start sounding. We see Eko and Locke walking through the jungle. We see Michael standing by himself in the armory. We see a close up of the prompt at the computer monitor.]

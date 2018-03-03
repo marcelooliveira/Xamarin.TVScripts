@@ -1,0 +1,363 @@
+One of Them
+2	00:00:00,000 --> 00:00:00,000	Written by	Damon Lindelof & Carlton Cuse
+4	00:00:00,000 --> 00:00:00,000	Directed by	Stephen Williams
+6	00:00:00,000 --> 00:00:00,000		[Flashback - Scene open with the sounds of bombs dropping on an Iraqi compound. We see Sayid and other soldiers burning and shredding documents as they are thrown by the concussion of explosions.]
+8	00:00:00,000 --> 00:00:00,000	TARIQ	[subtitled] They're getting closer! Move it! Burn those! Shred faster! Hurry up! Sayid! Take these files! Burn them! Keep shredding you cowards! We leave when I say! [He strikes a soldier.] Stop again, and I'll kill you myself! I'm your commanding officer and you will do --
+10	00:00:00,000 --> 00:00:00,000		[The U.S. Army suddenly breaks the door in.]
+12	00:00:00,000 --> 00:00:00,000	U.S. SOLDIER #1	Get down! Get the hell down!
+14	00:00:00,000 --> 00:00:00,000	SGT. BUCCELLI	Get down. Get down. You, no, no, no, drop your gun. On the ground now.
+16	00:00:00,000 --> 00:00:00,000	U.S. SOLDIER #2	Freeze! On the ground, now!
+18	00:00:00,000 --> 00:00:00,000	U.S. SOLDIER #1	Get the hell down!
+20	00:00:00,000 --> 00:00:00,000		[The Iraqi soldiers get down on the ground.]
+22	00:00:00,000 --> 00:00:00,000	SGT. BUCCELLI	Who's in charge here? I said, who's in charge?! [he sees someone still burning papers] Somebody better tell him to stop, or god help me, he's dead.
+24	00:00:00,000 --> 00:00:00,000	U.S. SOLDIER #1	They don't understand, Sergeant.
+26	00:00:00,000 --> 00:00:00,000	SGT. BUCCELLI	They understand. Listen up, I'll fire on 3. 1-2...
+28	00:00:00,000 --> 00:00:00,000	SAYID	[Subtitle: Stop shredding or they'll kill you!]
+30	00:00:00,000 --> 00:00:00,000	SGT. BUCCELLI	[to Sayid] You -- you in charge?
+32	00:00:00,000 --> 00:00:00,000	SAYID	No, I am not.
+34	00:00:00,000 --> 00:00:00,000	SGT. BUCCELLI	Who is?
+36	00:00:00,000 --> 00:00:00,000	SAYID	[after looking at Tariq] There is no commanding officer here. He left two hours ago for, for Hillah.
+38	00:00:00,000 --> 00:00:00,000	SGT. BUCCELLI	Your English is good, Abdul, but you're lying. And that ain't so good.
+40	00:00:00,000 --> 00:00:00,000		[Buccelli knocks Sayid out with the butt of his rifle.]
+42	00:00:00,000 --> 00:00:00,000		[We see shots of activity within the compound. And then a couple of soldiers making their way through a dozen or so prisoners kneeling inside a fenced area.]
+44	00:00:00,000 --> 00:00:00,000	SGT. BUCCELLI	That's him, Sergeant.
+46	00:00:00,000 --> 00:00:00,000	SGT. AUSTEN	[to Sayid] Let's go, hombre. [They start leading him out.] Son, we don't want to be here any more than you do -- your pal, Saddam, had to go marching into Kuwait -- here we all are. Buccelli here says that you speak English. Ever do any translating?
+48	00:00:00,000 --> 00:00:00,000	SAYID	Formally, no.
+50	00:00:00,000 --> 00:00:00,000	SGT. AUSTEN	Hell, the fact you know what "formally" means -- we're good. Apache helicopter went down in this sector 2 days ago. Our sources tell us the pilot was captured. It's very important that we get this pilot back. We know that he was taken to the local Republican Guard intelligence commander -- a man named Tariq. Do you know him?
+52	00:00:00,000 --> 00:00:00,000	SAYID	Yes, he was our commanding officer.
+54	00:00:00,000 --> 00:00:00,000	SGT. AUSTEN	Do you know where he is?
+56	00:00:00,000 --> 00:00:00,000	SAYID	When the bombing started he fled to Hillah.
+58	00:00:00,000 --> 00:00:00,000	SGT. AUSTEN	Hillah, huh?
+60	00:00:00,000 --> 00:00:00,000	SAYID	Yes, that is right.
+62	00:00:00,000 --> 00:00:00,000		[They go through a door.]
+64	00:00:00,000 --> 00:00:00,000	SGT. AUSTEN	Welcome to Hillah.
+66	00:00:00,000 --> 00:00:00,000		[We see Tariq sitting there.]
+68	00:00:00,000 --> 00:00:00,000		[On-Island - We see Sayid washing up. Ana comes running out of the jungle.]
+70	00:00:00,000 --> 00:00:00,000	ANA	Where's Jack?
+72	00:00:00,000 --> 00:00:00,000	SAYID	Why?
+74	00:00:00,000 --> 00:00:00,000		[We see Ana and Sayid running quietly through the jungle. Ana stops and points.]
+76	00:00:00,000 --> 00:00:00,000	ANA	There. See?
+78	00:00:00,000 --> 00:00:00,000		[We see Danielle walking through the jungle a short distance away.]
+80	00:00:00,000 --> 00:00:00,000	SAYID	Go back, I'll deal with this.
+82	00:00:00,000 --> 00:00:00,000	ANA	What?
+84	00:00:00,000 --> 00:00:00,000	SAYID	Go back, Ana Lucia. And don't tell anyone what you saw.
+86	00:00:00,000 --> 00:00:00,000		[Sayid follows Danielle and gets in front of her so that she's surprised when she sees him.]
+88	00:00:00,000 --> 00:00:00,000	SAYID	What are you doing here, Danielle?
+90	00:00:00,000 --> 00:00:00,000	DANIELLE	Looking for you.
+92	00:00:00,000 --> 00:00:00,000	SAYID	Where are we going? You said you were looking for me. What was your plan? To hide in the woods hoping I would pass you by?
+94	00:00:00,000 --> 00:00:00,000	DANIELLE	I was going to wait until dark, then find you at your tent.
+96	00:00:00,000 --> 00:00:00,000	SAYID	Why? [He stops.]
+98	00:00:00,000 --> 00:00:00,000	DANIELLE	We need to keep moving.
+100	00:00:00,000 --> 00:00:00,000	SAYID	Not until you tell me where we're moving to.
+102	00:00:00,000 --> 00:00:00,000	DANIELLE	Trust me.
+104	00:00:00,000 --> 00:00:00,000	SAYID	The last time we met you arrived to warn us the Others were coming which they weren't. In fact, it was a diversion to kidnap Claire's baby. So pardon me for not trusting you.
+106	00:00:00,000 --> 00:00:00,000	DANIELLE	This place I'm taking you to -- there's something that will help you -- something important. As for trust, take this. [She offers her rifle which Sayid takes.] If I'm lying it's yours to use.
+108	00:00:00,000 --> 00:00:00,000	SAYID	[checking to see if the rifle's loaded] How much further?
+110	00:00:00,000 --> 00:00:00,000	DANIELLE	Not far.
+112	00:00:00,000 --> 00:00:00,000		[Flashback - We see Sgt. Austen using Sayid as a translator with Tariq.]
+114	00:00:00,000 --> 00:00:00,000	SGT. AUSTEN	Ask him where he took the pilot.
+116	00:00:00,000 --> 00:00:00,000	SAYID	[Subtitle: They want to know where the pilot is.]
+118	00:00:00,000 --> 00:00:00,000	TARIQ	[Subtitle: Tell him his mother is a goat.]
+120	00:00:00,000 --> 00:00:00,000	SAYID	He says he does not know.
+122	00:00:00,000 --> 00:00:00,000	SGT. AUSTEN	Look, we know for a fact he interrogated the pilot day before yesterday. Hell, probably in this room. Tell him if we get our man back safe and sound, he goes free.
+124	00:00:00,000 --> 00:00:00,000	SAYID	[Subtitle: They will let you go if you tell them where the pilot is.]
+126	00:00:00,000 --> 00:00:00,000	TARIQ	[Subtitle: You are a disgrace. You're an Iraqi soldier! Steal his gun and kill them all. Right there on his belt. You can get a few of them before you are killed. ]
+128	00:00:00,000 --> 00:00:00,000	SGT. AUSTEN	What's he saying?
+130	00:00:00,000 --> 00:00:00,000	SAYID	He says he does not know.
+132	00:00:00,000 --> 00:00:00,000	SGT. AUSTEN	I was born, but I wasn't born yesterday, son. Now, if you don't help me out here, someone else will take over. And that someone -- he won't play nice at all.
+134	00:00:00,000 --> 00:00:00,000	SAYID	I am sorry. He does not know.
+136	00:00:00,000 --> 00:00:00,000	SGT. AUSTEN	[leaving] Okay, you had your chance. Guards, lock him back up.
+138	00:00:00,000 --> 00:00:00,000		[On-Island - We hear the sound of a frog and see Sawyer trying to sleep in his tent. He gets up, frustrated by the sound of the frog.]
+140	00:00:00,000 --> 00:00:00,000	SAWYER	This is unbelievable. [Jin happens by.] Hey! Hey, you hear that thing? You hear that frog -- that frog? You want to help me find it?
+142	00:00:00,000 --> 00:00:00,000		[Jin gives him a dirty look, and walks away.]
+144	00:00:00,000 --> 00:00:00,000	SAWYER	What, we ain't friends anymore?
+146	00:00:00,000 --> 00:00:00,000		[We see Sawyer walking through the jungle looking for the frog. He comes across Hurley who's dipping a chip in some DHARMA ranch dressing.]
+148	00:00:00,000 --> 00:00:00,000	SAWYER	What do you got there, Rerun?
+150	00:00:00,000 --> 00:00:00,000	HURLEY	Nothing. [Hurley covers up the dressing and some other food he has.]
+152	00:00:00,000 --> 00:00:00,000	SAWYER	Yeah, well, you've got a spot of nothing on your chin there. [Sawyer uncovers the dressing.] "DHARMA Initiative ranch dressing"? You know you're supposed to refrigerate that after you open it?
+154	00:00:00,000 --> 00:00:00,000	HURLEY	Well, actually in the back it says it'll keep at room temperature for up to 7 years.
+156	00:00:00,000 --> 00:00:00,000	SAWYER	[uncovering the rest of the food] Well, well, look at who's got a secret stash?
+158	00:00:00,000 --> 00:00:00,000	HURLEY	Please, dude, you can't tell.
+160	00:00:00,000 --> 00:00:00,000	SAWYER	What, that you stole food from the group? Now, why would I want to do that?
+162	00:00:00,000 --> 00:00:00,000	HURLEY	Come on, man, please?
+164	00:00:00,000 --> 00:00:00,000	SAWYER	[hearing the frog] Son of a bitch.
+166	00:00:00,000 --> 00:00:00,000		[Sawyer looks around for the frog while putting his hand on the gun in his waistband.]
+168	00:00:00,000 --> 00:00:00,000	HURLEY	Dude, it's just a tree frog.
+170	00:00:00,000 --> 00:00:00,000	SAWYER	Have you seen it?
+172	00:00:00,000 --> 00:00:00,000	HURLEY	Yeah.
+174	00:00:00,000 --> 00:00:00,000	SAWYER	Tell you what -- you help me find that thing, you can keep right on ranch dipping. We got a deal?
+176	00:00:00,000 --> 00:00:00,000		[We see Sayid and Danielle walking through the jungle.]
+178	00:00:00,000 --> 00:00:00,000	SAYID	How much further? [She doesn't respond.] Danielle?
+180	00:00:00,000 --> 00:00:00,000	DANIELLE	We're here.
+182	00:00:00,000 --> 00:00:00,000	SAYID	And where exactly is here?
+184	00:00:00,000 --> 00:00:00,000		[Danielle uncovers a crossbow and some arrows she's hidden.]
+186	00:00:00,000 --> 00:00:00,000	SAYID	What is that for, Danielle?
+188	00:00:00,000 --> 00:00:00,000		[We hear a voice faintly in the background.]
+190	00:00:00,000 --> 00:00:00,000	VOICE	Help me! Hey, somebody here!
+192	00:00:00,000 --> 00:00:00,000		[Sayid immediately takes off toward the voice.]
+194	00:00:00,000 --> 00:00:00,000	DANIELLE	Wait.
+196	00:00:00,000 --> 00:00:00,000	VOICE	Help!
+198	00:00:00,000 --> 00:00:00,000	DANIELLE	Sayid, listen to me.
+200	00:00:00,000 --> 00:00:00,000		[We see someone hanging from a tree in a net trap.]
+202	00:00:00,000 --> 00:00:00,000	VOICE	Hey! Hey, over here! Please, help me.
+204	00:00:00,000 --> 00:00:00,000	VOICE	Help me!
+206	00:00:00,000 --> 00:00:00,000	DANIELLE	Don't believe a word he says.
+208	00:00:00,000 --> 00:00:00,000	VOICE	Hey!
+210	00:00:00,000 --> 00:00:00,000	DANIELLE	He's one of them.
+212	00:00:00,000 --> 00:00:00,000	VOICE	I have no idea what she's talking about. She's crazy.
+214	00:00:00,000 --> 00:00:00,000	SAYID	How long has he been up there?
+216	00:00:00,000 --> 00:00:00,000	VOICE	Since last night. Please, just cut me down. My name is Henry Gale. I'm from Minnesota. Please.
+218	00:00:00,000 --> 00:00:00,000	DANIELLE	He's lying.
+220	00:00:00,000 --> 00:00:00,000	SAYID	[pulling out his knife] I'm going to cut him down.
+222	00:00:00,000 --> 00:00:00,000	DANIELLE	Don't.
+224	00:00:00,000 --> 00:00:00,000	GALE	Thank you.
+226	00:00:00,000 --> 00:00:00,000	DANIELLE	You're making a serious mistake.
+228	00:00:00,000 --> 00:00:00,000	SAYID	[after cutting him down] It's okay, it's okay. You're alright. You're alright. Hold on. Take it easy.
+230	00:00:00,000 --> 00:00:00,000		[Danielle prepares her cross bow. Gale sees her.]
+232	00:00:00,000 --> 00:00:00,000	GALE	[running] No.
+234	00:00:00,000 --> 00:00:00,000	SAYID	Wait. Danielle, don't!
+236	00:00:00,000 --> 00:00:00,000		[Danielle shoots Gale in the shoulder. Sayid runs to him.]
+238	00:00:00,000 --> 00:00:00,000	SAYID	You could have killed him.
+240	00:00:00,000 --> 00:00:00,000	DANIELLE	If I wanted to kill him, I would have killed him.
+242	00:00:00,000 --> 00:00:00,000	SAYID	You shot this man with no provocation.
+244	00:00:00,000 --> 00:00:00,000	DANIELLE	He is one of them. Tie him up. You should take him to your doctor. He's no good to you dead.
+246	00:00:00,000 --> 00:00:00,000	SAYID	[tying him up] And then what?
+248	00:00:00,000 --> 00:00:00,000	DANIELLE	You talk to him, Sayid. As I recall that is what you do. But know this -- he will lie -- a long time. He will lie.
+250	00:00:00,000 --> 00:00:00,000		[Sayid starts carrying him back to camp.]
+252	00:00:00,000 --> 00:00:00,000		[Flashback - We see Sayid, handcuffed, being taken by two soldiers to see Joe Inman, apparently a CIA operative.]
+254	00:00:00,000 --> 00:00:00,000	INMAN	I want to talk to you about your buddy -- Tariq. Uh, look, I get it. You're a man who values loyalty. Even doing a little translating for us -- you feel like you're doing the wrong thing. I get that, and I respect it. This is what Tariq was doing before he took over command of your intelligence unit. He was the head of the chemical warfare battalion in the North. [Inman starts playing a video tape.] He personally supervised the use of sarin gas on this village. You recognize it, don't you? You had relatives in that village didn't you, Sayid? So, you know what sarin gas does. No discrimination -- the entire marketplace -- innocent women, children.
+256	00:00:00,000 --> 00:00:00,000	SAYID	Enough -- please.
+258	00:00:00,000 --> 00:00:00,000	INMAN	[turning off the tape] Loyalty is a virtue. But unquestioning loyalty -- I don't think that's you.
+260	00:00:00,000 --> 00:00:00,000	SAYID	Why should I believe you?
+262	00:00:00,000 --> 00:00:00,000	INMAN	How do you think we knew you had relatives in that village? We liberated your personnel file, and Tariq's. [He shows the files to Sayid.] All we want is our pilot back, so we can send him home to his family.
+264	00:00:00,000 --> 00:00:00,000	SAYID	Tariq will never talk to you.
+266	00:00:00,000 --> 00:00:00,000	INMAN	That's why you're going to have to make him talk to you.
+268	00:00:00,000 --> 00:00:00,000		[He gives Sayid a box.]
+270	00:00:00,000 --> 00:00:00,000		[On-Island - We see Sayid in the Hatch waking Locke.]
+272	00:00:00,000 --> 00:00:00,000	SAYID	John, John wake up.
+274	00:00:00,000 --> 00:00:00,000	LOCKE	What?
+276	00:00:00,000 --> 00:00:00,000	SAYID	Come out here.
+278	00:00:00,000 --> 00:00:00,000		[We see Locke and Sayid looking at Gale who still has the arrow in his shoulder and is in pain.]
+280	00:00:00,000 --> 00:00:00,000	LOCKE	Minnesota, huh?
+282	00:00:00,000 --> 00:00:00,000	SAYID	That's the question, isn't it?
+284	00:00:00,000 --> 00:00:00,000	GALE	Where am I?
+286	00:00:00,000 --> 00:00:00,000	SAYID	Who are you?
+288	00:00:00,000 --> 00:00:00,000	GALE	Henry, Henry Gale. Ah, my back.
+290	00:00:00,000 --> 00:00:00,000	SAYID	We're going to take it out, but first I want you to relax. How did you get to this island?
+292	00:00:00,000 --> 00:00:00,000	GALE	4 months ago, we crashed, my wife and I.
+294	00:00:00,000 --> 00:00:00,000	SAYID	Crashed in what?
+296	00:00:00,000 --> 00:00:00,000	GALE	A balloon. We were trying to cross the Pacific.
+298	00:00:00,000 --> 00:00:00,000	SAYID	Your wife, where is she?
+300	00:00:00,000 --> 00:00:00,000	GALE	She died. She got -- she got sick 3 weeks ago. We were staying in a cave off the beach. Ah, my shoulder. At least untie my arms.
+302	00:00:00,000 --> 00:00:00,000	JACK	[entering] What the hell's going here?
+304	00:00:00,000 --> 00:00:00,000	SAYID	Rousseau trapped him in the jungle. She believes he's an Other.
+306	00:00:00,000 --> 00:00:00,000	GALE	An other what?
+308	00:00:00,000 --> 00:00:00,000	JACK	You shot him with an arrow?
+310	00:00:00,000 --> 00:00:00,000	SAYID	Do I have a bow?
+312	00:00:00,000 --> 00:00:00,000	JACK	[to Gale] Hey, hey, you with me? [to Sayid] What, you were just going to let him bleed to death?
+314	00:00:00,000 --> 00:00:00,000	SAYID	I was trying to get honest answers while he was able to give them. And his wound is far from life threatening.
+316	00:00:00,000 --> 00:00:00,000	LOCKE	We should let Jack treat him first, then we'll get our answers.
+318	00:00:00,000 --> 00:00:00,000	SAYID	Jack, do not untie him.
+320	00:00:00,000 --> 00:00:00,000		[We see Sawyer and Hurley walking through the jungle.]
+322	00:00:00,000 --> 00:00:00,000	HURLEY	This is how people get killed in scary movies.
+324	00:00:00,000 --> 00:00:00,000	SAWYER	If this was a scary movie I'd be with a hot chick not you, Barbar.
+326	00:00:00,000 --> 00:00:00,000	HURLEY	It's Babar.
+328	00:00:00,000 --> 00:00:00,000	SAWYER	How about you shut up, Hammo? Or your ranch disorder's going to be the new lead item on the coconut internet.
+330	00:00:00,000 --> 00:00:00,000	HURLEY	Fine, go ahead. Tell everyone the fat guy's been hiding ranch dressing -- the fat guy likes to eat. Yeah, I'm fat. Fat, fat, fat, fat, fat. You think I don't know that? At least people like me. You know what? Find the damn frog by yourself.
+332	00:00:00,000 --> 00:00:00,000	SAWYER	Hurley, wait, wait. Hey, Hurley! -- Look, man, I'm sorry, alright. This frog is killing me. You've got to help me out -- please.
+334	00:00:00,000 --> 00:00:00,000		[We see Jack removing the arrow from Gale's shoulder, as Sayid and Locke watch from a small distance. Gale is in great pain.]
+336	00:00:00,000 --> 00:00:00,000	LOCKE	So, what do you think?
+338	00:00:00,000 --> 00:00:00,000	SAYID	What do you think, John?
+340	00:00:00,000 --> 00:00:00,000	LOCKE	I think he's pretty convincing.
+342	00:00:00,000 --> 00:00:00,000	SAYID	Yes, he is.
+344	00:00:00,000 --> 00:00:00,000	LOCKE	The real problem is there's no way we can be sure he's telling the truth.
+346	00:00:00,000 --> 00:00:00,000	SAYID	That is not necessarily true. Does Jack have the combination to the armory?
+348	00:00:00,000 --> 00:00:00,000	LOCKE	For now he does.
+350	00:00:00,000 --> 00:00:00,000	SAYID	How long would it take for you to change it?
+352	00:00:00,000 --> 00:00:00,000	LOCKE	If you're angry -- looking for someone to punish...
+354	00:00:00,000 --> 00:00:00,000	SAYID	Why would I need to punish anyone? I want to find out who he is. I want the truth. And I think we both know that Jack will have issues with what must be done in order to get it. So how long, John, to change the combination?
+356	00:00:00,000 --> 00:00:00,000	LOCKE	Couple minutes, tops.
+358	00:00:00,000 --> 00:00:00,000	SAYID	Then I suggest you get started.
+360	00:00:00,000 --> 00:00:00,000		[Jack is still working on Gale. Sayid enters.]
+362	00:00:00,000 --> 00:00:00,000	SAYID	Did he say anything while--
+364	00:00:00,000 --> 00:00:00,000	JACK	No, he didn't. He was in shock.
+366	00:00:00,000 --> 00:00:00,000	LOCKE	We can't just leave him laying here, Jack. If people see him it'll create a panic.
+368	00:00:00,000 --> 00:00:00,000	JACK	Yeah, well, where do you think we should put him?
+370	00:00:00,000 --> 00:00:00,000	SAYID	I say we put him in the armory, secure.
+372	00:00:00,000 --> 00:00:00,000	LOCKE	Better to err on the side of safety, Jack. At least until we can be sure.
+374	00:00:00,000 --> 00:00:00,000	JACK	[sighs] Okay. For now.
+376	00:00:00,000 --> 00:00:00,000		[They carry Gale into the armory.]
+378	00:00:00,000 --> 00:00:00,000	JACK	We can pull that cot in here. He shouldn't be on his back.
+380	00:00:00,000 --> 00:00:00,000	LOCKE	Good idea.
+382	00:00:00,000 --> 00:00:00,000		[Sayid locks himself in with Gale.]
+384	00:00:00,000 --> 00:00:00,000	JACK	[pounding on the armory door] Sayid, hey, what the hell are you doing?! Sayid! Sayid!
+386	00:00:00,000 --> 00:00:00,000	SAYID	What needs to be done.
+388	00:00:00,000 --> 00:00:00,000		[Flashback - We see Sayid enter the room with Tariq carrying the box he got from Inman.]
+390	00:00:00,000 --> 00:00:00,000	TARIQ	[Subtitle: They're letting you speak with me alone now?]
+392	00:00:00,000 --> 00:00:00,000	SAYID	[Opening the box] [Subtitle: You need to tell me where the helicopter pilot is.]
+394	00:00:00,000 --> 00:00:00,000	TARIQ	[Laughing] [Subtitle: This is their new bluff? That you're going to torture me? They think you will do this? Sayid, you are a loyal soldier. The son of a great hero. Do not disgrace your father! You wouldn't dare harm me! You will follow my orders as your commanding officer. Take that bag. Put it over your head and tape it up. Kill yourself, now! That's an order. Do it and die with what little honor you have left. ]
+396	00:00:00,000 --> 00:00:00,000	SAYID	[Subtitle: You would have me take my own life -- the information means nothing to you!]
+398	00:00:00,000 --> 00:00:00,000		[Tariq spits in Sayid's eye. Sayid picks up some pliers.]
+400	00:00:00,000 --> 00:00:00,000		[We see Inman pacing outside. Sayid enters.]
+402	00:00:00,000 --> 00:00:00,000	SAYID	The pilot was executed 2 days ago. He's buried in a field 4 kilometers from here. I can take you there.
+404	00:00:00,000 --> 00:00:00,000		[Sayid hands the box to Inman and we see his bloody hand.]
+406	00:00:00,000 --> 00:00:00,000		[On-Island - We see Jack unsuccessfully trying the combination on the vault.]
+408	00:00:00,000 --> 00:00:00,000	JACK	Damn it. Sayid, open the door! Sayid, answer me!
+410	00:00:00,000 --> 00:00:00,000	LOCKE	Jack.
+412	00:00:00,000 --> 00:00:00,000	JACK	Why isn't this combination working, John? Did you change it?
+414	00:00:00,000 --> 00:00:00,000	LOCKE	Yeah.
+416	00:00:00,000 --> 00:00:00,000	JACK	Why would you do that?
+418	00:00:00,000 --> 00:00:00,000	LOCKE	You were raising an army.
+420	00:00:00,000 --> 00:00:00,000	JACK	What?
+422	00:00:00,000 --> 00:00:00,000	LOCKE	And why you didn't ask me to help -- well, that's your business -- but there's only one reason to raise an army, Jack. And that's because we're at war. And like it or not, whatever Sayid has to do behind that door -- that's a part of it, too.
+424	00:00:00,000 --> 00:00:00,000	JACK	What if he's telling the truth, John?
+426	00:00:00,000 --> 00:00:00,000	LOCKE	What if he's not?
+428	00:00:00,000 --> 00:00:00,000		[We see Sayid tying Gale up in the armory.]
+430	00:00:00,000 --> 00:00:00,000	SAYID	Get up.
+432	00:00:00,000 --> 00:00:00,000	GALE	What is happening?
+434	00:00:00,000 --> 00:00:00,000	SAYID	[making Gale sit up] Here, let me help you. You said you've been here for 4 months.
+436	00:00:00,000 --> 00:00:00,000	GALE	What?
+438	00:00:00,000 --> 00:00:00,000	SAYID	You said you came to this island 4 months ago, yes?
+440	00:00:00,000 --> 00:00:00,000	GALE	Where am I?
+442	00:00:00,000 --> 00:00:00,000	SAYID	Please, answer my question.
+444	00:00:00,000 --> 00:00:00,000	GALE	Yeah, yes we landed 4 months ago. Maybe more. Who are you?
+446	00:00:00,000 --> 00:00:00,000	SAYID	And you were in a cave for all that time?
+448	00:00:00,000 --> 00:00:00,000	GALE	Off the beach on the North shore of the Island.
+450	00:00:00,000 --> 00:00:00,000	SAYID	How far from this beach to where you were captured?
+452	00:00:00,000 --> 00:00:00,000	GALE	I don't know.
+454	00:00:00,000 --> 00:00:00,000	SAYID	How many days' walk?
+456	00:00:00,000 --> 00:00:00,000	GALE	2 -- 2 days.
+458	00:00:00,000 --> 00:00:00,000	SAYID	Why did you stay on the beach for so long?
+460	00:00:00,000 --> 00:00:00,000	GALE	Why wouldn't we? We wanted to be there for fly-overs. We had an emergency beacon, a transmitter.
+462	00:00:00,000 --> 00:00:00,000	SAYID	What kind of transmitter?
+464	00:00:00,000 --> 00:00:00,000	GALE	An ADF beacon. We wanted to make sure we'd be spotted. Look, whatever you think I am, I'm not. Please, please just -- tell me your name.
+466	00:00:00,000 --> 00:00:00,000	SAYID	Your wife, what is her maiden name?
+468	00:00:00,000 --> 00:00:00,000	GALE	Murphy.
+470	00:00:00,000 --> 00:00:00,000	SAYID	Where did you meet her?
+472	00:00:00,000 --> 00:00:00,000	GALE	University of Minnesota.
+474	00:00:00,000 --> 00:00:00,000	SAYID	How did she die?
+476	00:00:00,000 --> 00:00:00,000	GALE	She got sick.
+478	00:00:00,000 --> 00:00:00,000	SAYID	She got sick?
+480	00:00:00,000 --> 00:00:00,000	GALE	It started as a fever. After 2 days she was delirious. Then she died. I don't know why you're asking me all these questions. I don't know why you're treating me this way -- why I have to explain to you who I am when you don't tell me who you are.
+482	00:00:00,000 --> 00:00:00,000	SAYID	I was 23 years old when the Americans came to my country. I was a good man. I was a soldier. And when they left, I was something different. For the next 6 years I did things I wish I could erase from my memory -- things which I never thought myself to be capable of. But I did come to learn this -- there was a part of me which was always capable. You want to know who I am? My name is Sayid Jarrah, and I am a torturer.
+484	00:00:00,000 --> 00:00:00,000		[Hurley and Sawyer walking through the jungle. We hear the sound of the tree frog.]
+486	00:00:00,000 --> 00:00:00,000	SAWYER	Where is it?
+488	00:00:00,000 --> 00:00:00,000	HURLEY	There it is.
+490	00:00:00,000 --> 00:00:00,000		[Hurley runs toward it, but trips and falls. Sawyer catches it.]
+492	00:00:00,000 --> 00:00:00,000	SAWYER	Gotcha.
+494	00:00:00,000 --> 00:00:00,000	HURLEY	Dude, nice catch.
+496	00:00:00,000 --> 00:00:00,000	SAWYER	Well, I'll be damned. All that noise from this tiny critter.
+498	00:00:00,000 --> 00:00:00,000	HURLEY	It kind of reminds me of a turtle I once had. Its name was Stuart. It ran off when I was 10. Well, that's what mom said. I kind of think she threw him out.
+500	00:00:00,000 --> 00:00:00,000	SAWYER	[to the frog] Well, you're a happy, little fella, ain't ya?
+502	00:00:00,000 --> 00:00:00,000	HURLEY	I have an idea. Why don't I take him -- far from here -- 2 beaches away? Then maybe he'll find a Mrs. Tree Frog. That way he won't keep you up anymore, and everyone's happy.
+504	00:00:00,000 --> 00:00:00,000	SAWYER	Yeah, that's one idea. Here's another.
+506	00:00:00,000 --> 00:00:00,000		[Sawyer squishes the frog in his hand.]
+508	00:00:00,000 --> 00:00:00,000	HURLEY	Dude.
+510	00:00:00,000 --> 00:00:00,000	SAWYER	I hear with a little ranch they taste just like chicken.
+512	00:00:00,000 --> 00:00:00,000		[Sawyer hands the frog to Hurley and leaves.]
+514	00:00:00,000 --> 00:00:00,000		[On-Island - We see Jack cleaning up the blood from working on Gale. Locke enters.]
+516	00:00:00,000 --> 00:00:00,000	LOCKE	Give you a hand? [Jack doesn't respond.] Jack, I know this isn't--
+518	00:00:00,000 --> 00:00:00,000	JACK	Shut up.
+520	00:00:00,000 --> 00:00:00,000		[Jack starts to wash his hands and notices that the pliers he was using to remove the arrow are missing.]
+522	00:00:00,000 --> 00:00:00,000	JACK	Where are the pliers?
+524	00:00:00,000 --> 00:00:00,000		[We see Sayid in the armory with Gale.]
+526	00:00:00,000 --> 00:00:00,000	SAYID	Tell me about this balloon.
+528	00:00:00,000 --> 00:00:00,000	GALE	What?
+530	00:00:00,000 --> 00:00:00,000	SAYID	This balloon that brought you here with your wife. Tell me about it.
+532	00:00:00,000 --> 00:00:00,000	GALE	What do you want to know?
+534	00:00:00,000 --> 00:00:00,000	SAYID	Everything.
+536	00:00:00,000 --> 00:00:00,000	GALE	She's 140 feet high, 60 feet wide. And when she's up in the air 550,000 cubic feet of helium and a 100,000 of hot air keep her up. And if you could look down on her you'd see a big yellow smiley face on top.
+538	00:00:00,000 --> 00:00:00,000	SAYID	Why would you travel in that way?
+540	00:00:00,000 --> 00:00:00,000	GALE	Because I was rich. Because -- it was my dream. And Jennifer thought it would be neat.
+542	00:00:00,000 --> 00:00:00,000	SAYID	You "were" rich?
+544	00:00:00,000 --> 00:00:00,000	GALE	I guess I'm thinking of things in the past tense now. How's that for optimism?
+546	00:00:00,000 --> 00:00:00,000	SAYID	What did you do to become so rich?
+548	00:00:00,000 --> 00:00:00,000	GALE	I sold my company.
+550	00:00:00,000 --> 00:00:00,000	SAYID	What kind of company?
+552	00:00:00,000 --> 00:00:00,000	GALE	Mining.
+554	00:00:00,000 --> 00:00:00,000	SAYID	What did you mine?
+556	00:00:00,000 --> 00:00:00,000	GALE	We mined non-metallic minerals. I know, everyone wanted to talk to me at cocktail parties.
+558	00:00:00,000 --> 00:00:00,000	SAYID	Give me your hands. Give me your hands!
+560	00:00:00,000 --> 00:00:00,000		[Sayid puts the pliers around Gale's finger.]
+562	00:00:00,000 --> 00:00:00,000	SAYID	Where is she buried?
+564	00:00:00,000 --> 00:00:00,000	GALE	What?
+566	00:00:00,000 --> 00:00:00,000	SAYID	Listen to me. You said you buried your wife. Tell me where.
+568	00:00:00,000 --> 00:00:00,000	GALE	What are you going to...?
+570	00:00:00,000 --> 00:00:00,000	SAYID	Where!!
+572	00:00:00,000 --> 00:00:00,000	GALE	In the jungle. By the balloon, in the jungle.
+574	00:00:00,000 --> 00:00:00,000	SAYID	How deep? How deep did you dig the grave?
+576	00:00:00,000 --> 00:00:00,000	GALE	I don't -- it was...
+578	00:00:00,000 --> 00:00:00,000	SAYID	How deep? How many shovelfuls of earth? Did you use your hands? How long did it take you?!
+580	00:00:00,000 --> 00:00:00,000	GALE	I don't remember.
+582	00:00:00,000 --> 00:00:00,000	SAYID	You would remember! You would remember how deep! You would remember every shovelful, every moment! You would remember what it felt like to place her body inside. You would remember if you buried the woman you loved! You would remember -- if it were true!
+584	00:00:00,000 --> 00:00:00,000	GALE	Did you -- did you lose someone? Did you lose someone here on the Island? Did you lose someone, too? What happened to her?
+586	00:00:00,000 --> 00:00:00,000	SAYID	It was an accident. It was an accident. The woman responsible thought she was someone else -- someone coming to hurt her -- someone like you!
+588	00:00:00,000 --> 00:00:00,000	GALE	Just, just... This is all a mistake. Slow down here, okay. Hurting me isn't going to bring her back.
+590	00:00:00,000 --> 00:00:00,000		[Sayid starts punching Gale repeatedly.]
+592	00:00:00,000 --> 00:00:00,000	SAYID	You know what I lost! Tell me how long!
+594	00:00:00,000 --> 00:00:00,000	GALE	No, no! Help! Help me!
+596	00:00:00,000 --> 00:00:00,000	SAYID	Tell me who you are!
+598	00:00:00,000 --> 00:00:00,000		[We see the door of the armory from the outside.]
+600	00:00:00,000 --> 00:00:00,000	JACK	Sayid! Sayid!
+602	00:00:00,000 --> 00:00:00,000	LOCKE	Jack.
+604	00:00:00,000 --> 00:00:00,000	JACK	Open it. Open it now, John!
+606	00:00:00,000 --> 00:00:00,000	LOCKE	Jack, this has to happen.
+608	00:00:00,000 --> 00:00:00,000	JACK	[pushing Locke up against a wall] Open that damn door, you understand me! You open it now.
+610	00:00:00,000 --> 00:00:00,000	LOCKE	No.
+612	00:00:00,000 --> 00:00:00,000		[We hear the sound of the timer alarm start.]
+614	00:00:00,000 --> 00:00:00,000	JACK	Now!
+616	00:00:00,000 --> 00:00:00,000		[Inside the armory.]
+618	00:00:00,000 --> 00:00:00,000	GALE	What do you want me to say? Whatever you want me to do, I'll do it! Just, please.
+620	00:00:00,000 --> 00:00:00,000	SAYID	[still beating him] I want you to tell me the truth!
+622	00:00:00,000 --> 00:00:00,000		[Outside the armory.]
+624	00:00:00,000 --> 00:00:00,000	JACK	Open the door.
+626	00:00:00,000 --> 00:00:00,000	LOCKE	Let go of me, Jack.
+628	00:00:00,000 --> 00:00:00,000	JACK	Or what? You want to push the button? Open the door.
+630	00:00:00,000 --> 00:00:00,000		[The timer alarm changes to a more insistent sound. We see the timer is now at 58 seconds.]
+632	00:00:00,000 --> 00:00:00,000	JACK	It's under a minute now, John. You better think fast.
+634	00:00:00,000 --> 00:00:00,000	LOCKE	You wouldn't.
+636	00:00:00,000 --> 00:00:00,000	JACK	What? I wouldn't what?
+638	00:00:00,000 --> 00:00:00,000	LOCKE	If we don't... You would risk everyone's lives?
+640	00:00:00,000 --> 00:00:00,000	JACK	You talked me into pushing that button once, John, but it's yours now. You're the one who won't risk it, you. Me? I don't think anything's going to happen when we get down to zero.
+642	00:00:00,000 --> 00:00:00,000	LOCKE	Jack!
+644	00:00:00,000 --> 00:00:00,000	JACK	You want to see what's going to happen? Let's just see what's going to happen.
+646	00:00:00,000 --> 00:00:00,000	SAYID	[from behind the door] Who are you?!! Who are you?!!
+648	00:00:00,000 --> 00:00:00,000		[We see the timer is down to 27 seconds.]
+650	00:00:00,000 --> 00:00:00,000	LOCKE	Okay.
+652	00:00:00,000 --> 00:00:00,000	JACK	Okay.
+654	00:00:00,000 --> 00:00:00,000	LOCKE	Okay, right 15, left...
+656	00:00:00,000 --> 00:00:00,000	JACK	You think I'm stupid? You open it!
+658	00:00:00,000 --> 00:00:00,000		[Locke rushes to open the gun vault. And then rushes to enter the Numbers. We see the timer at 10 seconds. Jack opens the door to the armory and wrestles Sayid out. Locke typed in 16 twice, instead of 15, 16 and has to backspace. The timer hits zero and starts spinning around. We hear sounds of something starting up in the Hatch. The timer shows hieroglyphs in black and red. 4 of them lock in place. Locke enters the last number and hits execute before the last glyph locks. The timer resets and we hear a winding down sound.]
+660	00:00:00,000 --> 00:00:00,000		[In the background we can hear Sayid, Jack and Gale.]
+662	00:00:00,000 --> 00:00:00,000	SAYID	He's lying!
+664	00:00:00,000 --> 00:00:00,000	JACK	Not like this.
+666	00:00:00,000 --> 00:00:00,000	GALE	I'll tell you whatever you want.
+668	00:00:00,000 --> 00:00:00,000		[Scene switches to Sayid, Jack and Gale. Jack is wrestling Sayid away from Gale.]
+670	00:00:00,000 --> 00:00:00,000	SAYID	He's lying! He's lying!
+672	00:00:00,000 --> 00:00:00,000	JACK	That's enough!
+674	00:00:00,000 --> 00:00:00,000		[Jack closes the door and leaves Gale alone in the armory.]
+676	00:00:00,000 --> 00:00:00,000	JACK	[to Sayid] What the hell was that?
+678	00:00:00,000 --> 00:00:00,000	SAYID	He is one of them.
+680	00:00:00,000 --> 00:00:00,000	JACK	Yeah? Did he tell you that?
+682	00:00:00,000 --> 00:00:00,000	SAYID	No.
+684	00:00:00,000 --> 00:00:00,000	JACK	Then how do you know?
+686	00:00:00,000 --> 00:00:00,000	SAYID	Because I know. He is one of them.
+688	00:00:00,000 --> 00:00:00,000	JACK	I think that Rousseau thought that about you once, Sayid. If I'm not mistaken she strapped you down, she shocked you, all because she thought you were one of them.
+690	00:00:00,000 --> 00:00:00,000	LOCKE	He is.
+692	00:00:00,000 --> 00:00:00,000	JACK	What?
+694	00:00:00,000 --> 00:00:00,000	LOCKE	He is one of them. To Rousseau, we're all Others. I guess it's all relative, huh?
+696	00:00:00,000 --> 00:00:00,000		[Flashback - We see an Army convoy driving down a long barren road in Iraq. Sgt. Austen is looking at a photograph in a truck with Sayid.]
+698	00:00:00,000 --> 00:00:00,000	SGT. AUSTEN	You got a wife, kids?
+700	00:00:00,000 --> 00:00:00,000		[Sayid shakes his head. We see that Austen is looking at a picture of a younger Kate at a lake or river. The truck comes to a stop and they take Sayid out.]
+702	00:00:00,000 --> 00:00:00,000	INMAN	[to a soldier] I'll take him. [to Sayid] It's over. We're pulling out, not going to Baghdad. So your man Saddam gets to stay in power which means you, in all likelihood, will remain in his employ. Guess you're lucky you have a new skill set you can use.
+704	00:00:00,000 --> 00:00:00,000	SAYID	What you made me do no human being should ever have to do to another.
+706	00:00:00,000 --> 00:00:00,000		[Inman pulls out a knife, but only uses it to cut the bindings on Sayid's wrists.]
+708	00:00:00,000 --> 00:00:00,000	INMAN	[Arabic, Subtitle: One of these days there will be something you need to know. And now you know how to get it.]
+710	00:00:00,000 --> 00:00:00,000	SAYID	I will never do that again.
+712	00:00:00,000 --> 00:00:00,000	INMAN	[giving Sayid money] Yeah. Good luck to you, Sayid. Bus fare back to Ramadi. [to the truck driver] Let's move out.
+714	00:00:00,000 --> 00:00:00,000		[On-Island - We see Sayid sitting on the beach with Charlie.]
+716	00:00:00,000 --> 00:00:00,000	SAYID	There is a man down in the Hatch. A stranger captured by Rousseau. I beat him. I beat him badly.
+718	00:00:00,000 --> 00:00:00,000	CHARLIE	Why are you telling me this, Sayid?
+720	00:00:00,000 --> 00:00:00,000	SAYID	Jack asked me how I knew -- knew for sure that this man was lying. How I knew for sure that he was one of them -- one of the Others. I know because I feel no guilt for what I did to him. -- But there is no way I can ever explain that to Jack, or even Locke, because both of them have forgotten.
+722	00:00:00,000 --> 00:00:00,000	CHARLIE	Forgotten? What?
+724	00:00:00,000 --> 00:00:00,000	SAYID	That you were strung up by your neck and left for dead. That Claire was taken and kept for days during which god only know what happened to her. That these people -- these Others -- are merciless, and can take any one of us whenever they choose. So tell me, Charlie, have you forgotten?

@@ -1,0 +1,352 @@
+White Rabbit
+2	00:00:00,000 --> 00:00:00,000	Written by	Christian Taylor
+4	00:00:00,000 --> 00:00:00,000	Directed by	Kevin Hooks
+6	00:00:00,000 --> 00:00:00,000	Starring	Naveen Andrews, Emilie de Ravin, Matthew Fox, Jorge Garcia, Maggie Grace, Josh Holloway, Malcolm David Kelley, Daniel Dae Kim, Yunjin Kim, Evangeline Lilly, Dominic Monaghan, Terry O'Quinn, Harold Perrineau, Ian Somerhalder
+8	00:00:00,000 --> 00:00:00,000	Guest Starring	John Terry, Veronica Hamel
+10	00:00:00,000 --> 00:00:00,000		[Flashback - An eye opens. We pan out to see a young Jack laying on the ground. Another kid is standing over him.]
+12	00:00:00,000 --> 00:00:00,000	MEATHEAD	Stay down! It's your choice man, walk away now and you won't get your ass kicked.
+14	00:00:00,000 --> 00:00:00,000		[Shot of young Jack looking at another kid getting punched. Jack gets up and tries to go help.]
+16	00:00:00,000 --> 00:00:00,000	MEATHEAD	You should've stayed down, Jack.
+18	00:00:00,000 --> 00:00:00,000		[Shot of fist coming into the camera. Fade to black.]
+20	00:00:00,000 --> 00:00:00,000		[On-Island]
+22	00:00:00,000 --> 00:00:00,000	CHARLIE	[off camera] Jack, Jack!
+24	00:00:00,000 --> 00:00:00,000		[Shot of Jack on the beach laying down, but looking out to sea.]
+26	00:00:00,000 --> 00:00:00,000	CHARLIE	[off camera at first] Jack. Hey, Jack. There's someone out there. You gotta-the current's-there's someone out there, look.
+28	00:00:00,000 --> 00:00:00,000		[Shot of ocean, and splashing in the distance. We can hear someone yell help.]
+30	00:00:00,000 --> 00:00:00,000	CHARLIE	I woke up and she's-I don't swim.
+32	00:00:00,000 --> 00:00:00,000		[Jack runs toward the ocean.]
+34	00:00:00,000 --> 00:00:00,000	CHARLIE	I don't swim.
+36	00:00:00,000 --> 00:00:00,000		[Shot of Jack swimming out. Shot of Kate. Shot of Jack, he can't see anything, and dives under. Comes up, dives under. He comes up with Boone.]
+38	00:00:00,000 --> 00:00:00,000	JACK	You okay, just take deep breaths now. Come on, just breathe, just breathe.
+40	00:00:00,000 --> 00:00:00,000	BOONE	Did you get her?
+42	00:00:00,000 --> 00:00:00,000	JACK	What?
+44	00:00:00,000 --> 00:00:00,000	BOONE	There was a woman-I was trying to-did you get her?
+46	00:00:00,000 --> 00:00:00,000		[Shot of woman in the distance, we hear her screaming "Help!" seeral times.]
+48	00:00:00,000 --> 00:00:00,000	BOONE	You gotta go back.
+50	00:00:00,000 --> 00:00:00,000		[Shot of Kate and Charlie running toward ocean to get Boone. Jack goes back in.]
+52	00:00:00,000 --> 00:00:00,000	KATE	Jack?
+54	00:00:00,000 --> 00:00:00,000	JACK	There's someone else still out there.
+56	00:00:00,000 --> 00:00:00,000		[We see a wide shot of Jack swimming out to sea.]
+58	00:00:00,000 --> 00:00:00,000		[We see Boone looking out to the sea, dejectedly. He looks over his shoulder toward Jack. We see Jack walking up the beach, Kate catching up to him.]
+60	00:00:00,000 --> 00:00:00,000	KATE	Hey.
+62	00:00:00,000 --> 00:00:00,000	JACK	So, what'd they say?
+64	00:00:00,000 --> 00:00:00,000	KATE	Jack, maybe you should...
+66	00:00:00,000 --> 00:00:00,000	JACK	Who was she?
+68	00:00:00,000 --> 00:00:00,000	KATE	Her name was Joanna, she wasn't supposed to be on the plane. She was scuba diving off the barrier reef and got an ear infection so the doctor grounded her for two days. She bumped her flight. That's how she ended up with us.
+70	00:00:00,000 --> 00:00:00,000	JACK	She was just swimming this morning, got caught in a riptide. We've been here six days and I never talked to her. Never said a word to her.
+72	00:00:00,000 --> 00:00:00,000	KATE	Jack, don't.
+74	00:00:00,000 --> 00:00:00,000	JACK	There were 47 of us and I never said a single word to her.
+76	00:00:00,000 --> 00:00:00,000	KATE	You tried.
+78	00:00:00,000 --> 00:00:00,000	JACK	No I didn't. I thought maybe I'd-I thought maybe I could bring him back and still have the time. I was there, in the water. I didn't try. I decided not to go after her.
+80	00:00:00,000 --> 00:00:00,000		[Jack sees the man in the suit standing in the ocean.]
+82	00:00:00,000 --> 00:00:00,000	KATE	Jack?
+84	00:00:00,000 --> 00:00:00,000		[Jack walks toward the ocean.]
+86	00:00:00,000 --> 00:00:00,000	KATE	Jack?
+88	00:00:00,000 --> 00:00:00,000		[Jack looks again and there is no man in the ocean.]
+90	00:00:00,000 --> 00:00:00,000	KATE	Are you okay?
+92	00:00:00,000 --> 00:00:00,000	JACK	Did you see that?
+94	00:00:00,000 --> 00:00:00,000	KATE	What?
+96	00:00:00,000 --> 00:00:00,000	JACK	Standing there, in the water, there was a man. You didn't see that?
+98	00:00:00,000 --> 00:00:00,000	KATE	Jack, when was the last time you slept?
+100	00:00:00,000 --> 00:00:00,000	JACK	[referring to the bag he's carrying] I need to put this with the rest of the gear.
+102	00:00:00,000 --> 00:00:00,000		[Shot of Kate looking worried. Shot of Vincent running along beach with a tennis ball. Shot of Walt cleaning his teeth with the plant like Sun showed him.]
+104	00:00:00,000 --> 00:00:00,000	MICHAEL	Who taught you that?
+106	00:00:00,000 --> 00:00:00,000	WALT	Sun, the Korean lady.
+108	00:00:00,000 --> 00:00:00,000		[Walt gets a cup of sea water.]
+110	00:00:00,000 --> 00:00:00,000	MICHAEL	Don't swallow it.
+112	00:00:00,000 --> 00:00:00,000	WALT	Why not?
+114	00:00:00,000 --> 00:00:00,000	MICHAEL	Ocean water'll make you thirsty.
+116	00:00:00,000 --> 00:00:00,000	WALT	Why?
+118	00:00:00,000 --> 00:00:00,000	MICHAEL	[annoyed] Just don't swallow it, man. Alright?
+120	00:00:00,000 --> 00:00:00,000		[Shot of Walt rinsing and spitting and Sun looks on. Jin's hand comes in the frame and turns Sun's face toward him.]
+122	00:00:00,000 --> 00:00:00,000	JIN	Ã¬Å¾â€¦Ã¬Ë† Ã¬Â¢â‚¬ Ã«Â´Â. Ã«Â¬Â¼Ã¬Ââ€ž ÃªÂ¼Â­ Ã«Â§Ë†Ã¬â€¦â€Ã¬â€¢Â¼ Ã«ÂÂ¼. [Subtitle: Look at your lips. You really need water.]
+124	00:00:00,000 --> 00:00:00,000	SUN	Ã¬â€¢â€žÃ«â€¹Ë†. Ã«â€šÅ“ ÃªÂ´Å“Ã¬Â°Â®Ã¬â€¢â€žÃ¬Å¡â€… ÃªÂ³Â Ã«Â§Ë†Ã¬â€ºÅ’. Ã¬Å¡Â°Ã«Â¦Â¬Ã­â€¢Å“Ã­â€¦Å’ Ã¬â€“Â¸Ã¬Â Å“ Ã¬â€“ËœÃªÂ¸Â°Ã­â€¢Â´ Ã¬Â¤â€žÃªÂ¹Å’Ã¬Å¡â€? Ã«Â­Ëœ Ã¬â€“Â´Ã«â€“Â»ÃªÂ²Å’ Ã­â€¢Â´Ã¬â€¢Â¼ Ã­â€¢ Ã¬Â§â‚¬ Ã«ÂªÂ¨Ã«Â¥Â´ÃªÂ²Â Ã«â€žÂ¤. Ã¬â€¢â€žÃ«Â¬Â´Ã«Ââ€ž Ã¬Å¡Â°Ã«Â¦Â´ Ã¬Â°Â¾Ã¬Â§â‚¬ Ã¬â€¢Å Ã¬Ââ€ž ÃªÂ²Æ’ ÃªÂ°â„¢Ã¬â€¢â€žÃ¬Å¡â€. [Subtitle: No. I'm alright … Thank you. When will someone tell us what to do? I don't think anyone is coming.]
+126	00:00:00,000 --> 00:00:00,000	JIN	ÃªÂ±Â±Ã¬Â â€¢Ã­â€¢ËœÃ¬Â§â‚¬ Ã«Â§Ë†. Ã¬â€šÂ¬Ã«Å¾Å’Ã¬ÂÂ´ Ã¬ËœÂ¬ ÃªÂ±Â°Ã¬â€¢Â¼. [Subtitle: Someone will come.]
+128	00:00:00,000 --> 00:00:00,000	SUN	Ã«ÂªÂ¨Ã«â€˜Â Ã«â€¹Â¤… Ã¬Å¡Â°Ã«Â¦Â´ Ã«Â¬Â´Ã¬â€¹Å“Ã­â€¢Â´Ã¬Å¡â€. Ã¬Â¢â‚¬ Ã«Ââ€ Ã¬Â ÂÃªÂ·Â¹Ã¬Â ÂÃ¬Å“Â¼Ã«Â¡Å“ Ã¬â€“ËœÃªÂ¸Â°Ã«Â¥Â¼ Ã­â€¢ËœÃ«Â Â¤ÃªÂ³ Ã«â€¦Â¸Ã«Â Â¥Ã¬Ââ€ž Ã­â€¢ËœÃ«Â©Â´… [Subtitle: The others … they ignore us. If we tried harder to communicate...]
+130	00:00:00,000 --> 00:00:00,000	JIN	Ã¬Å¡Â°Ã«Â¦Â¬Ã«Å â€ ÃªÂ´Å“Ã¬Â°Â®Ã¬Ââ€ž ÃªÂ±Â°Ã¬â€¢Â¼. Ã«â€¹Â¤Ã«Â¥Â¸ Ã¬â€šÂ¬Ã«Å¾Å’Ã¬Ââ‚¬ Ã­â€¢â€žÃ¬Å¡â€ Ã¬â€”â€ Ã¬â€“Â´. ÃªÂ·Â¸Ã«Æ’Â¥ Ã«â€šÂ´ÃªÂ°â‚¬ Ã­â€¢ËœÃ«ÂÂ¼Ã«Å â€ Ã«Å’â‚¬Ã«Â¡Å“ Ã­â€¢ËœÃ«Â©Â´ Ã«ÂÂ¼. [Subtitle: We'll be fine. We don't need anyone else. I will tell you what to do.]
+132	00:00:00,000 --> 00:00:00,000		[We see Shannon walking toward Sawyer.]
+134	00:00:00,000 --> 00:00:00,000	SHANNON	Have you got it or what?
+136	00:00:00,000 --> 00:00:00,000	SAWYER	You're in my light, sticks.
+138	00:00:00,000 --> 00:00:00,000	SHANNON	Lightsticks? What the hell is that supposed to...?
+140	00:00:00,000 --> 00:00:00,000	SAWYER	Light, comma, sticks. As in those legs of yours.
+142	00:00:00,000 --> 00:00:00,000	SHANNON	Look, while I really love my new nickname, and I think it's really sweet...
+144	00:00:00,000 --> 00:00:00,000	SAWYER	Calm down. I got your damn stuff.
+146	00:00:00,000 --> 00:00:00,000	SHANNON	It'll keep off sand fleas?
+148	00:00:00,000 --> 00:00:00,000	SAWYER	You bet. Even has aloe.
+150	00:00:00,000 --> 00:00:00,000	SHANNON	How much?
+152	00:00:00,000 --> 00:00:00,000	SAWYER	Your money's no good here.
+154	00:00:00,000 --> 00:00:00,000	SHANNON	Then what the hell do you want?
+156	00:00:00,000 --> 00:00:00,000		[Sawyer just smiles.]
+158	00:00:00,000 --> 00:00:00,000	SHANNON	If you really think I'm going to...
+160	00:00:00,000 --> 00:00:00,000	SAWYER	Five grand.
+162	00:00:00,000 --> 00:00:00,000	SHANNON	I thought you said my money was no good here.
+164	00:00:00,000 --> 00:00:00,000	SAWYER	I was negotiating. I can take an IOU. Something tells me you're good... for it.
+166	00:00:00,000 --> 00:00:00,000		[Shannon throws the bug dope at Sawyer and storms away. We see Kate going through clothes, as Claire approaches.]
+168	00:00:00,000 --> 00:00:00,000	CLAIRE	You haven't found a hairbrush in there, have you?
+170	00:00:00,000 --> 00:00:00,000	KATE	No. Sorry.
+172	00:00:00,000 --> 00:00:00,000	CLAIRE	I must have looked through twenty suitcases. I can't find one. It's weird, right? When you think that everyone packs a hairbrush.
+174	00:00:00,000 --> 00:00:00,000		[Claire sits/sort of falls down.]
+176	00:00:00,000 --> 00:00:00,000	KATE	You alright?
+178	00:00:00,000 --> 00:00:00,000	CLAIRE	Yeah, it's just the heat. Oh, and, and I'm pregnant.
+180	00:00:00,000 --> 00:00:00,000	KATE	Really? [She hands Claire some water.]
+182	00:00:00,000 --> 00:00:00,000	CLAIRE	Thanks. What are you doing?
+184	00:00:00,000 --> 00:00:00,000	KATE	I'm sorting the practical clothes from the impractical. Wanna help?
+186	00:00:00,000 --> 00:00:00,000	CLAIRE	Sure. Can I-can I ask you something?
+188	00:00:00,000 --> 00:00:00,000	KATE	Sure, shoot.
+190	00:00:00,000 --> 00:00:00,000	CLAIRE	Are you a Gemini?
+192	00:00:00,000 --> 00:00:00,000	KATE	Yeah, I am.
+194	00:00:00,000 --> 00:00:00,000	CLAIRE	I thought so, restless, passionate. You know, everyone thinks astrology's just a load of crap but that's just because they don't get it. I can do your chart if you want to? [Kate doesn't reply] Or not... Geminis...
+196	00:00:00,000 --> 00:00:00,000		[Kate laughs and Claire joins her. Shot of Jack, as Hurley approaches.]
+198	00:00:00,000 --> 00:00:00,000	HURLEY	Hey Jack!
+200	00:00:00,000 --> 00:00:00,000		[Return to close up of Hurley]
+202	00:00:00,000 --> 00:00:00,000	HURLEY	Whoa. You look tired, brother.
+204	00:00:00,000 --> 00:00:00,000	JACK	I'm fine. What's up?
+206	00:00:00,000 --> 00:00:00,000	HURLEY	We got a problem.
+208	00:00:00,000 --> 00:00:00,000		[Jack looks too tired to deal with it. Shot of some water bottles in a suitcase.]
+210	00:00:00,000 --> 00:00:00,000	JACK	That's it?
+212	00:00:00,000 --> 00:00:00,000	CHARLIE	That's it.
+214	00:00:00,000 --> 00:00:00,000	JACK	How many?
+216	00:00:00,000 --> 00:00:00,000	CHARLIE	18.
+218	00:00:00,000 --> 00:00:00,000	HURLEY	People just kind of took what they needed because we were supposed to be rescued, but we weren't.
+220	00:00:00,000 --> 00:00:00,000	CHARLIE	Even if we divvied it up, split the bottles in half it wouldn't be enough for 47 people.
+222	00:00:00,000 --> 00:00:00,000	JACK	46. There is 46 of us now.
+224	00:00:00,000 --> 00:00:00,000	HURLEY	People find out this is all we have left, they're going to freak out, man.
+226	00:00:00,000 --> 00:00:00,000	CHARLIE	The boar's running low until we can catch another one. What should we tell them?
+228	00:00:00,000 --> 00:00:00,000	JACK	I don't know.
+230	00:00:00,000 --> 00:00:00,000	HURLEY	Maybe we can make one of those water finding sticks.
+232	00:00:00,000 --> 00:00:00,000	CHARLIE	What should we do with the stuff we've got?
+234	00:00:00,000 --> 00:00:00,000	JACK	I don't know.
+236	00:00:00,000 --> 00:00:00,000		[Jack walks away. Charlie and Hurley follow with the suitcase of water.]
+238	00:00:00,000 --> 00:00:00,000	CHARLIE	We should put it in the tent, yeah?
+240	00:00:00,000 --> 00:00:00,000	HURLEY	Maybe the dog can find water?
+242	00:00:00,000 --> 00:00:00,000	CHARLIE	Probably better if no one knows how little is left.
+244	00:00:00,000 --> 00:00:00,000	HURLEY	I mean, dogs can find pot and bombs, so I'm sure they can find water.
+246	00:00:00,000 --> 00:00:00,000	CHARLIE	Don't tell the others we're running low. That way you can ration it. Then you can decide what...
+248	00:00:00,000 --> 00:00:00,000	JACK	I'm not deciding anything!
+250	00:00:00,000 --> 00:00:00,000	HURLEY	Why not?
+252	00:00:00,000 --> 00:00:00,000		[Flashback - We hear the sound of ice clinking in glass, then see a shot of a glass with ice and alcohol.]
+254	00:00:00,000 --> 00:00:00,000	CHRISTIAN SHEPHARD	You wanna come in?
+256	00:00:00,000 --> 00:00:00,000		[Young Jack enters his father's study.]
+258	00:00:00,000 --> 00:00:00,000	CHRISTIAN SHEPHARD	So, you want to tell me what happened?
+260	00:00:00,000 --> 00:00:00,000	YOUNG JACK	A couple guys jumped Marc Silverman.
+262	00:00:00,000 --> 00:00:00,000	CHRISTIAN SHEPHARD	A couple guys jumped Marc Silverman. But they didn't jump you?
+264	00:00:00,000 --> 00:00:00,000	YOUNG JACK	No.
+266	00:00:00,000 --> 00:00:00,000	CHRISTIAN SHEPHARD	I had a boy on my table today. I don't know, maybe a year younger than you. He had a bad heart. It got real hairy, real fast. And everybody's looking at your old man to make decisions. And I was able to make those decisions because at the end of the day, after the boy died, I was able to wash my hands and come home to dinner. You know, watch a little Carol Burnett, laugh till my sides hurt. And how can I do that, hmm? And even when I fail, how do I do that, Jack? Because I have what it takes. Don't choose, Jack, don't decide. You don't want to be a hero, you don't try and save everyone because when you fail... you just don't have what it takes.
+268	00:00:00,000 --> 00:00:00,000		[On-Island - Close up of Jack back on beach.]
+270	00:00:00,000 --> 00:00:00,000	BOONE	[off camera] Why didn't you leave me? Hey, I'm talking to you.
+272	00:00:00,000 --> 00:00:00,000	JACK	Not now, man.
+274	00:00:00,000 --> 00:00:00,000	BOONE	I could have made it back. What? Not going to answer me? I told you to leave me.
+276	00:00:00,000 --> 00:00:00,000	JACK	You were drowning.
+278	00:00:00,000 --> 00:00:00,000	BOONE	You should've saved her.
+280	00:00:00,000 --> 00:00:00,000	JACK	But I didn't save her. And neither did you.
+282	00:00:00,000 --> 00:00:00,000		[Jack walks away. Boone follows.]
+284	00:00:00,000 --> 00:00:00,000	BOONE	You think you're all noble and heroic for coming after me? I was fine! You're not the only one who knows what to do around here, you know that? I run a business! Who appointed you our savior, huh? What gives you the right-[Jack looks off toward the jungle]. Look at me. Hey, I'm talking to you.
+286	00:00:00,000 --> 00:00:00,000		[Jack sees the man in the suit again.]
+288	00:00:00,000 --> 00:00:00,000	BOONE	Look at me, Jack. Where are you going? Hey, where are going? Hey!
+290	00:00:00,000 --> 00:00:00,000		[Jack runs off toward the figure. The man has stopped, and Jack stops, too, about 12 feet away. He walks slowly toward the man, reaches out his hand. The man turns. It's Jack's father. Jack backs away and falls.]
+292	00:00:00,000 --> 00:00:00,000	JACK	Dad?
+294	00:00:00,000 --> 00:00:00,000		[The figure walks away. Close up of Jack.]
+296	00:00:00,000 --> 00:00:00,000		[Shot of Jack on ground in jungle.]
+298	00:00:00,000 --> 00:00:00,000		[Flashback - Shot of Jack in house looking at his reflection in a window, rain outside.]
+300	00:00:00,000 --> 00:00:00,000	MARGO	Your father's gone, Jack. Did you hear what I said? He's gone, Jack.
+302	00:00:00,000 --> 00:00:00,000	JACK	He'll be back.
+304	00:00:00,000 --> 00:00:00,000	MARGO	This time it's different. I want you to bring him back.
+306	00:00:00,000 --> 00:00:00,000		[Jack sighs.]
+308	00:00:00,000 --> 00:00:00,000	MARGO	What?
+310	00:00:00,000 --> 00:00:00,000	JACK	He hasn't talked to me in two months, Mom.
+312	00:00:00,000 --> 00:00:00,000	MARGO	You haven't talked to him in two months.
+314	00:00:00,000 --> 00:00:00,000	JACK	He doesn't want me to bring him back, trust me. Let one of his friends.
+316	00:00:00,000 --> 00:00:00,000	MARGO	He doesn't have friends anymore. Why do you think that is? He was right about you.
+318	00:00:00,000 --> 00:00:00,000	JACK	Right about what?
+320	00:00:00,000 --> 00:00:00,000	MARGO	You don't understand the pressure that he's under.
+322	00:00:00,000 --> 00:00:00,000	JACK	I understand pressure.
+324	00:00:00,000 --> 00:00:00,000	MARGO	Jack, please you know how he gets-he doesn't-he won't take care of himself. You have to go after him.
+326	00:00:00,000 --> 00:00:00,000	JACK	I'm sorry. I can't.
+328	00:00:00,000 --> 00:00:00,000	MARGO	"I can't?" You don't get to say "I can't." Not after what you did. Bring your father home, Jack.
+330	00:00:00,000 --> 00:00:00,000	JACK	Where is he?
+332	00:00:00,000 --> 00:00:00,000	MARGO	Australia.
+334	00:00:00,000 --> 00:00:00,000		[On-Island - Shot of Jack in jungle pursuing his father. Shot of Walt running to Kate on beach.]
+336	00:00:00,000 --> 00:00:00,000	WALT	Hey, hey!
+338	00:00:00,000 --> 00:00:00,000	KATE	What's the matter?
+340	00:00:00,000 --> 00:00:00,000	WALT	That pregnant lady fell down.
+342	00:00:00,000 --> 00:00:00,000		[Shot of Charlie, Michael and Kate carrying Claire to the infirmary.]
+344	00:00:00,000 --> 00:00:00,000	KATE	What happened?
+346	00:00:00,000 --> 00:00:00,000	CHARLIE	She just dropped.
+348	00:00:00,000 --> 00:00:00,000	KATE	It must be the heat. Is she breathing?
+350	00:00:00,000 --> 00:00:00,000	MICHAEL	Yeah, I think.
+352	00:00:00,000 --> 00:00:00,000	KATE	Come on. Let's get her inside.
+354	00:00:00,000 --> 00:00:00,000	CHARLIE	Wake up.
+356	00:00:00,000 --> 00:00:00,000	KATE	Claire? Claire, honey, wake up. Claire? Can you hear me, Claire. Come on. Wake up. Come on. Come on, please wake up. Come on. Claire, can you hear me? Alright.
+358	00:00:00,000 --> 00:00:00,000	CLAIRE	Hmm?
+360	00:00:00,000 --> 00:00:00,000	KATE	Hi. It's me. It's Kate.
+362	00:00:00,000 --> 00:00:00,000	CLAIRE	What?
+364	00:00:00,000 --> 00:00:00,000	KATE	You passed out. Just take it easy, okay? [To Charlie] She needs water.
+366	00:00:00,000 --> 00:00:00,000		[Shot of Charlie looking for water and not finding it.]
+368	00:00:00,000 --> 00:00:00,000	KATE	Don't move, okay? Honey, I think you have a fever, but if you keep really still that's okay. It's okay, it's okay.
+370	00:00:00,000 --> 00:00:00,000	CHARLIE	What the... The water's gone. Someone stole it.
+372	00:00:00,000 --> 00:00:00,000		[Shot of Locke, Sayid, Kate on beach.]
+374	00:00:00,000 --> 00:00:00,000	LOCKE	Where is the doctor?
+376	00:00:00,000 --> 00:00:00,000	KATE	I don't know. No one can find him.
+378	00:00:00,000 --> 00:00:00,000	SAYID	Is this the last of the camp's water supply?
+380	00:00:00,000 --> 00:00:00,000	KATE	Yeah.
+382	00:00:00,000 --> 00:00:00,000	SAYID	Keeping it all in one place, foolish.
+384	00:00:00,000 --> 00:00:00,000	KATE	I can go into the jungle, try to find some fresh water.
+386	00:00:00,000 --> 00:00:00,000	SAYID	You're not going alone.
+388	00:00:00,000 --> 00:00:00,000	LOCKE	When the others find out the water's gone it's going to get ugly. And when they find out that someone pinched it, it's going to get uglier. I'll go. Camp needs you two here, especially with the doctor gone. And besides, I know where to look.
+390	00:00:00,000 --> 00:00:00,000		[Shot of Jack wandering around the jungle.]
+392	00:00:00,000 --> 00:00:00,000	JACK	Where are you? Where are you? [yelling] Where are you?!
+394	00:00:00,000 --> 00:00:00,000		[Flashback - Shot of Jack in a hotel room.]
+396	00:00:00,000 --> 00:00:00,000	HOTEL MANAGER	The maid says he hasn't used the bed in the past three days.
+398	00:00:00,000 --> 00:00:00,000	JACK	Did he rent a car from the concierge?
+400	00:00:00,000 --> 00:00:00,000	HOTEL MANAGER	No, sir. Quite honestly, Mr. Shephard, I don't think your father rented a car at all.
+402	00:00:00,000 --> 00:00:00,000	JACK	Yeah, why's that?
+404	00:00:00,000 --> 00:00:00,000	HOTEL MANAGER	There was an incident a few nights ago, here at the hotel bar. I had to get security to escort your father to his room.
+406	00:00:00,000 --> 00:00:00,000	JACK	What's that have to do with renting a car?
+408	00:00:00,000 --> 00:00:00,000	HOTEL MANAGER	I'm sorry, sir, I shouldn't have said-
+410	00:00:00,000 --> 00:00:00,000	JACK	Come on, what's that have to do with renting a car?
+412	00:00:00,000 --> 00:00:00,000	HOTEL MANAGER	Mr. Shephard, I don't think any rental agent in Sydney would lease your father a car in his condition.
+414	00:00:00,000 --> 00:00:00,000	JACK	My father is a Chief of Surgery.
+416	00:00:00,000 --> 00:00:00,000	HOTEL MANAGER	Of course, sir. I apologize.
+418	00:00:00,000 --> 00:00:00,000		[Jack has been looking around room, finding bottles of booze, pills. He finds his father's wallet on the bedside table.]
+420	00:00:00,000 --> 00:00:00,000	JACK	He left his wallet. Who leaves a wallet?
+422	00:00:00,000 --> 00:00:00,000	HOTEL MANAGER	Perhaps you should talk to the police, Mr. Shephard.
+424	00:00:00,000 --> 00:00:00,000	JACK	Where are you?
+426	00:00:00,000 --> 00:00:00,000		[On-Island - Shot of Jack in the jungle running after the figure again, disoriented. He gets to a clearing and then the father is behind him. He runs after him again, and falls down a hill and off a cliff. We see him trying to hold on, climb back up.]
+428	00:00:00,000 --> 00:00:00,000		[We see Jack hanging onto the vine; he's slipping, and a hand comes over the top.]
+430	00:00:00,000 --> 00:00:00,000	LOCKE	Take my hand. Come on.
+432	00:00:00,000 --> 00:00:00,000		[Locke pulls him up and they both stay on the ground a moment, catching their breath.]
+434	00:00:00,000 --> 00:00:00,000	LOCKE	You okay?
+436	00:00:00,000 --> 00:00:00,000		[Jack laughs, slightly crazily.]
+438	00:00:00,000 --> 00:00:00,000		[Shot of Charlie on the beach, bringing water to Claire.]
+440	00:00:00,000 --> 00:00:00,000	CHARLIE	Hey.
+442	00:00:00,000 --> 00:00:00,000	CLAIRE	Hey. How long have I...
+444	00:00:00,000 --> 00:00:00,000	CHARLIE	A couple of hours. Here. It's not much but it's what we have. Just relax, you have to think about the little one now, you.
+446	00:00:00,000 --> 00:00:00,000	CLAIRE	Thanks for the water, Charlie.
+448	00:00:00,000 --> 00:00:00,000	CHARLIE	There'd be more if some git hadn't nicked it.
+450	00:00:00,000 --> 00:00:00,000	CLAIRE	Is Jack back yet?
+452	00:00:00,000 --> 00:00:00,000	CHARLIE	No. No one's seen him. But, I wouldn't worry. Good old Mr. Locke's gone into the jungle to get some water for you.
+454	00:00:00,000 --> 00:00:00,000	CLAIRE	Great. Our only hunter's going to get eaten just so he can get the pregnant girl some more water.
+456	00:00:00,000 --> 00:00:00,000	CHARLIE	I wouldn't worry, luv. I mean, you tell me, who would you rather meet in a dark alley, whatever's out there, or that geezer with his 400 knives? I mean, who packs 400 knives? Personally, I can only have space for 200, 300 at most.
+458	00:00:00,000 --> 00:00:00,000	CLAIRE	[chuckles] When are they going to rescue us?
+460	00:00:00,000 --> 00:00:00,000	CHARLIE	Soon.
+462	00:00:00,000 --> 00:00:00,000	CLAIRE	Thanks, Charlie.
+464	00:00:00,000 --> 00:00:00,000	CHARLIE	For what?
+466	00:00:00,000 --> 00:00:00,000	CLAIRE	People don't seem to look me in the eye here. I think I scare them. The baby... It's like I'm this time bomb of responsibility just waiting to go off.
+468	00:00:00,000 --> 00:00:00,000	CHARLIE	You don't scare me.
+470	00:00:00,000 --> 00:00:00,000		[Hurley runs up to Sayid and Kate.]
+472	00:00:00,000 --> 00:00:00,000	HURLEY	Uh, the Chinese people have water.
+474	00:00:00,000 --> 00:00:00,000		[Sayid goes right off to Sun.]
+476	00:00:00,000 --> 00:00:00,000	SAYID	Where did you get this? Where did you get this? [yelling] Where! Did! You!-
+478	00:00:00,000 --> 00:00:00,000	KATE	She doesn't understand you.
+480	00:00:00,000 --> 00:00:00,000	SAYID	She understands me. Did you steal this water?
+482	00:00:00,000 --> 00:00:00,000	SUN	Ã¬Â£â€žÃ¬â€ Â¡Ã­â€¢ËœÃ¬Â§â‚¬Ã«Â§Å’ Ã«Â¬Â´Ã¬Å Â¨ Ã¬ËœÂ¤Ã­â€¢Â´ÃªÂ°â‚¬ Ã¬Å¾Ë†Ã«Å â€ ÃªÂ²Æ’ ÃªÂ°â„¢Ã¬Ââ‚¬Ã«ÂÂ°Ã¬Å¡â€. ÃªÂ·Â¸Ã«Å¸Â° ÃªÂ²Å’ Ã¬â€¢â€žÃ«â€¹Ë†Ã«ÂÂ¼…
+484	00:00:00,000 --> 00:00:00,000	Jin	[Runs up yelling.] Ã«â€“Â¨Ã¬â€“Â´Ã¬Â Â¸, Ã¬ÂÂ´ Ã¬Æ’Ë†Ã«ÂÂ¼Ã¬â€¢Â¼. Ã«â€šÂ´ Ã¬â„¢â‚¬Ã¬ÂÂ´Ã­â€â€ž Ã­â€¢Å“ Ã«Â²Ë†Ã«Â§Å’ Ã«Ââ€ Ã«Â§Å’Ã¬Â§â‚¬Ã«Â©Â´ Ã«â€žÅ’ Ã¬Â£Â½Ã¬â€“Â´.
+486	00:00:00,000 --> 00:00:00,000	KATE	Just take it easy, alright. We just want to talk, alright? This had water in it. Is it yours? Who gave you this?
+488	00:00:00,000 --> 00:00:00,000		[Jin points at Sawyer who's smoking a cigarette. Kate moves to go to him, but Sayid stops her.]
+490	00:00:00,000 --> 00:00:00,000	SAYID	I don't see the water.
+492	00:00:00,000 --> 00:00:00,000	KATE	And?
+494	00:00:00,000 --> 00:00:00,000	SAYID	You go after him now, he'll give you nothing. But if you wait, a rat will always lead you to it's hole.
+496	00:00:00,000 --> 00:00:00,000		[Shot of Sawyer walking to his 'hole' and grabbing a pack of cigarettes. Kate tackles him.]
+498	00:00:00,000 --> 00:00:00,000	SAWYER	Well, it's about time.
+500	00:00:00,000 --> 00:00:00,000	KATE	For what?
+502	00:00:00,000 --> 00:00:00,000	SAWYER	I made this birthday wish four years ago.
+504	00:00:00,000 --> 00:00:00,000	KATE	Where's the water?
+506	00:00:00,000 --> 00:00:00,000		[Sawyer flips her over so he's on top.]
+508	00:00:00,000 --> 00:00:00,000	SAWYER	That's better.
+510	00:00:00,000 --> 00:00:00,000	KATE	Get off of me.
+512	00:00:00,000 --> 00:00:00,000		[Sayid enters and drags Sawyer off of Kate.]
+514	00:00:00,000 --> 00:00:00,000	SAYID	Give us the water now.
+516	00:00:00,000 --> 00:00:00,000	SAWYER	[shoving Sayid] Touch me again, huh.
+518	00:00:00,000 --> 00:00:00,000		[Kate looks through Sawyer's stuff.]
+520	00:00:00,000 --> 00:00:00,000	SAWYER	You really think I stole your damn water?
+522	00:00:00,000 --> 00:00:00,000	SAYID	We know you gave two bottles to the Koreans.
+524	00:00:00,000 --> 00:00:00,000	SAWYER	I don't give nothing to nobody.
+526	00:00:00,000 --> 00:00:00,000	KATE	It's not here.
+528	00:00:00,000 --> 00:00:00,000	SAWYER	I traded Mr. Miyagi the last of my water for a fish he caught. We worked it out caveman style.
+530	00:00:00,000 --> 00:00:00,000	KATE	You gave him your last two bottles?
+532	00:00:00,000 --> 00:00:00,000	SAWYER	Water has no value, Freckles. It's gonna rain sooner or later. And hell, I'm an optimist.
+534	00:00:00,000 --> 00:00:00,000		[Sawyer gets something out of his suitcase.]
+536	00:00:00,000 --> 00:00:00,000	SAWYER	[to Kate] Hey, you forgot something. [Throws her a badge]. Seeing as you're the new sheriff in town. Might as well make it official.
+538	00:00:00,000 --> 00:00:00,000		[Shot of a drop of water coming off a plant into a water bottle. Wider shot shows Locke's arms.]
+540	00:00:00,000 --> 00:00:00,000	JACK	How are they, the others?
+542	00:00:00,000 --> 00:00:00,000	LOCKE	Thirsty. Hungry. Waiting to be rescued. And they need someone to tell them what to do.
+544	00:00:00,000 --> 00:00:00,000	JACK	Me? I can't.
+546	00:00:00,000 --> 00:00:00,000	LOCKE	Why can't you?
+548	00:00:00,000 --> 00:00:00,000	JACK	Because I'm not a leader.
+550	00:00:00,000 --> 00:00:00,000	LOCKE	And yet they all treat you like one.
+552	00:00:00,000 --> 00:00:00,000	JACK	I don't know how to help them. I'll fail. I don't have what it takes.
+554	00:00:00,000 --> 00:00:00,000	LOCKE	Why are you out here, Jack?
+556	00:00:00,000 --> 00:00:00,000	JACK	I think I'm going crazy.
+558	00:00:00,000 --> 00:00:00,000	LOCKE	No. You're not going crazy.
+560	00:00:00,000 --> 00:00:00,000	JACK	No?
+562	00:00:00,000 --> 00:00:00,000	LOCKE	No, crazy people don't know they're going crazy. They think they're getting sane. So, why are you out here?
+564	00:00:00,000 --> 00:00:00,000	JACK	I'm chasing something-someone.
+566	00:00:00,000 --> 00:00:00,000	LOCKE	Ah. The white rabbit. Alice in Wonderland.
+568	00:00:00,000 --> 00:00:00,000	JACK	Yeah, wonderland, because who I'm chasing-he's not there.
+570	00:00:00,000 --> 00:00:00,000	LOCKE	But you see him?
+572	00:00:00,000 --> 00:00:00,000	JACK	Yes. But he's not there.
+574	00:00:00,000 --> 00:00:00,000	LOCKE	And if I came to you and said the same thing, then what would your explanation be, as a doctor.
+576	00:00:00,000 --> 00:00:00,000	JACK	I'd call it a hallucination. A result of dehydration, post traumatic stress, not getting more than two hours of sleep a night for the past week. All of the above.
+578	00:00:00,000 --> 00:00:00,000	LOCKE	All right, then. You're hallucinating. But what if you're not?
+580	00:00:00,000 --> 00:00:00,000	JACK	Then we're all in a lot of trouble.
+582	00:00:00,000 --> 00:00:00,000	LOCKE	I'm an ordinary man, Jack, meat and potatoes, I live in the real world. I'm not a big believer in magic. But this place is different. It's special. The others don't want to talk about it because it scares them. But we all know it. We all feel it. Is your white rabbit a hallucination? Probably. But what if everything that happened here, happened for a reason? What if this person that you're chasing is really here?
+584	00:00:00,000 --> 00:00:00,000	JACK	That's impossible.
+586	00:00:00,000 --> 00:00:00,000	LOCKE	Even if it is, let's say it's not.
+588	00:00:00,000 --> 00:00:00,000	JACK	Then what happens when I catch him?
+590	00:00:00,000 --> 00:00:00,000	LOCKE	I don't know. But I've looked into the eye of this Island. And what I saw was beautiful.
+592	00:00:00,000 --> 00:00:00,000		[Locke gets up to leave.]
+594	00:00:00,000 --> 00:00:00,000	JACK	Wait, wait, wait, where are you going?
+596	00:00:00,000 --> 00:00:00,000	LOCKE	To find some more water.
+598	00:00:00,000 --> 00:00:00,000	JACK	I'll come with you.
+600	00:00:00,000 --> 00:00:00,000	LOCKE	No. You need to finish what you started.
+602	00:00:00,000 --> 00:00:00,000	JACK	Why?
+604	00:00:00,000 --> 00:00:00,000	LOCKE	Because a leader can't lead until he knows where he's going.
+606	00:00:00,000 --> 00:00:00,000		[Shot of Jack sitting at a little fire in the jungle at night.]
+608	00:00:00,000 --> 00:00:00,000		[Flashback - Shot of Jack and a medical examiner walking down a hall in some kind of medical building (morgue).]
+610	00:00:00,000 --> 00:00:00,000	MEDICAL EXAMINER	The police found him in an alley in Queens Cross. Now, a tox screen showed a blood alcohol content, which for a man of his size, probably brought on myocardial infarction - a sizable, and fatal heart-attack.
+612	00:00:00,000 --> 00:00:00,000		[They go into a room with a body bag on a gurney. The Medical Examiner unzips it. His father is there.]
+614	00:00:00,000 --> 00:00:00,000	JACK	[crying] That's him.
+616	00:00:00,000 --> 00:00:00,000		[Shot of Jack in the jungle, crying. We hear the sound of ice in a glass, and a branch breaking or moving. Jack grabs a log out of the fire to use as a torch and follows. He comes upon the caves and water. He sees a doll in the water which he picks up. There are a bunch of dolls scattered on the ground from a box. There is other debris there from a section of a plane. He finds a coffin.]
+618	00:00:00,000 --> 00:00:00,000		[Flashback - We see Jack at a counter at the Sydney airport.]
+620	00:00:00,000 --> 00:00:00,000	JACK	What do you mean you won't put it on the plane?
+622	00:00:00,000 --> 00:00:00,000	AGENT	I'm sorry Mr. Shephard, but our policy is that the body must have the proper documentation. There's just no latitude.
+624	00:00:00,000 --> 00:00:00,000	JACK	No latitude? No latitude?
+626	00:00:00,000 --> 00:00:00,000	AGENT	Without the proper documents-
+628	00:00:00,000 --> 00:00:00,000	JACK	Look, you can't do this to me. I'm ready to go now.
+630	00:00:00,000 --> 00:00:00,000	AGENT	Perhaps another carrier?
+632	00:00:00,000 --> 00:00:00,000	JACK	No!
+634	00:00:00,000 --> 00:00:00,000		[Shot of Jin in line looking over at Jack's outburst.]
+636	00:00:00,000 --> 00:00:00,000	JACK	I want you to listen to me, okay. Because I'm asking you a favor, Chrissy. I'm standing in front of you in the same suit that I'm wearing to my father's funeral and I'm asking you a favor. In 16 hours I need to land at LAX, and I need that coffin to clear customs because there's going to be a hearse waiting there. And I need that hearse to take me and that coffin to a cemetery. Why? Chrissy, why can't I just bring him to a funeral home and make all the arrangements? Why can't I really take my time with it? Because... because I need it to be done. I need it to be over. I just-I need to bury my father.
+638	00:00:00,000 --> 00:00:00,000		[On-Island - Shot of Jack at caves looking at the coffin. He opens it and there's no body inside. He gets angry and smashes it with a metal pipe.]
+640	00:00:00,000 --> 00:00:00,000		[Shot of people at beach, fires. We see three bottles of water.]
+642	00:00:00,000 --> 00:00:00,000	BOONE	Hey, hey, Claire [giving her water to drink].
+644	00:00:00,000 --> 00:00:00,000	CLAIRE	How did you get that?
+646	00:00:00,000 --> 00:00:00,000	BOONE	Shhh.
+648	00:00:00,000 --> 00:00:00,000	CHARLIE	[coming up behind Boone] Where'd you get that?
+650	00:00:00,000 --> 00:00:00,000		[Shot of Boone's face hitting the sand.]
+652	00:00:00,000 --> 00:00:00,000	CHARLIE	Here's your thief.
+654	00:00:00,000 --> 00:00:00,000	MICHAEL	Where'd he hide it?
+656	00:00:00,000 --> 00:00:00,000	CHARLIE	I don't know. This wanker had three bottles on him. Why'd you do it, pretty boy, eh?
+658	00:00:00,000 --> 00:00:00,000	BOONE	It was just sitting in-it was just sitting in the tent, and Jack just took off.
+660	00:00:00,000 --> 00:00:00,000	CHARLIE	Claire could've died!
+662	00:00:00,000 --> 00:00:00,000	BOONE	I tried to give her some sooner, but it just got out of hand. No one would have understood.
+664	00:00:00,000 --> 00:00:00,000	KATE	[entering] What is going on?
+666	00:00:00,000 --> 00:00:00,000	BOONE	Someone had to take responsibility for it. It would have never lasted!
+668	00:00:00,000 --> 00:00:00,000	CHARLIE	[mumbling] Oh shut up!
+670	00:00:00,000 --> 00:00:00,000		[Charlie pushes Boone, Sayid steps in.]
+672	00:00:00,000 --> 00:00:00,000	JACK	[off camera, at first] Leave him alone! It's been six days and we're all still waiting. Waiting for someone to come. But what if they don't? We have to stop waiting. We need to start figuring things out. A woman died this morning just going for a swim and he tried to save her, and now you're about to crucify him? We can't do this. Everyman for himself is not going to work. It's time to start organizing. We need to figure out how we're going to survive here. Now, I found water. Fresh water, up in the valley. I'll take a group in at first light. If you don't want to go come then find another way to contribute. Last week most of us were strangers, but we're all here now. And god knows how long we're going to be here. But if we can't live together, we're going to die alone.
+674	00:00:00,000 --> 00:00:00,000		[Shot of everyone standing around feeling stupid; shot of Charlie and Hurley getting water for people; shot of Jin and Sun.]
+676	00:00:00,000 --> 00:00:00,000	SUN	ÃªÂ³Â Ã«Â§Ë†Ã¬â€ºÅ’Ã¬Å¡â€-- Ã¬â€¢â€žÃªÂ¹Å’ Ã«Â¬Â¼ ÃªÂ°â€“Ã«â€¹Â¤ Ã¬Â¤ËœÃ¬â€žÅ“. [Subtitle: Thank you-for getting me water today.]
+678	00:00:00,000 --> 00:00:00,000	JIN	Ã«â€šÂ¨Ã­Å½Â¸Ã¬ÂÂ´Ã«â€¹Ë†ÃªÂ¹Å’ ÃªÂ·Â¸Ã«Â â€¡ÃªÂ²Å’ Ã­â€¢Â´Ã¬â€¢Â¼Ã¬Â§â‚¬. [Subtitle: That's what husbands do.]
+680	00:00:00,000 --> 00:00:00,000		[Michael brings water for Walt, but Walt's asleep so Vincent gets it. We see Boone sitting by himself, as Sawyer approaches.]
+682	00:00:00,000 --> 00:00:00,000	SAWYER	So, how does it feel?
+684	00:00:00,000 --> 00:00:00,000	BOONE	How does what feel?
+686	00:00:00,000 --> 00:00:00,000	SAWYER	Taking my place at the top of everyone's most hated list. Sucks, don't it?
+688	00:00:00,000 --> 00:00:00,000		[Kate brings water to Jack.]
+690	00:00:00,000 --> 00:00:00,000	JACK	Thanks.
+692	00:00:00,000 --> 00:00:00,000	KATE	So where were you today Jack?
+694	00:00:00,000 --> 00:00:00,000	JACK	Just had to take care of a few things.
+696	00:00:00,000 --> 00:00:00,000	KATE	That's all I'm gonna get, huh?
+698	00:00:00,000 --> 00:00:00,000	JACK	My father died. In Sydney.
+700	00:00:00,000 --> 00:00:00,000	KATE	I'm sorry.
+702	00:00:00,000 --> 00:00:00,000	JACK	Yeah. I'm sorry, too.

@@ -1,0 +1,548 @@
+What Kate Does
+2	00:00:00,000 --> 00:00:00,000	Written by	Edward Kitsis & Adam Horowitz
+4	00:00:00,000 --> 00:00:00,000	Directed by	Paul Edwards
+6	00:00:00,000 --> 00:00:00,000		[On-Island - As the episode commences, Lennon is walking briskly through corridors of stone at a quick pace. He checks to ensure no one is following him. He rushes into a chamber where the Temple Leader is typing on an old typewriter similar to an Underwood model. The Temple Leader stops immediately at the intrusion. There is a baseball sitting on his desk. Out of breath, he speaks to the leader.]
+8	00:00:00,000 --> 00:00:00,000	LENNON	He's alive.
+10	00:00:00,000 --> 00:00:00,000		[The Temple Leader turns his head from Lennon and stares straight ahead grasping his necklace.]
+12	00:00:00,000 --> 00:00:00,000		[The scene switches to the chamber with the spring. Sayid is sitting, Jack kneels in front of him. Hurley runs to Sayid. Miles follows Hurley.]
+14	00:00:00,000 --> 00:00:00,000	MILES	It worked?
+16	00:00:00,000 --> 00:00:00,000	HURLEY	Dude! You're okay!
+18	00:00:00,000 --> 00:00:00,000		[Hurley hugs Sayid tightly.]
+20	00:00:00,000 --> 00:00:00,000	JACK	Hurley, let him breathe. Miles, can you go get some water?
+22	00:00:00,000 --> 00:00:00,000	MILES	Yeah, on it.
+24	00:00:00,000 --> 00:00:00,000		[Miles looks at Sayid cautiously then leaves to get water.]
+26	00:00:00,000 --> 00:00:00,000	JACK	Sayid, hey, how ya feelin'?
+28	00:00:00,000 --> 00:00:00,000	SAYID	A little light headed.
+30	00:00:00,000 --> 00:00:00,000		[Jin joins Hurley, Jack, and Sayid.]
+32	00:00:00,000 --> 00:00:00,000	SAYID	Jack, what happened to me?
+34	00:00:00,000 --> 00:00:00,000	JACK	[exhales deeply] You died.
+36	00:00:00,000 --> 00:00:00,000		[Sayid just looks around. Kate and Sawyer are standing on the opposite side of the spring.]
+38	00:00:00,000 --> 00:00:00,000	KATE	How is that even possible? I mean one minute he's gone and now he's fine?
+40	00:00:00,000 --> 00:00:00,000	SAWYER	Of course he's fine.
+42	00:00:00,000 --> 00:00:00,000	KATE	What's that mean?
+44	00:00:00,000 --> 00:00:00,000	SAWYER	[sarcastically] He's an Iraqi torturer who shoots kids. He definitely deserves another go around.
+46	00:00:00,000 --> 00:00:00,000		[Jin, Jack and Hurley help Sayid stand up. The conversation is indistinct.]
+48	00:00:00,000 --> 00:00:00,000	HURLEY	All right.
+50	00:00:00,000 --> 00:00:00,000		[Sawyer continues to stare outside.]
+52	00:00:00,000 --> 00:00:00,000	KATE	What are you lookin' at?
+54	00:00:00,000 --> 00:00:00,000	SAWYER	How many guards with guns do you think are outside this place?
+56	00:00:00,000 --> 00:00:00,000	KATE	What?!
+58	00:00:00,000 --> 00:00:00,000	SAWYER	I was out cold when they brought me in here. How many guards did you see? Five? Ten? A hundred?
+60	00:00:00,000 --> 00:00:00,000	KATE	What are you thinking?
+62	00:00:00,000 --> 00:00:00,000	SAWYER	Thinkin' about running, Kate.
+64	00:00:00,000 --> 00:00:00,000		[Flash sideways - At LAX, Kate is walking with her hands still cuffed and the marshal's jacket hiding them.]
+66	00:00:00,000 --> 00:00:00,000	MARSHAL	She's got hands in handcuffs but she's probably got them covered, okay?
+68	00:00:00,000 --> 00:00:00,000		[There is an indistinct male voice over the PA system. Kate and the marshal make eye contact. Kate turns and runs with the marshal in pursuit.]
+70	00:00:00,000 --> 00:00:00,000	MARSHAL	Hey!
+72	00:00:00,000 --> 00:00:00,000		[The marshal runs after Kate pushing a man out of his way.]
+74	00:00:00,000 --> 00:00:00,000	MAN	Hey! Watch it!
+76	00:00:00,000 --> 00:00:00,000		[Kate gets in the back of a cab at the curb.]
+78	00:00:00,000 --> 00:00:00,000	KATE	Go! Go now!
+80	00:00:00,000 --> 00:00:00,000	CAB DRIVER	Lady, I already have a customer.
+82	00:00:00,000 --> 00:00:00,000		[Kate cocks and puts a gun to the driver's head.]
+84	00:00:00,000 --> 00:00:00,000	KATE	Damn it, I said go.
+86	00:00:00,000 --> 00:00:00,000		[The passenger is in the back seat with Kate. The driver speeds from the curb with the tires screeching. As the cab drives off, the marshal sees Kate and runs after the cab.]
+88	00:00:00,000 --> 00:00:00,000	CAB DRIVER	Okay.
+90	00:00:00,000 --> 00:00:00,000	MARSHAL	Move it!
+92	00:00:00,000 --> 00:00:00,000		[Kate looks over at Claire.]
+94	00:00:00,000 --> 00:00:00,000	CLAIRE	Oh! Easy, easy, slow down.
+96	00:00:00,000 --> 00:00:00,000	KATE	Hey, just slow down. Slow down!
+98	00:00:00,000 --> 00:00:00,000		[Claire grunts.]
+100	00:00:00,000 --> 00:00:00,000	CAB DRIVER	Okay! Okay! You said go!
+102	00:00:00,000 --> 00:00:00,000	KATE	Just get us out of here.
+104	00:00:00,000 --> 00:00:00,000		[As the cab drives off, the marshal sees Kate and runs after the cab.]
+106	00:00:00,000 --> 00:00:00,000	MARSHAL	Hey! Hey! Stop that cab!
+108	00:00:00,000 --> 00:00:00,000	CLAIRE	Can you please, just let me out of - AH!
+110	00:00:00,000 --> 00:00:00,000		[Kate points the gun at Claire.]
+112	00:00:00,000 --> 00:00:00,000	KATE	Be quiet!
+114	00:00:00,000 --> 00:00:00,000		[Kate looks out the window and sees police cars and officers. Suddenly the cab driver slams on the brakes and horns honk.]
+116	00:00:00,000 --> 00:00:00,000	KATE	What are you doing?
+118	00:00:00,000 --> 00:00:00,000	CAB DRIVER	There's a guy. I'm not gonna run him over.
+120	00:00:00,000 --> 00:00:00,000		[A man is bending over attempting to pick something up from the ground. It is Leslie Artz. He turns to face the cab and begins to yell.]
+122	00:00:00,000 --> 00:00:00,000	LESLIE ARTZ	Hey! I'm walking here. I'm walking here.
+124	00:00:00,000 --> 00:00:00,000		[Artz has spilled his baggage from a courtesy cart. It is in the path of the cab. Horns are honking. In the offing, Jack is on his cell phone. Kate and Jack make eye contact for a moment. Claire tries to get out of the cab and Kate pulls her back into the cab.]
+126	00:00:00,000 --> 00:00:00,000	KATE	Do not get out of this car!
+128	00:00:00,000 --> 00:00:00,000		[Claire nods yes and says nothing.. She is quite frightened. Kate addresses the cab driver. They are still in the airport parking terminal.]
+130	00:00:00,000 --> 00:00:00,000	KATE	Just go. Go now! I don't care about the guy! Go!
+132	00:00:00,000 --> 00:00:00,000	CAB DRIVER	Okay.
+134	00:00:00,000 --> 00:00:00,000		[The cab drags one of Artz's bags under it as it peels away.]
+136	00:00:00,000 --> 00:00:00,000	LESLIE ARTZ	Hey! Hey! What the hell! Hey, I got your license plate!
+138	00:00:00,000 --> 00:00:00,000		[Traffic light changes from green to amber to red. The cab stops for the red light.]
+140	00:00:00,000 --> 00:00:00,000	KATE	At the light, take a left.
+142	00:00:00,000 --> 00:00:00,000	CLAIRE	[sobbing] Can you, can you please, please just let me go? I promise I won't say anything to anyone.
+144	00:00:00,000 --> 00:00:00,000		[The cab driver takes this opportunity and puts the cab in park, gets out of the cab and runs away leaving Kate and Clair in the back seat.]
+146	00:00:00,000 --> 00:00:00,000	KATE	Hey! Hey! Damn it!
+148	00:00:00,000 --> 00:00:00,000		[Multiple car horns start honking. Kate gets from the back seat to the driver's seat and speeds away, tires screeching. A car at crossing the intersection almost hit the cab broadside.]
+150	00:00:00,000 --> 00:00:00,000	CLAIRE	Please! Please!
+152	00:00:00,000 --> 00:00:00,000	KATE	Give me your purse.
+154	00:00:00,000 --> 00:00:00,000	CLAIRE	What?
+156	00:00:00,000 --> 00:00:00,000	KATE	I said give me your purse!
+158	00:00:00,000 --> 00:00:00,000		[Claire continues to cry. Kat pulls to the curb and stops the cab.]
+160	00:00:00,000 --> 00:00:00,000	KATE	Now get out of the car.
+162	00:00:00,000 --> 00:00:00,000	CLAIRE	Can I please just, just get my suitcase?
+164	00:00:00,000 --> 00:00:00,000	KATE	No you can't! Get out of the car!
+166	00:00:00,000 --> 00:00:00,000		[A pregnant Claire exits the cab and is left without her purse or luggage as she cries on the side walk. Kate speeds away in the cab.]
+168	00:00:00,000 --> 00:00:00,000		[On-Island - Back at the Temple. Kate is walking down a corridor. Jack and Jin help Sayid walk out to the courtyard.]
+170	00:00:00,000 --> 00:00:00,000	JACK	Easy.
+172	00:00:00,000 --> 00:00:00,000		[Sayid is led to a stone bench upon which he sits. Jin and Jack release Sayid's arms from over their shoulders. Miles approaches with water.]
+174	00:00:00,000 --> 00:00:00,000	SAYID	Who are these people? What do they want?
+176	00:00:00,000 --> 00:00:00,000		[Sayid accepts the canteen from Miles and drinks from it.]
+178	00:00:00,000 --> 00:00:00,000	HURLEY	It's the Others, dude. They caught us [pause] again. I dunno, I think they are trying to protect us.
+180	00:00:00,000 --> 00:00:00,000	MILES	Uh, as you can see, Hugo here has assumed the leadership position so that's pretty great.
+182	00:00:00,000 --> 00:00:00,000		[Jack is staring at Sayid's abdomen.]
+184	00:00:00,000 --> 00:00:00,000	SAYID	[to Jack] What?
+186	00:00:00,000 --> 00:00:00,000	JACK	The wound [rolls up Sayid's tank shirt] it's almost completely closed.
+188	00:00:00,000 --> 00:00:00,000		[Sayid rolls up the front of his shirt and looks at the gunshot wound. It looks like scar tissue and not a fresh wound. Sayid is confused. He turns to Jack.]
+190	00:00:00,000 --> 00:00:00,000	SAYID	Thank you Jack.
+192	00:00:00,000 --> 00:00:00,000	JACK	For what?
+194	00:00:00,000 --> 00:00:00,000	SAYID	For saving my life.
+196	00:00:00,000 --> 00:00:00,000		[The Temple Leader briskly walks through doors from the Temple, shoving them against the outside walls. Jack stands up.]
+198	00:00:00,000 --> 00:00:00,000	TEMPLE LEADER	Nani wa tomoare isogunda [Ã¤Â½â€¢Ã£ÂÂ¯Ã£ÂÂ¨Ã£â€šâ€šÃ£Ââ€šÃ£â€šÅ’Ã¦â‚¬Â¥Ã£ÂÂÃ£â€šâ€œÃ£ÂÂ -¢In any case, hurry up.]
+200	00:00:00,000 --> 00:00:00,000	LENNON	[translates] Mr. Jarrah, will you come with us, please?
+202	00:00:00,000 --> 00:00:00,000		[Lennon turns and starts to walk.]
+204	00:00:00,000 --> 00:00:00,000	SAYID	Come with you where?
+206	00:00:00,000 --> 00:00:00,000	LENNON	Inside. Nothing to worry about we just...
+208	00:00:00,000 --> 00:00:00,000	JACK	[interrupts] I'm coming with him.
+210	00:00:00,000 --> 00:00:00,000	LENNON	Oh, I'm sorry. We need to talk to him alone, just a few questions.
+212	00:00:00,000 --> 00:00:00,000	JACK	You have a few questions? Well, so do we. Let's start with who are you? Why are you holding us here? You ...
+214	00:00:00,000 --> 00:00:00,000	TEMPLE LEADER	Kono otoko wo damarasero [Ã£Ââ€œÃ£ÂÂ®Ã§â€Â·Ã£â€šâ€™Ã©Â»â„¢Ã£â€šâ€°Ã£Ââ€ºÃ£â€šÂ-¢Shut him up.] [interrupts]
+216	00:00:00,000 --> 00:00:00,000	LENNON	[translating] [pause] Once we've spoken to Mr. Jarrah, we'll be more than happy to tell you everything you want to know.
+218	00:00:00,000 --> 00:00:00,000	JACK	Something tells me that you're not going to be happy telling us anything.
+220	00:00:00,000 --> 00:00:00,000		[Jack looks into the eyes of the Temple Leader.]
+222	00:00:00,000 --> 00:00:00,000	TEMPLE LEADER	Tsurete ike [Ã©â‚¬Â£Ã£â€šÅ’Ã£ÂÂ¦Ã£Ââ€žÃ£Ââ€˜-¢Take him away.]
+224	00:00:00,000 --> 00:00:00,000		[Immediately, 2 men with the Temple Leader grab Jack by his arms and start to beat him. Another man goes after Miles. Two gun shots are heard.]
+226	00:00:00,000 --> 00:00:00,000	TEMPLE LEADER	Yamero! [Ã¦Â­Â¢Ã£â€šÂÃ£â€šÂÃ¯Â¼Â-¢Stop it!]
+228	00:00:00,000 --> 00:00:00,000		[As turn to see who shot a gun, they see Sawyer who is cocking his gun, loading another bullet into the chamber.]
+230	00:00:00,000 --> 00:00:00,000	LENNON	[translates] Don't shoot! Lower your weapons!
+232	00:00:00,000 --> 00:00:00,000		[Lennon walks towards Sawyer then stops. Sawyer is aiming his gun at Lennon.]
+234	00:00:00,000 --> 00:00:00,000	LENNON	Please, you don't have to do this. We won't hurt your friend.
+236	00:00:00,000 --> 00:00:00,000	SAWYER	[looking at Sayid] He ain't my friend. Do what you want with him and anybody else. But me, I'm walking out of here.
+238	00:00:00,000 --> 00:00:00,000		[Kate walks forward. Sawyer is aiming at her.]
+240	00:00:00,000 --> 00:00:00,000	KATE	James.
+242	00:00:00,000 --> 00:00:00,000	SAWYER	I'm gone! You understand?
+244	00:00:00,000 --> 00:00:00,000		[Sawyer maintains aiming the gun as he lifts beams of wood that are barricading the large wooden doors.]
+246	00:00:00,000 --> 00:00:00,000	TEMPLE LEADER	Please. [pause] You have to stay.
+248	00:00:00,000 --> 00:00:00,000	SAWYER	[angered] No, I don't.
+250	00:00:00,000 --> 00:00:00,000		[Sawyer opens the wooden door and exits the courtyard.]
+252	00:00:00,000 --> 00:00:00,000	SAWYER	[to Kate] Don't come after me.
+254	00:00:00,000 --> 00:00:00,000		[Sawyer closes the door behind him.]
+256	00:00:00,000 --> 00:00:00,000		[Two men drag Sayid away. The Temple Leader follows as does Lennon.]
+258	00:00:00,000 --> 00:00:00,000	TEMPLE LEADER	Jarrah wa hikiuketa [Ã£â€šÂ¸Ã£Æ’Â£Ã£Æ’Â©Ã£Æ’Â¼Ã£ÂÂ¯Ã¥Â¼â€¢Ã£ÂÂÃ¥Ââ€”Ã£Ââ€˜Ã£ÂÅ¸] Nani wo shitemo kamawan [Ã¤Â½â€¢Ã£â€šâ€™Ã£Ââ€”Ã£ÂÂ¦Ã£â€šâ€šÃ¦Â§â€¹Ã£â€šÂÃ£â€šâ€œ] Ford wo tsuremodose.[Ã£Æ’â€¢Ã£â€šÂ©Ã£Æ’Â¼Ã£Æ’â€°Ã£â€šâ€™Ã©â‚¬Â£Ã£â€šÅ’Ã¦Ë†Â»Ã£Ââ€ºÃ£â‚¬â€š]
+260	00:00:00,000 --> 00:00:00,000		[Two men are restraining Jack. He struggles to get out of their grasp, unsuccessfully. Two other men drag Miles away through a different passageway.]
+262	00:00:00,000 --> 00:00:00,000	JACK	Hey! Hey! Where are they taking Sayid.
+264	00:00:00,000 --> 00:00:00,000		[Another man shouts over everyone. He aims a handgun at Jack.]
+266	00:00:00,000 --> 00:00:00,000	ALDO	Hey! Calm down! Everybody calm down.
+268	00:00:00,000 --> 00:00:00,000	LENNON	[to Jack] Where'd Ford go?
+270	00:00:00,000 --> 00:00:00,000	JACK	What?
+272	00:00:00,000 --> 00:00:00,000	LENNON	Ford, your friend who just ran outta here. Where did he go?
+274	00:00:00,000 --> 00:00:00,000	JACK	I don't know.
+276	00:00:00,000 --> 00:00:00,000	LENNON	Do you expect me to believe that?
+278	00:00:00,000 --> 00:00:00,000	JACK	He told me he wanted to kill me. You believe that?
+280	00:00:00,000 --> 00:00:00,000	KATE	I can bring him back.
+282	00:00:00,000 --> 00:00:00,000	LENNON	You know where he went?
+284	00:00:00,000 --> 00:00:00,000	KATE	No, but I can track him. Let me go. I will bring him back and I can make him stay.
+286	00:00:00,000 --> 00:00:00,000	JACK	Kate, you sure you want to go out there alone with these people?
+288	00:00:00,000 --> 00:00:00,000	JIN	I'll go with her.
+290	00:00:00,000 --> 00:00:00,000	LENNON	It's very important that he get back here safely. What makes you think he's going to listen to you?
+292	00:00:00,000 --> 00:00:00,000	KATE	I can be very convincing when I wanna be.
+294	00:00:00,000 --> 00:00:00,000		[Flash sideways - Kate speeds the cab to a repair shop. She stops and quickly gets out. A radio is playing indistinctly in the background. The sound of a man is using a grinding/sanding tool drowns out the music. Sparks are flying about as Kate enters the garage aiming the gun at the repairman. The man stops working and takes off his goggles.]
+296	00:00:00,000 --> 00:00:00,000	KATE	Where's your tire hammer?
+298	00:00:00,000 --> 00:00:00,000	REPAIRMAN	You've got a problem.
+300	00:00:00,000 --> 00:00:00,000	KATE	So do you. Where's your tire hammer?
+302	00:00:00,000 --> 00:00:00,000	REPAIRMAN	Tire hammer will just cut off your wrist. The problem is you need a punch press and you're not gonna be able to use one of them and keep that gun pointed at me.
+304	00:00:00,000 --> 00:00:00,000	KATE	You volunteering?
+306	00:00:00,000 --> 00:00:00,000	REPAIRMAN	I got a steady hand but I kinda feel like we got off on the wrong foot.
+308	00:00:00,000 --> 00:00:00,000	KATE	I'll give you two hundred dollars.
+310	00:00:00,000 --> 00:00:00,000		[The scene changes to a table where Kate has the handcuffs steady and the repairman has the tip of a punch press in the ring that holds the cuff together.]
+312	00:00:00,000 --> 00:00:00,000	REPAIRMAN	Now hold still.
+314	00:00:00,000 --> 00:00:00,000		[The repairman applies pressure and the handcuffs come off. Kate tosses them in the trash.]
+316	00:00:00,000 --> 00:00:00,000	KATE	Thanks.
+318	00:00:00,000 --> 00:00:00,000	REPAIRMAN	So why the bracelets?
+320	00:00:00,000 --> 00:00:00,000	KATE	I'm wanted for murder.
+322	00:00:00,000 --> 00:00:00,000	REPAIRMAN	Murder?
+324	00:00:00,000 --> 00:00:00,000	KATE	You don't happen to have somewhere I can change, do you?
+326	00:00:00,000 --> 00:00:00,000	REPAIRMAN	[laughs and points.] Bathroom's over there. Make it quick.
+328	00:00:00,000 --> 00:00:00,000	KATE	Thank you.
+330	00:00:00,000 --> 00:00:00,000		[Kate turns and walks toward the bathroom and stops in a back room. She takes off her jacket and opens the tote bag that belonged to Claire. As she unzips it she sees a Polaroid picture of Claire, smiling, holding and pointing to her pregnant belly. Kate picks up the picture and stares. Everything she takes out is for a baby, wash cloths, bottle, and a stuffed whale toy which she stares at. She puts it down and runs her hand through her hair as she looks in a mirror. A faint sound, similar to a time skip is heard.]
+332	00:00:00,000 --> 00:00:00,000		[On-Island - At the Temple. Kate is packing her backpack as Aldo walks up and hands her a canteen.]
+334	00:00:00,000 --> 00:00:00,000	ALDO	Better not slow us down.
+336	00:00:00,000 --> 00:00:00,000	KATE	[quietly] Better not slow me down.
+338	00:00:00,000 --> 00:00:00,000		[Jin looks at Kate as he finishes packing his backpack. Kate zippers her backpack closed. Jack walks over and sits next to Kate.]
+340	00:00:00,000 --> 00:00:00,000	JACK	I'd go with you but..
+342	00:00:00,000 --> 00:00:00,000	KATE	...but you thought he would kill you?
+344	00:00:00,000 --> 00:00:00,000		[Jack shrugs his shoulders and chuckles.]
+346	00:00:00,000 --> 00:00:00,000	KATE	I'll take care of James. You take care of Sayid.
+348	00:00:00,000 --> 00:00:00,000	JACK	[nods] Deal.
+350	00:00:00,000 --> 00:00:00,000		[They all stand up. Jin exits the chamber first. As Kate walks away Jack grabs her arm. She stops.]
+352	00:00:00,000 --> 00:00:00,000	KATE	Good bye.
+354	00:00:00,000 --> 00:00:00,000	JACK	Be careful.
+356	00:00:00,000 --> 00:00:00,000		[Jacks moves to try to see if Kate will kiss him however she turns and walks out of the chamber.]
+358	00:00:00,000 --> 00:00:00,000		[The scene switches to another chamber. Sayid is strapped down on a examination table with his shirt pulled to expose his chest and abdominal area. He has a leather strap buckled to keep his head still. The Temple Leader opens a canister of powder and walks over to Sayid. He blows some of the powder over Sayid's chest and abdomen. He watches for a reaction.]
+360	00:00:00,000 --> 00:00:00,000	SAYID	What is it you want? Please, whatever you are thinking of doing [pause] What is that?
+362	00:00:00,000 --> 00:00:00,000		[Sayid is frightened as he watches the Temple Leader bring three exposed wires and attaches one to each nipple and a third to his abdomen.]
+364	00:00:00,000 --> 00:00:00,000	SAYID	Just tell me what you want.
+366	00:00:00,000 --> 00:00:00,000		[The Temple Leader walks over to an apparatus with a handle and begins to crank it. When he stops cranking, he flips a switch and a red light shines. He looks at Sayid then turns a knob quickly. Sayid is being shocked. His body quivers as he grinds his teeth. The temple leader then turns the knob fully. As Sayid begins to scream, the leader shuts off the apparatus and removes the electrical leads.]
+368	00:00:00,000 --> 00:00:00,000	SAYID	[whimpering] Why? Why are you doing this?
+370	00:00:00,000 --> 00:00:00,000		[The leader does not respond. He rubs the receptacle that is hanging around his neck then walks to a fire pit and twists a metal arrow in the fire then removes it and walks back to Sayid.]
+372	00:00:00,000 --> 00:00:00,000	SAYID	I don't have any secrets. Ask, AHHH!
+374	00:00:00,000 --> 00:00:00,000		[The leader places the hot iron to Sayid's wound. Sayid screams in agony.]
+376	00:00:00,000 --> 00:00:00,000	SAYID	Ahhhhh! [sobs] Ahhh! [raises he shoulders from the table and cries out. The leader pays close attention to Sayid's reaction. The leader pulls the iron from Sayid who falls back onto the table.]
+378	00:00:00,000 --> 00:00:00,000	SAYID	Ugh! Ugh!! Ugh!
+380	00:00:00,000 --> 00:00:00,000	TEMPLE LEADER	Yoshi,korede juubun da [Ã£â€šË†Ã£Ââ€”Ã£â‚¬ÂÃ£Ââ€œÃ£â€šÅ’Ã£ÂÂ§Ã¥â€¦â€¦Ã¥Ë†â€ Ã£ÂÂ ] Shiken ni tootta to ie [Ã¨Â©Â¦Ã©Â¨â€œÃ£ÂÂ«Ã©â‚¬Å¡Ã£ÂÂ£Ã£ÂÅ¸Ã£ÂÂ¨Ã¨Â¨â‚¬Ã£ÂË†-¢You can tell him from me to "you passed the test".]
+382	00:00:00,000 --> 00:00:00,000		[Sayid is crying. Lennon motions for two men to come to the table as he unbuckles the restraints holding Sayid.]
+384	00:00:00,000 --> 00:00:00,000	LENNON	We're sorry we had to put you through that. It was a test. We had to be sure.
+386	00:00:00,000 --> 00:00:00,000	SAYID	Test to be sure of what?
+388	00:00:00,000 --> 00:00:00,000	LENNON	Don't worry. You passed.
+390	00:00:00,000 --> 00:00:00,000		[The two men help Sayid from the table and escort him from the chamber.]
+392	00:00:00,000 --> 00:00:00,000	LENNON	I just lied to him, didn't I?
+394	00:00:00,000 --> 00:00:00,000	TEMPLE LEADER	Yes.
+396	00:00:00,000 --> 00:00:00,000		[The leader returns to writing at his desk.]
+398	00:00:00,000 --> 00:00:00,000		[Flash sideways - Kate pulls the cab to the curb where Claire is sitting on a bench. Kate gets out of the cab and walks over to Claire.]
+400	00:00:00,000 --> 00:00:00,000	KATE	Where were you going?
+402	00:00:00,000 --> 00:00:00,000	CLAIRE	What?
+404	00:00:00,000 --> 00:00:00,000	KATE	Before I got in the cab, where were you going?
+406	00:00:00,000 --> 00:00:00,000	CLAIRE	Why, so you can hijack them too?
+408	00:00:00,000 --> 00:00:00,000		[Kate takes Claire's purse and tote from the trunk of the cab and gives them to Claire.]
+410	00:00:00,000 --> 00:00:00,000	CLAIRE	I was waiting for a bus.
+412	00:00:00,000 --> 00:00:00,000	KATE	I came to bring you your stuff.
+414	00:00:00,000 --> 00:00:00,000		[Claire immediately looks in her purse.]
+416	00:00:00,000 --> 00:00:00,000	KATE	Relax, I didn't take your money.
+418	00:00:00,000 --> 00:00:00,000	CLAIRE	Well, uh, gee, thanks.
+420	00:00:00,000 --> 00:00:00,000	KATE	So where were you going?
+422	00:00:00,000 --> 00:00:00,000		[Claire stands up and starts to walk away.]
+424	00:00:00,000 --> 00:00:00,000	CLAIRE	Don't worry about it.
+426	00:00:00,000 --> 00:00:00,000	KATE	Fine.
+428	00:00:00,000 --> 00:00:00,000		[Kate closes the trunk then walks back around the cab and starts to get in the driver's side. Claire watches as she closes the trunk.]
+430	00:00:00,000 --> 00:00:00,000	CLAIRE	Langdon street. Brentwood.
+432	00:00:00,000 --> 00:00:00,000	KATE	You got family there?
+434	00:00:00,000 --> 00:00:00,000	CLAIRE	Uh, no. It's the couple who's adopting my baby. [pause] They were, um, they were meant to meet me at the airport but I guess they got their days mixed up or something. It's not like they abandoned me.
+436	00:00:00,000 --> 00:00:00,000	KATE	Brentwood's not far. Get in.
+438	00:00:00,000 --> 00:00:00,000	CLAIRE	[scoffs] Seriously?
+440	00:00:00,000 --> 00:00:00,000	KATE	Do you want a ride or not?
+442	00:00:00,000 --> 00:00:00,000		[Claire is unsure however she slowly gets in the front seat of the cab.]
+444	00:00:00,000 --> 00:00:00,000		[On-Island - In the jungle, Kate, Jin, Justin and Aldo are hiking to get Sawyer back to the Temple.]
+446	00:00:00,000 --> 00:00:00,000	KATE	So why do you people want us to stay at the temple?
+448	00:00:00,000 --> 00:00:00,000	ALDO	We're protecting you.
+450	00:00:00,000 --> 00:00:00,000	KATE	From what?
+452	00:00:00,000 --> 00:00:00,000	ALDO	You've been on this island for a while, right? Ever see a big pillar of black smoke, makes a ticka ticka sound, looks pissed off?
+454	00:00:00,000 --> 00:00:00,000	KATE	Yes.
+456	00:00:00,000 --> 00:00:00,000	ALDO	From that.
+458	00:00:00,000 --> 00:00:00,000	JIN	Do you know anything about another plane coming in? An Ajira flight.
+460	00:00:00,000 --> 00:00:00,000	ALDO	I'm sorry. Is this a press conference?
+462	00:00:00,000 --> 00:00:00,000	JUSTIN	I think he means the one that landed...
+464	00:00:00,000 --> 00:00:00,000	ALDO	Justin! Shut up.
+466	00:00:00,000 --> 00:00:00,000		[Justin stops speaking, looks at Aldo and continues walking. Jin looks at Justin and continues to walk. Kate is crouched down looking at two trails.]
+468	00:00:00,000 --> 00:00:00,000	KATE	No, no, no, that's a decoy trail. He went this way.
+470	00:00:00,000 --> 00:00:00,000	ALDO	And you're basing this on what?
+472	00:00:00,000 --> 00:00:00,000	KATE	[firmly] Experience.
+474	00:00:00,000 --> 00:00:00,000	JUSTIN	Aldo.
+476	00:00:00,000 --> 00:00:00,000	ALDO	What?
+478	00:00:00,000 --> 00:00:00,000	JUSTIN	I think she's right.
+480	00:00:00,000 --> 00:00:00,000	ALDO	[sarcastically] Of course she is.
+482	00:00:00,000 --> 00:00:00,000		[Kate begins walking.]
+484	00:00:00,000 --> 00:00:00,000	ALDO	After you, princess. [pause] So what's your strategy for bringing your boyfriend back? I hope you got one because he shot a guy on his way out. If he tries that on me, I'm gonna blow his head off.
+486	00:00:00,000 --> 00:00:00,000		[Kate drinks from her canteen and continues walking. Justin immediately stops her.]
+488	00:00:00,000 --> 00:00:00,000	JUSTIN	Watch it!
+490	00:00:00,000 --> 00:00:00,000		[Kate looks down and sees a trip wire made from a tree branch. She takes a deep breath.]
+492	00:00:00,000 --> 00:00:00,000	KATE	Thank you.
+494	00:00:00,000 --> 00:00:00,000		[They all look up to see a net full of rocks hanging from a tree.]
+496	00:00:00,000 --> 00:00:00,000	JIN	Looks like one of Rousseau's traps.
+498	00:00:00,000 --> 00:00:00,000	JUSTIN	The French woman? She's been dead for years. This, this couldn't be one ...
+500	00:00:00,000 --> 00:00:00,000	ALDO	Justin! Shut up!
+502	00:00:00,000 --> 00:00:00,000		[Kate walks up to Aldo and shoves her canteen into his chest.]
+504	00:00:00,000 --> 00:00:00,000	KATE	What was he gonna say?
+506	00:00:00,000 --> 00:00:00,000	ALDO	You don't even remember me, do you? You don't recognize me? Well maybe this will jog you memory. Three years ago, you staged yourself a little prison break, [Kate drinks from her canteen] and you did it by knocking the guard out with the butt of your rifle. That would be me.
+508	00:00:00,000 --> 00:00:00,000		[Kate takes a swing at Aldo's head with her canteen and he falls to the ground. Justin takes a step toward Kate. She throws her canteen at the trip wire/branch and hits it. The netting holding the rocks comes down and swings to one side. On the return swing it opens and the rocks come falling down onto Justin. Kate grabs Aldo's gun from the ground, checks to see how many rounds are in the magazine, and puts the magazine back into the gun handle then picks up Justin's rifle.]
+510	00:00:00,000 --> 00:00:00,000	JIN	What are you doing?
+512	00:00:00,000 --> 00:00:00,000	KATE	Escaping.
+514	00:00:00,000 --> 00:00:00,000		[Back at the Temple chamber with the spring. Two men are dragging Sayid. Hurley rushes to Sayid and they give him Sayid.
+516	00:00:00,000 --> 00:00:00,000	HURLEY	Sayid! You okay, man? Jack! He's back!
+518	00:00:00,000 --> 00:00:00,000		[Sayid grunts as he collapses into Hurley and Miles' arms. They sit him down and lean his back on a stone pillar. Sayid groans in pain.]
+520	00:00:00,000 --> 00:00:00,000	JACK	Sayid, what happened?
+522	00:00:00,000 --> 00:00:00,000	SAYID	They tortured me.
+524	00:00:00,000 --> 00:00:00,000	JACK	Why?
+526	00:00:00,000 --> 00:00:00,000	SAYID	Don't know. They didn't ask me any questions.
+528	00:00:00,000 --> 00:00:00,000		[Jack leaves Sayid with Hurley and Miles. He walks briskly and stops in front of a doorway that is guarded by 2 armed men.]
+530	00:00:00,000 --> 00:00:00,000	JACK	Step aside.
+532	00:00:00,000 --> 00:00:00,000		[The two men allow Jack to pass.]
+534	00:00:00,000 --> 00:00:00,000		[The scene switches to a chamber where Temple Leader is using a mortar and pestle. Jack enters the chamber. The Temple leader stops for a moment. Lennon is off to the side near a bookcase. He is standing with an open book in his right hand.]
+536	00:00:00,000 --> 00:00:00,000	LENNON	Hey, Shephard.
+538	00:00:00,000 --> 00:00:00,000		[Lennon closes the book at walks toward the Temple leader.]
+540	00:00:00,000 --> 00:00:00,000	LENNON	We were hoping you'd come on your own.
+542	00:00:00,000 --> 00:00:00,000		[Jack points back to the water chamber.]
+544	00:00:00,000 --> 00:00:00,000	JACK	What the hell did you do to Sayid?
+546	00:00:00,000 --> 00:00:00,000	LENNON	We, we didn't do anything to him. Your, your friend is sick.
+548	00:00:00,000 --> 00:00:00,000	JACK	Sick with what?
+550	00:00:00,000 --> 00:00:00,000	TEMPLE LEADER	Kare wa kegasarete shimatta [Ã¥Â½Â¼Ã£ÂÂ¯Ã§Â©Â¢Ã£Ââ€¢Ã£â€šÅ’Ã£ÂÂ¦Ã£Ââ€”Ã£ÂÂ¾Ã£ÂÂ£Ã£ÂÅ¸[1]]
+552	00:00:00,000 --> 00:00:00,000	LENNON	He's [pause] yeah, I, [pause] not really [pause] there's not really a literal translation. The closest thing would be [pause] infected.
+554	00:00:00,000 --> 00:00:00,000	JACK	Infected? He's not even running a fever.
+556	00:00:00,000 --> 00:00:00,000		[The Temple Leader chuckles and continues work. Jack walks to the leader.]
+558	00:00:00,000 --> 00:00:00,000	JACK	Did I say something funny?
+560	00:00:00,000 --> 00:00:00,000	LENNON	I doubt it. He doesn't really have a sense of humor.
+562	00:00:00,000 --> 00:00:00,000		[The Temple Leader smiles and wraps a capsule in a piece of paper.
+564	00:00:00,000 --> 00:00:00,000	TEMPLE LEADER	Korewo Jarrah ni nomasete moraou[Ã£Ââ€œÃ£â€šÅ’Ã£â€šâ€™Ã£â€šÂ¸Ã£Æ’Â£Ã£Æ’Â©Ã£Æ’Â¼Ã£ÂÂ«Ã©Â£Â²Ã£ÂÂ¾Ã£Ââ€ºÃ£ÂÂ¦Ã£â€šâ€šÃ£â€šâ€°Ã£ÂÅ Ã£Ââ€ -¢You have to give Jarrah this pill.]
+566	00:00:00,000 --> 00:00:00,000	LENNON	He says you have to give your friend this pill.
+568	00:00:00,000 --> 00:00:00,000	JACK	[laughs] Are you serious?
+570	00:00:00,000 --> 00:00:00,000		[The paper with the capsule is again offered to Jack.]
+572	00:00:00,000 --> 00:00:00,000	JACK	Why don't you give it to him?
+574	00:00:00,000 --> 00:00:00,000	LENNON	Because it won't work unless he takes it willingly, and he won't take it willingly from us.
+576	00:00:00,000 --> 00:00:00,000	JACK	Well, then maybe you should've asked him to take it before you tortured him.
+578	00:00:00,000 --> 00:00:00,000	LENNON	We didn't torture him. We were diagnosing him.
+580	00:00:00,000 --> 00:00:00,000	JACK	To see if he was infected.
+582	00:00:00,000 --> 00:00:00,000	LENNON	Yes.
+584	00:00:00,000 --> 00:00:00,000	JACK	I'm not gonna give anything to Sayid unless I know what's in it.
+586	00:00:00,000 --> 00:00:00,000		[Jack starts to walk out the chamber. Lennon starts to follow him but is stopped by the leader.]
+588	00:00:00,000 --> 00:00:00,000	TEMPLE LEADER	Tell me, Shephard, your friend, how did he get shot?
+590	00:00:00,000 --> 00:00:00,000	JACK	He was, um, he was helping me.
+592	00:00:00,000 --> 00:00:00,000	TEMPLE LEADER	So it was your fault?
+594	00:00:00,000 --> 00:00:00,000	JACK	Yes.
+596	00:00:00,000 --> 00:00:00,000	TEMPLE LEADER	And there have been others who were hurt or died, helping you?
+598	00:00:00,000 --> 00:00:00,000	JACK	Yes.
+600	00:00:00,000 --> 00:00:00,000	TEMPLE LEADER	[nods] Well, this is your chance to redeem yourself.
+602	00:00:00,000 --> 00:00:00,000		[The leader takes Jack's left hand, places the paper with the capsule in it, then closes Jack's hand.]
+604	00:00:00,000 --> 00:00:00,000	TEMPLE LEADER	It's medicine and your friend needs it.
+606	00:00:00,000 --> 00:00:00,000	JACK	What happens if I don't give it to him?
+608	00:00:00,000 --> 00:00:00,000	TEMPLE LEADER	The infection will spread.
+610	00:00:00,000 --> 00:00:00,000		[Back in the spring chamber, Miles and Hurley are sitting with Sayid.]
+612	00:00:00,000 --> 00:00:00,000	MILES	So, nothing? There wasn't anything? No white light? Angels singing? No dead relatives?
+614	00:00:00,000 --> 00:00:00,000	SAYID	I remember being shot.
+616	00:00:00,000 --> 00:00:00,000	HURLEY	You're not a zombie, right?
+618	00:00:00,000 --> 00:00:00,000	SAYID	No. I am not a zombie.
+620	00:00:00,000 --> 00:00:00,000		[Footsteps approach the three men. Miles turns to see Jack.]
+622	00:00:00,000 --> 00:00:00,000	MILES	Hey.
+624	00:00:00,000 --> 00:00:00,000		[Jack reaches for a canteen and takes a drink.]
+626	00:00:00,000 --> 00:00:00,000	JACK	Mind giving me and Sayid a minute?
+628	00:00:00,000 --> 00:00:00,000	HURLEY	Yeah, see, private talks kinda freak me out 'cause they lead me to having to do something I don't quite understand.
+630	00:00:00,000 --> 00:00:00,000	JACK	I'm right there with you.
+632	00:00:00,000 --> 00:00:00,000	MILES	Its fine. We'll be in the food court if you need us.
+634	00:00:00,000 --> 00:00:00,000		[Miles and Hurley walk away from Jack and Sayid. Jack sits and takes a drink from a canteen. He offers the canteen to Sayid who motions no.]
+636	00:00:00,000 --> 00:00:00,000	SAYID	So did they tell you why they burnt me with a hot poker?
+638	00:00:00,000 --> 00:00:00,000	JACK	They said they were trying to diagnose you.
+640	00:00:00,000 --> 00:00:00,000	SAYID	Right. They told me it was some sort of test which they said I passed. Clearly, I didn't.
+642	00:00:00,000 --> 00:00:00,000		[Jack unfolds the paper and exposes the capsule.]
+644	00:00:00,000 --> 00:00:00,000	SAYID	What's that?
+646	00:00:00,000 --> 00:00:00,000	JACK	They want you to take it. It's medicine, according to them.
+648	00:00:00,000 --> 00:00:00,000	SAYID	What about according to you?
+650	00:00:00,000 --> 00:00:00,000	JACK	I don't know. And you know, before when you [pause] when you thanked me for saving your life, I, I didn't have anything to do with it Sayid. I didn't fix you. They did.
+652	00:00:00,000 --> 00:00:00,000		[Jack takes the capsule in his right palm.]
+654	00:00:00,000 --> 00:00:00,000	SAYID	I don't care who fixed me. I only care about who I trust. So, if you want me to take that pill, Jack, I'll do it.
+656	00:00:00,000 --> 00:00:00,000		[Jack looks at the capsule, closes his hand and looks at Sayid.]
+658	00:00:00,000 --> 00:00:00,000		[In the jungle, Kate walks in front of Jin.]
+660	00:00:00,000 --> 00:00:00,000	JIN	Wait. Where are you going?
+662	00:00:00,000 --> 00:00:00,000	KATE	Catching up with Sawyer.
+664	00:00:00,000 --> 00:00:00,000	JIN	So you never planned to bring him back to the temple.
+666	00:00:00,000 --> 00:00:00,000	KATE	No. I'm not interested in being a prisoner. Are you?
+668	00:00:00,000 --> 00:00:00,000	JIN	Where did your plane land, Kate?
+670	00:00:00,000 --> 00:00:00,000	KATE	What?
+672	00:00:00,000 --> 00:00:00,000		[Kate stops, turns around and walks back to Jin.]
+674	00:00:00,000 --> 00:00:00,000	JIN	The Ajira plane that you, Jack and Hurley came in on. [pause] Where did it land?
+676	00:00:00,000 --> 00:00:00,000	KATE	I don't know.
+678	00:00:00,000 --> 00:00:00,000	JIN	Sun was on that plane too and I have to find her.
+680	00:00:00,000 --> 00:00:00,000	KATE	[angry] You think they're gonna tell you? You think they care about you or about Sun or about any of us?
+682	00:00:00,000 --> 00:00:00,000	JIN	Who do you care about Kate?
+684	00:00:00,000 --> 00:00:00,000	KATE	Good luck, Jin.
+686	00:00:00,000 --> 00:00:00,000		[Kate turns and walks away from Jin.]
+688	00:00:00,000 --> 00:00:00,000	JIN	Once you catch up with Sawyer, then what?
+690	00:00:00,000 --> 00:00:00,000	KATE	I guess we'll figure that out together.
+692	00:00:00,000 --> 00:00:00,000		[Flash sideways - Kate is driving Claire in the cab to Brentwood.]
+694	00:00:00,000 --> 00:00:00,000	CLAIRE	So, uh, what happened to your handcuffs?
+696	00:00:00,000 --> 00:00:00,000	KATE	I cut them off.
+698	00:00:00,000 --> 00:00:00,000		[Claire nods and says nothing. There is silence between the two women.]
+700	00:00:00,000 --> 00:00:00,000	CLAIRE	It's a beautiful neighborhood. [pause] I bet they're a really nice couple.
+702	00:00:00,000 --> 00:00:00,000		[Kate looks over at Claire who is smiling then continues to drive.]
+704	00:00:00,000 --> 00:00:00,000	CLAIRE	What?
+706	00:00:00,000 --> 00:00:00,000	KATE	I didn't say anything.
+708	00:00:00,000 --> 00:00:00,000	CLAIRE	What, you, you think they didn't come to the airport on purpose?
+710	00:00:00,000 --> 00:00:00,000	KATE	Why would I think that?
+712	00:00:00,000 --> 00:00:00,000	CLAIRE	Good, 'cause they didn't.
+714	00:00:00,000 --> 00:00:00,000		[Claire tries to keep a straight face. Kate looks over to her right.]
+716	00:00:00,000 --> 00:00:00,000	KATE	This is it.
+718	00:00:00,000 --> 00:00:00,000		[The house has a large landscaped front yard. There are various shrubs and trees close to the building. It has a large, double door entryway. Claire unbuckles her seat belt. Kate goes to hand her the paper with the address.]
+720	00:00:00,000 --> 00:00:00,000	CLAIRE	Um, will you come in with me?
+722	00:00:00,000 --> 00:00:00,000	KATE	[unsure] Are you kidding me?
+724	00:00:00,000 --> 00:00:00,000	CLAIRE	Please, I just [pause] I really don't want to go up there on my own.
+726	00:00:00,000 --> 00:00:00,000		[Kate looks at Claire. The scene changes to the front door of the house being opened by a blonde woman.]
+728	00:00:00,000 --> 00:00:00,000	CLAIRE	Uh, hi, um, Mrs. Baskum? I, I'm, I'm Claire Little ton.
+730	00:00:00,000 --> 00:00:00,000		[The woman looks at Claire's belly.]
+732	00:00:00,000 --> 00:00:00,000	MRS. BASKUM	[voice cracks] Oh, my God. [sighs and sobs] I'm so sorry. Um, [pause] my husband [looks away then looks back] he left me. [crying] And, believe me, I wanted a baby so much, but I can't do it alone. I'm sorry. Look, I know I should've called you.
+734	00:00:00,000 --> 00:00:00,000	CLAIRE	So uh, wh-what, y-y-you just changed your mind?
+736	00:00:00,000 --> 00:00:00,000	MRS. BASKUM	Um, look, my, my life is just, a little bit complicated right now.
+738	00:00:00,000 --> 00:00:00,000		[Claire is very upset. Kate has been watching Claire and the way Mrs. Baskum has been treating her.]
+740	00:00:00,000 --> 00:00:00,000	KATE	[angry] She came all the way from Australia and you don't call?
+742	00:00:00,000 --> 00:00:00,000	CLAIRE	Oh my God.
+744	00:00:00,000 --> 00:00:00,000		[Claire grabs her belly and begins to groan.]
+746	00:00:00,000 --> 00:00:00,000	KATE	[to Claire] Are you okay?
+748	00:00:00,000 --> 00:00:00,000	CLAIRE	Aah! It's coming!
+750	00:00:00,000 --> 00:00:00,000		[On-Island - Kate exits the jungle at the Barracks. She readies her gun. The picket fence is broken in places. The swings move in the breeze. Some of the barracks look abandoned and others look intact. Kate walks around then hears noise from one of the barracks. She goes to investigate. The noise continues. She enters the home of Sawyer and Juliet. Carefully she moves about trying to find the source of the noise. She stops at the door to the bedroom. Sawyer has moved a dresser to the side and is prying open the floorboards with a crowbar. He retrieves a shoe box then sits on the foot of the bed. He brushes off the dust and opens the box. He takes out a very small black drawstring bag. He cries as he holds it ever so tightly. Kate watches. As she turns and walks away, the floorboards creak and Sawyer is standing up in a flash, cocking and aiming the gun at the door.]
+752	00:00:00,000 --> 00:00:00,000	SAWYER	Who's there? Better come out now or so help me, I'm just gonna start shootin'.
+754	00:00:00,000 --> 00:00:00,000		[Sawyer is in the hallway, lowering his gun when he sees Kate.]
+756	00:00:00,000 --> 00:00:00,000	SAWYER	What the hell are you doin' here?
+758	00:00:00,000 --> 00:00:00,000	KATE	I was worried about you.
+760	00:00:00,000 --> 00:00:00,000		[Kate turns to face Sawyer. Sawyer angrily and quickly walks past her, and doesn't look at her. Kate turns and watches him leave the house.]
+762	00:00:00,000 --> 00:00:00,000		[Flash sideways - Kate speeds to the emergency room entrance of a hospital and gets out of the cab. She secures the gun in the back of her pants. Kate runs around to the other side of the cab and helps Claire out of the back seat. A nurse with a wheelchair stops next to them.]
+764	00:00:00,000 --> 00:00:00,000	NURSE	What's happening here?
+766	00:00:00,000 --> 00:00:00,000	CLAIRE	I-I think I'm having contractions.
+768	00:00:00,000 --> 00:00:00,000	NURSE	When did they start?
+770	00:00:00,000 --> 00:00:00,000	CLAIRE	Um, about three minutes ago.
+772	00:00:00,000 --> 00:00:00,000	NURSE	Try to relax. We're gonna take you to the M.C.U to get it looked at.
+774	00:00:00,000 --> 00:00:00,000		[Kate follows with Claire's purse and tote bag. She sees a police car turning the corner.]
+776	00:00:00,000 --> 00:00:00,000	NURSE	[to Kate] Are you with her?
+778	00:00:00,000 --> 00:00:00,000	KATE	Yeah.
+780	00:00:00,000 --> 00:00:00,000	NURSE	Okay, follow me.
+782	00:00:00,000 --> 00:00:00,000		[Claire is in a hospital bed and a different nurse is attempting to get a blood pressure cuff on her. Claire is quite upset. A monitor is beeping.]
+784	00:00:00,000 --> 00:00:00,000	CLAIRE	What are you doing? What, what's going on?
+786	00:00:00,000 --> 00:00:00,000	NURSE 2	Hold on. The doctor will be with you in just a moment.
+788	00:00:00,000 --> 00:00:00,000	CLAIRE	I need to know what's going on? Is something wrong?
+790	00:00:00,000 --> 00:00:00,000		[Kate leaves the OB Triage and locates a doctor.]
+792	00:00:00,000 --> 00:00:00,000	KATE	Excuse me. Excuse me.
+794	00:00:00,000 --> 00:00:00,000	DOCTOR GOODSPEED	Yes.
+796	00:00:00,000 --> 00:00:00,000	KATE	Are you a doctor?
+798	00:00:00,000 --> 00:00:00,000	DOCTOR GOODSPEED	Yes. I'm Dr. Goodspeed.
+800	00:00:00,000 --> 00:00:00,000	KATE	Can I please get your help in here?
+802	00:00:00,000 --> 00:00:00,000		[Kate and Dr. Goodspeed go back into the OB Triage. A monitor is beeping rapidly. Dr. Goodspeed reads Claire's chart.]
+804	00:00:00,000 --> 00:00:00,000	DOCTOR GOODSPEED	Miss Littleton? Claire, how are you feeling?
+806	00:00:00,000 --> 00:00:00,000	CLAIRE	Uncomfortable. What, wh-what's happening.
+808	00:00:00,000 --> 00:00:00,000	DOCTOR GOODSPEED	What's happening is that Mother Nature's gotten a little ahead of herself. Are you ready to have your baby?
+810	00:00:00,000 --> 00:00:00,000	CLAIRE	I-I'm sorry. What?!
+812	00:00:00,000 --> 00:00:00,000	DOCTOR GOODSPEED	You're at thirty six weeks, three centimeters dilated and about 80% effaced, which means, if you want, you can have your baby tonight.
+814	00:00:00,000 --> 00:00:00,000	CLAIRE	If I want? So what, you mean, you mean you can stop it then?
+816	00:00:00,000 --> 00:00:00,000	DOCTOR GOODSPEED	Maybe. However, to do that would require a number of drugs.
+818	00:00:00,000 --> 00:00:00,000	CLAIRE	Drugs? I mean. W-will that hurt the baby?
+820	00:00:00,000 --> 00:00:00,000	DOCTOR GOODSPEED	No. They're perfectly safe. I just don't want to stick you with needles if I don't have to. So it's up to you.
+822	00:00:00,000 --> 00:00:00,000	CLAIRE	I'm, I'm not ready.
+824	00:00:00,000 --> 00:00:00,000	DOCTOR GOODSPEED	Okay. Let's get her started on the Nifedipine drip.
+826	00:00:00,000 --> 00:00:00,000		[The monitor emits a steady tone. Kate stops looking at Dr. Goodspeed and quickly looks at Claire.]
+828	00:00:00,000 --> 00:00:00,000	CLAIRE	Wh, what, what is it?
+830	00:00:00,000 --> 00:00:00,000	DOCTOR GOODSPEED	[to nurse 2] Margaret, let's do an ultrasound. I wanna get a picture of what's going on in there. [to Claire] Ah, it, it could just mean the baby's out of position.
+832	00:00:00,000 --> 00:00:00,000	CLAIRE	Wh-wh-what are you, what are you saying?! W-what, what's happening to my baby?! [crying] Is my baby okay? Is Aaron okay?
+834	00:00:00,000 --> 00:00:00,000		[Kate looks at Claire with eyes wide open as Dr. Goodspeed takes the ultrasound detector and puts gel on and moves it along on Claire's baby.]
+836	00:00:00,000 --> 00:00:00,000	DOCTOR GOODSPEED	See? [chuckles] There he is. Everything is just fine. [Monitor returns to beeping.] Your boy just likes to move around.
+838	00:00:00,000 --> 00:00:00,000		[Claire and the doctor chuckle as Kate stands confused a bit.]
+840	00:00:00,000 --> 00:00:00,000	DOCTOR GOODSPEED	140 B.P.M, perfectly normal. I have a feeling that Aaron is gonna be a handful.
+842	00:00:00,000 --> 00:00:00,000		[Claire chuckles.]
+844	00:00:00,000 --> 00:00:00,000	DOCTOR GOODSPEED	Now let's see if we can slow this down.
+846	00:00:00,000 --> 00:00:00,000		[Claire nods.]
+848	00:00:00,000 --> 00:00:00,000	DOCTOR GOODSPEED	You did great, mommy. Thanks.
+850	00:00:00,000 --> 00:00:00,000		[Claire smiles at Kate, who is holding her hand.]
+852	00:00:00,000 --> 00:00:00,000		[Sawyer is sitting on the end of the dock at the Barracks. He sighs. Kate walks up sits next to him.]
+854	00:00:00,000 --> 00:00:00,000	KATE	A couple days ago, you asked me why I came back to the island. [pause] I need to find Claire. I thought [pause] maybe if I could catch up to you, you could help me, and then [pause] maybe if we could find her and bring her back to Aaron, then maybe all of this wouldn't be for nothing.
+856	00:00:00,000 --> 00:00:00,000		[Sawyer exhales deeply.]
+858	00:00:00,000 --> 00:00:00,000	KATE	I'm sorry. I never should have followed you.
+860	00:00:00,000 --> 00:00:00,000	SAWYER	Which time?
+862	00:00:00,000 --> 00:00:00,000	KATE	[pointing] That was your house, right? With Juliet.
+864	00:00:00,000 --> 00:00:00,000	SAWYER	[holding back tears] Yep.
+866	00:00:00,000 --> 00:00:00,000	KATE	I'm sorry.
+868	00:00:00,000 --> 00:00:00,000	SAWYER	You already said that.
+870	00:00:00,000 --> 00:00:00,000	KATE	No [pause] for Juliet. If I hadn't come after you on the sub, then you two would've left and she would've never died.
+872	00:00:00,000 --> 00:00:00,000	SAWYER	It's not your fault she's dead. It's mine. [eye welling with tears] She was sittin' right there, right where you are now, tryin' to leave this place. And I convinced her to stay. I made her stay on this island [crying] 'cause I didn't want to be alone. [deep breath] You understand that, right?
+874	00:00:00,000 --> 00:00:00,000		[Sawyer and Kate just look at each other.]
+876	00:00:00,000 --> 00:00:00,000	SAWYER	But, uh, [pause] but I think some of us are meant to be alone.
+878	00:00:00,000 --> 00:00:00,000		[Sawyer is rubbing a diamond ring with his fingers.]
+880	00:00:00,000 --> 00:00:00,000	SAWYER	I was gonna ask her to marry me.
+882	00:00:00,000 --> 00:00:00,000		[Kate looks away. She was not expecting this from Sawyer. Still crying, Sawyer stands up on the pier and throws the ring into the water as Kate watches.]
+884	00:00:00,000 --> 00:00:00,000	SAWYER	You can probably make it back to the Temple by nightfall.
+886	00:00:00,000 --> 00:00:00,000		[Sawyer walks back along the pier. Kate begins to cry.]
+888	00:00:00,000 --> 00:00:00,000		[Back in the Temple Leader's chamber. He is sitting at his desk spinning a baseball on top. Jack enters the chamber.]
+890	00:00:00,000 --> 00:00:00,000	JACK	What's that?
+892	00:00:00,000 --> 00:00:00,000	TEMPLE LEADER	It's a baseball.
+894	00:00:00,000 --> 00:00:00,000		[Jack sits in a chair in front of the desk.]
+896	00:00:00,000 --> 00:00:00,000	JACK	You speak pretty good English for someone who needs a translator.
+898	00:00:00,000 --> 00:00:00,000	TEMPLE LEADER	We both know that I don't need a translator.
+900	00:00:00,000 --> 00:00:00,000	JACK	Then why do you have one?
+902	00:00:00,000 --> 00:00:00,000	TEMPLE LEADER	Because I have to remain separate from the people I'm in charge of. It makes it easier when they don't like the decisions I make for them.
+904	00:00:00,000 --> 00:00:00,000	JACK	Who are you?
+906	00:00:00,000 --> 00:00:00,000	DOGEN	My name is Dogen.
+908	00:00:00,000 --> 00:00:00,000	JACK	Are you from here, the island?
+910	00:00:00,000 --> 00:00:00,000	DOGEN	I was brought here like everyone else.
+912	00:00:00,000 --> 00:00:00,000	JACK	What do you mean, "Brought here."?
+914	00:00:00,000 --> 00:00:00,000	DOGEN	You know exactly what I mean.
+916	00:00:00,000 --> 00:00:00,000		[Jack stands up and walks away from the desk. Dogen gets up also.]
+918	00:00:00,000 --> 00:00:00,000	DOGEN	You didn't give your friend the pill, did you?
+920	00:00:00,000 --> 00:00:00,000	JACK	No.
+922	00:00:00,000 --> 00:00:00,000	DOGEN	Why not?
+924	00:00:00,000 --> 00:00:00,000	JACK	Because I don't know what's in it.
+926	00:00:00,000 --> 00:00:00,000	DOGEN	It will eliminate--
+928	00:00:00,000 --> 00:00:00,000	JACK	[interrupts] --the infection, yeah. I got that. But what's in it?
+930	00:00:00,000 --> 00:00:00,000	DOGEN	I cannot explain.
+932	00:00:00,000 --> 00:00:00,000	JACK	Try.
+934	00:00:00,000 --> 00:00:00,000	DOGEN	There isn't any time. He'll die if you don't...
+936	00:00:00,000 --> 00:00:00,000	JACK	[smugly interrupts] He already died. [hold pill] What is in it?
+938	00:00:00,000 --> 00:00:00,000	DOGEN	[sigh] You just have to trust me.
+940	00:00:00,000 --> 00:00:00,000	JACK	[chuckles] I don't trust myself. How am I supposed to trust you? Let's see where trust gets us.
+942	00:00:00,000 --> 00:00:00,000		[Jack swallows the pill. Dogen quickly rushes Jack and full palm, slaps him in the stomach. With his hand still on Jack's chest, he pounds on his back, twice. He then puts his foot in front of Jack's, puts his other hand around Jack and with both hands pushes up on Jack's stomach. He gets Jack to cough up the pill which he immediately picks up. Gasping, Jack tries to catch his breath.]
+944	00:00:00,000 --> 00:00:00,000	JACK	Now, are you gonna tell me what's in it?
+946	00:00:00,000 --> 00:00:00,000	DOGEN	Poison.
+948	00:00:00,000 --> 00:00:00,000		[Flash sideways - Claire is looking at a picture from her ultrasound. The date on the picture is 10/22/2004. There is a knock on the door. A faint voice is heard over the PA system.]
+950	00:00:00,000 --> 00:00:00,000	CLAIRE	Come in.
+952	00:00:00,000 --> 00:00:00,000	DETECTIVE RASMUSSEN.	Excuse me. Ms. Littleton?
+954	00:00:00,000 --> 00:00:00,000	CLAIRE	Um, yeah.
+956	00:00:00,000 --> 00:00:00,000	DETECTIVE RASMUSSEN	I'm Detective Rasmussen.
+958	00:00:00,000 --> 00:00:00,000		[A police officer walks in with the detective.]
+960	00:00:00,000 --> 00:00:00,000	DETECTIVE RASMUSSEN	Is Ms. Hart here?
+962	00:00:00,000 --> 00:00:00,000	CLAIRE	Uh, I'm sorry. Who?
+964	00:00:00,000 --> 00:00:00,000	DETECTIVE RASMUSSEN	Joan Hart. She signed in with you.
+966	00:00:00,000 --> 00:00:00,000		[The police officer is taking a look around the room. There are indistinct voices from his radio.]
+968	00:00:00,000 --> 00:00:00,000	CLAIRE	Oh. She was just the, um, the cab driver. I needed help and she brought me up here. She left after they treated me, though.
+970	00:00:00,000 --> 00:00:00,000		[The officer looks at a door and walks away. Kate is hiding in the room behind the door.]
+972	00:00:00,000 --> 00:00:00,000	DETECTIVE RASMUSSEN	She, uh, give you any indication where she was headed?
+974	00:00:00,000 --> 00:00:00,000	CLAIRE	Why? Is there something wrong?
+976	00:00:00,000 --> 00:00:00,000	DETECTIVE RASMUSSEN	No. It's nothing for you to worry about. [to officer] Come on. Let's go.
+978	00:00:00,000 --> 00:00:00,000		[They leave the room. As the door closes, Kate exits the small room. The sign on the door reads, NO ADMITTANCE AUTHORIZED PERSONNEL ONLY.]
+980	00:00:00,000 --> 00:00:00,000	PA VOICE	EKG Tech 3-1-5. EKG Tech 3-1-5.
+982	00:00:00,000 --> 00:00:00,000	KATE	Thanks.
+984	00:00:00,000 --> 00:00:00,000	CLAIRE	Sure. Thank you. Why, why are they after you? What, what did you do?
+986	00:00:00,000 --> 00:00:00,000	KATE	Would you believe me if I said I was innocent?
+988	00:00:00,000 --> 00:00:00,000	CLAIRE	Yeah. Yeah, I would.
+990	00:00:00,000 --> 00:00:00,000	KATE	[smiles] Well, I should go.
+992	00:00:00,000 --> 00:00:00,000	CLAIRE	Oh, wait. Um, here, take my credit card.
+994	00:00:00,000 --> 00:00:00,000	KATE	No.
+996	00:00:00,000 --> 00:00:00,000	CLAIRE	There's not much of a limit on it but it's something.
+998	00:00:00,000 --> 00:00:00,000	KATE	You don't have to do this.
+1000	00:00:00,000 --> 00:00:00,000	CLAIRE	You didn't have to do what you did either.
+1002	00:00:00,000 --> 00:00:00,000		[Claire and Kate smile as Kate takes the credit card.]
+1004	00:00:00,000 --> 00:00:00,000	KATE	Aaron's a great name.
+1006	00:00:00,000 --> 00:00:00,000	CLAIRE	I don't know why I said it. It's like, I don't know. I knew it or something.
+1008	00:00:00,000 --> 00:00:00,000	KATE	I think you should keep him.
+1010	00:00:00,000 --> 00:00:00,000	CLAIRE	Well, um, good luck.
+1012	00:00:00,000 --> 00:00:00,000	KATE	Yeah, you too.
+1014	00:00:00,000 --> 00:00:00,000	CLAIRE	Thanks.
+1016	00:00:00,000 --> 00:00:00,000		[On-Island - Kate is filling up her canteen from the outside faucet of one of the Barracks. She looks back over her right shoulder and sees Sawyer walking with his head lowered. He walks by Kate as if she wasn't there. Kate watches and he continues to walk back into the house that he once lived in with Juliet and closes the door. Kate takes her backpack and walks out of the Barracks.]
+1018	00:00:00,000 --> 00:00:00,000		[In Dogen's chamber, he is pouring two cups of tea.]
+1020	00:00:00,000 --> 00:00:00,000	LENNON	He swallowed it?
+1022	00:00:00,000 --> 00:00:00,000	DOGEN	Yes.
+1024	00:00:00,000 --> 00:00:00,000		[Dogen takes the cups of tea and places one cup on the table in front of Jack where Jack is holding his stomach.]
+1026	00:00:00,000 --> 00:00:00,000	JACK	What's this?
+1028	00:00:00,000 --> 00:00:00,000	DOGEN	Tea.
+1030	00:00:00,000 --> 00:00:00,000		[Jack chuckles. Dogen takes a sip from his cup then Jack reaches for his cup.]
+1032	00:00:00,000 --> 00:00:00,000	JACK	Why would you people want to kill Sayid?
+1034	00:00:00,000 --> 00:00:00,000		[Dogen looks at Jack then Lennon and back to Jack.]
+1036	00:00:00,000 --> 00:00:00,000	DOGEN	We believe he has been [pause] mesarete itandarou[Ã¥ÂÂ¬Ã£Ââ€¢Ã£â€šÅ’Ã£ÂÂ¦Ã£Ââ€žÃ£ÂÅ¸Ã£â€šâ€œÃ£ÂÂ Ã£â€šÂÃ£Ââ€ -¢to ascend to heaven].
+1038	00:00:00,000 --> 00:00:00,000	LENNON	Closest translation is "claimed."
+1040	00:00:00,000 --> 00:00:00,000	JACK	Claimed [long pause] by what?
+1042	00:00:00,000 --> 00:00:00,000	DOGEN	There is a darkness growing in him and once it reaches his heart, everything your friend once was, will be gone.
+1044	00:00:00,000 --> 00:00:00,000	JACK	No uh. How can you be sure of that?
+1046	00:00:00,000 --> 00:00:00,000	DOGEN	Because it happened to your sister.
+1048	00:00:00,000 --> 00:00:00,000		[Jack looks at Dogen, Lennon and back to Dogen.]
+1050	00:00:00,000 --> 00:00:00,000		[In the jungle, Jin stops by a stream, puts his rifle down and crouches down to get a drink of the water. Before he can take a drink, he is yanked from behind by Aldo and Justin.]
+1052	00:00:00,000 --> 00:00:00,000	ALDO	Get up!
+1054	00:00:00,000 --> 00:00:00,000		[Aldo brings his knee up to Jin's face.]
+1056	00:00:00,000 --> 00:00:00,000	ALDO	That's for my head.
+1058	00:00:00,000 --> 00:00:00,000		[Aldo pushes Jin into a tree, cocks his gun and aims at Jin.]
+1060	00:00:00,000 --> 00:00:00,000	ALDO	Now, where's that bitch?
+1062	00:00:00,000 --> 00:00:00,000	JIN	I don't know. You don't understand. I'm going back to the Temple.
+1064	00:00:00,000 --> 00:00:00,000	ALDO	Yeah, right.
+1066	00:00:00,000 --> 00:00:00,000	JUSTIN	It looks like he's alone. Maybe we should take him back.
+1068	00:00:00,000 --> 00:00:00,000	ALDO	Or maybe we didn't find him alive.
+1070	00:00:00,000 --> 00:00:00,000	JUSTIN	Aldo, no. We can't. He's one of them.
+1072	00:00:00,000 --> 00:00:00,000	ALDO	[turns to Justin] He may be one of them.
+1074	00:00:00,000 --> 00:00:00,000		[Jin tries to run away. Aldo and Justin run after him.]
+1076	00:00:00,000 --> 00:00:00,000	ALDO	Hey! Hey!
+1078	00:00:00,000 --> 00:00:00,000		[Jin steps into a bear trap and falls to the ground. It is clamped around his ankle.]
+1080	00:00:00,000 --> 00:00:00,000	JIN	Aah! Ugh!
+1082	00:00:00,000 --> 00:00:00,000		[Jin groans as he grabs at the trap. Justin sees Jin and stops but has his rifle aimed at Jin. Aldo walks up from behind.]
+1084	00:00:00,000 --> 00:00:00,000	ALDO	[smugly] Where you goin'?
+1086	00:00:00,000 --> 00:00:00,000		[Aldo laughs as he aims his gun at Jin ready to fire. Before he can there are two gunshots and the target is Aldo. He falls to the ground, dead. Jin looks around. Another shot is heard. The target is Justin. He falls to the ground.]
+1088	00:00:00,000 --> 00:00:00,000	JUSTIN	Ughh!
+1090	00:00:00,000 --> 00:00:00,000		[Frightened, Jin looks to find who is shooting. He is still trapped. He looks up and to see a blonde woman holding a rifle. He tries to get a better look.]
+1092	00:00:00,000 --> 00:00:00,000	JIN	Claire?
+1094	00:00:00,000 --> 00:00:00,000		[It is Claire. She is wearing a blue plaid shirt, hair disheveled with smudges of dirt on her cheeks. She just looks at Jin.]

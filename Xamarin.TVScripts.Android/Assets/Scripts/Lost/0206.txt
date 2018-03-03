@@ -1,0 +1,390 @@
+Abandoned
+2	00:00:00,000 --> 00:00:00,000	Written by	Elizabeth Sarnoff
+4	00:00:00,000 --> 00:00:00,000	Directed by	Adam Davidson
+6	00:00:00,000 --> 00:00:00,000		[At the beach, Shannon gives Vincent water.]
+8	00:00:00,000 --> 00:00:00,000	SHANNON	You thirsty, dog? Yeah, you're always thirsty, aren't ya? So drink.
+10	00:00:00,000 --> 00:00:00,000	SAYID	[walking by] Come on, gather your things.
+12	00:00:00,000 --> 00:00:00,000	SHANNON	Where are we going? Sayid?
+14	00:00:00,000 --> 00:00:00,000	SAYID	Right over here.
+16	00:00:00,000 --> 00:00:00,000	SHANNON	[following Sayid] Where are we going?
+18	00:00:00,000 --> 00:00:00,000		[Sayid doesn't answer and they approach a tent on the beach.]
+20	00:00:00,000 --> 00:00:00,000	SAYID	What do you think?
+22	00:00:00,000 --> 00:00:00,000	SHANNON	Does it have an inside?
+24	00:00:00,000 --> 00:00:00,000		[They enter the tent and Shannon is touched by Sayid's efforts to make her a tent.]
+26	00:00:00,000 --> 00:00:00,000	SHANNON	When did you do this?
+28	00:00:00,000 --> 00:00:00,000	SAYID	It's all yours.
+30	00:00:00,000 --> 00:00:00,000	SHANNON	Thank you.
+32	00:00:00,000 --> 00:00:00,000	SAYID	You're quite welcome.
+34	00:00:00,000 --> 00:00:00,000		[They kiss, and there's a sound when Shannon puts her arms around him. Sayid pulls a gun out of the back of his waistband.]
+36	00:00:00,000 --> 00:00:00,000	SAYID	[putting the gun away] I'm sorry.
+38	00:00:00,000 --> 00:00:00,000	SHANNON	You need to carry that all the time?
+40	00:00:00,000 --> 00:00:00,000	SAYID	I only carry it because I have someone to protect.
+42	00:00:00,000 --> 00:00:00,000		[They kiss again, and lay down.]
+44	00:00:00,000 --> 00:00:00,000		[The tail section folks and Sawyer are resting (some apparently sleeping).]
+46	00:00:00,000 --> 00:00:00,000	CINDY	Ana, it's got to be over an hour. Shouldn't we start moving again?
+48	00:00:00,000 --> 00:00:00,000	ANA	Let them rest a little while longer.
+50	00:00:00,000 --> 00:00:00,000	CINDY	Yeah, but what if they come?
+52	00:00:00,000 --> 00:00:00,000	SAWYER	She's lost.
+54	00:00:00,000 --> 00:00:00,000	ANA	I'm not lost.
+56	00:00:00,000 --> 00:00:00,000	SAWYER	Then tell me, Ponce de Leon, which way are we supposed to go?
+58	00:00:00,000 --> 00:00:00,000	ANA	Alright then, genius, where would you go?
+60	00:00:00,000 --> 00:00:00,000	SAWYER	Hey, I'm with you -- sit tight and wait for Mr. Eko to show up and guide us.
+62	00:00:00,000 --> 00:00:00,000	ANA	If your friend didn't run off, Eko would still be here now, wouldn't he? You sure didn't have any problem leaving him behind, though, huh?
+64	00:00:00,000 --> 00:00:00,000	SAWYER	Mike only cares about himself and his kid, and neither's got squat to do with me.
+66	00:00:00,000 --> 00:00:00,000	MICHAEL	[appearing] Glad you feel that way.
+68	00:00:00,000 --> 00:00:00,000	SAWYER	Didn't expect to see you again.
+70	00:00:00,000 --> 00:00:00,000	JIN	[to Sawyer] [Looking at Sawyer's wound.] ÃªÂ±Â¸Ã¬Ââ€ž Ã¬Ë†Ëœ Ã¬Å¾Ë†ÃªÂ²Â Ã¬â€“Â´?
+72	00:00:00,000 --> 00:00:00,000	SAWYER	Yeah, yeah, Chewie, I know. My arm's about to fall off.
+74	00:00:00,000 --> 00:00:00,000	ANA	[to Eko] You okay?
+76	00:00:00,000 --> 00:00:00,000	EKO	Yes, but we have to go. I saw them.
+78	00:00:00,000 --> 00:00:00,000	CINDY	What?
+80	00:00:00,000 --> 00:00:00,000	BERNARD	What do you mean, you saw them?
+82	00:00:00,000 --> 00:00:00,000	CINDY	How many were there?
+84	00:00:00,000 --> 00:00:00,000	LIBBY	Did you see the kids?
+86	00:00:00,000 --> 00:00:00,000	ANA	Libby.
+88	00:00:00,000 --> 00:00:00,000	EKO	We need to go. Now.
+90	00:00:00,000 --> 00:00:00,000	ANA	Alright. We're moving out. Now.
+92	00:00:00,000 --> 00:00:00,000		[Post-coital Shannon and Sayid.]
+94	00:00:00,000 --> 00:00:00,000	SHANNON	So, does all this -- the tent, flowers -- mean that we're serious now?
+96	00:00:00,000 --> 00:00:00,000	SAYID	Quite definitely not. I do this for all the girls I meet on deserted Islands.
+98	00:00:00,000 --> 00:00:00,000	SHANNON	[laughing] Don't go anywhere.
+100	00:00:00,000 --> 00:00:00,000	SAYID	Where are you going?
+102	00:00:00,000 --> 00:00:00,000	SHANNON	To get some water.
+104	00:00:00,000 --> 00:00:00,000	SAYID	[getting up and dressed] Let me. I'll be right back.
+106	00:00:00,000 --> 00:00:00,000		[Shannon lies back contentedly. There's a sudden "wind" sound and the candle in the tent is extinguished.]
+108	00:00:00,000 --> 00:00:00,000	SHANNON	That was quick.
+110	00:00:00,000 --> 00:00:00,000		[We see Walt's silhouette. He's dripping wet, and says something backwards. Shannon screams.]
+112	00:00:00,000 --> 00:00:00,000		[Shannon standing on the beach. Sayid comes running from the direction of their tent.]
+114	00:00:00,000 --> 00:00:00,000	SAYID	There's nothing -- no one there.
+116	00:00:00,000 --> 00:00:00,000	SHANNON	I am telling you I saw Walt.
+118	00:00:00,000 --> 00:00:00,000	SAYID	It was a dream, Shannon.
+120	00:00:00,000 --> 00:00:00,000	SHANNON	He was here. I saw him. He went into the tent.
+122	00:00:00,000 --> 00:00:00,000	SAYID	I was only gone a few moments. You must have fallen asleep.
+124	00:00:00,000 --> 00:00:00,000	SHANNON	This was not a dream! I saw Walt!
+126	00:00:00,000 --> 00:00:00,000	SAYID	Then where is he?
+128	00:00:00,000 --> 00:00:00,000	CHARLIE	[entering] Hey, what's going on?
+130	00:00:00,000 --> 00:00:00,000	SAYID	Nothing. It's just a dream; everything's fine.
+132	00:00:00,000 --> 00:00:00,000		[Shannon walks off, upset that Sayid doesn't believe her. Claire enters carrying the baby. Sayid follows Shannon.]
+134	00:00:00,000 --> 00:00:00,000	SAYID	Shannon...
+136	00:00:00,000 --> 00:00:00,000	CLAIRE	What's wrong?
+138	00:00:00,000 --> 00:00:00,000	CHARLIE	Shannon had a nightmare. [Looking at the baby] Why's he up?
+140	00:00:00,000 --> 00:00:00,000	CLAIRE	I woke him.
+142	00:00:00,000 --> 00:00:00,000	CHARLIE	Woke him?
+144	00:00:00,000 --> 00:00:00,000	CLAIRE	I heard screams -- I got worried. Why, would rather I had left him over there alone?
+146	00:00:00,000 --> 00:00:00,000	CHARLIE	You heard screams so woke up the baby and ran toward them?
+148	00:00:00,000 --> 00:00:00,000	CLAIRE	Okay, it sounded like she needed help.
+150	00:00:00,000 --> 00:00:00,000	CHARLIE	Well, he's going to need feeding now. He's going to be up all night and fussy all day.
+152	00:00:00,000 --> 00:00:00,000	CLAIRE	Sorry.
+154	00:00:00,000 --> 00:00:00,000	CHARLIE	Alright, well, no harm done -- give him here then. I got him.
+156	00:00:00,000 --> 00:00:00,000		[Claire reluctantly hands Aaron over to Charlie. Charlie kisses and soothes the baby while Claire looks on, none too happy.]
+158	00:00:00,000 --> 00:00:00,000		[Shannon packs up her bag at the tent and starts walking away.]
+160	00:00:00,000 --> 00:00:00,000	SAYID	Wait. Wait! Come back with me; let's talk about this.
+162	00:00:00,000 --> 00:00:00,000	SHANNON	Do you believe me? [Sayid doesn't answer and Shannon starts to walk away again] No. I know what I saw.
+164	00:00:00,000 --> 00:00:00,000		[Flashback - A ballet studio with girls practicing.]
+166	00:00:00,000 --> 00:00:00,000	SHANNON	Beautiful, Sophie. Okay, can you bring your shoulders down for me a little -- extend up, good -- and finish. Very nice, ladies.
+168	00:00:00,000 --> 00:00:00,000	SOPHIE	Did my papa see me?
+170	00:00:00,000 --> 00:00:00,000		[We see an older man whispering in the ear of another instructor.]
+172	00:00:00,000 --> 00:00:00,000	SHANNON	I think so. [Looking at the students] Wonderful, alright, thank you for a great class today, ladies.
+174	00:00:00,000 --> 00:00:00,000		[We see the older man leaving with Sophie walking past the other instructor, Nora. She and Shannon laugh.]
+176	00:00:00,000 --> 00:00:00,000	NORA	He wants me to be his au pair, can you believe that?
+178	00:00:00,000 --> 00:00:00,000	SHANNON	Au pair, my ass.
+180	00:00:00,000 --> 00:00:00,000	NORA	[in a French accent] Live in my big house, take care of my kids -- next thing you know it's: Oh, I'm so sorry; I did not know you were in the shower. What a perve!
+182	00:00:00,000 --> 00:00:00,000		[Shannon's cell phone rings.]
+184	00:00:00,000 --> 00:00:00,000	SHANNON	Hello.
+186	00:00:00,000 --> 00:00:00,000	SABRINA	Shannon, your father's been in an accident. I'm on my way to St. Sebastian's, I'll meet you there.
+188	00:00:00,000 --> 00:00:00,000		[At the hospital.]
+190	00:00:00,000 --> 00:00:00,000	DOCTOR	Mrs. Rutherford?
+192	00:00:00,000 --> 00:00:00,000	SABRINA	Yes.
+194	00:00:00,000 --> 00:00:00,000		[Jack walks by in the background.]
+196	00:00:00,000 --> 00:00:00,000	DOCTOR	Why don't we talk down here?
+198	00:00:00,000 --> 00:00:00,000	SABRINA	Doctor, my husband, Adam, how is he?
+200	00:00:00,000 --> 00:00:00,000	DOCTOR	Your husband was in a head-on collision with an SUV. He suffered massive internal injuries. He stopped breathing at the site of the accident. I'm afraid we were unable to resuscitate him. I'm so sorry.
+202	00:00:00,000 --> 00:00:00,000		[Shannon starts to cry.]
+204	00:00:00,000 --> 00:00:00,000	SABRINA	May I see him?
+206	00:00:00,000 --> 00:00:00,000	DOCTOR	Of course. Would your daughter like to come?
+208	00:00:00,000 --> 00:00:00,000	SABRINA	Step-daughter. Come on, Shannon.
+210	00:00:00,000 --> 00:00:00,000		[On-Island - The tail section folks and the raft guys walking through the jungle.]
+212	00:00:00,000 --> 00:00:00,000	ANA	How much further to their camp?
+214	00:00:00,000 --> 00:00:00,000	EKO	A day -- maybe more, maybe less.
+216	00:00:00,000 --> 00:00:00,000	ANA	Thanks for being so specific.
+218	00:00:00,000 --> 00:00:00,000		[Sawyer stumbles and goes down to one knee.]
+220	00:00:00,000 --> 00:00:00,000	SAWYER	Damn it!
+222	00:00:00,000 --> 00:00:00,000		[Libby tries to check his wound.]
+224	00:00:00,000 --> 00:00:00,000	SAWYER	Okay, okay. I'm fine.
+226	00:00:00,000 --> 00:00:00,000	LIBBY	You want to let me just take a look at your shoulder?
+228	00:00:00,000 --> 00:00:00,000	SAWYER	What, are you a doctor?
+230	00:00:00,000 --> 00:00:00,000	LIBBY	A clinical psychologist.
+232	00:00:00,000 --> 00:00:00,000	SAWYER	You're a shrink? Well, maybe you ought to talk to my shoulder.
+234	00:00:00,000 --> 00:00:00,000	LIBBY	How'd you get shot, anyway?
+236	00:00:00,000 --> 00:00:00,000	SAWYER	With a gun.
+238	00:00:00,000 --> 00:00:00,000	MICHAEL	He got shot when they took my kid.
+240	00:00:00,000 --> 00:00:00,000	SAWYER	It's bad, right?
+242	00:00:00,000 --> 00:00:00,000	LIBBY	Yeah, it's bad. But it's not real bad. C'mon, you're going to be okay. Let's go.
+244	00:00:00,000 --> 00:00:00,000		[Michael helps Sawyer up, but Sawyer wants to make it on his own.]
+246	00:00:00,000 --> 00:00:00,000	SAWYER	I got it. I'm alright. I'm fine.
+248	00:00:00,000 --> 00:00:00,000	BERNARD	Let me give you a hand, okay?
+250	00:00:00,000 --> 00:00:00,000		[Sawyer doesn't answer; he just keeps on walking by.]
+252	00:00:00,000 --> 00:00:00,000		[Rose and Hurley on the beach doing laundry.]
+254	00:00:00,000 --> 00:00:00,000	HURLEY	Um, tell me again why we're doing this here when there's a dryer in the hatch?
+256	00:00:00,000 --> 00:00:00,000	ROSE	I don't like the hatch.
+258	00:00:00,000 --> 00:00:00,000	HURLEY	Oh, it's because of the doomsday button, isn't it?
+260	00:00:00,000 --> 00:00:00,000	ROSE	Well, who needs a dryer when we've got sun and fresh air? We wouldn't want to spoil ourselves, now would we?
+262	00:00:00,000 --> 00:00:00,000	HURLEY	[laughing] Yeah, spoiled.
+264	00:00:00,000 --> 00:00:00,000	SHANNON	[entering] Hey, do you guys know where Michael and Walt left the stuff they didn't take with them on the raft?
+266	00:00:00,000 --> 00:00:00,000	HURLEY	What kind of stuff?
+268	00:00:00,000 --> 00:00:00,000	SHANNON	Their clothes.
+270	00:00:00,000 --> 00:00:00,000	HURLEY	I think their stuff's still on the beach back where their tent is.
+272	00:00:00,000 --> 00:00:00,000	SHANNON	Thanks.
+274	00:00:00,000 --> 00:00:00,000	ROSE	Poor thing, it can't be easy losing the one person you love on the Island.
+276	00:00:00,000 --> 00:00:00,000		[Shannon finds a shirt of Walt's and gets Vincent to smell it.]
+278	00:00:00,000 --> 00:00:00,000	SHANNON	Here, smell this, that's his, right? Come on, get a good whiff of it. You're always trying to run off and find him? Then find him. Find Walt.
+280	00:00:00,000 --> 00:00:00,000		[Vincent takes off running, dragging Shannon along by the leash.]
+282	00:00:00,000 --> 00:00:00,000	SHANNON	Good dog. Find Walt.
+284	00:00:00,000 --> 00:00:00,000		[Shannon stops as they end up back at the beach, right at Boone's grave.]
+286	00:00:00,000 --> 00:00:00,000		[Claire rocking a crying Aaron in the cradle as Locke passes by.]
+288	00:00:00,000 --> 00:00:00,000	CLAIRE	[to Aaron] I know I woke you and I'm very, very sorry; but please, staying awake for 8 hours straight -- isn't that just cruel and unusual punishment?
+290	00:00:00,000 --> 00:00:00,000	LOCKE	How's that cradle treating you?
+292	00:00:00,000 --> 00:00:00,000	CLAIRE	The cradles great. It's the baby that's the problem.
+294	00:00:00,000 --> 00:00:00,000	LOCKE	What's wrong?
+296	00:00:00,000 --> 00:00:00,000	CLAIRE	He just won't sleep.
+298	00:00:00,000 --> 00:00:00,000	LOCKE	[wanting to pick the baby up] May I?
+300	00:00:00,000 --> 00:00:00,000	CLAIRE	Sure.
+302	00:00:00,000 --> 00:00:00,000		[Scene jumps to Locke wrapping the baby in a blanket.]
+304	00:00:00,000 --> 00:00:00,000	LOCKE	Babies like the feeling of being constricted. It's not until we're older that we develop a desire to be free. [Finishing up with the blanket] There.
+306	00:00:00,000 --> 00:00:00,000		[Claire takes the baby.]
+308	00:00:00,000 --> 00:00:00,000	CLAIRE	You know, I think everybody knows more about my baby than me.
+310	00:00:00,000 --> 00:00:00,000	LOCKE	Everybody?
+312	00:00:00,000 --> 00:00:00,000	CLAIRE	Charlie read me the riot act last night for waking him. And as mad as it made me -- turns out he was right. You know, it's like we're playing mum and dad to this baby. Yet, I don't remember marrying him. [Locke laughs] No, seriously. I mean, we're practically strangers, him and me. For all I know, Charlie could be some religious freak.
+314	00:00:00,000 --> 00:00:00,000	LOCKE	Yeah, I seriously doubt that.
+316	00:00:00,000 --> 00:00:00,000	CLAIRE	Then why is he carrying around a Virgin Mary statue?
+318	00:00:00,000 --> 00:00:00,000	LOCKE	What?
+320	00:00:00,000 --> 00:00:00,000	CLAIRE	You know, one of the little statues? He says he found it in the jungle.
+322	00:00:00,000 --> 00:00:00,000	LOCKE	Hmm, how about that?
+324	00:00:00,000 --> 00:00:00,000		[Shannon at Boone's grave.]
+326	00:00:00,000 --> 00:00:00,000		[Flashback - Shannon's father's funeral. Shannon looks like she's in shock.]
+328	00:00:00,000 --> 00:00:00,000	BOONE	[to Shannon as she's looking in her father's casket] Death sucks, doesn't it?
+330	00:00:00,000 --> 00:00:00,000	SHANNON	Boone!
+332	00:00:00,000 --> 00:00:00,000	BOONE	Hey. [They hug] I'm so sorry, Shannon.
+334	00:00:00,000 --> 00:00:00,000	SHANNON	You came back.
+336	00:00:00,000 --> 00:00:00,000		[We see Sabrina looking over at them embracing.]
+338	00:00:00,000 --> 00:00:00,000		[In Shannon's room, Boone pours alcohol from a flask into some toy tea cups.]
+340	00:00:00,000 --> 00:00:00,000	BOONE	Where'd the poster of Marky Mark go?
+342	00:00:00,000 --> 00:00:00,000	SHANNON	I'm 18, Boone. Your mom's going to freak.
+344	00:00:00,000 --> 00:00:00,000	BOONE	It's a wake. I mean, seriously, who doesn't serve booze at a wake? Scotch? [toasting] To your dad. [Handing Shannon some gum] Maybe after all this you'll come visit me in New York.
+346	00:00:00,000 --> 00:00:00,000	SHANNON	I won't have to visit if I get that job at the Martha Graham dance company. I'll be living there.
+348	00:00:00,000 --> 00:00:00,000	BOONE	Right. Internship. [He shrugs]
+350	00:00:00,000 --> 00:00:00,000	SHANNON	I know it's like a 1 in 3000 chance, but I may get it.
+352	00:00:00,000 --> 00:00:00,000	BOONE	Absolutely. Have you spoken to my mother?
+354	00:00:00,000 --> 00:00:00,000	SHANNON	She's going through her thing and I'm going through mine.
+356	00:00:00,000 --> 00:00:00,000	BOONE	Have you two been getting along?
+358	00:00:00,000 --> 00:00:00,000	SHANNON	She hates me.
+360	00:00:00,000 --> 00:00:00,000	BOONE	Just try to talk to her.
+362	00:00:00,000 --> 00:00:00,000	SHANNON	From day one she resented my relationship with him, my dad.
+364	00:00:00,000 --> 00:00:00,000		[On-Island - At the rocky shore part of the beach. Eko notices Sawyer is struggling.]
+366	00:00:00,000 --> 00:00:00,000	EKO	We need a break.
+368	00:00:00,000 --> 00:00:00,000	ANA	5 minutes!
+370	00:00:00,000 --> 00:00:00,000	EKO	[handing Sawyer some water] Here.
+372	00:00:00,000 --> 00:00:00,000		[Eko assesses the coastline they need to traverse.]
+374	00:00:00,000 --> 00:00:00,000	ANA	What are you looking at?
+376	00:00:00,000 --> 00:00:00,000	EKO	We have to cut inland.
+378	00:00:00,000 --> 00:00:00,000	ANA	What? Into the jungle. They said their people were on the beach. If we keep walking...
+380	00:00:00,000 --> 00:00:00,000	EKO	The beach goes into a peninsula ahead. It may not be passable.
+382	00:00:00,000 --> 00:00:00,000	ANA	May not?
+384	00:00:00,000 --> 00:00:00,000	EKO	May not.
+386	00:00:00,000 --> 00:00:00,000	ANA	You're doing this to get the cowboy back faster, aren't you? You would risk our lives to help him?
+388	00:00:00,000 --> 00:00:00,000	EKO	It's the only way I know.
+390	00:00:00,000 --> 00:00:00,000	ANA	I liked you better when you weren't talking.
+392	00:00:00,000 --> 00:00:00,000		[Claire and Locke at the beach.]
+394	00:00:00,000 --> 00:00:00,000	CLAIRE	I can't believe he's still asleep.
+396	00:00:00,000 --> 00:00:00,000	LOCKE	Swaddling works every time.
+398	00:00:00,000 --> 00:00:00,000	CLAIRE	Uh-huh. Hey, do you want to hold him?
+400	00:00:00,000 --> 00:00:00,000	LOCKE	That's okay.
+402	00:00:00,000 --> 00:00:00,000	CLAIRE	Put your arms out. It's okay.
+404	00:00:00,000 --> 00:00:00,000	LOCKE	He smells good.
+406	00:00:00,000 --> 00:00:00,000	CLAIRE	He does, doesn't he?
+408	00:00:00,000 --> 00:00:00,000	LOCKE	Yeah.
+410	00:00:00,000 --> 00:00:00,000	CHARLIE	[enters] Oh.
+412	00:00:00,000 --> 00:00:00,000	LOCKE	Hello, Charlie.
+414	00:00:00,000 --> 00:00:00,000	CHARLIE	Hello.
+416	00:00:00,000 --> 00:00:00,000	CLAIRE	Hey, John just taught me a new trick: swaddling.
+418	00:00:00,000 --> 00:00:00,000	CHARLIE	That's excellent. I just came to take him so you could have your walk.
+420	00:00:00,000 --> 00:00:00,000		[Locke looks to Claire, unsure if he should give the baby to Charlie, but Claire doesn't say anything.]
+422	00:00:00,000 --> 00:00:00,000	LOCKE	Well, great timing, yeah. I've got to get going.
+424	00:00:00,000 --> 00:00:00,000	CLAIRE	Well, thanks for your help, John.
+426	00:00:00,000 --> 00:00:00,000	LOCKE	Welcome.
+428	00:00:00,000 --> 00:00:00,000	CLAIRE	[to Charlie who's staring at her] What?
+430	00:00:00,000 --> 00:00:00,000		[In the jungle, the tail section people are walking very carefully. Libby steps on a stick, and Cindy shushes her.]
+432	00:00:00,000 --> 00:00:00,000	JIN	Ã«â€šËœÃ­â€¢Å“Ã­â€¦Å’ ÃªÂ¸Â°Ã«Å’â‚¬.
+434	00:00:00,000 --> 00:00:00,000		[Sawyer stumbles]
+436	00:00:00,000 --> 00:00:00,000	JIN	Ã«â€šËœÃ­â€¢Å“Ã­â€¦Å’ ÃªÂ¸Â°Ã«Å’â‚¬.
+438	00:00:00,000 --> 00:00:00,000	SAWYER	I'm fine.
+440	00:00:00,000 --> 00:00:00,000	JIN	ÃªÂ¸Â°Ã«Å’â‚¬Ã«ÂÂ¼Ã«â€¹Ë†ÃªÂ¹Å’! Ã«â€šÂ´ÃªÂ°â‚¬ Ã«Â¶â‚¬Ã¬Â¶â€¢Ã­â€¢Â´ Ã¬Â¤â€žÃªÂ²Å’.
+442	00:00:00,000 --> 00:00:00,000	SAWYER	I'm fine.
+444	00:00:00,000 --> 00:00:00,000	JIN	ÃªÂ¸Â°Ã«Å’â‚¬Ã«ÂÂ¼Ã«â€¹Ë†ÃªÂ¹Å’!
+446	00:00:00,000 --> 00:00:00,000	ANA	Shhhh - shut up.
+448	00:00:00,000 --> 00:00:00,000	MICHAEL	What? They can't talk at all?
+450	00:00:00,000 --> 00:00:00,000	ANA	If he talks he's going to get us all killed.
+452	00:00:00,000 --> 00:00:00,000	MICHAEL	By what? Them? I thought they lived a day back that way?
+454	00:00:00,000 --> 00:00:00,000	ANA	How about you shut your mouth and get your buddy over here moving?
+456	00:00:00,000 --> 00:00:00,000	MICHAEL	What happened to you people? You want us to take you back with us? Fine. But you want me to keep quiet then you need to tell me why I have to.
+458	00:00:00,000 --> 00:00:00,000	ANA	They came the first night that we got here. They took three of us. Nothing happened for two weeks, then they came back. They took nine more. They're smart, and they're animals, and they could be anywhere at any time. Now we're moving through the jungle -- their jungle -- just so you can save your little hick friend over here. And if you think that one gun and one bullet is going to stop them -- think again. So shut your mouth and keep moving.
+460	00:00:00,000 --> 00:00:00,000	MICHAEL	They took my son.
+462	00:00:00,000 --> 00:00:00,000	ANA	They took a lot of things.
+464	00:00:00,000 --> 00:00:00,000		[Shannon at Boone's grave. Sayid enters.]
+466	00:00:00,000 --> 00:00:00,000	SAYID	I know what it is to lose someone you care deeply about.
+468	00:00:00,000 --> 00:00:00,000	SHANNON	You really think that this is all about Boone? I saw Walt, Sayid.
+470	00:00:00,000 --> 00:00:00,000	SAYID	Then why are we sitting at Boone's grave.
+472	00:00:00,000 --> 00:00:00,000	SHANNON	[getting up to leave] Just go back, Sayid.
+474	00:00:00,000 --> 00:00:00,000	SAYID	Where are you going?
+476	00:00:00,000 --> 00:00:00,000	SHANNON	To find him.
+478	00:00:00,000 --> 00:00:00,000		[Flashback - Shannon in is her apartment. Nora comes in.]
+480	00:00:00,000 --> 00:00:00,000	NORA	[handing Shannon a letter] It came.
+482	00:00:00,000 --> 00:00:00,000	SHANNON	Oh my god.
+484	00:00:00,000 --> 00:00:00,000	NORA	Open it.
+486	00:00:00,000 --> 00:00:00,000	SHANNON	I can't open it.
+488	00:00:00,000 --> 00:00:00,000	NORA	You what?
+490	00:00:00,000 --> 00:00:00,000	SHANNON	You open it.
+492	00:00:00,000 --> 00:00:00,000	NORA	You have been waiting 6 months for this letter -- no way I'm opening it.
+494	00:00:00,000 --> 00:00:00,000		[Shannon opens the letter.]
+496	00:00:00,000 --> 00:00:00,000	SHANNON	I got it!
+498	00:00:00,000 --> 00:00:00,000	NORA	You got it?1
+500	00:00:00,000 --> 00:00:00,000	SHANNON	I got it!!
+502	00:00:00,000 --> 00:00:00,000	NORA	Oh my god, you're going to New York!
+504	00:00:00,000 --> 00:00:00,000		[They're jumping and hugging. The phone rings.]
+506	00:00:00,000 --> 00:00:00,000	SHANNON	Hello. This is her. Uh, that's impossible. Okay, are you sure? Of course, I will certainly do that. Sorry.
+508	00:00:00,000 --> 00:00:00,000	NORA	What?
+510	00:00:00,000 --> 00:00:00,000	SHANNON	My rent check bounced.
+512	00:00:00,000 --> 00:00:00,000	NORA	But you're, like, rich.
+514	00:00:00,000 --> 00:00:00,000		[At Sabrina's house.]
+516	00:00:00,000 --> 00:00:00,000	SABRINA	I'm sorry, I would have offered you something to drink, but I have to be at a meeting in 10 minutes.
+518	00:00:00,000 --> 00:00:00,000	SHANNON	Yeah, um, my checks are bouncing.
+520	00:00:00,000 --> 00:00:00,000	SABRINA	Well, that's what happens when you make withdrawals and don't make deposits, Shannon.
+522	00:00:00,000 --> 00:00:00,000	SHANNON	When do I get the money dad left me? The money from the will.
+524	00:00:00,000 --> 00:00:00,000	SABRINA	There was no will.
+526	00:00:00,000 --> 00:00:00,000	SHANNON	What?
+528	00:00:00,000 --> 00:00:00,000	SABRINA	Shannon, your father and I had a living trust. Everything passed to me. I'm afraid there was nothing specifically designated for you.
+530	00:00:00,000 --> 00:00:00,000	SHANNON	Why would he do that?
+532	00:00:00,000 --> 00:00:00,000	SABRINA	Well, maybe he just wanted you to find your own way. We all have to work, Shannon. Most of us are the better for it.
+534	00:00:00,000 --> 00:00:00,000	SHANNON	I can work. I just -- I just got this really prestigious internship. And I'm not going to make any money for a while but I'm going to be working like 16 hours a day.
+536	00:00:00,000 --> 00:00:00,000	SABRINA	The only thing I've ever seen you do 16 hours a day straight is sleep.
+538	00:00:00,000 --> 00:00:00,000	SHANNON	I just need to get to New York. I need just something -- something to get started. I'll pay you back.
+540	00:00:00,000 --> 00:00:00,000	SABRINA	This week it's an internship -- last year it was what -- interior design? You'll never pay me back. And you'll only hate yourself even more.
+542	00:00:00,000 --> 00:00:00,000	SHANNON	I really want this, Sabrina. I can do this.
+544	00:00:00,000 --> 00:00:00,000	SABRINA	I'm sorry, Shannon. You're on your own.
+546	00:00:00,000 --> 00:00:00,000		[On-Island - Locke and Charlie playing backgammon on the beach.]
+548	00:00:00,000 --> 00:00:00,000	CHARLIE	Oh, double-6's, how nice for you.
+550	00:00:00,000 --> 00:00:00,000	LOCKE	[laughing] Lucky. [pause] I hope you didn't get the wrong idea seeing me with the baby?
+552	00:00:00,000 --> 00:00:00,000	CHARLIE	What wrong idea would that be?
+554	00:00:00,000 --> 00:00:00,000	LOCKE	You and Claire are close, and you spend a lot of time with Aaron -- I just wouldn't want to overstep my bounds.
+556	00:00:00,000 --> 00:00:00,000	CHARLIE	Did she tell you we had a fight?
+558	00:00:00,000 --> 00:00:00,000	LOCKE	She didn't say it was a fight.
+560	00:00:00,000 --> 00:00:00,000	CHARLIE	She was going to give it up, you know -- for adoption. Did she tell you that?
+562	00:00:00,000 --> 00:00:00,000	LOCKE	Yeah, when I built the cradle.
+564	00:00:00,000 --> 00:00:00,000	CHARLIE	Ah, of course, when you built the cradle.
+566	00:00:00,000 --> 00:00:00,000	LOCKE	Why do you ask?
+568	00:00:00,000 --> 00:00:00,000	CHARLIE	She's got a bit to learn about being a mum -- responsibility and all.
+570	00:00:00,000 --> 00:00:00,000	LOCKE	Hmmm, now that's an interesting thing to say -- for a heroin addict.
+572	00:00:00,000 --> 00:00:00,000	CHARLIE	Recovering addict.
+574	00:00:00,000 --> 00:00:00,000	LOCKE	Recovering. It's your turn.
+576	00:00:00,000 --> 00:00:00,000		[Jin is half carrying Sawyer through the jungle.]
+578	00:00:00,000 --> 00:00:00,000	BERNARD	[hearing Sawyer stumble behind him] Here, let me help you.
+580	00:00:00,000 --> 00:00:00,000	JIN	Ã¬â€¢â€žÃ«Æ’Â, Ã¬â€¢â€žÃ«Æ’Â.
+582	00:00:00,000 --> 00:00:00,000	MICHAEL	I got it.
+584	00:00:00,000 --> 00:00:00,000	JIN	Ã«â€šËœ Ã­ËœÂ¼Ã¬Å¾ÂÃ«Ââ€ž Ã­â€¢ Ã¬Ë†Ëœ Ã¬Å¾Ë†Ã¬â€“Â´.
+586	00:00:00,000 --> 00:00:00,000	MICHAEL	I said I got it, man. Take a break.
+588	00:00:00,000 --> 00:00:00,000	JIN	Ã¬â€¢Ë† Ã¬â€°Â¬Ã¬â€“Â´Ã«Ââ€ž Ã«ÂÂ¼.
+590	00:00:00,000 --> 00:00:00,000	SAWYER	[to Michael] What? You suddenly give a damn about me? [taking his arm from around Jin's shoulder] Leave me alone. Both of you. I got it.
+592	00:00:00,000 --> 00:00:00,000		[Sawyer starts walking away, but collapses.]
+594	00:00:00,000 --> 00:00:00,000	MICHAEL	Hey, hey, hey [he puts Sawyer's head in his lap] Okay. Hey, Sawyer, hey you okay?
+596	00:00:00,000 --> 00:00:00,000	SAWYER	[barely conscious] I would have left you behind.
+598	00:00:00,000 --> 00:00:00,000	MICHAEL	Shut up, man. Don't try that.
+600	00:00:00,000 --> 00:00:00,000	SAWYER	I did leave you behind.
+602	00:00:00,000 --> 00:00:00,000	MICHAEL	Yeah, well, good thing I ain't you. [He smiles at Sawyer and Sawyer passes out.] No, no, hey, Sawyer. Sawyer, hey.
+604	00:00:00,000 --> 00:00:00,000	JIN	Water! Water!
+606	00:00:00,000 --> 00:00:00,000	LIBBY	Here you go. Here, here.
+608	00:00:00,000 --> 00:00:00,000	MICHAEL	[pouring water into Sawyer's mouth] What's the matter with him?
+610	00:00:00,000 --> 00:00:00,000	LIBBY	Well, the fever -- he's got an infection -- he's dehydrated.
+612	00:00:00,000 --> 00:00:00,000	ANA	We gotta keep moving.
+614	00:00:00,000 --> 00:00:00,000	MICHAEL	What?
+616	00:00:00,000 --> 00:00:00,000	ANA	We gotta keep going.
+618	00:00:00,000 --> 00:00:00,000	JIN	Ã¬â€ Å’Ã¬ÂÂ´Ã¬â€“Â´Ã«Â¥Â¼ Ã«â€˜ÂÃªÂ³ ÃªÂ°Ë† Ã¬Ë†Å“ Ã¬â€”â€ Ã¬â€“Â´!
+620	00:00:00,000 --> 00:00:00,000	ANA	You want stay, that's fine. But we're rolling out.
+622	00:00:00,000 --> 00:00:00,000	BERNARD	We can't just leave him, Ana.
+624	00:00:00,000 --> 00:00:00,000	LIBBY	Maybe if we just rest a little while, he'll regain consciousness.
+626	00:00:00,000 --> 00:00:00,000	ANA	Rest? Here? Do you remember what happened to us? What they did to us? You remember Goodwin?
+628	00:00:00,000 --> 00:00:00,000	CINDY	Ana's right, maybe we should just push on.
+630	00:00:00,000 --> 00:00:00,000	MICHAEL	Hey, you know what? I don't remember Goodwin. And I'm really sorry about whatever happened to him, but I don't care. Mr. Eko, can you help me make a stretcher? And Bernard, I need 4 sticks -- sturdy ones -- about 5 feet long.
+632	00:00:00,000 --> 00:00:00,000	BERNARD	Yeah, got it.
+634	00:00:00,000 --> 00:00:00,000	ANA	You're going to carry your friend.
+636	00:00:00,000 --> 00:00:00,000	MICHAEL	Yeah, we're going to carry him.
+638	00:00:00,000 --> 00:00:00,000		[Sayid and Shannon in the jungle.]
+640	00:00:00,000 --> 00:00:00,000	SAYID	Why are you doing this, Shannon?
+642	00:00:00,000 --> 00:00:00,000	SHANNON	I didn't ask you to follow me.
+644	00:00:00,000 --> 00:00:00,000	SAYID	No, you'd rather be out here alone and get lost or hurt.
+646	00:00:00,000 --> 00:00:00,000	SHANNON	I don't need your help, Sayid.
+648	00:00:00,000 --> 00:00:00,000	SAYID	Walt is not out here. You're following a Labrador, not a Bloodhound -- in an effort to find a boy who's on a raft in the middle of the ocean.
+650	00:00:00,000 --> 00:00:00,000	SHANNON	He's not on the raft.
+652	00:00:00,000 --> 00:00:00,000	SAYID	What are you talking about?
+654	00:00:00,000 --> 00:00:00,000	SHANNON	We found the bottle on the beach.
+656	00:00:00,000 --> 00:00:00,000	SAYID	The bottle with the messages that they brought with them?
+658	00:00:00,000 --> 00:00:00,000	SHANNON	I know he's out here somewhere. I saw Walt. And the raft is gone, and he is all alone.
+660	00:00:00,000 --> 00:00:00,000	SAYID	Shannon.
+662	00:00:00,000 --> 00:00:00,000		[Jin and Michael carry Sawyer on the homemade stretcher. They come to a steep embankment along a river, and all struggle to lift Sawyer up. All are grunting.]
+664	00:00:00,000 --> 00:00:00,000	MICHAEL	[Muttering] F*** me...
+666	00:00:00,000 --> 00:00:00,000	ANA	Cindy. Cindy? Where's Cindy?
+668	00:00:00,000 --> 00:00:00,000	BERNARD	She was just here.
+670	00:00:00,000 --> 00:00:00,000	ANA	Cindy! Cindy!
+672	00:00:00,000 --> 00:00:00,000	BERNARD	I don't know, she was...
+674	00:00:00,000 --> 00:00:00,000	LIBBY	Did they take her?
+676	00:00:00,000 --> 00:00:00,000	MICHAEL	How could she just be gone?
+678	00:00:00,000 --> 00:00:00,000	BERNARD	Cindy! Cindy!
+680	00:00:00,000 --> 00:00:00,000	ANA	I'm going after her.
+682	00:00:00,000 --> 00:00:00,000	EKO	[grabbing Ana's arm] No, we stay together -- we split up, we give them what they want.
+684	00:00:00,000 --> 00:00:00,000	ANA	This is all your fault. We never should have gone through the jungle. You risked our lives to save him and he's already dead. This one's on you.
+686	00:00:00,000 --> 00:00:00,000		[They all hear the whispers.]
+688	00:00:00,000 --> 00:00:00,000	MICHAEL	What the hell is that?
+690	00:00:00,000 --> 00:00:00,000		[Ana draws her gun.]
+692	00:00:00,000 --> 00:00:00,000	LIBBY	[terrified] Oh, god.
+694	00:00:00,000 --> 00:00:00,000	ANA	Run!
+696	00:00:00,000 --> 00:00:00,000		[Flashback - Shannon packing up her apartment. Boone enters.]
+698	00:00:00,000 --> 00:00:00,000	BOONE	Hey.
+700	00:00:00,000 --> 00:00:00,000	SHANNON	Hey.
+702	00:00:00,000 --> 00:00:00,000	BOONE	She said no. She knew why I asked for the money.
+704	00:00:00,000 --> 00:00:00,000	SHANNON	Can I crash at your place in New York for just a little while -- until I get on my feet.
+706	00:00:00,000 --> 00:00:00,000	BOONE	I'm leaving New York. She offered me a job.
+708	00:00:00,000 --> 00:00:00,000	SHANNON	You're going to work for your mother?
+710	00:00:00,000 --> 00:00:00,000	BOONE	It's a really good job, Shannon. [He pulls out a check] Look, this is all I have right now, but my trust fund's going to kick in at the end of the month. And after that I can absolutely keep you afloat.
+712	00:00:00,000 --> 00:00:00,000	SHANNON	Thank you, but I'm going to figure out a way to make my own money.
+714	00:00:00,000 --> 00:00:00,000	BOONE	But who knows when that's going to be, just take it.
+716	00:00:00,000 --> 00:00:00,000	SHANNON	Why, you don't think I can do it?
+718	00:00:00,000 --> 00:00:00,000	BOONE	I didn't say that.
+720	00:00:00,000 --> 00:00:00,000	SHANNON	Do you believe I can, or don't you, Boone? [He just looks at her] Okay, you know what, I really want you to just take your money -- go work for your mother -- I don't want it...
+722	00:00:00,000 --> 00:00:00,000	BOONE	Shannon, it's just money...
+724	00:00:00,000 --> 00:00:00,000	SHANNON	Just take it, alright!
+726	00:00:00,000 --> 00:00:00,000	BOONE	I'm trying to help you, Shannon!
+728	00:00:00,000 --> 00:00:00,000	SHANNON	I don't want your money!
+730	00:00:00,000 --> 00:00:00,000		[On-Island - Shannon and Sayid running through the jungle at night in the rain. Shannon trips and falls.]
+732	00:00:00,000 --> 00:00:00,000	SAYID	Shannon! Are you okay?
+734	00:00:00,000 --> 00:00:00,000	SHANNON	Do not help me up.
+736	00:00:00,000 --> 00:00:00,000	SAYID	Let's go back.
+738	00:00:00,000 --> 00:00:00,000	SHANNON	Why don't you believe me? [Sayid doesn't answer] I need you to believe in me.
+740	00:00:00,000 --> 00:00:00,000	SAYID	I do believe in you.
+742	00:00:00,000 --> 00:00:00,000	SHANNON	You don't! No one does. They think that I'm some kind of joke. They think I'm worthless.
+744	00:00:00,000 --> 00:00:00,000	SAYID	Shannon, you are not worthless.
+746	00:00:00,000 --> 00:00:00,000	SHANNON	You say that now, but you don't -- you're just going to leave me. I know as soon as we get out of here you're just going to leave me.
+748	00:00:00,000 --> 00:00:00,000	SAYID	I will never leave you. I love you and I believe you.
+750	00:00:00,000 --> 00:00:00,000	SHANNON	You do?
+752	00:00:00,000 --> 00:00:00,000	SAYID	I believe you.
+754	00:00:00,000 --> 00:00:00,000		[They hug. And then they hear the whispers. Sayid sees Walt.]
+756	00:00:00,000 --> 00:00:00,000	WALT	Shhh.
+758	00:00:00,000 --> 00:00:00,000	SHANNON	Do you see him?
+760	00:00:00,000 --> 00:00:00,000		[Sayid nods.]
+762	00:00:00,000 --> 00:00:00,000	SHANNON	Walt! Walt! Walt! Walt!
+764	00:00:00,000 --> 00:00:00,000		[Walt walks away and Shannon runs after him. Sayid sits stunned for a moment and then goes after Shannon.]
+766	00:00:00,000 --> 00:00:00,000	SAYID	Shannon!
+768	00:00:00,000 --> 00:00:00,000	SHANNON	Walt! Wait!
+770	00:00:00,000 --> 00:00:00,000		[Sayid trips and starts running after Shannon again.]
+772	00:00:00,000 --> 00:00:00,000	SAYID	Shannon!
+774	00:00:00,000 --> 00:00:00,000		[Sayid hears a gunshot.]
+776	00:00:00,000 --> 00:00:00,000	SAYID	Shannon! Shannon.
+778	00:00:00,000 --> 00:00:00,000		[Shannon turns around to reveal a wound in her gut. She collapses into Sayid's arms and dies. Then we see Ana standing there with the gun. And shocked looks on Jin and Michael's faces. Sayid looks like he has murder in his heart looking at Ana.]
