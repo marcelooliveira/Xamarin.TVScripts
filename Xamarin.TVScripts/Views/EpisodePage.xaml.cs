@@ -9,28 +9,23 @@ using Xamarin.TVScripts.ViewModels;
 namespace Xamarin.TVScripts.Views
 {
 	[XamlCompilation(XamlCompilationOptions.Compile)]
-	public partial class ItemDetailPage : ContentPage
+	public partial class EpisodePage : ContentPage
 	{
-        ItemDetailViewModel viewModel;
+        EpisodeViewModel viewModel;
 
-        public ItemDetailPage(ItemDetailViewModel viewModel)
+        public EpisodePage(EpisodeViewModel viewModel)
         {
             InitializeComponent();
 
             BindingContext = this.viewModel = viewModel;
         }
 
-        public ItemDetailPage()
+        public EpisodePage()
         {
             InitializeComponent();
 
-            var item = new Item
-            {
-                Text = "Item 1",
-                Description = "This is an item description."
-            };
-
-            viewModel = new ItemDetailViewModel(item);
+            var quotes = DependencyService.Get<IQuotes>().GetQuotes();
+            viewModel = new EpisodeViewModel(quotes);
             BindingContext = viewModel;
         }
     }

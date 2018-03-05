@@ -31,7 +31,10 @@ namespace Xamarin.TVScripts.Views
             if (item == null)
                 return;
 
-            await Navigation.PushAsync(new ItemDetailPage(new ItemDetailViewModel(item)));
+            IQuotes quoteManager = DependencyService.Get<IQuotes>();
+            var quotes = quoteManager.GetQuotes();
+
+            await Navigation.PushAsync(new EpisodePage(new EpisodeViewModel(quotes)));
 
             // Manually deselect item.
             ItemsListView.SelectedItem = null;

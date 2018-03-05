@@ -12,7 +12,6 @@ namespace Xamarin.TVScripts
 		{
 			InitializeComponent();
 
-
             MainPage = new MainPage();
         }
 
