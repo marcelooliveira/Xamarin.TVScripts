@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Xamarin.TVScripts", "Xamarin.TVScripts\Xamarin.TVScripts.csproj", "{481B50D6-6AFB-4179-8843-3C64F0D4FBD8}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.TVScripts.Android", "Xamarin.TVScripts.Android\Xamarin.TVScripts.Android.csproj", "{8CAACF93-07CC-4740-B94B-9E925223B83E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Xamarin.TVScripts", "Xamarin.TVScripts\Xamarin.TVScripts.csproj", "{CEDDDE2F-401B-4E1F-9FB0-D1CE515686DC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,16 +13,16 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{481B50D6-6AFB-4179-8843-3C64F0D4FBD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{481B50D6-6AFB-4179-8843-3C64F0D4FBD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{481B50D6-6AFB-4179-8843-3C64F0D4FBD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{481B50D6-6AFB-4179-8843-3C64F0D4FBD8}.Release|Any CPU.Build.0 = Release|Any CPU
 		{8CAACF93-07CC-4740-B94B-9E925223B83E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{8CAACF93-07CC-4740-B94B-9E925223B83E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CAACF93-07CC-4740-B94B-9E925223B83E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
 		{8CAACF93-07CC-4740-B94B-9E925223B83E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CAACF93-07CC-4740-B94B-9E925223B83E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{8CAACF93-07CC-4740-B94B-9E925223B83E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{CEDDDE2F-401B-4E1F-9FB0-D1CE515686DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEDDDE2F-401B-4E1F-9FB0-D1CE515686DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEDDDE2F-401B-4E1F-9FB0-D1CE515686DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEDDDE2F-401B-4E1F-9FB0-D1CE515686DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
