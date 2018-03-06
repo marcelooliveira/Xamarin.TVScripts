@@ -41,14 +41,19 @@ namespace Xamarin.TVScripts.Droid
             global::Xamarin.Forms.Forms.Init(this, bundle);
             LoadApplication(new App());
 
-
             AssetManager assets = this.Assets;
-            using (StreamReader sr = new StreamReader(assets.Open(@"0101.txt")))
+            using (StreamReader sr = new StreamReader(assets.Open(@"Scripts/Lost/0101.txt")))
             {
+                sr.ReadLine(); //episode name
+
                 string line = "";
                 while ((line = sr.ReadLine()) != null)
                 {
-                    quotes.Add(new Quote("", line));
+                    string[] parts = line.Split('\t');
+                    int.TryParse(parts[0], out int id);
+                    var character = parts[2];
+                    var speech = parts[3];
+                    quotes.Add(new Quote(id, character, speech));
                 }
             }
         }

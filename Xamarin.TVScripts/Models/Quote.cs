@@ -1,17 +1,20 @@
 ﻿using System;
+using Xamarin.Forms;
 
 namespace Xamarin.TVScripts.Models
 {
     public class Quote
     {
-        public Quote(string character, string speech)
+        public Quote(int id, string character, string speech)
         {
+            Id = id;
             Character = character;
             Speech = speech;
         }
 
-        public string Id { get; set; }
+        public int Id { get; set; }
         public string Character { get; set; }
+        public string ImageSource { get { return $@"{Character}.jpg"; } }
         public string Speech { get; set; }
     }
 }

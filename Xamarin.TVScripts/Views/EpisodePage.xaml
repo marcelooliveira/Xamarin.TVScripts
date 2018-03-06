@@ -16,14 +16,38 @@
                 <DataTemplate>
                     <ViewCell>
                         <StackLayout Padding="10">
-                            <Label Text="{Binding Character}" 
-                       LineBreakMode="NoWrap" 
-                       Style="{DynamicResource ListItemTextStyle}" 
-                       FontSize="16" />
-                            <Label Text="{Binding Speech}" 
-                       LineBreakMode="NoWrap"
-                       Style="{DynamicResource ListItemDetailTextStyle}"
-                       FontSize="13" />
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="*"/>
+                                    <RowDefinition Height="50"/>
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width=".2*"/>
+                                    <ColumnDefinition Width=".8*"/>
+                                </Grid.ColumnDefinitions>
+                                <Image 
+                                   Grid.Column="0"
+                                   Grid.Row="0"
+                                   MinimumWidthRequest="100">
+                                    <Image.Source>
+                                        <FileImageSource File="{Binding ImageSource}"/>
+                                    </Image.Source>
+                                </Image>
+                                <Label
+                                   Grid.Column="0"
+                                   Grid.Row="1"
+                                   Text="{Binding Character}" 
+                                   LineBreakMode="NoWrap" 
+                                   Style="{DynamicResource ListItemTextStyle}" 
+                                   FontSize="16" />
+                                <Label
+                                   Grid.Column="1"
+                                   Grid.RowSpan="2"
+                                   Text="{Binding Speech}" 
+                                   LineBreakMode="WordWrap"
+                                   Style="{DynamicResource ListItemDetailTextStyle}"
+                                   FontSize="13"/>
+                            </Grid>
                         </StackLayout>
                     </ViewCell>
                 </DataTemplate>
