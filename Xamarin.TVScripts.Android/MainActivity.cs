@@ -53,7 +53,7 @@ namespace Xamarin.TVScripts.Droid
                     int.TryParse(parts[0], out int id);
                     var character = parts[2];
                     var speech = parts[3];
-                    quotes.Add(new Quote(id, character, speech));
+                    quotes.Add(new Quote(quotes.Count + 1, character, speech));
                 }
             }
         }

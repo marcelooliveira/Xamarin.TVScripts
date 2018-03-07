@@ -1,8 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:conv="clr-namespace:Xamarin.TVScripts.Converters"
              x:Class="Xamarin.TVScripts.Views.EpisodePage"
              Title="{Binding Title}">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <conv:EvenLineConverter x:Key="even"></conv:EvenLineConverter>
+            <conv:OddLineConverter x:Key="odd"></conv:OddLineConverter>
+        </ResourceDictionary>
+    </ContentPage.Resources>
     <StackLayout>
         <ListView x:Name="ItemsListView" 
                 ItemsSource="{Binding Quotes}"
@@ -16,7 +23,7 @@
                 <DataTemplate>
                     <ViewCell>
                         <StackLayout Padding="10">
-                            <Grid>
+                            <Grid IsVisible="{Binding Id, Converter={StaticResource even}}">
                                 <Grid.RowDefinitions>
                                     <RowDefinition Height="*"/>
                                     <RowDefinition Height="50"/>
@@ -47,6 +54,38 @@
                                    LineBreakMode="WordWrap"
                                    Style="{DynamicResource ListItemDetailTextStyle}"
                                    FontSize="13"/>
+                            </Grid>
+                            <Grid IsVisible="{Binding Id, Converter={StaticResource odd}}">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="*"/>
+                                    <RowDefinition Height="50"/>
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width=".8*"/>
+                                    <ColumnDefinition Width=".2*"/>
+                                </Grid.ColumnDefinitions>
+                                <Label
+                                   Grid.Column="0"
+                                   Grid.RowSpan="2"
+                                   Text="{Binding Speech}" 
+                                   LineBreakMode="WordWrap"
+                                   Style="{DynamicResource ListItemDetailTextStyle}"
+                                   FontSize="13"/>
+                                <Image 
+                                   Grid.Column="1"
+                                   Grid.Row="0"
+                                   MinimumWidthRequest="100">
+                                    <Image.Source>
+                                        <FileImageSource File="{Binding ImageSource}"/>
+                                    </Image.Source>
+                                </Image>
+                                <Label
+                                   Grid.Column="1"
+                                   Grid.Row="1"
+                                   Text="{Binding Character}" 
+                                   LineBreakMode="NoWrap" 
+                                   Style="{DynamicResource ListItemTextStyle}" 
+                                   FontSize="16" />
                             </Grid>
                         </StackLayout>
                     </ViewCell>
