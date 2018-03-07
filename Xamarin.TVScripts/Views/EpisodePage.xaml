@@ -22,7 +22,7 @@
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <ViewCell>
-                        <StackLayout Padding="10">
+                        <StackLayout Padding="10" VerticalOptions="Center">
                             <Grid IsVisible="{Binding Id, Converter={StaticResource even}}">
                                 <Grid.RowDefinitions>
                                     <RowDefinition Height="*"/>
@@ -55,7 +55,7 @@
                                    Style="{DynamicResource ListItemDetailTextStyle}"
                                    FontSize="13"/>
                             </Grid>
-                            <Grid IsVisible="{Binding Id, Converter={StaticResource odd}}">
+                            <Grid IsVisible="{Binding Id, Converter={StaticResource odd}}" VerticalOptions="Center">
                                 <Grid.RowDefinitions>
                                     <RowDefinition Height="*"/>
                                     <RowDefinition Height="50"/>
