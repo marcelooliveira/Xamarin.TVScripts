@@ -22,31 +22,34 @@
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <ViewCell>
-                        <StackLayout Padding="10" VerticalOptions="Center" BackgroundColor="#F2F3F5">
-                            <StackLayout Orientation="Horizontal">
-                                <StackLayout WidthRequest="100">
-                                    <Image>
-                                        <Image.Source>
-                                            <FileImageSource File="{Binding ImageSource}"/>
-                                        </Image.Source>
-                                    </Image>
-                                    <Label Grid.Row="1"   
-                                        Text="{Binding Character}" 
-                                        HorizontalTextAlignment="Center"
-                                        LineBreakMode="WordWrap" 
-                                        FontSize="16" />
-                                </StackLayout>
-                                <Frame CornerRadius="4"
-                                       VerticalOptions="Center"
-                                       Padding="6"
-                                       HasShadow="False">
-                                    <Label
-                                    Text="{Binding Speech}" 
-                                    LineBreakMode="WordWrap"
-                                    FontSize="16"/>
-                                </Frame>
+                        <Grid Padding="10" VerticalOptions="Center" BackgroundColor="#F2F3F5">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="100"/>
+                                <ColumnDefinition/>
+                            </Grid.ColumnDefinitions>
+                            <StackLayout WidthRequest="100" Grid.Column="0">
+                                <Image>
+                                    <Image.Source>
+                                        <FileImageSource File="{Binding ImageSource}"/>
+                                    </Image.Source>
+                                </Image>
+                                <Label Grid.Row="1"   
+                                    Text="{Binding Character}" 
+                                    HorizontalTextAlignment="Center"
+                                    LineBreakMode="WordWrap" 
+                                    FontSize="16" />
                             </StackLayout>
-                        </StackLayout>
+                            <Frame CornerRadius="4"
+                                    VerticalOptions="Center"
+                                    Padding="6"
+                                    HasShadow="False"
+                                    Grid.Column="1">
+                                <Label
+                                Text="{Binding Speech}" 
+                                LineBreakMode="WordWrap"
+                                FontSize="16"/>
+                            </Frame>
+                        </Grid>
                     </ViewCell>
                 </DataTemplate>
             </ListView.ItemTemplate>
