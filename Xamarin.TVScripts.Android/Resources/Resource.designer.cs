@@ -2290,8 +2290,8 @@ namespace Xamarin.TVScripts.Droid
 			// aapt resource value: 0x7f0200bf
 			public const int NoPic = 2130837695;
 			
-			// aapt resource value: 0x7f0200cb
-			public const int notification_template_icon_bg = 2130837707;
+			// aapt resource value: 0x7f0200cc
+			public const int notification_template_icon_bg = 2130837708;
 			
 			// aapt resource value: 0x7f0200c0
 			public const int RICHARD = 2130837696;
@@ -2318,13 +2318,16 @@ namespace Xamarin.TVScripts.Droid
 			public const int TOM = 2130837703;
 			
 			// aapt resource value: 0x7f0200c8
-			public const int WALT = 2130837704;
+			public const int triangle = 2130837704;
 			
 			// aapt resource value: 0x7f0200c9
-			public const int WIDMORE = 2130837705;
+			public const int WALT = 2130837705;
 			
 			// aapt resource value: 0x7f0200ca
-			public const int xamarin_logo = 2130837706;
+			public const int WIDMORE = 2130837706;
+			
+			// aapt resource value: 0x7f0200cb
+			public const int xamarin_logo = 2130837707;
 			
 			static Drawable()
 			{

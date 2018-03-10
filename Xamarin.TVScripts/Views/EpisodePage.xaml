@@ -22,7 +22,7 @@
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <ViewCell>
-                        <Grid Padding="10" VerticalOptions="Center" BackgroundColor="#F2F3F5">
+                        <Grid Padding="10" VerticalOptions="Center" BackgroundColor="#C8E5FC">
                             <Grid.ColumnDefinitions>
                                 <ColumnDefinition Width="100"/>
                                 <ColumnDefinition/>
@@ -39,11 +39,17 @@
                                     LineBreakMode="WordWrap" 
                                     FontSize="16" />
                             </StackLayout>
+                            <Image WidthRequest="32"
+                                   HeightRequest="32"
+                                   HorizontalOptions="Start"
+                                   Grid.Column="1"
+                                   Source="triangle.png"></Image>
                             <Frame CornerRadius="4"
                                     VerticalOptions="Center"
                                     Padding="6"
                                     HasShadow="False"
-                                    Grid.Column="1">
+                                    Grid.Column="1"
+                                    Margin="32,0,0,0">
                                 <Label
                                 Text="{Binding Speech}" 
                                 LineBreakMode="WordWrap"
