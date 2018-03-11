@@ -2234,100 +2234,106 @@ namespace Xamarin.TVScripts.Droid
 			public const int LOCKE = 2130837676;
 			
 			// aapt resource value: 0x7f0200ad
-			public const int MICHAEL = 2130837677;
+			public const int mask = 2130837677;
 			
 			// aapt resource value: 0x7f0200ae
-			public const int MIKHAIL = 2130837678;
+			public const int MICHAEL = 2130837678;
 			
 			// aapt resource value: 0x7f0200af
-			public const int MILES = 2130837679;
+			public const int MIKHAIL = 2130837679;
 			
 			// aapt resource value: 0x7f0200b0
-			public const int mr_dialog_material_background_dark = 2130837680;
+			public const int MILES = 2130837680;
 			
 			// aapt resource value: 0x7f0200b1
-			public const int mr_dialog_material_background_light = 2130837681;
+			public const int mr_dialog_material_background_dark = 2130837681;
 			
 			// aapt resource value: 0x7f0200b2
-			public const int mr_ic_audiotrack_light = 2130837682;
+			public const int mr_dialog_material_background_light = 2130837682;
 			
 			// aapt resource value: 0x7f0200b3
-			public const int mr_ic_cast_dark = 2130837683;
+			public const int mr_ic_audiotrack_light = 2130837683;
 			
 			// aapt resource value: 0x7f0200b4
-			public const int mr_ic_cast_light = 2130837684;
+			public const int mr_ic_cast_dark = 2130837684;
 			
 			// aapt resource value: 0x7f0200b5
-			public const int mr_ic_close_dark = 2130837685;
+			public const int mr_ic_cast_light = 2130837685;
 			
 			// aapt resource value: 0x7f0200b6
-			public const int mr_ic_close_light = 2130837686;
+			public const int mr_ic_close_dark = 2130837686;
 			
 			// aapt resource value: 0x7f0200b7
-			public const int mr_ic_media_route_connecting_mono_dark = 2130837687;
+			public const int mr_ic_close_light = 2130837687;
 			
 			// aapt resource value: 0x7f0200b8
-			public const int mr_ic_media_route_connecting_mono_light = 2130837688;
+			public const int mr_ic_media_route_connecting_mono_dark = 2130837688;
 			
 			// aapt resource value: 0x7f0200b9
-			public const int mr_ic_media_route_mono_dark = 2130837689;
+			public const int mr_ic_media_route_connecting_mono_light = 2130837689;
 			
 			// aapt resource value: 0x7f0200ba
-			public const int mr_ic_media_route_mono_light = 2130837690;
+			public const int mr_ic_media_route_mono_dark = 2130837690;
 			
 			// aapt resource value: 0x7f0200bb
-			public const int mr_ic_pause_dark = 2130837691;
+			public const int mr_ic_media_route_mono_light = 2130837691;
 			
 			// aapt resource value: 0x7f0200bc
-			public const int mr_ic_pause_light = 2130837692;
+			public const int mr_ic_pause_dark = 2130837692;
 			
 			// aapt resource value: 0x7f0200bd
-			public const int mr_ic_play_dark = 2130837693;
+			public const int mr_ic_pause_light = 2130837693;
 			
 			// aapt resource value: 0x7f0200be
-			public const int mr_ic_play_light = 2130837694;
+			public const int mr_ic_play_dark = 2130837694;
 			
 			// aapt resource value: 0x7f0200bf
-			public const int NoPic = 2130837695;
-			
-			// aapt resource value: 0x7f0200cc
-			public const int notification_template_icon_bg = 2130837708;
+			public const int mr_ic_play_light = 2130837695;
 			
 			// aapt resource value: 0x7f0200c0
-			public const int RICHARD = 2130837696;
+			public const int NoPic = 2130837696;
+			
+			// aapt resource value: 0x7f0200ce
+			public const int notification_template_icon_bg = 2130837710;
 			
 			// aapt resource value: 0x7f0200c1
-			public const int ROGER = 2130837697;
+			public const int RICHARD = 2130837697;
 			
 			// aapt resource value: 0x7f0200c2
-			public const int ROSE = 2130837698;
+			public const int ROGER = 2130837698;
 			
 			// aapt resource value: 0x7f0200c3
-			public const int Sawyer = 2130837699;
+			public const int ROSE = 2130837699;
 			
 			// aapt resource value: 0x7f0200c4
-			public const int SAYID = 2130837700;
+			public const int Sawyer = 2130837700;
 			
 			// aapt resource value: 0x7f0200c5
-			public const int SHANNON = 2130837701;
+			public const int SAYID = 2130837701;
 			
 			// aapt resource value: 0x7f0200c6
-			public const int SUN = 2130837702;
+			public const int SHANNON = 2130837702;
 			
 			// aapt resource value: 0x7f0200c7
-			public const int TOM = 2130837703;
+			public const int SUN = 2130837703;
 			
 			// aapt resource value: 0x7f0200c8
-			public const int triangle = 2130837704;
+			public const int TOM = 2130837704;
 			
 			// aapt resource value: 0x7f0200c9
-			public const int WALT = 2130837705;
+			public const int triangle = 2130837705;
 			
 			// aapt resource value: 0x7f0200ca
-			public const int WIDMORE = 2130837706;
+			public const int triangle_inverted = 2130837706;
 			
 			// aapt resource value: 0x7f0200cb
-			public const int xamarin_logo = 2130837707;
+			public const int WALT = 2130837707;
+			
+			// aapt resource value: 0x7f0200cc
+			public const int WIDMORE = 2130837708;
+			
+			// aapt resource value: 0x7f0200cd
+			public const int xamarin_logo = 2130837709;
 			
 			static Drawable()
 			{

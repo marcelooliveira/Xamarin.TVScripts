@@ -7,13 +7,12 @@ using Xamarin.TVScripts.Models;
 
 namespace Xamarin.TVScripts.Converters
 {
-    public class OddLineConverter : IValueConverter
+    public class NarrationConverter : IValueConverter
     {
         public object Convert(object value, Type targetType, object parameter, CultureInfo culture)
         {
             if (value is Quote quote)
-                return quote.Character.Trim().Length > 1
-                    && quote.Id % 2 == 1;
+                return quote.Character.Trim().Length == 0;
 
             return false;
         }
