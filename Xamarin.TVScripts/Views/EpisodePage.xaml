@@ -24,14 +24,15 @@
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <ViewCell>
-                        <Grid>
+                        <Grid BackgroundColor="{DynamicResource bgColor}">
                             <!--NARRATION CARDS-->
                             <Frame CornerRadius="4"
                                 VerticalOptions="Center"
                                 Padding="6"
                                 HasShadow="False"
                                 Margin="16"
-                                BackgroundColor="LightYellow">
+                                BackgroundColor="LightYellow"
+                                IsVisible="{Binding Path=., Converter={StaticResource narration}}">
                                 <Label
                                 Text="{Binding Speech}" 
                                 LineBreakMode="WordWrap"
@@ -40,20 +41,17 @@
                                 BackgroundColor="LightYellow"/>
                             </Frame>
                             <!--ODD CARDS-->
-                            <Grid VerticalOptions="Center" BackgroundColor="{DynamicResource bgColor}"
-                                   IsVisible="{Binding ., Converter={StaticResource odd}}">
+                            <Grid VerticalOptions="Center" IsVisible="{Binding Path=., Converter={StaticResource odd}}">
                                 <Grid.ColumnDefinitions>
                                     <ColumnDefinition Width="80"/>
                                     <ColumnDefinition/>
                                     <ColumnDefinition Width="80"/>
                                 </Grid.ColumnDefinitions>
-                                <StackLayout WidthRequest="80" Grid.Column="0" Margin="8,0,0,0">
-                                    <Label
-                                        Text="{Binding Character}" 
-                                        HorizontalTextAlignment="Center"
-                                        LineBreakMode="WordWrap" 
-                                        FontSize="16"
-                                        TextColor="{DynamicResource bgColor}"/>
+                                <StackLayout 
+                                    Grid.Column="0" 
+                                    WidthRequest="80" 
+                                    Margin="8,0,0,0"
+                                    VerticalOptions="Center">
                                     <Grid>
                                         <Image>
                                             <Image.Source>
@@ -62,18 +60,13 @@
                                         </Image>
                                         <Image Source="mask.png"/>
                                     </Grid>
-                                    <Label
-                                        Text="{Binding Character}" 
-                                        HorizontalTextAlignment="Center"
-                                        LineBreakMode="WordWrap" 
-                                        FontSize="16" />
                                 </StackLayout>
                                 <Grid Grid.Column="1"
                                       Grid.ColumnSpan="2">
                                     <Image WidthRequest="24"
                                            HeightRequest="24"
                                            HorizontalOptions="Start"
-                                           Source="triangle.png"
+                                           Source="triangle.png"    
                                            Margin="0"></Image>
                                     <Frame CornerRadius="4"
                                             VerticalOptions="Center"
@@ -89,20 +82,17 @@
                             </Grid>
 
                             <!--EVEN CARDS-->
-                            <Grid VerticalOptions="Center" BackgroundColor="{DynamicResource bgColor}"
-                                   IsVisible="{Binding ., Converter={StaticResource even}}">
+                            <Grid VerticalOptions="Center" IsVisible="{Binding Path=., Converter={StaticResource even}}">
                                 <Grid.ColumnDefinitions>
                                     <ColumnDefinition Width="80"/>
                                     <ColumnDefinition/>
                                     <ColumnDefinition Width="80"/>
                                 </Grid.ColumnDefinitions>
-                                <StackLayout WidthRequest="80" Grid.Column="2" Margin="0,0,8,0">
-                                    <Label
-                                        Text="{Binding Character}" 
-                                        HorizontalTextAlignment="Center"
-                                        LineBreakMode="WordWrap" 
-                                        FontSize="16"
-                                        TextColor="{DynamicResource bgColor}"/>
+                                <StackLayout 
+                                    Grid.Column="2" 
+                                    WidthRequest="80" 
+                                    Margin="0,0,8,0"
+                                    VerticalOptions="Center">
                                     <Grid>
                                         <Image>
                                             <Image.Source>
@@ -111,11 +101,6 @@
                                         </Image>
                                         <Image Source="mask.png"/>
                                     </Grid>
-                                    <Label
-                                        Text="{Binding Character}" 
-                                        HorizontalTextAlignment="Center"
-                                        LineBreakMode="WordWrap" 
-                                        FontSize="16" />
                                 </StackLayout>
                                 <Grid Grid.Column="0"
                                       Grid.ColumnSpan="2">
