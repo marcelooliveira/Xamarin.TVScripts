@@ -1994,7 +1994,7 @@ namespace Xamarin.TVScripts.Droid
 			public const int GALE = 2130837596;
 			
 			// aapt resource value: 0x7f02005d
-			public const int Hurley = 2130837597;
+			public const int HURLEY = 2130837597;
 			
 			// aapt resource value: 0x7f02005e
 			public const int ic_audiotrack = 2130837598;
@@ -2306,7 +2306,7 @@ namespace Xamarin.TVScripts.Droid
 			public const int ROSE = 2130837699;
 			
 			// aapt resource value: 0x7f0200c4
-			public const int Sawyer = 2130837700;
+			public const int SAWYER = 2130837700;
 			
 			// aapt resource value: 0x7f0200c5
 			public const int SAYID = 2130837701;

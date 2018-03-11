@@ -20,17 +20,18 @@
                  RefreshCommand="{Binding LoadItemsCommand}"
                  IsPullToRefreshEnabled="true"
                  IsRefreshing="{Binding IsBusy, Mode=OneWay}"
-                 CachingStrategy="RecycleElement">
+                 CachingStrategy="RecycleElement"
+                 SeparatorVisibility="None">
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <ViewCell>
-                        <Grid BackgroundColor="{DynamicResource bgColor}">
+                        <Grid BackgroundColor="{DynamicResource bgColor}" Padding="0,8,0,0">
                             <!--NARRATION CARDS-->
                             <Frame CornerRadius="4"
                                 VerticalOptions="Center"
                                 Padding="6"
                                 HasShadow="False"
-                                Margin="16"
+                                Margin="16,8,16,8"
                                 BackgroundColor="LightYellow"
                                 IsVisible="{Binding Path=., Converter={StaticResource narration}}">
                                 <Label
@@ -47,6 +48,7 @@
                                     <ColumnDefinition/>
                                     <ColumnDefinition Width="80"/>
                                 </Grid.ColumnDefinitions>
+                                <!--CHARACTER-->
                                 <StackLayout 
                                     Grid.Column="0" 
                                     WidthRequest="80" 
@@ -61,6 +63,7 @@
                                         <Image Source="mask.png"/>
                                     </Grid>
                                 </StackLayout>
+                                <!--SPEECH-->
                                 <Grid Grid.Column="1"
                                       Grid.ColumnSpan="2">
                                     <Image WidthRequest="24"
@@ -88,6 +91,7 @@
                                     <ColumnDefinition/>
                                     <ColumnDefinition Width="80"/>
                                 </Grid.ColumnDefinitions>
+                                <!--CHARACTER-->
                                 <StackLayout 
                                     Grid.Column="2" 
                                     WidthRequest="80" 
@@ -102,6 +106,7 @@
                                         <Image Source="mask.png"/>
                                     </Grid>
                                 </StackLayout>
+                                <!--SPEECH-->
                                 <Grid Grid.Column="0"
                                       Grid.ColumnSpan="2">
                                     <Image WidthRequest="24"

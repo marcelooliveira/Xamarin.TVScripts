@@ -134,7 +134,7 @@
     <AndroidResource Include="Resources\drawable\GALE.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable\Hurley.jpg" />
+    <AndroidResource Include="Resources\drawable\HURLEY.jpg" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable\ILANA.jpg" />
@@ -188,7 +188,7 @@
     <AndroidResource Include="Resources\drawable\ROSE.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable\Sawyer.jpg" />
+    <AndroidResource Include="Resources\drawable\SAWYER.jpg" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable\SAYID.jpg" />
