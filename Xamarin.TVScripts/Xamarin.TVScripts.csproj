@@ -25,8 +25,9 @@
       <SubType>Code</SubType>
       <DependentUpon>EpisodePage.xaml</DependentUpon>
     </Compile>
-    <Compile Update="Views\ItemsPage.xaml.cs">
+    <Compile Update="Views\EpisodeListPage.xaml.cs">
       <SubType>Code</SubType>
+      <DependentUpon>EpisodeListPage.xaml</DependentUpon>
     </Compile>
     <Compile Update="Views\MainPage.xaml.cs">
       <SubType>Code</SubType>

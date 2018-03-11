@@ -8,9 +8,9 @@ namespace Xamarin.TVScripts.ViewModels
     public class EpisodeViewModel : BaseViewModel
     {
         public List<Quote> Quotes { get; set; }
-        public EpisodeViewModel(List<Quote> quotes)
+        public EpisodeViewModel(string title, List<Quote> quotes)
         {
-            Title = "Episode 1";
+            Title = title;
             Quotes = quotes;
         }
     }

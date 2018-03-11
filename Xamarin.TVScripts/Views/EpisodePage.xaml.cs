@@ -25,7 +25,7 @@ namespace Xamarin.TVScripts.Views
             InitializeComponent();
 
             var quotes = DependencyService.Get<IQuotes>().GetQuotes();
-            viewModel = new EpisodeViewModel(quotes);
+            viewModel = new EpisodeViewModel(viewModel.Title, quotes);
             BindingContext = viewModel;
         }
     }

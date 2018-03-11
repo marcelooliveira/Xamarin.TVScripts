@@ -13,7 +13,7 @@ namespace Xamarin.TVScripts
 			InitializeComponent();
 
             //MainPage = new MainPage();
-            MainPage = new NavigationPage(new ItemsPage());
+            MainPage = new NavigationPage(new EpisodeListPage());
         }
 
         protected override void OnStart ()

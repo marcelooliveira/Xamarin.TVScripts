@@ -14,11 +14,11 @@ using Xamarin.TVScripts.ViewModels;
 namespace Xamarin.TVScripts.Views
 {
 	[XamlCompilation(XamlCompilationOptions.Compile)]
-	public partial class ItemsPage : ContentPage
+	public partial class EpisodeListPage : ContentPage
 	{
         ItemsViewModel viewModel;
 
-        public ItemsPage()
+        public EpisodeListPage()
         {
             InitializeComponent();
 
@@ -34,7 +34,7 @@ namespace Xamarin.TVScripts.Views
             IQuotes quoteManager = DependencyService.Get<IQuotes>();
             var quotes = quoteManager.GetQuotes();
 
-            await Navigation.PushAsync(new EpisodePage(new EpisodeViewModel(quotes)));
+            await Navigation.PushAsync(new EpisodePage(new EpisodeViewModel(item.Text, quotes)));
 
             // Manually deselect item.
             ItemsListView.SelectedItem = null;
