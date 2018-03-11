@@ -49,20 +49,35 @@
                                     <ColumnDefinition Width="80"/>
                                 </Grid.ColumnDefinitions>
                                 <!--CHARACTER-->
-                                <StackLayout 
+                                <Grid 
                                     Grid.Column="0" 
                                     WidthRequest="80" 
+                                    HeightRequest="80"
                                     Margin="8,0,0,0"
                                     VerticalOptions="Center">
-                                    <Grid>
+                                    <Grid IsVisible="{Binding ShowCharacterImage}">
                                         <Image>
                                             <Image.Source>
                                                 <FileImageSource File="{Binding ImageSource}"/>
                                             </Image.Source>
+                                            <Image.GestureRecognizers>
+                                                <TapGestureRecognizer
+                                                    Command="{Binding CharacterTappedCommand}"
+                                                    CommandParameter="{Binding Path=.}"/>
+                                            </Image.GestureRecognizers>
                                         </Image>
                                         <Image Source="mask.png"/>
                                     </Grid>
-                                </StackLayout>
+                                    <Label
+                                        IsVisible="{Binding ShowCharacterName}"
+                                        Text="{Binding Character}" 
+                                        LineBreakMode="WordWrap"
+                                        FontSize="16"
+                                        HeightRequest="80"
+                                        VerticalTextAlignment="Center"
+                                        VerticalOptions="Center"
+                                        HorizontalOptions="Center"/>
+                                </Grid>
                                 <!--SPEECH-->
                                 <Grid Grid.Column="1"
                                       Grid.ColumnSpan="2">
@@ -92,20 +107,35 @@
                                     <ColumnDefinition Width="80"/>
                                 </Grid.ColumnDefinitions>
                                 <!--CHARACTER-->
-                                <StackLayout 
+                                <Grid 
                                     Grid.Column="2" 
                                     WidthRequest="80" 
+                                    HeightRequest="80"
                                     Margin="0,0,8,0"
                                     VerticalOptions="Center">
-                                    <Grid>
+                                    <Grid IsVisible="{Binding ShowCharacterImage}">
                                         <Image>
                                             <Image.Source>
                                                 <FileImageSource File="{Binding ImageSource}"/>
                                             </Image.Source>
+                                            <Image.GestureRecognizers>
+                                                <TapGestureRecognizer
+                                                    Command="{Binding CharacterTappedCommand}"
+                                                    CommandParameter="{Binding Path=.}"/>
+                                            </Image.GestureRecognizers>
                                         </Image>
                                         <Image Source="mask.png"/>
                                     </Grid>
-                                </StackLayout>
+                                    <Label
+                                        IsVisible="{Binding ShowCharacterName}"
+                                        Text="{Binding Character}" 
+                                        LineBreakMode="WordWrap"
+                                        FontSize="16"
+                                        HeightRequest="80"
+                                        VerticalOptions="Center"
+                                        VerticalTextAlignment="Center"
+                                        HorizontalOptions="Center"/>
+                                </Grid>
                                 <!--SPEECH-->
                                 <Grid Grid.Column="0"
                                       Grid.ColumnSpan="2">
