@@ -9,7 +9,7 @@
             <conv:EvenLineConverter x:Key="even"></conv:EvenLineConverter>
             <conv:OddLineConverter x:Key="odd"></conv:OddLineConverter>
             <conv:NarrationConverter x:Key="narration"></conv:NarrationConverter>
-            <Color x:Key="bgColor">#E3F2FD</Color>
+            <Color x:Key="bgColor">#80C9FF</Color>
         </ResourceDictionary>
     </ContentPage.Resources>
     <StackLayout>
@@ -21,19 +21,20 @@
                  IsPullToRefreshEnabled="true"
                  IsRefreshing="{Binding IsBusy, Mode=OneWay}"
                  CachingStrategy="RecycleElement"
-                 SeparatorVisibility="None">
+                 SeparatorVisibility="None"
+                 BackgroundColor="{DynamicResource bgColor}">
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <ViewCell>
-                        <Grid BackgroundColor="{DynamicResource bgColor}" Padding="0,8,0,0">
+                        <Grid Padding="0,8,0,0">
                             <!--NARRATION CARDS-->
                             <Frame CornerRadius="4"
                                 VerticalOptions="Center"
                                 Padding="6"
-                                HasShadow="False"
                                 Margin="16,8,16,8"
                                 BackgroundColor="LightYellow"
-                                IsVisible="{Binding Path=., Converter={StaticResource narration}}">
+                                IsVisible="{Binding Path=., Converter={StaticResource narration}}"
+                                HasShadow="False">
                                 <Label
                                 Text="{Binding Speech}" 
                                 LineBreakMode="WordWrap"
@@ -85,12 +86,12 @@
                                            HeightRequest="24"
                                            HorizontalOptions="Start"
                                            Source="triangle.png"    
-                                           Margin="0"></Image>
+                                           Margin="2,0,0,0"></Image>
                                     <Frame CornerRadius="4"
                                             VerticalOptions="Center"
                                             Padding="6"
-                                            HasShadow="False"
-                                            Margin="24,0,8,0">
+                                            Margin="24,0,8,0"
+                                            HasShadow="False">
                                         <Label
                                         Text="{Binding Speech}" 
                                         LineBreakMode="WordWrap"
@@ -139,21 +140,21 @@
                                 <!--SPEECH-->
                                 <Grid Grid.Column="0"
                                       Grid.ColumnSpan="2">
-                                    <Image WidthRequest="24"
-                                           HeightRequest="24"
-                                           HorizontalOptions="End"
-                                           Source="triangle_inverted.png"
-                                           Margin="0"></Image>
                                     <Frame CornerRadius="4"
                                             VerticalOptions="Center"
                                             Padding="6"
-                                            HasShadow="False"
-                                            Margin="8,0,24,0">
+                                            Margin="8,0,24,0"
+                                            HasShadow="False">
                                         <Label
                                         Text="{Binding Speech}" 
                                         LineBreakMode="WordWrap"
                                         FontSize="16"/>
                                     </Frame>
+                                    <Image WidthRequest="24"
+                                           HeightRequest="24"
+                                           HorizontalOptions="End"
+                                           Source="triangle_inverted.png"
+                                           Margin="0"></Image>
                                 </Grid>
                             </Grid>
                         </Grid>

@@ -4,6 +4,7 @@ using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
 using Xamarin.TVScripts.Models;
+using Xamarin.TVScripts.Services;
 using Xamarin.TVScripts.ViewModels;
 
 namespace Xamarin.TVScripts.Views
@@ -24,7 +25,7 @@ namespace Xamarin.TVScripts.Views
         {
             InitializeComponent();
 
-            var quotes = DependencyService.Get<IQuotes>().GetQuotes();
+            var quotes = DependencyService.Get<IFileService>().GetQuotes(1, 1);
             viewModel = new EpisodeViewModel(viewModel.Title, quotes);
             BindingContext = viewModel;
         }

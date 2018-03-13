@@ -4,7 +4,7 @@
             xmlns:views="clr-namespace:Xamarin.TVScripts.Views"
             x:Class="Xamarin.TVScripts.Views.MainPage">
     <TabbedPage.Children>
-        <NavigationPage Title="Browse">
+        <NavigationPage Title="Season 1">
             <NavigationPage.Icon>
                 <OnPlatform x:TypeArguments="FileImageSource">
                     <On Platform="iOS" Value="tab_feed.png"/>

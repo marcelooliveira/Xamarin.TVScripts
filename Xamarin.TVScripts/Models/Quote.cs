@@ -10,8 +10,10 @@ namespace Xamarin.TVScripts.Models
     {
         public ICommand CharacterTappedCommand { get; set; }
 
-        public Quote(int id, string character, string speech)
+        public Quote(int seasonNumber, int episodeNumber, int id, string character, string speech)
         {
+            SeasonNumber = seasonNumber;
+            EpisodeNumber = episodeNumber;
             Id = id;
             Character = character;
             Speech = speech;
@@ -34,6 +36,8 @@ namespace Xamarin.TVScripts.Models
             };
         }
 
+        public int SeasonNumber { get; }
+        public int EpisodeNumber { get; }
         public int Id { get; set; }
         public string Character { get; set; }
         public string ImageSource { get { return $@"{Character}.jpg"; } }
