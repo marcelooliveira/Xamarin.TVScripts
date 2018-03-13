@@ -10,6 +10,7 @@
             <conv:OddLineConverter x:Key="odd"></conv:OddLineConverter>
             <conv:NarrationConverter x:Key="narration"></conv:NarrationConverter>
             <Color x:Key="bgColor">#80C9FF</Color>
+            <Color x:Key="fontColor">#000000</Color>
         </ResourceDictionary>
     </ContentPage.Resources>
     <StackLayout>
@@ -40,6 +41,7 @@
                                 LineBreakMode="WordWrap"
                                 FontSize="16"
                                 FontAttributes="Italic"
+                                TextColor="{DynamicResource fontColor}"
                                 BackgroundColor="LightYellow"/>
                             </Frame>
                             <!--ODD CARDS-->
@@ -74,6 +76,7 @@
                                         Text="{Binding Character}" 
                                         LineBreakMode="WordWrap"
                                         FontSize="16"
+                                        TextColor="{DynamicResource fontColor}"
                                         HeightRequest="80"
                                         VerticalTextAlignment="Center"
                                         VerticalOptions="Center"
@@ -95,6 +98,7 @@
                                         <Label
                                         Text="{Binding Speech}" 
                                         LineBreakMode="WordWrap"
+                                        TextColor="{DynamicResource fontColor}"
                                         FontSize="16"/>
                                     </Frame>
                                 </Grid>
@@ -132,6 +136,7 @@
                                         Text="{Binding Character}" 
                                         LineBreakMode="WordWrap"
                                         FontSize="16"
+                                        TextColor="{DynamicResource fontColor}"
                                         HeightRequest="80"
                                         VerticalOptions="Center"
                                         VerticalTextAlignment="Center"
@@ -147,6 +152,7 @@
                                             HasShadow="False">
                                         <Label
                                         Text="{Binding Speech}" 
+                                        TextColor="{DynamicResource fontColor}"
                                         LineBreakMode="WordWrap"
                                         FontSize="16"/>
                                     </Frame>
