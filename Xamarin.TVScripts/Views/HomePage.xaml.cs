@@ -16,12 +16,11 @@ namespace Xamarin.TVScripts.Views
 		{
 			InitializeComponent ();
 
-            btnStart.Clicked += BtnStart_Clicked;
+            var tapGestureRecognizer = new TapGestureRecognizer();
+            tapGestureRecognizer.Tapped += async (s, e) => {
+                await Navigation.PushAsync(new EpisodeListPage());
+            };
+            imgStart.GestureRecognizers.Add(tapGestureRecognizer);
 		}
-
-        private async void BtnStart_Clicked(object sender, EventArgs e)
-        {
-            await Navigation.PushAsync(new EpisodeListPage());
-        }
     }
 }

@@ -303,6 +303,9 @@
   <ItemGroup>
     <AndroidAsset Include="Assets\Scripts\Lost\0124.txt" />
   </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\poster.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <PropertyGroup>
     <PreBuildEvent>

@@ -2296,47 +2296,50 @@ namespace Xamarin.TVScripts.Droid
 			// aapt resource value: 0x7f0200c1
 			public const int NoPic = 2130837697;
 			
-			// aapt resource value: 0x7f0200cf
-			public const int notification_template_icon_bg = 2130837711;
+			// aapt resource value: 0x7f0200d0
+			public const int notification_template_icon_bg = 2130837712;
 			
 			// aapt resource value: 0x7f0200c2
-			public const int RICHARD = 2130837698;
+			public const int poster = 2130837698;
 			
 			// aapt resource value: 0x7f0200c3
-			public const int ROGER = 2130837699;
+			public const int RICHARD = 2130837699;
 			
 			// aapt resource value: 0x7f0200c4
-			public const int ROSE = 2130837700;
+			public const int ROGER = 2130837700;
 			
 			// aapt resource value: 0x7f0200c5
-			public const int SAWYER = 2130837701;
+			public const int ROSE = 2130837701;
 			
 			// aapt resource value: 0x7f0200c6
-			public const int SAYID = 2130837702;
+			public const int SAWYER = 2130837702;
 			
 			// aapt resource value: 0x7f0200c7
-			public const int SHANNON = 2130837703;
+			public const int SAYID = 2130837703;
 			
 			// aapt resource value: 0x7f0200c8
-			public const int SUN = 2130837704;
+			public const int SHANNON = 2130837704;
 			
 			// aapt resource value: 0x7f0200c9
-			public const int TOM = 2130837705;
+			public const int SUN = 2130837705;
 			
 			// aapt resource value: 0x7f0200ca
-			public const int triangle = 2130837706;
+			public const int TOM = 2130837706;
 			
 			// aapt resource value: 0x7f0200cb
-			public const int triangle_inverted = 2130837707;
+			public const int triangle = 2130837707;
 			
 			// aapt resource value: 0x7f0200cc
-			public const int WALT = 2130837708;
+			public const int triangle_inverted = 2130837708;
 			
 			// aapt resource value: 0x7f0200cd
-			public const int WIDMORE = 2130837709;
+			public const int WALT = 2130837709;
 			
 			// aapt resource value: 0x7f0200ce
-			public const int xamarin_logo = 2130837710;
+			public const int WIDMORE = 2130837710;
+			
+			// aapt resource value: 0x7f0200cf
+			public const int xamarin_logo = 2130837711;
 			
 			static Drawable()
 			{

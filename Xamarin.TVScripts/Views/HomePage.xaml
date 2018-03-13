@@ -4,7 +4,10 @@
              x:Class="Xamarin.TVScripts.Views.HomePage">
     <ContentPage.Content>
         <Grid>
-            <Button x:Name="btnStart" Text="Start"></Button>
+            <Image x:Name="imgStart"
+                   HorizontalOptions="FillAndExpand"
+                   VerticalOptions="FillAndExpand"
+                   Source="poster.jpg"></Image>
         </Grid>
     </ContentPage.Content>
 </ContentPage>
