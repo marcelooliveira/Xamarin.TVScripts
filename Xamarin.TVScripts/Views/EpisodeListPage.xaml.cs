@@ -32,19 +32,13 @@ namespace Xamarin.TVScripts.Views
             if (episode == null)
                 return;
 
-            IFileService quoteManager = DependencyService.Get<IFileService>();
-            var quotes = quoteManager.GetQuotes(episode.SeasonNumber, episode.EpisodeNumber);
+            IFileService fileService = DependencyService.Get<IFileService>();
+            var quotes = fileService.GetQuotes(episode.SeasonNumber, episode.EpisodeNumber);
 
             await Navigation.PushAsync(new EpisodePage(new EpisodeViewModel(episode.Name, quotes)));
 
-            // Manually deselect item.
             ItemsListView.SelectedItem = null;
         }
-
-        //async void AddItem_Clicked(object sender, EventArgs e)
-        //{
-        //    await Navigation.PushModalAsync(new NavigationPage(new NewItemPage()));
-        //}
 
         protected override void OnAppearing()
         {

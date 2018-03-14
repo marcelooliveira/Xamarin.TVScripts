@@ -7,6 +7,7 @@ namespace Xamarin.TVScripts.Services
 {
     public interface IDataStore
     {
+        Task<IEnumerable<Season>> GetSeasonListAsync();
         Task<IEnumerable<Episode>> GetEpisodeListAsync(int seasonNumber);
         Task<Episode> GetEpisodeAsync(int seasonNumber, int episodeNumber, string episodeName);
     }

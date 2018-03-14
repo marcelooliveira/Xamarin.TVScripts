@@ -15,10 +15,18 @@ namespace Xamarin.TVScripts.Services
         public MockDataStore()
         {
         }
+
+        public async Task<IEnumerable<Season>> GetSeasonListAsync()
+        {
+            IFileService fileService = DependencyService.Get<IFileService>();
+            var seasons = fileService.GetSeasons();
+
+            return await Task.FromResult(seasons);
+        }
         public async Task<IEnumerable<Episode>> GetEpisodeListAsync()
         {
-            IFileService quoteManager = DependencyService.Get<IFileService>();
-            var quotes = quoteManager.GetQuotes(1, 1);
+            IFileService fileService = DependencyService.Get<IFileService>();
+            var quotes = fileService.GetQuotes(1, 1);
 
             return await Task.FromResult(episodes);
         }

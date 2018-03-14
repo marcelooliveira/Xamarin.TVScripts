@@ -8,6 +8,7 @@
         <ResourceDictionary>
             <Color x:Key="bgColor">#80C9FF</Color>
             <Color x:Key="fgColor">#FFFFFF</Color>
+            <Color x:Key="fontColor">#000000</Color>
         </ResourceDictionary>
     </ContentPage.Resources>
     <ContentPage.Content>
@@ -33,6 +34,7 @@
                                        BackgroundColor="{DynamicResource fgColor}">
                                     <Label Text="{Binding Name}" 
                                        LineBreakMode="NoWrap" 
+                                       TextColor="{DynamicResource fontColor}"
                                        Style="{DynamicResource ListItemTextStyle}" 
                                        FontSize="16" />
                                 </Frame>

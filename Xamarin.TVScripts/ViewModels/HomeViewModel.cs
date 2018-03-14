@@ -10,24 +10,16 @@ using Xamarin.TVScripts.Views;
 
 namespace Xamarin.TVScripts.ViewModels
 {
-    public class SeasonViewModel : BaseViewModel
+    public class HomeViewModel : BaseViewModel
     {
-        public ObservableCollection<Episode> Episodes { get; set; }
+        public ObservableCollection<Season> Seasons { get; set; }
         public Command LoadItemsCommand { get; set; }
 
-        public SeasonViewModel()
+        public HomeViewModel()
         {
-            Title = "Season 1";
-            Episodes = new ObservableCollection<Episode>();
+            Seasons = new ObservableCollection<Season>();
             LoadItemsCommand = new Command(async () => await ExecuteLoadItemsCommand());
             ExecuteLoadItemsCommand().Wait();
-
-            //MessagingCenter.Subscribe<NewItemPage, Episode>(this, "AddItem", async (obj, item) =>
-            //{
-            //    var _item = item as Episode;
-            //    Items.Add(_item);
-            //    await DataStore.AddItemAsync(_item);
-            //});
         }
 
         async Task ExecuteLoadItemsCommand()
@@ -39,11 +31,11 @@ namespace Xamarin.TVScripts.ViewModels
 
             try
             {
-                Episodes.Clear();
-                var items = await DataStore.GetEpisodeListAsync(1);
+                Seasons.Clear();
+                var items = await DataStore.GetSeasonListAsync();
                 foreach (var item in items)
                 {
-                    Episodes.Add(item);
+                    Seasons.Add(item);
                 }
             }
             catch (Exception ex)
