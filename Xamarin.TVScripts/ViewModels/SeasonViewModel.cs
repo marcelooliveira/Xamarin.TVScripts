@@ -56,14 +56,14 @@ namespace Xamarin.TVScripts.ViewModels
         private async Task<IEnumerable<Episode>> GetEpisodes()
         {
             EpisodeDAO dao = new EpisodeDAO();
-            if (dao.IsEmpty())
+            if (dao.NoEpisodes(season.SeasonNumber))
             {
                 var episodes = await DataStore.GetEpisodeListAsync(season.SeasonNumber);
                 dao.Save(episodes.ToList());
                 return episodes;
             }
 
-            return dao.GetList();
+            return dao.GetList(season.SeasonNumber);
         }
     }
 }

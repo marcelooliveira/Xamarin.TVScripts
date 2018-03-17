@@ -10,8 +10,6 @@ namespace Xamarin.TVScripts.Services
 {
     public class MockDataStore : IDataStore
     {
-        List<Episode> episodes;
-
         public MockDataStore()
         {
         }
@@ -19,34 +17,19 @@ namespace Xamarin.TVScripts.Services
         public async Task<IEnumerable<Season>> GetSeasonListAsync()
         {
             IFileService fileService = DependencyService.Get<IFileService>();
-            var seasons = fileService.GetSeasons();
-
-            return await Task.FromResult(seasons);
-        }
-        public async Task<IEnumerable<Episode>> GetEpisodeListAsync()
-        {
-            IFileService fileService = DependencyService.Get<IFileService>();
-            var quotes = fileService.GetQuotes(1, 1);
-
-            return await Task.FromResult(episodes);
+            return await Task.FromResult(fileService.GetSeasons());
         }
 
         public async Task<IEnumerable<Episode>> GetEpisodeListAsync(int seasonNumber)
         {
             IFileService fileService = DependencyService.Get<IFileService>();
-
             return await Task.FromResult(fileService.GetEpisodes(seasonNumber));
         }
 
-        public async Task<Episode> GetEpisodeAsync(int seasonNumber, int episodeNumber, string episodeName)
+        public async Task<IEnumerable<Quote>> GetQuoteListAsync(int seasonNumber, int episodeNumber)
         {
             IFileService fileService = DependencyService.Get<IFileService>();
-
-            var quotes = fileService.GetQuotes(1, 1);
-            var episode = new Episode(seasonNumber, episodeNumber, episodeName);
-            episode.Quotes.AddRange(quotes);
-
-            return await Task.FromResult(episode);
+            return await Task.FromResult(fileService.GetQuotes(seasonNumber, episodeNumber));
         }
     }
 }

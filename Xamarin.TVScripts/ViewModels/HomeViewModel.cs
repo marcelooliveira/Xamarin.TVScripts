@@ -57,7 +57,7 @@ namespace Xamarin.TVScripts.ViewModels
         private async Task<IEnumerable<Season>> GetSeasons()
         {
             SeasonDAO dao = new SeasonDAO();
-            if (dao.IsEmpty())
+            if (dao.NoSeasons())
             {
                 var seasons = await DataStore.GetSeasonListAsync();
                 dao.Save(seasons.ToList());

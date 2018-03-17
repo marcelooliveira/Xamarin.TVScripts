@@ -33,5 +33,14 @@ namespace Xamarin.TVScripts.Data
                                 q.SeasonNumber == seasonNumber)
                        .ToList();
         }
+
+        public bool NoEpisodes(int seasonNumber)
+        {
+            using (SQLiteConnection connection = GetConnection())
+            {
+                return !connection.Table<Episode>().Where(q =>
+                                q.SeasonNumber == seasonNumber).Any();
+            }
+        }
     }
 }

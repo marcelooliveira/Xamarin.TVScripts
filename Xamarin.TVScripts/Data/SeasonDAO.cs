@@ -15,5 +15,13 @@ namespace Xamarin.TVScripts.Data
         public SeasonDAO() : base()
         {
         }
+
+        public bool NoSeasons()
+        {
+            using (SQLiteConnection connection = GetConnection())
+            {
+                return !connection.Table<Season>().Any();
+            }
+        }
     }
 }

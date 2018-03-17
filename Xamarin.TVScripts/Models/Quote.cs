@@ -10,7 +10,6 @@ namespace Xamarin.TVScripts.Models
     [Table("Quotes")]
     public class Quote : BaseModel
     {
-        public ICommand CharacterTappedCommand { get; set; }
 
         public Quote()
         {
@@ -28,6 +27,22 @@ namespace Xamarin.TVScripts.Models
             CharacterTappedCommand = new Command(CharacterTapped());
         }
 
+        [Indexed(Name = "SeasonEpisodeQuote", Order = 1, Unique = true)]
+        public int SeasonNumber { get; set; }
+
+        [Indexed(Name = "SeasonEpisodeQuote", Order = 2, Unique = true)]
+        public int EpisodeNumber { get; set; }
+
+        [Indexed(Name = "SeasonEpisodeQuote", Order = 3, Unique = true)]
+
+        public int QuoteNumber { get; set; }
+
+        public string Character { get; set; }
+
+        public string Speech { get; set; }
+
+        [Ignore]
+        public ICommand CharacterTappedCommand { get; set; }
         private Action<object> CharacterTapped()
         {
             return (obj) =>
@@ -43,22 +58,8 @@ namespace Xamarin.TVScripts.Models
             };
         }
 
-        [Indexed(Name = "SeasonEpisodeQuote", Order = 1, Unique = true)]
-        public int SeasonNumber { get; set; }
-
-        [Indexed(Name = "SeasonEpisodeQuote", Order = 2, Unique = true)]
-        public int EpisodeNumber { get; set; }
-
-        [Indexed(Name = "SeasonEpisodeQuote", Order = 3, Unique = true)]
-
-        public int QuoteNumber { get; set; }
-
-        public string Character { get; set; }
-
         [Ignore]
         public string ImageSource { get { return $@"{Character}.jpg"; } }
-
-        public string Speech { get; set; }
 
         private bool showCharacterImage = true;
         [Ignore]

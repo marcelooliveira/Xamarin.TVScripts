@@ -43,10 +43,6 @@ namespace Xamarin.TVScripts.Droid
             LoadApplication(new App());
 
             assets = this.Assets;
-
-            //LoadSeasons(assets);
-            //LoadEpisodes(assets);
-            //LoadQuotes(assets);
         }
 
         private void LoadSeasons(AssetManager assets)

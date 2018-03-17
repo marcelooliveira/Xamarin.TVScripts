@@ -9,6 +9,6 @@ namespace Xamarin.TVScripts.Services
     {
         Task<IEnumerable<Season>> GetSeasonListAsync();
         Task<IEnumerable<Episode>> GetEpisodeListAsync(int seasonNumber);
-        Task<Episode> GetEpisodeAsync(int seasonNumber, int episodeNumber, string episodeName);
+        Task<IEnumerable<Quote>> GetQuoteListAsync(int seasonNumber, int episodeNumber);
     }
 }

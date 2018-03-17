@@ -35,10 +35,7 @@ namespace Xamarin.TVScripts.Views
             if (episode == null)
                 return;
 
-            IFileService fileService = DependencyService.Get<IFileService>();
-            var quotes = fileService.GetQuotes(episode.SeasonNumber, episode.EpisodeNumber);
-
-            await Navigation.PushAsync(new EpisodePage(new EpisodeViewModel(episode.Name, quotes)));
+            await Navigation.PushAsync(new EpisodePage(episode));
 
             ItemsListView.SelectedItem = null;
         }

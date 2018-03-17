@@ -50,7 +50,7 @@ namespace Xamarin.TVScripts.Data
             }
         }
 
-        public bool IsEmpty()
+        public bool NoQuotes()
         {
             return !GetList().Any();
         }

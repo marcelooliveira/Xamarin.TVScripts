@@ -35,5 +35,15 @@ namespace Xamarin.TVScripts.Data
                                 && q.EpisodeNumber == episodeNumber)
                        .ToList();
         }
+
+        public bool NoQuotes(int seasonNumber, int episodeNumber)
+        {
+            using (SQLiteConnection connection = GetConnection())
+            {
+                return !connection.Table<Quote>().Where(q =>
+                                q.SeasonNumber == seasonNumber
+                                && q.EpisodeNumber == episodeNumber).Any();
+            }
+        }
     }
 }

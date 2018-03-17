@@ -13,21 +13,23 @@ namespace Xamarin.TVScripts.Views
 	public partial class EpisodePage : ContentPage
 	{
         EpisodeViewModel viewModel;
+        private readonly Episode episode;
 
-        public EpisodePage(EpisodeViewModel viewModel)
+        public EpisodePage(Episode episode)
         {
             InitializeComponent();
 
-            BindingContext = this.viewModel = viewModel;
+            this.episode = episode;
+
+            BindingContext = this.viewModel = new EpisodeViewModel(episode);
         }
 
-        public EpisodePage()
+        protected override void OnAppearing()
         {
-            InitializeComponent();
+            base.OnAppearing();
 
-            var quotes = DependencyService.Get<IFileService>().GetQuotes(1, 1);
-            viewModel = new EpisodeViewModel(viewModel.Title, quotes);
-            BindingContext = viewModel;
+            if (viewModel.Quotes.Count == 0)
+                viewModel.LoadItemsCommand.Execute(null);
         }
     }
 }
