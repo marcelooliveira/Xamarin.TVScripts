@@ -52,6 +52,7 @@
     <Compile Include="MainActivity.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SQLite_android.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />
@@ -209,6 +210,9 @@
     <AndroidResource Include="Resources\drawable\WIDMORE.jpg" />
   </ItemGroup>
   <ItemGroup>
+    <PackageReference Include="sqlite-net-pcl">
+      <Version>1.4.118</Version>
+    </PackageReference>
     <PackageReference Include="Xamarin.Forms">
       <Version>2.4.0.91020</Version>
     </PackageReference>

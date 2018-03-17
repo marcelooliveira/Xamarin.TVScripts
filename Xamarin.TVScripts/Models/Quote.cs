@@ -1,4 +1,5 @@
-﻿using System;
+﻿using SQLite;
+using System;
 using System.ComponentModel;
 using System.Threading.Tasks;
 using System.Windows.Input;
@@ -6,9 +7,15 @@ using Xamarin.Forms;
 
 namespace Xamarin.TVScripts.Models
 {
-    public class Quote : INotifyPropertyChanged
+    [Table("Quotes")]
+    public class Quote : BaseModel
     {
         public ICommand CharacterTappedCommand { get; set; }
+
+        public Quote()
+        {
+
+        }
 
         public Quote(int seasonNumber, int episodeNumber, int id, string character, string speech)
         {
@@ -38,23 +45,19 @@ namespace Xamarin.TVScripts.Models
 
         public int SeasonNumber { get; }
         public int EpisodeNumber { get; }
-        public int Id { get; set; }
         public string Character { get; set; }
         public string ImageSource { get { return $@"{Character}.jpg"; } }
         public string Speech { get; set; }
-        
 
-        public event PropertyChangedEventHandler PropertyChanged;
         private bool showCharacterImage = true;
-        
         public bool ShowCharacterImage
         {
             get { return showCharacterImage; }
             set
             {
                 showCharacterImage = value;
-                PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(ShowCharacterImage)));
-                PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(ShowCharacterName)));
+                OnRaisePropertyChanged();
+                OnRaisePropertyChanged(nameof(ShowCharacterName));
             }
         }
 

@@ -1,10 +1,12 @@
-﻿using System;
+﻿using SQLite;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace Xamarin.TVScripts.Models
 {
-    public class Episode
+    [Table("Episodes")]
+    public class Episode : BaseModel
     {
         public Episode(int seasonNumber, int episodeNumber, string name)
         {
