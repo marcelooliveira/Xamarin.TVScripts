@@ -15,11 +15,11 @@ using Xamarin.TVScripts.Services;
 namespace Xamarin.TVScripts.Views
 {
 	[XamlCompilation(XamlCompilationOptions.Compile)]
-	public partial class EpisodeListPage : ContentPage
+	public partial class SeasonPage : ContentPage
 	{
         SeasonViewModel viewModel;
 
-        public EpisodeListPage()
+        public SeasonPage()
         {
             InitializeComponent();
 

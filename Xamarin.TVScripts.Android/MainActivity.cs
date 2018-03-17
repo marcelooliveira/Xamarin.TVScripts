@@ -44,13 +44,14 @@ namespace Xamarin.TVScripts.Droid
 
             assets = this.Assets;
 
-            LoadSeasons(assets);
-            LoadEpisodes(assets);
-            LoadQuotes(assets);
+            //LoadSeasons(assets);
+            //LoadEpisodes(assets);
+            //LoadQuotes(assets);
         }
 
         private void LoadSeasons(AssetManager assets)
         {
+            seasons.Clear();
             using (StreamReader sr = new StreamReader(assets.Open(@"Seasons.txt")))
             {
                 string line = "";
@@ -66,6 +67,7 @@ namespace Xamarin.TVScripts.Droid
 
         private void LoadEpisodes(AssetManager assets)
         {
+            episodes.Clear();
             using (StreamReader sr = new StreamReader(assets.Open(@"Episodes.txt")))
             {
                 string line = "";
@@ -81,6 +83,7 @@ namespace Xamarin.TVScripts.Droid
 
         public void LoadQuotes(AssetManager assets)
         {
+            quotes.Clear();
             int seasonNumber = 1;
 
             foreach (var episode in episodes)

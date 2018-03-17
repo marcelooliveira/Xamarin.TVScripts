@@ -31,7 +31,7 @@ namespace Xamarin.TVScripts.Views
             var tapGestureRecognizer = new TapGestureRecognizer();
             tapGestureRecognizer.Tapped += async (s, e) =>
             {
-                await Navigation.PushAsync(new EpisodeListPage());
+                await Navigation.PushAsync(new SeasonPage());
             };
             imgStart.GestureRecognizers.Add(tapGestureRecognizer);
         }
@@ -42,10 +42,10 @@ namespace Xamarin.TVScripts.Views
             if (season == null)
                 return;
 
-            IFileService fileService = DependencyService.Get<IFileService>();
-            var episodes = fileService.GetEpisodes(season.SeasonNumber);
+            //IFileService fileService = DependencyService.Get<IFileService>();
+            //var episodes = fileService.GetEpisodes(season.SeasonNumber);
 
-            await Navigation.PushAsync(new EpisodeListPage());
+            await Navigation.PushAsync(new SeasonPage());
 
             ItemsListView.SelectedItem = null;
         }

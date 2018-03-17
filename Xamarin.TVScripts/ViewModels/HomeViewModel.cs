@@ -19,7 +19,6 @@ namespace Xamarin.TVScripts.ViewModels
         {
             Seasons = new ObservableCollection<Season>();
             LoadItemsCommand = new Command(async () => await ExecuteLoadItemsCommand());
-            ExecuteLoadItemsCommand().Wait();
         }
 
         async Task ExecuteLoadItemsCommand()
