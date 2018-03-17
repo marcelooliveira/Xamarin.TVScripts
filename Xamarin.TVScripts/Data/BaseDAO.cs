@@ -6,7 +6,7 @@ using Xamarin.TVScripts.Models;
 
 namespace Xamarin.TVScripts.Data
 {
-    public class BaseDAO<T> where T: BaseModel, new()
+    public class BaseDAO<T> where T : BaseModel, new()
     {
         public BaseDAO()
         {
@@ -16,24 +16,11 @@ namespace Xamarin.TVScripts.Data
             }
         }
 
-        private IList<T> list;
-
-        public IList<T> List
+        public IList<T> GetList()
         {
-            get
+            using (SQLiteConnection connection = GetConnection())
             {
-                if (list == null)
-                {
-                    using (SQLiteConnection connection = GetConnection())
-                    {
-                        list = new List<T>(connection.Table<T>());
-                    }
-                }
-                return list;
-            }
-            private set
-            {
-                list = value;
+                return new List<T>(connection.Table<T>());
             }
         }
 
@@ -56,7 +43,7 @@ namespace Xamarin.TVScripts.Data
         {
             using (SQLiteConnection connection = GetConnection())
             {
-                if (!List.Any())
+                if (!GetList().Any())
                 {
                     connection.InsertAll(list);
                 }
@@ -65,7 +52,7 @@ namespace Xamarin.TVScripts.Data
 
         public bool IsEmpty()
         {
-            return !List.Any();
+            return !GetList().Any();
         }
 
         protected SQLite.SQLiteConnection GetConnection()

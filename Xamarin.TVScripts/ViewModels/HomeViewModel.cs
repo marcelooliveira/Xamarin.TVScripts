@@ -37,11 +37,11 @@ namespace Xamarin.TVScripts.ViewModels
             try
             {
                 Seasons.Clear();
-                var items = await GetSeasons();
+                var seasons = await GetSeasons();
 
-                foreach (var item in items)
+                foreach (var season in seasons)
                 {
-                    Seasons.Add(item);
+                    Seasons.Add(season);
                 }
             }
             catch (Exception ex)
@@ -64,7 +64,7 @@ namespace Xamarin.TVScripts.ViewModels
                 return seasons;
             }
 
-            return dao.List;
+            return dao.GetList();
         }
     }
 }

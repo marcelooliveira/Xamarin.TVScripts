@@ -1,10 +1,12 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Diagnostics;
+using System.Linq;
 using System.Threading.Tasks;
 
 using Xamarin.Forms;
-
+using Xamarin.TVScripts.Data;
 using Xamarin.TVScripts.Models;
 using Xamarin.TVScripts.Views;
 
@@ -12,22 +14,16 @@ namespace Xamarin.TVScripts.ViewModels
 {
     public class SeasonViewModel : BaseViewModel
     {
+        private readonly Season season;
         public ObservableCollection<Episode> Episodes { get; set; }
         public Command LoadItemsCommand { get; set; }
 
-        public SeasonViewModel()
+        public SeasonViewModel(Season season)
         {
-            Title = "Season 1";
+            this.season = season;
+            Title = season.Name;
             Episodes = new ObservableCollection<Episode>();
             LoadItemsCommand = new Command(async () => await ExecuteLoadItemsCommand());
-            ExecuteLoadItemsCommand().Wait();
-
-            //MessagingCenter.Subscribe<NewItemPage, Episode>(this, "AddItem", async (obj, item) =>
-            //{
-            //    var _item = item as Episode;
-            //    Items.Add(_item);
-            //    await DataStore.AddItemAsync(_item);
-            //});
         }
 
         async Task ExecuteLoadItemsCommand()
@@ -40,10 +36,11 @@ namespace Xamarin.TVScripts.ViewModels
             try
             {
                 Episodes.Clear();
-                var items = await DataStore.GetEpisodeListAsync(1);
-                foreach (var item in items)
+
+                var episodes = await GetEpisodes();
+                foreach (var episode in episodes)
                 {
-                    Episodes.Add(item);
+                    Episodes.Add(episode);
                 }
             }
             catch (Exception ex)
@@ -54,6 +51,19 @@ namespace Xamarin.TVScripts.ViewModels
             {
                 IsBusy = false;
             }
+        }
+
+        private async Task<IEnumerable<Episode>> GetEpisodes()
+        {
+            EpisodeDAO dao = new EpisodeDAO();
+            if (dao.IsEmpty())
+            {
+                var episodes = await DataStore.GetEpisodeListAsync(season.SeasonNumber);
+                dao.Save(episodes.ToList());
+                return episodes;
+            }
+
+            return dao.GetList();
         }
     }
 }

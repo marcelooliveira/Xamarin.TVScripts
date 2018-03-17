@@ -20,7 +20,7 @@ namespace Xamarin.TVScripts.Data
         {
             using (SQLiteConnection connection = GetConnection())
             {
-                if (!List.Any(q => q.SeasonNumber == seasonNumber
+                if (!GetList().Any(q => q.SeasonNumber == seasonNumber
                 && q.EpisodeNumber == episodeNumber))
                 {
                     connection.InsertAll(quotes);
@@ -30,7 +30,7 @@ namespace Xamarin.TVScripts.Data
 
         public IList<Quote> GetList(int seasonNumber, int episodeNumber)
         {
-            return List.Where(q =>
+            return GetList().Where(q =>
                                 q.SeasonNumber == seasonNumber
                                 && q.EpisodeNumber == episodeNumber)
                        .ToList();

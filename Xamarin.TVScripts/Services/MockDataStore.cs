@@ -35,7 +35,7 @@ namespace Xamarin.TVScripts.Services
         {
             IFileService fileService = DependencyService.Get<IFileService>();
 
-            return await Task.FromResult(fileService.GetEpisodes(1));
+            return await Task.FromResult(fileService.GetEpisodes(seasonNumber));
         }
 
         public async Task<Episode> GetEpisodeAsync(int seasonNumber, int episodeNumber, string episodeName)

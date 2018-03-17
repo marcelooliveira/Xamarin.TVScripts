@@ -18,12 +18,15 @@ namespace Xamarin.TVScripts.Views
 	public partial class SeasonPage : ContentPage
 	{
         SeasonViewModel viewModel;
+        private readonly Season season;
 
-        public SeasonPage()
+        public SeasonPage(Season season)
         {
             InitializeComponent();
 
-            BindingContext = viewModel = new SeasonViewModel();
+            this.season = season;
+
+            BindingContext = viewModel = new SeasonViewModel(season);
         }
 
         async void OnItemSelected(object sender, SelectedItemChangedEventArgs args)
