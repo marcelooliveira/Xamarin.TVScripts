@@ -18,9 +18,7 @@
                 ItemsSource="{Binding Quotes}"
                 VerticalOptions="FillAndExpand"
                  HasUnevenRows="true"
-                 RefreshCommand="{Binding LoadItemsCommand}"
                  IsPullToRefreshEnabled="true"
-                 IsRefreshing="{Binding IsBusy, Mode=OneWay}"
                  CachingStrategy="RecycleElement"
                  SeparatorVisibility="None"
                  BackgroundColor="{DynamicResource bgColor}">

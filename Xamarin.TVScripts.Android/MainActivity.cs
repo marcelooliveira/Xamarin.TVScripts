@@ -89,13 +89,14 @@ namespace Xamarin.TVScripts.Droid
                     sr.ReadLine(); //episode name
 
                     string line = "";
+                    int quoteNumber = 0;
                     while ((line = sr.ReadLine()) != null)
                     {
                         string[] parts = line.Split('\t');
                         int.TryParse(parts[0], out int id);
                         var character = parts[2];
                         var speech = parts[3];
-                        quotes.Add(new Quote(episode.SeasonNumber, episode.EpisodeNumber, quotes.Count + 1, character, speech));
+                        quotes.Add(new Quote(episode.SeasonNumber, episode.EpisodeNumber, quoteNumber++, character, speech));
                     }
                 }
             }

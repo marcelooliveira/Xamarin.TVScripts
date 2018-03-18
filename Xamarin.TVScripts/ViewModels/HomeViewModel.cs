@@ -15,8 +15,6 @@ namespace Xamarin.TVScripts.ViewModels
 {
     public class HomeViewModel : BaseViewModel
     {
-        private readonly QuoteDAO quoteDAO;
-
         public ObservableCollection<Season> Seasons { get; set; }
         public Command LoadItemsCommand { get; set; }
 
