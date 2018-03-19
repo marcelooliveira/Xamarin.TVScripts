@@ -30,10 +30,15 @@ namespace Xamarin.TVScripts.Data
 
         public IList<Quote> GetList(int seasonNumber, int episodeNumber)
         {
-            return GetList().Where(q =>
-                                q.SeasonNumber == seasonNumber
-                                && q.EpisodeNumber == episodeNumber)
-                       .ToList();
+            using (SQLiteConnection connection = GetConnection())
+            {
+                return connection.Table<Quote>()
+                        .Where(q =>
+                            q.SeasonNumber == seasonNumber
+                            && q.EpisodeNumber == episodeNumber)
+                        .ToList();
+            }
+
         }
 
         public bool NoQuotes(int seasonNumber, int episodeNumber)

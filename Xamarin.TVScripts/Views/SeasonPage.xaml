@@ -3,14 +3,8 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Xamarin.TVScripts.Views.SeasonPage"
               Title="{Binding Title}"
-             x:Name="SeasonPage">
-    <ContentPage.Resources>
-        <ResourceDictionary>
-            <Color x:Key="bgColor">#80C9FF</Color>
-            <Color x:Key="fgColor">#FFFFFF</Color>
-            <Color x:Key="fontColor">#000000</Color>
-        </ResourceDictionary>
-    </ContentPage.Resources>
+             x:Name="SeasonPage"
+             BackgroundColor="{DynamicResource ListBackGroundColor}">
     <ContentPage.Content>
         <StackLayout>
             <ListView x:Name="ItemsListView" 
@@ -23,7 +17,7 @@
                  CachingStrategy="RecycleElement"
                  ItemSelected="OnItemSelected"
                  SeparatorVisibility="None"
-                 BackgroundColor="{DynamicResource bgColor}">
+                 BackgroundColor="{DynamicResource ListBackGroundColor}">
                 <ListView.ItemTemplate>
                     <DataTemplate>
                         <ViewCell>
@@ -31,10 +25,10 @@
                                 <Frame CornerRadius="4"
                                        Padding="6"
                                        HasShadow="False"
-                                       BackgroundColor="{DynamicResource fgColor}">
+                                       BackgroundColor="{DynamicResource ListForeGroundColor}">
                                     <Label Text="{Binding Name}" 
                                        LineBreakMode="NoWrap" 
-                                       TextColor="{DynamicResource fontColor}"
+                                       TextColor="{DynamicResource ListFontColor}"
                                        Style="{DynamicResource ListItemTextStyle}" 
                                        FontSize="16" />
                                 </Frame>

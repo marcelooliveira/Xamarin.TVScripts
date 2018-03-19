@@ -25,7 +25,6 @@ namespace Xamarin.TVScripts.Droid
         static AssetManager assets;
         static IList<Season> seasons = new List<Season>();
         static IList<Episode> episodes = new List<Episode>();
-        static IList<Quote> quotes = new List<Quote>();
 
         public MainActivity()
         {
@@ -77,29 +76,26 @@ namespace Xamarin.TVScripts.Droid
             }
         }
 
-        public void LoadQuotes(AssetManager assets)
+        public IEnumerable<Quote> LoadQuotes(AssetManager assets, int seasonNumber, int episodeNumber)
         {
-            quotes.Clear();
-            int seasonNumber = 1;
+            IList<Quote> quotes = new List<Quote>();
 
-            foreach (var episode in episodes)
+            using (StreamReader sr = new StreamReader(assets.Open($@"Scripts/Lost/{seasonNumber:d2}{episodeNumber:d2}.txt")))
             {
-                using (StreamReader sr = new StreamReader(assets.Open($@"Scripts/Lost/{seasonNumber:d2}{episode.EpisodeNumber:d2}.txt")))
-                {
-                    sr.ReadLine(); //episode name
+                sr.ReadLine(); //episode name
 
-                    string line = "";
-                    int quoteNumber = 0;
-                    while ((line = sr.ReadLine()) != null)
-                    {
-                        string[] parts = line.Split('\t');
-                        int.TryParse(parts[0], out int id);
-                        var character = parts[2];
-                        var speech = parts[3];
-                        quotes.Add(new Quote(episode.SeasonNumber, episode.EpisodeNumber, quoteNumber++, character, speech));
-                    }
+                string line = "";
+                int quoteNumber = 1;
+                while ((line = sr.ReadLine()) != null)
+                {
+                    string[] parts = line.Split('\t');
+                    int.TryParse(parts[0], out int id);
+                    var character = parts[2];
+                    var speech = parts[3];
+                    quotes.Add(new Quote(seasonNumber, episodeNumber, quoteNumber++, character, speech));
                 }
             }
+            return quotes;
         }
 
         public IEnumerable<Season> GetSeasons()
@@ -118,12 +114,7 @@ namespace Xamarin.TVScripts.Droid
 
         public IEnumerable<Quote> GetQuotes(int seasonNumber, int episodeNumber)
         {
-            LoadQuotes(assets);
-
-            return quotes
-                .Where(q =>
-                    q.SeasonNumber == seasonNumber
-                    && q.EpisodeNumber == episodeNumber);
+            return LoadQuotes(assets, seasonNumber, episodeNumber);
         }
     }
 }

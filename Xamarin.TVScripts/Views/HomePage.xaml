@@ -1,22 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="Xamarin.TVScripts.Views.HomePage">
-    <ContentPage.Resources>
-        <ResourceDictionary>
-            <Color x:Key="imgBgColor">#000000</Color>
-            <Color x:Key="bgColor">#80C9FF</Color>
-            <Color x:Key="fgColor">#FFFFFF</Color>
-            <Color x:Key="fontColor">#000000</Color>
-        </ResourceDictionary>
-    </ContentPage.Resources>
+             x:Class="Xamarin.TVScripts.Views.HomePage"
+             Title="TV Scripts"
+             BackgroundColor="{DynamicResource ListBackGroundColor}">
     <ContentPage.Content>
         <Grid>
             <StackLayout>
                 <Grid>
                     <Image x:Name="imgStart"
-                       BackgroundColor="{Binding imgBgColor}"
                        HeightRequest="160"
+                       Aspect="AspectFill"
                        Source="poster.jpg"></Image>
                 </Grid>
                 <ListView x:Name="ItemsListView" 
@@ -28,7 +22,7 @@
                  CachingStrategy="RecycleElement"
                  ItemSelected="OnItemSelected"
                  SeparatorVisibility="None"
-                 BackgroundColor="{DynamicResource bgColor}">
+                 BackgroundColor="{DynamicResource ListBackGroundColor}">
                     <ListView.ItemTemplate>
                         <DataTemplate>
                             <ViewCell>
@@ -36,10 +30,10 @@
                                     <Frame CornerRadius="4"
                                        Padding="6"
                                        HasShadow="False"
-                                       BackgroundColor="{DynamicResource fgColor}">
+                                       BackgroundColor="{DynamicResource ListForeGroundColor}">
                                         <Label Text="{Binding Name}" 
                                        LineBreakMode="NoWrap" 
-                                       TextColor="{DynamicResource fontColor}"
+                                       TextColor="{DynamicResource ListFontColor}"
                                        Style="{DynamicResource ListItemTextStyle}" 
                                        FontSize="16" />
                                     </Frame>

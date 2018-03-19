@@ -21,7 +21,7 @@
                  IsPullToRefreshEnabled="true"
                  CachingStrategy="RecycleElement"
                  SeparatorVisibility="None"
-                 BackgroundColor="{DynamicResource bgColor}">
+                 BackgroundColor="{DynamicResource ListBackGroundColor}">
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <ViewCell>

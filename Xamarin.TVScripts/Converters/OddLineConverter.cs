@@ -13,7 +13,7 @@ namespace Xamarin.TVScripts.Converters
         {
             if (value is Quote quote)
                 return quote.Character.Trim().Length > 1
-                    && quote.Id % 2 == 1;
+                    && quote.QuoteNumber % 2 == 1;
 
             return false;
         }
