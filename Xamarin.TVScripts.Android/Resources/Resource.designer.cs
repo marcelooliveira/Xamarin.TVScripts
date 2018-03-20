@@ -2840,11 +2840,11 @@ namespace Xamarin.TVScripts.Droid
 			// aapt resource value: 0x7f02012b
 			public const int notification_icon_background = 2130837803;
 			
-			// aapt resource value: 0x7f02013c
-			public const int notification_template_icon_bg = 2130837820;
+			// aapt resource value: 0x7f020142
+			public const int notification_template_icon_bg = 2130837826;
 			
-			// aapt resource value: 0x7f02013d
-			public const int notification_template_icon_low_bg = 2130837821;
+			// aapt resource value: 0x7f020143
+			public const int notification_template_icon_low_bg = 2130837827;
 			
 			// aapt resource value: 0x7f02012c
 			public const int notification_tile_bg = 2130837804;
@@ -2871,28 +2871,46 @@ namespace Xamarin.TVScripts.Droid
 			public const int SAYID = 2130837811;
 			
 			// aapt resource value: 0x7f020134
-			public const int SHANNON = 2130837812;
+			public const int Season1 = 2130837812;
 			
 			// aapt resource value: 0x7f020135
-			public const int SUN = 2130837813;
+			public const int Season2 = 2130837813;
 			
 			// aapt resource value: 0x7f020136
-			public const int TOM = 2130837814;
+			public const int Season3 = 2130837814;
 			
 			// aapt resource value: 0x7f020137
-			public const int triangle = 2130837815;
+			public const int Season4 = 2130837815;
 			
 			// aapt resource value: 0x7f020138
-			public const int triangle_inverted = 2130837816;
+			public const int Season5 = 2130837816;
 			
 			// aapt resource value: 0x7f020139
-			public const int WALT = 2130837817;
+			public const int Season6 = 2130837817;
 			
 			// aapt resource value: 0x7f02013a
-			public const int WIDMORE = 2130837818;
+			public const int SHANNON = 2130837818;
 			
 			// aapt resource value: 0x7f02013b
-			public const int xamarin_logo = 2130837819;
+			public const int SUN = 2130837819;
+			
+			// aapt resource value: 0x7f02013c
+			public const int TOM = 2130837820;
+			
+			// aapt resource value: 0x7f02013d
+			public const int triangle = 2130837821;
+			
+			// aapt resource value: 0x7f02013e
+			public const int triangle_inverted = 2130837822;
+			
+			// aapt resource value: 0x7f02013f
+			public const int WALT = 2130837823;
+			
+			// aapt resource value: 0x7f020140
+			public const int WIDMORE = 2130837824;
+			
+			// aapt resource value: 0x7f020141
+			public const int xamarin_logo = 2130837825;
 			
 			static Drawable()
 			{

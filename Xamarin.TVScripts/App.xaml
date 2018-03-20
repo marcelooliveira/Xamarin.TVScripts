@@ -4,18 +4,18 @@
              x:Class="Xamarin.TVScripts.App">
     <Application.Resources>
         <ResourceDictionary>
-            <Color x:Key="Primary">#48CFAE</Color>
-            <Color x:Key="PrimaryDark">#247F68</Color>
-            <Color x:Key="Accent">#247F68</Color>
+            <Color x:Key="Primary">#607860</Color>
+            <Color x:Key="PrimaryDark">#184818</Color>
+            <Color x:Key="Accent">#607860</Color>
             <Color x:Key="LightBackgroundColor">#FAFAFA</Color>
             <Color x:Key="DarkBackgroundColor">#C0C0C0</Color>
             <Color x:Key="MediumGrayTextColor">#4d4d4d</Color>
             <Color x:Key="LightTextColor">#999999</Color>
 
             <!--LIST-->
-            <Color x:Key="ListBackGroundColor">#48CFAE</Color>
-            <Color x:Key="ListForeGroundColor">#247F68</Color>
-            <Color x:Key="ListFontColor">#FFFFFF</Color>
+            <Color x:Key="ListBackGroundColor">#FFFFFF</Color>
+            <Color x:Key="ListForeGroundColor">#F0F0D8</Color>
+            <Color x:Key="ListFontColor">#000000</Color>
             
             <Style TargetType="NavigationPage">
                 <Setter Property="BarBackgroundColor" Value="{StaticResource Primary}" />

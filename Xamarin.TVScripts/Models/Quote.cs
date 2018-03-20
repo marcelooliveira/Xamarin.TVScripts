@@ -59,7 +59,7 @@ namespace Xamarin.TVScripts.Models
         }
 
         [Ignore]
-        public string ImageSource { get { return $@"{Character}.jpg"; } }
+        public string ImageSource => $@"{Character}.jpg";
 
         private bool showCharacterImage = true;
         [Ignore]

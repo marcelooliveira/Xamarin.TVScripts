@@ -3,25 +3,28 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:conv="clr-namespace:Xamarin.TVScripts.Converters"
              x:Class="Xamarin.TVScripts.Views.EpisodePage"
-             Title="{Binding Title}">
+             Title="{Binding Title}"
+             BackgroundColor="{DynamicResource ListBackGroundColor}">
     <ContentPage.Resources>
         <ResourceDictionary>
             <conv:EvenLineConverter x:Key="even"></conv:EvenLineConverter>
             <conv:OddLineConverter x:Key="odd"></conv:OddLineConverter>
             <conv:NarrationConverter x:Key="narration"></conv:NarrationConverter>
-            <Color x:Key="bgColor">#80C9FF</Color>
-            <Color x:Key="fontColor">#000000</Color>
         </ResourceDictionary>
     </ContentPage.Resources>
     <StackLayout>
+        <ActivityIndicator IsRunning="{Binding IsBusy}"
+                           IsVisible="{Binding IsBusy}">
+        </ActivityIndicator>
         <ListView x:Name="ItemsListView" 
                 ItemsSource="{Binding Quotes}"
                 VerticalOptions="FillAndExpand"
                  HasUnevenRows="true"
+                 RefreshCommand="{Binding LoadItemsCommand}"
                  IsPullToRefreshEnabled="true"
+                 IsRefreshing="{Binding IsBusy, Mode=OneWay}"
                  CachingStrategy="RecycleElement"
-                 SeparatorVisibility="None"
-                 BackgroundColor="{DynamicResource ListBackGroundColor}">
+                 SeparatorVisibility="None">
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <ViewCell>
@@ -31,7 +34,7 @@
                                 VerticalOptions="Center"
                                 Padding="6"
                                 Margin="16,8,16,8"
-                                BackgroundColor="LightYellow"
+                                BackgroundColor="{DynamicResource ListForeGroundColor}"
                                 IsVisible="{Binding Path=., Converter={StaticResource narration}}"
                                 HasShadow="False">
                                 <Label
@@ -39,7 +42,7 @@
                                 LineBreakMode="WordWrap"
                                 FontSize="16"
                                 FontAttributes="Italic"
-                                TextColor="{DynamicResource fontColor}"
+                                TextColor="{DynamicResource ListFontColor}"
                                 BackgroundColor="LightYellow"/>
                             </Frame>
                             <!--ODD CARDS-->
@@ -74,7 +77,7 @@
                                         Text="{Binding Character}" 
                                         LineBreakMode="WordWrap"
                                         FontSize="16"
-                                        TextColor="{DynamicResource fontColor}"
+                                        TextColor="{DynamicResource ListFontColor}"
                                         HeightRequest="80"
                                         VerticalTextAlignment="Center"
                                         VerticalOptions="Center"
@@ -92,11 +95,12 @@
                                             VerticalOptions="Center"
                                             Padding="6"
                                             Margin="24,0,8,0"
-                                            HasShadow="False">
+                                            HasShadow="False"
+                                            BackgroundColor="{DynamicResource ListForeGroundColor}">
                                         <Label
                                         Text="{Binding Speech}" 
                                         LineBreakMode="WordWrap"
-                                        TextColor="{DynamicResource fontColor}"
+                                        TextColor="{DynamicResource ListFontColor}"
                                         FontSize="16"/>
                                     </Frame>
                                 </Grid>
@@ -134,7 +138,7 @@
                                         Text="{Binding Character}" 
                                         LineBreakMode="WordWrap"
                                         FontSize="16"
-                                        TextColor="{DynamicResource fontColor}"
+                                        TextColor="{DynamicResource ListFontColor}"
                                         HeightRequest="80"
                                         VerticalOptions="Center"
                                         VerticalTextAlignment="Center"
@@ -147,10 +151,11 @@
                                             VerticalOptions="Center"
                                             Padding="6"
                                             Margin="8,0,24,0"
+                                            BackgroundColor="{DynamicResource ListForeGroundColor}"
                                             HasShadow="False">
                                         <Label
                                         Text="{Binding Speech}" 
-                                        TextColor="{DynamicResource fontColor}"
+                                        TextColor="{DynamicResource ListFontColor}"
                                         LineBreakMode="WordWrap"
                                         FontSize="16"/>
                                     </Frame>

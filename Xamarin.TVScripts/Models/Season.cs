@@ -21,5 +21,8 @@ namespace Xamarin.TVScripts.Models
 
         public int SeasonNumber { get; set; }
         public string Name { get; set; }
+
+        [Ignore]
+        public string ImageSource => $@"Season{SeasonNumber}.png";
     }
 }

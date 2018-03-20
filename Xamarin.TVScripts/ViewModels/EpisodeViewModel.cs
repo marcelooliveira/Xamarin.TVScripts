@@ -29,7 +29,11 @@ namespace Xamarin.TVScripts.ViewModels
             if (IsBusy)
                 return;
 
-            IsBusy = true;
+            Device.BeginInvokeOnMainThread(() => {
+                IsBusy = true;
+            });
+
+            await Task.Delay(100);
 
             try
             {
@@ -47,7 +51,9 @@ namespace Xamarin.TVScripts.ViewModels
             }
             finally
             {
-                IsBusy = false;
+                Device.BeginInvokeOnMainThread(() => {
+                    IsBusy = false;
+                });
             }
         }
 

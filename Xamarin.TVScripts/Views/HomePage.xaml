@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Xamarin.TVScripts.Views.HomePage"
              Title="TV Scripts"
-             BackgroundColor="{DynamicResource ListBackGroundColor}">
+             BackgroundColor="{DynamicResource PrimaryDark}">
     <ContentPage.Content>
         <Grid>
             <StackLayout>
@@ -17,6 +17,7 @@
                 ItemsSource="{Binding Seasons}"
                 VerticalOptions="FillAndExpand"
                  HasUnevenRows="true"
+                 RefreshCommand="{Binding LoadItemsCommand}"
                  IsPullToRefreshEnabled="true"
                  IsRefreshing="{Binding IsBusy, Mode=OneWay}"
                  CachingStrategy="RecycleElement"
@@ -27,16 +28,38 @@
                         <DataTemplate>
                             <ViewCell>
                                 <StackLayout Padding="10">
-                                    <Frame CornerRadius="4"
-                                       Padding="6"
-                                       HasShadow="False"
-                                       BackgroundColor="{DynamicResource ListForeGroundColor}">
-                                        <Label Text="{Binding Name}" 
-                                       LineBreakMode="NoWrap" 
-                                       TextColor="{DynamicResource ListFontColor}"
-                                       Style="{DynamicResource ListItemTextStyle}" 
-                                       FontSize="16" />
-                                    </Frame>
+                                    <Grid>
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="80"/>
+                                            <ColumnDefinition/>
+                                        </Grid.ColumnDefinitions>
+                                        <!--Season Image-->
+                                        <Grid Grid.Column="0"
+                                              HorizontalOptions="Fill">
+                                            <Image>
+                                                <Image.Source>
+                                                    <FileImageSource File="{Binding ImageSource}"/>
+                                                </Image.Source>
+                                            </Image>
+                                            <Image Source="mask.png"/>
+                                        </Grid>
+                                        <!--Season Name-->
+                                        <Frame 
+                                           Grid.Column="1"
+                                           CornerRadius="4"
+                                           Padding="6"
+                                           HasShadow="False"
+                                           BackgroundColor="{DynamicResource ListForeGroundColor}">
+                                            <Label Text="{Binding Name}" 
+                                               LineBreakMode="NoWrap" 
+                                               TextColor="{DynamicResource ListFontColor}"
+                                               Style="{DynamicResource ListItemTextStyle}" 
+                                               FontSize="16"
+                                               VerticalOptions="Center"
+                                               VerticalTextAlignment="Center"
+                                               HorizontalOptions="StartAndExpand"/>
+                                        </Frame>
+                                    </Grid>
                                 </StackLayout>
                             </ViewCell>
                         </DataTemplate>
