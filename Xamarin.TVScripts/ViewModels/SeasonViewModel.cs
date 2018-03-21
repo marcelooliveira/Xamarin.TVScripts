@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Acr.UserDialogs;
+using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Diagnostics;
@@ -18,7 +19,7 @@ namespace Xamarin.TVScripts.ViewModels
         public ObservableCollection<Episode> Episodes { get; set; }
         public Command LoadItemsCommand { get; set; }
 
-        public SeasonViewModel(Season season)
+        public SeasonViewModel(IUserDialogs dialogs, Season season) : base(dialogs)
         {
             this.season = season;
             Title = season.Name;

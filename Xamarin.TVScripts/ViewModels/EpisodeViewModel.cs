@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Acr.UserDialogs;
+using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Diagnostics;
@@ -16,12 +17,15 @@ namespace Xamarin.TVScripts.ViewModels
         public ObservableCollection<Quote> Quotes { get; set; }
         public Command LoadItemsCommand { get; set; }
 
-        public EpisodeViewModel(Episode episode)
+        public EpisodeViewModel(IUserDialogs dialogs, Episode episode) : base(dialogs)
         {
             this.episode = episode;
             Title = episode.Name;
             Quotes = new ObservableCollection<Quote>();
-            LoadItemsCommand = new Command(async () => await ExecuteLoadItemsCommand());
+            LoadItemsCommand = new Command(async () =>
+            {
+                await ExecuteLoadItemsCommand();
+            });
         }
 
         async Task ExecuteLoadItemsCommand()
@@ -29,11 +33,8 @@ namespace Xamarin.TVScripts.ViewModels
             if (IsBusy)
                 return;
 
-            Device.BeginInvokeOnMainThread(() => {
-                IsBusy = true;
-            });
-
-            await Task.Delay(100);
+            IsBusy = true;
+            UserDialogs.Instance.ShowLoading();
 
             try
             {
@@ -51,9 +52,8 @@ namespace Xamarin.TVScripts.ViewModels
             }
             finally
             {
-                Device.BeginInvokeOnMainThread(() => {
-                    IsBusy = false;
-                });
+                IsBusy = false;
+                UserDialogs.Instance.HideLoading();
             }
         }
 

@@ -13,9 +13,6 @@
         </ResourceDictionary>
     </ContentPage.Resources>
     <StackLayout>
-        <ActivityIndicator IsRunning="{Binding IsBusy}"
-                           IsVisible="{Binding IsBusy}">
-        </ActivityIndicator>
         <ListView x:Name="ItemsListView" 
                 ItemsSource="{Binding Quotes}"
                 VerticalOptions="FillAndExpand"

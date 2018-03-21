@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Acr.UserDialogs;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Runtime.CompilerServices;
@@ -26,6 +27,18 @@ namespace Xamarin.TVScripts.ViewModels
         {
             get { return title; }
             set { SetProperty(ref title, value); }
+        }
+
+        protected BaseViewModel(IUserDialogs dialogs)
+        {
+            this.Dialogs = dialogs;
+        }
+
+
+        protected IUserDialogs Dialogs { get; }
+        protected virtual void Result(string msg)
+        {
+            this.Dialogs.Alert(msg);
         }
 
         protected bool SetProperty<T>(ref T backingStore, T value,

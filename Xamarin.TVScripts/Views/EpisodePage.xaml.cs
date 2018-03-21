@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Acr.UserDialogs;
+using System;
 
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
@@ -21,7 +22,7 @@ namespace Xamarin.TVScripts.Views
 
             this.episode = episode;
 
-            BindingContext = this.viewModel = new EpisodeViewModel(episode);
+            BindingContext = this.viewModel = new EpisodeViewModel(UserDialogs.Instance, episode);
         }
 
         protected override void OnAppearing()

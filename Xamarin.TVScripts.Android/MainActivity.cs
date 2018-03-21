@@ -16,6 +16,7 @@ using Xamarin.TVScripts.Droid;
 using Xamarin.TVScripts.Services;
 using System.Threading.Tasks;
 using System.Linq;
+using Acr.UserDialogs;
 
 [assembly: Xamarin.Forms.Dependency(typeof(MainActivity))]
 namespace Xamarin.TVScripts.Droid
@@ -36,7 +37,7 @@ namespace Xamarin.TVScripts.Droid
         {
             TabLayoutResource = Resource.Layout.Tabbar;
             ToolbarResource = Resource.Layout.Toolbar;
-
+            UserDialogs.Init(this);
             base.OnCreate(bundle);
 
             global::Xamarin.Forms.Forms.Init(this, bundle);
@@ -88,22 +89,25 @@ namespace Xamarin.TVScripts.Droid
         {
             IList<Quote> quotes = new List<Quote>();
 
-            using (StreamReader sr = new StreamReader(assets.Open($@"Scripts/Lost/{seasonNumber:d2}{episodeNumber:d2}.txt")))
+            using (UserDialogs.Instance.Loading("wait..."))
             {
-                sr.ReadLine(); //episode name
-
-                string line = "";
-                int quoteNumber = 1;
-                while ((line = sr.ReadLine()) != null)
+                using (StreamReader sr = new StreamReader(assets.Open($@"Scripts/Lost/{seasonNumber:d2}{episodeNumber:d2}.txt")))
                 {
-                    string[] parts = line.Split('\t');
-                    int.TryParse(parts[0], out int id);
-                    var character = parts[2];
-                    var speech = parts[3];
-                    quotes.Add(new Quote(seasonNumber, episodeNumber, quoteNumber++, character, speech));
+                    sr.ReadLine(); //episode name
+
+                    string line = "";
+                    int quoteNumber = 1;
+                    while ((line = sr.ReadLine()) != null)
+                    {
+                        string[] parts = line.Split('\t');
+                        int.TryParse(parts[0], out int id);
+                        var character = parts[2];
+                        var speech = parts[3];
+                        quotes.Add(new Quote(seasonNumber, episodeNumber, quoteNumber++, character, speech));
+                    }
                 }
+                return quotes;
             }
-            return quotes;
         }
 
         public IEnumerable<Season> GetSeasons()

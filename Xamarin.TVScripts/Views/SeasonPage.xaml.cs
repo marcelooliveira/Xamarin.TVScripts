@@ -11,6 +11,7 @@ using Xamarin.TVScripts.Models;
 using Xamarin.TVScripts.Views;
 using Xamarin.TVScripts.ViewModels;
 using Xamarin.TVScripts.Services;
+using Acr.UserDialogs;
 
 namespace Xamarin.TVScripts.Views
 {
@@ -26,7 +27,7 @@ namespace Xamarin.TVScripts.Views
 
             this.season = season;
 
-            BindingContext = viewModel = new SeasonViewModel(season);
+            BindingContext = viewModel = new SeasonViewModel(UserDialogs.Instance, season);
         }
 
         async void OnItemSelected(object sender, SelectedItemChangedEventArgs args)

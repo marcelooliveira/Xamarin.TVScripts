@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Acr.UserDialogs;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -21,7 +22,7 @@ namespace Xamarin.TVScripts.Views
         {
             InitializeComponent();
 
-            BindingContext = viewModel = new HomeViewModel();
+            BindingContext = viewModel = new HomeViewModel(UserDialogs.Instance);
         }
 
         async void OnItemSelected(object sender, SelectedItemChangedEventArgs args)
