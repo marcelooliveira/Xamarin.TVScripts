@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.TVScripts.Data;
 using Xamarin.TVScripts.Models;
+using Xamarin.TVScripts.Services;
 using Xamarin.TVScripts.Views;
 
 namespace Xamarin.TVScripts.ViewModels

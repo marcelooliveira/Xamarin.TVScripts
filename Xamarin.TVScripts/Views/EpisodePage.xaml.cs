@@ -1,6 +1,6 @@
 ﻿using Acr.UserDialogs;
 using System;
-
+using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -31,6 +31,24 @@ namespace Xamarin.TVScripts.Views
 
             if (viewModel.Quotes.Count == 0)
                 viewModel.LoadItemsCommand.Execute(null);
+        }
+
+        async void OnItemSelected(object sender, SelectedItemChangedEventArgs args)
+        {
+            var quote = args.SelectedItem as Quote;
+            if (quote == null)
+                return;
+
+            await Speak(quote.Character);
+            await Speak(quote.Speech);
+        }
+
+        private async Task Speak(string text)
+        {
+            await Task.Run(() =>
+            {
+                DependencyService.Get<ITextToSpeech>().Speak(text);
+            });
         }
     }
 }

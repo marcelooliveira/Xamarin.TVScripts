@@ -14,8 +14,9 @@
     </ContentPage.Resources>
     <StackLayout>
         <ListView x:Name="ItemsListView" 
-                ItemsSource="{Binding Quotes}"
-                VerticalOptions="FillAndExpand"
+                 ItemsSource="{Binding Quotes}"
+                 ItemSelected="OnItemSelected"
+                 VerticalOptions="FillAndExpand"
                  HasUnevenRows="true"
                  RefreshCommand="{Binding LoadItemsCommand}"
                  IsPullToRefreshEnabled="true"
