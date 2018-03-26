@@ -1,0 +1,301 @@
+1	Teleplay by	 Sherry Bilsing & Ellen Plummer Story by
+2	[Scene	 Joey and Rachel's, Joey is knocking on Rachel’s door, whose door frame is decorated with balloons. The rest of the gang is there as well. Rachel opens the door and the gang blow on noisemakers.]
+3	Ross	 Happy birthday!!!
+4	Monica	 Happy birthday!!!
+5		(Rachel glares at them and goes back into her room, closing her door.)
+6	All	 Rach! Come on! Rach!
+7	Monica	 It’s your birthday!
+8	Tag	 (entering from her room) Hey.
+9	Chandler	 (To Monica) She’s not as pretty as she was when she was 29.
+10	Tag	 Ms. Green would like to establish some ground rules before she comes out. She would appreciate it if you don’t use the words old or downhill or (To Joey) they still look pretty damn good. (Joey smiles and everyone glares at him.)
+11	Joey	 They do!
+12	Phoebe	 Rachel! Come on out! Monica made breakfast!
+13	Monica	 Chocolate-chip pancakes!
+14		(There is no response from Rachel.)
+15	Ross	 We’ve got presents!
+16		(She opens the door.)
+17	Rachel	 Good ones?
+18	Monica	 They all came from the list you handed out to us two weeks ago.
+19	Rachel	 Well, can I keep the presents and still be 29?
+20	Joey	 Come on Rach! Look, turning thirty is not that big a deal.
+21	Ross	 Oh really. Is that how you felt when you turned thirty?
+22		[Flashback to Joey’s thirtieth birthday party. It is being held in Monica and Chandler’s apartment.]
+23	Joey	 (screaming) Why God?!! Why?!! We had a deal!! Let the others grow old! Not me!! (He buries his head in Phoebe’s lap for comfort.)
+24		[Cut back to Rachel’s party, everyone is now eating breakfast, except Rachel.]
+25	Rachel	 Y’know, I’m still 29 in Guam.
+26	Ross	 Hey, 30 is not that old! Do you know how old the Earth is?
+27	Rachel	 Late thirties? Oh come on you guys! Is it just me? Am I overreacting to this?
+28	Chandler	 No Rach, it’s not just you. My thirtieth birthday certainly wasn’t that much fun.
+29		[Flashback to Chandler’s thirtieth birthday party. It is also being held in Monica and his apartment. He is about to blow out the candles on his birthday cake.]
+30	Joey	 (screaming) And now Chandler! We’re all gettin’ so old! (Looking up) Why are you doing this to us?! (Turns away crying.)
+31		Opening Credits
+32	[Scene	 Joey and Rachel's, breakfast is finished but Rachel’s still down.]
+33	Monica	 Rach, you’re in a great place in your life. Come on, you’ve got a great job! Good friends…
+34	Joey	 Yeah, your roommate is a soap opera star.
+35	Rachel	 Look, y’know I know my life’s going pretty well, but I look around and I just see so many people who’ve accomplished so many other goals by the time they’re thirty.
+36	Phoebe	 Yeah, but you shouldn’t compare yourself to me.
+37	[Flashback to	 The Street in front of Central Perk, Ross and Joey are holding a yellow tape across the road and everyone is cheering Phoebe as she bounces around the corner on a hippity-hop.]
+38	All	 Come on Phoebe! You can do it Phoebe! Come on!
+39	Rachel	 There you go!
+40		(She crosses the line and they all cheer again.)
+41	Phoebe	 I did it! One mile on a hippity-hop! That’s it!! That’s everything I wanted to do before I was thirty. Oh, except I wanted to patch things up with my sister. But oh well. Yay!! (They all cheer again.) And-and girls this thing is a Godsend if you know what I mean. (Rachel and Monica look intrigued and as they all head into Central Perk, Rachel picks up the hippity-hop that Phoebe left behind.)
+42	[Scene	 Joey and Rachel's, continued from earlier.]
+43	Rachel	 Thirty. Ugh, I mean thirty! Monica, do you remember mean old Mrs. Kreeger in the fifth grade? She was thirty!
+44	Tag	 Come on, let’s have some fun. Huh? (To Rachel) What do you want to do today?
+45	Rachel	 Nothing. I don’t want to do anything.
+46	Monica	 Well, doing nothing on your thirtieth is better than doing something stupid, like Ross.
+47	Ross	 Hey! That was a practical purchase! I needed that car for transportation! Okay? I-I have a child!
+48	[Flashback to	 A street, Ross is sitting in his newly purchased MGB. Which is one of the better British sports cars ever made. Of course, ‘better’ is a relative term. Which reminds me of a joke. Why don’t the British make computers? Because they couldn’t figure out how to make them leak oil. Anyway, the gang is all staring at his new purchase.]
+49	Ross	 How hot do I look in this, huh?!
+50	Chandler	 Ross, a sports car? Wouldn’t it have been cheaper to just stuff a sock down there?
+51	Ross	 That’s not what this is about okay? I-I am a sports car enthusiast. I have always been into cars.
+52	Joey	 Hey, what’s the horsepower on this thing?
+53	Ross	 (giddy) I don’t know, but-but look how shiny!
+54	Monica	 I can’t believe you bought this.
+55	Rachel	 Really! God Ross, what were you thinking? (To Phoebe, quietly) I know it’s really shallow, but a part of me wants him again.
+56	Phoebe	 Oh, well get in line missy. (To Ross) So, can I have a ride stud?
+57	Ross	 Hop in. (Phoebe hops in.) Get ready for the smoothest ride of your life.
+58		(He starts the car and surprisingly it fires right up and comes to a nice idle. (Both can be rarities with British sports cars with their lovely Lucas ignition systems, which tend not to work, especially in the rain.) Anyway, this being New York he is parallel parked on a street with the car in front of him only inches ahead of his bumper, likewise with the car behind him. He’s completely boxed in and can’t move more than two inches. He tries to get out several times by bumping the bumpers of both cars to no avail.)
+59	Ross	 Damnit! (Shuts the car off.)
+60	Phoebe	 (getting out) Okay, who’s next?
+61	[Scene	 Joey and Rachel's, Phoebe is pouring Rachel some coffee.]
+62	Rachel	 Y’know what? I am going to do something today. I’m not just gonna sit around like some old lady. I’m gonna get something pierced. Like my uh, like my nose or my tongue or something.
+63	Phoebe	 Really?! ‘Cause y’know that hurts.
+64	Rachel	 So what?! Y’know what? The way I see it—(Phoebe pulls out a hair from the back of her head)—Ow! Son of a bitch!!
+65	Tag	 Look Rachel, I know what you’re going through. I’m totally freaked about turning 25.
+66	Rachel	 (glares at him) Get out, get out of my apartment.
+67	Monica	 All right Rach, for what it’s worth, I think that you’re doing great. I mean y’know let’s face it, no one handles this well.
+68	Phoebe	 Least of all you.
+69	Tag	 Why? What you’d do?
+70	Monica	 Weren’t you asked to leave sonny?
+71		[Flashback to Monica and Chandler’s apartment. Chandler has a bunch of people over in formal wear to give Monica a surprise birthday party. Joey is coming out of the bathroom and removing his tie.]
+72	Chandler	 (To Joey) Would you put that back on?! Monica’s gonna be here any minute!
+73	Joey	 But it hurt’s my Joey’s Apple.
+74	Chandler	 (frustrated) Okay, for the last time. It’s not named for each individual man.
+75		(Joey walks away and Mr. and Mrs. Geller walk up. Mr. Geller is wearing this ancient velvet tuxedo.)
+76	Mrs. Geller	 (To Chandler) You’ve done a wonderful job with this party Chandler. Everything looks so lovely.
+77	Chandler	 Oh well, not as lovely as you. I mean, I can’t believe that you would have a thirty-year-old daughter! (To Mr. Geller) And you! I can’t believe that you would have a tux that’s thirty years old! (Puts his hand on Mr. Geller’s shoulder.)
+78	Mr. Geller	 It’s older than that. Ross was actually conceived right near this tuxedo.
+79	Chandler	 Ohh! (He quickly removes his hand and looks at it.)
+80	Rachel	 (entering) Hey! Everybody hide! Hide! I saw her! She’s coming!
+81	Chandler	 Okay! Okay! Everybody down! Everybody down! (Rachel turns off the lights and everyone crouches. As everyone crouches, a ripping noise erupts from the assemblage.)
+82	Mr. Geller	 Crap.
+83		(We hear some fumbling at the door, then silence.)
+84	Chandler	 (getting up to investigate) Okay, everybody stay here. I will find out what’s going on.
+85		(He goes out into the hall and finds a very drunk Monica lying up against Joey and Rachel’s door.)
+86	Monica	 Heyyy!! You got the door open!! (Giggles.)
+87	Chandler	 Hey-hey are you drunk?
+88	Monica	 Nooo! (Giggles) Okay. (She tries to pull herself up by Rachel and Joey’s doorknob, but the door opens and she almost falls into the their apartment. She manages to catch herself.) Whoa! (Stands up, unsteadily) Okay. See I was, I was a little nervous about turning (whispering) thirty. (Giggles.) So the bus boys took me out for some drinks. (Pause) I wanna puke on you later!
+89	Chandler	 Okay, here is the thing. We have thrown a very formal surprise party for you in there! All of your friends are in there and your parents!
+90	Monica	 Noo!!!
+91	Chandler	 Yes!
+92	Monica	 Noo!!
+93	Chandler	 Yes!!
+94	Monica	 Oh no! My parents have never seen me drunk! (Pause) That they know of.
+95	Chandler	 Okay, here’s the thing. We’re gonna get you some coffee and they will never know that you’re drunk.
+96	Monica	 Really?! You promise?
+97	Chandler	 Yeah, I’ll take care of it.
+98	Monica	 Okay. I love you so much. (Kisses him.)
+99	Chandler	 (laughing) Okay we have to do something about your breath.
+100	Monica	 What about your breath?! (Breathes on him.)
+101	Chandler	 That’s still yours. Okay, now remember it’s a surprise party. So, when you go in, act surprised.
+102	Monica	 Okay. I can do that.
+103	Chandler	 Okay.
+104		(Chandler opens the door and Monica sneaks up on it. They go inside.)
+105	All	 Surprise!!!
+106		(Monica screams and they all stare at her.)
+107		Commercial Break
+108	[Scene	 Ross’s birthday, Joey is now trying to get his car out while Ross is directing him.]
+109	Ross	 Okay, forward. Forward—Stop! (The car moves an inch and Ross runs to the back of the car.) Okay, back—Stop! (The car barely moves and Ross runs back to the front.) Okay, forward—Stop! Stop! Stop!
+110	Monica	 Ross, just forget about it. This guy’s got you totally wedged in.
+111		(A beautiful woman approaches.)
+112	Woman	 (To Joey) Is this yours?
+113	Joey	 Well actually…
+114	Ross	 No-no-no! It’s mine! It’s-it’s mine. (The woman walks away.)
+115	Joey	 Dude, you soooo need this car.
+116	Phoebe	 (running up) Okay. Okay, here’s what we’re gonna do. Okay, I’m gonna break into this mini-van and put it in neutral. You guys push it forward so Ross can drive out of his spot. Okay? All right, here we go. (She opens her coat and reveals that thing car thieves use to break into cars as Ross jumps in behind the wheel. She inserts the device, unlocks the door, opens it, and the alarm goes off.) Haul ass!!!! (Runs off.)
+117		(The rest of the gang runs away, except for Ross who’s tramped inside his car. To hide he puts the top up as Monica, Rachel, and Joey come running past.)
+118	[Scene	 Phoebe’s birthday, she’s taking the hippity-hop to Ursula’s apartment as a gift. She knocks on the door and Ursula answers it.]
+119	Phoebe	 Happy thirtieth birthday! Here! (Hands her the hippity-hop.) It’s for the child in you, and the woman. Happy thirtieth!
+120	Ursula	 Right, why do you keep saying that?
+121	Phoebe	 Because it’s our thirtieth birthday.
+122	Ursula	 Yeah, no we’re not thirty. We’re 31. Okay. (She closes the door.)
+123	Phoebe	 Wait! (Knocks on the door and Ursula opens it.)
+124	Ursula	 Oh, it’s you.
+125	Phoebe	 Yeah. What?!
+126	Ursula	 Yeah, we’re not thirty, we’re 31.
+127	Phoebe	 Nu-uh!
+128	Ursula	 Yea-huh! That’s what is says on my birth certificate.
+129	Phoebe	 You have your birth certificate?
+130	Ursula	 Yeah, I got a big box of family stuff when my mom died.
+131	Phoebe	 Our mom.
+132	Ursula	 (sarcastic) Right! Okay. (Hands Phoebe her births certificate.)
+133	Phoebe	 Do you have my birth certificate?
+134	Ursula	 No, I sold it to a Swedish runaway.
+135	Phoebe	 (reading the certificate) Oh my God! Oh my God, we are 31.
+136	Ursula	 Yeah.
+137	Phoebe	 I just lost a whole year of my life.
+138	Ursula	 (sarcastic) Okay.
+139	Phoebe	 Your middle name is Pamela?
+140	Ursula	 Yes.
+141	Phoebe	 Well, I never knew mine. Do you remember what it is?
+142	Ursula	 Yes! Phoebe.
+143	Phoebe	 That’s my first name.
+144	Ursula	 Right, okay, then no.
+145	[Scene	 Monica’s birthday, it’s just after the surprise.]
+146	Chandler	 Okay before we start the celebration, Monica has to go put on her party dress.
+147	Monica	 Yay!
+148	Chandler	 See? (Does his laugh.) Here we go. (Starts walking her to their room, and has to pass in front of Mr. Geller who’s sitting at the table and Mrs. Geller who’s standing next to him.)
+149	Mr. Geller	 Happy birthday, sweetie! Give us a hug! (Starts to get up.)
+150	Mrs. Geller	 (stopping him) Don’t get up Jack! The safety pins are about to blow.
+151		(They continue their trek.)
+152	Monica	 (sees someone) Paul!
+153	Chandler	 (correcting her) Phil.
+154	Monica	 Phil!
+155	Chandler	 Now, there is a dress laid out on your bed. (Monica stumbles on the steps.) Okay, (catches her) you’re doing great. You’re doing great. You’re doing fine.
+156		(Phoebe approaches as they almost get to their room.)
+157	Phoebe	 Hey, what’s going on?
+158	Chandler	 Monica’s a little drunk.
+159	Phoebe	 Yay! I love drunk Monica!
+160	Monica	 Awwwww… (Giggles.)
+161	Chandler	 (To Monica) Go change! (To Phoebe) She doesn’t want her parents to know she’s drunk.
+162	Phoebe	 Ohh! All right! All right. Here’s what we’ll do, I’ll get twice as drunk as Monica and then no one will even notice her.
+163		(Chandler walks over to where the rest of the gang is.)
+164	Rachel	 What’s-what’s going on? Phil’s really pissed!
+165	Chandler	 Monica’s wasted.
+166	Ross	 Maybe that will liven up this party.
+167	Chandler	 (To Rachel) Okay, will you just go help her change please!
+168	Rachel	 Okay, but taking care of a drunk, naked woman seems like a job for Joey.
+169	Joey	 Yep. (Starts for Monica’s room, but Chandler stops him.)
+170	[Scene	 Rachel’s birthday, everyone is presenting their presents to Rachel.]
+171	Tag	 (handing his to her) This one’s from me.
+172	Rachel	 Ahh!
+173	Tag	 It wasn’t on your list, but hopefully you’ll think it’s really fun.
+174	Rachel	 (opening it) A scooter! (She’s not happy.)
+175	Ross	 (to Tag) Stick to the list. Always stick to the list.
+176	Rachel	 No! No-no, I love it. Thank you. (Kisses him.)
+177	Chandler	 Okay, open ours next. Open ours next!
+178	Rachel	 Okay.
+179	Joey	 Now that you’re a couple, we don’t get two presents from you guys?
+180	Chandler	 For my last birthday you gave me a hug! (To Rachel) Okay, read the card! Read the card!
+181	Rachel	 Okay. (Opens the card and reads it.) Happy birthday Grandma! It’s better to be over the hill (starting to cry) then buried under it. (Breaks down as everyone glares at them.) All our love Monica and Chandler. (Crying) That’s funny, yeah!
+182	Chandler	 No-no-no-no! That was the joke!
+183	Rachel	 (crying) No, I know! I get it! It’s funny!
+184	Chandler	 No, because you’re not a grandmother!
+185	Rachel	 No I know, because to be a grandmother you have to be married and have children and I don’t have any of those things. That’s why it’s so funny. (Runs into her room crying.)
+186	Monica	 All you had to do was buy the card!
+187	[Scene	 Rachel’s birthday, a time lapse has occurred. Rachel is coming back into the living room carrying a notepad.]
+188	Ross	 Hey! Look who’s back! It’s the birthday girl! How’s the birthday girl feeling?
+189	Rachel	 Well, I feel fine, but I think you’re bumming out the rest of the kids.
+190	Ross	 What? (Glances over and sees the faces of the rest of the group, then goes and sits down.)
+191	Rachel	 Okay! Y’know what? I realized it was stupid to get upset about not having a husband and kids. All I really needed was a plan. See I wanna have three kids…
+192	Phoebe	 Oh let me guess, and you wanna have them all at the same time and you wanna have them for your brother.
+193	Rachel	 As I was saying… I should probably have the first of the three kids by the time I’m 35 which gives me five years. I love this plan! I wanna marry this plan!
+194	Phoebe	 If you could do that, I’d marry the hippity-hop.
+195	Rachel	 So, if I wanna have my kid when I’m 35, I don’t have to get pregnant until I’m 34. Which gives Prada four years to start making maternity clothes! Oh wait, but I do want to be married for a year before I get pregnant…
+196	Monica	 Really! That long?! (Chandler slowly turns and looks at her.) (To Chandler) Look all you want, it’s happening!
+197	Rachel	 No, so I don’t have to get married until I’m 33! That’s three years, that’s three whole years—Oh, wait a minute though. I’ll need a year and a half to plan the wedding, and I’d like to know the guy for a year, year and a half before we get engaged… Which means I need to meet the guy by the time I’m thirty.
+198	Ross	 Which is fine! Because you just turned—(Removes two candles from the cake)—twenty-eight!
+199	Rachel	 No! Ross, no! It is not fine! Eh-eh-according to my plan I should already be with the guy I wanna marry!
+200		(We hear Tag scream out in the hallway and jump into view of the open door on the scooter. He gives a hearty thumbs up to the group and rides off, with Joey following breathlessly behind.)
+201	Joey	 Will you quit hoggin’ it!
+202		Commercial Break
+203	[Scene	 Monica’s birthday, Monica is now dressed and is being helped out by Chandler and Rachel.]
+204	Rachel	 (To Chandler) I’m telling you it’s like watching Bambi learn how to walk.
+205	Ross	 (To Monica) You’re drunk! Mom and dad are gonna be maaaaadd! Maybe I’m a little drunk.
+206		(Monica sits down on the barcalounger.)
+207	Chandler	 (to a waiter) Oh that’s great! Right there! Can we get some of that over here please? (The waiter comes over) There we go.
+208	Joey	 (to the waiter) Hey! Are those crab cakes? (The waiter nods) Did I not tell ya to come straight to me when more crab cakes were ready?
+209	Chandler	 (To Monica) How are you feeling?
+210	Monica	 You are so handsome! I wanna make love to you right here, right now! (Growls and pulls him into a kiss.)
+211	Ross	 I really wish that you wouldn’t.
+212	Chandler	 (To Monica) Now all you have to do is just get through a little bit more, okay? Then we can put you in bed, okay? Just smile and don’t talk to anyone.
+213	Phoebe	 (clinking two glasses together) Speech! Speech! Let’s hear from the birthday girl! Huh?
+214	Chandler	 Pheebs!!
+215	Phoebe	 Don’t you see? Everyone’s looking at me! The plan’s working! I didn’t even have to take off my top yet!
+216	Mrs. Geller	 Speech! Come on Monica!
+217	Ross	 Come on!
+218	All	 Come on! Speech!
+219		(Monica stands up and wobbles slightly and Chandler runs over to catch her.)
+220	Mr. Geller	 (filming this) Hey Chandler, you can’t keep your hands off her for one second!
+221	Mrs. Geller	 Oh-ho, I think it’s nice.
+222	Chandler	 I think it’s necessary. (Backs away anyhow.)
+223	Monica	 I-I-I wanna thank you all for coming. My family and my friends…
+224	Phoebe	 (screaming) Wooo!! Hoo!!
+225	Monica	 I really like to say that I’m-um… (Pause) Y’know what I’d really like to say? I’m drunk!! (Mrs. Geller pulls the camera down.) That’s right mom and dad your little Harmonica is hammered!! (Ross grabs the camera out of his dad’s hands.) And guess what! I’ve been drunk before! And I’ve smoked a cigarette! And I got a box of Ding-Dongs hidden in my underwear drawer! It’s all okay. It’s okay because I turned thirty today. And, and I can do anything I want! Because I am a grown up. (Falls over sideways with Ross filming the fall.)
+226	Phoebe	 (To Joey) Okay quick, help me get this off! (Motions to her top.)
+227	Joey	 Yeah!!
+228		(Ross pans the camera over to Phoebe.)
+229	[Scene	 Phoebe’s birthday, she’s telling everyone what she found out at Ursula’s while sitting in Central Perk.]
+230	Phoebe	 I lost a whole year! I can’t believe it! This is so unfair!
+231	Joey	 Oh, I don’t know Pheebs. It’ll be okay.
+232	Phoebe	 Will it? Will it?! I mean, how would you feel if you found out you were 31?
+233	Joey	 That’s not gonna happen. No. (Looks up) Because we have a new deal!
+234	Phoebe	 Plus, it totally ruined my schedule! I…I haven’t done any of the things I wanted to do by the time I was 31!
+235	Joey	 Like what?
+236	Phoebe	 Like okay I-I-I, I haven’t met any Portuguese people! I, I haven’t had the perfect kiss! And I haven’t been to sniper’s school!
+237	Monica	 Phoebe, y’know why don’t we just go upstairs and have some birthday cake?
+238	Phoebe	 No, I just feel like being by myself for a while. All right? I’ll see you guys later. Thanks. (Gets up and exits.)
+239	Rachel	 Hey. (After she leaves.) Oh, poor Pheebs.
+240	Joey	 Hey, y’know what you guys? I think I’m gonna go walk her home. (Gets up and runs out.)
+241	Monica	 Oh man!
+242	Chandler	 What?
+243	Monica	 He’s gonna eat the cake!
+244		[Cut outside, Joey is catching up with Phoebe.]
+245	Joey	 Pheebs! Wait up! (She stops.) Listen uh, close your eyes. (She does so and Joey passionately kisses her.) Maybe that’s one thing you can cross off your list.
+246	Phoebe	 Oh yeah.
+247		(Joey starts to walk away, but stops.)
+248	Joey	 Oh, and plus I’m 1/16th Portuguese.
+249	Phoebe	 Oh! (Phoebe walks away smiling.)
+250	[Scene	 Ross’s birthday, his car is still trapped in its spot. Now Joey, Phoebe, and Ross are at the front of the car with Monica, Rachel, and Chandler at the rear of the car.]
+251	Ross	 Okay, is everybody clear? We’re gonna pick it up…and move it. Now all we need is teamwork, okay? We’re gonna lift the car…and slide it out. Lift and slide!
+252	Rachel	 Ross, I really don’t think…
+253	Ross	 (interrupting her) Lift!! And slide!
+254	Chandler	 Okay, here we go.
+255	Ross	 All right everyone, lift! (They try to lift the car, of course it doesn’t raise up) And slide!! (Everyone leans over, but the car still does not move.)
+256	[Scene	 Rachel’s birthday, she is coming into the hallway where Joey and Tag are playing with the scooter.]
+257	Rachel	 Hey Joey, can I…
+258	Joey	 Oh, come on Rach! My turn just started!
+259	Rachel	 Actually, I just wanna talk to Tag.
+260	Joey	 Oh. Okay. Hey, can I ride this outside?
+261	Rachel	 Whatever! Okay, I’m not your mother.
+262	Joey	 Okay! (Runs off downstairs.)
+263	Rachel	 Not in the street!!
+264	Joey	 Yes!
+265	Rachel	 (to Tag) Hi.
+266	Tag	 Hey.
+267	Rachel	 Hey.
+268	Tag	 How are you doing? Are you feeling any better?
+269	Rachel	 Yeah, I’m doing okay. I’m um…let’s talk.
+270	Tag	 Okay. (They sit on the step.)
+271	Rachel	 Umm…
+272	Tag	 What’s up?
+273	Rachel	 Ohh Tag, umm…you’re such a great guy and we have sooo much fun together but I don’t-I don’t…
+274	Tag	 Wait! I think I see where you’re going, but before you say anything else, can I just say one more thing? (Kisses her.)
+275	Rachel	 Well said. And a uh good example of the fun I was referring to uhh, but I just think I’m past the point where I think I can y’know, just have fun.
+276	Tag	 Rachel, don’t do this. This is just because you’re turning thirty.
+277	Rachel	 Yeah, it is! But you’re just a kid! I mean you’re 25!
+278	Tag	 Twenty-four actually.
+279	Rachel	 Oh God! Y’know what I wish? I wish you were six years older. Well actually, if I’m wishin’ for stuff, I actually wish I was six years younger.
+280	Tag	 Me too.
+281	Rachel	 Yeah, I’m sorry. (They hug.)
+282		[Time lapse, Rachel is entering her apartment after breaking up with Tag.]
+283	Chandler	 Hey! How’d it go?
+284	Rachel	 Oh, if I only want two kids, can I keep him for another year?
+285	Phoebe	 You did the right thing.
+286	Joey	 (entering, limping, and holding his arm) I don’t like this anymore. (He sits down with them in pain.)
+287	Chandler	 Well, here we are, just a bunch of thirty year olds.
+288	Ross	 God, do you realize in ten years we’re gonna be 40?
+289	Joey	 (crying) Why God?! Why are you doing this to us?! (He buries his head in Ross’s shoulder.)
+290	[Scene	 Ross’s birthday, night has fallen and Joey and Ross are walking by where his car is parked to find that both cars blocking him in have left.]
+291	Ross	 Yes! My baby’s finally free!
+292	Joey	 All-all right! (They run and jump in the car.) Start it up! Let’s go!
+293	Ross	 (starting it) Woohoo!
+294		(Just as they are about to pull away, a big, fat, bald guy pulls up in the exact same car as Ross and stops next to him.)
+295	The Man In The Sportscar	 How hot are we? (He drives off.)
+296	Ross	 You wanna buy a car?
+297	Joey	 No.
+298		(Ross shuts it off and they get out.)
+299		Ending Credits
+300	{Transcriber’s Note	 There was no credits scene with this episode.}
+301		End

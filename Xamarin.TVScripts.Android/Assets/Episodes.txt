@@ -1,24 +1,230 @@
-1	Pilot (Part 1) 					
-2	Pilot (Part 2) 						
-3	Tabula Rasa 							
-4	Walkabout 								
-5	White Rabbit 							
-6	House of the Rising Sun 				
-7	The Moth 								
-8	Confidence Man 						
-9	Solitary 								
-10	Raised by Another 						
-11	All the Best Cowboys Have Daddy Issues 
-12	Whatever the Case May Be 				
-13	Hearts and Minds 						
-14	Special 								
-15	Homecoming 							
-16	Outlaws 								
-17	...In Translation 						
-18	Numbers 								
-19	Deus Ex Machina 						
-20	Do No Harm 							
-21	The Greater Good 						
-22	Born to Run 							
-23	Exodus (Part 1) 						
-24	Exodus (Part 2) 
+1	1	The Pilot-The Uncut Version
+1	2	The One With The Sonogram At the End
+1	3	The One With The Thumb
+1	4	The One With George Stephanopoulos
+1	5	The One With The East German Laundry Detergant
+1	6	The One With The Butt
+1	7	The One With The Blackout
+1	8	The One Where Nana Dies Twice
+1	9	The One Where Underdog Gets Away
+1	10	The One With The Monkey
+1	11	The One With Mrs. Bing
+1	12	The One With The Dozen Lasagnas
+1	13	The One With The Boobies
+1	14	The One With The Candy Hearts
+1	15	The One With The Stoned Guy
+1	16	The One With Two Parts
+1	17	The One With Two Parts
+1	18	The One With All The Poker
+1	19	The One Where The Monkey Gets Away
+1	20	The One With The Evil Orthodontist
+1	21	The One With The Fake Monica
+1	22	The One The Ick Factor
+1	23	The One With The Birth
+1	24	The One Where Rachel Finds Out
+2	1	The One With Ross's New Girlfriend
+2	2	The One With The Breast Milk
+2	3	The One Where Heckles Dies
+2	4	The One With Phoebe's Husband
+2	5	The One With Five Steaks and an Eggplant
+2	6	The One With The Baby On the Bus
+2	7	The One Where Ross Finds Out
+2	8	The One With The List
+2	9	The One With Phoebe's Dad
+2	10	The One With Russ
+2	11	The One With The Lesbian Wedding
+2	12	The One After the Superbowl
+2	14	The One With The Prom Video
+2	15	The One Where Ross and Rachel...You Know
+2	16	The One Where Joey Moves Out
+2	17	The One Where Eddie Moves In
+2	18	The One Where Dr. Remoray Dies
+2	19	The One Where Eddie Won't Go
+2	20	The One Where Old Yeller Dies
+2	21	The One With The Bullies
+2	22	The One With The Two Parties
+2	23	The One With The Chicken Pox
+2	24	The One With Barry and Mindy's Wedding
+3	1	The One With The Princess Leia Fantasy
+3	2	The One Where No One's Ready
+3	3	The One With All The Jam
+3	4	The One With The Metophorical Tunnel
+3	5	The One With Frank Jr.
+3	6	The One With The Flashback
+3	7	The One With The Racecar Bed
+3	8	The One With The Giant Poking Device
+3	9	The One With The Football
+3	10	The One Where Rachel Quits
+3	11	The One Where Chandler Can't Remember Which Sister
+3	12	The One With All The Jealousy
+3	13	The One Where Monica And Richard Are Friends
+3	14	The One With Phoebe's Ex-Partner
+3	15	The One Where Ross and Rachel Take A Break
+3	16	The One The Morning After
+3	17	The One Without The Ski Trip
+3	18	The One With The Hypnosis Tape
+3	19	The One With The Tiny T-Shirt
+3	20	The One With The Dollhouse
+3	21	The One With A Chick. And A Duck
+3	22	The One With The Screamer
+3	23	The One With Ross's Thing
+3	24	The One With The Ultimate Fighting Championship
+3	25	The One At The Beach
+4	1	The One With The Jellyfish
+4	2	The One With The Cat
+4	3	The One With The 'Cuffs
+4	4	The One With The Ballroom Dancing
+4	5	The One With Joey's New Girlfriend
+4	6	The One With The Dirty Girl
+4	7	The One Where Chandler Crosses the Line
+4	8	The One With Chandler In A Box
+4	9	The One Where They're Gonna PARTY!
+4	10	The One With The Girl From Poughkeepsie
+4	11	The One With Phoebe's Uterus
+4	12	The One With The Embryos
+4	13	The One With Rachel's Crush
+4	14	The One With Joey's Dirty Day
+4	15	The One With All The Rugby
+4	16	The One With The Fake Party
+4	17	The One With The Free Porn
+4	18	The One With Rachel's New Dress
+4	19	The One With All The Haste
+4	20	The One With All The Wedding Dreses
+4	21	The One With The Invitation
+4	22	The One With The Worst Best Man Ever
+4	23	The One With Ross's Wedding Parts I and II
+4	23	The One With Ross's Wedding - The Uncut Version
+5	1	The One After Ross Says Rachel
+5	2	The One With All The Kissing
+5	3	The One Hundredth
+5	4	The One Where Phoebe Hates PBS
+5	5	The One With All the Kips
+5	6	The One With The Yeti
+5	7	The One Where Ross Moves In
+5	8	The One With The Thanksgiving Flashbacks
+5	9	The One With Ross's Sandwich
+5	10	The One With The Inappropriate Sister
+5	11	The One With All The Resolutions
+5	12	The One With Chandler's Work Laugh
+5	13	The One With Joey's Bag
+5	14	The One Where Everyone Finds Out
+5	15	The One With The Girl Who Hits Joey
+5	16	The One With A Cop
+5	17	The One With Rachel's Inadvertant Kiss
+5	18	The One Where Rachel Smokes
+5	19	The One Where Ross Can't Flirt
+5	20	The One With The Ride Along
+5	21	The One With The Ball
+5	22	The One With Joey's Big Break
+5	23	The One In Vegas
+6	1	The One After Vegas
+6	2	The One Where Ross Hugs Rachel
+6	3	The One With Ross's Denial
+6	4	The One Where Joey Loses His Insurance
+6	5	The One With Joey's Porsche
+6	6	The One The Last Night
+6	7	The One Where Phoebe Runs
+6	8	The One With Ross's Teeth
+6	9	The One Where Ross Got High
+6	10	The One With The Routine
+6	11	The One With The Apothecary Table
+6	12	The One With The Joke
+6	13	The One With Rachel's Sister
+6	14	The One Where Chandler Can't Cry
+6	15	The One That Could Have Been
+6	17	The One With The Unagi
+6	18	The One Where Ross Dates A Student
+6	19	The One With Joey's Fridge
+6	20	The One With Mac And C.H.E.E.S.E.
+6	21	The One Where Ross Meets Elizabeth's Dad
+6	22	The One Where Paul's The Man
+6	23	The One With The Ring
+6	24	The One With The Proposal
+7	1	The One With Monica's Thunder
+7	2	The One With Rachel's Book
+7	3	The One With Phoebe's Cookies
+7	4	The One With Rachel's Assistant
+7	5	The One With The Engagement Picture
+7	6	The One With The Nap Partners
+7	7	The One With Ross's Library Book
+7	8	The One Where Chandler Doesn't Like Dogs
+7	9	The One With All The Candy
+7	10	The One With The Christmas Armadilio
+7	11	The One With All The Cheesecakes
+7	12	The One Where They're Up All Night
+7	13	The One Where Rosita Dies
+7	14	The One Where They All Turn Thirty
+7	15	The One With Joey's New Brain
+7	16	The One With The Truth About London
+7	17	The One With The Cheap Wedding Dress
+7	18	The One With Joey's Award
+7	19	The One With Ross and Monica's Cousin
+7	20	The One With Rachel's Big Kiss
+7	21	The One With The Vows
+7	22	The One With Chandler's Dad
+7	23	The One With Monica and Chandler's Wedding
+8	1	The One After "I Do"
+8	2	The One With The Red Sweater
+8	3	The One Where Rachel Tells...
+8	4	The One With The Videotape
+8	5	The One With Rachel's Date
+8	6	The One With The Halloween Party
+8	7	The One With The Stain
+8	8	The One With The Stripper
+8	9	The One With The Rumor
+8	10	The One With Monica's Boots
+8	11	The One With Ross's Big Step Forward
+8	12	The One Where Joey Dates Rachel
+8	13	The One Where Chandler Takes A Bath
+8	14	The One With The Secret Closet
+8	15	The One With The Birthing Video
+8	16	The One Where Joey Tells Rachel
+8	17	The One With The Tea Leaves
+8	18	The One In Massapequa
+8	19	The One With Joey's Interview
+8	20	The One With The Baby Shower
+8	21	The One With The Cooking Class
+8	22	The One Where Rachel Is Late
+8	23	The One Where Rachel Has A Baby
+9	1	The One Where No One Proposes
+9	2	The One Where Emma Cries
+9	3	The One With The Pediatrician
+9	4	The One With The Sharks
+9	5	The One With Phoebe's Birthday Dinner
+9	6	The One With The Male Nanny
+9	7	The One With Ross's Inappropriate Song
+9	8	The One With Rachel's Other Sister
+9	9	The One With Rachel's Phone Number
+9	10	The One With Christmas In Tulsa
+9	11	The One Where Rachel Goes Back To Work
+9	12	The One With Phoebe's Rats
+9	13	The One Where Monica Sings
+9	14	The One With The Blind Dates
+9	15	The One With The Mugging
+9	16	The One With The Boob Job
+9	17	The One With The Memorial Service
+9	18	The One With The Lottery
+9	19	The One With Rachel's Dream
+9	20	The One With The Soap Opera Party
+9	21	The One With The Fertility Test
+9	22	The One With The Donor
+9	23	The One In Barbados (1)
+9	24	The One In Barbados (2)
+10	1	The One After Joey and Rachel Kiss
+10	2	The One Where Ross is Fine
+10	3	The One With Ross' Tan
+10	4	The One With The Cake
+10	5	The One Where Rachel's Sister Babysits
+10	6	The One With Ross' Grant
+10	7	The One With The Home Study
+10	8	The One With The Late Thanksgiving
+10	9	The One With The Birth Mother
+10	10	The One Where Chandler Gets Caught
+10	11	The One Where the Stripper Cries
+10	12	The One With Phoebe's Wedding
+10	13	The One Where Joey Speaks French
+10	14	The One With Princess Consuela
+10	15	The One Where Estelle Dies
+10	16	The One With Rachel's Going Away Party
+10	17	The Last One (1)
+10	18	The Last One (2)

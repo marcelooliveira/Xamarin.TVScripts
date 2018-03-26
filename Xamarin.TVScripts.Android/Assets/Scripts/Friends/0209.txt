@@ -1,0 +1,9 @@
+1	Written by	 Jeffrey Astroff & Mike Sikowitz Transcribed by
+2	[Scene	 Monica and Rachel's apartment. Monica, Rachel, Ross, and Phoebe are there. Phoebe is looking out the window.] PHOEBE
+3	ROSS	 Hey, Rach, you know what? I think, I think I know what'll make you feel better. How 'bout you make a list about me. RACHEL
+4	[Scene	 Chandler is standing on a street corner waiting for Phoebe in the cab. Joey walks up.] JOEY
+5	ROSS	 Alright, alright, here's the chance. Monica give him cash, Rachel give him your earrings. Something, now, anything. MONICA
+6	MR. TREEGER	 Oh wow, I didn't get you anything. Here's five back. ROSS
+7	JOEY	 They're ribbed for your pleasure. [Ross and Monica trade their gifts.]
+8		END
+9	webbot bot="ImageMap" startspan rectangle=" (137,2) (197, 84) http	//thecfsi.com/season2/210russ.htm" rectangle=" (70,2) (129, 84) http

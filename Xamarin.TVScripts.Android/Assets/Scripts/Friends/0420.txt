@@ -1,0 +1,295 @@
+1	Story by	 Adam Chase Teleplay by
+2	[Scene	 Joey’s bedroom, he is asleep and snoring loudly. Chandler enters wondering who left their engine running.]
+3	Chandler	 Are you kidding me?! Joey. Joey! Joey! Joey! Joey! Joey! Joey! Joey! Joey! Joey!!
+4	Joey	 (joining in, in his sleep) Joey. Joey. Joey. Joey! Joey!!
+5		(Chandler acts disgusted, but is happy that Joey has stopped snoring. However, just as he is about to leave, Joey starts snoring again. So to get him to stop, he slams the door shut, waking Joey.)
+6	Chandler	 Oh. Oh, did-did-did I wake you?
+7		Opening Credits
+8	[Scene	 Central Perk, Chandler is getting another cup of coffee.]
+9	Chandler	 Gunther, can I get another cup of coffee, please? (Gunther starts to pour him another cup.) So uh, what do you do when you’re not working here?
+10	Gunther	 You don’t need to fill these silences.
+11	Chandler	 Oh, okay, thanks. (He goes back to the couch and rejoins Monica, Joey, and Phoebe.)
+12	Monica	 Chandler, that’s like your fourth cup of coffee!
+13	Chandler	 Well, I am drinking lots of cups of coffee because I’m exhausted! Because Joey started snoring!
+14	Monica	 He’s in a different room! He’s really that loud?
+15	Joey	 (proudly) Oh, you should here me.
+16	Chandler	 It’s not something to be proud of, okay? You have to go to a sleep clinic!
+17	Joey	 Look, I told ya, I’m not going to any clinic! I don’t have a problem, you’re the one with the problem! You should go to a "Quit being a baby and leave me alone" clinic!
+18	Chandler	 They don’t have those.
+19	Joey	 Yeah, they do! Quit being a baby and leave me alone! There, you’ve just had your first class!
+20	Monica	 Y’know I used to go out with this guy that was a really light sleeper, and whenever I started to snore, he would just roll me over…
+21	Joey	 Ohhh, yeah!
+22	Monica	 He would just roll me over and I would stop snoring.
+23	Chandler	 Next time you snore, I’m rolling ya over!
+24	Joey	 I gotta do what I gotta do, you gotta do what you gotta do, you just do it.
+25	Ross	 (entering) Hey guys!
+26	Chandler	 Hey, all right!
+27	Phoebe	 Hey!
+28		(Joey starts humming Here Come the Bride.)
+29	Phoebe	 Oh, the Olympics.
+30	Monica	 Have you guys picked a date yet?
+31	Ross	 Oh no, not yet.
+32	Phoebe	 I still cannot believe you’re engaged! (Ross looks at her) Just ‘cause its happening so fast; not ‘cause you’re such a loser.
+33	Ross	 Oh. Thanks. Uh, has anyone seen Rach?
+34	Monica	 Ugh, she’s upstairs not doing the dishes! And I tell ya something! I’m not doing them this time! I don’t care if those dishes sit in the sink until they’re all covered with—I’ll do them when I get home!
+35	Ross	 Yeah—oh! Hey listen umm, Emily found this wedding dress in London…
+36	Phoebe	 Already?!
+37	Ross	 Yeah, but it didn’t fit. Well, luckily there’s a store here that has one left in her size, but I’m the groom, I’m not supposed to see the dress…
+38	Monica	 I’ll pick it up for you!
+39	Ross	 Thank you.
+40	Monica	 Okay.
+41	Chandler	 Oh, she’s got you running errands, y’know, picking up wedding dresses… (Laughs and makes like Indiana Jones and his whip) Wah-pah!
+42	Ross	 What’s wah-pah?
+43	Chandler	 Y’know, whipped! Wah-pah!
+44	Joey	 That’s not whipped! Whipped is wh-tcssh!
+45	Chandler	 That’s what I did. Wah-pah!
+46	Joey	 You can’t do anything!
+47	[Scene	 Monica and Rachel's, Rachel is not doing the dishes. She hears someone coming up the stairs and quickly puts down her magazine and pretends like she’s actually doing the dishes.]
+48	Rachel	 Hey, Mon, I was just doing the dishes!
+49	Ross	 Hey!
+50	Rachel	 Oh! It’s you. (She stops doing the dishes.) Hi.
+51	Ross	 Hey, do uh, do you have a minute?
+52	Rachel	 Yeah, yeah, I was just about to take a break anyways, so…
+53	Ross	 So listen uh, I know you and I haven’t really had a chance to talk since uh, Emily and I decided to get married, and uh, I was just wondering how you were.
+54	Rachel	 Oh.
+55	Ross	 I know if you were getting married I’d feel, kinda….. y’know.
+56	Rachel	 Yeah. Yeah. Definitely, well it definitely took me by surprise, but I’m okay.
+57	Ross	 Yeah?
+58	Rachel	 Yeah.
+59	Ross	 All right, I just wanted to check.
+60	Rachel	 Oh, that’s sweet.
+61		(He goes over to hug her.)
+62	Ross	 You’re great. And I-I know someday this will happen for you too. You just hang in there.
+63	Rachel	 (breaking the hug) Uhh, hang in there?
+64	Ross	 Oh, no, I didn’t mean, uh…
+65	Rachel	 I mean maybe you didn’t hear about a serious relationship called me and Joshua?
+66	Ross	 Oh, I thought you guys had just been on like four dates, I didn’t realise that had become anything, yet.
+67	Rachel	 Oh, no-no-no, no-no-no, it has become, it has—yeah. Oh no, those were four great dates.
+68	Ross	 Oh. Yeah?
+69	Rachel	 Yeah. Oh, yeah. And I mean, the connection, I mean y’know, emotionally, mentally, physically…
+70	Ross	 Wow, that’s-that’s-that’s incredible.
+71	Rachel	 I know isn’t it? It’s like I’m right there with Joshua.
+72	Ross	 Uh-huh.
+73	Rachel	 You are right there with Emily. And it’s y’know, it’s kinda like…. it’s a tie! Well, I gotta get, I gotta get back to the dishes.
+74	Ross	 I gotta get to work.
+75	Rachel	 Oh yeah? Fine.
+76	Ross	 Hey, y’know, y’know what would make me really happy?
+77	Rachel	 Oh yeah, no, what’s that?
+78	Ross	 If like the four of us could all y’know, hang out together. Uh, in fact Emily’s coming into town this weekend, why don’t you say we all have dinner? Say, Sunday night?
+79	Rachel	 That would be great!
+80	Ross	 Yeah, all right, it’s a date. (He leaves)
+81	Rachel	 (to the closed door) Hang in there. You hang in there. (Gives him the raspberry.)
+82	Ross	 (coming back in) Did you say something?
+83	Rachel	 No, just singing. (Does a little song.)
+84	[Scene	 Beatrice Bridal Shop, Monica and Phoebe are there to pick up Emily’s dress.]
+85	Monica	 Oh my God! Ohh! Look at this one! It’s so beautiful!
+86	Phoebe	 Yeah, but y’know, about have of these are gonna end up getting divorced.
+87	The Saleslady	 May I help you ladies?
+88	Monica	 Oh, yes, umm, I’m here to pick up a dress that you have on hold.
+89	The Saleslady	 Yes, what’s the name, please?
+90	Monica	 Emily Waltham.
+91	The Saleslady	 Yes! I have it right here. (Phoebe and Monica both gasp at the dress.) Would you like to try it on Ms. Waltham?
+92	Monica	 (laughs) Okay.
+93		[Time lapse. Monica is wearing the dress and starring at herself in the mirror.]
+94	Phoebe	 You’re the most beautiful bride I’ve ever seen.
+95	Monica	 I am, aren’t I?
+96	The Saleslady	 Ms. Waltham?
+97	Monica	 Yes?
+98	The Saleslady	 We’re closing.
+99	Monica	 All right. (Goes to take off the dress.)
+100	The Saleslady	 And could I get my ring back?
+101		(She disgustedly takes the ring off and gives it back.)
+102	[Scene	 Joey’s bedroom, he’s snoring again and Chandler is there to roll him over.]
+103	Chandler	 All right buddy, time to roll over. (Rolls him over, and discovers a surprise) (Looking down) No-no! (Covers his eyes) No, no-n-n-n-no!! You are going to a clinic! You’re going to a clinic, and a pyjama store!
+104	[Scene	 Monica and Rachel's, Monica is doing the dishes.]
+105	Monica	 Does she use the cups? Yes! I believe she does. Does she use the plates? Yes! I believe she does. (Looks at the wedding dress and stops.)
+106		[Time lapse, Monica is now wearing the dress while doing the dishes and is making like she is thanking her guests for coming to her wedding. Paging Dr. Crane. Dr. Fraiser Crane!]
+107	Monica	 Oh. Thank you. Ohhh, thank you very much. Oh, thank you for coming. (There’s a knock on the door.) Uh, just a second!
+108	Phoebe	 No-no, let me in!
+109	Monica	 Phoebe?
+110	Phoebe	 Yeah!
+111	Monica	 Can you just hold on for one minute?
+112	Phoebe	 No, you have to let me in right now!!
+113	Monica	 Are you alone?
+114	Phoebe	 Yes!
+115	Monica	 All right.
+116		(She goes over and lets Phoebe bounce in wearing her own wedding dress.)
+117	[Scene	 Chandler and Joey's, Joey is complaining about going to the clinic.]
+118	Joey	 This sucks! I didn’t know I had to stay up all night before I went to this stupid sleep clinic! I’m so tired!
+119	Chandler	 It’s 6
+120	Joey	 Yeah, well…
+121	Rachel	 (entering) Hi!
+122	Chandler	 Hey, I hear that you and Joshua are going out to dinner with Ross and Emily, and I think that’s, I think that’s really cool.
+123	Joey	 Yeah, Rach, I think you’re handling that really well.
+124	Rachel	 Handling it? What do you mean, handling it? There’s nothing to handle. Now, maybe I would have a problem with this if it wasn’t for me and Joshua. Y’know, they’re not gonna get married anyway!
+125	Chandler	 What?
+126	Rachel	 Come on! They rushed into this thing so fast it’s ridiculous! I mean, they’re gonna be engaged for like what? A year? And somewhere along the way, one of them is gonna realise what they’ve done and they’re call the whole thing off. I’m telling ya, you’re gonna be dancing at my wedding before you’re dancing at there’s.
+127	Chandler	 Yeah, well, I don’t dance at weddings.
+128	Rachel	 Why not?
+129	Chandler	 Because weddings are a great place to meet women, and when I dance, I look like this… (Starts to dancing really, really, really badly. Ross enters behind him and he stops.)
+130	Ross	 Hey man.
+131	Chandler	 Hey!
+132	Ross	 So, what are you guys doing four weeks from today?
+133	Chandler	 Nothing.
+134	Rachel	 Nothing.
+135	Joey	 I am… (Looks in his date book.) free!
+136	Ross	 Great! Because Emily and I are getting married in a month!
+137	Joey and Chandler	 What?!
+138	Ross	 Yep!
+139	Rachel	 In a month?
+140	Ross	 Yeah!
+141	Rachel	 You mean, you mean 30 days?
+142	Ross	 Yeah.
+143	Rachel	 From now?
+144	Ross	 Yeah.
+145	Rachel	 Well, that’s great.
+146	Ross	 Yeah! Yeah, Emily always wanted to get married in this beautiful place that her parents got married, but it’s going to be torn down, so… I mean, I-I know it’s crazy, but everything up ‘til now has been so crazy, and I don’t know, this just feels right. Y’know?
+147	Joey	 (still looking in date book) Hey! That’s the day after I stop menstruating! (They all look at him.) This isn’t mine.
+148		Commercial Break
+149	[Scene	 Central Perk, Rachel is waiting impatiently for Joshua.]
+150	Joshua	 (entering) Hey, Rachel.
+151	Rachel	 Hi!
+152	Joshua	 What’s up? You’re voice sounded all squeaky on the phone.
+153	Rachel	 Ohh, nothing, I just wanted to see you. See you and hug you. (Hugs him) See you.
+154	Joshua	 Great!
+155	Rachel	 Yeah! (She sits down) Sit!
+156	Joshua	 (sitting) You okay?
+157	Rachel	 I’m more than okay, I am really, really happy! Wanna know why?
+158	Joshua	 Do I?
+159	Rachel	 ‘Cause I am really happy about us. I think we are, I think we are so on the right track! Y’know? I mean, I think we are working, I think we are clicking. Y’know?
+160	Joshua	 Yeah, sure-sure, yeah, we’re-we’re-we’re-we’re-we’re clicking.
+161	Rachel	 Yeah-yeah, y’know if-if there was just like one little area where I—that I think we need—we would need to work on; I-I would think it was we’re just not crazy enough!
+162	Joshua	 I-I gotta say, I-I-I-I’m not too sure I agree with that.
+163	Rachel	 Well, yeah, right, y’know what? Yeah, you’re right, I mean, we no, we have our fun. Yeah! But if (Grunts uncomprehensively)……I mean, I mean like craaaazy! Y’know? Okay, all right. This is gonna, this is gonna sound y’know, a little umm, hasty, but uh, just go with it. Umm. Ugh. What if we got married?
+164	Joshua	 What?! (Gunther is listening in.)
+165	Rachel	 Oh, I know, I know, it’s-it’s so, it’s so totally like, "Whoa! Can we do this?" Y’know, I mean, but I mean it just feels right! Don’t you think? It does! I mean, it just feels right, don’t you think?
+166	Joshua	 Wow! Uhh, Rachel uhh, you’re a real special lady, but my divorce isn’t final yet and, and, and we’ve been on four days, so I’m thinking "No, but thanks."
+167	Gunther	 YOU IDIOT!!!!!
+168	[Scene	 The Sleep Clinic, Joey is having trouble staying awake.]
+169	Sleep Clinic Worker	 Your name, please?
+170	Joey	 Joey Tribbiani.
+171	Sleep Clinic Worker	 Um-hmm, and did you stay up all night in preparation for your sleep study. (Joey doesn’t answer) Uh, sir? (Joey starts snoring)
+172	Chandler	 (answering for him) Yes he did.
+173	Sleep Clinic Worker	 Alll right, we’ll call you in a few minutes.
+174		(As she leaves, a beautiful woman enters and sits down across from the boys.)
+175	Chandler	 (waking Joey) Hey, check out that girl! She is really hot!
+176	Joey	 (sleepily) Yeah, she is. Wow! (Falls back asleep, loudly) How you doin’?
+177		(Chandler wakes him up, again.)
+178	Joey	 What?!
+179	Chandler	 You’re coming on to the entire room! (He goes over to pick up a stack of magazines next to her, and to get her attention, he throws them back down.) I’m Chandler.
+180	Woman	 I’m Marjorie.
+181	Chandler	 Hi.
+182	Marjorie	 Hi.
+183	Chandler	 You mind if I…
+184	Marjorie	 No, please.
+185		(He sits down next to her.)
+186	Chandler	 So uh, what are you in for?
+187	Marjorie	 I talk in my sleep.
+188	Chandler	 What a coincidence, I listen in my sleep.
+189	Joey	 (asleep) So why don’t you give me your number?
+190	[Scene	 Monica and Rachel's, Monica and Phoebe, still defying reality, are now throwing a bouquet at each other, pretending to catch the actual bouquet at an actual wedding.]
+191	Monica	 Okay, ready?
+192	Phoebe	 Yeah.
+193	Monica	 Okay.
+194		(She turns around and throws the bouquet to Phoebe.)
+195	Phoebe	 (catching it) I got it! Mine! (They both hug)
+196	Monica	 Congratulations!
+197	Phoebe	 Thank you!
+198	Monica	 Okay! My turn! My turn!
+199	Phoebe	 Okay! (Gets into position) Okay, ready?
+200	Monica	 (cocking her head from side to side in some pre-bouquet-catching ritual) Yeah.
+201	Phoebe	 Okay. (Phoebe turns and throws it on the couch.)
+202	Monica	 (upset) That was a terrible throw!!
+203	Phoebe	 I’m not gonna right to you! That’s not real!
+204	Monica	 Look at me! My big concern is what’s real?! (Finally realises) Oh my God. We’re really sad, aren’t we?
+205	Phoebe	 Yeah, I think we are.
+206	Monica	 This isn’t even my dress.
+207	Phoebe	 Well, at least you didn’t rent yours from a store called, "It’s Not Too Late."
+208	Monica	 I’m changing out of this.
+209	Phoebe	 Me too.
+210	Monica	 In like a half-hour?
+211	Phoebe	 Me too.
+212	Monica	 Okay, throw it straight this time.
+213	Phoebe	 Okay.
+214		(She throws it straight, and Monica makes a big deal about catching it.)
+215	Monica	 I’m getting married next!!
+216	Phoebe	 Yay!
+217	[Scene	 Central Perk, Monica and Phoebe, back to reality, are sitting in normal clothes.]
+218	Phoebe	 I hate my regular clothes now! Y’know? I look down and-and I know that this isn’t gonna be the most special day of my life.
+219	Monica	 Yeah. I mean it was kinda fun for a while, but didn’t you start feeling silly?
+220	Phoebe	 I guess.
+221		(Monica crosses her legs and is still wearing the garter belt.)
+222	Phoebe	 Oh my God!
+223	Monica	 Oh God.
+224	Phoebe	 Oh, you’re such a cheater!
+225	Chandler	 (entering) Hello! Little ones.
+226	Monica	 Hey!
+227	Phoebe	 Hey!
+228	Monica	 So, is Joey gonna stop snoring?
+229	Chandler	 Yep! And! A beautiful woman agreed to go out with me. (They’re stunned.) Joey wanted to ask her out, but uh, she picked me.
+230	Phoebe	 Oh, how’d that happen?
+231	Chandler	 Because I’m cooler.
+232	Monica	 No, seriously.
+233	Chandler	 Well she’s, she’s the kinda girl—Joey was unconscious.
+234		(Joey enters, wearing a mouth guard like boxers wear.)
+235	Joey	 (muffled by the mouth guard) Hey you guys! What’s happening?
+236	Monica	 Oh my God!
+237	Phoebe	 What is that?
+238	Joey	 (muffled) Oh, they gave it to me at the sleep clinic, and it’s gonna help me not to snore.
+239	Monica	 Well, are you asleep right now, Joe? ‘Cause I don’t think you have to wear it unless you are!
+240	Joey	 (takes out the mouth guard) I know I don’t have too! It tastes good. (Puts it back in.)
+241	Chandler	 Plus, you look cool.
+242		(Joey totally agrees with this statement and kicks his feet up.)
+243	[Scene	 Monica and Rachel's, Monica is putting away the wedding dress, finally.]
+244	Rachel	 (entering from her bedroom) Well, I just called Joshua…
+245	Phoebe	 Oh, how did it go?
+246	Rachel	 Well, I did my best to convince him that I’m not some crazy girl who is dying to get married—I’m just going through a hard time.
+247	Phoebe	 What did he say?
+248	Rachel	 Well uh, his answering machine was very understanding. Ugh. I feel blue.
+249	Monica	 Ohh, sweetie! (Goes to comfort her.) Hey, I bet you anything that he’s gonna call you again.
+250	Rachel	 Yeah, maybe, but I don’t think I even care. I don’t think he’s the one I’m sad about. Y’know, I know that I said that I am totally okay with Ross getting married, but as it turns out, I don’t think I’m handling it all that well.
+251	Phoebe	 Yeah, maybe.
+252	Rachel	 And I-I am just trying to figure out why.
+253	Phoebe	 Any luck?
+254	Rachel	 Well, yeah, y’know how Ross and I were on again, off again, on again, off again? I guess I just figured that somewhere down the road, we would be on again.
+255	Monica	 Again. Y’know what? I think we all did.
+256	Ross	 (entering) Hey!
+257	Monica	 Hey! (She jumps up and throws Emily’s wedding dress into Rachel’s room.)
+258	Ross	 So, I got us some reservations for Sunday night, okay? How about, Ernie’s at 9 o’clock?
+259	Rachel	 Yeah, well, you uh, better make it for three.
+260	Ross	 Oh, see I-I don’t know if we’re gonna be hungry at three.
+261	Rachel	 Three people. Joshua’s not gonna be there.
+262	Ross	 What happened?
+263	Rachel	 Uh, well, I think, I think he broke up with me.
+264	Ross	 Noo. Why?
+265	Rachel	 Well, apparently he scares easy.
+266	Ross	 Oh, Rachel, I’m-I’m sorry.
+267	Rachel	 It’s okay. Sometimes, things don’t work out the way you’d thought they would.
+268	Ross	 Come here.
+269		(They hug.)
+270	Rachel	 (breaking the hug) Oh, hey, don’t you have to go pick up Emily?
+271	Ross	 Yeah.
+272	Rachel	 Yeah.
+273	Ross	 You okay?
+274	Rachel	 Yeah! I got my girls.
+275		(He leaves.)
+276	Rachel	 Ugh. (She goes over and lays her head on Phoebe’s lap.)
+277	Phoebe	 (looks at Monica) Hey, y’know what might cheer you up?
+278	Rachel	 What?
+279		[Time lapse, all three girls are now wearing wedding dresses, eating popcorn, drinking beer, and watching TV.]
+280	Rachel	 Y’know, I gotta tell ya, this really does put in a better mood.
+281	Monica	 Oh, I wish there was a job where I could wear this all the time. (Pause) Maybe someday, there will be.
+282		(There’s a knock on the door.)
+283	Monica	 Oh God! He’s gonna come by and borrow some candles for his big date!
+284	Rachel	 Oh, okay! (She goes to answer the door.)
+285	Monica	 No-no, Rachel, don’t get it! He can’t see us!
+286	Phoebe	 No, yeah! The groom cannot see the bride!
+287	Rachel	 I’m not gonna marry Chandler!
+288	Phoebe	 Not after this!
+289	Rachel	 Okay, you guys, just relax. (She goes over to open the door, and as she does, she says.) I doooo. (Sees that it’s Joshua, not Chandler that knocked on the door.)
+290	Joshua	 I gotta go.
+291	Rachel	 Oh, wait, Joshua! Joshua! (Pause) (Comes back inside) Yeah, well, that oughta do it.
+292		Closing Credits
+293	[Scene	 Chandler’s bedroom, he is sleeping with Marjorie. All of the sudden, Marjorie starts talking in her sleep, awakening Chandler. After a little bit, she quiets back down, and Chandler tries to get back to sleep. There’s a short pause until she starts screaming, causing Chandler to scream with her. She quickly calms down. This all wakes up Joey, who comes over wearing the mouth guard, opens the top half of Chandler’s door, and starts to complain about the noise.]
+294	Joey	 (muffled by the mouth guard) Dude! I am trying to sleep! (Shrugs to say, "What’s up with that?")
+295		End

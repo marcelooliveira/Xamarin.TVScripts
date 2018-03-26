@@ -1,0 +1,340 @@
+1	Written by	 Andrew Reich & Ted Cohen Directed by
+2	[Scene	 Central Perk. Charlie, Joey and Rachel are on the couches]
+3	Charlie	 (while Joey's giving her a massage) Oh! That feels sooo good!
+4	Rachel	 (speaking to herself and reading Cosmopolitan) Oh, lucky me! Coffee and a live sex show!
+5	Charlie	 I'm sorry, what?
+6	Rachel	 Oh... Oh, I'm sorry! I'm not... I was just-I was just reading to Emma.
+7	Charlie	 From... Cosmo??
+8	Rachel	 Yeah, yeah... It's... "climax your way to better skin".
+9	Charlie	 (to Joey) So, I have to go shopping today, which is my least favourite thing, I'm soo bad at picking out clothes!
+10	Joey	 So you need someone who knows fashion, to tell you what looks good.
+11	Rachel	 (hiding herself behind the magazine and whispering) Not me, not me, not me, not me, not me!
+12	Joey	 Oh hey Rach!
+13	Rachel	 Yeah...
+14	Joey	 Maybe you could take Charlie shopping.
+15	Rachel	 Oh, well...
+16	Charlie	 I'm sure you have better things to do.
+17	Joey	 Are you kidding? Rachel loves to shop! And she has great taste! Yeah, she's the one who taught me, you don't wear white after labour day and that you always, always, always have to put on underwear when you're trying on clothes.
+18	Charlie	 If you have the time, I'd really appreciate the help.
+19	Rachel	 Ok, uh-uh... Let's-Let's shop!!
+20	Joey	 (to Charlie) Ok, you're gonna come back with some very classy clothes... (aside to Rachel)... and some slutty lingerie, SLUTTY!
+21	Phoebe	 (entering and talking on mobile phone) Ok, great! All right, bye! (she hangs up) Pain in the ass!! (she looks at the others, then back at the phone) That's off, right?
+22	Joey	 What's the matter, Pheebs?
+23	Phoebe	 Oh... Mike's sister just invited me to a party tonight, he's gonna be there. And she was like "Oh, don't worry! I asked him. He's totally ok with seeing you!". So now I have to go so he'll think that I'm totally ok with seeing him!
+24	Rachel	 Which you're not, because you've totally hung up on him!
+25	Phoebe	 Exactly!
+26	Rachel	 And you're gonna want him to eat his heart out so you're gonna have to look fabulous!
+27	Phoebe	 (after a short pause) I didn't even think about that! (pause) Aaargh, sexual politics!!
+28	Rachel	 Hey Pheebs, I'm-I'm taking Charlie shopping, why don't you come and I'll help you find something.
+29	Phoebe	 Ok, that'll be great!
+30	Joey	 Oh, ain't that nice? The three of you trying on slutty lingerie together.
+31	Rachel	 That's not what we're gonna do!
+32	Joey	 Why would you ruin it, who was that hurtin'?
+33		Opening credits
+34	[Scene	 Doctor Connelly's office]
+35	Chandler	 (looking at the picture of the female reproductive system) Wow! Fortunately she has a very pretty face!
+36	Monica	 Oh, I so can't believe this! My uterus is an inhospitable environment? I was trying so hard to be a good hostess!
+37	Chandler	 Oh, I can't believe my sperm have low motility because, let me tell you, when I was growing up they sure seem to be in a hurry to get places!!
+38	Doctor Connelly	 (entering) Hi there.
+39	Chandler	 Hi.
+40	Monica	 Hi.
+41	Doctor Connelly	 I'm sorry there wasn't better news from your test last week but I wanted to talk to you about your options.
+42	Monica	 Ok.
+43	Doctor Connelly	 Above all, even though your chances of conceiving through natural means aren't great, you never know! So, keep having sex on a regular basis.
+44	Chandler	 Oh, DAMN IT!
+45		(Dr. Connelly glares at Chandler)
+46	Monica	 Don't worry, after a while he'll tune it out.
+47	Doctor Connelly	 Ok, given your situation, the options with the greatest chances for success would be surrogacy, or insemination using a sperm donor.
+48	Monica	 (long pause) Ok.
+49	Doctor Connelly	 And, of course, if you feel that neither of those is right for you, you can always adopt.
+50	Chandler	 Is that a hint? Because we love you Doctor Connelly but we don't think we'd want you to be our child! (Dr. Connelly glares at him) Wow, talking about an inhospitable environment!
+51	[Scene	 Central Perk. Joey and Charlie on the couch. Rachel enters]
+52	Rachel	 Hi! Ok, you're ready to go pick up Phoebe and go shopping?
+53	Charlie	 Oh, yeah! Let's do it!
+54	Joey	 (to Charlie) Alright, have a good time. (they kiss)
+55	Rachel	 Not gonna find any clothes in there!
+56	Ross	 (entering) Hey, you guys!
+57	Rachel	 Hi.
+58	Ross	 Guess who's up for keynote speaker at the National Paleontology Conference?
+59	Charlie	 Umh... Kurts Baley?
+60	Ross	 Yeah, right! What was last time he met a submission deadline for an abstract (he and Charlie laugh, then Joey starts laughing too without any reason) Well, why are you laughing?
+61	Joey	 Just... seeing what it'd be like to be a paleontologist... it's fun, yeah!
+62	Charlie	 So you're up for keynote speaker! Who's making the decisions?
+63	Ross	 Professor Sherman, yeah. I've a meeting with him today.
+64	Charlie	 He's a pretty tough guy to impress.
+65	Ross	 Yeah, well... I think I know how to dazzle him.
+66	Rachel	 Oh... you're not gonna do a magic trick, are ya?
+67	Ross	 Tsz... NO! (he goes to sit down, dropping a multicoloured silk streamer off his sleeve).
+68	Chandler	 (entering) Hey guys!
+69	Ross	 Wait a minute, you guys. Oh, I wanna ask you something. I-I I may get to speak at this paleontology convention and if I do, I'd love for you guys to come and hear me.
+70	Chandler	 I think I can safely say that we all have family issues, work stuff and/or are sick.
+71	Ross	 It's in Barbados.
+72	Chandler	 But you come first!
+73	Rachel	 I'm there!
+74	Charlie	 We'll see you, guys! (she goes)
+75	Joey	 Bye.
+76	Rachel	 Bye, see ya. (she goes)
+77	Chandler	 (sitting down on the couch) Ok.
+78	Joey	 All right, so. How did it go at the fertility clinic?
+79	Chandler	 Not as much fun as last time. Apparently you only get porn if you're giving a sperm sample.
+80	Ross	 So-so what did the doctor say?
+81	Chandler	 Well... there's surrogacy, but Monica has dreamt her whole life of carrying a child, she has felt that watching a surrogate would be... too hard for her.
+82	Joey	 So you're ruling out surrogacy?
+83	Chandler	 Yeah.
+84	Joey	 So, I don't have to learn what that means?
+85	Chandler	 Aside from adoption the only other choice is insemination, so... we're talking about sperm donors.
+86	Joey	 Enough said, I'm there for you man. Where is she, upstairs?
+87	Chandler	 (stopping Joey) ah-ha!
+88	Ross	 How do you feel about all this?
+89	Chandler	 I wish there was an easier way for us to have a child but I don't think there is one.
+90	Joey	 Come on Ross, be a good guy. Step up and do it!
+91	Ross	 (puzzled) What?
+92		(Joey moves close to Ross and whispers something in his ear)
+93	Ross	 (looking astonished) What? NO! I am not going to give them Ben!
+94	[Scene	 Professor Sherman's office, Ross is relating to Professor Sherman]
+95	Ross	 The data we are receiving from MRI scans and DNA testing of these fossils are - are staggering.
+96	Professor Sherman	 Mmm-mm.
+97	Ross	 (reading from a notepad) I mean, we've been accepting Leakey's dates as a given, but if they're off by even a hundred thousand years or so then you can - you can just throw most of our assumptions, you know, right in the trash. (he throws the notepad in the waste bin) So-so what I am saying is - is is that (he picks the notepad back from the waste bin) is that the repercussions could be huge! I mean, not just in palaeontology, but if-if you think about it, in evolutionary biology, uh, genetics, geology, uh, I mean, truly the mind boggles!
+98		(Turns to look at Professor Sherman, only to discover that he is sleeping)
+99	Ross	 Oh, that's not what you want...
+100	[Scene	 Shop, Rachel, Charlie and Phoebe walk in]
+101	Shop assistant	 (to a girl) Incentive For Men?
+102	Phoebe	 Oh, I'll take some of that.
+103	Rachel	 Pheebs, that's for men!
+104	Phoebe	 No, I know, this way when I go to the party later Mike will know I am over him cause I'm gonna smell like another guy. (to the shop assistant) Yeah.
+105		(The shop assistant sprays the perfume on Phoebe's neck)
+106	Phoebe	 Ok. Oh good, I'm dating a Russian cab driver. (to the shop assistant). Seriously does anyone buy this? I smell like beets!
+107	Charlie	 (to Rachel) So, you know what, I really like those jackets with the shoulder pads on them. Where do you think those would be?
+108	Rachel	 On Melanie Griffith in "Working girl". I think what you want is over here.
+109	Charlie	 See, I told you I needed someone! Oh, you know, by the way, as a "thank you", I would really love to take you out.
+110	Rachel	 Really?
+111	Charlie	 Yeah! Actually Joey and I are going to the movies tonight, wanna come?
+112	Rachel	 Oh, I can't. Because I-I've seen them.
+113	Charlie	 You've seen all the movies...
+114	Rachel	 Yeah! I'm a big fan! Of the movies, you know. Motion pictures. The Talkies!
+115	Phoebe	 (picks up a dress) Hey Rach, will you come with me to a dressing room?
+116	Rachel	 Sure!
+117	Phoebe	 Ok!
+118	Charlie	 Wha, you know, maybe we can do something else!
+119	Rachel	 You know that depends on what it is! I've done a lot of stuff.
+120		(Phoebe and Rachel go off to the dressing rooms. They enter one and close the curtain.)
+121	Phoebe	 So what were you doing out there, do you not like Charlie?
+122	Rachel	 She's ok, I just don't get a really good vibe from her!
+123	Phoebe	 Why?
+124	Rachel	 I don't know, you know, just the way she waltzed in here all smart, and tall! You know, and just swept Joey off his feet... I mean, nobody else has a chance!
+125	Phoebe	 Who else?
+126	Rachel	 Anybody! You, me, you know, Monica's mom...
+127	Phoebe	 You like Joey?
+128	Rachel	 Shhhhh! Phoebe! All right, look. I have a little thing for him.
+129	Phoebe	 (whispering) Oh my God!
+130	Rachel	 It's just physical and I have it totally under control! Ok? It's just, when I see them together, sometimes I just get a little jealous!
+131	Phoebe	 Uh, wow! Isn't it ironic that he liked you and now you like him?
+132	Rachel	 (annoyed) Oh, I get it!
+133	Phoebe	 Oh well, as long as it is under control, you know, you can't do anything about it, he's already dating her, and she is a nice person, that wouldn't be right.
+134	Rachel	 I know, I know, so it is just not a big deal.
+135	Phoebe	 Yeah.
+136	Rachel	 So can we keep this between us?
+137	Phoebe	 Sure!
+138	Rachel	 Ok, great, because I gotta get out of here, the smell of beets is killing me!
+139	Phoebe	 Oh.
+140		(Rachel opens the curtains and sees Charlie coming out from the dressing room just next to theirs)
+141	Phoebe	 Any chance Charlie has a deaf twin?
+142	[Scene	 Monica's apartment, Chandler walks in with a friend of his while Monica is putting fruit in a bowl.]
+143	Monica	 Hi honey!
+144	Chandler	 Hey! Look I brought a friend for dinner, this is Zack, from work!
+145	Monica	 Oh, of course, it's so nice to see you again, Zack!
+146	Zack	 (shaking Monica's hand) You too.
+147	Chandler	 You guys haven't actually met before, but, boy! You're both polite! (pause) Go to have a seat Zack, and I'll get you a beer.
+148	Monica	 I got it.
+149	Zack	 Thanks.
+150	Chandler	 (to Mon) So, Zack's pretty nice, uh?
+151	Monica	 Yeah, I guess.
+152	Chandler	 So, how would you like to have a baby that's half yours and half his!
+153	Monica	 (turns around and she's quite shocked) Excuse me?
+154	Chandler	 Well, we're talking about sperm donors and Zack may be the guy! I mean, look, he's intelligent, he's healthy, he's athletic, I mean, he is "spermtastic"!
+155	Monica	 Chandler, this is crazy! What did you even say to him! "Come up, meet my wife! Give us your sperm"!
+156	Chandler	 No, I invited him to dinner so you could get a chance to get to know him! I mean, if we go through a sperm bank you never meet the guy, get to check him out.
+157	Monica	 Chandler!
+158	Chandler	 I'm telling you, he's great! I mean, even if my sperm worked fine, I'd think he'd be the way to go!
+159	Monica	 I'm not going to be a part of this! You can't just bring some random guy at home and expect him to be our sperm donor!
+160	Chandler	 Ok!
+161	Monica	 Uh!
+162	Chandler	 (bringing the beer to Zack) Zack!
+163	Zack	 Thanks! Do you have a coaster? I don't wanna make a ring.
+164		(Monica hears that and is suddenly very interested in Zack)
+165	Monica	 Tell me about yourself, Zack!
+166	[Scene	 Shop, Phoebe and Rachel are talking in front of the dressing room]
+167	Rachel	 Oh, God, do you think she heard? It would be so bad if she heard!
+168	Phoebe	 Well, maybe she didn't hear! Ok I'm gonna go into that dressing room, you stay in here and I'll talk and see if you can hear me.
+169	Rachel	 Ok, great!
+170		(Phoebe moves in the dressing room from which Charlie went out)
+171	Rachel	 Oh, thank God I can't hear a word that you're saying!
+172	Phoebe	 (sticks her head out) I didn't say anything yet!
+173	Rachel	 (sticks her head out too) Well, get back in there and talk!
+174	Phoebe	 (goes back in) I'm Rachel. It's so annoying when I put Emma on the phone to talk with my friends.
+175	Rachel	 (comes out again) What!?
+176	Phoebe	 (comes out too) Well, some things are just hard to say to your face.
+177	Rachel	 Ok well, I heard that! Which means that she heard it too!
+178	Phoebe	 Ooh! We have a problem.
+179	Rachel	 Oh! What are we gonna do?
+180		(A strange woman sticks her head out from a third changing cubicle to the far right)
+181	Stranger	 Just be honest with her.
+182	Rachel	 Oh my God!
+183	Stranger	 And it is annoying when parents put their baby on the phone...
+184	Rachel	 (yelling at the stranger) Alright! Enough out of you!
+185	[Scene	 Joey's apartment. Joey is sitting on his bed and the phone rings]
+186	Joey	 Hello?
+187	Ross	 Joey! Hey, I need to talk to Charlie. Is she there?
+188	Joey	 No. no... eh... she went shopping with Rachel. Why? What's up?
+189	Ross	 I'm meeting with professor Sherman about my being the keynote speaker...
+190	Joey	 Oh! How's it going?
+191	Ross	 It could be better! He, uhm... he fell asleep!
+192	Joey	 What!? But I already bought my ticket to Bermuda!
+193	Ross	 Barbados.
+194	Joey	 Fine, I'll rent a car and drive...! Ross, you have to get that job!
+195	Ross	 What am I supposed to do? He's out cold! In fact he was just talking in his sleep before and evidently he wants someone named Fran to spank him harder.
+196	Joey	 Well, just wake him up!
+197	Ross	 I can't! If he realizes that I'm the one that put him to sleep, I won't get the job!
+198	Joey	 Uh! That's a tough one. Oh! Wait a minute, this happened to me before! Yeah, I was auditioning for a play and the producer fell asleep and... (pause) no wait a minute... it was me who fell asleep... Yeah I mean hey, Shakespeare, how about a chase scene once in a while!?
+199	[Scene	 Chandler and Monica's apartement. Chandler and the guest are in the living room, Monica in the kitchen]
+200	Monica	 Hey guys! Dinner's ready!
+201	Zack	 Oh! I'm gonna go wash up first. (Chandler points him the bathroom) Thanks!
+202	Chandler	 So what do you think? I want that guys genes for my kid! Those eyes, those cheeckbones!
+203	Monica	 Ok, there's enthusiastic and there's just plain gay!!
+204	Chandler	 You don't like him.
+205	Monica	 I think he is fine! It's just that we don't know anything real about him... we should get more information.
+206	Chandler	 Alright! Just follow my lead!
+207		(Zack comes out of the bathroom. They all sit down at the table.)
+208	Zack	 You guys have such a great place here.
+209	Chandler	 Oh! Thanks, I'm crazy about our place. Hey! speaking of crazy... do you have a history of mental illness in the family?
+210	Zack	 Uhm... no. Although I did have an uncle who voted for Dukakis.
+211	Chandler	 (very seriously) That's really not the kind of thing we are looking for Zack.
+212	Zack	 (looking very puzzled) Okaaay... so eh... so tell me, how did you guys meet.
+213	Monica	 Oh, friends first, drunk in London, you know the story. I've got a better question for you
+214	Zack	 (after a pause, very confused) No...
+215	Monica	 Eh... Heart Disease, Alzheimers, gout?
+216	Zack	 You guys don't have people for dinner a lot, huh?
+217	Monica	 We're just making conversation. (Chandler makes an agreeing-sound)
+218	Zack	 Ok. I heard a joke today. It's pretty funny...
+219	Chandler	 You know what's not funny? Male Pattern Baldness (Monica stretches her neck to look behind Zack's head and then gives Chandler an "ok" sign)
+220	Zack	 Ok listen, you guys have shown a lot of interest in me tonight and I'm flattered and... and quite frankly a little frightened. Can we just talk about something else?
+221	Monica & Chandler	 Sure! Alright...
+222	Zack	 Ravioli's delicious!
+223	Chandler	 I noticed you were enjoying that Ravioli with a beautiful set of teeth. Did you have braces as a child?
+224	Zack	 No I didn't.
+225	Monica	 Yess!! (M & C high-five and Zack looks confused again)
+226	Chandler	 (Proceeding with his dinner) We're teeth people Zack!
+227	[Scene	 In the store. Rachel and Phoebe returning from the changing rooms]
+228	Rachel	 Alright! Let's just do it. Let's just go over there and see if she heard.
+229	Phoebe	 Good plan.
+230	Rachel	 Ok. (Phoebe starts to walk in the opposite direction though. Rachel sees and follows her) Wha...? where? Where are you going?
+231	Phoebe	 Oh! I'm sorry Rachel, I don't have time for your childish games, ok? I still have to go find something incredible to wear so I can beat Mike at "who's more over who"! (at which she walks away)
+232	Rachel	 (to Charlie) Hey, hi! Hey, where've you been?
+233	Charlie	 Oh! trying on clothes.
+234	Rachel	 (pretends to be stunned) Oh! Wi... in the dres... in the dressing room!? Well, that's so weird! Phoebe and I were just trying on clothes in the dressing room. God it's just such a small world!
+235	Charlie	 (smiling) Rachel... I heard you guys whispering.
+236	Rachel	 Oh God. You did. You heard. Ok, listen, let me explain.
+237	Charlie	 No! There's nothing to explain. I heard you. Phoebe likes Joey.
+238	Rachel	 (after a pause) Yeah.
+239	Charlie	 It's just that... I don't understand it... I mean, Phoebe likes Joey and then she comes here to buy a dress to impress another guy...?
+240	Rachel	 Yeah! That's Phoebe. That's Phoebe. You know, she just wants them all! It's like she's a nympho!
+241	Charlie	 Wow!
+242	Rachel	 Yeah...
+243	Charlie	 You know, by the way. I heard you tell her not to do anything. Thanks for sticking up for me. You are such a nice person.
+244	Rachel	 (Looks ashamed) I try...
+245	[Scene	 Prof. Sherman's office. Sherman is still asleep on his chair, blocking the door.]
+246		(Ross takes his suitcase and tries to get out but ends up falling on Prof. Sherman's laps, thereby waking him up)
+247	Ross	 (To the still half asleep Professor) Oh my God! You really want me to be the keynote speaker? Thank you! (hugs him whilst still on his lap)
+248	Prof. Sherman	 (confused) You're welcome. (Ross hugs him again)
+249	[Scene	 Central Perk. Joey is sitting on the sofa, eating a cookie.]
+250		(Phoebe walks in wearing a fancy, revealing dress, and stands before Joey)
+251	Joey	 (impressed) Wow! You look... (drops the cookie)... stop-eating hot! Which is like the highest level of hotness!
+252	Phoebe	 Are you sure? Because I'm really dreading going to this party.
+253	Joey	 Then don't go!
+254	Phoebe	 Mike knows I'm coming, and if I don't show up he'll think it's because of him! And I don't want to lose face! That's a very serious thing in my culture.
+255	Joey	 Alright, then you go to that party and you pretend to be over Mike. And afterward you come to my place and I'll get you good and drunk!
+256	Phoebe	 You got it! Ok. But not on the wine that you made, ok, because I just don't want to go back to the Emergency Room.
+257		(Joey gives Phoebe a thumbs up. Phoebe walks out)
+258	[Scene	 Outside Central Perk.]
+259	Phoebe	 David?
+260		(David the scientist guy is standing at the news-stand)
+261	David	 Phoebe! Hi!
+262	Phoebe	 Oh my God! (they hug)
+263	David	 Wow, you look unbelievable.
+264	Phoebe	 Yeah. What-what are you doing here?
+265	David	 Well, I'm back from Minsk... permanently.
+266	Phoebe	 What happened?
+267	David	 Well, remember how I was trying to achieve the positronic distillation of subatomic particles?
+268	Phoebe	 Yeah?
+269	David	 Well, after eight years of research I discovered that it can't be done.
+270	Phoebe	 Well, it's great that you're back! How are you?
+271	David	 Good, good, life is good...
+272	Phoebe	 Good!
+273	David	 Ah well, I-I'm seeing someone.
+274	Phoebe	 (disappointed) Oh, good for you.
+275	David	 She's also a scientist, so she's very smart and pretty and... well, it's actually because of you, really, that we're together, I mean, I saw what you had with that Mike guy, and I just said "Boy, I want that".
+276	Phoebe	 Mike and I broke up.
+277	David	 You're kidding me. Because I'm not seeing anybody, I've just totally made that up.
+278	Phoebe	 Really?
+279	David	 Yeah, I don't know why, I'm sorry, I guess I just didn't want to lose face.
+280	Phoebe	 I understand. Yeah. Ok so then ok, so we're both living in New York, not seeing anyone. That's so not like us!
+281	David	 Yeah, I know. Well... this is probably a stupid question, seeing that you look like that, but do you have some place that you need to be right now?
+282	Phoebe	 Well... (pause) no.
+283	David	 Do you wanna get a drink?
+284	Phoebe	 I'd love to.
+285	David	 Great.
+286	Phoebe	 Ok. (they walk away together)
+287	David	 Do you smell beets?
+288	Phoebe	 Oh, got it, stay upwind of me.
+289		(Charlie and Rachel arrive. They see David and Phoebe leave)
+290	Charlie	 Hey, there's Phoebe! Is that Mike she's with?
+291	Rachel	 No, that's David.
+292	Charlie	 There's a third guy?
+293	Rachel	 (disapprovingly) Tip of the iceberg.
+294		[Cut to Monica and Chandler's]
+295	Zack	 I'm gonna take off now. You're gonna let me go home, aren't you?
+296	Chandler	 You sure you don't wanna stick around a little longer?
+297	Zack	 No, no, I should get home, I'm kinda tired.
+298	Chandler	 Are you just tired now or are you always tired, 'cause that could be a sign of clinical depression.
+299	Zack	 No it's just tiring having to figure out the age at which all my grandparents died. I'll see you tomorrow.
+300	Chandler	 Ok.
+301		(Zack leaves)
+302	Chandler	 I think we've found our sperm!
+303	Monica	 Does seem pretty perfect.
+304	Chandler	 Yeah, you think so, well? Should I ask him?
+305	Monica	 (pause) No.
+306	Chandler	 Why not, just because his great-grandmother was obese, our kids are gonna get that from you anyway!
+307	Monica	 No, that's not it. It's just that when we were asking him all those questions before, I just... I just realized I don't care if he's the most perfect guy in the world... he's not you.
+308	Chandler	 Yeah, he's better!
+309	Monica	 No, he's not. And if I can't get pregnant with you, then I don't want to get pregnant by... him or anyone else.
+310	Chandler	 Really? Are you sure?
+311	Monica	 Yeah, I'm sure.
+312	Chandler	 (sighs with relief) Thank God, because I don't wanna do this either. You know, I was just doing because I thought that was what you wanted to do. You know, I'm the husband, I'm supposed to... bring the sperm.
+313	Monica	 That is so sweet. I love you. (they kiss)
+314	Chandler	 So you know this leaves us with...
+315	Monica	 Adoption.
+316	Chandler	 How do you feel about that?
+317	Monica	 I think I feel ok about it. Actually I think I feel really good about it.
+318	Chandler	 Me too. I wanna find a baby that needs a home and I wanna raise it with you. And I wanna mess it up in our own specific way.
+319	Monica	 So this is it, we're really gonna adopt?
+320	Chandler	 (smiling) Yeah.
+321	Monica	 (excitedly) Oh my God, we're gonna be parents!
+322	Chandler	 We are gonna be great parents.
+323	Monica	 And it could be soon. I mean, think about it
+324	Chandler	 Wait, if we're lucky, and we're really really really quiet, we may be able to hear the sound of a condom breaking!
+325		(they hug)
+326		Closing credits
+327	[Scene	 Zack's office]
+328	Chandler	 Hey, Zack!
+329	Zack	 (hardly enthusiastic) Hey Chandler.
+330	Chandler	 Look, I just wanted to apologize for last night. I got the feeling we made you a little uncomfortable.
+331	Zack	 No you didn't.
+332	Chandler	 Really?
+333	Zack	 No you did.
+334	Chandler	 My wife and I have some boundary issues, you know, sometimes we ask inappropriate questions. We're working on it.
+335		(Zack's pregnant secretary, Jeanette, walks in)
+336	Jeanette	 (to Zack) Here are the boards for Friday's pitch (hands him something).
+337	Zack	 Oh, thank you.
+338		(Jeanette walks out)
+339	Chandler	 You wouldn't know if Jeanette's planning on keeping her baby, would ya?
+340		End

@@ -1,0 +1,316 @@
+1	Teleplay	 Sherry Bilsing - Graham & Ellen Plummer Story
+2	[Scene	 Central Perk - Chandler, Monica, Phoebe, Ross and Rachel are sitting on the sofas. Joey enters]
+3	Joey	 Monica, hey, can I borrow the Porsche?
+4	Monica	 Ok.
+5	Joey	 Alright!
+6	Monica	 But ehm...what is it not?
+7	Joey	 (abashed) A place to entertain my lady friends.
+8	Monica	 And what else is it not?
+9	Joey	 (even more abashed) A place to eat spaghetti.
+10	Monica	 Very good! (Gives him the keys) What do you need it for anyway?
+11	Joey	 Oh well, the powerball lottery is upto 300 million and they don't sell tickets here in New York, so...
+12	Rachel	 Oh! So you're driving up to Connecticut?
+13	Joey	 (hesitates for a moment)Yeah Connecticut...Not West Virginia.
+14	Monica	 Hey, maybe I'll drive you up there! I'd like to buy some tickets myself!
+15	Joey	 Uh!
+16	Monica	 Yeah with Chandler not getting paid, we could really use 300 million dollars.
+17	Chandler	 Yeah, because if I was at my old job we'd say 300 million? No thank you!
+18	Phoebe	 Hey will you get me tickets too?
+19	Rachel	 Yeah me too. oh! I have an idea. Why don't we all pitch in 50 bucks, we'll pool our money together and then if we win, we'll split it!
+20	Everyone almost simultaneously except Ross	 yeah thats a great idea!
+21	Ross	 No thanks!
+22	Phoebe	 You don't wanna win the lottery?
+23	Ross	 (in a mocking voice)Uh...sure I do, and I also wanna be King of my own country and find out what happened to Amelia Earhart.
+24	Chandler	 Still on Amelia Earhart?
+25	Ross	 The woman just vanished!
+26	Joey	 Seriously, Ross, you don't want in on this?
+27	Ross	 No! Do you know what your odds are of winning the lottery? I...I mean you have a better chance of being struck by lightning 42 times.
+28	Chandler	 Yes but there's six of us so we'd only have to get struck by lightning 7 times.
+29	Joey	 I like those odds!
+30	Ross	 Seriously you guys, I can't believe you're going to spend 250 dollars on the lottery, I mean that's such a bunch of boohaki.
+31	Chandler	 (looking around at the others)I'll ask. (To Ross) Boohaki?
+32	Ross	 Oh oh, we think Emma is about to start talking so we're trying to be careful about what words we use in front of her.
+33	Rachel	 Yeah so get ready to hear alot of ehm...boohaki, goshdarnit and brotherpucker.
+34	Monica	 How do you know she's gonna start talking?
+35	Rachel	 Well when I talk to her I almost feel like she understands what I'm saying.
+36	Chandler	 Kinda like Joey.
+37	Joey	 (who wasn't paying attention)What's that now?
+38		Opening credits
+39	[Scene	 Monica and Chandler's apartment. Monica, Chandler, Rachel and Joey are in the kitchen]
+40	Monica	 God! Look at all these tickets! It's so exciting! You know I haven't won anything since the sixth grade.
+41	Chandler	 Pie eating contest?
+42	Monica	 Oh! You assume because I was heavy that's the only way I could win something?
+43	Chandler	 No, I saw a picture of you covered in blueberries.
+44	Monica	 (smiling)That was a good day!
+45		(Suddenly Ross comes running into the apartment)
+46	Ross	 (yelling to Monica)They're towing your car, they're towing your car!!
+47	Monica	 I'm parked in a garage on Morton!
+48	Ross	 (panting)They're towing a car. And I am seeing...spots.
+49	Joey	 (sounding panicky)Oh my god Ross! You don't have Emma! And Rachel you don't have Emma! (Starts yelling) Where's Emma? Who has Emma!?
+50	Rachel	 Joey relax! My mother picked her up two hours ago. You were there!
+51	Joey	 (not yelling anymore)I was?
+52	Racel	 Yes and you talked to her...
+53	Joey	 I did?
+54	Rachel	 She dropped off a casserole?
+55	Joey	 Oh yeah! The casserole lady.
+56	Monica	 (to Ross)So, did you come by to watch us win the big bucks?
+57	Ross	 Yeah, uh... and then I figured after you win, we could all go out to the balcony and see a night rainbow with gremlins dancing on top of it!
+58		(phone starts ringing and Chandler comes running out of the bathroom)
+59	Chandler	 (hysterical)Don't touch the phone! I'll get it, I'll get it, I'll get it!! (picks up the phone)
+60	Ross	 (to Monica)Think he washed his hands?
+61	Chandler	 (into receiver)Hello? Hey Charlie, what do you know?
+62	Rachel	 (to Monica)What's going on?
+63	Monica	 Chandler is supposed to find out if he's getting an assistent job at his ad agency. But out of the 15 interns, they are only hiring three.
+64	Joey	 Ooh! Tough odds!
+65	Ross	 (mockingly)Yeah if only it were a sure thing like your 24 state lottery!
+66	Joey	 (smiling)Look who's coming around!
+67	Chandler	 (still on the phone)Damnit. Alright call me when you know more.
+68	Joey	 (excited)Did you get it?
+69	Chandler	 One of the slots got filled.
+70	Joey	 (Still excited)By you!?
+71	Chandler	 Sense the tone! No that kid Nate got it.
+72	Monica	 Oh! I hate that guy! I mean come on kid! Pull up your pants!
+73	Chandler	 Yeah I know.
+74	Rachel	 Well, there's two spots left right?
+75	Chandler	 Yeah...I mean I want this so much! I mean, I wanna get one, I want my friend Charlie to get one...Except I don't care about Charlie.
+76		(Phoebe enters)
+77	Phoebe	 (excited)Hey you guys! Ok, you're not going to believe this! I just saw my psychic and she said I was definitely gonna win the lottery tonight!
+78	Monica	 Hey that reminds me, I thought we could use some extra luck so I brought a wishbone home from work.
+79	Ross	 (mockingly)A psychic AND a wishbone? Guys! Give someone else a chance!
+80	Monica	 Alright, who wants to do it?
+81	Phoebe	 Oh can I? Vegetarians never get to do the wishbone. It's really not fair either! You know, just because we don't eat the meat doesn't mean we don't like to play with the carcasses!
+82	Monica	 Ok, hey Rach?
+83	Rachel	 Oh no, I'm good, I don't wanna get that turkey smell all over my hands.
+84	Joey	 I'll do it!! It'll get the casserole stink off of mine.
+85		(Phoebe and Joey both grab one side of the wishbone)
+86	Phoebe	 I hope I win!
+87	Monica	 Well, it doesn't really matter ... you're both wishing for the same thing, right?
+88	Joey	 I can't tell you what I'm wishing for! Else...you know...won't come true!
+89	Monica	 Right! .. but we "know" what you're wishing for!
+90	Joey	 Can't really say!
+91	Monica	 I understand, but you're wishing for what we think you're wishing for, aren't you?
+92	Joey	 (slightly irritated)I'm not really comfortable with these questions!
+93	Rachel, Chandler and Monica	 Please, just do it!
+94	Phoebe	 One, two, three!
+95		(they break the wishbone)
+96	Joey	 I won, hey!
+97	Ross	 You know what, I'm sure your wish is gonna come true, but, you guys - just in case, maybe a genie will come out if we rub this lamp! (rubs lamp, stops because it's very hot) Ah!! That thing gets hot!!
+98	Rachel	 You know, Ross, just keep making your jokes. How are you gonna feel if we actually do win?
+99	Ross	 Uh, you're not gonna win.
+100	Rachel	 Oh, I know, I know, the odds are against us, but somebody has to win, and it could be us! And then how you gonna feel? You know, we're gonna be all like "oh everybody, let's take our helicopters up to the cape" and you're gonna be all like "oh, I can't guys, I'll meet you guys up there, I gotta gas up the Hyundai"
+101	Ross	 Ok, I've heard myself on tape and I sound nothing like that.
+102	Chandler	 I can see the headline now
+103	Ross	 Why would I eat my own arm?
+104	Chandler	 Well you wouldn't, but we own the paper, we can print whatever we want.
+105	Monica	 You know what, Ross? I'm gonna throw in 50 bucks for you.
+106	Ross	 Why?
+107	Monica	 Because I know that you think the lottery is "boohaki" but we're all here and gonna watch the numbers and have fun. And you're my brother, and I want you to be a part of this.
+108	Ross	 You don't have to do that, I'll pay for myself. But just the fact that you want me to have fun with you guys - that's so sweet! Come here (they kiss and hug)
+109	Phoebe	 Get a room!
+110	Chandler	 Ok, so now that you're in, what are you gonna do if we win?
+111	Ross	 I don't know, probably just invest it.
+112	Chandler	 Ooh! Calm down ...
+113	Joey	 Seriously, that's your fantasy? To invest it?
+114	Ross	 Oh, I'm sorry, did I say "invest it"? I meant "be cool and piss it all away" (Joey and Chandler pleased)
+115	Joey	 Ooh, ooh, I know! We should pool all own money and buy the Knicks!
+116	Rachel	 I don't really care about the Knicks.
+117	Joey	 Oh, you will when I pick you as starting forward.
+118	Rachel	 (touched) You would do that? I never get picked!
+119	Chandler	 You know, I'm not sure a sports team is the way to go.
+120	Joey	 You're not gonna let me buy the Knicks?? I can't believe you're taking this away from me!
+121	Chandler	 You're right, it has been you dream for over 15 seconds.
+122	Ross	 (to Rachel) Uh, how long until they announce the numbers, Mommy?
+123		(pause)
+124	Chandler	 (looks around) I'll take this one too (to Ross) Uh ... Mommy?
+125	Ross	 Oh, I've gotten into the habit of calling Rachel "Mommy" when we're around Emma. Which I now realize we are not ...
+126	Rachel	 I'm hoping that if she hears it enough it will be her first word.
+127	Ross	 Although if we're gonna do that, we should probably call me "Daddy" too.
+128	Phoebe	 Oooh, I like that, "daddy" (in a sexy tone)
+129	Ross	 I ... I was just talking about Rachel.
+130	Phoebe	 (still in sexy tone) Oooh, is daddy getting angry? Is daddy gonna spank me?
+131	Ross	 (tries to be sexy too) Well that depends ... have you been a baaad gi .. (stops) no I can't.
+132		(Phone rings, Chandler picks up)
+133	Chandler	 Hello? Hello? Oh, hey Charlie. Did anybody else hear? ... What? Susan got it?? How? Oh man, I would have slept with him!! .. Alright, bye. (hangs up)
+134	Joey	 Dude, I'm sorry. But hey, there's one spot left, right?
+135	Chandler	 Well no, Charlie's gonna get that.
+136	Monica	 Hey, don't say that! You got just as good a chance as anybody else of getting that job!
+137	Chandler	 He's the boss's son.
+138	Monica	 Come on, lottery!! (everybody cheers)
+139	Rachel	 Ooh, you guys, it starts in like 20 minutes.
+140	Monica	 Ok, here we go. We need to sort out the tickets as quickly as possible to see if we've won. So does anybody have any ideas how to organize this? (doesn't let them answer) Ok, how about this
+141	Rachel	 Ooh, I have another idea!
+142	Monica	 I'm sorry, idea time is over.
+143	Phoebe	 Ok, well, are all the tickets in the bowl?
+144	Monica	 Yeah.
+145	Chandler	 What about the ones you have on the nightstand?
+146	Monica	 There are no tickets on the nightstand!
+147	Chandler	 Yes there are, I just saw them a few minutes ago.
+148		(Rachel get suspicious)
+149	Monica	 Un, no you didn't! You must be mistaken!
+150	Chandler	 Honey, there are like 20 tickets on the nightstand!
+151	Monica	 Chandler, sense the tone!!
+152		(Rachel comes out of their bedroom waving tickets)
+153	Rachel	 Well, well, well, look what mommy found!!
+154		(everyone's shocked)
+155	Monica	 Ok, fine!! I bought 20 extra tickets for me and Chandler.
+156	Phoebe	 Uh! The psychic also said that I would be betrayed.
+157	Ross	 I can't believe this, I thought we were all in this together!
+158	Monica	 Hey, you just got in 5 minutes ago!
+159	Ross	 3 minutes ago!!! I don't know why that's important ...
+160	Joey	 I was with you the whole time we were in Connecticut, when did you even get those?
+161	Monica	 When you were reading the dirty magazines without taking off the plastic!
+162	Joey	 (to Ross) I'll show you how.
+163	Rachel	 Ok, well Monica, suppose one of your "special" tickets win? How are you gonna feel when you win the lottery and you lose all your friends?
+164	Monica	 Please ... if I win the lottery, you guys are not gonna leave me. Someone gave me a basket of mini-muffins last week and I couldn't get rid of you for 3 days!
+165	Rachel	 Chandler, would you just tell her what she did was wrong?
+166	Chandler	 (to Mon) She's right, you shouldn't have bought tickets just for us ...
+167	Monica	 Ahhh! (shocked)
+168	Chandler	 Let me finish ... (to everyone else) however, it doesn't look like I'm gonna get this job so I can't afford to have principles, so screw you, the tickets are ours!! (takes tickets from Rachel)
+169	Monica	 There's the man I married!!
+170	Rachel	 All right, believe me.If you win the lottery, it's the last you're gonna hear from us!
+171	Monica	 Fine! Don't be my friends! I'll buy new friends! Yeah, and then I'll pay for their plastic surgery so they'd look just like you!
+172	Rachel	 (surprised) OH! Alright, you know what? That's it! I want my share of the tickets (picks up the bowl)!
+173	Joey	 Yeah, I want my tickets too (takes the bowl from Rachel)! And I'm buying the Knicks! And Steffi Graff, ah ah!
+174	Ross	 Than I want mine, too (takes the bowl from Joey)! And if I win I'm gonna put it all into a very low-yield bond.
+175	Phoebe	 Oh, you guys! We've got to keep all the tickets together (takes the bowl from Ross and puts it on the table)
+176	Monica	 No, no! We should divide them up (picks up the bowl) and I should get extra because we used my card to buy them!
+177	Joey	 Hey, if anybody gets extra tickets, it should be me! This all thing was my idea! (takes the bowl from Monica)
+178	Chandler	 Oh, yeah! Thanks for inventing the lottery!
+179	Rachel	 Ok, that's it! Just give'em to me! I'll split them up! (she tries to snatch the bowl from Joey's hands but she can't, so she pinches his nipple and she manages to take it)
+180	Joey	 (in pain) Oh!
+181	Phoebe	 (she takes the bowl from Rachel's hands and she starts running around the room and yelling) OOOOOHHHHH!
+182	Ross	 (trying to stop her) Hey, hey!!
+183	Phoebe	 (keeping on running and yelling) OOOOOHHHHH! (she stops) Fine, I can't take it anymore! I'm putting an end to this! (she goes out to the balcony)
+184	Rachel	 Oh, if she jumps, I get her tickets.
+185	Joey	 No, no! (they all go towards the balcony but they get jammed in the window)
+186	Phoebe	 If we are not doing it together, we're not doing it at all! So, say goodbye to your tickets! (She holds out the bowl, and makes as to drop the tickets on the street).
+187	Everyone	 NO!!
+188	Phoebe	 Don't come any closer!
+189	Chandler	 Can I come a little bit closer, valuable things are getting squished...
+190	Phoebe	 No, what's more important, your friends or money?
+191	Everyone but Monica	 Friends!
+192	Monica	 Money! (they all look at her) Friends...
+193	Phoebe	 Hey Monica, what about your extra tickets?
+194	Monica	 They're all in there! Even these five that I hid in my bra (takes some tickets out of her bra and gives them to Phoebe)...
+195	Ross	 Monica!
+196	Phoebe	 Ok, good! (pause) You guys were so scared! There was no way I was gonna dump this...(a pigeon swoops down, scaring Phoebe who drops the bowl on the street) Oh God, no! (pause) I think I broke your bowl.
+197	Ross	 Go, go, go!!
+198	[Scene	 Monica and Chandler's apartment.]
+199		(All are returning from the street after picking up dropped lottery tickets)
+200	Phoebe	 What a beautiful night to be running around the street, looking for tickets. And the wind sure made it fun.
+201	Monica	 Phoebe, we lost half of them.
+202	Phoebe	 So, what? Monica, we have the winning ticket! My psychic said I was gonna win, remember?
+203	Ross	 Weird.. your psychic didn't mention anything about the scary pigeon...
+204	Phoebe	 As a matter of fact she said that's how I am going to die. (pause ) So, excuse me for being a little skittish.
+205	Chandler	 (looking at the answering machine) Hey, there's two messages. These could be from work!
+206	Monica	 Oh, play them!
+207	Chandler	 Ok, here we go! (he pushes the play button)
+208	Message	 (Phoebe's voice) "Hello. Th-this is the pigeon from the balcony calling to apologise" (they all turns to look at Phoebe) "I sh.. I shouldn't have knocked the tickets out of the pretty lady's hand. It-it was all my fault. Not hers. Bye. Coo."
+209		(they all keep staring at Phoebe)
+210	Phoebe	 Well, I bet that was very hard for him to do.
+211	Second message	 "Hey Chandler, it's Charlie"
+212	Chandler	 This is..shhh!
+213	Second Message	 "Listen, oh... it turns I got the last spot. I'm really sorry man, it was a lot of fun working with you. Give me a call if you want."
+214	Monica	 Oh God, I am so sorry honey...
+215	All	 Oh, so sorry man! Sorry!
+216	Rachel	 Oh, it is so unfair. It's like that time they promoted Sandra over me at work.
+217	Chandler	 Oh, is she related to Ralph Lauren?
+218	Rachel	 No, she was just much better at job than me!
+219	Phoebe	 Guys, the drawing is about to start!
+220	Rachel	 (To Ross) You know what? We should call my mum's house and say goodnight to Emma before she goes down.
+221	Ross	 Oh yeah, it's a good idea!
+222	Monica	 (she hugs Chandler) Honey, you've been really strong about this, I know how badly you wanted that job.
+223	Chandler	 Yeah, you know, I really thought I deserved it. (pause) But... let's go win the lottery... I mean, we still have 130 chances to win, right?
+224	Monica	 (she draws out a ticket from a pocket of her pants) 131! (they kiss)
+225	Ross	 (on the phone) Goodnight sweetheart! I love you. And remember, you're daddy's little girl... (covering the phone, to Rachel) Phoebe's totally ruined that for me... (he passes the receiver to Rachel)
+226	Rachel	 Hi mum, put her back on!
+227	Joey	 (sitting on the sofa in front of the tv) Rach, come on! They are announcing the numbers! My God, I can already feel myself changing.
+228	TV	 "Here we are, the official Powerball numbers! We have 53"
+229	Chandler	 I got that!
+230	Ross	 Oh, we have one too!!
+231	Monica	 We are on a roll, people!!
+232	Ross	 (calling Rachel) Come on!!
+233	Rachel	 (on the phone) Mum, please!I know you love your new lips, but I can barely understand you! Would you, please, just let me say goodnight to my daughter?
+234	TV	 "And number 29! Here we go! The Powerball is 7"
+235	Monica	 Check your numbers! Make me rich!
+236	Rachel	 (she goes towards the others and she's very excited) Guys, you're not gonna believe this! I was just saying goodnight to Emma and she said her first words!!
+237	All	 Wow!
+238	Joey	 And what did she say?
+239	Rachel	 She said "gleba"!! (she celebrates)
+240		(they just look at her for a moment; then they go back to checking the tickets)
+241	Monica	 Make me rich!!
+242	Rachel	 (to Ross) Isn't that amazing?
+243	Ross	 Oh yeah, no no no...that's great!
+244	Rachel	 Why-why aren't you more excited?
+245	Ross	 Oh, Rach...oh..."gleba" is not a word.
+246	Rachel	 Oh, but of course it is!
+247	Ross	 Okay, what does it mean?
+248	Rachel	 I don't know all the words.
+249	Ross	 I'm just, I'm just glad I didn't miss my daughter's first words (goes back to checking the tickets).
+250	Ross	 Yes you did, gleba is a word!
+251	Ross	 Ok, use it in a sentence.
+252	Rachel	 Ok... "Emma just said gleba"!
+253	Ross	 It's not a word!
+254	Rachel	 Okay, okay, okay, fine, I'm gonna look it up (she goes and picks up the dictionary).
+255	Ross	 Oh, oh, ok, great. You know what, while you're at it she said another word the other day, why don't you, why don't you look up
+256		(Rachel glares at him)
+257	Rachel	 (searching the dictionary) Alright, okay, okay, gleba, gleba... (excited) Gleba! Ha! Here it is
+258		(Rachel shows Ross the definition on the dictionary, giving him a smug look; then she squints at the dictionary, as though unsure what to make out of it)
+259	Ross	 She's gonna be a scientist! (kisses Rachel on the head, very moved)
+260	Joey	 (checking the last ticket) Damnit! anybody got anything?
+261	Chandler	 No.
+262	Phoebe	 I'm still looking through mine...
+263	Monica	 Just double checking (does so)...no, no, no...(takes off a shoe and takes a ticket out of it) No!
+264		(phone rings)
+265	Monica	 (answering phone) Hello? Hold on. It's your boss.
+266	Chandler	 Ah, the "I'm sorry I rejected you" phone call. I'm not used to getting it from guys. (on the phone, getting up from the sofa) Hey, Steve.
+267	Steve	 Chandler, hi! I'm sure you've heard we filled the three positions. We just felt that with your maturity and experience, you wouldn't be happy being someone's assistant.
+268	Chandler	 Oh no no no no, I'd love to be somebody's assistant! Answering phones, getting coffee, I live for that stuff! And I'm not too mature... farts, boobies, butt cracks!
+269	Steve	 Chandler, you were the strongest person in the program. We're offering you the position of junior copywriter.
+270	Chandler	 Me, that guy who just said butt cracks?
+271	Steve	 Yes, that's right. We're excited about the level of sophistication you'll be bringing to the job.
+272	Chandler	 Ok well, thanks, you won't regret it. I'll see you tomorrow (hangs up).
+273		(he idly goes to the sofa, starts browsing a magazine. Everybody stares at him)
+274	Chandler	 What? (pause) Oh, yeah, I'm gonna be a junior copywriter.
+275	Everybody	 (excited) Oh my God, congratulations!
+276	Monica	 Oh sweetie, I'm so proud of you!
+277	Chandler	 Does that mean I get the good loving tonight?
+278	Monica	 You bet! No TV or anything! (she gets up from the sofa and goes to the kitchen area)
+279	Joey	 (to Chandler) Hey, that is so great about the job.
+280	Chandler	 Thanks, man.
+281	Joey	 And I like to think I had a little something to do with it.
+282	Chandler	 Really? What?
+283	Joey	 Well, before, with the wishbone... I didn't wish we would win the lottery, I wished you'd get the job.
+284	Chandler	 (smiling, surprised) Oh yeah? (looks towards the kitchen, worried) Listen, don't tell Monica, she'll rip your heart right out.
+285	Joey	 Oh yeah.
+286	Rachel	 You know what? There is a little part of me that really thought we were gonna win.
+287	Ross	 Me too. So much for my dinosaur/Amelia Earhart theme park.
+288	Phoebe	 You guys, what was the Powerball number again?
+289	Monica and Ross	 Seven.
+290	Phoebe	 We won.
+291	Rachel	 What?
+292	Phoebe	 We won!
+293	Monica	 Let me see!
+294		(they all jump up excitedly and try to see the ticket)
+295	Phoebe	 Don't tear it.
+296	Ross	 Phoebe, you don't have any of the first five numbers.
+297	Phoebe	 I know that, but look, we've got the Powerball number, we've won 3 dollars!
+298	Chandler	 Wow, you'd think we should get that over 20 years or go for the big payout.
+299	Phoebe	 (still very excited) I don't care, I've never won anything before, I can't believe this!
+300	Rachel	 So Pheebs, what are you going to do with your $3?
+301	Phoebe	 It's not all mine. We all get 50 cents.
+302	Monica	 You know what? You can have mine.
+303	Chandler	 Me too.
+304	Joey	 Me too.
+305	Rachel	 Me too.
+306		(they all look at Ross)
+307	Ross	 I guess if everybody else is...
+308		Closing credits
+309	[Scene	 Central Perk. They're all sitting there as usual, except Joey. Gunther is serving a nearby table.]
+310		(Joey comes in from the back of the coffee house)
+311	Joey	 (sitting in a chair) Hey guys, so I just called the Powerball hotline, can you believe it? Nobody won.
+312	Phoebe	 I beg to differ (shows him her cup of coffee and her plate of cookies).
+313	Gunther	 Maybe nobody won the jackpot, but there was this guy in here earlier, and he found the ticket on the street, right outside, and won $10,000 (goes to the counter).
+314		(They all glare evilly at Phoebe)
+315	Phoebe	 (hides her mouth behind the cup and speaks in the "pigeon voice" from before) Coo, again. Don't blame the pretty lady. It was not her fault. It was me, the pigeon, coo! (pause) Seriously, stop staring at her.
+316		(Joey stares around dumbly looking for the "talking pigeon")

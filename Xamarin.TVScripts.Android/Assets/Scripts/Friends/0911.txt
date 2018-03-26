@@ -1,0 +1,8 @@
+1		The One Where Rachel Goes Back To Work
+2	Teleplay by	 Peter Tibbals Story by
+3	[Scene	 Chandler and Monica's] Chandler
+4		Opening Titles
+5	[Scene	 Central Perk] Joey
+6		Closing credits
+7	[Scene	 DOOL set] Joey/Drake
+8		END

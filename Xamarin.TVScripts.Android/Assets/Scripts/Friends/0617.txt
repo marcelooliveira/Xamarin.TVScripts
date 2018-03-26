@@ -1,0 +1,271 @@
+1	Teleplay by	 Adam Chase Story by
+2	[Scene	 Central Perk, Ross, Chandler, and Phoebe are there. Joey is working.]
+3	Ross	 Hey, remember when I had a monkey?
+4	Chandler	 Yeah.
+5	Ross	 Yeah, what, what was I thinking?
+6	Joey	 (he’s just picked up their bill) Hey! So, what’s with the 20 percent tip? Did I do something wrong?
+7	Chandler	 Twenty percent is a pretty generous tip Joe.
+8	Joey	 Y’know what’s more generous than that?! Fifty percent! Y’know what’s even more generous than that?!!
+9	Chandler	 I see where you’re goin’!
+10	Ross	 What’s up with the greed Joe?
+11	Joey	 All right, look I’m sorry you guys, but it’s just that I gotta get these new head shots made. And they’re really expensive, y’know? I’m down to like three! Well, actually two ‘cause one of ‘em I kinda blackened in some teeth—Why did I do that?! (Hits himself in the head.)
+12	Ross	 Well isn’t there something you can do to earn a little extra money? I mean, can’t-can’t you pick up, I don’t know, an extra shift here?
+13	Phoebe	 Or, y’know, I used to beg for money. Of course it helps if you’ve got y’know a little of this (she sticks her chest out and shakes it) goin’ on. Wow! I still have it!
+14	Ross	 Oh, wait! Wait! Don’t you have an audition today? Yeah! Maybe you’ll get that job!
+15	Joey	 Oh, ha-ha-ha! Ooh! Wait a minute, I used to get medical experiments down on me all the time!
+16	Chandler	 (reminiscing) Ah, finally an explanation.
+17	Joey	 No-no! I used to get paid for all kinds of medical stuff, remember? Let’s see uh, well I don’t want to donate sperm again. (To Ross) I really prefer doing that at the home office y’know? (Ross nods his head.) Ooh-ooh, maybe they want like some of my blood or-or spit or something, huh?
+18	Gunther	 (approaching with a tray with an order on it) Joey!
+19	Joey	 Yeah?
+20	Gunther	 What did I tell you about talking to your friends while you’re working?
+21	Joey	 Uhh do it?
+22	Gunther	 That guy (points) has been waiting for his coffee for ten minutes! He’s complained about you three times! (He hands the coffee cup to Joey, assuming that Joey will deliver it and walks away.)
+23	Joey	 Well, where was I? (Takes a sip of the coffee.)
+24		Opening Credits
+25	[Scene	 Central Perk, Ross is there as Phoebe and Rachel enter wearing workout clothes.]
+26	Ross	 Hi!
+27	Phoebe	 Hey!
+28	Ross	 Hey, what have you guys been up to?
+29	Phoebe	 Ohh! We went to a self-defense class today!
+30	Ross	 Wow!
+31	Rachel	 Yeah, kicking a guy in the crotch all morning really takes it out of ya!
+32	Joey	 Takes it out of you? (Laughs.)
+33	Phoebe	 Now, we can kick anybody’s ass!
+34	Rachel	 Yeah!
+35	Ross	 After one class? I don’t think so.
+36	Rachel	 What? You wanna see me self-defend myself?! Go over there (points) and pretend you’re a sexual predator! Go on! I dare ya!!
+37	Ross	 Well, of course you can defend yourself from an attack you know is coming, that’s not enough. Look, I studying kara-tay for a long time, and there’s a concept you should really be familiar with. It’s what the Japanese call (he holds two fingers up to his temple, and he does this every time he says this word) unagi.
+38	Rachel	 Isn’t that a kind of sushi?
+39	Ross	 No, it’s a concept!
+40	Phoebe	 Yeah it is! It is! It’s freshwater eel!
+41	Ross	 All right, maybe it means that too…
+42	Rachel	 Ohh! I would kill for a salmon skin roll right now!
+43	Ross	 Y’know what? Fine! Get attacked! I don’t even care!
+44	Phoebe	 (deadpan) Come on Ross. We’re sorry. Please tell us what it is.
+45	Ross	 Unagi is a state of total awareness. Okay? Only by achieving true unagi can you be prepared for any danger that may befall you!
+46	Phoebe	 You mean in case someone is trying to steal your bamboo sleeping mat or your kettle of fish?
+47		(Rachel laughs and Ross mocks her.)
+48	Ross	 (moves closer) All I’m saying is, it’s one thing being prepared for an attack against like each other; whole another story being prepared for an attack, I don’t know, like a (turns and puts his face close to Rachel’s and screams) surprise!!
+49		(Rachel calmly wipes the spittle off her face.)
+50	Ross	 All right, you know that one was coming, but that doesn’t mean you have unagi. (Does the finger thing.)
+51	Rachel	 (To Phoebe) Ooh! Y’know what? If we made reservations, we could have unagi in about a half-hour.
+52	Ross	 Y’know what… (Moves away as Chandler enters, panicked.)
+53	Chandler	 Hey-hey, is Monica here?
+54	Phoebe	 No.
+55	Ross	 No.
+56	Chandler	 Okay, look I need your help, I don’t know what to get her for Valentine’s Day.
+57	Rachel	 Well, Valentine’s Day was like two weeks ago, so I wouldn’t get her a calendar!
+58	Chandler	 (laughs) She was working on Valentine’s Day so we’re celebrating it tonight.
+59	Joey	 Ohh, hey! Why don’t you book a date for both of you at one of those romantic spas?
+60	Phoebe	 Ooh, Joey, that’s actually a really good idea!
+61	Joey	 And of course, crotchless panties.
+62	Chandler	 Well appealing as that does sound to her boyfriend (pause) and her brother, (the camera pans to Ross flashing Joey a very evil look; Joey gets scared) I can’t do that we promised we’d make each other gifts this year.
+63	Rachel	 Aw, I love that.
+64	Phoebe	 You guys!
+65	Joey	 You can’t make crotchless panties? You take, you take a pair of scissors and you just cut…
+66	Rachel	 (interrupting him) Okay-okay-okay! So, making things. That sounds like so much fun.
+67	Chandler	 Yeah, I thought so to until I paper mached one of my eyes shut.
+68	Phoebe	 Oh, I love paper mache! What did you make?
+69	Chandler	 I made a… (Does one of those gibberish words.)
+70	Phoebe	 What is that?
+71	Chandler	 Nothing!
+72	Ross	 So what are you gonna do?
+73	Chandler	 Well, have you guys made anything that maybe I can take credit for?
+74	Phoebe	 Ohh! I have! I have! I started making these little sock bunnies! (She takes out a sock that’s been made into a bunny with eyes, nose, mouth, whiskers, and two other socks sown onto it for ears.) Oh for crying out loud!
+75	Rachel	 Hey, wait a minute! That is my sock!
+76	Phoebe	 Now, it’s you little bunny friend. (She sticks it in Rachel’s face and they both laugh.)
+77	[Scene	 Monica and Chandler's, Chandler is desperately trying to make his Valentine’s Day gift. He takes a paper cup, turns it upside down, sticks two pencils into the top, and hangs a coat hanger from the bottom.]
+78	Chandler	 (admiring his work) This, this actually is a… (Does the same gibberish word from before.)
+79	Monica	 (entering) Hey!
+80	Chandler	 Hey! Honey, can I ask you a question about the Valentine’s Day gifts?
+81	Monica	 Oh, yeah.
+82	Chandler	 Do we have to make the entire thing?
+83	Monica	 Yes! Why, did you—you forget to make yours?
+84	Chandler	 Of course, of course not. I just have to uh, go over to the place where I-I made it and pick-pick it up.
+85	Monica	 Okay. (They kiss.) Okay, I can’t wait! This is going to be the best Valentine’s Day ever! (Chandler giggles and exits.) I can’t believe it! Make the presents! Make the presents!
+86	Chandler	 (sticking his head back in) What?
+87	Monica	 I’m just so excited to make the presents! (Chandler does another sarcastic/scared laugh and leaves.) Shoot!
+88	[Scene	 A Medical Research Office, Joey is there to sign up for an experiment, any experiment.]
+89	Joey	 (to the receptionist) Hi uh, I’m Joey Tribbiani and with all do respect I’d like to donate some fluids.
+90	Receptionist	 We’re actually at the end of one of our research cycles, so we’re not looking for applicants right now.
+91	Joey	 Oh that’s too bad. I’ve kinda been saving up. (She just looks at him in horror.) Uh, are you sure there’s no studies I can participate in?
+92	Receptionist	 Well, here’s a schedule of what’s coming up. (Hands it to him.)
+93	Joey	 Thanks. (Starts to read it.) Well but this one starts now. (Points to one.)
+94	Receptionist	 Oh that one is available now, but only identical twins are eligible. It’s a twins study.
+95	Joey	 But it’s $2,000.
+96	Receptionist	 Sorry.
+97	Joey	 Well how about this one? Testing the effects of Joey Tribbiani on attractive nurse receptionists.
+98	Receptionist	 We already got the results back on that on, and they’re not good. (Joey beats a hasty retreat.)
+99	[Scene	 The Hallway between the Apartments, Ross is hiding behind that bump out on Monica’s side waiting for Phoebe and Rachel. As they come up the stairs, he jumps out and yells…]
+100	Ross	 DANGER!!! DANGER!!!!!
+101		(They both scream and jump away.)
+102	Phoebe	 Ross!!!
+103	Rachel	 What the hell was that?!
+104	Ross	 A lesson in the importance of unagi. (He starts doing the finger thing every time now.)
+105	Phoebe	 Ohh, you’re a freak!!
+106	Ross	 Perhaps. Now I’m curious, at what point during those girlish screams would you have begun to kick my ass?
+107	Rachel	 All right, so we weren’t prepared!
+108	Ross	 I’m sorry I had to take such drastic measures to make my point, but I—look, I just want you guys to be safe. (Monica comes out to throw out the garbage and Ross screams…) DANGER!!!!! (She completely ignores him and keeps walking.) Ahhh, huh? Unagi.
+109	[Scene	 Cole-Geddes Casting Agency, Joey is there on his audition and thinking about that 2,000 bucks for the twins study.]
+110	Joey	 (in his head) 2,000 bucks is a lot of money. Oh, I wish I had a twin. Where could I find someone who looks exactly like me? (The camera widens its shot to reveal a room full of Joey look-a-likes. Joey looks at the guy next to him and then back at his script.)
+111	[Scene	 Ross's apartment, Ross is coming in from doing his laundry. He starts folding it as Chandler enters.]
+112	Chandler	 Hey.
+113	Ross	 (not turning around) Chandler. I sensed it was you.
+114	Chandler	 What?!
+115	Ross	 Unagi. I’m always aware.
+116	Chandler	 Okay, are you aware unagi (does the finger thing) is an eel?
+117	Ross	 What’s up?
+118	Chandler	 I can’t figure out what to make Monica.
+119	Ross	 Oh, why don’t you make her one of your little jokes.
+120	Chandler	 I’m going crazy! Okay? Do you have any thing around here that looks homemade?
+121	Ross	 Y’know what? She’d-she’d love this. (Picks up a model of the Saturn V rocket, that’s the one that took man to the moon.) Uh, it’s an exact replica of Apollo 8. I made it in the sixth grade.
+122	Chandler	 Yeah, I guess I could use that. I could say that your love sends me to the moon.
+123	Ross	 Yeah-yeah, except Apollo 8 didn’t actually land on the moon. But you-you-you could write that umm, your love lets me orbit the moon twice and return safely. (Apollo 8 was the first one that orbited the moon and the one that read the Christmas Story from the orbit of the moon on Christmas Eve, 1968. They also took the famous Earthrise picture of the Earth rising over the moon.)
+124	Chandler	 Wait a minute, I can’t give this to her.
+125	Ross	 Why not?
+126	Chandler	 Because it says "Captain Ross" on the side and "I hate Monica" on the bottom.
+127	Ross	 Oh.
+128		(Chandler leaves dejectedly. When the door closes Rachel and Phoebe jump out from behind the curtains and scream…)
+129	Phoebe and Rachel	 DANGER!!!!!
+130		(Ross screams like a little girl.)
+131	Rachel	 Ahhhhh, salmon skin roll. (She does the finger thing.)
+132	[Scene	 Monica and Chandler’s bedroom, he’s still trying to figure out what to make Monica.]
+133	Chandler	 Okay. Okay. (He goes to the closet, moves the clothes out of the way, and notices an empty hanger. He takes the empty hanger and bends it all out of shape. Then he holds it out as if he’s giving it to her.) Yes honey, I made it myself. (He throws it down and goes to her chest, grabs something, goes to the bed table, and takes out a pair of scissors. He turns around and holds the scissors to the crotch of the panties he just removed.) I can’t do it. I can’t do it. (He throws them both down and continues looking. He opens another closet door and finds a tape.) Oh! Oh! A mixed tape! A mixed tape!! (He runs out into the living room.)
+134		[Cut to the living room, Chandler is entering as Monica finishes wrapping her present for him on the kitchen table.]
+135	Chandler	 Hey! Hi! You uh, ready to exchange gifts?
+136	Monica	 Sure! Okay, you go first.
+137	Chandler	 Okay, come here! Come here.
+138	Monica	 Okay! (She takes her present for him and they move over to sit on the couch.)
+139	Chandler	 Now, it’s not wrapped because I just, just finished it.
+140	Monica	 Okay.
+141	Chandler	 But I made you a tape of what I think are all romantic songs.
+142	Monica	 Oh, what a great gift! Is The Way You Look Tonight on it?!
+143	Chandler	 (momentarily terrified) Maybe we’ll have to listen and see!
+144	Monica	 Oh, I love it! Thank you so much!
+145	Chandler	 Okay!
+146	Monica	 Okay, you ready to open yours?
+147	Chandler	 Yeah!
+148	Monica	 Okay.
+149		(He opens his present to find Phoebe’s sock bunny from earlier.)
+150	Chandler	 It’s a sock bunny.
+151	Monica	 Yeah-yeah, you remember how I call you bunny?
+152	Chandler	 Not really.
+153	Monica	 Well, I did one time, and-and I want to start doing it more. See that’s what this is about.
+154	Chandler	 I see. Y’know umm, Phoebe makes sock bunnies.
+155	Monica	 No! No, she doesn’t. Uh Phoebe, what she makes—that’s uh—they’re sock rabbits. They are completely different—Okay! Okay! Okay! I didn’t make it! I’m sorry! I totally forgot about tonight and the fact that we’re supposed to make the presents!
+156	Chandler	 Oh, it’s okay. I don’t…
+157	Monica	 No-no, it’s not okay! It’s not! I mean you were just… You’re so incredible! You went through all this time and effort to make this tape for me! Y’know I’m just gonna—I, I am gonna make this up to you! I will! I-I am going to cook anything you want in here (points to the kitchen), and I am going to do anything you want in there! (Points to the bedroom.)
+158	Chandler	 (thinking it over) Well, I did put a lot of thought in the tape. (They both run into the bedroom.)
+159		Commercial Break
+160	[Scene	 Monica and Chandler’s bedroom, they are relaxing in sexual bliss.]
+161	Chandler	 Wow! (To the sock bunny still on his hand.) You are way to young to have seen that!
+162	Monica	 Oops! (Covers its eyes.) Y’know, your birthday is in a month-and-a-half, what do you say I forget to get you a present for that too?
+163	Chandler	 You are totally and completely 100% forgiven.
+164	Monica	 We have got to wash that! (Referring to the sock bunny.)
+165	Chandler	 Yeah! (Takes it off his hand and throws it behind the night-stand.)
+166	Monica	 Do you remember that jacket that you love so much, that you thought was too expensive?
+167	Chandler	 You have done enough!
+168	Monica	 I wanna wake up early and go get it for you!
+169	Chandler	 No you don’t—get it in black, not brown.
+170		(The oven dings.)
+171	Monica	 Oop, your cake is ready!
+172	Chandler	 Oop!
+173		(They both get out of bed and go get some cake.)
+174	Chandler	 Well, it’s like that old saying, have some sex, eat some cake.
+175		(As they approach the kitchen, the door opens and in walks in a Joey look-a-like.)
+176	Joey's Look-A-Like	 Hey Mon! Hey Chann! (He goes to the fridge) Just gettin’ a soda! (Does so.)
+177	Monica	 Who the hell are you?!
+178	Joey's Look-A-Like	 I’m Joey! How are you doin’?!
+179	Joey	 (entering) No! No! No! No! No! How you doin’?! How you doin’—Damnit Carl! Go wait in the hall! (Goes into the hall.)
+180	Joey	 Look, I got to apologize on the behalf of Carl.
+181	Chandler	 Who the hell is Carl?!
+182	Joey	 Oh, did I not mention? Carl is a guy I hired to be my identical twin for a medical research project.
+183	Chandler	 Y’know sometimes the good ideas are just right in front of you, aren’t they?
+184	Joey	 Okay, I know it sounds crazy, but I think it might work. Y’know? The only problem is, Carl’s acting is… (Does the international hand symbol for so-so.)
+185	Monica	 The only problem!
+186	Joey	 Yeah, he’s the reason I didn’t get that big Minute Maid commercial a couple of years ago remember? We were supposed to be brothers, but he messed it up.
+187	Carl	 (sticking his head back in) Hey, uh can I get a little piece of that cake?
+188	Joey	 (to Carl) Pizza!! We like Pizza!! Get out!!! (Carl does so.)
+189	[Scene	 Phoebe and Rachel's, Phoebe and Rachel are returning.]
+190	Phoebe	 Pat Sajak?
+191	Rachel	 Yep!
+192	Phoebe	 Alex Trebek?
+193	Rachel	 Oh, of course!
+194	Phoebe	 Chuck Woolery?
+195	Rachel	 Definitely! Phoebe, you will not find a single game show host, who’s ass I cannot kick.
+196		(They start to walk into the living room and notice someone’s head sticking up from behind a chair. The camera cuts to the other side and we see it’s Ross.)
+197		[Time lapse. The girls have Ross pinned face down. Phoebe is sitting on his back and arms while holding his head down and facing Rachel. Rachel is sitting on his knees and holding his lower legs vertically, causing Ross pain.]
+198	Rachel	 Say it!
+199	Phoebe	 Say we are unagi!
+200	Ross	 It’s not something you are! It’s something you have!
+201	Rachel	 Say it!
+202	Ross	 Y’know what? I can easily get out of this, but there is a chance you can get very, very hurt!
+203		(Rachel yanks on his legs again and he groans in pain.)
+204	[Scene	 The Medical Research office, Joey is there with Carl in the waiting room. Two identical twins come out and both wave by at the same time.]
+205	Joey	 All right Carl, we’re next. Now remember, what is not gonna be?
+206	Carl	 Another Minute Maid fiasco.
+207	Joey	 That’s right! And what are you not gonna do?
+208	Carl	 Well, I’m not gonna talk because…
+209	Joey	 (gets very angry) Damnit Carl! (Carl goes to say something more, and Joey silences him with a grunt.)
+210	The Doctor	 (entering) (To the receptionist) Can I have the next one please? (Takes the form.) Joey and Tony Tribbiani. (Joey and Carl stand up.)
+211	Joey	 That’s us.
+212	The Doctor	 (seeing they’re not identical) But uh, this is a study for identical twins.
+213	Joey	 That’s right, $2,000.
+214	The Doctor	 But, you’re not identical twins.
+215	Joey	 Damnit Carl!
+216	[Scene	 Monica and Chandler's, Monica is getting ready for Chandler’s arrival. He enters and finds the place lit with candles and dinner on the table.]
+217	Chandler	 Oh my good God.
+218	Monica	 Hey! Continuing the countdown of your favorite meals. Tonight, No. 3, macaroni and cheese with cut up hot dogs.
+219	Chandler	 Look, you have done enough! Okay? You have to stop this now.
+220	Monica	 I will! But not tonight. For dinner music, I thought we could listen to that tape you made me.
+221	Chandler	 Oh, the mixed tape.
+222		(Monica pushes play and The Way You Look Tonight starts to play.)
+223	Monica	 The Way You Look Tonight is on here! Dance with me?
+224		(He hesitates, then goes over to dance with her.)
+225	Monica	 You are just the sweetest. (They kiss.)
+226		(Suddenly, a strange and familiar voice comes out of the tape player. Here’s a hint, OH…MY…GAWD!! That’s right, it’s Janice!)
+227	Janice	 I love the way you look every night Chandler! (Monica breaks the kiss and Chandler freezes in terror.) That’s why I made you this tape! Happy Birthday! Love Janice!
+228	Chandler	 No! You’re the sweetest! (He tries to kiss her but Monica backs away with a look that could kill on her face.)
+229	[Scene	 A women’s self-defense class, the instructor is just finishing a class.]
+230	The Instructor	 Okay ladies, that ends today’s class, and let’s remember, let’s be safe out there.
+231		(The women all clap and start to leave as Ross comes up to the instructor. Apparently he was hiding in the back.)
+232	Ross	 It’s a great class.
+233	The Instructor	 Thanks.
+234	Ross	 Yeah, yeah, I was watching. (The instructor just nods and walks away.) Umm, hey, a couple of questions though. Umm, about that-that-that last move where the woman tripped you and then pinned you to the floor, what-what-what-what would you do next?
+235	The Instructor	 Well, she would take her keys and try to jam them…
+236	Ross	 No. No-no. No. What would you do next?
+237	The Instructor	 Who? Me the attacker?
+238	Ross	 Yes that’s right.
+239	The Instructor	 Why?
+240	Ross	 I tired attacking two women, did not work.
+241	The Instructor	 What?!
+242	Ross	 No, I mean it’s okay, I mean, they’re-they’re my friends. In fact, I-I-I was married to one of them.
+243	The Instructor	 Let me get this straight man, you attacked your ex-wife?!
+244	Ross	 Oh, no! No-no! No, I tired! But I couldn’t. That’s why I’m here. Maybe we could attack them together? (He glares at him.) That-that’s a no.
+245	[Scene	 Monica and Chandler's, Chandler is trying to explain himself to Monica.]
+246	Chandler	 I am so, so, so, so sorry!
+247	Monica	 (not buying it) Uh-huh.
+248	Chandler	 And I will cook anything you want in here (points to the kitchen), and do anything in there! (Points to the bedroom.)
+249	Monica	 (pointing to the kitchen) Yeah you will! (Points to the bedroom) And, are you kiddin’ me?!
+250	Chandler	 Come on Monica, it’s our Valentine’s Day. Please? Please-please, please?
+251	Monica	 Okay.
+252	Chandler	 Okay. (They hug.)
+253	Janice’s Voice	 (singing) My funny valentine, sweet comic valentine! You make me high over my heart!
+254		(Monica breaks the hug and starts for the bedroom.)
+255	Chandler	 So, are we going in there?
+256	Monica	 I am!! (Enter her room and closes the door behind her.)
+257	Janice’s Voice	 (singing) You’re look for laughable…(She does the now patented Janice laugh.)
+258		Ending Credits
+259	[Scene	 The street in front of Central Perk, Ross is walking up and sees two women that look like Phoebe and Rachel from behind.]
+260	Ross	 Ah-ha, nowhere to run! (He starts to run towards them.)
+261		[Cut to Central Perk, Phoebe and Rachel are sitting up by the window because two guys have their couch.]
+262	Rachel	 I don’t like sitting up here! I’m just gonna over… (She starts to get up.)
+263	Phoebe	 (stopping her) No Rachel! They got here first!
+264		(Ross appears at the window behind them crouched behind a garbage can and ready to spring his attack on who he thinks are Phoebe and Rachel. The camera cuts to the exterior view and Phoebe and Rachel call the shots from inside.)
+265	Phoebe	 Why is Ross doing that?
+266	Ross	 DANGER!!!!
+267	Rachel	 Oh my God! Why is he jumping on those women!
+268	Phoebe	 We should help him!
+269	Rachel	 I… Well, I don’t think they need any help.
+270		(Ross starts to scream and run away. He stops in front of the window of Central Perk to check the pursuit and notices Phoebe and Rachel inside looking at him. He mouths, "What?" Then realizes that the women he attacked are closing in so he screams and runs away.)
+271		End

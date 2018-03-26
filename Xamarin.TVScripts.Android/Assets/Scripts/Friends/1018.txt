@@ -1,0 +1,743 @@
+1		- More Quiz's- General Updates
+2		- Support This Site!
+3		
+4	Written by	 Marta Kauffman & David Crane Directed by
+5	[Scene	 Monica and Chandler's apartment. It's a scene from 1016 TOW Rachel's Going Away Party.]
+6	Jennifer Aniston (V.O.)	 Previously on Friends.
+7	Monica	 Erica, are you okay?
+8	Erica	 Yeah, you know, maybe I ate too much. I keep getting these stomach-aches. They come and go like every few minutes.
+9	Monica	 Oh my God!
+10	Chandler	 Relax! We'll just get her some antacids.
+11	Monica	 She doesn't have a stomach-ache. She's in labor!
+12	Chandler	 Oh my God!
+13		
+14		[Cut to Ross's apartment. Ross and Rachel are there. It's another scene from 1016 TOW Rachel's Going Away Party.]
+15	Rachel	 So if you think I didn't say goodbye to you because you don't mean as much to me as everybody else, you're wrong. It's because you mean more to me.
+16	Ross	 Rach!
+17	Rachel	 What?!
+18		(He walks over and kisses her. They pull back, Rachel looks at him, and they kiss again.)
+19		
+20	[Scene	 Ross's bedroom. Rachel is putting on her shoes as Ross shows up from underneath the covers.]
+21	Ross	 Hey.
+22	Rachel	 Shh.. Go back to sleep. I have to go home.
+23	Ross	 Oh. This was amazing.
+24	Rachel	 It really was. You've learned some new moves!
+25	Ross	 Yeah, well, this guy at work gave me "Sex for Dummies" as a joke.
+26	Rachel	 Ah.
+27	Ross	 Who's laughing now?
+28	Rachel	 I know!
+29		(They kiss.)
+30		
+31		OPENING CREDITS
+32	[Scene	 The delivery room at the hospital. Monica, Chandler and Erica are there. Erica is in labor, and she is breathing heavily.]
+33	Monica	 Breathe, breathe, breathe... Good.
+34	Chandler	 Next time, can I say breathe?
+35	Monica	 No, last time you said it like Dracula, and it scared her! Can I get you anything? You want some more ice chips?
+36	Erica	 No, I'm okay.
+37	Monica	 Alright, I'll be right back.
+38	Chandler	 Where are you going?
+39	Monica	 To use the bathroom.
+40	Chandler	 You can't leave me alone with her.
+41	Monica	 What?
+42	Chandler	 This is exactly the kind of social situation that I am not comfortable with!
+43	Monica	 What kind of social situation are you comfortable with?
+44	Chandler	 It's just that we've never spent any time, you know, alone together.
+45	Monica	 You'll be fine. Nah, you won't, but I'll be back in two minutes.
+46	Chandler	 Okay.
+47		(Monica leaves, and Chandler closes the door. Erica just looks at him.)
+48	Chandler	 So, ah... Any plans for the summer?
+49	Erica	 I don't know. Maybe church-camp?
+50	Chandler	 Hah. May not wanna mention this. So, you ever wonder which is worse, you know; going through labor or getting kicked in the nuts?
+51	Erica	 What?
+52	Chandler	 Well, it's just interesting. You know, because no one will ever know, because no one can experience both.
+53		(Erica just looks at him like he's crazy.)
+54	Chandler	 One of life's great, unanswerable questions. I mean, who knows? Maybe there's something even more painful than those things? Like this.
+55		
+56	[Scene	 Joey and Rachel's apartment. Joey is there as Phoebe enters. Joey is holding a baby duck.]
+57	Phoebe	 Morning.
+58	Joey	 Hey!
+59	Phoebe	 What's that?
+60	Joey	 It's my house-warming present for Monica and Chandler.
+61	Phoebe	 It's a baby chick and duck!
+62	Joey	 Uh-huh. And I named them Chick Jr. and Duck Jr.
+63	Phoebe	 I did not see that coming.
+64	Joey	 Yeah, I figure they'll love it at the new house, you know? It has that big backyard. And then, when they get old, they can go to that special farm that Chandler took the other chick and duck to.
+65	Phoebe	 Yes.
+66	Joey	 Yeah. It's a shame people can't visit there.
+67	Phoebe	 That is the rule, though.
+68		(Ross enters.)
+69	Phoebe	 Guess what? You're almost an uncle!
+70	Ross	 What?
+71	Joey	 Yeah, Erica went into labor last night. Monica and Chandler are at the hospital right now!
+72	Ross	 Oh my God!
+73	Phoebe	 Yeah, and I have a definite feeling it's gonna be a girl.
+74	Ross	 Phoebe, you were sure Ben was gonna be a girl.
+75	Phoebe	 Have you seen him throw a ball?
+76	Ross	 Is Rachel here?
+77	Joey	 Uh, I think she's still asleep. Hey, hey, how did it go with you guys last night? She seemed pretty pissed at you.
+78	Ross	 Uh, we, y'know, we worked things out.
+79	Phoebe	 What's that smile? Did something happen with you two?
+80	Ross	 Hey, I'm not one to kiss and tell, but I'm also not one to have sex and shut up. We totally did it!
+81	Joey	 Oh my God. You and Rachel?
+82	Ross	 I know, it's pretty great.
+83	Joey	 So what does that mean? Are you guys getting back together?
+84	Ross	 Oh, I.. I don't know. We didn't really get to talk.
+85	Phoebe	 But do you wanna get back together?
+86	Ross	 I don't know. It was incredible. I mean, it just felt so right. When I was holding her, I mean, I never wanted to let her go. You know what? Yeah, I do. I wanna be together.
+87	Phoebe	 (screaming) YAY!
+88	Ross	 Shhh!
+89	Phoebe	 (quietly) Yay!
+90	Joey	 So, so is she still going to Paris?
+91	Ross	 Wow, I hadn't thought of that. I hope not.
+92	Phoebe	 Oh, this is like the best day ever. Ever! You guys might get back together, Monica and Chandler are getting their baby, there are chicks and ducks in the world again! Oh, I feel like I'm in a musical! (Singing) "Daa - raa... When the sun comes up, bright and beaming! And the moon comes..."
+93		(Rachel enters from her room.)
+94	Rachel	 Morning!
+95	Phoebe	 Guess we'll never know how it ends.
+96	Joey	 Okay.
+97	Ross	 Hey.
+98	Rachel	 Hey.
+99	Ross	 Hey. How did you sleep?
+100	Rachel	 Good. You?
+101	Ross	 Good.
+102	Joey	 I bet you did!
+103	Ross	 Uh. Would you guys mind giving us a minute?
+104	Joey	 Sure, yeah. Will you just keep an eye on the chick and the duck?
+105	Rachel	 Chick and the duck? Didn't they die...
+106	Phoebe	 (interrupting) Dive. Yeah, they dove head-first into fun on the farm.
+107		(Joey and Phoebe leave.)
+108	Ross	 So...
+109		(He kisses her.)
+110	Ross	 Morning.
+111	Rachel	 You too. Last night was just wonderful.
+112	Ross	 It really was.
+113	Rachel	 I woke up today with the biggest smile on my face.
+114	Ross	 I know, me too. It was... You know, it was like one of those things you think is never gonna happen, and then it does, and it's everything you want it to be.
+115	Rachel	 Uh-huh. I know. It was just, it was just the perfect way to say goodbye. (She hugs him, and Ross looks crushed.)
+116		
+117	[Scene	 The Hospital. Erica is moaning and about to give birth. Monica, Chandler, a nurse and a doctor are there with her.]
+118	Monica	 It's just a little bit more, honey.
+119	Erica	 Help me! This hurts!
+120	Chandler	 Is it really that bad?
+121	Erica	 Uh-huh! I think it's time to kick you in the nuts and see which is worse!
+122		(Monica gives Chandler a look.)
+123	Doctor	 The baby's head is crowning.
+124		(Monica walks down to Erica's legs to watch the birth.)
+125	Monica	 Oh! Oh my God! That is the most beautiful top of a head I have ever seen! Chandler, you have to see this!
+126		(Chandler is standing by Erica's head.)
+127	Chandler	 I'm okay.
+128	Monica	 Chandler, you don't wanna miss this. This is the birth of your child! It's the miracle of life!
+129	Chandler	 Alright. Wow, that is one disgusting miracle.
+130	Doctor	 Start pushing. Here we go. Here come the shoulders...
+131		(The baby starts crying, and the doctor holds it up.)
+132	Monica	 It's a... It's a boy!
+133	Chandler	 Wow!
+134	Erica	 Is he okay?
+135	Doctor	 He's just fine.
+136	Monica	 Oh, you did it!
+137	Chandler	 (emotional) It's a baby! A beautiful little baby! And some other stuff I'm gonna pretend I don't see.
+138	Doctor	 Would you like to cut the umbilical cord?
+139		(A nurse gives Monica a pair of scissors. Monica gives it to Chandler, and they cut it together.)
+140	Chandler	 Well, that's spongy.
+141	Monica	 (to her son) Oh, hey handsome! Oh, I'm gonna love you so much that no woman is ever gonna be good enough for you! (To Chandler, on the verge of tears) Oh, we are so lucky!
+142	Chandler	 I know. He has your eyes.
+143		(Monica looks at him.)
+144	Chandler	 I mean, I know that's not possible, but he does.
+145	Nurse	 We'll just get him cleaned up a bit.
+146		(The doctor hands the boy to the nurse, and she walks over to another part of the room with him.)
+147	Chandler	 Okay.
+148	Monica	 (To Erica) Oh my God, he's beautiful. Thank you so much.
+149	Erica	 I'm really happy for you guys.
+150	Chandler	 How do you feel?
+151	Erica	 I'm tired!
+152	Doctor	 Well, you don't have that much time to relax. The other one will be along in a minute.
+153		(Chandler stares at the doctor, completely shocked. Monica just freezes and turns around slowly.)
+154	Monica	 I... I'm sorry, who should be along in a what now?
+155	Doctor	 The next baby should be along in a minute.
+156	Monica	 We only ordered one!
+157	Doctor	 You know it's twins, right?
+158	Chandler	 Oh, yeah! These are the faces of two people in the know!
+159		COMMERCIAL BREAK
+160	[Scene	 The hospital. Continued from earlier.]
+161	Doctor	 I can't believe you didn't know it's twins! This has never happened before.
+162	Chandler	 Well, gosh. That makes me feel so special and good.
+163	Monica	 (to the doctor) Wait, did you know it was twins?
+164	Doctor	 Yeah, it's here in the paperwork we got from the clinic in Ohio.
+165	Monica	 (to Erica) Anybody tell you?
+166	Erica	 I don't think so. Although, they did mention something about two heartbeats. But I thought that was just mine and the baby's. They kept saying both heartbeats are really strong, and I thought well, that's good 'cause I'm having a baby.
+167	Monica	 This is unbelievable.
+168	Erica	 Twins actually run in my family.
+169	Chandler	 Interesting! (To Monica) Can I see you for a second?
+170		(They walk over to the door.)
+171	Chandler	 What do we do?
+172	Monica	 What do you mean "what do we do"?
+173	Chandler	 (panicking) Twins! Twins!!
+174	Monica	 Chandler, you're panicking!
+175	Chandler	 Uh-huh! Join me, won't you?! Okay, what do you say we keep one, and then just like have an option on the other one?
+176	Monica	 We can't split them up!
+177	Chandler	 Why not? We could give each of them half a medallion, and then years later, they'll find each other and be reunited. I mean, that's a great day for everybody.
+178	Monica	 Okay, what if the person who adopts the other one is horrible?
+179	Chandler	 What if they're not? What if it's adopted by a king?
+180	Monica	 Yeah, because I hear the king is looking to adopt.
+181	Chandler	 Monica, we are not ready to have two babies!
+182	Monica	 That doesn't matter! We have waited so long for this. I don't care if it's two babies. I don't care if it's three babies! I don't care if the entire cast of "Eight is Enough" comes out of there! We are taking them home, because they are our children!
+183	Chandler	 (smiles) Okay. Shhh...
+184		(He hugs her.)
+185	Chandler	 Okay.
+186	Monica	 Okay!
+187	Chandler	 Okay!
+188	Doctor	 It looks like we're about ready over here.
+189		(Monica and Chandler run back to Erica's bed.)
+190	Doctor	 Come on, Erica, start pushing again now.
+191	Erica	 Ow!
+192		(Erica screams.)
+193	Doctor	 Here she comes!
+194	Chandler	 (shocked) She? It's a girl?
+195	Doctor	 Yeah.
+196	Chandler	 (To Monica) Well, now we have one of each! (To the doctor) And that's enough!
+197		
+198	[Scene	 Central Perk. Ross, Phoebe and Joey are there.]
+199	Ross	 And then she said it was the perfect way to say goodbye.
+200	Joey	 Oh my God! What did you say?
+201	Ross	 Nothing! What do you say to that?
+202	Phoebe	 Ross, you've got to tell her how you feel!
+203	Ross	 No way!
+204	Joey	 You can't just give up! Is that what a dinosaur would do?
+205	Ross	 What?
+206	Joey	 Dude, I'm just trying to speak your language.
+207	Phoebe	 Ross, Rachel doesn't know that you wanna get back together. If she did, she might feel differently. She might not even go.
+208	Ross	 You really think so?
+209	Phoebe	 I'm telling you! Oh, okay! This is the part of the musical where there'd be a really good convincing song. (Singing) "Bam-bam, don't take no for an answer. Bam-bam, don't let love fly away. Bam-bam-bam-bam..."
+210		(Rachel enters and interrupts Phoebe's song.)
+211	Rachel	 Hi!
+212	Phoebe	 Can't a girl finish a song around here?
+213	Joey	 Hey!
+214	Rachel	 Hi! So I just dropped Emma off at my mom's.
+215	Ross	 Okay.
+216	Joey	 Oh, you're not taking her with you tonight?
+217	Rachel	 No, we decided that I would go ahead and set up first, and then my mom would bring Emma to Paris on Sunday.
+218	Phoebe	 Wow, eight hour flight with a one-year old? Good luck, mom.
+219	Rachel	 Are you kidding? Eight hours with my mother talking about Atkins? Good luck, Emma!
+220		(Rachel walks up to the counter.)
+221	Ross	 Alright, you know what? You're right. I should at least tell her how I feel.
+222		(He stands up.)
+223	Joey	 Ross, wait!
+224	Ross	 What? What?
+225	Joey	 Could you get me a muffin?
+226		(Ross walks up to Rachel, but Gunther gets there first.)
+227	Gunther	 Rachel?
+228	Rachel	 Yeah?
+229	Gunther	 I... I know you're leaving tonight, but I just have to tell you. I love you.
+230		(Ross is shocked.)
+231	Gunther	 I... I don't know if that changes your plans at all, but I thought you should know.
+232	Rachel	 (touched) Gunther... Oh... I love you too. Probably not in the same way, but I do. And, and when I'm in a café, having coffee, or I see a man with hair brighter than the sun, I'll think of you. Aw.
+233		(She kisses him on the cheek and looks over at the others.)
+234	Rachel	 Oh... Bye guys.
+235		(Rachel leaves.)
+236	Ross	 Oh my God!
+237	Phoebe	 Unbelievable!
+238	Joey	 Hey, you know what might help?
+239	Ross	 I'm not getting you a muffin!
+240		
+241	[Scene	 The hospital. Monica and Chandler are holding the twins, while two nurses are taking care of Erica.]
+242	Monica	 Do you think they recognize each other from in there?
+243	Chandler	 Maybe. Unless they're like two people who have lived in apartments next to each other for years, and then one day they're pushed through a vagina and they meet.
+244	Nurse	 We're going to take Erica to recovery now.
+245	Monica	 There's something that we wanna tell you. We decided to name the girl-baby Erica.
+246	Erica	 Oh my God, that's just like my name!
+247	Monica	 Son of a gun, it is!
+248	Erica	 Anyway, I'm gonna go and get some rest. I'm really glad I picked you guys. You're gonna make great parents. Even Chandler.
+249	Monica	 Okay, well, bye!
+250	Erica	 Bye!
+251	Chandler	 Bye!
+252	Monica	 We'll call you!
+253	Erica	 Okay.
+254	Chandler	 Have fun at church-camp!
+255		(The nurses take Erica to the recovery room. Monica and Chandler smile at each other.)
+256	Monica	 Oh, look at these little bunnies!
+257	Chandler	 I know! You ready to trade?
+258	Monica	 Okay.
+259	Chandler	 Okay.
+260	Monica	 Alright, let's see..
+261		(They start trying to trade babies while holding one each. They have no idea how to do it, so they just shift the babies around in their arms. They give up pretty quickly.)
+262	Chandler	 We could trade later.
+263	Monica	 Yeah, I'm good.
+264		
+265	[Scene	 Monica and Chandler's apartment. Joey and Phoebe are there. There is a white crib decorated with balloons in the middle of the apartment. Also, there are boxes all over the apartment. Joey is working on something on the coffee table.]
+266	Phoebe	 Hey, what are you working on?
+267	Joey	 It's a... It's a "welcome home" sign for the baby.
+268		(He holds up a white poster with huge red letters. It reads, "Welcome Home Baby." There is also a huge red stain on the left of the poster.)
+269	Phoebe	 How sweet! Oh, is that the baby?
+270		(She points at the stain.)
+271	Joey	 No, I sat in the paint.
+272		(Ross enters with a gift for the baby.)
+273	Ross	 Hey.
+274	Phoebe	 Hey. So, did you talk to Rachel?
+275	Ross	 No, and I'm not going to.
+276	Phoebe	 What?
+277	Joey	 Why not?
+278	Ross	 Because she's just going to shoot me down. You guys saw what happened with Gunther. That did not look like fun.
+279	Phoebe	 How can you compare yourself to Gunther? I mean, sure, he's sexy in a more obvious way. You have a relationship with her, you slept together last night.
+280	Ross	 Yeah, and she still wants to go! It's pretty clear where she is.
+281	Joey	 Yeah, I know what you mean. I mean, sometimes...
+282		(He sits down in the wet paint again.)
+283	Phoebe	 Uh, Joe?
+284	Joey	 Damn it!
+285	Ross	 Look, even if I were gonna tell her, I don't have to do it now. Okay? I'll be seeing her again. We've got time.
+286	Phoebe	 No, you don't! She's going to Paris! She is going to meet somebody. Do you know how many hot guys there are in Paris? It's... It's a city of Gunthers!
+287		(Mike enters with a roll of paper in his hand.)
+288	Mike	 Hey!
+289	Phoebe	 Hey! What do you have there?
+290	Mike	 Oh, I made a little something. If I had more time to work on it, it'd be better, but..
+291		(He shows them a beautiful banner he has made. It reads, "Welcome to the World, Baby Bing.")
+292	Ross	 Oh my God! You did that yourself?
+293	Phoebe	 Honey, that's gorgeous!
+294	Joey	 You know, the baby can't read, Mike!
+295		(Rachel enters.)
+296	Rachel	 Hi! You guys, the car-service just got here. I can't believe they're not home yet! I have to catch my stupid plane. I wanna see the baby!
+297	Joey	 Monica just called from the cab. She said they should be here any minute. And apparently, there's some big surprise.
+298	Phoebe	 Yeah, did she sound happy about it? 'Cause my friend Ethel's baby was born with a teeny, tiny beard.
+299		(Monica enters carrying her son.)
+300	Rachel	 Oh my God!
+301	Ross	 Oh my God!
+302		(They all walk over to see the baby.)
+303	Rachel	 Hi! Oh my gosh!
+304		(Chandler enters carrying his daughter.)
+305	Chandler	 Hey.
+306		(Everybody turns around.)
+307	Phoebe, Ross, Rachel	 Hey.
+308		(They turn back around to see the baby Monica's carrying, but then they realise what the surprise is. Ross, Mike, Phoebe and Rachel gasp and stare at Chandler and his baby. Joey hasn't figured it out yet.)
+309	Joey	 (To Monica) Hey, so what is the big surprise?
+310	Rachel	 Oh.
+311		(Joey stares at Chandler and Monica and finally puts two and two together. He gasps.)
+312	Ross	 Oh my God!
+313	Rachel	 What... What...
+314	Ross	 Okay, okay, awkward question. The hospital knows you took two, right?
+315	Monica	 Yes, it's twins!
+316	Ross	 Oh my God.
+317	Joey	 Oh, they're so cute! Now, what, what kinds are they?
+318	Monica	 (points at the baby she's holding) This is a boy, (points at the baby Chandler is holding) and that's a girl.
+319	Chandler	 Her name is Erica.
+320	Rachel	 Aw..
+321	Joey	 Hey, that pregnant girl's name was Erica.
+322	Chandler	 Yeah. It's a shame you two didn't get to spend more time together.
+323	Monica	 Yeah, we named the boy Jack after dad.
+324	Ross	 Aw, he's gonna be so happy.
+325	Phoebe	 Oh, Jack Bing. I love that. Ooh, it sounds like a '40s newspaper guy, you know? "Jack Bing, Morning Gazette. I'm gonna blow this story wide open!"
+326		(Chandler and Monica carry Erica and Jack over to the crib and put them down carefully.)
+327	Rachel	 Oh my gosh. Wow, so beautiful.
+328	Mike	 (To Phoebe) I want one.
+329	Phoebe	 Oh yeah? Well, tell me which one, and I'll try slip it in my coat.
+330	Mike	 Seriously. Wanna make one of those?
+331	Phoebe	 One? How about a whole bunch?
+332	Mike	 Really?
+333	Phoebe	 Yeah! Ooh, we could teach them to sing, and we can be like the Von Trapp family! Only without the Nazis. Although that sounds kinda dull.
+334	Rachel	 Oh, you guys, I can't believe this. But I'll leave now, or I'm gonna miss my plane.
+335	Monica	 I'm just so glad you got to see the babies.
+336		(They hug.)
+337	Rachel	 Me too. Oh, I'm just sorry I'm not gonna be around to watch you two attempt to handle this! Alright, I can't say goodbye to you guys again. I love you all so much.
+338	Monica	 I love you.
+339	Chandler	 I love you.
+340	Monica	 Call us when you get there.
+341	Rachel	 I will. Ross, come here.
+342		(She pulls him over to the door.)
+343	Rachel	 I just want you to know.. Last night.. I'll never forget it.
+344	Ross	 Neither will I.
+345		(They hug as Phoebe and Joey stare at the two of them.)
+346	Rachel	 Alright, now I really have to go. Okay. Au revoir! Oh, they're gonna really hate me over there.
+347		(She leaves.)
+348	Phoebe	 So, you just let her go?
+349	Ross	 Yeah.
+350	Joey	 Hey, maybe that's for the best.
+351	Ross	 Yeah?
+352	Joey	 Yeah. You know? You just... Look, you gotta... You gotta think about last night the way she does, okay? Maybe, maybe sleeping together was the perfect way to say goodbye?
+353	Phoebe	 But now she'll never know how he feels!
+354	Joey	 Maybe that's okay. You know? Maybe, maybe it is better this way? I mean, now, now you can move on. I mean, you've been trying to for so long, maybe now that you're on different continents.. (Looks at Phoebe) Right?
+355		(Phoebe nods.)
+356	Joey	 Maybe now you can actually do it. You know? You can finally get over her.
+357	Ross	 Yeah, that's true. Except I don't wanna get over her.
+358	Joey	 What?
+359	Ross	 I don't! I wanna be with her.
+360	Joey	 Really?
+361	Ross	 Yeah, I'm gonna go after her.
+362	Joey	 Yeah, you are!
+363	Phoebe	 Woo!
+364		(Monica and Chandler look shocked as Ross goes to leave.)
+365	Phoebe	 Wait, wait! Get your coat! Get your coat!
+366	Ross	 My coat...
+367	Joey	 This is so cool!
+368	Chandler	 I have no idea what's going on, but I am excited!
+369	Joey	 But Ross, Ross. What do you, what do you think she's going to say?
+370	Ross	 I don't know, but I.. Look, even if she shoots me down, at least I won't spend the rest of my life wondering what would have happened. Where - where is my coat?!
+371	Phoebe	 You didn't bring one! My cab's downstairs, I'll drive you to the airport.
+372	Ross	 Okay, guys, wish me luck.
+373	Phoebe	 Hurry!
+374	Joey	 Good luck, good luck!
+375		(Phoebe and Ross leave.)
+376		
+377	[Scene	 The street right in front of Central Perk. Phoebe's cab is there. Ross and Phoebe run over and jump in.]
+378	Ross	 There's no seatbelt!
+379	Phoebe	 That's okay. If - if we hit anything, the engine will explode, so you know, it's better if you're thrown from the car.
+380		(Ross looks terrified.)
+381	Ross	 Alright, alright, let's do this!
+382	Phoebe	 Okay!
+383		(A guy comes up and gets into the backseat of the cab.)
+384	Ross	 Hey!
+385	Man	 18th and East End.
+386	Phoebe	 I - I don't take passengers.
+387	Man	 Hey! The law says you have to accept any fare.
+388	Ross	 No, you don't understand. This isn't a real cab.
+389	Man	 Alright, I gotta report you. What's your medallion number?
+390	Phoebe	 My medallion number is, "Get out of the cab!"
+391	Man	 What?
+392	Ross	 (screaming) Get out of the cab!
+393	Phoebe	 Get out of the cab!
+394		(The man jumps out, obviously a little scared. Phoebe drives off.)
+395		
+396	[Scene	 Monica and Chandler's apartment. Monica, Chandler and Joey are there, packing the last boxes.]
+397	Joey	 Oh, hey, hey, can I give you guys your house-warming present now?
+398	Monica	 Now, that you can do.
+399	Joey	 Alright!
+400		(Cut to Joey's apartment. Joey looks inside the cardboard box that used to be the home of Chick Jr. and Duck Jr., but they have disappeared.)
+401	Joey	 Ah... Chick Jr.? Duck Jr.? Don't hide from mama!
+402		
+403	[Scene	 Phoebe's cab. Phoebe is driving very fast, and a terrified Ross has closed his eyes.]
+404	Phoebe	 You can open your eyes now.
+405	Ross	 Are we off the bridge?
+406	Phoebe	 Yes.
+407	Ross	 Is the old woman on the bicycle still alive?
+408	Phoebe	 Yes, she jumped right back up.
+409		(Ross opens his eyes.)
+410	Ross	 Oh my God, Phoebe, slow down!
+411	Phoebe	 Do you wanna get to Rachel in time?
+412	Ross	 Yes, but I don't wanna die in your cab!
+413	Phoebe	 You should have thought of that before you got in!
+414		(They drive up to a toll-booth.)
+415	Phoebe	 Toll-booth.
+416	Ross	 What?
+417	Phoebe	 (screaming) Toll-booth! Four bucks. There are quarters in the glove compartment.
+418		(Ross tries to open a plastic bag filled with quarters, but he's quite slow.)
+419	Phoebe	 Hurry!
+420	Ross	 Okay!
+421	Phoebe	 Okay.
+422		(Phoebe tries to throw some quarters out the window, but she has forgotten to open the window, and she and Ross scream.)
+423	Phoebe	 Damn, that window is clean.
+424		
+425	[Scene	 Joey's apartment. Joey is still looking for the birds.]
+426	Joey	 Quack, quack, tweet, tweet, quack, quack, tweet, tweet, quack, quack, tweet, tweet, quack, quack, tweet, tweet, quack, tweet, quack...
+427		(Monica and Chandler enter.)
+428	Chandler	 We were wondering what was taking so long with the gift, but now we understand you were doing this.
+429	Joey	 Okay, I wanted to surprise you, but for your house-warming gift, I got you a baby-chick and a baby-duck!
+430		(Chandler grins, while Monica is less enthusiastic.)
+431	Chandler	 Really? You got us a chick and a duck?
+432	Monica	 Oh, great! Just what you want for a new house with infants. Bird feces.
+433	Joey	 Yeah, yeah, they must have jumped off the table, 'cause now they're gone!
+434	Chandler	 Oh, don't worry, we'll find them.
+435	Monica	 Actually, I'm gonna go check on the twins.
+436	Chandler	 Alright.
+437		(Monica turns around and is about to leave when she steps on something.)
+438	Monica	 Oh God! What did I just step on?
+439	Joey	 Oh!
+440	Chandler	 It's okay, it's just an egg roll.
+441	Monica	 Oh..
+442	Joey	 You stepped on my egg roll?
+443	Monica	 I'm sorry, I didn't know to look for Chinese food on the floor.
+444	Joey	 Just put it on a plate and leave.
+445		(She does so.)
+446	Chandler	 Okay, let's find these birds.
+447	Joey	 Alright.
+448		(Suddenly, they hear the birds.)
+449	Joey	 Wait, wait. Do you hear that?
+450		(They realise that the birds are in the foosball table.)
+451	Joey	 Oh! They're in the table!
+452	Chandler	 Well, that can't be good!
+453	Joey	 We gotta get them out of there!
+454	Chandler	 How?
+455	Joey	 Oh, oh! Maybe we can lure them out. You know any birdcalls?
+456	Chandler	 Oh, tons, I'm quite the woodsman.
+457	Joey	 Well, maybe we can just tip the table a little.
+458	Chandler	 Joey, wait! The ball!
+459	Joey	 Oh!
+460		(The ball rolls into one of the goals, and Chandler and Joey listen in horror as the ball makes its way inside the table. Finally, they can hear the birds again.)
+461	Joey	 Oh God! So what do we do?
+462	Chandler	 I don't know. Maybe we can open this up somehow.
+463	Joey	 Okay.
+464	Chandler	 No... It's all glued together.
+465	Joey	 Does that mean we have to bust it open?
+466	Chandler	 I don't know. Maybe.
+467	Joey	 Oh my God!
+468	Chandler	 I know! It's.. It's the foosball table.
+469	Joey	 All right, you know what? We don't have a choice. It's like I would have said in that sci-fi movie if I'd gotten the part. "Those are our men in there, we have to get them out! Even if I have to sacrifice the most important thing in my life; my time-machine."
+470	Chandler	 Did that movie ever get made?
+471	Joey	 It did not.
+472		
+473	[Scene	 The airport. Ross and Phoebe run in.]
+474	Phoebe	 Ross, where are you going?
+475	Ross	 To talk to Rachel, isn't that why we took a ride in the death-cab?
+476	Phoebe	 What? What are you just gonna walk up to her at the gate? Have you never chased anyone through the airport before?
+477	Ross	 Not since my cop-show got cancelled.
+478	Phoebe	 You have to get a ticket to get past security.
+479	Ross	 What? We're never gonna make it!
+480	Phoebe	 Not with that attitude! Now, haul ass!
+481		(They run to the ticket counter, but they get stuck behind a group of old people who are walking very slowly.)
+482	Ross	 Okay, if you could all walk slower, that'd be great.
+483		
+484	[Scene	 The gate. Rachel walks up to the man at the gate and gives him her passport.]
+485	Gate attendant #1	 (with a French accent) Madame, your passport please?
+486	Rachel	 Oh my God! I was so afraid I wasn't gonna remember any of my high-school French, but I understood every word you just said!
+487	Gate attendant #1	 Your boarding pass, please.
+488	Rachel	 Oh.
+489		(She starts looking through her purse, but she can't find it.)
+490	Rachel	 Oh, shoot. I had it. Oh, I can't believe this.
+491	Gate attendant #1	 Madame, if you don't have your boarding pass...
+492	Rachel	 I have it, I have it, I have it. Oh, okay, I can't find it, but I remember that I was in seat 32C, because that's my bra-size.
+493	Gate attendant #1	 Madame, you must have your boarding pass..
+494	Rachel	 Okay, fine! But you know what? If I was in 36D, we would not be having this problem.
+495		
+496	[Scene	 The ticket-counter. Ross and Phoebe come running.]
+497	Ross	 Hey, I need a ticket.
+498	Phoebe	 Just one? I drive you all the way down here, and I don't get to see how it works out?
+499	Ross	 Fine, two tickets, I need two tickets.
+500	Phoebe	 We're on our honeymoon.
+501	Ticket agent	 And the destination?
+502	Ross	 I don't care. Whatever is the cheapest.
+503	Phoebe	 I'm so lucky I married you.
+504		
+505	[Scene	 The gate. Rachel is still searching for her boarding pass.]
+506	Rachel	 Oh! Shoot! Damn it! Where is it? Oh! Oh! I found it! I found it!
+507		(She runs up to the gate and the gate attendant standing there.)
+508	Rachel	 Hah! I found it! I told you I would find it! In your face! You're a different person.
+509		
+510	[Scene	 The ticket-counter. Ross and Phoebe have their tickets and start looking at the screens in order to find the gate.]
+511	Ross	 Okay, flight 421 to Paris. I don't see it, do you see it?
+512	Phoebe	 No, did we miss it?
+513	Ross	 No, no, no. That's impossible. It doesn't leave for another 20 minutes.
+514	Phoebe	 Maybe we have the flight-number wrong. God.
+515		(Phoebe picks up her cell-phone and calls Monica. Monica is still packing in her apartment.)
+516	Monica	 Hello.
+517	Phoebe	 Hey, it's me. Here's Ross.
+518	Ross	 What? Hey, hey, listen..
+519		(Monica is standing by the crib, and she's looking at her babies.)
+520	Monica	 Oh my God! Ross, you wouldn't believe the cute little noises the twins are making. Listen.
+521		(She holds the phone down to the twins.)
+522	Ross	 Monica? Monica, Monica, Monica, Monica..?
+523	Monica	 Oh, I'm sorry. Shoot, they were doing it before.
+524	Ross	 That's alright. Listen, listen.
+525	Monica	 Oh, wait, wait, wait! Here they go again.
+526		(She holds down the phone to the twins again.)
+527	Ross	 Monica? Monica, Monica, Monica, Monica..?
+528	Monica	 Isn't that cute?
+529	Ross	 That is precious! Listen! I need Rachel's flight information.
+530	Monica	 Oh, okay. Alright, it's flight 421. Leaves at 8
+531	Ross	 Yes, that's what I have. It's not on the board.
+532	Monica	 That's what it says here. Flight 421, leaves at 8
+533	Ross	 What?
+534	Monica	 Newark airport. Why, where are you?
+535	Ross	 JFK.
+536		(Ross sadly hangs up the phone, while Phoebe looks at him. Cut to Rachel at the gate. She gives her boarding pass to the gate attendant, and she goes onboard. The gate attendant closes the door and locks it.)
+537		
+538	[Scene	 Joey's apartment. Joey and Chandler are still trying to get the birds out of the foosball-table.]
+539	Joey	 (yelling) Don't worry, you guys, we're gonna get you out of there.
+540	Chandler	 And we're also gonna buy you tiny, bird hearing-aids.
+541		(Joey picks up a hammer and a crowbar and gets ready to destroy the table.)
+542	Joey	 Okay. Here goes.
+543	Chandler	 What's the matter?
+544	Joey	 I need to say goodbye to the table first.
+545	Chandler	 I understand.
+546	Joey	 Okay. Table, you have given us so many great times. And you guys, Jordan, Victor, Joel... All of you guys. What can I say? You guys make us look good. You wanna say anything?
+547	Chandler	 I don't know. Except that, for one last time... (he touches the players as he says the following) Good game, good game, good game, good game, good game, good game, good game.
+548	Joey	 Okay, here we go. I can't do it.
+549	Chandler	 Well, I can't do it either.
+550		(Monica enters.)
+551	Monica	 Hey! Did you find them?
+552	Joey	 Yeah, they're stuck inside the table!
+553	Chandler	 We have to bust it open, but neither of us can do it!
+554	Monica	 Oh, well sure. This gotta be so hard. I'll do it. Gimme!
+555		(Monica grabs the hammer and the crowbar and gets ready to bust it open.)
+556		
+557	[Scene	 Phoebe's cab. She's driving faster than ever before.]
+558	Ross	 Phoebe! Wow! No, no, no!
+559		(Phoebe screams.)
+560	Phoebe	 Well, I've never gone this fast before.
+561	Ross	 Phoebe, forget it, okay? Newark is - is like an hour away. There's no way we're gonna make it in time.
+562	Phoebe	 She's got her cell, you could call her.
+563	Ross	 I am not doing this over the phone.
+564	Phoebe	 You don't have any other choice!
+565		(She lets go of the steering wheel to get her cell-phone from her purse. Ross screams and reaches over in order to hold onto the wheel. Cut to the plane. Rachel is sitting in her seat when her cell-phone rings.)
+566	Rachel	 Hello?
+567	Phoebe	 Rachel? Oh, good. Hey, by the way, did you just get on the plane?
+568	Rachel	 Yeah.
+569	Phoebe	 (To Ross) For what it's worth, we would have caught her if we were at the right airport.
+570	Ross	 Yay.
+571	Phoebe	 Uh, Rach, hang on.
+572		(Phoebe tries to give her phone to Ross, but he won't take it. He mouths "no.")
+573	Rachel	 Phoebe? Is everything okay?
+574	Phoebe	 Uhm, actually no. No, you've... You have to get off the plane.
+575	Rachel	 What? Why?
+576	Phoebe	 I have this feeling that something's wrong with it. Something is wrong with the left Philange.
+577	Rachel	 Oh, honey, I'm sure there's nothing wrong with the plane.
+578		(The passenger in the seat next to Rachel looks at her and seems a little nervous.)
+579	Rachel	 Alright, look, I have to go. I love you, and I will call you the minute I get to Paris.
+580		(Rachel hangs up.)
+581	Passenger #1	 Uhm, what was that?
+582	Rachel	 Oh, that was just my crazy friend. She told me I should get off the plane, because she had a feeling that there was something wrong with the left Philange.
+583	Passenger #1	 Okay, that doesn't sound good.
+584	Rachel	 I wouldn't worry about it. She's always coming up with stuff like this, and you know what? She's almost never right.
+585	Passenger #1	 But she is sometimes.
+586	Rachel	 Well...
+587		(The passenger stands up and gets his suitcase from the overhead compartment.)
+588	Rachel	 Wait, what are you doing?
+589	Passenger #1	 Well, I can't take this plane now.
+590	Air stewardess	 Excuse me, sir, where are you going?
+591	Passenger #1	 I have to get off this plane, okay? Her friend has a feeling something's wrong with the left Philange.
+592	Rachel	 Could I get some peanuts?
+593	Passenger #2	 What's wrong with the plane?
+594	Air stewardess	 There's nothing wrong with the plane.
+595	Passenger #1	 Yeah! The left Philange!
+596	Air stewardess	 There is no Philange!
+597	Passenger #1	 Oh my God. This plane doesn't even have a Philange!
+598	Passenger #2	 I'm not flying on it!
+599	Air stewardess	 Ma'am, please sit down!
+600	Passenger #3	 What's going on?
+601	Passenger #1	 We're all getting off. There is no Philange!
+602		(Everybody walks out of the plane.)
+603	Rachel	 This is ridiculous! I...
+604		(She notices that everybody is leaving.)
+605	Rachel	 Yeah, okay.
+606		(Rachel leaves as well.)
+607		
+608	[Scene	 Joey's apartment. Monica has completely destroyed the foosball-table, and Chandler and Joey are holding the birds.]
+609	Monica	 Alright. My job here is done.
+610	Chandler	 That was... Impressive.
+611	Joey	 Yeah, you didn't even use the tools for most of it!
+612	Monica	 Yeah, they were just slowing me down. Alright, I have to get back to the babies. I'll see you girls later.
+613		(Monica leaves.)
+614	Chandler	 Sorry about the table, man.
+615	Joey	 Yeah.
+616	Chandler	 You gonna buy a new one?
+617	Joey	 Probably not. Nah. I don't know how much I'm gonna wanna play after you go.
+618	Chandler	 Well, at least we got these little guys out.
+619	Joey	 Yeah.
+620	Chandler	 Aww, we were worried about you! Hm. I guess I better get used to things crapping in my hand, huh?
+621	Joey	 I'm gonna miss these little guys. It was nice having birds around again.
+622	Chandler	 Hey, you know what? Maybe we should keep them here with you.
+623	Joey	 What?
+624	Chandler	 Yeah, I mean we've got a lot going on right now. And, plus, here they'd have their own room.
+625	Joey	 I could get a goose!
+626	Chandler	 You know, I - I think you're set with the poultry.
+627	Joey	 Thanks man. Did you hear that, you guys? You're gonna get to stay here! And, and it's good, you know, 'cause, 'cause now you have a reason to come visit.
+628	Chandler	 I think there may be another reason. So, awkward hug or lame cool guy handshake?
+629	Joey	 Uh, lame cool guy handshake, yeah.
+630		(They do the lame cool guy handshake. They look at each other, and then they hug.)
+631		
+632	[Scene	 The gate at the airport. The passengers are standing in line, and they're about to board the plane again.]
+633	Gate attendant #2	 Ma'am, I assure you, the plane is fine.
+634	Passenger #2	 And you fixed the Philange?
+635	Gate attendant #2	 Yes, the Philange is fixed. As a matter of fact, we put a whole lot of extra Philanges onboard, just in case.
+636		(Rachel walks up to the gate. Cut to Ross and Phoebe who come running up to the gate.)
+637	Ross	 Where is she?
+638	Phoebe	 I don't see her.
+639	Ross	 Rachel! Rachel Green!
+640	Phoebe	 There she is!
+641	Ross	 Rachel! Rachel!
+642	Gate attendant #2	 Wow, excuse me, sir, do you have a boarding pass?
+643	Ross	 No, no, I just have to talk to someone.
+644	Gate attendant #2	 I'm sorry, you cannot go any further without a boarding pass.
+645	Ross	 No, no, no, but...
+646	Phoebe	 (screaming) RACHEL!!
+647		(Rachel comes back to the gate.)
+648	Rachel	 Oh my God... What.. What are you guys doing here?
+649	Phoebe	 Okay, you're on.
+650	Rachel	 What? What? Ross, you're scaring me. What's going on?
+651	Ross	 Okay, the thing is..
+652	Rachel	 Yeah?
+653	Ross	 Don't go.
+654	Rachel	 What?
+655	Ross	 Please, please stay with me. I am so in love with you. Please, don't go.
+656	Rachel	 Oh my God.
+657	Ross	 I know, I know. I shouldn't have waited 'till now to say it, but I'm.. That was stupid, okay? I'm sorry, but I'm telling you now. I love you. Do not get on this plane.
+658	Gate attendant #2	 Miss? Are you boarding the plane?
+659	Ross	 Hey, hey. I know you love me. I know you do.
+660	Gate attendant #2	 Miss?
+661	Rachel	 I - I have to get on the plane.
+662	Ross	 No, you don't.
+663	Rachel	 Yes, I do.
+664	Ross	 No, you don't.
+665	Rachel	 They're waiting for me, Ross. I can't do this right now, I'm sorry. I'm sorry.
+666	Ross	 Rachel?
+667	Rachel	 I'm so sorry.
+668		(She boards the plane.)
+669	Ross	 I really thought she'd stay.
+670	Phoebe	 I'm sorry.
+671		(Phoebe hugs Ross.)
+672		
+673	[Scene	 Monica and Chandler's apartment. Joey, Chandler, Monica and the twins are there. Everything has been put into boxes.]
+674	Monica	 Well, that's it. Everything's packed.
+675	Chandler	 Wow, this is weird.
+676	Monica	 I know.
+677	Joey	 Yeah. Uh, does this mean there's nothing to eat?
+678	Monica	 I put three lasagnas in your freezer.
+679	Joey	 I love you!
+680		(He hugs her. Phoebe enters.)
+681	Joey	 Hey!
+682	Phoebe	 Hey.
+683	Joey	 So did you guys make it in time?
+684	Phoebe	 Yeah, yeah, he talked to her, but she got on the plane anyway.
+685	Chandler	 Where's Ross?
+686	Phoebe	 He went home. He didn't want to see anybody.
+687		
+688	[Scene	 Ross's apartment. Ross enters and checks his messages.]
+689	Rachel	 (on the answering machine) Ross, hi. It's me. I just got back on the plane. And I just feel awful. That is so not how I wanted things to end with us. It's just that I wasn't expecting to see you, and all of a sudden you're there and saying these things... And... And now I'm just sitting here and thinking of all the stuff I should have said, and I didn't. I mean, I didn't even get to tell you that I love you too. Because of course I do. I love you. I love you. I love you. What am I doing? I love you! Oh, I've gotta see you. I've gotta get off this plane.
+690	Ross	 Oh my God!
+691	Rachel	 (on the answering machine) Excuse me?
+692	Air stewardess	 (on the answering machine) Miss? Please, sit down!
+693	Rachel	 (on the answering machine) I'm sorry. I'm really sorry, but I need to get off the plane, okay? I need to tell someone that I love love them.
+694	Air stewardess	 (on the answering machine) Miss, I can't let you off the plane.
+695	Ross	 Let her off the plane!
+696	Air stewardess	 (on the answering machine) I am afraid you are gonna have to take a seat.
+697	Rachel	 (on the answering machine) Oh, please, miss, you don't understand!
+698	Ross	 Try to understand!
+699	Rachel	 (on the answering machine) Oh, come on, miss, isn't there any way that you can just let me off...
+700		(The message is finished. Ross jumps over to the answering machine.)
+701	Ross	 No! No! Oh my God. Did she get off the plane? Did she get off the plane?
+702	Rachel	 I got off the plane.
+703	Ross	 You got off the plane.
+704		(He walks over and kisses her.)
+705	Rachel	 I do love you.
+706	Ross	 I love you too, and I'm never letting you go again.
+707	Rachel	 Okay. 'Cause this is where I wanna be, okay? No more messing around. I don't wanna mess this up again.
+708	Ross	 Me neither, okay? We are - we're done being stupid.
+709	Rachel	 Okay. You and me, alright? This is it.
+710	Ross	 This is it. Unless we're on a break.
+711		(Rachel gives him a look.)
+712	Ross	 Don't make jokes now.
+713		(They kiss again.)
+714		
+715	[Scene	 Monica and Chandler's apartment. Chandler and Monica are holding the twins. Joey and Phoebe are sitting by the window, while Ross and Rachel are standing together. The apartment is completely empty. Two men are carrying a large dresser.]
+716	Monica	 Okay, please be careful with that. It was my grandmother's. Be careful.
+717		(Two other men are rolling the big white dog out of the apartment.)
+718	Monica	 If that falls off the truck, it wouldn't be the worst thing.
+719		(She slips them some money.)
+720	Ross	 Wow.
+721	Rachel	 I know. It seems smaller somehow.
+722	Joey	 Has it always been purple?
+723	Chandler	 (to his children) Look around, you guys. This was your first home. And it was a happy place, filled with love and laughter. But more important, because of rent control, it was a friggin' steal!
+724		(Monica and Chandler put Jack and Erica in their stroller.)
+725	Phoebe	 Hey, do you realise that at one time or another we all lived in this apartment?
+726	Monica	 Oh, yeah, that's true.
+727	Ross	 Uh, I haven't.
+728	Monica	 Wait a minute. What about that summer during college that you lived with grandma, and you tried to make it as a dancer?
+729	Ross	 Do you realise we almost made it ten years without that coming up?
+730	Monica	 Oh, honey, I forgot. I promised Treeger that we'd leave our keys.
+731	Chandler	 Oh, okay.
+732		(Chandler and Monica walk over to the kitchen-counter and leave their keys. Then the other four pick out their keys and leave them as well.)
+733	Phoebe	 So, I guess this is it.
+734	Joey	 Yeah. I guess so.
+735	Monica	 (crying) This is harder than I thought it would be.
+736	Chandler	 Oh, it's gonna be okay.
+737		(Chandler hugs her. Monica hugs Ross and Rachel as Chandler gets the stroller with the twins.)
+738	Rachel	 (crying) Do you guys have to go to the new house right away, or do you have some time?
+739	Monica	 We got some time.
+740	Rachel	 Okay, should we get some coffee?
+741	Chandler	 Sure. Where?
+742		(They all leave the apartment. Joey helps Chandler with the stroller in the hallway, while Monica and Rachel have their arms around each other. Everybody walks downstairs to Central Perk. The camera goes inside the apartment again, and it pans around. We see the keys on the counter, and the final shot is of the frame around the peephole. The screen fades to black.)
+743		THE END

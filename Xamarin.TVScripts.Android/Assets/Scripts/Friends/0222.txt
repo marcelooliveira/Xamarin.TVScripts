@@ -1,0 +1,4 @@
+1	Written by	 Alexa Junge Transcribed by
+2	[Scene	 Moondance Diner. Ross, Phoebe, Joey, and Chandler are sitting at the counter, Monica is working. Monica is wearing her costume, including big fake breasts.] MONICA
+3		END
+4	webbot bot="ImageMap" startspan rectangle=" (138,2) (197, 84) http	//thecfsi.com/season2/223towcp.htm" rectangle=" (71,1) (130, 84) http

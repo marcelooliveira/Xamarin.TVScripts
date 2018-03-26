@@ -1,0 +1,313 @@
+1	Teleplay by	 Patty Lin Story by
+2	[Scene	 Monica, Chandler, and Phoebe's, Monica and Phoebe are going through a bunch of pictures as Chandler enters.]
+3	Chandler	 Hey.
+4	Monica	 What’s the matter?
+5	Chandler	 Someone on the subway licked my neck! Licked my neck!!
+6	Phoebe	 Oh Willie’s still alive!
+7	Chandler	 What are you guys doing?
+8	Monica	 Oh, my mom called, they’re gonna run our engagement announcement in the local paper, so we’re looking for a good picture of us.
+9	Chandler	 Oooh, I’m afraid that does not exist.
+10	Monica	 That’s not true, there are great pictures of us!
+11	Chandler	 No, there are great pictures of you standing next to a guy who’s going like this… (Makes what can only be described as a toothy frown. Henceforth, this shall be known as The Face.)
+12	Phoebe	 Oh my God! That’s the creep that you’re with at the Statue of Liberty.
+13	Chandler	 I don’t know what it is, I just can’t take a good picture.
+14	Monica	 (looking at one) Oh, here’s a great one.
+15	Chandler	 Yeah, I’m not in that.
+16	Monica	 I know, but look at me
+17	Phoebe	 Hey, why don’t you guys go get portraits done by a professional photographer.
+18	Monica	 That’s a good idea! I bet they have one of those wind machines! Y’know… (Does the whole hair blowing in the wind model type poses.)
+19	Phoebe	 Yeah that’s great! Next to that, Chandler won’t look so stupid.
+20	Monica	 Chandler what do you say?
+21	Chandler	 All right, but I should warn you, I’m not going. I’m going. (Does The Face while saying that last part.)
+22		Opening Credits
+23	[Scene	 Central Perk, Rachel is sitting on the couch as Ross and Chandler enter after playing basketball.]
+24	Ross	 (To Chandler) Dude, that reverse lay-up! Oh…
+25	Chandler	 How about those three-pointers?
+26	Ross	 Amazing!
+27	Chandler	 And those guys were this (Doing the standard "This Close" gesture) close to lettin’ us play this time too.
+28		(They both get dejected and go sit down.)
+29	Rachel	 Hey look-look, Phoebe’s talking to uh, Cute Coffeehouse Guy.
+30	Ross	 Oh, you guys call him Cute Coffeehouse Guy? We call him Hums While He Pees.
+31	Chandler	 Yes, and we call Ross Lingers In The Bathroom.
+32	Phoebe	 (returning) Hey you guys, Hums While He Pees just asked me out!
+33	Rachel	 Hey, I thought that guy was married.
+34	Phoebe	 He is! But he’s getting divorced—Ross! Maybe you know him.
+35	Ross	 It’s not a club.
+36	Rachel	 Phoebe, if this guy’s going through a divorce, is it such a good idea to start going out with him?
+37	Ross	 Hey, divorced men are not bad men!
+38	Chandler	 They have that on the napkins at the club.
+39	Rachel	 Oh, I gotta get back to work.
+40	Phoebe	 You don’t have to be back for a half-hour!
+41	Rachel	 Yeah but, my assistant Tag does sit-ups in the office during lunch. Ohh! I could just spread him on a cracker.
+42	Chandler	 Rach, if you have a crush on this guy, why would you hire him? I mean y’know you can’t date him right?
+43	Rachel	 Oh no, I know that. I know that. Although, we made a joke that we spend so much time together he should call me his work wife.
+44	Ross	 Soon he’ll be able to call you, that lady he knew who got fired.
+45	Rachel	 I am not gonna get fired, because I’m not gonna act on it.
+46	Phoebe	 So you wouldn’t mind if he was dating someone else?
+47	Rachel	 Why? Is he? He is! Isn’t he? He’s dating that slut in marketing!
+48	Ross	 Maybe I should open a divorced men’s club.
+49	Chandler	 Dude that is so sad.
+50	Ross	 I could put uh-uh a basketball court in the back.
+51	Chandler	 Could I play?
+52	[Scene	 Rachel’s Outer Office, she’s returning from lunch to see Tag not doing his sit-ups.]
+53	Rachel	 Oh, no sit-ups today Tag?
+54	Tag	 I just did them.
+55	Rachel	 Oh, well drop and give me ten more!
+56	Tag	 What?
+57	Rachel	 Uh, I-I had a drink with lunch. Did those cost reports come in?
+58	Tag	 Yeah, I filled them out last night?
+59	Rachel	 Oh, great could you make me four copies of those?
+60		(He gets up to make the copies leaving Rachel alone with his stuff. She notices his sweater in his backpack and holds it up to her nose as Melissa, a coworker, walks up.)
+61	Melissa	 Hey Rachel!
+62	Rachel	 (startled) Ahh, hi! Hi! Melissa, what’s up? I’m just uh, about to umm, go out to the store to get some stuff to put in my backpack. Y’know, like dried fruit and granola and stuff. What’s up? (She has put on the backpack.)
+63	Melissa	 Umm, is Tag here?
+64	Rachel	 No. Why?
+65	Melissa	 Oh, I was gonna talk to him about doing something tonight.
+66	Rachel	 Really?! Got a little crush on Tag there do ya?
+67	Melissa	 Well, we’ve been flirting back and forth, but I was hoping that tonight it would turn into something a little more than that.
+68	Rachel	 Okay, whoa-whoa easy there Melissa! This ain’t a locker room, okay? But, y’know I remember him saying that-that he had plans tonight.
+69	Melissa	 Oh no!
+70	Rachel	 Oh yeah. All right, back to work.
+71	Melissa	 Hey! Isn’t that Tag’s backpack.
+72	Rachel	 Yeah Melissa, I don’t want to be known as the uh, office bitch, but I will call your supervisor.
+73		(Melissa beats a hasty retreat.)
+74	[Scene	 A Portrait Studio, Chandler and Monica are trying to take their engagement picture. Monica has a beautiful smile, while Chandler hasn’t.]
+75	The Photographer	 (taking pictures) Great! That’s great Monica! Great! Now, Chandler, you want to give us a smile?
+76	Chandler	 Okay. (Does The Face.)
+77	The Photographer	 I’m sorry, is the seat uncomfortable?
+78	Chandler	 No, I am.
+79	Monica	 Chandler, listen to me sweetie, I know you can do this. Okay? You have a beautiful smile.
+80	Chandler	 I do? (He smiles, beautifully.)
+81	Monica	 Yeah! (They turn to the camera, and Chandler does The Face again.) All right, maybe you don’t have to smile. Let’s try something else. Let’s try umm, try looking sexy.
+82	Chandler	 Okay. (You’ll have to see it, I can’t describe the face he makes, but it isn’t good.)
+83	Monica	 Or not.
+84	[Scene	 Rachel’s Office, Joey is knocking on the door holding a hand over a spot on his shirt.]
+85	Rachel	 Hi Joey! What are you doing here?
+86	Joey	 Uhh, well I’ve got an audition down the street and I spilled sauce all over the front of my shirt. (Removes his hand to reveal a huge sauce stain.) You got an extra one?
+87	Rachel	 Yeah, sure. Umm…here. (Hands him one.)
+88	Joey	 Great. (He doesn’t like it.) You got anything that’s not Ralph Lauren?
+89	Rachel	 Yeah, I don’t think so Joe.
+90	Joey	 All right, I guess this will be fine.
+91	Rachel	 Hey, listen umm, what-what are you doing tonight?
+92	Joey	 Nothing, why?
+93	Rachel	 How would you feel about taking out my assistant Tag? I’ll pay.
+94	Joey	 Huh, Rach I got to say it’s gonna take a lot of money for me to go out on a date with a dude.
+95	Rachel	 I’m not asking you to go on a date with him!
+96	Joey	 Really? ‘Cause I could kinda use the money.
+97	Rachel	 Joey, just-just he-he’s new in town and I know he doesn’t have any guy friends. Just take him to like a ball game or something. I’ll really appreciate it.
+98	Joey	 Yeah, okay.
+99	Rachel	 Yeah?
+100	Joey	 Sure, no problem. (Sees something.) Ooh—Hey, donuts!
+101	Rachel	 Yeah!
+102	Joey	 Okay. (He grabs a jelly donut, takes a bite, and guess what he spills all over himself. He tries to clean it up and smears it all over the shirt.)
+103	[Scene	 A Portrait Studio, Chandler and Monica are still trying to get the picture taken.]
+104	Monica	 I know. Let’s try a look…of far off…wonderment. Okay, we’ll-we’ll gaze into our future and we’ll think about our marriage and the days to come. (Chandler is still not getting it.) Chandler! What is the matter with your face?! I mean this picture is supposed to say "Geller and Bing to be married," not "Local woman saves drowning moron!" (The photographer laughs.) Hey! Don’t laugh at him! He’s my drowning moron!
+105	Chandler	 Aww! (Smiles.)
+106	Monica	 That’s it! Take it! Take it! Take it!
+107		(Chandler turns to the camera and does The Face.)
+108	[Scene	 Central Perk, Chandler, Monica, and Ross are going over the picture proofs.]
+109	Ross	 I like this one. (Points to it.) It seems to say, "I love you and that’s why I have to kill you."
+110	Monica	 They can’t all be bad. (To Chandler) Find the one where you make your bedroom eyes. Ohh, there it is.
+111	Chandler	 Oh my God! Those are my bedroom eyes?! Why did you ever sleep with me?
+112	Monica	 Do you really want to pull at that thread?
+113		(Phoebe enters with Hums While He Pees also known as Kyle.)
+114	Phoebe	 I’m having a really good time!
+115	Kyle	 Me too! I’m sorry that guy in the subway licked your neck.
+116	Phoebe	 Ohh. No that’s okay, he’s a friend.
+117	Kyle	 Hey uh, I don’t mean to be presumptuous but I have these two tickets to the ballroom dancing finals tomorrow night if you want to go?
+118	Phoebe	 Yeah, I… Well y’know I-I mean I missed the-the semi-finals, so I’d just be lost.
+119	Kyle	 I know it’s really lame, but I got these tickets from my boss and—Oh no! No! No! My God!
+120	Phoebe	 Okay, don’t freak out. I’ll go.
+121	Kyle	 No it’s… Uh, my ex-wife Whitney is out there. I cannot deal with her right now. That woman is crazy!
+122	Phoebe	 Okay, I know. Hold on. (She walks over to the couch.) Hey Ross?
+123	Ross	 Yeah?
+124	Phoebe	 Yeah, umm that’s Whitney (Points), Kyle’s ex-wife out there, now do you think that you can y’know divert her so that we can slip out?
+125	Ross	 What?! No!
+126	Phoebe	 Well okay but I have two tickets to the ballroom dance finals. (She holds up the tickets that Kyle gave her.)
+127	Ross	 Look, I don’t think so Pheebs. (Pause) All right, I’ll do it. But just because you’re a friend. (Grabs the tickets and heads to divert Whitney.)
+128	[Scene	 Ross's apartment, Ross is dancing around his living room as Phoebe enters, catching and startling him.]
+129	Phoebe	 Hi Ginger.
+130	Ross	 All right! I want my key back!
+131	Phoebe	 I don’t have it!
+132	Ross	 It’s right there! (Points to her hand.)
+133	Phoebe	 Ugh, okay Sherlock! (Hands over the key.)
+134	Ross	 Look, I’m sorry but you-you-you better go Pheebs.
+135	Phoebe	 All right, well I just wanted to say thank you though, for diverting Kyle’s ex.
+136	Ross	 Oh yeah—No—You’re welcome. We’ll talk about it later.
+137	Phoebe	 Okay.
+138		(Ross opens the door to reveal Whitney standing there.)
+139	Ross	 Hi Whitney.
+140	Whitney	 Hi Ross! You ready for breakfast?
+141	Ross	 Yep. (Phoebe slams the door shut.) Okay.
+142	Phoebe	 (To Ross) Kyle’s ex-wife? You were supposed to divert her, not date her!
+143	Ross	 (opens the door and to Whitney) Hi! I’m sorry, but can you give me a second while I talk to this woman, who by the way did not spend the night?
+144	Whitney	 Sure.
+145	Ross	 Okay. (Closes the door.) (To Phoebe) I did divert her and we ended up having a great time! Okay?
+146	Phoebe	 Watching ballroom dancing?
+147	Ross	 Yes! That’s where we realized we were both super cool people!
+148	Phoebe	 Well look-look, okay Ross, Kyle just told me some really bad stuff about her.
+149	Ross	 Like what?
+150	Phoebe	 Like she’s really mean, and she’s over critical, and-and—No! She will paint a room a really bright color without even checking with you!
+151	Ross	 Okay.
+152	Phoebe	 And! She uses sex as a weapon!
+153	Ross	 Fine! Thank you for warning me. At breakfast I’ll be on full alert for room painting and sex weapons.
+154	Phoebe	 You’re still gonna go out with her?!
+155	Ross	 Yeah!
+156	Phoebe	 Well, didn’t you just hear what I said?!
+157	Ross	 Pheebs come on! I mean, consider the source! Of course her ex-husband’s gonna say that stuff. Now, if you’ll excuse me…
+158	Phoebe	 (interrupting him) No listen to me! She is crazy!
+159	Whitney	 (outside the door) Uh, your door isn’t sound proof.
+160	Phoebe	 You see? Nothing is good enough for her!
+161	[Scene	 Rachel’s Office, Tag is arriving as Rachel is standing there.]
+162	Tag	 Good morning.
+163	Rachel	 Hi Tag! Hey, so did you have fun with uh, with Joey last night?
+164	Tag	 Oh yeah! We went to the Knicks game.
+165	Rachel	 Ohh that’s nice.
+166	Tag	 Then we went to this bar and he hooked us up with all these women!
+167	Rachel	 Wo-women? You mean like old women?
+168	Tag	 Well kinda old, like 30.
+169	Rachel	 (Pause) Oh.
+170	Tag	 And I never used to be able to just talk to girls in bars, but I got like 20 phone numbers last night.
+171	Rachel	 That’s great! Wow man, so Joey must’ve really taught you some stuff huh?
+172	Tag	 A little.
+173	Rachel	 Yeah?
+174		(A beautiful women walks up.)
+175	Tag	 (To her, in the Joey voice) How you doin’?
+176		Commercial Break
+177	[Scene	 Joey and Rachel's, Joey is teaching Chandler how to smile. Chandler is smiling.]
+178	Joey	 See? That’s a great smile! Easy. Natural. Now, pretend I have a camera. (Chandler immediately does The Face.) You’re changing it!
+179	Chandler	 I can’t help it!
+180	Joey	 All right, all right, all right, all right, you wanna know what I do when I take resume shots?
+181	Chandler	 Borrow money from me?
+182	Joey	 Okay, first—first of all, you want to make it look spontaneous. I look down (Looks down), look down, keep looking down; then I look up. (Looks up and smiles.) See? All right, now you try. Look down (Chandler looks down), you’re looking down, keep looking down…
+183	Chandler	 Why is there jelly on your shoe?
+184	Joey	 I had a donut. (Chandler nods.)
+185	Rachel	 (entering) Hi!
+186	Joey	 Hey!
+187	Chandler	 Hey!
+188	Rachel	 So uh, heard you had some fun with Tag last night.
+189	Joey	 Yeah! That guy’s alright!
+190	Rachel	 Yeah and you had fun teaching him how to be all Joey.
+191	Joey	 What?
+192	Rachel	 Y’know, all the women.
+193	Joey	 Hey well, you can’t teach someone to be good with women. Y’know, that’s why I never had any luck with Chandler.
+194	Chandler	 (Pause) I’m right here!
+195	Rachel	 All right, would-would you mind just not going out with him again? Okay, just the idea of you and he and all these women, it’s just—And I know he’s my assistant and I can’t date him—but it just bothers me, all right?!
+196	Joey	 Hey! No-no-no-no, you can’t take him away from me! I got a great partner to pick up girls with! Finally!!
+197	Chandler	 I’m still right here!
+198	Rachel	 All right, will you, will you at least tell him how hollow and unsatisfying this dating tons of women thing is!
+199	Joey	 (shocked) What?!
+200	Rachel	 I just don’t want him to meet anybody until I am over my crush—And I will get over it. It’s-it’s not like I love him, it’s just physical! But—I mean I get crushes like this all the time! I mean hell, I had a crush on you when I first met ya!
+201	Joey	 I know, Monica told me.
+202	Chandler	 Did you have a crush on me, when you first met me?
+203	Rachel	 Yeah. Sure. (Joey nods his head questioningly and Rachel nods no.)
+204	Chandler	 Can you people not see me?! (He waves his arms around to get their attention.)
+205	Rachel	 (To Joey) So, will you talk to him?
+206	Joey	 I don’t know Rach.
+207	Rachel	 Oh, come on! I’ll give you ten free Ralph Lauren shirts.
+208	Joey	 One! (Pause.) No ten! You said ten! You can’t take that back!
+209	[Scene	 Central Perk, Joey is there as Tag enters carrying a bag.]
+210	Tag	 Hey Joey, you wanted to talk to me?
+211	Joey	 I don’t know. You uh, you got something for me?
+212	Tag	 Oh, yeah, this is from Rachel.
+213		(He hands Joey the bag and he quickly counts its contents.)
+214	Joey	 Ten. Okay. Now Tag there’s such a thing as too many women.
+215	Tag	 Really?
+216	Joey	 Yeah, for you!
+217	[Scene	 The Portrait Studio, Monica is waiting for Chandler to make another attempt at taking a good picture.]
+218	Monica	 (seeing him approach) Hey! There you are!
+219	Chandler	 There I am!
+220	Monica	 Are you okay?
+221	Chandler	 Yeah, Joey said I uh, I needed to relax so he gave me an antihistamine.
+222	Monica	 What?!
+223	Chandler	 Yeah, and then I fell asleep on the subway and went all the way to Brooklyn. Brooklyn is f-far!!
+224	Monica	 Chandler, what were you thinking?
+225	Chandler	 I don’t know, but don’t worry, don’t worry, because I know how to take a picture now. (They get ready) Okay, see? Look down (Looks down), look down, look down… (He falls asleep.)
+226	Monica	 Chandler?
+227	Chandler	 (awakens) Yeah! (Looks up and does The Face.)
+228	[Scene	 Central Perk, Ross and Phoebe are there.]
+229	Phoebe	 Hi.
+230	Ross	 Hi.
+231	Phoebe	 So, how are things going with crazy? Has she cooked your rabbit yet?
+232	Ross	 Listen, you are hearing one side of the story, okay—and F.Y.I she must’ve shown Kyle over 30 paint samples before she painted that room! And his response to each one was, "I don’t give a tiny rat’s ass."
+233	Phoebe	 Yeah well, maybe she should’ve spent a little less time decorating and a little more time in the bedroom.
+234	Ross	 Well, I don’t think we are gonna have that problem, but maybe that’s just because I am not emotionally unavailable!
+235	Phoebe	 You think he’s emotionally unavailable?
+236	Ross	 I think he can be.
+237	Phoebe	 Well, maybe he wouldn’t be if she didn’t bring the office home every night!
+238	Ross	 Well, excuse her for knowing what she wants to do with her life!
+239	Phoebe	 Yeah well, she certainly knew what she was doing New Year’s Eve 1997.
+240	Ross	 (angrily) I knew you were gonna throw that in my face!! That was three years ago! She apologized and she apologized! What more do you want?!!
+241	Phoebe	 (gets up and starts to leave) We want the last six years back!!
+242	Ross	 So do we!! So do we!! (Ross notices a couple has been staring at them.) I’m sorry you had to see that.
+243	[Scene	 Rachel’s Office, Tag is entering.]
+244	Tag	 Good morning Rachel.
+245	Rachel	 Hi! (He hands her her mail) Thanks, hey so uh what’d you do last night?
+246	Tag	 Went out with Joey.
+247	Rachel	 Oh yeah? Another night of bird-dogging the chickas?
+248	Tag	 No. We had a really good talk. I don’t think I’m gonna do that bar scene anymore.
+249	Rachel	 Wow! I did not see that coming.
+250	Tag	 It’s just not really who I am. Y'know, I’ve always been happier when…Why am I telling you this? You don’t care about this stuff.
+251	Rachel	 Oh no, yes I do! I do! I mean, come on go on, you were, you were saying I am happier when uh, y’know?
+252	Tag	 When I’m in a relationship, I love having a girlfriend.
+253	Rachel	 Really?
+254	Tag	 Someone I can spoil, y’know?
+255	Rachel	 Sp-spoil?
+256	Tag	 Uh-huh! Let me ask you something?
+257	Rachel	 Uh-huh.
+258	Tag	 Do you believe that there is one perfect person for everyone?
+259	Rachel	 Well, I-I’m startin’ too.
+260	Tag	 And if that person is already in your life, you should do something about it right?
+261	Rachel	 Yes! Hell yes!
+262	Tag	 All right then, it’s settled.
+263	Rachel	 Okay.
+264	Tag	 I’m gettin’ back together with my ex-girlfriend.
+265	Rachel	 I’d love to!
+266	Tag	 What?
+267	Rachel	 (panics, turns around, picks up the phone, and pretend to talk on it) Hello?! (Listens) Oh, yeah! (To Tag) This is gonna be a while. Excuse me. (Tag leaves and she closes the door behind him, disgustedly.) Yeah!
+268	[Scene	 Central Perk, Ross and Phoebe are there again, only now they’re not talking to each other. Phoebe is loudly stirring her coffee.]
+269	Ross	 My God!
+270	Phoebe	 Oh, I’m sorry. Is that annoying? And speaking about being selfish in bed, how’s Whitney?
+271	Ross	 Well maybe she wouldn’t have to be selfish in bed if someone else knew where everything was!
+272	Phoebe	 Oh he knows! (Quietly) For the most part.
+273		(Kyle and Whitney enter.)
+274	Kyle	 Oh hey! Good, you’re both here.
+275	Whitney	 We kinda need to talk.
+276	Phoebe	 Both of you together?
+277	Ross	 Wh-what’s up?
+278	Whitney	 Well, I went over to Kyle’s last night to pick up a few things and we got to reminiscing…
+279	Kyle	 …we talked through most of the night and we realized that the reason we were so angry at each other was because there are still feelings there. So… (Pause)
+280	Ross	 Oh just say it Kyle!
+281	Kyle	 We’re gonna give it another try.
+282	Phoebe	 What about her whining and her constant need for attention?!
+283	Whitney	 I’m gonna work on that.
+284	Phoebe	 Oh right, because you’re so capable of change.
+285	Ross	 (To Whitney) Y’know, he hums when he pees!
+286	Whitney	 I do know.
+287	Ross	 It makes him miss the bowl, but whatever.
+288	Whitney	 We’re so sorry. (They get up to leave.)
+289	Ross	 That’s all right, we-we don’t need you. In fact, hey I’m over it already.
+290	Phoebe	 Yeah, and y’know what? I don’t give a tiny rat’s ass.
+291	Kyle	 Yeah, we’re gonna go. (They leave.)
+292	Ross	 (To Phoebe) I’m sorry. Ugh, Pheebs, you were, you were right about her. Y’know, she did try to use sex as a weapon! Yeah, I hurt my back a little.
+293	Phoebe	 Oh. Y’know, he hums while he does other stuff to.
+294	Ross	 Yeah, we're better off without them.
+295	Phoebe	 And y’know, even if they break up again, you’d better not let him in your sad men’s club!
+296	Ross	 Divorced men’s club.
+297	Phoebe	 Potato, Potaato. (She’s pronounces potato with the both the short and long As.)
+298		Ending Credits
+299	[Scene	 Central Perk, Phoebe, Chandler, and Joey are there as Monica enters with the local paper that has the engagement picture in it.]
+300	Monica	 Hey guys check it out! My mom sent me the paper!
+301	Phoebe	 Ooh, let’s see it!
+302	Chandler	 Ahhh.
+303	Monica	 Okay. (She opens it up and shows it to them.)
+304	Chandler	 Oh yeah, that looks good.
+305	Phoebe	 You guys make a very attractive couple. (The camera cuts to a shot of the picture and we see that Monica is posing with Joey instead of Chandler.)
+306	Joey	 Yeah, we look great together.
+307	Monica	 Yeah, we really do!
+308	Chandler	 Okay.
+309	Monica	 Wow! Imagine what our kids would look like!
+310	Joey	 Y’know, we don’t have to imagine.
+311	Chandler	 I’m marrying her.
+312	Joey	 We’ll just see.
+313		End

@@ -1,0 +1,315 @@
+1		- More Quiz's- General Updates
+2		- Support This Site!
+3		
+4	[Scene	 Joey and Rachel's apartment]
+5	Chandler	 So, you and Rachel tonight, uh?
+6	Joey	 Yeah. It's actually our first official date
+7	Chandler	 Wow! So tonight may be the night! You're nervous?
+8	Joey	 Naa, no. This is the part I'm actually good at.
+9	Chandler	 What must it be like not to be crippled by fear and self-loathing.
+10	Joey	 (pause) It's OK!
+11	Chandler	 How can you be so confident?
+12	Joey	 Well, I... I know exactly what I'm gonna do!
+13	Chandler	 Really? Like you have a routine?
+14	Joey	 No, no no no no. See. Each woman is different.You have to appreciate their uniqueness.
+15	Chandler	 Really?
+16	Joey	 No, I do six things! First, I look deep in her eyes. Then, I kiss her. Next I take my hand and I softly graze her thigh.
+17	Chandler	 You mean like this? (he starts touching his thigh in a funny and awkard way)
+18	Joey	 NO! Not like that, no no. No, like this. (He starts lightly grazing Chandler's thigh)
+19	Chandler	 Oh, I see what you mean, that's quite nice. (They look at each other, both embarassed)
+20	Joey	 More foosball?
+21	Chandler	 ...and beer!!
+22		OPENING CREDITS
+23	[Scene	Central Perk. Ross and Chandler are on the couch]
+24	Monica	 (entering) Hey!
+25	Ross and Chandler	 Hey!
+26	Monica	 (to Chandler) Hey sweetie! (they kiss)
+27	Ross	 (looking at Monica's legs) WOW!
+28	Chandler	 Hey! Stop staring at my wife's legs! No no! Stop staring at your sister's legs!
+29	Ross	 I'm sorry, it's just... how did you get so tan?
+30	Chandler	 She went on one of those spray-on tan places.
+31	Ross	 Eh, you got a spray-on tan?
+32	Monica	 Chandler gets pedicures!
+33	Ross	 (laughing) Why, why you do, like with the-the toe separators?
+34	Chandler	 (To Monica) Why...why?
+35	Ross	 Still, I can't believe that's sprayed on... I mean, it looks really good. I wonder if I should get one!
+36	Chandler	 Sure, then you should get a mini skirt so you can really show it off.
+37	Ross	 So, do you get colours or just French tips?
+38	Monica	 There. Here's their card.
+39	Ross	 Thanks. (he takes the card) Hey, I know where this place is! It used to be an X-rated video... (pauses when he realizes what he is saying) florist. (he goes away)
+40		(Phoebe enters)
+41	Phoebe	 Hey!
+42	Chandler	 Hey Pheebs!
+43	Monica	 Hey Phoebe!
+44	Phoebe	 Oh, you won't believe who moved back to town.
+45	Monica	 I know, Amanda! Ah! She called me too! She's the worst!
+46	Chandler	 Who's Amanda?
+47	Monica	 She's this girl who used to live in the building before you did. Then she moved to England and she picked up this fake British accent. On the machine this is her message. (she apes Amanda using an awful British accent) "Monica, darling! It's Amanda calling!"
+48	Chandler	 Are you trying to do a British accent?
+49	Monica	 (pause) (to Phoebe) Chandler gets pedicures!
+50	Chandler	 Just so I know, how many more of those can I expect?
+51	Phoebe	 You know what Amanda said to me when she got me on the phone? (apes Amanda in a british accent) "Oh, so sorry to catch you on your Mo-Bile!" If-if you don't wanna get me on my mo-Bile, don't call me on my mo-Bile!"
+52	Monica	 I know, and she's always bragging about all the famous people she's met.
+53	Phoebe	 Oh, I know! "Oh...I slept with Billy Joel". All right, who hasn't?
+54	Monica	 Oh, what are we gonna do! I don't wanna see her!!
+55	Phoebe	 Ugh, Let's just cut her out!
+56	Monica	 What?
+57	Phoebe	 Cut her out of our lives! Just ignore her calls and dodge her 'till she gets the point!
+58	Monica	 Oh, I guess we could try that, but... it seems so harsh! (to Chandler) Have you ever done that?
+59	Chandler	 No, had it done to me though. Feels good !
+60	[Scene	 At the tanning salon. Ross and a male assistant are walking through a hall] Assistant
+61	Ross	 Well... I like how you look, what are you?
+62	Assistant	 Puerto Rican.
+63	Ross	 Two, I think a two.
+64	Assistant	 You've got to face the red light. When the red light goes on the spraying is about to start so close your eyes. When the spraying stops, count to five. Pat yourself down to avoid drip marks then turn around so we can get your back. Got it?
+65	Ross	 Spray, count, pat, then turn, spray, count and pat.
+66	Assistant	 Wow, you catch on quick.
+67	Ross	 Well, I have a PhD, so... (assistant walk out, not impressed by this statement) (Ross takes his bathrobe off and he enters the tanning booth. He stands up in front of the red light and the sprayer starts and sprays his face and torso)
+68	Ross	 One Mississipi, two Mississipi, Three Mis...(the sprayer starts again, spraying him in the face and torso again) WAIT! WAIT! I'm not-I've not finished counting!! (he leaves the booth) (the assistant enters the room)
+69	Ross	 You sprayed my front twice!
+70	Assistant	 You've never turned?
+71	Ross	 No, I barely even got to three Mississippi.
+72	Assistant	 Mississippi? I said count to five'!
+73	Ross	 Mississippilesly? (pause) Well, how bad is it?
+74	Assistant	 Ain't that bad yet, but it keeps getting darker for the next four hours.
+75	Ross	 So, how dark is it gonna get?
+76	Assistant	 You got sprayed with two two' s and...
+77	Ross	 I'm a four?
+78	Assistant	 Yeah, but you're back's a zero. You're gonna wanna even that out.
+79	Ross	 (sarcastically) Really!
+80	Assistant	 You might wanna get back in there.
+81	Ross	 (annoyed) Ok!
+82		(The assistant leaves and Ross goes back in the spray-on tan booth and turns his back to the spray nozzles, facing the back wall)
+83	Ross	 Wait, wait a minute, there's no light on the back wall! How do I know when it's gonna start? Hello? (he slowly turns and the spraying begins, on his face) Ah, oh, ah! (he turns, but then he turns again and is sprayed in the front again) Ah! (he spits and angrily goes out of the spray-on tan booth and the assistant enters the room) The same thing happened again!
+84	Assistant	 You got two more twos?
+85	Ross	 (hysterically) I'm an eight!
+86	[Scene	 Joey’s apartment. Joey and Rachel enter the room] Rachel
+87	Joey	 I thought you paid. (Rachel does not answer and seems puzzled) Ha, guess we won’t be going back there!
+88	Rachel	 So.
+89	Joey	 Yeah.
+90		(Joey and Rachel start kissing)
+91	Joey	 Hey what do you say, we move this onto the likes of the couch?
+92	Rachel	 I say ‘cheesy line’, but ok.
+93		(They move on the couch and start kissing again. Joey does his grazing on Rachel’s thigh and she slaps his hand)
+94	Joey	 What’s the matter?
+95	Rachel	 I am sorry, I don’t know, I am sorry, I don’t know why I did that!
+96	Joey and Rachel	 Okay
+97	Rachel	 Ok, so sorry.
+98		(They start kissing again and, when Joey grazes her thigh, she slaps him on his hand again)
+99	Rachel	 I am sorry! Again... I don't know, I don’t know what happened, I must be nervous!
+100	Joey	 I don’t get it, Chandler loved it!
+101	Rachel	 Ok, ok, ok. I promise, I promise, I promise, I won’t do it again. I really do. I promise. This is gonna be great.
+102	Joey	 Ok.
+103		(They start kissing again and when Joey grazes, she slaps him three times, on the hand, and on both cheeks)
+104	Joey	 (a little giddy) Uh, was that good for you?
+105	[Scene	 Monica’s apartment. Monica and Phoebe are reading magazines when the phone rings and Phoebe reaches to pick it up] Monica
+106	Phoebe	 Oh, yeah. Could be Rachel asking if someone could baby-sit again.
+107	Monica	 It could be Amanda!
+108	Phoebe	 Oh, you’re right! I was just kidding about Rachel. Babysitting is a gas!
+109		(The machine picks up the phone)
+110	Amanda	 Hello Monica. It’s Amanda calling again. I am in the neighborhood hoping I can pop by your flat!
+111	Monica	 You're from Yonkers! Your last name is Buffo-Martisis!
+112	Amanda	 Let’s see.. to assure you get this directly, ring me back on my mobile.
+113	Phoebe	 Ok, don’t hold thy breath!
+114		(Sound of dialing numbers is heard from the speaker of the machine)
+115	Chandler	 Hello? Is someone on the line?
+116	Amanda	 Yes, I was looking for Monica.
+117	Chandler	 Hang on, she’s right here. (he enters the living room and hands the phone to Monica) Someone's on the phone, for ya.
+118	Monica	 We weren’t picking up, it’s Amanda!
+119	Chandler	 (to Amanda) I get pedicures!
+120	Monica	 Hi Amanda! Actually now... it’s... is not a good time. Dinner tomorrow night? (Phoebe mouths 'no') Ok, Phoebe and I will see you then!
+121	Phoebe	 Why, why, why didn’t you just say no!
+122	Monica	 Well, I said 'no' to her coming over now! I couldn’t say 'no' twice! I get this uncontrollable need to please people!
+123	Phoebe	 (leaving) Fine, fine! You would not hold up well under torture!
+124	Monica	 And you would?
+125	Phoebe	 I did!
+126	[scene	 Joey’s apartment. Joey and Rachel are sitting on the couch] Joey
+127	Rachel	 Absolutely! Absolutely. I d... it’s just a little weird, it’s you, and it’s me, it's just gonna take some getting used to.
+128	Joey	 Ok. Well, how, how can we make it easier?
+129	Rachel	 Ok, let’s work from the top down! (Joey nods, but then puzzled because he does not get it) Just work the bra, Joe!
+130	Joey	 Ok, yeah, got it.
+131	Rachel and Joey	 Okay.
+132		(They start kissing and Joey starts to undo her bra, but fails completely)
+133	Joey	 This thing welded shut?!
+134	Rachel	 Okay.
+135	Joey	 All right, turn around, I got to get a look at this thing.
+136	Rachel	 Oh!
+137		(Joey starts trying to undo her bra, but it won’t go.The elastic band snaps back, hurting Rachel.)
+138	Rachel	 Ow!
+139	Joey	 Sorry!
+140	Rachel	 Well this is romantic!
+141	Joey	 I'm sorry! (He stands up) This never happened to me before! I'm an expert at taking off bras! I can do it with one hand! I can do it with my eyes closed! One time I just looked at one, and it popped open! I blame your bra!
+142	Rachel	 It’s a standard issue bra clasp!
+143	Joey	 Then I blame you! Yeah! That's right! You threw me off with all your slapping!
+144	Rachel	 Ok well, well I'm really, I'm sorry about that Joey, but do you think that maybe on some level, you don't want to take off my bra?
+145	Joey	 (contemplates for a few moments what Rachel just said) NAH! I don't have another level!!
+146	[Scene	 Monica and Chandler's apartment] (Chandler is at the table reading; Monica puts some food for him on the table. Ross walks in looking very tanned. Chandler and Monica look up at him smiling.)
+147	Chandler	 Hold on! There is something different.
+148	Ross	 I went to that tanning place your wife suggested.
+149	Chandler	 Was that place... The Sun?
+150	Ross	 Oh! And it gets worse! (Turns his side to Chandler and Monica and pulls up his shirt. There's a distinct line across his body, where his belly is very tanned and his back is very pale.)
+151	Chandler	 Oh My God! You can do a duet of Ebony and Ivory all by yourself!
+152	Monica	 How could you mess this up? It's so easy? You go into the booth, you count to five and you turn around!!
+153	Ross	 (looks at her suspiciously) How do you count to five?
+154	Monica	 One Two Three...
+155	Ross	 (Yells) Damnit! (Goes to the door to leave. Rachel just enters, sees him and starts laughing)
+156	Rachel	 (laughing) oooh! Oh oh!
+157	Ross	 (Still yelling) I Know!
+158	Rachel	 oh oh! What is up with Miss Hawaiian Tropic?
+159	Chandler	 How was your date with Joey?
+160	Rachel	 Well, it was good.. until we got back to our apartment, and then we were fooling around and he started to put his hand up my leg and I kept slapping it away!
+161	Chandler	 You didn't like that?
+162	Rachel	 Well, it wasn't just me, alright? He freaked out too! He couldn't even undo my bra!
+163	Monica	 Wow, really? One time he just looked at my bra and it popped open.
+164		(Chandler starts looking at her bra)
+165	Rachel	 I do not know what's wrong with us, I mean, we have kissed before and that's been great! But this time it was leading somewhere and I was very aware of the fact that it was Joey touching me.
+166	Monica	 Well, you guys have been friends forever. Remember the first time that you kissed Ross? How weird that was? You couldn't stop laughing? You got through that.
+167	Rachel	 (looking thoughtful) Ok, that's true. That's true, we can do this. You're right, you're right, we can do this. We're just gonna power through!
+168		(Joey walks in)
+169	Joey	 Hey Chandler can I talk to you for a second (points to the hall).
+170	Rachel	 (To Joey) No need!! Problem solved, we are powering through (At which point she grabs his hand and pulls him back to their apartment).
+171		(Chandler resumes staring at Monica's bra)
+172	Monica	 (sees what he is doing) Chandler, stop! It is not going to pop open!
+173	Chandler	 (without taking his eyes off the bra) You don't know! (Monica just smiles)
+174	[Scene	 Central Perk.] (Phoebe is sitting on the couch. Monica walks in.)
+175	Monica	 Hey Phoebe!
+176	Phoebe	 Hey!
+177	Monica	 Is Amanda here yet?
+178	Phoebe	 No.
+179	Monica	 (sits down) Oh good. Good, look I'm so sorry, for screwing up that cutting-her-out plan. But I have a new plan. Chandler agreed to call here in a few minutes with an emergency.
+180	Phoebe	 Oh! Well, what kind of emergency that gets us both out of here?
+181	Monica	 Well, what do you think of Mike and Chandler being in a car accident?
+182	Phoebe	 (makes a face) Are you kidding, I love it!
+183		(A blonde woman walks in. Supposedly Amanda)
+184	Phoebe	 Hi!
+185	Monica	 Hi!
+186	Amanda	 Hi! (Phoebe and Amanda hug)
+187	Amanda	 (To Monica) Hello!
+188		(Monica holds her hands out for a hug, but instead of hugging her, Amanda hangs her purse on one of Monica's extended arms.)
+189	Amanda	 (In a fake British accent) It's so nice to see you! Both of you! Look at me. Look how young I look! (gives her coat to Monica as well) Oh gosh! We have so much to catch up on! But first things first
+190	Monica	 (beaming) Yeah! Yeah! His name is Chandler and...
+191	Amanda	 (To Phoebe) Smell my neck! (Phoebe does so) It's not perfume! It's me! It's my natural scent!
+192		(Monica looks shocked)
+193	Phoebe	 Musty!
+194	Amanda	 Oh! Gosh! This is brilliant. Gosh, it's just like old times. I'm so happy you two are friends again!
+195	Monica	 When were we not friends?
+196	Amanda	 Well, it was 1992, and I remember because that was the year I had sex with Evil Knievel (She starts laughing very proudly).
+197	Monica	 Ehm, we were friends in 1992.
+198	Amanda	 (to Phoebe) No I distinctly remember you were dodging her (points at Monica) calls and trying to avoid seeing her.
+199	Monica	 (To Phoebe) You were going to cut me out?
+200	Phoebe	 Well...kinda.
+201	Monica	 Oh My God!
+202	Amanda	 Oh! Bugger. Should I not have said that? I feel like a perfect arse!
+203	Phoebe	 Yeah well, in America you're just an "ass".
+204		(Monica's mobile starts ringing. She picks it up.)
+205	Monica	 (Into the phone) Hello? Chandler, what's wrong? (She listens) Oh my God, are you alright? (listens some more) Yeah, I'll be right there. (She hangs up and speaks to Amanda) I'm so sorry, but Chandler was in a car accident. (She gets up)
+206	Phoebe	 (Also gets up and starts taking her purse) Oh my God. Was Mike with him?
+207	Monica	 Nope! (She turns and leaves)
+208	[Scene	 Joey and Rachel's apartment.] (Joey comes running in.)
+209	Joey	 (To Rachel) Hey!
+210	Rachel	 Hey! Got champagne?
+211	Joey	 Yes ma'am, ready to Power through!
+212	Rachel	 Excellent! Stick it in the ice bucket, the phone is off the hook, and in the interest of powering through (Starts to remove her bra from under her clothes)...
+213	Joey	 Uh! (When she's done she throws her bra at him)
+214	Rachel	 Ok (starts to light some candles) Sexy, sexy, very sexy, sexy. (Claps her hands and jumps at Joey, clearly very excited) Alright! Lets do it!
+215	Joey	 Ok, you're scaring me a little bit.
+216	Rachel	 Oh! Get over it soldier, we've gotta do this! (She pulls him towards her and throws him onto the barcalounger) Ok. Aha! You like that huh?
+217	Joey	 Oh! yeah!
+218	Rachel	 You like that? (She climbs on the barcalounger seductively, putting her knees next to Joey's hips.) Let's take this into high gear (She pulls the barcalounger lever and seat reclines. She puts one of her knees between his legs and begins to kiss his neck.)
+219	Joey	 uh uh!
+220	Rachel	 Yeah baby, I'll show you how we do it!
+221	Joey	 No, no, no! You kneed me in my misters!
+222	Rachel	 What? Oh my God! I'm so sorry. Joey? Are you ok?
+223	Joey	 (He just sits there, legs very close together with a painful look on his face) Soldier down!
+224		[Monica and Chandlers apartment.] (Chandler is sitting on the couch reading. Monica walks in.)
+225	Monica	 We are not friends with Phoebe anymore.
+226	Chandler	 If she asks, I protested a little, but ok!
+227		(Phoebe and Amanda walk in)
+228	Phoebe	 Oh Chandler! Thank God you're alive. Monica, can I talk to you outside for a minute?
+229	Monica	 I have nothing to say to you.
+230	Amanda	 (announces more to herself than anyone else) Wow, my flat is twice this size!
+231	Phoebe	 Please, Monica? In the hall?
+232		(They both walk to the door and enter the hallway.)
+233	Amanda	 Ooh, that accident must have been terrible. You look positively ghastly.
+234	Chandler	 Well, aren't you a treat.
+235	[Scene	 The hallway]
+236	Monica	 I can't believe you tried to cut me out. Why Phoebe, why?
+237	Phoebe	 It was right after we were living together and you were driving me crazy, okay? You were really controlling and compulsive and shrill.
+238	Monica	 I'm still all those things!
+239	Phoebe	 You're also so generous and kind and scrappy!
+240	Monica	 (starts smiling) I am scrappy.
+241	Phoebe	 Exactly! Look, no matter what I tried to do, I couldn't keep you out of my life. Of all the people I have cut out, you were the only one who ever clawed her way back in.
+242	Monica	 It's because I'm scrappy.
+243	Phoebe	 Yeah, you are. And I'm so glad that you fought your way back in, because I don't know what I would do without you.
+244	Monica	 I won't know what I would do without you.
+245		(They hug)
+246	Monica	 Well, I guess we should go back in. When you gave me another chance, I guess we should do the same for Amanda.
+247	Phoebe	 Yeah, I guess you're right.
+248		(They both enter the apartment again, where Amanda is "dancing" for Chandler, but she's really terrible at it)
+249	Amanda	 Can you believe it. I've never had any professional dance training.
+250		(Monica and Phoebe look at each other and leave the apartment again)
+251	[Scene	 A different spray-on tan center] (Glenda, who works here, and Ross are walking to the room with the spray-on tan booth.)
+252	Glenda	 Now, let me explain how this works. You go into the booth, and...
+253	Ross	 I'm gonna stop you right there, Glenda. Okay? Does it look like this is my first time, huh? Now I want 4 two's... and I want them all on my back.
+254	Glenda	 (quietly) Okay...
+255		(Ross enters the room, takes off his robe and enters the booth. He stands with his back to the nozzles and then realises that this booth has nozzles at both sides of the wall)
+256	Ross	 Wait a minute, there's two sets of nozzles, which one is it?
+257		(He turns around frantically from side to side.)
+258	Ross	 Which... which... which... Which one is it?
+259		(He then stops turning, facing one of the nozzles, which starts spraying in this face and front again.)
+260	Ross	 OH! SON OF A BITCH!
+261		(He now turns to the other side, which also starts spraying his face and front.)
+262	[Scene	 Joey and Rachel's] (Joey and Rachel are both sitting on the couch. Joey keeping his knees pressed against each other)
+263	Rachel	 What is the matter with us?
+264	Joey	 Well, I know what's the matter with me.
+265	Rachel	 No, I mean with us, you know. I mean, is it supposed to be this... difficult?
+266	Joey	 I don't know.
+267		(Chandler enters the apartment)
+268	Chandler	 That fake British woman is a real bitch, but she sure can dance... Hey!
+269	Rachel	 Hi! Hey, listen, can we ask you a question? When you and Monica first hooked up, was it weird going from friends to... more than that?
+270	Chandler	 Kinda... you know, sneaking around, having to hide from you guys...
+271	Rachel	 No, no, no... No, I mean... se-x-u-ally...
+272	Joey	 Yeah, was there a part of you that... felt like it was... really wrong?
+273	Chandler	 Actually, no. No, it felt right. You know, it felt like uhm... I can't believe we haven't been doing this the whole time.
+274		(Rachel and Joey are still looking at Chandler, slowly letting his words get to them)
+275	Chandler	 I can tell from your expressions that that's the good news you were hoping for... Well, I'm gonna go continue to... spread the joy.(Chandler leaves the apartment. Joey sighs)
+276	Rachel	 Well, just because it happened that way for them doesn't mean it has to happen that way for us.
+277	Joey	 Yeah, yeah... Absolutely. I mean, just because something's difficult doesn't mean that you quit.
+278	Rachel	 Right, totally.
+279	Joey	 Yeah, so we just keep trying and trying until we... do it.
+280	Rachel	 Yeah, and if doesn't work, then we'll be just one of those couples that never have sex.
+281	Joey	 That's a... pla-an.
+282		(They both stare for a while, and then look at each other)
+283	Joey	 (sighs) Wow... I did not see this coming.
+284	Rachel	 I know.
+285	Joey	 I don't get it. I mean, I was so sure this was what I wanted.
+286	Rachel	 Hmmm... Me too...
+287		(She puts her head on Joey's shoulder and Joey kisses her on her head.)
+288	Rachel	 I wonder how Monica and Chandler could do it?
+289	Joey	 I guess they weren't as good friends as we are.
+290		(Lifts her head from Joey's shoulder)
+291	Rachel	 Aah... I bet you're right.
+292		(They look at each other for a while)
+293	Joey	 So...
+294	Rachel	 Yeah.
+295	Joey	 I love ya.
+296	Rachel	 Love you too... Alright, I'm going to bed.
+297	Joey	 Yeah, me too.
+298		(Rachel gets up, and Joey tries to get up, but halfway up he sits down again.)
+299	Joey	 Ooh, yeah, I'm not going anywhere for a while.
+300		(Joey takes the ice-bucket with the champagne bottle in it and puts it on his sore spot)
+301		ENDING CREDITS
+302	[Scene	 Ross's apartment.] (Ross is reading a National Geographic on his sofa when Chandler knocks on the door.)
+303	Chandler	 Dude, it's Chandler. Let me in.
+304		(Ross's face is now a VERY dark shade of brown.)
+305	Ross	 Go away! I don't want to see anybody.
+306	Chandler	 I know, I went to the tanning place and the same thing happened to me. You have to let me in.
+307	Ross	 Really? Did you count Mississipily?
+308		(Ross walks to the door and opens it.)
+309	Ross	 Dude, you're not tanned.
+310	Chandler	 No, I just had to get a picture of this.
+311		(Chandler holds up a camera and takes Ross's picture.)
+312	Chandler	 I see you later!
+313		(Ross closes the door)
+314		end
+315		

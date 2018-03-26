@@ -1,0 +1,329 @@
+1		- More Quiz's- General Updates
+2		- Support This Site!
+3		
+4		--------------------------------------------------------------------------------
+5	Written by	 Sebastian Jones Produced by
+6		--------------------------------------------------------------------------------
+7	Scene	 Central Perk, everyone except Phoebe is there] Phoebe
+8	All	 Hey!
+9	Rachel	 Hi!
+10	Ross	 Pheebs, what's wrong?
+11	Phoebe	 Oh, I'm just so exhausted from dragging around this... (she shows her ring)HUGE engagement ring!
+12	All	 OH!
+13	Rachel	 My God!
+14	Joey	 Hey!
+15	Rachel	 Congratulations! Wow!!
+16	Ross	 So, did he get on one knee, did he have a speech prepared, or (in a tender way) did he cry? (the guys look at him) Yeah, big surprise, I like proposals!
+17	Phoebe	 Well, it was really sweet, and like the most romantic thing ever.
+18	Joey	 Well, hey! Well... (he takes his mug to toast Phoebe) Here's to Phoebe, who's found the greatest guy in the world! To Phoebe and... (a bit uncertain) I wanna say Mike? (pause) To Phoebe and Mike!
+19	All	 Whoo!
+20	Phoebe	 Thank you! (to Rachel) Oh, and I have something for you!
+21	Rachel	 Mmh-mmh!
+22	Phoebe	 It's, yes, my little black book. It's got the numbers of all the guys I've dated.
+23	Rachel	 Oh, Pheebs, baby, that's nice but, you know what, I think I'm ok. Why don't you give it to one of your other single girlfriends?
+24	Phoebe	 I would, but you're the last one.
+25	Rachel	 (angrily) GIVE ME THE BOOK! (she takes it and start reading) Pablo Diaz, Brady Smith, huh, "Guy-in-van"?
+26	Phoebe	 Oh, my first love!
+27	Rachel	 Oh!
+28	Monica	 What does the red X next to Bob Greenmore's name mean?
+29	Phoebe	 Dead. (everyone is a bit upset) Oh, it's OK, no, he was old, yeah! And he lived a full life, he was in the first wave at Omaha Beach.
+30	Chandler	 Hey, I'm sorry, I should have given you guys my black book when I got married! Although it wasn't so much a book as a... napkin. With Janice's phone number on it.
+31	Rachel	 Phoebe, isn't Jethro Tull a band?
+32	Phoebe	 (proud of herself) Oh yes, they are.
+33		OPENING CREDITS
+34	Scene	 Chandler and Monica's apartment] Chandler
+35	Joey	 (Looking inside the fridge, and we only see his back. Then he closes the door, and we see it's Joey.) Hi sweetie!
+36	Chandler	 Is Monica not here?
+37	Joey	 No.
+38	Chandler	 Oh, then I'll tell you. My agency was bidding for a big account and they got it! It's my first national commercial!
+39	Joey	 Cool!
+40	Chandler	 Yeah, and I don't wanna brag but a lot of the ideas were mine! (silence) Hell, you weren't there? All the ideas were mine!!!
+41	Joey	 That's great! Hey, can you cast me in it?
+42	Chandler	 Oh... I don't know, I really don't think you're right for the part.
+43	Joey	 What do you mean? I can do anything, I'm a chameleon! Huh? (he mimes an old man with a beard) I'm old! (then he yawns) I'm tired! (then he mimes someone who's hot...) Hey, I'm hot (...and cold) I'm cold!! Huh?? Come on! What can't I do?
+44	Chandler	 First of all. Bravo. Uh, but I really don't think you're right for this. The part calls for a stuffy college professor.
+45	Joey	 I can do that! (in a deeper voice) "Hello, I'm your professor. When I'm not busy thinking of important things or... professing. I like to use..." Oh, what's the product?
+46	Chandler	 Software that facilitates inter-business networking e-solutions?
+47	Joey	 (after a long pause he starts miming again) I'm cold!
+48	Scene	 Central Perk. Charlie is sitting on the couch and Ross enters.] Ross
+49	Charlie	 Hey!
+50	Ross	 Guess who's a finalist for a huge research grant! I'll give you a hint, he's looking right at you.
+51	Charlie	 Ah, well, unless it's the creepy guy with his hand up his kilt, I'm gonna say congratulations!
+52	Ross	 Oh, I'm so excited, I mean, apparently I beat out hundreds of other applicants, included five guys I went to graduate school with. Not that I'm keeping score or anything... five!
+53	Charlie	 Wow, that's great! So, tell me about the grant!
+54	Ross	 Well, ok, it's for 25 thousand dollars. And if I get it, I'll finally be able to complete my field research! And there will be an article about me in the "Paleontology Review"! Yeah! That'll be the first time my name is in there, without people raising serious questions about my work!
+55	Charlie	 Wait. Are you talking about the Dewar grant?
+56	Ross	 Yeah. Why?
+57	Charlie	 Benjamin Hobart is administering that grant.
+58	Ross	 Your ex-boyfriend?
+59	Charlie	 Yeah.
+60	Ross	 So, your ex-boyfriend is gonna determine if your new boyfriend gets this grant? Wow, your new boyfriend is screwed!
+61	Charlie	 No, no, we ended up in great terms. I mean, if anything, I think this could help you. You know what? Why don't we all go out to dinner together, and I can introduce you.
+62	Ross	 Well, if you think it would help.
+63	Charlie	 Yes, absolutely. I'll call him.
+64	Ross	 Ok, now, is there anything I can do to... you know, butter him up? Anything he really likes?
+65	Charlie	 Mmh... he does have a pretty serious latex fetish.
+66	Ross	 We'll see how dinner goes.
+67	Scene	 Phoebe's apartment. She is packing a few tings into boxes.] Phoebe
+68	Monica	 Hey, you wanna go to see a movie?
+69	Phoebe	 Well, I told you I had to spend all the day clearing out stuff, so Mike could move in.
+70	Monica	 Oh, right.
+71	Phoebe	 Yeah.
+72	Monica	 Oh, well. Now that I'm here I might as well help you with the cleaning and organizing! Just happen to have my label maker!
+73	Phoebe	 Oh, it's so hard to get rid of stuff! Did you and Chandler have to make compromises when you first moved in together?
+74	Monica	 Uh, Chandler did! What does he want you to give up?
+75	Phoebe	 A bunch of stuff. And the worst one... he wants me to get rid of Gladys.
+76	Monica	 Who's Gladys? (Phoebe shows her a horrific painting with a half-a-body girl dummy coming out of the frame. Monica's frightened and she gasps.) Oh! What a tragic loss!
+77	Phoebe	 Yeah. I really hate to give her up. Oh, I know!! Oh, you should take her!
+78	Monica	 (faking happiness) Well, I-I-I-I... I don't know...
+79	Phoebe	 Why, you don't like her?
+80	Monica	 Well, of course I do. What's not to like! I'll take her in a minute! But, you know, I think that you're giving up too easy, honey. I think that you need to fight for her!
+81	Phoebe	 Really? You think?
+82	Monica	 Absolutely! Yes, you say to him "I'm sorry Mike I can't live without her, she means too much to me!"
+83	Phoebe	 Ok, I'll fight for her. Ok! Oh, wait, oh I just realized... if I do that, that means you don't get her.
+84	Monica	 Damn it, I did not think this through!
+85	Scene	 Central Perk. Rachel, Joey and Emma are there.]
+86	Chandler	 Hey you guys.
+87	Rachel	 Hi!
+88	Joey	 Oh! Any word on casting yet?
+89	Chandler	 Joe, I told you, you're just not right for the part.
+90	Joey	 What do you mean? Rach, don't I seem like a professor you'd buy some kind of e-crap from?
+91	Rachel	 I'm sorry, this sounds like something I'm never gonna be interested in.
+92	Joey(to Chandler)	 Look, c'mon, please? It's not like I'm asking for some crazy favour. This is what I do for a living. I am a professional actor! (he glances at his watch and sees the time) Oh, man, I'm two hours late for work! (he stands, ready to go). Look, here's a copy of my reels. It's got all the commercials that I've been in.
+93	Chandler	 Joe...
+94	Joey	 Just watch it, and if you don't like it, you don't pass it on to your bosses!
+95	Chandler	 Fine!
+96	Joey	 Thank you. (he sits down)
+97	Chandler	 Work, Joe!
+98	Joey	 Damn it! (he leaves)
+99	Chandler(to Rachel)	 What am I gonna do now?
+100	Joey	 Just pass it to your boss!
+101	Chandler	 He's not right for the part. So if I suggest him, my bosses are gonna think I'm an idiot! And that's something they should learn on their own!
+102	Rachel	 Just tell Joey that you watched the tape and you liked it, but your bosses didn't. Then that way, you're the good guy and they're the bad guys.
+103	Chandler	 That's good! I liked it, they didn't. (he sees Joey out of the window hitting on a girl) Joey, for God's sake, go to work! (Joey runs away).
+104	Scene	 A restaurant. Ross and Charlie are waiting for her ex-boyfriend, Benjamin Hobart]
+105	Ross	 I can't believe I'm about to meet Benjamin Hobart. I've always thought of him as one of the people I'd invite to my fantasy dinner party. Do you think there's any chance he'll bring Christie Brinkley or C3PO?
+106	Charlie	 (glances over Ross' shoulder) Sorry, looks like it's just him.
+107	Benjamin	 Charlie! My God, you look absolutely stunning!
+108	Ross	 Well, I... I am having a good hair day.
+109	Benjamin	 So good to see you.
+110	Charlie	 Me too. (she and Benjamin are hugging for very long and Ross starts pretending to clear his throat, until they stop)
+111	Ross	 I'm ok.
+112	Charlie	 I'm sorry... (introduces them to each other) Ross Geller... Benjamin Hobart.
+113	Ross	 It's an honor to meet you. I can't tell you how long I've been an admirer of your work, I mean, that Nobel prize, (he thumbs up) whoooo! I mean, I have to tell you that, you're one of the reasons I got into the field.
+114	Benjamin	 Oh, well, likewise. Actually, not likewise. I've never heard of you until this morning, but, it's nice to be nice!
+115	Charlie	 Shall we? (they sit down and Benjamin takes Ross' chair).
+116	Benjamin	 (to Ross) Thank you! (to Charlie). I can't believe that you chose this restaurant! Do you remember the night?
+117	Charlie	 Oh my God, I completely forgot! (they laugh) Oh my God! I can't believe they let us back in this place! (they laugh more, and Ross start laughing too).
+118	Benjamin(to Ross)	 You weren't there!
+119	Ross	 No, but, it's, you know, it's just a funny image, you know, the two of you, in this restaurant, with... (laughs nervously)tzz-zzz, mmm.
+120	Charlie	 Ross, why don't you tell Benji about your proposal, while I go to the ladies room?
+121	Benjamin	 So, tell me about it.
+122	Ross	 Ok well, I would like to do a dig in the painted desert.
+123	Benjamin	 M-m.
+124	Ross	 See, there are still several areas that haven't been fully excavated.
+125	Benjamin	 Break up with Charlie!
+126	Ross	 What?
+127	Benjamin	 What?
+128	Ross	 Did you just say "break up with Charlie"?
+129	Benjamin	 Well, yes, and now. Yes I did say it, and no, I didn't not say it.
+130	Ross	 Kind of inappropriate, don't you think?
+131	Benjamin	 I'm sorry. I just haven't seen her for so long! All these feelings are rushing back! I'm starting to realize how much I missed her, and I'm gonna need you to break up with her.
+132	Ross	 Are you serious?
+133	Benjamin	 If you say yes then I'm serious, if you say no then I'm joking!
+134	Ross	 No!
+135	Benjamin	 Joking it is!
+136	Scene	 Monica's apartment. Phoebe enters the room.] Phoebe
+137	Monica	 Hey, how did it go with Mike, is he gonna let you keep the painting?
+138	Phoebe	 No, he really hates it. But he's gonna let me keep my box of human hair! So you got to pick your battles. But the good news is, Gladys is yours!
+139	Monica	 Wow, what's the bad news!
+140	Rachel	 Who's Gladys?
+141	Phoebe	 Oh, she's that work of art I made, you know, with the woman coming out of the frame.
+142	Rachel	 (sarcastic)Oh, and Monica gets to keep her? In her house? I am so jealous!
+143	Phoebe	 Oh, I didn't know you wanted her too!
+144	Monica	 Huh!
+145	Rachel	 Well, I mean, sure, of course. But... you already gave that to Monica, so...
+146	Monica	 You know, I would give her up, for you.
+147	Rachel	 No, I couldn't let you do that.
+148	Monica	 But I want to.
+149	Rachel	 But I don't want you to.
+150	Monica	 But I insist!
+151	Rachel	 But I insist harder!
+152	Phoebe	 Girls, girls, stop, ok? We'll flip a coin. Heads, she's Rachel's, tails she's Monica's. (she flips the coin). Tails! Monica, she's yours!
+153	Monica	 No, that landed in your food!
+154	Rachel	 (sarcastic) No, no, that's ok. You won fair and square. I'm so sad!
+155	Scene	 Chandler walks into Joey's apartment] Chandler
+156	Joey	 What's up?
+157	Chandler	 Bad news. I watched the tape and passed it along to my bosses and they weren't interested.
+158	Joey	 (sounds disappointed) Oh.
+159	Chandler	 (Hands the tape back to him) I'm sorry man.
+160	Joey	 (looks at him suspiciously) But, ehm... you watched the tape?
+161	Chandler	 (sounds nervous) Yeah! I... I... I liked it! (Joey continues to look at him suspiciously) But, ehm... my bosses didn't go for it. Stupid sons of bitches!
+162	Joey	 (sounds confident) You didn't watch the tape.
+163	Chandler	 (looks surprised) What!? Of course I did!
+164	Joey	 Look, it's one thing not to cast me, but to lie to me?
+165	Chandler	 I'm not lying to you, I watched it!
+166	Joey	 Well, you lied again! (Rachel comes out of her room and is observing the conversation)
+167	Chandler	 I watched it!
+168	Joey	 Keep going Pinocchio!
+169	Chandler	 (now yelling)(pretending to look shocked) I did!
+170	Joey	 (yelling back) No you didn't! (turns and goes towards his room)
+171	Chandler	 (following him) I'm telling you, I watched the tape. (Reaches Joey's room and Joey slams the door in his face)
+172	Rachel	 Did you watch the tape?
+173	Chandler	 (In a sarcastic "of course not"!-tone) No!
+174	Scene	 Interview room. Ross and two other professors (one man, one woman) are sitting on one side of a long desk. Benjamin Hobart is sitting on the other side] Benjamin
+175	Dr. Li	 Well, I believe that the answers lie in the osteological evidence. I plan to begin there.
+176	Benjamin	 (nods) Interesting.
+177	Ross	 (Rolls his eyes) I guess!
+178	Benjamin	 Dr. Biely, your proposal includes some field work. Where might that take place?
+179	Dr. Biely	 Primarily in the Pierre Shale region of South Dakota.
+180	Benjamin	 Certainly. Very well. And Dr. Geller, when is my birthday?
+181	Ross	 (shocked and confused by the question) What? I... I... (Benjamin looks at him as if to say "What's wrong? Answer the question")
+182	Benjamin	 Care to venture a guess?
+183	Ross	 (annoyed) May 12th?
+184	Benjamin	 (looks surprised and un-impressed) That's not even kinda close! (Ross looks around confused) Dr. Li, how many graduate students you'd be needing?
+185	Dr. Li	 Half a dozen.
+186	Benjamin	 I see, and Dr. Biely?
+187	Dr. Biely	 Three for excavation and two for analysis.
+188	Benjamin	 Certainly. Dr. Geller, which 1965 Shirelles hit was later covered by a popular British invasion band?
+189	Ross	 (even more shocked) Wha..? I need 6 graduate students.
+190	Benjamin	 No! I'm sorry, we were looking for "Baby It's You". Baby It's You.
+191	Ross	 Wha...? Wait, wait, wait, just a minute. None of my questions have anything to do with Paleontology.
+192	Benjamin	 You're right, I apologize. Scratch the last question. Spell "Boscodictiasaur".
+193	Ross	 (annoyed) um... I've never heard of a "Boscodictiasaur".
+194	Benjamin	 Yeah, I just made it up. Spell it.
+195	Ross	 (stares at him angrily) Ok. (determined to spell it correctly) B - O - S ...
+196	Benjamin	 No, it starts with a silent "M".
+197	Ross	 Oh come on!!
+198	Scene	 Joey and Rachel's apartment. Chandler and Rachel are talking.] Chandler
+199	Rachel	 But you are a liar.
+200	Chandler	 What did I just say?
+201		(Joey comes out of his room)
+202	Joey	 You still here?
+203	Chandler	 Yes, and I have to say, I am not just hurt. I am insulted. When I tell somebody I did something...
+204	Joey	 Ok whoah-hey... Let me just stop you right there, ok? First, you lied, right? Then, you lied about lying, ok? Then you lied about lying about lying, ok? So before you lie about lying about lying about lying about... lying... (loses count and begins to count the number of 'lyings' in the air but gives up.)(yelling) Stop lying!
+205	Chandler	 Why are you so sure I didn't watch this tape?
+206	Joey	 (very angry) You wanna know wh...? You wanna know why? (goes back into his room)
+207	Rachel	 Well, this is going well. (Chandler looks worried)
+208	Joey	 (comes out holding the tape) Here's how I know you didn't watch the tape, ok? (puts it into the vcr) If you had seen what was on this tape, believe me, you would have some comments. Alright, now remember, I got paid a lot of money for this and it only aired in Japan. (presses play and he appears on the TV screen and a TV commercial begins)
+209	(The commercial	
+210		Joey says "Ichiban". It displays a few girls dancing around and Joey fills most of the screen, he puts something blue on his lips and smacks them saying "Lipstick For Men!" It goes on to show him playing a guitar and putting on more blue lipstick. In the end he says seductively "Ichiban... Lipstick For Men" and "Sahiko" and it ends. Chandler and Rachel are speechless.)
+211	Joey	 (Yelling at Chandler) And that's how I know you didn't watch the tape! (goes back to his room and slams the door).
+212		(Silence)
+213	Chandler	 He really is a chameleon.
+214	Scene	 Monica's apartment. Phoebe enters carrying the horrific 'painting' of Gladys. Monica and Rachel are sitting on the couch.] Phoebe
+215	Monica	 (faking happiness) Oh, my!
+216	Rachel	 (surprised by how ugly it is) Wow! (sarcastic) Oh, she's so nice and big! Oh, Monica, where are you going to display Gladys oh so proudly? (looks around for a spot)
+217	Monica	 (sounds desperate, knowing what Rachel is trying to do) I haven't really settled on a spot yet!
+218	Rachel	 Well, hey! How about right above the TV? (Points to the spot where her famous French poster is hanging). That way, it will be the first thing that you see when you walk in the door!
+219	Phoebe	 (genuinely excited about it) Yeah, yeah! And you can get rid of that French poster.
+220	Monica	 (offended) I like that poster!
+221	Phoebe	 Really? It doesn't have anything coming out of it. Or maybe there is some place for her in your bedroom?
+222	Rachel	 (jumps at the chance to make that happen) Oh! There's nothing above your bed!!
+223	Monica	 (Impatient with Rachel) Are you still here?
+224	Scene	 Ross' office. Ross is pacing and Benjamin enters]
+225	Ross	 Oh hi! Hello! Uh, have you come to ask me some more paleontology related questions? Uhm... your grandmother's nickname, perhaps? (Now yelling) Aunt Margaret's pants size?
+226	Benjamin	 I've come here to apologize. I think I may have let my feelings for Charlie interfere with the interview process.
+227	Ross	 (Sarcastic) No! Stop!
+228	Benjamin	 Anyway, I've decided to offer you the grant.
+229	Ross	 (Skeptical) Really?
+230	Benjamin	 Well... there is just one small... stipulation...
+231	Ross	 I have to break up with Charlie?
+232	Benjamin	 Hey, you got one right!
+233		(Ross shakes his head)
+234	Ross	 You're crazy.
+235	Benjamin	 Crazy, or... romantic?
+236	Ross	 Crazy!
+237	Benjamin	 Ooor...
+238	Ross	 (Yelling) Get out! (Benjamin leaves)
+239	Scene	 Joey and Rachel's apartment.] (Rachel enters, checking the mail, then looks up and sees Gladys placed on the barcalounger.)
+240	Rachel	 O-oh my God!
+241	Joey	 (enters from his bedroom) What?
+242	Rachel	 Joey, what... is... this...thing... doing here?
+243	Joey	 I got it from Monica. She sold it to me for a very reasonable price.
+244	Rachel	 Joey, we're not keeping this!
+245	Joey	 But it's an original Buffay...
+246	Rachel	 Alright, fine. You can keep it. As long as you don't mind that she's haunted.
+247	Joey	 Hey? what? what? wey! whoo! what? what!?
+248	Rachel	 Well, legend has it Joey, that... she comes alive when you're asleep.
+249		(Joey's eyes are twice their size now, and looks nervously from Rachel to Gladys and back.)
+250	Rachel	 She climbs out of the frame, and then drags her half-a-body across the floor, just looking for legs to steal. (in a spooky, slow voice) And then with her one good hand, she slo-o-owly re-e-a-aches up and turns your doorknob.
+251	Joey	 GET THAT LEGLESS WITCH OUT OF HERE!
+252		(Joey leaves for his bedroom, and Rachel grins. She then takes Gladys and enters Monica's apartment.)
+253	Monica	 Hey! I sold that to Joey.
+254	Rachel	 Well, why I told him it's haunted. Two can play at this game. (gives Gladys to Monica)
+255	Monica	 No, too late. You can't give it back! (she pushes the painting back to Rachel)
+256	Rachel	 Yes I can! (pushes her back again)
+257	Monica	 No you can't. She's yours!
+258	Rachel	 She's yours!
+259	Monica	 SHE'S YOURS!
+260	Rachel	 She's yours!
+261		(While they are both pushing the painting towards each other, Phoebe enters)
+262	Phoebe	 Hey! (there's a pause)
+263	Rachel	 She's mine!
+264	Monica	 She's m-i-i-ne!
+265	Rachel	 She's mine!
+266	Monica	 She's mine!
+267	Phoebe	 You guys! You guys! You don't have to fight over her anymore. (she goes out into the hallway and enters with an even more hideous painting/collage. One of those faceles mannequins heads wearing a blueish dress and orange gloves reaching out into the room. Around the head 3 small dolls are hovering.) Whoever doesn't get Gladys gets Glynnis. (Rachel and Monica are gasping for air at the sight of this monstrous piece of art.)
+268	Rachel	 I want Gladys!
+269	Monica	 She's mine!
+270	Rachel	 She's mine!
+271	Monica	 She's mine!
+272	Rachel	 She's mine!
+273	Scene	 Rachel and Joey's. Joey's home alone, reading a Sports Illustrated magazine when Chandler enters.] Chandler
+274	Joey	 That's not the point Chandler. The point is that you lied.
+275	Chandler	 I know. You're right. What's it gonna take for you to forgive me?
+276	Scene	 Central Perk. Monica, Phoebe and Rachel are on the couch.] Monica
+277		(we see Joey and Chandler standing there, and Chandler is wearing the blue Ichiban lipstick!)
+278	Rachel	 Excellent!
+279	Joey	 Now, what do you say?
+280	Chandler	 Lying is wrong!
+281	Joey	 And?... AND?
+282	Chandler	 I'm a pretty little girl.
+283	Phoebe	 I knew it!
+284	Scene	 Central Perk. Some time later that day. The group has left and Charlie is there when Ross enters.] Ross
+285	Charlie	 Did you get the grant?
+286	Ross	 No I didn't, and you want to know why? Because your ex-boyfriend is still in love with you.
+287	Charlie	 What?
+288	Ross	 Yeah. He wouldn't give me the grant, because I wouldn't give you up.
+289	Charlie	 Benji isn't in love with me. I mean, he broke up with me. And besides, he's a very ethical man.
+290	Ross	 Really? Is it ethical to ask someone in a grant review, who was the voice of "Underdog"?
+291	Charlie	 I'm sure he was just joking, Ross.
+292	Ross	 If you don't believe me, let's go talk to him, okay? I'm telling you, he didn't ask me one paleontological question.
+293	Charlie	 Seriously?
+294	Ross	 Oh, I'm sorry, no. He did ask me one. Uhm... How do you spell Mboscodictiosaur?
+295	Charlie	 Well, if it's like the lake Mbosco in Congo, then M-B-O...
+296	Ross	 Damnit!
+297	Scene	 Benjamin's office. Ross and Charlie are entering.] Benjamin
+298	Ross	 I want you to tell her everything. About the deal you tried to make with me, about the crazy questions you... Wally Cox! That's the voice of Underdog!
+299	Benjamin	 Like I tried to tell you in the interview Ross, this grant is not based on your knowledge of pretty useless trivia.
+300	Ross	 No, no, no. Don't do that! I want you to look her in the eyes, and tell her the truth.
+301	Charlie	 Benji?
+302	Benjamin	 Alright, it's true. I behaved horribly. But it's only because I still love you. And I would do anything to have you back in my life.
+303	Ross	 Too little, too late, Benji!
+304	Charlie	 I can't believe this.
+305	Benjamin	 I never should have broken up with you. I think about you all the time. I mean, do you ever still think about me?
+306	Ross	 (indignant) No!
+307	Charlie	 Yes!
+308	Ross	 What?
+309	Charlie	 I don't know what to say, Benji. This is all so.... romantic.
+310	Ross	 or...
+311	Benjamin	 Listen, I know, I may be way out of bounds here, but is there any chance you will take me back?
+312	Charlie	 Maybe...
+313	Ross	 Sweetie, this conversation is starting to make me a little uncomfortable.
+314	Charlie	 Oh God! I am so sorry, but... (she puts her hand on Ross's cheek) I mean it's... there's so much history between us, you know...
+315	Benjamin	 (puts his hand on Ross's other cheek) I'm sorry too...
+316		(Charlie and Benji both let their hands slide down Ross's face, until their hands meet, and they hold hands.)
+317	Benjamin	 I love you!
+318	Charlie	 I love you too! (and they start to kiss)
+319	Ross	 Okay, that's it. WE ARE SEEING OTHER PEOPLE!
+320		COMMERCIAL BREAK
+321	Scene	 Joey's bedroom. Joey's asleep with Hugsy, the penguin right next to him.] (There are scratching and squeaking noises coming from the living room, and Joey wakes up, terrified. He pulls his blanket higher. The doorknob is turning.)
+322	Joey	 Gladys?
+323		(The door opens, and there is Gladys, still in her frame though. Joey panics and moves frantically, screaming. Then there is laughing, and the painting is lowered. It was Rachel holding Gladys.)
+324	Rachel	 Ha ha ha, third time this week. Man, this does not get old.
+325	Joey	 You're mean!
+326	Rachel	 Oh, don't be such a baby!
+327		(She closes his door again, and turns around. Then she starts screaming, terrified. There is Glynnis... And Monica holding her up, laughing.)
+328		The End
+329		

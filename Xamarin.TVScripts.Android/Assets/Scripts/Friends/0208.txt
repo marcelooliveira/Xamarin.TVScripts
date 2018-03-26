@@ -1,0 +1,260 @@
+1		Originally written by Marta Kauffman and David Crane Trascribed by Mindy Mattingly Phillips [mmatting@indiana.edu] Minor additions and adjustments by Dan Silverstein.
+2	[Scene	 Monica and Rachel's apartment. Phoebe, Monica, and Rachel are there, discussing the night before.]
+3	RACH	 Ross kissed me.
+4	MNCA	 Oh my god, oh my god, oh my god!
+5	RACH	 It was unbelievable!
+6	MNCA	 Oh my god, oh my god, oh my god!
+7	PHOE	 Ok, all right. We want to hear everything. Monica, get the wine and unplug the phone. Rachel, does this end well or do we need to get tissues?
+8	RACH	 Oh, it ended very well.
+9	PHOE	 Oh.
+10	MNCA	 [getting the wine] Do not start without me. Do not start without me.
+11	PHOE	 Ok, all right, let's hear about the kiss. Was it like, was it like a soft brush against your lips? Or was it like a, you know, a "I gotta have you now" kind of thing?
+12	RACH	 Well, at first it was really intense, you know. And then, oh, god, and then we just sort of sunk into it.
+13	PHOE	 Ok, so, ok, was he holding you? Or was his hand like on your back?
+14	RACH	 No, actually first they started on my waist. And then, they slid up, and then, they were in my hair.
+15	PHOE/MNCA	 Ohhhh.
+16	[Scene	 Ross' apartment. Ross, Chandler, and Joey are there eating pizza.]
+17	ROSS	 And, uh, and then I kissed her.
+18	JOEY	 Tongue?
+19	ROSS	 Yeah.
+20	JOEY	 Cool.
+21	[Scene	 Central Perk. Joey, Phoebe, Monica, and Chandler are there; Chandler is showing everyone his new computer.]
+22	CHAN	 All right, check out this bad boy. 12 megabytes of ram. 500 megabyte hard drive. Built-in spreadsheet capabilities and a modem that transmits at over 28,000 b.p.s.
+23	PHOE	 Wow. What are you gonna use it for?
+24	CHAN	 [doggedly] Games and stuff.
+25	MNCA	 [reading the paper] There are no jobs. There are no jobs for me.
+26	JOEY	 [reading over her shoulder] Wait, here's one. Uh, would you be willing to cook naked?
+27	MNCA	 There's an ad for a naked chef?
+28	JOEY	 No, but if you're willing to cook naked, then you might be willing to dance naked. And then... [rubs his fingers together]
+29		[Ross enters, distraught.]
+30	ROSS	 Hi.
+31	PHOE	 Hey, oh, so, um...how'd you make out last night?
+32	ROSS	 That, that is funny. That is painfully funny. No, wait. Wait, yeah, that's just painful
+33	MNCA	 Wait a minute. I thought last night was great.
+34	ROSS	 Yeah, it was, but...I get home, ok, and I see Julie's saline solution on my night table. And I'm thinking to myself, oh my god, what the hell am I doing? I mean, here I am, I am with Julie, this incredible, great woman, who I care about and who cares about me, and I'm like, what, am I just gonna throw all that away?
+35	JOEY	 You got all that from saline solution?
+36	MNCA	 We are talking about Rachel here. You and Rachel.
+37	ROSS	 Believe me, I've been dreaming about me and Rachel for ten years now. But now, I'm with Julie, so it's like me and Julie, me and Rachel, me and Julie, me and... [Rachel enters, carrying a tray]... Rachel. Rachel, Rachel.
+38	RACH	 [to Ross] Hey, you.
+39	ROSS	 How are you?
+40	RACH	 Good. How are you?
+41	ROSS	 Good.
+42		[Julie enters.]
+43	JULIE	 Hi, honey.
+44	ROSS	 Hi, Julie. [nervous] Hi, Julie. Julie, um, how are you?
+45	JULIE	 Good.
+46	ROSS	 [uncomfortable] Good, so everybody's here. Everybody's good. So, were you gonna play something, Phoebe?
+47	PHOE	 Oh, well, actually.
+48	ROSS	 [impatient] Play it.
+49	PHOE	 Ok, all right.
+50	JOEY	 Hey, Julie, I didn't know you wore lenses.
+51	JULIE	 What?
+52	ROSS	 [to Joey] Ssshh.
+53	PHOE	 Ok, um, hi, hello, hi, ok, so, um, this is a song about a love triangle between three people that I made up. Um, it's called, um, "Two of Them Kissed Last Night".
+54		[Ross and Rachel look at each other and then at Phoebe, realizing the song is about their situation.]
+55	PHOE	 [singing] There was a girl, we'll call her Betty, and a guy let's call him Neil. Now I can't stress this point too strongly, this story isn't real. Now our Neil must decide, who will be the girl that he casts aside. Will Betty be the one who he loves truly? Or will it be the one who we'll call Ju...Loolie? He must decide, he must decide, even though I made him up, he must decide!
+56	[Scene	 Mr. Ratstatter's (RTST) office. Monica is there about a job.]
+57	RTST	 This is a nice resume. Nice, nice, nice. Muy impressivo.
+58	MNCA	 So, Mr. Rastatter, what exactly does this job entail? The ad wasn't too clear.
+59	RTST	 Mockolate.
+60	MNCA	 I'm sorry?
+61	RTST	 Mockolate. It's a completely synthetic chocolate substitute.
+62	MNCA	 Ohh.
+63		[He pulls out a piece of Mockolate.]
+64	RTST	 Go ahead. Try a piece. Yeah, we think that Mockolate is even better than chocolate.
+65	MNCA	 All right. Mmm-mmm.
+66		[She tastes it, and obviously hates it.]
+67	RTST	 Yeah?
+68	MNCA	 [disgusted, trying not to show it] I love how it crumbles. Now see, your chocolate doesn't do that.
+69	RTST	 No, ma'am. Well, anyhoo, we should be getting our F.D.A. approval any day now, hopefully, in time for Thanksgiving. See, the way we look at it, chocolate already dominates most of your major food-preparation holidays
+70	MNCA	 [still chewing] Mmm-mmm.
+71	RTST	 But, we're thinking, given the right marketing, we can make Thanksgiving the Mockolate holiday.
+72	MNCA	 Wow.
+73	RTST	 Aren't you going to swallow that?
+74	MNCA	 Just waiting for it to stop bubbling.
+75	RTST	 Yeah, isn't that great?
+76	MNCA	 [with false enthusiasm] Mmm.
+77	RTST	 Well, anyhoo, um, we are looking for a couple of chefs who can create some Thanksgiving-themed recipes. You think you might be interested?
+78	MNCA	 Abso...[swallows hard]...lutely. See, I love creating new recipes. I love Thanksgiving. And, well, now, I love Mockolate.
+79	RTST	 Really?
+80	MNCA	 Especially the after taste, you know, I'll tell ya, that'll last ya till Christmas.
+81	[Scene	 Monica and Rachel's apartment. Monica and Phoebe are there. Monica is suggesting Mockolate recipes to Phoebe.]
+82	MNCA	 How about Mockolate mousse?
+83	PHOE	 It's not, it's not very Thanksgiving-y.
+84	MNCA	 Ok, how about pilgrim Mockolate mousse?
+85	PHOE	 What makes it pilgrim?
+86	MNCA	 We'll put buckles on it.
+87		[Rachel enters.]
+88	RACH	 Hey.
+89	PHOE	 Hey.
+90	MNCA	 Hey.
+91	RACH	 Did uh, Ross call?
+92	MNCA	 No, I'm sorry.
+93	RACH	 Why didn't he call? He's gonna stay with Julie, isn't he? He's gonna stay with her and she's going to be all, "Hi, I'm Julie, Ross picked me, and we're gonna to get married, have a lot of kids and dig up stuff together."
+94	PHOE	 No offense, but that sounds nothing like her.
+95	[Scene	 Chandler and Joey's apartment. Ross is up in arms about the Rachel/Julie situation.]
+96	ROSS	 I don't know what to do. What am I gonna do? I mean, this, this is like a complete nightmare.
+97	CHAN	 Oh, I know. This must be so hard. Oh, no. Two women love me. They're both gorgeous and sexy. My wallet's too small for my fifties, and my diamond shoes are too tight.
+98	JOEY	 Hey, here's a thought, Ross. [reaches for the computer]
+99	CHAN	 Don't touch the computer. Don't ever touch the computer.
+100	JOEY	 Ross, listen. I got two words for you. Threesome.
+101		[Ross gives him an insulted look.]
+102	CHAN	 Ok, all right, look. Let's get logical about this, ok? We'll make a list. Rachel and Julie, pros and cons. Oh. We'll put their names in bold, with different fonts, and I can use different colors for each column.
+103	ROSS	 Can't we just use a pen?
+104	CHAN	 No, Amish boy.
+105	JOEY	 Ok, let's start with the cons, 'cause they're more fun. All right, Rachel first.
+106	ROSS	 I don't know. I mean, all right, I guess you can say she's a little spoiled sometimes.
+107	JOEY	 You could say that.
+108	ROSS	 And I guess, you know, sometimes, she's a little ditzy, you know. And I've seen her be a little too into her looks. Oh, and Julie and I, we have a lot in common 'cause we're both paleontologists, but Rachel's just a waitress.
+109	CHAN	 Waitress. Got it. You guys wanna play Doom? Or we could keep doing this. What else?
+110	ROSS	 I don't know.
+111	JOEY	 Oh, her ankles are a little chubby.
+112	CHAN	 Ok, let's do Julie. What's wrong with her?
+113	ROSS	 [long pause] She's not Rachel.
+114	[Scene	 Monica and Rachel's apartment. Monica has made food for Phoebe and Rachel to taste.]
+115	MNCA	 Ok, this is pumpkin pie with mockolate cookie crumb crust. This is mockolate cranberry cake, and these are mockolate chip cookies. Just like the Indians served.
+116		[Rachel takes a bite.]
+117	RACH	 Oh my god.
+118	MNCA	 Oh my god good?
+119	RACH	 Oh my god, I can't believe you let me put this in my mouth.
+120		[Rachel runs to the sink to spit it out.]
+121	PHOE	 Oh, oh sweet Lord! This is what evil must taste like!
+122	[Scene	 Chandler and Joey's apartment. Chandler is on the phone with a computer hotline.]
+123	CHAN	 I'm telling you this thing won't print. Yes, I pressed that button like 100 times. You know, for a hot line you are not so hot. What? What is that in the background? Are you watching Star Trek?
+124		[Ross enters with a melancholy look.]
+125	JOEY	 [to Ross] Hey, so how'd it go with Julie? Did you, did you break her heart?
+126	ROSS	 Yes, it was horrible. She cried. I cried. She threw things, they hit me. Anyway, I did the right thing.
+127	CHAN	 [in phone] So, Spock actually hugs his father?
+128		[Rachel enters.]
+129	RACH	 Hey, do you guys have...[sees Ross, pauses]...hi.
+130	ROSS	 Hi.
+131	RACH	 [sees his coat on] Where you goin'?
+132	ROSS	 I uh, I just got back from uh, from Julie's.
+133	RACH	 [dejected] Oh.
+134	ROSS	 No, no, uh, it's not what you think. It's um the other thing.
+135	RACH	 Well, what's the other thing, what do I think?
+136		[Joey is looking at Rachel, smiling, and gesturing his head towards Ross.]
+137	ROSS	 Well, uh.
+138	JOEY	 He broke up with Julie. Well, go hug her, for god's sakes.
+139	RACH	 Really?
+140	ROSS	 Really. It's always been you, Rach.
+141		[Ross and Rachel hug.]
+142	RACH	 Oh, god.
+143	JOEY/CHAN	 Ohhh.
+144	RACH	 Oh, oh, this is good, this is really good.
+145	ROSS	 I know, I know, it's, it's almost...[turns around, sees Chandler and Joey] What do you say we go take a walk, just us, not them?
+146	RACH	 Let me get my coat.
+147	ROSS	 Ok. No, hey, whoa, whoa, I'll get your coat.
+148		[Ross leaves.]
+149	RACH	 Ok, he's goin' to get my coat. He's goin' to get my coat. Oh my god, you guys. I can't believe this. This is unbelievable. [notices Chandler's computer screen] What's that?
+150	CHAN	 [nervous] What? Nothing.
+151		[Chandler closes up the laptop computer screen.]
+152	RACH	 What's that? What? I saw my name. What is it?
+153	CHAN	 No, no, see? See? [the printer starts to run] Hey, it's printing. [to Joey, rattled] Hey, it's printing!
+154		[Chandler rips off the sheet of paper from the printer.]
+155	RACH	 Well what is it? Let me see.
+156		[Ross walks back in, Rachel's coat in hand.]
+157	ROSS	 Hey, someone order a coat?
+158	RACH	 Ross, Chandler wrote something about me on his computer and he won't let me see.
+159	ROSS	 He won't? [remembers what it is] He won't! Because, isn't that, isn't that the, the short story you were writing?
+160	CHAN	 Yes, yes it is, short story, that I was writing.
+161	RACH	 And I'm in it? Then let me read it.
+162	CHAN, JOEY, ROSS	 No!
+163	RACH	 Come on.
+164	JOEY	 Hey, uh, why don't you read it to her?
+165		[Ross and Chandler stare angrily at Joey, who thinks he has come up with a good idea.]
+166	CHAN	 [through gritted teeth] Alright. [clears his throat] "It was summer, and it was hot. Rachel was there. A lonely gray couch. 'Oh, look,' cried Ned, and then the kingdom was his forever. The end."
+167	ROSS	 That's it? That's all you wrote? You're the worst writer in the whole world.
+168	RACH	 All right, you know what? This isn't funny anymore. There's something about me on that piece of paper and I want to see it.
+169	ROSS	 No, you don't.
+170	RACH	 All right, you know what, that's fine. If you guys want to be children about this, that's fine. I do not need to see it. [Rachel grabs the paper and runs across the room, reading it to herself.]
+171	RACH	 What is this? Ross, what is this?
+172	CHAN	 Good luck.
+173		[Chandler and Joey leave quickly.]
+174	ROSS	 Ok, just, just remember how crazy I am about you, ok?
+175	RACH	 Kind of ditzy? Too into her looks? Spoiled?
+176	ROSS	 Now that's a little spoiled. He was supposed to type "little", the idiot.
+177	RACH	 Just a waitress?
+178	ROSS	 No, that, that was, I mean, as opposed to uh, the uh, ok. Is this over yet Rach?
+179	RACH	 Oh! I do not have chubby ankles!
+180		[Rachel leaves, and Ross follows her into the hall.]
+181	ROSS	 No, no, wait, ok, ok, look at the other side. Look at Julie's column.
+182	RACH	 She is not Rachem. What the hell's a Rachem? Is that some stupid paleontology word that I wouldn't know because I'm just a waitress.
+183		[She goes into her apartment and slams the door.]
+184	ROSS	 No, Rach, come on. Rach! Rach, no, no! She's not Rachel, she is, she is not, Ra--Rachel?
+185	[Scene	 Central Perk. Chandler, Monica, Joey, and Phoebe are there.]
+186	CHAN	 My diary! My diary, that's brilliant. I should have told her it was my diary, she never would have made me read her my diary.
+187	MNCA	 You know, that's true. You'd be a great person to have around the day after an emergency.
+188	PHOE	 I... I cannot believe Ross even made this list. What a dinkus.
+189	JOEY	 Hey, cut him some slack. It was Chandler's idea.
+190	PHOE	 What?
+191	MNCA	 What?
+192	CHAN	 Oh good, I was hoping that would come up.
+193	MNCA	 This was your idea?
+194	PHOE	 What were you thinking?
+195	CHAN	 [squirming] All right, let's get some perspective here, ok? These things, they happen for a reason.
+196	MNCA	 Yeah. You!
+197	CHAN	 All right, Pheebs, back me up here, ok? You believe in that karma crap, don't you?
+198	PHOE	 Yeah, by the way, good luck in your next life as a dung beetle.
+199	[Scene	 Monica and Rachel's apartment. Rachel is sitting on the couch, eating candy. It is raining out. Ross climbs up the fire escape and is knocking on the window.]
+200	ROSS	 Rach! Whoops! Rach, hey, open up, please!
+201	RACH	 [coldly] When somebody does not buzz you in, Ross, that means go away. That doesn't mean please climb up the fire escape.
+202	ROSS	 I just wanna read something. It's your pro list.
+203	RACH	 Not interested.
+204		[Rachel closes the drapes over the window, goes into her bedroom and closes the door.]
+205	ROSS	 [reading his list] Ok, ok, number one
+206		[Monica, Chandler, Joey, and Phoebe enter, confused.]
+207	ROSS	 Number six
+208	JOEY	 [opens the drapes] Hey, Ross! What are you doin'?
+209	ROSS	 Hey, Joey. You wanna open the window?
+210	JOEY	 Oh, yeah, I do.
+211		[He opens the window, Ross comes in, soaked.]
+212	CHAN	 What are you doing out there?
+213	ROSS	 I am, uh, I am...
+214	MNCA	 Oh, you must be freezing. You know what you need? How about a nice steaming cup of hot Mockolate?
+215		[Ross runs to Rachel's bedroom, knocking on the door.]
+216	ROSS	 Rach, come on, open up. Rach, come on, come on, Rach. You got to give me another chance.
+217		[Rachel opens the door.]
+218	RACH	 No.
+219	ROSS	 No?
+220	RACH	 That's what I said.
+221	CHAN	 Look, maybe we should go?
+222	RACH	 No, you guys, you really don't have to go, we're done talking.
+223	ROSS	 Rach, come on, look, I know how you must feel.
+224	RACH	 [near tears] No, you don't, Ross. Imagine the worst things you think about yourself. Now, how would you feel if the one person that you trusted the most in the world not only thinks them too, but actually uses them as reasons not to be with you.
+225	ROSS	 No, but, but I wanna be with you in spite of all those things.
+226	RACH	 Oh, well, that's, that's mighty big of you, Ross. [to the others] I said don't go!
+227	ROSS	 You know what? You know what? If, things were the other way around, there's nothing you could put on a list that would ever make me not want to be with you.
+228	RACH	 Well, then, I guess that's the difference between us. See, I'd never make a list.
+229		[She closes the door in his face. Ross walks sullenly back to the couch and sits down. A moment of silence ensues.]
+230	JOEY	 [quietly] I never know how long you're supposed to wait in this type of a situation before you can talk again, you know? [Ross stares blankly at him] Maybe a little longer.
+231	[Scene	 Mr. Ratstatter's office. Monica is there.]
+232	MNCA	 Now, in some of these recipes, the quantities may seem just a little unusual, uh, like these coconut mockolate holiday nut bars. I've indicated four cups of coconut, and four cups of crushed nut, and only, uh, one tablespoon of mockolate.
+233	RTST	 Doesn't matter.
+234	MNCA	 What?
+235	RTST	 Our FDA approval didn't come through. Something about laboratory rats.
+236	MNCA	 Oh, gosh, I'm sorry.
+237	RTST	 Yeah, well, anyhoo, here is your check. [hands it to her] Thank you for all the trouble you went through. Um, listen, you didn't eat a lot of it while you were cooking, did you?
+238	MNCA	 Well, uh, I ate some.
+239	RTST	 Oh, some, that's fine. Some is fine. Some is not a lot. So, it doesn't burn when you pee, does it?
+240	[Scene	 Monica and Rachel's apartment. Monica and Rachel are there.]
+241		(phone rings)
+242	MNCA	 Hello?
+243		[Ross is at his apartment.]
+244	ROSS	 Hi.
+245	RACH	 [to Monica] Is that him again? Tell him I'd come to the phone, but my ankles are weighin' me down.
+246	MNCA	 [to Ross] Listen, I... I don't think this is the best time.
+247	ROSS	 Look, can, can you do something for me?
+248	MNCA	 Sure, what? Ok, ok. [hangs up the phone] [to Rachel] Music?
+249		[Monica turns on the radio.]
+250	RADIO	 The next one's dedicated to Rachel from Ross. Rachel, he wants you to know he's deeply sorry for what he did and he hopes you can find it in your heart to forgive him. (With or Without You plays)
+251		[Rachel seems touched. She pauses for a moment, then picks up the phone and starts to dial. Cut to Ross at his apartment.]
+252	RADIO	 Uh, we've just gotten a call from Rachel, and she told us what Ross did. It's pretty appalling, and Ross, if you're listening, I don't wanna play your song anymore. Why don't we devote our time to a couple that stands a chance? Avery, Michelle's sorry she hit you with her car and she hopes you two will work it out.
+253	[Scene	 Mr. Ratstatter's office. Monica is there.]
+254	RTST	 Hi, thanks for coming in again.
+255	MNCA	 Oh, not at all. I have no morals and I need the cash.
+256	RTST	 It's like I'm lookin' in a mirror. Anyway, they're called "fishtachios". They taste exactly like pistachios, but they're made primarily of reconstituted fish bits. Here, try one. You're not allergic to anything, are you?
+257	MNCA	 Cat hair.
+258	RTST	 Oh, sorry.
+259		END
+260	webbot bot="ImageMap" startspan rectangle=" (138,1) (197, 83) http	//thecfsi.com/season2/209towpd.htm" rectangle=" (70,2) (132, 83) http

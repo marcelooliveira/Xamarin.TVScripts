@@ -1,0 +1,350 @@
+1		- More Quiz's- General Updates
+2		- Support This Site!
+3		
+4		--------------------------------------------------------------------------------
+5	Written by	 Robert Carlock & Dana Klein Produced by
+6		--------------------------------------------------------------------------------
+7	[Scene	 Central Perk. Joey's sitting on the couch and Phoebe enters.] Phoebe
+8	Joey	 Uh, hey.
+9	Phoebe	 Listen, I need to ask you something. Ok, you know how my step dad's in prison.
+10	Joey	 (afraid) Yeah.
+11	Phoebe	 Yeah. Well, uhm... listen he was supposed to get a weekend furlough, so he'd come to the wedding tomorrow, but he just called and... uhm... well, apparently stabbing Iceman in the exercise yard just couldn't wait till Monday.
+12	Joey	 So he can't come?
+13	Phoebe	 No, and so there's no one to walk me down the aisle and... well, I would just really love it if you would do it.
+14	Joey	 Seriously?
+15	Phoebe	 Yeah, you've... you know, sort of been like a dad to me. I mean, you've always, you know, looked out for me and shared your wisdom...
+16	Joey	 I am pretty wisdomous.
+17	Phoebe	 So... what do you say?
+18	Joey	 Are you kidding? Phoebe, I would be honored. (they hug)
+19	Phoebe	 Oh, thank you. I hope... I hope you know how much you mean to me.
+20	Joey	 (takes her hand) Listen, I hope... that you know... (has difficulty saying it) I don't want you to see your father cry, GO TO YOUR ROOM!
+21	OPENING CREDITS [Scene	 Central Perk. Phoebe and Joey are sitting on the couch. A waitress brings a coffee and Phoebe wants to pay.] Phoebe
+22	Joey	 Oh no, no, no, let your dad get this.
+23	Phoebe	 (her mobile phone rings) Oh, it's my wedding planner. She's driving me crazy! (she answers) Hello... Hey, ok, stop screaming! Ok? So, halibut. All right, so salmon, either way. I don't-I don't... it doesn't matter to me!
+24	Monica	 (she enters with a headset on and she's speaking into the microphone) Well, it matters to me!
+25	Phoebe	 Well, I don't care, so you pick!
+26	Monica	 Did you just hung up on me? (she hangs up too) All right, look, I need you at the rehearsal dinner tonight at 1800 hours.
+27	Phoebe	 Uh-uh. Ok. What time is that.
+28	Monica	 You don't know military time?
+29	Phoebe	 Why, I must have been in missile training the day they taught that.
+30	Monica	 Just subtract twelve.
+31	Phoebe	 Ok, so... 1800 minus twelve is... one thousand, seven hundred and...
+32	Monica	 (screaming) Six o'clock!
+33	Phoebe	 Ok.
+34	Monica	 Ok. Hold on. (her mobile phone rings) Geller here! No! I said it has to be there by 4 o'clock. Goodbye. (she hangs up) Oh, how hard it is to make an ice sculpture?
+35	Phoebe	 Ice sculpture? That sounds really fancy! I told you I just want a simple wedding.
+36	Monica	 Please... honey, leave the details to me. Now I wanna make this day as special for you as I can. Now, ok, I was thinking that the harpist should wear white.
+37	Phoebe	 What harpist? My friend Marjorie is playing the steel drums.
+38	Monica	 Ooh... she backed out.
+39	Phoebe	 She did? Why?
+40	Monica	 I made her. (Phoebe looks shocked) Steel drums don't really say "elegant wedding". Nor does Marjorie's overwhelming scent.
+41	Phoebe	 (looking angry) Hey! She will shower when Tibet is free.
+42	[Scene	 The wedding rehearsal dinner.] Chandler
+43	Phoebe	 Hey!
+44	Chandler	 You look great. I'm so glad we're having this rehearsal dinner, you know, I so rarely get to practice my meals before I eat them.
+45	Phoebe	 Okay, what did we say was your one gift to us?
+46	Chandler	 No stupid jokes. I thought that was for the actual wedding.
+47	Phoebe	 Rehearse it!
+48	Ross	 Hi! (he kisses Phoebe)
+49	Mike	 Thanks for coming you guys.
+50	Ross	 Oh, (he goes towards Mike in order to shake hands but Mike hugs him) hey, oh... I... I was-I was going for a hand shake.
+51	Mike	 Is that why your hand is pressed against my crotch?
+52	Ross	 That is why!
+53	Mike	 Yeah.
+54	Phoebe	 So Rach.
+55	Rachel	 Yeah.
+56	Phoebe	 Where is Emma?
+57	Rachel	 Oh, Monica made me send her to my mother's. Apparently babies and weddings don't mix.
+58	Monica	 (coming) Are you still crying about your damn baby? Pheebs, you gotta keep the line moving, remember, 20 seconds per person. Your see these clowns all the time! (she takes off)
+59	Joey	 Hey, you're Mike's parents, right?
+60	Mike's mother	 Yes, we are.
+61	Joey	 Ah, our little ones are growing up fast, uh?
+62	Mike's father	 How's that?
+63	Joey	 You know, on the one hand you're happy for them, but on the other hand it's hard to let go.
+64	Mike's father	 Who in God's name are you?
+65	Joey	 Hey, I'm not that fond of you either, ok buddy? But I'm just trying to be nice for the kids!
+66		(Cut to Ross, Chandler and Rachel)
+67	Chandler	 (to Rachel) You know what I just realized? We have no idea what we're doing in the wedding tomorrow.
+68	Ross	 Yeah, I thought we'd be groomsmen, but wouldn't they have asked us by now? When did they ask you to be their bridesmaid?
+69	Rachel	 Uh... November?
+70	Ross	 I wanna say it's not looking good.
+71	Rachel	 Hey Pheebs...
+72	Phoebe	 What's up?
+73	Rachel	 Uhm... you haven't told these guys what they're doing in the wedding yet.
+74	Chandler	 Heh.
+75	Phoebe	 Uhm... well, they're not in the wedding.
+76	Ross	 What? (Ross and Chandler don't know what to say, so there's an embarrassing long pause)
+77	Rachel	 Well, this is really awkward (staring at the floor) Oh, and I can leave!
+78	Phoebe	 I'm sorry you guys but, you know, Mike's got his brother and his friends from school so... you know, you were, you were... if it helps you, you were next in line, you just, you just missed the cut.
+79	Ross	 Oh, man!
+80	Chandler	 This is like figure skating team all over again. (Phoebe and Ross glare at him astonished) I mean synchronized swimming. (they continue to glare) I mean- I mean the balance beam. (to Ross) Help me!
+81	Ross	 FOOTBALL!
+82	Chandler	 Thank you.
+83	Monica	 (looking at Phoebe eating something) Pheebs, spit that out, that has pork in it.
+84	Phoebe	 Oh! I though the pot stickers were supposed to be vegetarian!
+85	Monica	 Yeah, I changed them. I, I sent you a fax about it!
+86	Phoebe	 I don't have a fax machine.
+87	Monica	 Ah, well then there are gonna be a few surprises!
+88	Ross	 I can't believe we're gonna be the only people that aren't in this wedding.
+89	Chandler	 I know, I hate being left out of things.
+90	Ross	 And it's a wedding! It'd be weird if I'm not in it...
+91	Mike	 Hey guys, how is it going?
+92	Chandler	 Fine. We're just sitting here. Alone. Doing nothing. It's our rehearsal for tomorrow.
+93	Mike	 Yeah look, about tomorrow, I... I've got a question for ya. I just found out that one of my groomsmen had had an emergency and can't make it.
+94	Chandler	 What happened?
+95	Ross	 Who cares, AND?
+96	Mike	 ...and I was wondering if... you know, maybe one of you guys...
+97	Ross	 (stands up) I'll do it!
+98	Chandler	 (standing up too) M-Me, me, me!
+99	Mike	 You both wanna do it? Uhm... there's only room for one.
+100	Chandler	 Pick me, I look great in a tux and I will not steal focus.
+101	Ross	 No, Mike, no, no. You wanna pick me, I mean... watch! (he mimics the groomsmen's way of walking down the aisle with a bridesmaid) Huh?
+102	Mike	 You know, I really don't feel very comfortable making this decision. You know, Phoebe knows you better, I'm gonna let her choose. (he leaves)
+103	Ross	 (to Chandler) Well, if Phoebe's choosing, then say hello to Mike's next groomsman.
+104	Chandler	 Oh, I will. But I will need a mirror... as he is me!
+105	Ross	 Please, you're going down!
+106	Chandler	 You are going downer!
+107	Ross	 Is that what they say on the Figure Skating Team?
+108	Chandler	 (almost crying) I wouldn't know, I didn't make it! (they hug)
+109	[Scene	 Wedding rehearsal dinner. Joey and Mike are talking.] Joey
+110	Mike	 Yeah, yeah. Hey, thanks for doing that.
+111	Joey	 Oh, hey, my pleasure. (he suddenly becomes very serious) So what are your intentions with my Phoebe?
+112	Mike	 I intend to marry her.
+113	Joey	 Oh, a wiseacre. (Mike looks bewildered). No, no, no, I understand you plan to support your wife by playing the piano? Isn't that kind of unstable?
+114	Mike	 No more so than acting.
+115	Joey	 Strike two!
+116	Mike	 You're right. She probably will support me. Hey, unless we move in with you, dad?
+117	Joey	 Strike three! You only get one more, Mike!
+118		(Cut to Chandler and Ross. Phoebe comes out of the ladies room and they run toward her.)
+119	Ross	 So, what did you decide?
+120	Phoebe	 I decided to pee.
+121	Chandler	 Mike didn't tell you? You have to choose one of us to be in your wedding. One of his groomsmen fell out.
+122	Phoebe	 Oh no, no. I can't choose between you two! I love you both so much!
+123	Chandler	 Just not enough to put us in the original wedding party.
+124	Phoebe	 Oh, I don't wanna choose! It's (Rachel is walking by). Oh okay, wait. Rach! Listen I have a very special bridesmaid task for you today.
+125	Rachel	 (excited and clapping her hands in front of her face) Goody, what is it!
+126	Phoebe	 Well, there's a spot open for only one groomsman and you have to choose between Ross and Chandler. So good luck with that.
+127	Rachel	 What, what, what, no, I don't wanna do that.
+128	Phoebe	 All right, I guess I'll have to find a new bridesmaid.
+129	Ross	 I'll do it! (Monica approaches)
+130	Monica	 Ok, it's 2100 hours. (to Phoebe) Time for your toast. (Mike appears)
+131	Mike	 Do I have a minute to go to the bathroom?
+132	Monica	 You had a bathroom break at 2030. Pee on your own time, Mike! (to Phoebe and Mike). Now, in regard to the toast, okay, you wanna keep them short, nothing kills a rehearsal dinner like long speeches. Okay. You just get in, do your thing and get out!
+133	Mike	 Is that what you say to Chandler?
+134	Monica	 (very serious) It's 2101 and I am not amused. (pause). Ok, the bride and groom have a few words they'd like to say. (Everyone sits and Phoebe gets up)
+135	Phoebe	 Ok. Hello everyone and thank you all for being here tonight. So tomorrow's the big event and some of you might not know, but Mike and I didn't get off to the best start. (she reads a note). My friend Joey and I decided to fix each other up with friends so I, I... (Monica is twirling her hands in order to make Phoebe speed up her speech) oh I... hum... I gave it a lot of thought and I fixed him up with my friend Mary Ellen who couldn't be here tonight because... (Monica is tapping her watch with her finger) it's not important... she is in rehab. Anyway, so, ok, Joey said that he was fixing me up with his friend Mike, only he didn't have a friend Mike so he just brought, uhm, my Mike and, and (Monica clears her throat) but despite, you know... it got... it got good. Ok, I wanna take a moment to mention my mother, who couldn't be here...
+136	Monica (rolling her eyes)	 oh God.
+137	Phoebe	 And... moment's over! (Rachel, Joey and Chandler all turn and look disapprovingly towards Monica but she just shrugs it off) So, ok, uh, I can forget that. I can forget that and uhm... (she's flipping cards skipping half of them) Oh this is funny! Oh, but you need to know that to... that, to... Oh, ok, well, uhm, I (Monica is miming CUT). Ok, ok, I, ok, I.... MONICA I CAN'T DO IT LIKE THIS! THIS IS MY WEDDING! OKAY, I DON'T WANT THIS (she mimes Monica's when she was twirling her hands) OR THIS (she taps her watch) OR THIS (she mimes CUT) OK? I JUST WANTED A SIMPLE WEDDING! WHERE MY FIANCEE CAN GO TO THE BATHROOM ANYTIME HE WANTS! (pause) You know what? You're done.
+138	Monica	 What?
+139	Phoebe	 YOU'RE FIRED! (mimes the CUT again) (pause and she raises her glass) Cheers! (Chandler raises his, smiling and Monica stares at him and he puts down his glass.)
+140	[Scene	 Joey's apartment. Joey's having breakfast; Phoebe enters the room carrying her wedding dress.] Phoebe
+141	Rachel	 Happy wedding day!
+142	Phoebe	 Oh, happy my wedding day to you!
+143	Rachel	 Okie-dokey, Joey, listen. This is gonna be bridesmaid central, all right? We're gonna have hair and make-up going on in the bathroom and oh, I had to move a couple of things in the fridge to make room for the corsages.
+144	Joey	 Oh, man! I wouldn't have had breakfast if I knew there was going to be corsages!
+145		(Monica enters the room)
+146	Monica	 Hi. About last night... I know you are under a lot of stress and even though the things you said hurt me a little bit... My point is, uh, well, I'm willing to take my job back.
+147	Phoebe	 Oh, well that's ok. I think you and I will do much better if you're just... here as a bridesmaid.
+148	Monica	 Oh, is that so? Ok. If that's really what you want, then here... I give you the headset. Well, I don't really want to give you the headset. Well I guess if you're taking over, you should probably return these messages. (hands her a stack of papers with messages and calls to return)
+149	Phoebe	 Wow, this is a lot!
+150	Monica	 Uh-huh, but I'm sure you can handle this. I mean, I have won awards for my organizational skills, but, uh, I'm sure you'll do fine.
+151	Phoebe	 You won awards?
+152	Monica	 Mm-mh. I printed them out on my computer.
+153		(Ross enters the room)
+154	Ross	 Hey!
+155	Monica	 Hi.
+156	Ross	 Where's Rach?
+157	Monica	 She's in her room, why?
+158	Ross	 I have to talk to her about this groomsman situation, ok? I'm not gonna watch Chandler up there while I'm sitting in the seats like some chump! (he goes to Rachel's room, knocks the door and enters the room). (very fake gasp) Oh! My God! You're breathtaking!
+159	Rachel	 What d'you want?
+160	Ross	 You haven't by any chance chosen a groomsman yet, have you?
+161	Rachel	 Oh, Ross, c'mon, please! Don't make this harder than it already is!
+162	Ross	 I'm not! I'm making it easier! Pick me!
+163	Rachel	 Well, Chandler said that it's really important to him too!
+164	Ross	 Listen, listen. Whoever you pick is gonna walk down the aisle with you! Now, I promise I won't say a word, but if you pick Chandler he's gonna be whispering stupid jokes in your ear the whole time!
+165	Rachel	 Oh, you are the lesser of two evils!
+166	Ross	 (waving his fist in the air in triumph) YES, YES!
+167	[Scene	 Joey's apartment. Phoebe is talking at the phone, Monica is listening amused.] Phoebe
+168	Monica	 I know.
+169		(Mike enters the room).
+170	Mike	 Hey.
+171	Phoebe	 Listen, Mike, if you were Swedish and you were saying the word "lorkins" what flowers would that be?
+172	Mike	 (thinks a moment) Orchids?
+173	Phoebe	 Right there! That's why I'm marrying you!
+174		(Joey comes out from his room)
+175	Joey	 (to Mike) Hello Michael.
+176	Mike	 Joseph.
+177	Joey	 May I have a word with you, please?
+178	Mike	 (looking around the room) This is... great...
+179	Joey	 Have a seat. (Mike sits on his bed, and Joey towers over him. He starts talking in an Italian godfather-type voice) Last night, I tried to welcome you into my family... and instead, you disrespect me... (shakes his head) I cannot allow this.
+180	Mike	 (not amused) Are you rehearsing for some really bad mafia movie?
+181	Joey	 More back talk. And yes, I may be borrowing a few lines from my recent unsuccessful audition for "Family Honor 2
+182	Mike	 Joey, I kinda have a lot to do today, what do you want?
+183	Joey	 I want you to take this seriously! Phoebe is very very important to me, ok? And I wanna make sure that you are gonna take care of her.
+184	Mike	 (gets up) Joe, I love Phoebe. She's the single most important thing in my life. I'd die before I let anything happen to her.
+185	Joey	 (very satisfied and smiling) That's what I wanted to hear! Because she's family, ok, and now you're gonna be family, and there is nothing more important in the whole world, than family.
+186	Mike	 That must have been one lousy movie.
+187	Joey	 (almost crying) That was ME!
+188	[Scene	 Monica and Chandler's apartment. Chandler is pacing and Rachel walks in.] Rachel
+189	Chandler	 Hey, can I talk to you about this groomsman thing? If you pick Ross, he'll walk you down the isle just fine. But if you choose me, you'll be getting some comedy!
+190	Rachel	 Even so, I think I'm gonna pick Ross.
+191	Chandler	 Let me tell you why you need to pick me. (Goes to sit on the couch facing backwards to the kitchen. Rachel gets a chair and sits opposite him) See, when I was a kid, I was always left out of everything, you know, and it really made me feel... insecure. You know, I was always picked last in gym. Even behind that big fat exchange student who didn't even know the rules to baseball. I mean, this guy would strike out and then run to third. Anyway, If I'm the only one left out of this wedding, I just know that all those feelings are gonna come rushing back.
+192	Rachel	 All right fine, I pick you.
+193	Chandler	 (Getting up and raising his fist in victory) Y-Y-YEEESSS! Make "groom" for Chandler.
+194	Rachel	 (not amused by his pun but forcing a smile anyway) Oh my...
+195	[Scene	 Joey and Rachel's apartment. Phoebe is on the phone and Monica is nonchalantly "minding her own business".] Phoebe
+196		(Mike and Joey come out of Joey's room)
+197	Joey	 I'm glad we had this little talk.
+198	Mike	 Yes. Yeah and thanks for all the wedding night advice. (walks away) That didn't make me uncomfortable at all! Alright, so I'll see everybody tonight?
+199	Phoebe	 Okay.
+200	Monica	 Bye.
+201		(Mike opens the door and there is a gigantic ice sculpture standing in the doorway)
+202	Mike	 Uhm, did you guys know that there is a giant ice sculpture in the hall?
+203	Phoebe	 Oh my God, what's it doing here?
+204	Monica	 (Obviously enjoying this setback) Ugh, I guess it got sent to the billing address as opposed to the shipping address. (by now she can barely keep herself from smiling) Uh! What a pickle.
+205	Phoebe	 (starting to panic) Oh my God, everything is such a mess. Why is this happening to me?
+206	Joey	 (staring at the ice sculpture) How bad do you want to stick your tongue on that? (They all glare at him)
+207	[Scene	 Central Perk. Ross is getting coffee at the counter. Chandler walks in.] Chandler
+208	Ross	 (smiling to himself) Good. I'm just getting some coffee. So I'm alert for the wedding.
+209	Chandler	 (smiling to himself too) That's what I was doing too.
+210	Ross	 (barely containing himself at this point) Well, you have fun tonight.
+211	Chandler	 You too.
+212	Ross	 Oh, I will.
+213	Chandler	 Me too.
+214		(They walk passed each other, Ross towards the door, Chandler towards the counter, suddenly they turn around to face each other)
+215	Ross	 Wait a minute, I know why I'm being such an ass, why are you?
+216	Chandler	 I'm not supposed to tell you.
+217	Ross	 I'm not supposed to tell you!
+218		(Cut to Joey and Rachel's apartment. Chandler and Ross storm in looking very unhappy)
+219	Chandler	 You told us both we could be in the wedding? (they both stare at Rachel)
+220	Rachel	 Well, in my defense, you were not supposed to tell each other.
+221	Ross	 Rachel, only one of us can do it, you have to choose. You and me together again. (he winks at her and Rachel looks disgusted)
+222	Chandler	 Rach, Rach, knock knock.
+223	Rachel	 Who's there?
+224	Chandler	 I'll tell you at the wedding.
+225	Rachel	 Uh.
+226		(Mike walks in.)
+227	Mike	 Hey, I forgot my scarf.
+228	Rachel	 You know what, I can't do this. I don't know which one of you guys to pick.
+229	Mike	 Oh, you haven't picked yet. Oh good, 'cause I had an idea. I thought it would be fun if the third groomsman was my family dog. Chappy.
+230	Ross	 What? A dog? No! Rachel gets to choose.
+231		(all eyes turn to Rachel)
+232	Rachel	 (sarcastic) Wow, this is a tough one. I think I'm gonna have to go with the dog.
+233		(Ross and Chandler look shocked)
+234		(Cut to Phoebe who is in the living room, still on the phone.)
+235	Phoebe	 Alright, wait, so what you're saying is that the chef is at the Hamilton Club, but the food is not and the drinks are there, but the bartender is not? Are you, are you FREAKING KIDDING ME!?
+236	Monica	 (enjoying what she's seeing) How's it going?
+237	Phoebe	 (to Monica) Help me.
+238	Monica	 What?
+239	Phoebe	 I want you to be Crazy Bitch again.
+240	Monica	 (Sounds moved) Really?
+241	Phoebe	 (Nearly in tears) Please?
+242	Monica	 You really want me to come back?
+243	Phoebe	 More than I wanna get married.
+244	Monica	 Ok people, we are back in business! (Gets her headset out of her purse) Oh God, we've missed you soo much! (takes all the notes from Phoebe) Ok, go and get your hair and make-up done, and I'll take care of everything.
+245		(Joey walks in)
+246	Joey	 Hey, what are you guys gonna do?
+247	Phoebe	 (sounds scared already) About what?
+248	Joey	 The blizzard. I just saw on the news, it's like the worst snow storm in 20 years! They already closed all the bridges and tunnels. (Opens the curtains to reveal a snow storm outside)
+249	Monica	 Ooh! But the band and the photographer are coming all the way in from New Jersey!
+250	Joey	 I don't think they are.
+251	Ross	 (to Rachel) Haha! Looks like you're not going to be in the wedding either. (Looks at Phoebe) So sorry Pheebs.
+252	[Scene	 Monica's apartment. They are all sitting around.] Monica
+253	Joey	 Yeah according to the news, most of the city did.
+254	Rachel	 Since when do you watch the news?
+255	Joey	 Uh, for your information, since they hired a very hot weather girl.
+256	Ross	 (To Phoebe and Mike) I can't believe you guys aren't going to be able to get married today.
+257	Phoebe	 I know.
+258	Rachel	 Wow, you know, it's so beautiful out there. You always wanted to get married outside. Why don't you guys just do it on the street?
+259	Phoebe	 What?
+260	Rachel	 Well, look, it's hardly snowing anymore. I mean you couldn't ask for a more romantic setting. This could be the simple wedding you've always wanted!
+261	Phoebe	 (Turning to Mike) What do you think?
+262	Mike	 I think I wanna get married to you today.
+263	Phoebe	 Me too! (turning to Monica) Monica, do you think we could do it?
+264	Monica	 (thinking) AFFIRMATIVE!
+265	[Scene	 Outside. They are a bunch of people arranging chairs, shoveling snow and making other preparations.] Monica
+266	Mike's mom	 Michael!
+267	Mike	 Hey! You made it. Great! Chappy! Hi! (kisses his dad) Hi! (kisses his mom) Mom, I know getting married in the street isn't something you approve of...
+268	Mike's mom	 No... It's lovely. The lights and the snow. I could look at them forever.
+269	Mike's dad	 (leans in towards Mike) I crushed a pill and put it in her drink... (to his wife) Come on, sweetheart.
+270	Mike	 (to Chandler and Ross) You know, Chappy's too small to handle all this snow. Someone's gonna have to walk him down the aisle.
+271	Chandler	 So technically, would this person be in the wedding?
+272	Mike	 I guess.
+273	Chandler and Ross	 I'll do it!
+274	Ross	 No, but Chandler, hello... Aren't you scared of dogs?
+275	Chandler	 I'm not scared. (moves towards Mike and Chappy) I'll just take little Chappy and... (he backs out) HE CAN SENSE MY FEAR. MY THROAT IS EXPOSED.
+276	Ross	 (takes Chappy from Mike) Well, I guess I'm in the wedding then. Ha haaa... (smells Chappy) He stinks!
+277	Monica	 Level 1 alert. I repeat, level 1. This is not a drill. Okay we've got a situation. The minister just called. He's snowed in. He can't make it.
+278	Mike	 Oh, no!
+279	Joey	 Oh hey, don't worry. I'm still ordained from your wedding.
+280	Monica	 Really?
+281	Joey	 Yeah, you'd think I'd give up being a minister and start paying to ride the subway? Uhh-uh...
+282	Ross	 Uhm, ministers don't ride the subway for free.
+283	Joey	 I had to read the Bible pretty carefully, but... yeah we do.
+284	Monica	 Okay, if Joey does the ceremony, then we have to find someone else to walk Phoebe down the isle.
+285	Chandler	 (quickly) I'll do it.
+286	Ross	 I'll...
+287	Chandler	 (to Ross) Na ha ha... (to Chappy) Ne he he... (Ross moves Chappy to Chandler, who quickly backs away) Ah ah...
+288	Monica	 Okay, Mike and Joey, get in position. Chandler, come with me. (they walk off, Ross looks down to Chappy, who he's holding and he gets a whiff of the dog's smell. He is clearly disgusted by it.)
+289		(Cut to inside Central Perk where Rachel is helping Phoebe. Chandler and Monica enter.)
+290	Monica	 Okay, Joey's doing the ceremony and Chandler's giving you away.
+291	Phoebe	 Oh, okay. Hi new dad. (Chandler waves)
+292	Monica	 So, you're ready to do this?
+293	Phoebe	 Uhuh, uhuh... Oh my God! This is really happening.
+294	Rachel	 Oh Phoebe, I'm so happy for you honey. (she gives her a kiss)
+295	Phoebe	 Oh, thank you.
+296	Monica	 I love you. (Phoebe leans in to kiss her.) Oh, wait, wait, wait! No hugs. The dresses... Oh what the hell. (the girls hug)
+297	Phoebe	 I love you guys.
+298	Rachel and Monica	 I love you.
+299	Monica	 Okay. (in her microphone) It's zero hour. All teams execute on my count. (to all) Let's get this bad boy on the road.
+300	Chandler	 (to Monica) Is it okay that I want you to wear that head set in bed tonight?
+301	Monica	 (checking her clipboard) I have you scheduled for nudity at 2300 hours.
+302	Chandler	 Oh yeah! (Monica walks outside)
+303	Monica	 Okay Marjorie, hit it.
+304		(A woman with a steel drum and a guy with a xylophone start playing an instrumental version of "Can't Help Falling In Love" by Elvis Presley. A bridesmaid and a groomsman walk down the isle. Next are Rachel and Ross, who carries Chappy in his arms.)
+305	Rachel	 Geez Ross, you could have showered.
+306	Ross	 It's the dog.
+307		(we cut to Monica)
+308	Monica	 Groomsman, groomsman, why are you just standing there, where is your bridesmaid? (into microphone) We've got a broken arrow. Bridesmaid down! (realizes) Oh, that's me.
+309		(She walks down the aisle with the groomsman. We cut to inside Central Perk, where Phoebe and Chandler are waiting.)
+310	Chandler	 Ready?
+311	Phoebe	 (nervously) Okay.
+312	Chandler	 Okay.
+313	Phoebe	 Oh wait, oh no. Wait.
+314		(She takes off the coat she was wearing over her wedding dress, which is violet and has a darker shade petticoat underneath which shows at one side where the dress is lifted up to about the height of her hip and connected to the petticoat. She's wearing a veil over her curly hair and a low cut top with straps only just hanging over her shoulders.)
+315	Chandler	 Wow! Aren't you gonna be cold?
+316	Phoebe	 I don't care... I'll be my something blue.
+317	Chandler	 You look beautiful.
+318	Phoebe	 Thank you.
+319		(They start to leave Central Perk. The band starts to play "Here, There and Everywhere" by the Beatles. The crowd rises from their seats. Phoebe and Chandler walk down the aisle. Phoebe really glows with happiness. So does Mike who watches her walk down the isle. When Phoebe and Chandler arrive, they kiss and Phoebe walks to her bridesmaids.)
+320	Mike	 My God! Aren't you freezing?
+321	Phoebe	 Na-ah.
+322		(the music ends)
+323	Joey	 Friends, family, dog... Thank you all for being here to witness this blessed event. The cold has now spread to my special place... so I'm gonna do the short version of this. Phoebe and Mike are perfect for each other. And I know I speak for every one here... when I wish them a lifetime of happiness. Who has the rings?
+324		(one of the groomsmen gives the rings to Joey)
+325	Joey	 (whispering to Phoebe) Okay...
+326	Phoebe	 When I was growing up, I didn't have a normal mom and dad, or a regular family like everybody else, and I always knew that something was missing. But now I'm standing here today, knowing that I have everything I'm ever gonna need... You are my family. (She puts the ring on Mikes finger)
+327	Mike	 Phoebe you're so beautiful. You're so kind, you're so generous. You're so wonderfully weird. Every day with you is an adventure, and I can't believe how lucky I am, and I can't wait to share my life with you forever. (He puts the ring on Phoebe's finger.)
+328	Phoebe	 Oh wait, oh I forgot... and uhm... I love you... and you have nice eyes.
+329	Mike	 I love you too.
+330	Ross	 Uh Joey...
+331	Joey	 Yeah?
+332	Ross	 Chappy's heart rate has slowed way down.
+333	Joey	 Oh, okay. Phoebe, do you take this man to be your husband?
+334	Phoebe	 I do.
+335		(Joey has a "Yeah you do" smile on his face)
+336	Joey	 Mike, do you take this woman to be your wife?
+337	Mike	 I do.
+338	Joey	 I now pronounce you... husband and wife.
+339		(Phoebe and Mike kiss)
+340	Phoebe	 I got married! (everyone applauds) Could someone get me a coat, I'm freaking freezing.
+341		(Mike takes off his coat to give to Phoebe and the steel band plays "The Wedding Song")
+342	COMMERCIAL BREAK [Scene	 The hallway between the two apartments. Chandler and Joey are walking up the stairs.] Chandler
+343	Joey	 It was, yeah. I kind of don't want it to end. Hey, you wanna come in for a drink and a bite of corsage?
+344	Chandler	 I'd love to, but it's 2300 hours and I'm about to have the most organized sex anyone's ever had.
+345	Joey	 Nice. Oh hey, what about Ross?
+346	Chandler	 I don't know. Maybe he hooked up with that hot girl he was talking to.
+347		(cut to the street in front of Central Perk where Ross is walking Chappy. He has a plastic bag in his hand.)
+348	Ross	 Come on Chappy, do your business. MAKE! MA-AKE! I did not sign on for this.
+349		THE END
+350		

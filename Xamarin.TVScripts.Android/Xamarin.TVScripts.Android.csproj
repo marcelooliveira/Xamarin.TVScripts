@@ -82,136 +82,10 @@
     <AndroidResource Include="Resources\drawable\xamarin_logo.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0101.txt" />
-  </ItemGroup>
-  <ItemGroup>
     <AndroidAsset Include="Assets\Episodes.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable\ALEX.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable\ANALUCIA.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable\ANA.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable\BEN.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable\BERNARD.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable\BOONE.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable\CHARLIE.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable\CHARLOTTE.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable\CHRISTIAN.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable\CLAIRE.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable\DANIEL.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable\DANIELLE.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable\DAVID.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable\DESMOND.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable\EKO.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable\FARADAY.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable\GALE.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable\HURLEY.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable\ILANA.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable\JACK.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable\JACOB.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable\JIN.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable\JULIET.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable\KATE.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable\KEAMY.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable\LAPIDUS.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable\LIBBY.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable\LOCKE.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable\MICHAEL.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable\MIKHAIL.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable\MILES.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable\NoPic.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable\RICHARD.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable\ROGER.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable\ROSE.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable\SAWYER.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable\SAYID.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable\SHANNON.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable\SUN.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable\TOM.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable\WALT.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable\WIDMORE.jpg" />
+    <AndroidResource Include="Resources\drawable\_nopic.jpg" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Acr.UserDialogs">
@@ -231,379 +105,620 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable\triangle.png" />
+    <AndroidResource Include="Resources\drawable\_triangle.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable\mask.png" />
+    <AndroidResource Include="Resources\drawable\_mask.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable\triangle_inverted.png" />
+    <AndroidResource Include="Resources\drawable\_triangle_inverted.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable\episode_background.png" />
-  </ItemGroup>
-  <ItemGroup>
+    <AndroidAsset Include="Assets\Scripts\Friends\0101.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0102.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0103.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0104.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0105.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0106.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0107.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0108.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0109.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0110.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0111.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0112.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0113.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0114.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0115.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0116.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0117.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0118.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0119.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0120.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0121.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0122.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0123.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0124.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0201.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0202.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0203.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0204.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0205.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0206.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0207.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0208.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0209.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0210.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0211.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0212.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0214.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0215.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0216.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0217.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0218.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0219.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0220.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0221.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0222.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0223.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0301.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0302.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0303.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0304.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0305.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0306.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0307.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0308.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0309.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0310.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0311.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0312.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0313.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0314.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0315.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0316.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0317.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0318.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0319.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0320.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0321.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0322.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0401.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0402.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0403.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0404.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0405.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0406.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0407.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0408.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0409.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0410.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0411.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0412.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0413.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0501.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0502.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0503.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0504.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0505.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0506.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0507.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0508.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0509.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0510.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0511.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0512.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0513.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0514.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0515.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0516.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0601.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0602.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0603.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0604.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0605.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0606.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0607.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0608.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0609.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0610.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0611.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0612.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0613.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0614.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0615.txt" />
     <AndroidAsset Include="Assets\Seasons.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0102.txt" />
+    <AndroidResource Include="Resources\drawable\_poster.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0103.txt" />
+    <AndroidResource Include="Resources\drawable\_season9.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0104.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0224.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0105.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0323.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0106.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0324.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0107.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0325.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0108.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0414.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0109.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0415.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0110.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0416.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0111.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0417.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0112.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0418.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0113.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0419.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0114.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0420.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0115.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0421.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0116.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0422.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0117.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0423.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0118.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0517.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0119.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0518.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0120.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0519.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0121.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0520.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0122.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0521.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0123.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0522.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0124.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0523.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable\poster.jpg" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0617.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0201.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0618.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0202.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0619.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0203.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0620.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0204.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0621.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0205.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0622.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0206.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0623.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0207.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0624.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0208.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0701.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0209.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0702.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0210.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0703.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0211.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0704.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0212.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0705.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0213.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0706.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0214.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0707.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0215.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0708.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0216.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0709.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0217.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0710.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0218.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0711.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0219.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0712.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0220.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0713.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0221.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0714.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0222.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0715.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0223.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0716.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0301.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0717.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0302.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0718.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0303.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0719.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0304.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0720.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0305.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0721.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0306.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0722.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0307.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0723.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0308.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0801.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0309.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0802.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0310.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0803.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0311.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0804.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0312.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0805.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0313.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0806.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0314.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0807.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0315.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0808.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0316.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0809.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0317.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0810.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0318.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0811.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0319.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0812.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0320.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0813.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0321.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0814.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0322.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0815.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0401.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0816.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0402.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0817.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0403.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0818.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0404.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0819.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0405.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0820.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0406.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0821.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0407.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0822.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0408.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0823.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0409.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0901.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0410.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0902.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0411.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0903.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0412.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0904.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0413.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0905.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0501.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0906.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0502.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0907.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0503.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0908.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0504.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0909.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0505.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0910.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0506.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0911.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0507.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0912.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0508.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0913.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0509.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0914.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0510.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0915.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0511.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0916.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0512.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0917.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0513.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0918.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0514.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0919.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0515.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0920.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0516.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0921.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0601.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0922.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0602.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0923.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0603.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\0924.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0604.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\1001.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0605.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\1002.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0606.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\1003.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0607.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\1004.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0608.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\1005.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0609.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\1006.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0610.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\1007.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0611.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\1008.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0612.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\1009.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0613.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\1010.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0614.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\1011.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0615.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\1012.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\Scripts\Lost\0616.txt" />
+    <AndroidAsset Include="Assets\Scripts\Friends\1013.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable\Season6.png" />
+    <AndroidAsset Include="Assets\Scripts\Friends\1014.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable\Season5.png" />
+    <AndroidAsset Include="Assets\Scripts\Friends\1015.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable\Season4.png" />
+    <AndroidAsset Include="Assets\Scripts\Friends\1016.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable\Season3.png" />
+    <AndroidAsset Include="Assets\Scripts\Friends\1017.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable\Season2.png" />
+    <AndroidAsset Include="Assets\Scripts\Friends\1018.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable\Season1.png" />
+    <AndroidResource Include="Resources\drawable\_season8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\_season7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\_season6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\_season5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\_season4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\_season3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\_season2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\_season10.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\_season1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\Amy.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\Ben.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\Carol.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\Chandler.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\Charlie.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\David.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\Elizabeth.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\Emily.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\Erica.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\Frank.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\Gary.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\Gunther.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\Janice.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\Janine.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\Jill.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\Joanna.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\Joey.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\Joshua.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\Kathy.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\Mike.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\MNCA.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\Mona.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\Monica.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\MR. GELLER.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\Mrs. Geller.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\NoPic.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\Paul.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\Pete.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\PHOE.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\Phoebe.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\RACH.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\Rachel.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\Richard.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\Ross.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\Susan.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\Ursula.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <PropertyGroup>

@@ -1,0 +1,292 @@
+1	Teleplay by	 Seth Kirkland Story by
+2	[Scene	 Chandler's bedroom, he is giving Monica a massage.]
+3	Monica	 I can't believe we've never done this before! It's sooo good! So good for Monica!
+4		(Chandler picks up the timer being used and turns it to zero at which it chimes.)
+5	Chandler	 Oh! Look at that, time's up! My turn!
+6	Monica	 That was a half an hour?
+7	Chandler	 It's your timer.
+8		(They change places.)
+9	Monica	 Y'know, I don't like to brag about it, but I give the best massages!
+10	Chandler	 All right, then massage me up right nice!
+11		(She starts the massage, only she is doing extremely hard and Chandler is gasping in pain.)
+12	Chandler	 Ah! Ahh!! Ahh!!
+13	Monica	 It's so good, isn't it?
+14	Chandler	 It's so good I don't know what I've done to deserve it!
+15	Monica	 Say good-bye to sore muscles!
+16	Chandler	 Good-bye muscles!!
+17		Opening Credits
+18	[Scene	 Central Perk, Chandler and Joey are sitting on the couch.]
+19	Chandler	 I'm telling you, she gives the worst massages ever!! Okay, it was like she was torturing me for information. And I wanted to give it up I just—I didn't know what it was!
+20	Joey	 Chandler, if it really hurts that bad you should just tell her.
+21	Chandler	 Look, for the first time in my life I'm in a real relationship. Okay, I'm not gonna screw that up by y'know, telling the truth.
+22	Ross	 (walking up with Rachel and carrying coffee) Hey.
+23	Joey	 Whoa, dude, look out! You almost crushed my hat! (He picks a hat up from the floor. It's one of those magician stovepipe hats.)
+24	Ross	 Sorry.
+25	Chandler	 (examining the hat) And the bunny got away. (Turns and starts looking for the bunny as Joey puts the hat on.)
+26	Ross	 (glaring at Joey) This would be the place where you explain the hat.
+27	Joey	 Oh! Yeah, look there's this play all right? And I'm up for the part of this real cool like suave international guy. A real clothes horse. So I figure that everyone at the audition is gonna be wearing this kinda y'know, ultra-hip, high fashion stuff.
+28	Chandler	 And you're gonna make them all disappear.
+29	Joey	 Yeah, like you could find something as sophisticated as this.
+30		(Chandler picks up a basket from the table and puts it on his head.)
+31	Chandler	 Done.
+32	Rachel	 Joey, if you wanna look good, why don't you just come down to the store? I'll help you out.
+33	Joey	 Great! Thanks, Rach!
+34	Rachel	 Sure! (Pause) God, please take those off!
+35	Joey	 All right.
+36		(Both of them remove their hats as Phoebe enters.)
+37	Ross	 Hey Pheebs, how's it going?
+38	Chandler	 Hey.
+39	Phoebe	 Hey! Umm, well, only okay because I just got back from, from the hospital.
+40		(All at once.)
+41	Rachel	 What?
+42	Ross	 Is everything okay?
+43	Joey	 Are you all right?
+44	Phoebe	 Oh yeah, no-no-no. I'm fine. I'm okay, but umm, my Grandma sorta died.
+45	Joey	 Pheebs! Sorry!
+46	Phoebe	 It's okay, I mean she had a really incredible life. And it's not like I'm never gonna see her again, y'know she's gonna visit.
+47	Rachel	 Well maybe, maybe she's with us right now?
+48	Phoebe	 Yeah, her first day on a new spiritual plane and she's gonna come to the coffeehouse!
+49	Monica	 (entering, in a hurry) Guys! Guys! I just saw two people having sex in a car right outside.
+50	Ross	 Uhh, Pheebs' Grandmother just died.
+51	Monica	 Ohh my God, I'm so sorry.
+52	Phoebe	 It's okay. Actually y'know what, it's kinda cool. 'Cause it's like y'know, one life ends and another begins.
+53	Monica	 (to the guys) Not the way they're doing it. What, what happened? How did she die?
+54	Phoebe	 Well umm, okay we were in the market and she bent down to get some yogurt and she just never came back up again.
+55	Joey	 Pheebs, I'm so sorry.
+56	Phoebe	 It was really sweet. The last thing she said to me was; "Okay dear, you go get the eggs and I'm gonna get the yogurt and we'll meet at the checkout counter." And y'know what? We will meet at the checkout counter.
+57	[Scene	 Bloomingdale's, Rachel is fixing Joey up with some new clothes.]
+58	Rachel	 Okay now Joey, y'know that since you're returning all of this stuff right after the audition you're gonna have to wear underwear?
+59	Joey	 All right, then you'd better show me some of that too then.
+60	Rachel	 Okay, it's missing something. Ooh, I know! Umm, okay. (Goes and grabs a bag, that looks like a purse, and shows it to Joey.)
+61	Joey	 Really? A purse?
+62	Rachel	 It's not a purse! It's a shoulder bag.
+63	Joey	 It looks like a women's purse.
+64	Rachel	 No Joey, look. Trust me, all the men are wearing them in the spring catalog. Look. (Shows him.) See look, men, carrying the bag.
+65	Joey	 See look, women, carrying the bag. (He puts it on his shoulder and looks at himself in the mirror and likes what he sees.) But it is odd how a women's purse looks good on me, a man.
+66	Rachel	 Exactly! Unisex!
+67	Joey	 Maybe you need sex. I had sex a couple days ago.
+68	Rachel	 No! No Joey! U-N-I-sex.
+69	Joey	 Well, I ain't gonna say no to that.
+70	[Scene	 Ursula's apartment, Phoebe is about to break the bad news to her sister. She knocks on the door.]
+71	Ursula	 Who is it?
+72	Phoebe	 It's Phoebe.
+73	Ursula	 Oh great! (Opens the door.) (Disappointed) Oh, you. Umm, what's up?
+74	Phoebe	 Umm, well I sorta have some bad news, can I come in?
+75	Ursula	 Umm, yeah—no thanks.
+76	Phoebe	 Umm, well, umm Grandma died.
+77	Ursula	 Wow! Didn't she die like five years ago?
+78	Phoebe	 No, she just died today! Okay, umm, we're having a memorial service tomorrow.
+79	Ursula	 Okay, I know that I went to that all ready.
+80	Phoebe	 No you didn't!
+81	Ursula	 Well, then who's been dead for five years?
+82	Phoebe	 Well, lots of people! Look, are you coming to memorial service or not?
+83	Ursula	 Umm, no. See I already thought she was dead so I kinda made my peace with it. Plus, I'm going to a concert tomorrow. So… I'd invite you, but umm, I only have two tickets left.
+84	Phoebe	 Fine. Okay, enjoy your concert. (Starts to leave.)
+85	Ursula	 Thanks! Enjoy your funeral.
+86	[Scene	 Central Perk, Ross and Chandler are on the couch as Joey enters with his new bag.]
+87	Joey	 Hey!
+88	Chandler	 Hey!
+89		(As he walks past both Chandler and Ross notice the bag and stare at each other in shock.)
+90	Chandler	 Wow! You look just like your son Mrs. Tribbiani!
+91	Joey	 What? Are you referring to my man's bag? At first, I thought it just looked good, but it's practical too. Check it out! It's got compartments for all your stuff! Your wallet! Your keys! Your address book!
+92	Ross	 Your make-up!
+93	Rachel	 (entering) Joey, what are you doing with the bag? You're audition is not until tomorrow.
+94	Joey	 Yeah, but sandwich time is right now. (Removes a sandwich and starts eating.)
+95	Rachel	 Joey, y'know you get any mustard on that bag, you can't return it.
+96	Joey	 Why would I return it? I love this bag!
+97	Rachel	 All right, then you owe me $350.
+98	Joey	 Fine! Do you take Vasa or Mustercard? (He's holding the fake credit cards that come with the bag.)
+99	Rachel	 (glaring at him) Joey…
+100	Joey	 All right relax, look I'll pay you with the money from the acting job I am definitely gonna get thanks to you.
+101	Ross	 What's the part, Anti-man?
+102	Rachel	 Hey, don't listen to them. I think it's sexy.
+103	Joey	 U-N-I-sexy? (Smiles provocatively.)
+104	[Scene	 Phoebe's Grandmother's memorial, Phoebe is at the door welcoming people.]
+105	Phoebe	 Well hello, Mrs. Penella! Thank you so much for coming! Well, okay look, here's your umm, 3-D glasses and Reverend Pong will tell you when to put them on.
+106		(The gang arrives.)
+107	Rachel	 Hi sweetie!
+108	Ross	 Hey, how are you holding up?
+109	Joey	 Hey Pheebs, I'm so sorry.
+110	Phoebe	 (notices his bag.) Hey, y'know what? My Grandma had the exact same bag!
+111	Joey	 Here, I brought you some flowers. (He pulls them out of the bag.)
+112	Phoebe	 Thanks!
+113	Chandler	 Pulling flowers out it makes the bag look a lot more masculine.
+114		(Another man, an older man, enters, looking around and bumps into Chandler.)
+115	Man	 Oops, I'm sorry. Excuse me. Is this the umm, the memorial?
+116		(The gang moves off as Phoebe greets the new guest.)
+117	Phoebe	 Yeah, welcome.
+118	Man	 Hello. Hello.
+119	Phoebe	 Umm here's your 3-D glasses.
+120	Man	 Oh, umm, all right.
+121	Phoebe	 So how did you know Francis?
+122	Man	 Well I actually, I-I really, I haven't seen her for years. But umm, well I-I was pretty tight with-with her and her daughter.
+123	Phoebe	 Really?! What's your name?
+124	Man	 Umm, Frank Buffay.
+125		(Needless to say, Phoebe is stunned into silence. And one audience member gasps.)
+126	Frank Sr.	 (Seeing the look on her face) Y'know what? Strike that. My name uh, actually is-is Joe. Uh, Joe umm, Hill.
+127	Phoebe	 You're Frank Buffay?
+128	Frank Sr.	 Shh! (Whispers) No! Joe Hill!
+129	Phoebe	 You just said…
+130	Frank Sr.	 Y'know what, I gotta go. And thank you so much for coming. (Hands back his glasses and hurries out.)
+131	Phoebe	 But…
+132		(Phoebe takes one step after him and stops.)
+133	Phoebe	 Oh my God!
+134	Monica	 What?! What honey?
+135	Ross	 What happened?
+136	Phoebe	 That was my dad!
+137	Chandler	 Oh my God!
+138		(They all look down the hall he left from.)
+139	Joey	 (approaches, wearing his glasses) Hey you guys, check it out. Check it out. (Moves his hand towards and away from his face.) It's like it's coming right at me. (Chandler helps out a little bit by pushing on Joey's arm, which causes his hand to slap him in his face.)
+140		Commercial Break
+141	[Scene	 The Funeral Home, continued from earlier. Phoebe is returning after looking for her father.]
+142	Monica	 Oh, did you catch him?!
+143	Phoebe	 Uh-huh.
+144	Ross	 Wh-what did he say?!
+145	Phoebe	 He said, "Nice to meet you Glenda." (They stare at her, dumbfounded) Well, obviously I couldn't give him my real name?
+146	Rachel	 Why?! Why not?!
+147	Phoebe	 Come on, you saw the way he ran out of here! What do you think? He's gonna stick around and talk to the daughter he abandoned!
+148	Joey	 What did you say to him?
+149	Phoebe	 Well, I said, I told him y'know, that I was the executor person of Francis' will and that I needed to talk to him so I'm gonna meet him at the coffee house later.
+150	The Pastor	 Could everyone please take their seats?
+151	Phoebe	 All right, well, I just can't think about that right now. I just wanna say good-bye to my Grandma.
+152	Rachel	 Okay.
+153	Monica	 All right, let's go say good-bye.
+154		(They put on their glasses and try to find their way to their seats.)
+155	[Scene	 Monica and Rachel's, after the funeral, everyone is there.]
+156	Joey	 (entering, with bag) Hey! I'm off to my audition. How do I look?
+157	Rachel	 Ahhh, I think you look great! That bag is gonna get you that part.
+158	Chandler	 And a date with a man!
+159	Joey	 Y'know what? Make fun all you want. This is a great bag! Okay? And it's as handy as it is becoming. Now, just because you don't understand something, doesn't make it wrong. All right? So from now on you guys are gonna have to get used to the fact that Joey, (pats the bag) comes with a bag! (Exits.)
+160	Phoebe	 All right, I'd better go too. I have to go talk to my dad.
+161	Rachel	 Ooh, Pheebs, what are you gonna say? Are you gonna tell him who you are?
+162	Phoebe	 Umm, no, not at first 'cause I-I don't want to freak him out
+163	Ross	 Well, but aren't you pissed at him?! I mean this guy abandoned you! I gotta tell you if this were me, this guy would be in some serious physical danger! (Getting worked up) I mean I-I-I'd walk in there and I'd be like, "Yo, dad! You and me outside right now!" (Calming down.) I kinda scared myself.
+164	Monica	 Well, at least you scared someone.
+165	Phoebe	 Y'know it's funny, you'd think I'd be angry. I mean, you'd think I'd wanna rip his tiny little head off. Fortunately, I'm past it.
+166	Monica	 Phoebe, you do seem a little tense. Here, let me help you.
+167	Phoebe	 All right.
+168		(She goes over and tries to give Phoebe a massage. Phoebe yelps in pain and jumps away from her.)
+169	Phoebe	 Oh! Get off!! Ow!! Oh, stop it!! Why?! Why are you doing that to me?!
+170	Monica	 What are you talking about?
+171	Phoebe	 As a masseuse and a human, I'm begging you, never do that to anyone!
+172	Monica	 (indignant) I give good massages! (Ross laughs.) I used to give them to Rachel all the time before she got allergic! And-and-and Chandler loves them! Watch! (She starts giving Chandler a massage.)
+173	Phoebe	 (seeing the look on Chandler's face) He-he does not like it! He hates it! He's in pain!
+174	Monica	 No he's not!
+175	Chandler	 (wincing) Yes, he is!
+176	Monica	 What?!
+177	Chandler	 I'm sorry but, ow-owww-owww!
+178	Monica	 You've been lying to me? I can't believe you'd do that.
+179	Ross	 Well, maybe he just didn't want to hurt your feelings.
+180	Monica	 But the minute we start to lie to each other… (Pauses after she realizes what she's saying.) And by 'we' I mean society.
+181	[Scene	 Joey's audition, he is with bag.]
+182	The Casting Director	 Any time you're ready, Joey.
+183	Joey	 (reading from the script) Well, you must be new here. Why don't we get a table and I'll buy you a drink.
+184	The Casting Director	 (stopping him) I'm sorry. Could you, could you try it without the purse?
+185	Joey	 Yeah, sure. (He takes it off and starts reading.) Well, you must be new here. Maybe we should—I'm sorry, can I ask you something? (He stops and asks a question.)
+186	The Casting Director	 Sure. What?
+187	Joey	 Well, first it's not a purse.
+188	The Casting Director	 Okay, anytime.
+189	Joey	 I mean if-if you're thinking it's a woman's bag, it's not. It's a man's bag!
+190	The Casting Director	 Okayyyy! Anddd, go!
+191	Joey	 All right look, let me show you the catalog! (Does so.) See? Huh? It's the latest thing! Everyone's got one! Men! Women! Children! Everyone's carrying them!
+192	The Casting Director	 Umm, do you sell these bags?
+193	Joey	 Noooo. No-no-no, these babies sell themselves.
+194	The Casting Director	 Okay! Thank you! That was great!
+195	Joey	 Yeah but I didn’t read anything.
+196	The Casting Director	 I think we've seen enough!
+197	Joey	 Okay! All right, I'll see ya. (As he's walking off stage.) (Patting the bag.) We got it! We got it!
+198	[Scene	 Monica and Rachel's, Chandler is poking his head in.]
+199	Chandler	 Hey, is Rachel here?
+200	Monica	 No.
+201	Chandler	 (coming all the way in) Listen, I just wanted to apologize about this afternoon and the whole massage thing. Y'know? I-I really like 'em.
+202	Monica	 Oh, please, stop! Look, we're supposed to be honest with each other. I-I just wish you could tell me—just say, "I don't like your massages."
+203	Chandler	 (falling into that trap) I don't like your massages.
+204	Monica	 (starting to cry) See? It's no big deal.
+205	Chandler	 Okay, but now see you're crying!
+206	Monica	 I'm not crying about that! I'm crying about something that happened at work.
+207	Chandler	 What?
+208	Monica	 (bursting into tears) My boyfriend said he didn't like my massages.
+209	Chandler	 It's okay, you don't have to be the best at everything.
+210	Monica	 Oh my God! You don't know me at all!
+211	Chandler	 Okay, you give the worst massages in the world.
+212	Monica	 I'm crying here!!
+213	Chandler	 Okay, hear me out. Okay? You give the best bad massages. If anybody was looking for the best bad massage and they were thinking to themselves, "Who's the best of that?" They'd have to go to you.
+214	Monica	 Huh. So you're saying like umm, if there was an award for the best bad massage, well who would get that?
+215	Chandler	 Oh, it would be you! You! Monica! And you'd get all the votes!
+216	Monica	 So maybe they could umm, call the award the Monica?
+217	Chandler	 Absolutely!
+218	Monica	 Okay. I suck!
+219	Chandler	 Yeah! (They hug.)
+220	[Scene	 Central Perk, Frank Sr. is just arriving.]
+221	Phoebe	 Umm, thank you for meeting with me.
+222	Frank Sr.	 Thank you. All right.
+223	Phoebe	 Come, sit. (He's hesitant.) Sit. (Still hesitating.) Sit! (He sits on the arm of the couch.) Umm, all righty, before we get started I just—I need you to state for the official record that you are in fact Frank Buffay.
+224	Frank Sr.	 Oh yes. Yes, yes, I am, uh-hmm.
+225	Phoebe	 Okay.
+226	Frank Sr.	 So, what did Francis leave me?
+227	Phoebe	 Huh?
+228	Frank Sr.	 Well, that's why you wanted me to come, right?
+229	Phoebe	 Oh yes. Yes. Yeah—no. She did. She left you umm, (looking in her purse) this lipstick.
+230	Frank Sr.	 Oh. Huh. It's huh, well it's (opens it) oh it's—ew used. Umm, cool.
+231	Phoebe	 Okay. I have just a few questions to ask so I'm going to get out my official forms. (She picks up a couple of crumpled receipts.) Okay, so, question 1) You and uh, you were married to Francis' daughter Lilly, is that correct?
+232	Frank Sr.	 Yes, yes I was.
+233	Phoebe	 Okay, umm, question 2) Umm, did that marriage end A. Happily, B. Medium, or C. In the total abandonment of her and her two children?
+234	Frank Sr.	 It really says that?!
+235	Phoebe	 Yeah. See? (Quickly shows him.)
+236	Frank Sr.	 Well then I guess then I-I would I would have to say C.
+237	Phoebe	 Hmm, okay, total abandonment. Okay, reasons for abandonment, A. Top secret government work, B. Amnesia, or C. Or you're just a selfish, irresponsible bad, bad man?
+238	Frank Sr.	 Y'know, I don't think I want the lipstick that much. (Gets up to leave.) But umm… Oh, would you do me a favor? And umm, would you, would you give Lilly that, please? (Hands her a note.)
+239	Phoebe	 What?!
+240	Frank Sr.	 Well Lilly, when you see Lilly would you give her that, that note? Because I wanted to talk to her at the memorial but, well I pictured her getting mad at me the way you got mad at me and I well, I chickened out. So, uh, I wrote her that note, would you give it to her please?
+241	Phoebe	 But you-you-you came to see Lilly?
+242	Frank Sr.	 Yeah, yeah. Why?
+243	Phoebe	 Lilly's dead. (He looks up in shock.)
+244	Frank Sr.	 She what?!
+245	Phoebe	 She's dead.
+246	Frank Sr.	 Are you sure?
+247	Phoebe	 Well, if she isn't then cremating her was a big mistake.
+248	Frank Sr.	 I can't believe this. I just—I can't believe this. How-how—Oh my God. How long ago?
+249	Phoebe	 17 years ago.
+250	Frank Sr.	 Oh! What about, what about the girls?
+251	Phoebe	 Well, Ursula is a waitress and-and she lives in Soho. And Phoebe, (pause) is on this couch.
+252		(Silence ensues.)
+253	Phoebe	 Yep, lipstick and a daughter, big day for you!
+254	Frank Sr.	 Phoebe, I-I-I-umm, (Sits down next to her and brushes against her leg.) Oops. (He backs up.) I just, I-I-I-I don’t, I don’t know what to say. I just can't believe that you're my daughter, you're so pretty.
+255	Phoebe	 Yes. Well, that's neither here nor there.
+256	Frank Sr.	 So would it, would it make you feel better if I said I was very, very sorry that I left?
+257	Phoebe	 Y'know what, it doesn’t matter what you say it's not gonna make a difference anyway, so you can just go.
+258	Frank Sr.	 All right. Well, y'know in my defense I was a lousy father.
+259	Phoebe	 That's a defense?
+260	Frank Sr.	 Yes. Yes it is. I burned the formula and I put your diapers on backwards. I mean, I made up a song to sing you to sleep, but that made you cry even more!
+261	Phoebe	 You make up songs?
+262	Frank Sr.	 Well no, just-just that one. But, it was stupid. Let's see, how did it, how did it go. Umm. (Singing.)
+263		Sleepy girl, sleepy girl. Why won't you go to sleep? Sleepy girl, sleepy girl. You're, you're, you're keeping me uppp! (Yeah, that's to the tune of Smelly Cat.)
+264		Yeah.
+265		(Phoebe is trying not to smile. He moves closer and very shyly holds out his hand and turns his head, hoping for Phoebe to take his hand. She doesn't.)
+266	Frank Sr.	 I just, I y'know, I'm not very good at this. So, umm… (Backs away.)
+267	Phoebe	 Well, I am. (Moves over and takes his hand.)
+268		(She holds his hand for a little while then…)
+269	Phoebe	 Not yet, no. (Drops his hand and moves back.)
+270		Ending Credits
+271	[Scene	 Monica and Rachel's, Joey returns from his audition and finds everyone but Phoebe there.]
+272	Joey	 (dejected) Hi.
+273	All	 Hey!
+274	Chandler	 Hey man, how did the audition go?
+275	Joey	 Estelle said I didn't get it. (Sits down next to Rachel on the couch.)
+276	Rachel	 What?! Why? Joey you were so ready for it!
+277	Joey	 Yeah, I thought so too but, she said the casting people had some problems with me.
+278	Ross	 What kind of problem?
+279	Joey	 Well to tell you the truth, they uh, (Pause) they had a problem with the bag!
+280	Chandler	 Oh my God!
+281	Ross	 Nooooo!
+282	Joey	 Y'know what? It was a stupid play anyway!
+283	Monica	 Y'know, Joey, I think it's time to give up the bag.
+284	Joey	 I don't wanna give up the bag. I don't have to give up the bag! Do I Rach? (She's avoiding his eyes.) Oh, you think I should give up the bag!
+285	Rachel	 Honey wait, Joey, I’m sorry I mean as terrific as I think you are with it… (Looks for help.)
+286	Chandler	 Oh, hey! (Ross nods in agreement as well.)
+287	Rachel	 …I just don't know if the world is ready for you and your bag.
+288	Joey	 I can't believe I'm hearing this!
+289	Rachel	 Wait a minute! Wait a minute! I'm not saying that you shouldn’t have a bag, I just—it's just there are other bags that are a little less umm, (Pause) controversial.
+290	Chandler	 Yeah umm, they're called wallets.
+291		End
+292	webbot bot="ImageMap" startspan rectangle="(137,1) (193, 80) http	//thecfsi.com/season5.htm" rectangle="(68,1) (128, 80) http

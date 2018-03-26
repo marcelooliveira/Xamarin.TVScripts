@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.TVScripts.Android",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Xamarin.TVScripts", "Xamarin.TVScripts\Xamarin.TVScripts.csproj", "{CEDDDE2F-401B-4E1F-9FB0-D1CE515686DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TVScripts.Scraping", "TVScripts.Scraping\TVScripts.Scraping.csproj", "{B62A366A-CE0F-4D4D-B219-63030A6D5D67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TVScripts.Core", "TVScripts.Core\TVScripts.Core.csproj", "{93FF158B-313D-40CA-B44D-726056F0AD72}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +27,14 @@ Global
 		{CEDDDE2F-401B-4E1F-9FB0-D1CE515686DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CEDDDE2F-401B-4E1F-9FB0-D1CE515686DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CEDDDE2F-401B-4E1F-9FB0-D1CE515686DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B62A366A-CE0F-4D4D-B219-63030A6D5D67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B62A366A-CE0F-4D4D-B219-63030A6D5D67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B62A366A-CE0F-4D4D-B219-63030A6D5D67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B62A366A-CE0F-4D4D-B219-63030A6D5D67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93FF158B-313D-40CA-B44D-726056F0AD72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93FF158B-313D-40CA-B44D-726056F0AD72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93FF158B-313D-40CA-B44D-726056F0AD72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93FF158B-313D-40CA-B44D-726056F0AD72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

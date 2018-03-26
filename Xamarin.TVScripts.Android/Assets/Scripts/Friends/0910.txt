@@ -1,0 +1,351 @@
+1		
+2		
+3		
+4		
+5		The One With Christmas In Tulsa
+6		
+7		
+8		--------------------------------------------------------------------------------
+9	Written by	 Doty Abrams Directed by
+10		--------------------------------------------------------------------------------
+11	[Scene	 Monica & Chandler's Apartment, everyone's there. Phoebe recites the last verse of "The Night Before Christmas", written in 1822 by Clement Clarke Moore (1779-1863), to Joey.]
+12	Phoebe	 ...sprang to his sleigh, to his team gave a whistle; and away they all flew like the down of a thistle; but I heard him exclaim, ere he drove out of sight, "Merry Christmas to all, and to all a goodnight!"
+13	Joey	 (impressed) Wow, that was great! You really wrote that?
+14	Phoebe	 (smiling) Uh-huh.
+15	Chandler	 (coming from the bedroom) Say goodbye elves, I'm off to Tulsa.
+16	Monica	 I can't believe you're not gonna be here for Christmas.
+17	Ross	 You're really not coming back?
+18	Chandler	 Yeah, we have all this paperwork that needs to be filed by the end of the year. If I don't get it done, I'll be fired.
+19	Monica	 It's so unfair, you don't even like your job!
+20	Chandler	 So, who does?
+21	(The following responses are overlapping	)
+22	Phoebe	 Oh, I like my job.
+23	Joey	 I *love* my job.
+24	Rachel	 Yeah, I can't *wait* to go back to work.
+25	Ross	 I can't get *enough* dinosaurs!
+26	Chandler	 I'm sorry I won't be here.
+27	Monica	 It's just... It's hard enough not seeing you during the week, but for Christmas... alright, if this is what you have to do, I understand.
+28	Chandler	 Thanks. (they kiss) I'll see you new year's day.
+29	Monica	 (shocked) You're not gonna be here new year's eve??
+30	Chandler	 Did I not mention that?
+31	Monica	 No!
+32	Chandler	 (thinks for a second, then waves his arms, exclaiming
+33		--- Opening Credits ---
+34	[Scene	 Chandler's Office in Tulsa, in the conference room. Chandler's staff/co-workers are sitting round the table; Chandler is walking around, when he notices a piece of paper attached to the back of his chair.]
+35	Chandler	 All right everybody, I know that it's Christmas eve and you'd rather be with your familys, but there's *no* call (he takes it off) for writing "Screw you, Mr. Bing!" on the back of my chair! (he looks at it) -- By the way, you can all call me Chandler.
+36		(Wendy enters the conference room, carrying a cardboard box.)
+37	Wendy	 Hey!
+38	Others	 Hey.
+39	Chandler	 Hey. Where've you been?
+40	Wendy	 I was, uh, checking out that insurance company's Christmas party on three, oh, it was really beautiful, they have all these decorations and this huge tree and I just, uh... to hell with them, we have to work. -- So I stole ther ham. (She turns the cardboard box upside down over the conference table, a big piece of ham falls out.)
+41	Chandler	 (to the others) You hear that? You may not be with your familys, but at least it's gonna smell like ham in here.
+42	Claudia	 My kid's in a play right now.
+43	Chandler	 Y'know what, I know what will cheer you guys up! (he starts spreading envelopes among them) I had a little talk with the boys in New York, told 'em about all the hard work you've been doing and that a little Christmas bonus may be in order.
+44	Nick	 (reading off his card) "A donation has been made in your name to the New York City Ballet".
+45	Chandler	 Well, that's like money in your pocket! - Alright look, you want me to say it? This sucks. Being here sucks! This work sucks!
+46	Wendy	 *Now* it feels like Christmas.
+47	Chandler	 I'm sorry. Hey, at least you guys get to go home and be with your familys tonight. I have to go back to an empty hotel room and lay down on a very questionable bedspread. And then tomorrow morning, you get to have Christmas morning in your own houses, wich, by the way, none of you have invited me to.
+48	Nick	 You can come to my house!
+49	Chandler	 Haha, no thanks!
+50	Wendy	 That was a nice pep-talk.
+51	Chandler	 Oh, thanks! I'm... actually thinking about becoming a motivational speaker.
+52	Wendy	 So, if you were home right now, what would you be doing?
+53	Chandler	 Typical Christmas-y stuff, you know? Our holidays are pretty traditional...
+54		
+55	[Flashback to 410 - TOW The Girl From Poughkeepsie] [Scene	 Central Perk, Phoebe is singing her holiday song.]
+56	Phoebe	 So here is a, a very special holiday song that I wrote for some very important people to me.
+57		(singing) "Went to the store, sat on Santa's lap. Asked him to bring my friends all kinds of crap. Said all you need is to write them a song. Now, you haven't heard it yet, so don't try to sing along. No, don't sing along.
+58		Monica, Moncia, have a happy Hanukkah. Saw Santa Clause, he said hello to Ross. And please tell Joey, Christmas will be snowy! And Rachel and Chandler, have err-umm-glander!!"
+59		Happy holidays, everybody!
+60		
+61	[Flashback to 610 - TOW The Routine] [Scene	 Monica and Chandler's apartment, Chandler is there. Phoebe and Rachel enter.]
+62	Rachel	 Okay, Pheebs, you look in the kitchen, I will look in the back closet.
+63	Chandler	 I can save you time ladies, I'm right here.
+64	Phoebe	 Yeah, Chandler why don't you take a walk? This doesn't concern you.
+65	Rachel	 We are looking for our Christmas presents from Monica.
+66	Chandler	 What? That's terrible!
+67	Phoebe	 No-no, we do it every year!
+68	Chandler	 Oh well, that, that makes it not terrible.
+69	Phoebe	 No, yeah, we never find them! She's always best at us, that wily... minx.
+70	Rachel	 Don't worry, we're just gonna search here for an hour, and then we're gonna go over to Joey's and search, OK?
+71	Chandler	 No not okay, you can't look for Monica's presents!
+72	Phoebe	 Oh no, we have to!
+73	Chandler	 No, you don't have to, and you can't because I, I live here too.
+74	Phoebe	 Well then, you should look with us.
+75	Chandler	 Why?
+76	Rachel	 Chandler, aren't you worried about what to get Monica for Christmas?
+77	Chandler	 No, I have a great idea for a present for her.
+78	Phoebe	 Oh, that's it? (Mimics Chandler) A great idea! Oh yeah.
+79	Rachel	 Chandler, that's not enough. I mean what if she gets you a great present, two medium presents, and a bunch of little presents? And you've just gotten her one great present? I mean that's just gonna make her feel bad. Why would you do that to her Chandler? Why? Why?
+80	Chandler	 If I help, we can find 'em faster!
+81	Rachel	 That's right!
+82		(Phoebe looks under the couch)
+83	Phoebe	 Ooh ooh, we have a live one!
+84	Rachel	 Oh, it's a Macy's bag!
+85		(Phoebe tips it upside down, and a shoe falls out)
+86	Rachel	 Oh.
+87	Phoebe	 Ooh, who's it for?
+88	Rachel	 (Reading from a tag that's attached to the shoe) "Dear losers, do you really think I'd hide presents under the couch? P.S.
+89		
+90	[Flashback to 209 - TOW Phoebe's Dad] [Scene	 Monica and Rachel's apartment. Joey and Chandler are giving out their Christmas presents out of a cardboard box from a case of motor oil.]
+91	Joey	 Rach, these are for you.
+92	Rachel	 Wiper blades. I don't even have a car.
+93	Joey	 No, but with this new car smell, you'll think you do.
+94	Chandler	 OK, Pheebs, your turn.
+95	Phoebe	 Ahh, toilet seat covers! Is that what you were doing while I was getting gas?
+96	Joey	 Uh-huh.
+97	Phoebe	 You guuuyys.
+98	Joey	 And for Ross, Mr. Sweet-tooth.
+99	Ross	 You got me a cola drink?
+100	Chandler	 And, a lemon lime.
+101	Ross	 Well this, this is too much, I feel like I should get you another sweater.
+102	Chandler	 And last but not least.
+103		(Chandler and Joey give Monica a pack of condoms.)
+104	Joey	 They're ribbed for *your* pleasure.
+105		
+106	[Flashback to 710 - TOW The Holiday Armadillo] [Scene	 Monica, Chandler and Phoebe's, Ross is costumed as an Armadillo.]
+107	Ross	 Ooh, hey Ben, what if the Holiday Armadillo told you all about the Festival of Lights?
+108	Ben	 Cool!
+109	Ross	 Yeah!
+110	Monica	 Come on Ben.
+111		(Monica and Ben sit down on the couch.)
+112	Ross	 Years and years ago there were these people called the Maccabees...
+113	Chandler	 (entering in a Santa costume) Ho, ho, ho! Merry Christmas!
+114	Ben	 Santa! (Runs to Chandler and hugs him)
+115	Chandler	 Hey! (Grunts as Ben hits him at full speed.)
+116	Ross	 What are you doing here, Santa?
+117	Chandler	 Well, I'm here to see my old buddy Ben. What are you doing here, weird...turtle-man?
+118	Ross	 I'm the Holiday Armadillo, your part-Jewish friend. You sent me here to give Ben some presents. Remember?
+119	Chandler	 What?
+120	Monica	 Okay Ben, why don't you come open some more presents, and Santa, the Armadillo and I have a little talk in the kitchen? There's a sentence I'd never thought I'd say.
+121		(They walk to the kitchen; everyone is lowering their voices)
+122	Ross	 (to Chandler) What are you doing?
+123	Chandler	 You called everyone and said you were having trouble finding a Santa costume, so I borrowed one from a guy at work!
+124	Ross	 Thank you, but, but you, you gotta leave.
+125	Chandler	 Why?
+126	Ross	 Because, I'm finally getting him excited about Hanukkah, and, and you're-you're wrecking it.
+127	Chandler	 But I didn't get to shake my belly like a bowl full of jelly.
+128	Ross	 I'm sorry Chandler, but this, this is really important to me.
+129	Chandler	 Fine, I'll give the suit back.
+130		(Ross turns around and walks back to Ben.)
+131	Monica	 (to Chandler) Hey, you think, you can keep it another night? (She has a really teasing look on her face and keeps twirling Chandler's beard.)
+132	Chandler	 Santa? Really?
+133	Monica	 Yeah, is that okay?
+134	Chandler	 Did your Dad ever dress up like Santa?
+135	Monica	 No.
+136	Chandler	 Then it's okaaay! (They kiss.)
+137		
+138	[Scene	 Back in the conference room in Tulsa.]
+139	Chandler	 You know what, everybody? Go home. You should be with your familys. It's bad enough that we're working new year's eve.
+140		(All others are looking up, surprised)
+141		Did I not tell *anyone* about new year's eve? -- Alright, look, go! Go home, okay? Merry Christmas! Go.
+142		(All are leaving, wishing each other a merry Christmas, peace on earth, etc. Only Wendy stays.)
+143	Chandler	 Good, God's speed, good people! (he starts to close the door, turns around and sees Wendy) You're not gonna go?
+144	Wendy	 Naah... I couldn't leave you alone.
+145	Chandler	 Ah. Thanks.
+146	Wendy	 Besides, I can't leave until their Christmas party downstairs clears out; there are some *pissed off* insurance people looking for that ham.
+147	Chandler	 Ah. (The phone rings; he answers it) Chandler Bing.
+148		
+149	[Scene change back an forth	 Mondler's Apartment, Monica's on the other end of the line. The phone's speaker is turned on, so the rest of the gang, sitting around the phone, can hear Chandler.]
+150	Monica	 Hi Honey! We're all here; we just want to wish you a merry Christmas.
+151	Others	 (simultaneously) Merry Christmas! (except for Phoebe...)
+152	Phoebe	 (simultaneous to the others) Ble-blah-blar Blargh!
+153		(All the others look at her, stunned/incredulous)
+154	Chandler	 Ahh, merry Christmas; I miss you guys!
+155	Monica	 So is it horrible? Is everybody working really hard?
+156	Chandler	 Ah, well no, it's just uh, me and Wendy.
+157	Monica	 Wendy? -- That sounds like a girl's name.
+158	Chandler	 It is. Did I... not tell you about her?
+159	Monica	 Umhmm, umhmm, about the time you told me about new year's eve. Where is everybody else?
+160	Chandler	 I send them home.
+161	Monica	 Ohh, you are such a good boss! Is she pretty?
+162	Chandler	 Uhh, uh...
+163	Ross	 (in a low voice) Answer faster, answer faster!
+164	Chandler	 I don't know!
+165	Ross	 (in the same low voice) Answer better, answer better!
+166	Chandler	 I don't think of her that way, you know, she's a, she's a colleague.
+167	Monica	 What does she do there?
+168	Chandler	 Oh, she's regional Vice President; She's... just below me.
+169	Monica	 She did WHAT?
+170	Chandler	 BE-LOW me!
+171	Joey	 Ahh, wait, is Wendy the runner-up Miss Oklahoma?
+172	Monica	 *What*??
+173	Chandler	 Well, she... she didn't win...
+174	Monica	 Alright, well, maybe I should let you and the second prettiest girl in Oklahoma get back to work.
+175	Chandler	 Well, second prettiest that year; I mean, of *all* the girls in Oklahoma, she's probably...
+176	Rachel	 (interrupting him) Oh Chandler, stop talking!
+177	Chandler	 Honey, there's really nothing to worry about.
+178	Monica	 Okay.
+179	Chandler	 I'm serious!
+180	Monica	 Okay!
+181	Chandler	 Merry Christmas.
+182	Monica	 Merry Christmas.
+183	Chandler	 Merry Christmas, you guys!
+184	Others	 (simultaneously) Yeah, Merry... Christmas. (again, Phoebe...)
+185	Phoebe	 (simultaneous to the others) Blah blargah, blar-blab.
+186		(Again the others just look at her, silent, puzzled.)
+187		
+188	[Scene	 back in the conference room in Tulsa]
+189	Chandler	 (hanging up the phone) The wife says "Hi!".
+190	Wendy	 Ah. Fun conversation?
+191	Chandler	 Ah well, she's got this weird idea, that, uh, y'know, just because you and I are alone, that something is gonna happen.
+192	Wendy	 Huh? Really? -- Hm, that'd be so terrible? (She gets hold of Chandler's tie, slowly moving her hands upwards on the tie, getting closer and closer to him, seductive.)
+193	Chandler	 This is probably the wrong thing to be worrying about, but... you're getting ham on my only tie.
+194		(She's getting closer to him, the scene fades to black.)
+195		
+196	[Scene	 The conference room in Tulsa again, Chandler is trying to evade Wendy]
+197	Chandler	 Whoa-ho, back off, Missy! (He takes a step back, but she still keeps her grip on his tie.)
+198	Wendy	 (laughs) ...Missy?
+199	Chandler	 I don't know; I'm not used to girls making passes at me! ... (She lets go of his tie) Wait a minute... am I sexy in Oklahoma?
+200	Wendy	 You are to me... (She gets closer again, putting her arms around his waist/chest.)
+201	Chandler	 (flattered) No,... no... (realizing) NO! (He quickly gets several steps away from her.) Look, I'm, I'm married!
+202	Wendy	 So? I'm married. (Showing him the ring on her finger.)
+203	Chandler	 I'm *happily* married.
+204	Wendy	 Oh. What's *that* like?
+205	Chandler	 Right. So, I'm sorry...
+206	Wendy	 Seriously? Happily married. So that phone call before, that was ... happy?
+207	Chandler	 Well look, it's not easy to spend this much time apart, you know. She's entitled to be a little paranoid... or, in this case
+208	Wendy	 Okay, let me ask you something
+209		(Chandler starts to think about it...)
+210		
+211	[Flashback to 716 - TOW The Truth About London] [Scene	 London, Chandler's hotel room. He was getting ready for bed when Monica pays him a visit and they started talking]
+212	Chandler	 I mean, you were the most beautiful woman in the room tonight!
+213	Monica	 Really?
+214	Chandler	 You kidding? You're the most beautiful woman in most rooms... (She jumps up and kisses him.) (Breaking the kiss.) Whoa! Whoa! Whoa! What's going on? You and I just made out! You and I are making out?
+215	Monica	 Well, not anymore.
+216	Chandler	 But we don't do that.
+217	Monica	 I know, I just thought it would be fun.
+218	Chandler	 How drunk are you?
+219	Monica	 Drunk enough that I know I wanna do this. Not so drunk that you should feel guilty about taking advantage.
+220	Chandler	 (thinks) That's the perfect amount!
+221	Monica	 Okay!
+222		(They run to the bed, sit down, and start making out again.)
+223	Monica	 (breaking the kiss) Y'know what's weird?
+224	Chandler	 What?
+225	Monica	 This doesn't feel weird!
+226	Chandler	 I know.
+227	Monica	 You're a really good kisser.
+228	Chandler	 Well, I have kissed over four women. (They kiss again.) Do you wanna get under the covers?
+229	Monica	 Hm-hmm!
+230	Chandler	 Okay!
+231		(They do so and they take off their clothes.)
+232	Monica	 Wow! You are really fast!
+233	Chandler	 It bodes well for me that speed impresses you.
+234	Monica	 We're gonna see each other naked.
+235	Chandler	 Yep!
+236	Monica	 Do you wanna do it at the same time?
+237	Chandler	 Count of three?
+238	Monica	 One!
+239	Chandler	 Two!
+240	Monica	 Two!
+241	Both	 Three! (They lift up the covers and check each other out, then come back up with silly grins on their faces.)
+242	Chandler	 Well I think it's safe to say that our friendship is effectively ruined.
+243	Monica	 Eh, we weren't that close anyway!
+244	Chandler	 Eh! (They start making out again)
+245		
+246	[Flashback to 503 - TOW The Triplets] [Scene	 A hallway in the hospital, Monica and Chandler are talking.]
+247	Chandler	 So, are you really gonna go out with that nurse man?
+248	Monica	 Well uh, you and I are just goofing around, I thought, why not just goof around with him.
+249	Chandler	 Y'know, I don't know if you've ever looked up the term goofing around in the dictionary... Well, I have, and the technical definition is, two friends who care a lot about each other and have amazing sex and just wanna spend more time together. But if you have this new fangled dictionary that gets you made at me, then we have to, y'know, get you my original dictionary. I am *so* bad at this.
+250	Monica	 I think you're better than you think you are.
+251	Chandler	 Really? Okay, so...
+252	Monica	 (interrupting) Know when to stop.
+253	Chandler	 Y'know, I sensed that I should stop. So we're okay?
+254	Monica	 Yeah. (They kiss and as she starts to leave, Chandler starts to dance. Without turning around
+255	Chandler	 Right!
+256		
+257	[Flashback to 524 - TOI Vegas, Part II] [Scene	 The Gift Shop, Monica and Chandler are entering.]
+258	Monica	 I can't get married until I get something old, something new, something borrowed, and something blue.
+259	Chandler	 Okay, all right, all right, all right! Okay! (Picks up a blue sweater.) Okay, here's something, here's something blue and new.
+260	Monica	 You're so efficient. I love you!
+261	Chandler	 Let's go! (Starts to leave.)
+262	Monica	 No-no-no, wait! We need something old!
+263	Chandler	 Oh, okay, I have condom in my wallet that I've had since I was twelve.
+264	Monica	 That'll work!
+265	Chandler	 I don't think so.
+266	Monica	 Okay, now we just need something borrowed!
+267	Chandler	 (looks around) Here just...take this. (Hands her the sweater.)
+268	Monica	 That's stealing!
+269	Chandler	 No, we'll-we'll bring it back! Just put it under your dress.
+270		(She does so and it makes her look pregnant.)
+271	Monica	 Ohh. (Rubs her fake stomach.)
+272	Chandler	 Okay, one thing at a time. (They run out to get married.)
+273		
+274	[Flashback to 702 - TOW Rachel's Book] [Scene	 Monica, Chandler, and Phoebe's, Chandler is looking at the wedding book as Monica enters.]
+275	Monica	 Listen umm, I've been thinking, it's not fair for me to ask you to spend all of your money on our wedding. I mean, you work, you work really hard for that.
+276	Chandler	 Ehh.
+277	Monica	 Eh, you work for that.
+278	Chandler	 Look, I thought about it too, and I'm sorry. I think we should spend all of the money on the wedding.
+279	Monica	 You do?!
+280	Chandler	 Yeah, I'm putting my foot down. Yeah look, when I proposed I told you that I would do anything to make you happy, and if having the perfect wedding makes you happy, then, then that's what we're gonna do.
+281	Monica	 Oh, you're so sweet. (They hug and kiss.) Oh, but wait, what about our, what about the future and stuff?
+282	Chandler	 Eh, forget about the future and stuff! So we only have two kids, y'know? We'll pick our favorite and that one will get to go to college.
+283	Monica	 You thought about that?
+284	Chandler	 Yeah.
+285	Monica	 How many kids were we gonna have?
+286	Chandler	 Uh, four, a boy, twin girls and another boy.
+287	Monica	 What else did you think about?
+288	Chandler	 Well, stuff like where we'd live, y'know? Like a small place outside the city, where our kids could learn to ride their bikes and stuff. Y'know, we could have a cat that had a bell on its collar and we could hear it every time it ran through the little kitty door. Of course, we'd have an apartment over the garage where Joey could grow old.
+289	Monica	 (laughs) Y'know what? I-I don't want a big, fancy wedding.
+290	Chandler	 Sure you do.
+291	Monica	 No, I want everything that you just said. I want a marriage.
+292	Chandler	 You sure?
+293	Monica	 Uh-hmm.
+294	Chandler	 I love you so much.
+295	Monica	 I love you. (They kiss.)
+296		
+297	[Scene	 Mondler's Apartment, everyone except Chandler is there; they're opening their presents]
+298	Rachel	 (opens her present from Ross; it's a dark-red scarf) Oohh, I love it!
+299	Ross	 Really? You're not gonna return it?
+300	Rachel	 Well, not (the|this) second!
+301	Phoebe	 (at the window) Hey look, you guys, it's snowing!
+302		(The others all get up and go to the window.)
+303	Rachel	 Oh wow, it's so beautiful...
+304	Ross	 Wow, it really is!
+305		(They all stand a moment in silence, staring out of the window.)
+306	Monica	 "Wendy" is a fat girl name.
+307	Phoebe	 Aren't we done with that?
+308	Monica	 Okay, fine. Let's talk about snow. -- Do you think it's snowing in Tulsa, where my husband is having sex on a copying machine?
+309		(Shortly after that, Chandler enters.)
+310	Chandler	 Hey!
+311		(Surprised, uttering Ahhs and Ohhs, the others are coming over to him.)
+312	Ross	 Oh my god...
+313	Joey	 Hey-heeyyy - Look at that, it's a Christmas miracle!
+314	Monica	 What are you doing here?
+315	Chandler	 I wanted to be with you. I missed you so much.
+316	Joey	 Hey, hey, uh, who did you miss the most?
+317	Chandler	 Monica.
+318	Joey	 Got ya. (blinks an eye)
+319	Chandler	 I never want to leave you again!
+320	Monica	 But I thought if you left, you get fired.
+321	Chandler	 Turns out they can't fire me. Because I quit.
+322	Monica	 What?
+323	Ross	 What, you, you really quit your job?
+324	Chandler	 Yeah! It's a stupid job, and I could not stand leaving you. And why should I be the only one who doesn't get to do what he *really* wants to do?
+325	Rachel	 What do you really want to do?
+326	Chandler	 (realizing) I have *not* thought this through!
+327	Monica	 Oh my god!
+328	Chandler	 I know, I, I should have talked to you first about it.
+329	Monica	 No, I think that this is what you wanna do, I think it's great!
+330	Chandler	 Thanks!
+331	Phoebe	 Chandler, your being here is the best Christmas present I could have ever imagined.
+332	Chandler	 (flattered) Ahh...
+333	Phoebe	 Now give me my real gift.
+334		(Chandler hands Phoebe an envelope, and some more to Monica)
+335	Phoebe	 (to Chandler) Thank you.
+336	Chandler	 (to Monica) Here, pass these, will ya.. (points to the others)
+337		(Monica passes the Envelopes on to Ross, Joey and Rachel.)
+338	Ross	 Oh, hey...
+339		(They all open their envelopes.)
+340	Ross	 (reading off his card) "A donation has been made in your name to the New York City Ballet." -- How did you know?
+341	Rachel	 Wha... are you kidding? I can't return this.
+342	Chandler	 I... thought it was a timely start to thinking about other people. Besides, this gift still says I love you guys.
+343	Joey	 Mine's is to Lilian Myers.
+344	Chandler	 I don't have a *job*!
+345		--- Closing Credits ---
+346	[Scene	 Mondler's Apartment, Monica is cleaning up, Chandler is sitting on the couch, checking the Job offers in a Newspaper.]
+347	Chandler	 Actuary... no. Book-keeper... no. Topless dancer... (he looks down on himself, checking, then nods satisfied and marks the offer with a pen) (to Monica
+348	Monica	 You are! (she picks up a bill from the table, handing it to Chandler) Hey, here's twenty bucks. -- Why don't you go buy yourself something pretty while I'm at work tomorrow?
+349		(Chandler looks at the bill, thinking... then looks at the offer in the Newspaper and makes some dancing moves to see if he's up for the job...)
+350		--- End ---
+351		

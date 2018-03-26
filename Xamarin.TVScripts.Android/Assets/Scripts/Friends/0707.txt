@@ -1,0 +1,285 @@
+1	Written by	 Scott Silveri Directed by
+2	[Scene	 Joey and Rachel's, Joey is eating breakfast as Rachel enters, having just woken up.]
+3	Joey	 Morning!
+4	Rachel	 Hi! Oh, how was your date last night?
+5	Joey	 Pretty good.
+6	Rachel	 Oh good. (She walks to the closed bathroom door, opens it, and finds a naked woman wrapped in a towel.) Ahhh! My God, sorry! (She closes the door and confronts Joey.)
+7	Joey	 Okay, really good. Anyway I gotta go; I’m late for work.
+8	Rachel	 What-what?! You’re gonna leave this person with me?!
+9	Joey	 Yeah—Hey, don’t worry, she’s a terrific girl. And hey listen, could you do me a favor? When she comes out could you just mention that I’m not looking for a serious relationship; that’d be great.
+10	Rachel	 Why?! What?! Are you kidding?!
+11	Joey	 Just casually slip it in, y’know lay the groundwork. Tell her uh, I’m a loner—No! An outlaw! Tell her she doesn’t want to get mixed up with the likes of me.
+12	Rachel	 Y’know what? That’s a lot to remember, can’t I just tell her you’re a pig?
+13	Joey	 Hey, I’m gonna call her later! Honest! Oh come on, Chandler used to do it! He’d even make the girl pancakes! Plus, he’d make extras and leave ‘em for me.
+14	Rachel	 Well forget it, I’m not telling that girl anything. That is not my responsibility.
+15	Joey	 Fine! (Pause) Now, where’d we land on those pancakes? (She chases him out the door as his date emerges from the bathroom.)
+16	Joey’s Date	 Hi!
+17	Rachel	 Hi.
+18	Joey’s Date	 Sorry about that, but I couldn’t get that lock to work on the door.
+19	Rachel	 Yeah, Joey kinda disabled it when I moved in.
+20	Joey’s Date	 You must be Rachel, I’m Erin.
+21	Rachel	 Hi.
+22	Erin	 Hi. I don’t mean this to sound like high school, but did he say anything about me?
+23	Rachel	 (pause) Would you like some pancakes?
+24		Opening Credits
+25	[Scene	 N.Y.U’s University Library, Ross is entering with Chandler.]
+26	Chandler	 …Come on! Why are we here?!
+27	Ross	 Okay, okay take a guess.
+28		(An old woman pushes a cart full of books past.)
+29	Chandler	 The hot chicks?
+30	Ross	 Okay, okay, I was typing names into the library computer earlier, y’know-y’know for fun, and I typed mine in and guess what came up? My doctoral dissertation! It’s here! Yeah, it’s right-it’s right down here! In the biggest library in the university! (They start heading that way, towards a secluded section behind the racks.)
+31	Chandler	 Wow that’s actually pretty cool.
+32	Ross	 (stopping quickly) Oh umm, there’s also a book here by a woman named Wendy Bagina. (They both laugh, but stop when the hear moaning coming from the next aisle.) What is that?
+33	Chandler	 Sounds like two people are really enjoying the Dewey decimal system.
+34		(They go around the last row of bookshelves and find a couple doing what college coeds do in secluded corners of university libraries. For those of you who don’t know what I’m talking about, let’s just say that clothing is undone. Ross gasps and the couple gets up and runs away.)
+35	Female Student	 (as they are moving past Ross) I’m so sorry!
+36	Male Student	 Sorry!
+37	Chandler	 You didn’t bring me here to do that, did you?
+38	[Scene	 Monica’s Restaurant Kitchen, Monica is cooking as a waitress enters carrying a plate of food that has been sent back.]
+39	Monica	 She sent the chicken back again?!
+40	The Waitress	 She says it’s too dry now and she wants to come back here and explain to you exactly how she wants it.
+41	Monica	 Well fine! I want to meet this chicken expert! Send the Colonel in!
+42		(The waitress lets her in as Monica is about to throw a lobster into a pot of boiling water (Although, she hasn’t taken off the rubber bands that hold the claws, so she can’t be that good a chef). Anyway, guess who the Colonel is by the following phrase.)
+43	The Colonel	 OH…MY…GAWD!!!! (Yep, it’s Janice.)
+44	Monica	 (to the lobster) Lucky bastard! (Throws the lobster in and turns around to face the planet’s most annoying woman, next to Dr. Laura and Kathy Lee Gifford of course. She’s the most annoying female TV character however.) Janice.
+45	Janice	 How are you Ms. Hot Shot chef with the big fancy restaurant with the best chicken ever! (Does the laugh.)
+46	Monica	 I’m fine.
+47	Janice	 (notices Monica’s engagement ring) Ohh! What is that on your finger?! I’m blind!
+48	Monica	 Oh… Uh…
+49	Janice	 So, who’s the lucky guy?
+50		[Cut to Monica and Chandler’s just after Monica has finished telling Chandler what happened.]
+51	Chandler	 OH…MY…GAWD! I am so sorry sweetie, are you okay? You didn’t tell her we were getting married, did you?
+52	Monica	 Well, she saw the ring.
+53	Chandler	 Did she freak out?
+54	Monica	 Well, she was shocked when I told her, but then again so were most people.
+55	Chandler	 Right.
+56	Monica	 Well, she actually has a boyfriend y’know herself, named Clark. Uh, she also kinda invited herself to our wedding. Clark too.
+57	Chandler	 (laughs) You said no, right?
+58	Monica	 Huh?
+59	Chandler	 You said no, right?!
+60	Monica	 Well, she cornered me! She asked if the wedding was in town! I mean, what was I supposed to do?!
+61	Chandler	 Lie!!! How hard is that?! The check’s in the mail! Oh your baby is so cute! I can’t wait to read your book, Ross!!
+62	Monica	 Come on! So she comes to the wedding! I mean it won’t be so bad.
+63	Chandler	 What do you think, she’s just gonna sit there quietly? You don’t think she’s gonna want to make a toast? You don’t think she’s gonna want to grab the microphone and sing Part-time Lover?!
+64	Monica	 Oh my God, she’s not gonna like the chicken that night either, is she?!
+65	Chandler	 Y’know what? It’s gonna be okay. Y’know what? She’s probably not gonna even want to come.
+66	Monica	 Really?
+67	Chandler	 No! That was a lie! See how easy that was?
+68	Monica	 So-so you would’ve just lied?
+69	Chandler	 Yes!!
+70	Monica	 Would it really have been that easy?
+71	Chandler	 Yes!!!
+72	Monica	 Good, so do it Saturday night because we’re going to dinner with her and Clark.
+73	[Scene	 Joey and Rachel's, Joey is coming back from work to find Phoebe, Rachel, and someone else with her back turned, are there.]
+74	Joey	 Hey! What’s up?
+75	Phoebe and Rachel	 Hey!
+76	Joey	 Hey-hey, who’s your friend? (Erin turns around to face Joey, startling him) Hey!!
+77	Erin	 Hey Joey!
+78	Joey	 Erin! Still here!
+79	Rachel	 Yeah, we ended up spending the day together and had such a great time!
+80	Joey	 Why wouldn’t ya? Erin is great! Then-then there’s you guys.
+81	Erin	 Ohh, listen. I’ve got to get going. Today was great, thanks!
+82	Rachel	 I know!
+83	Phoebe	 Okay!
+84	Erin	 Bye Joey. (Kisses him.) Last night was fun.
+85	Joey	 Yeah. I’ll uh, I’ll call ya.
+86	Rachel	 Oh and I’ll call ya too!
+87	Erin	 Or I’ll call you!
+88	Phoebe	 And call me!
+89	Joey	 (to Erin) Okay, good to see you again.
+90	Erin	 Bye.
+91	Joey	 Bye-bye.
+92	Rachel	 Bye!
+93		(Joey closes the door behind her.)
+94	Joey	 So, system kinda broke down huh?!
+95	Rachel	 Oh Joey, I’m sorry I just couldn’t tell her all those things you wanted me to tell her. And y’know we got to talking and I…
+96	Phoebe	 We want you to marry her!
+97	Joey	 What?!!
+98	Phoebe	 She is so amazing! You have no idea.
+99	Joey	 No idea? Who do you think brought her here?
+100	Rachel	 Cupid.
+101	Phoebe	 Joey, she’s so cool. She speaks four languages.
+102	Joey	 Man, do you know what guys want!
+103	Rachel	 Look Joey, come on, she’s so perfect for you! I mean, she’s sweet, she-she likes baseball, and she-she had two beers at lunch.
+104	Joey	 My beers?! Look you guys, she’s a very nice girl. Okay? We had a good time, but I just—I don’t see it going anywhere.
+105	Phoebe	 Yeah, but you always say that.
+106	Rachel	 Yeah, maybe if you gave this girl a chance it would go somewhere.
+107	Joey	 Look, I’m sorry you guys, I-I just don’t think so.
+108	Phoebe	 Whatever.
+109	Rachel	 Fine. (They start to walk away.)
+110	Joey	 Hey, don’t start judging me! (To Rachel) Huh? You’re the one who’s in love with her assistant! (To Phoebe) Huh? And you, you’re the one having the affair with the guy who keeps the pigeons on the roof!
+111	Rachel	 Phoebe!
+112	Phoebe	 Secret affair!
+113	[Scene	 Central Perk, Rachel and Joey are there as Ross enters.]
+114	Ross	 People are doing it in front of my book!
+115	Rachel	 I’m sorry?
+116	Ross	 My doctoral dissertation is in the library at school, I went to see it, and there were students makin’ babies right in the middle of the Paleontology section!
+117	Rachel	 Oh my God! Did you get to see anything good?
+118	Ross	 Let me ask you something, at your school was there a like uh a place on campus where students went to uh, fool around.
+119	Rachel	 Yeah, there was. It was—there the corner of the library where-where all these dusty books that nobody ever read—Yes, there was.
+120	Ross	 Great! Because people kept showing up, I think it’s like uh-a thing!
+121	Joey	 Now hold on a second, fifth floor against that back wall?
+122	Ross	 Oh for cryin’ out loud! (He storms out.)
+123	Joey	 All right, so we should go catch our movie.
+124	Rachel	 Well now what’s the rush?
+125	Joey	 I like to see the previews. (Rachel looks at him.) The candy.
+126	Phoebe	 (entering with Erin) Oh. Hey!
+127	Rachel	 Well look who’s here!
+128	Erin	 Hey!
+129	Joey	 Hey!
+130	Erin	 Joey.
+131	Joey	 Erin.
+132	Erin	 Hey Rachel.
+133	Rachel	 Hi! Well, we were just about to take off and see a movie. Oh no!
+134	Erin	 What’s wrong?
+135	Rachel	 Oh Phoebe, we forgot that party we have to go to.
+136	Phoebe	 Oh no.
+137	Joey	 (skeptical) What party?
+138	Phoebe and Rachel	 A birthday party.
+139	Joey	 Who’s birthday party?
+140	Phoebe and Rachel	 Alison’s birthday party.
+141	Joey	 (still skeptical) Oh, and how old is Alison?
+142	Phoebe and Rachel	 32. (Joey’s not buying it.)
+143	Rachel	 (does a retching sound) Wait a minute! Why don’t you guys do something?!
+144	Joey	 (still skeptical) Yeah, look how that worked out.
+145		Commercial Break
+146	[Scene	 The Library, Ross enters and heads to the desk to talk to the male librarian on duty.]
+147	Ross	 Excuse me. Hi, I’m a professor here. Do you know the Paleontology section, fifth floor, stack 437?
+148	The Librarian	 Well, yes! Just give me five minutes, I just have to find someone to cover my shift.
+149	Ross	 No! No!! No! Can I speak to someone in charge please?! (The librarian brings his boss over.)
+150	The Head Librarian	 How can I help you?
+151	Ross	 Hi, I was wondering if it is possible to increase security in the Paleontology section? See I-I wrote a book up there and instead of reading it people are-are-are well, rolling around in front of it.
+152	The Head Librarian	 We are aware of the problem you are referring to. (He turns to look at the previous librarian.) But as far as increasing security, I’m afraid the library is very understaffed. I, I can’t help you.
+153	Ross	 Well, fine. Fine! If-if I’m the only person with any appreciation of the sanctity of the written word, I’ll go up there and defend it myself! (Starts to do so, but stops and to the previous librarian) And don’t you follow me!
+154	[Scene	 Joey and Rachel's, Rachel and Phoebe are doing dishes as Joey enters.]
+155	Joey	 Hey.
+156	Phoebe	 Hey!
+157	Rachel	 How did it go with Erin?
+158	Joey	 Oh, unbelievable! We had the best time!
+159	Phoebe	 Yay!! Oh so, you’re not, you’re not mad at us anymore?
+160	Joey	 No! No! No! You guys were totally right! This is so much better than the first time we went out. Y’know? That was so awkward, we were really nervous.
+161	Phoebe	 Didn’t you sleep together?
+162	Joey	 Yeah, that really calms me down. And! We have so much in common! She loves sandwiches, sports, although she is a Met fan, not much of an issue now but if we were ever to have kids, well that’s a…
+163	Rachel	 (gasps) Oh my God! Listen to you talkin’ about having kids. Oh my Joey. (She goes over and hugs him.) Oh, please don’t get married before I do.
+164	Joey	 Okay.
+165	[Scene	 A Restaurant, Monica and Chandler are on their date with Janice and Clark, however Clark is a no show and Janice is crying the Mississippi River about it.]
+166	Janice	 Oh. Oh I just cannot believe Clark stood me up!
+167	Monica	 He might still show up.
+168	Janice	 Oh, what are you, stupid? It’s been three hours.
+169	Monica	 Is that all?
+170	Janice	 I should just go on to happier things, okay? Umm, why don’t you tell about your lovely wedding?
+171	Chandler	 Well actually uh, there was something we wanted to tell you about the wedding. Um, it’s going to be a small ceremony. Uh, tiny! We’re not even sure why we’re having it.
+172	Monica	 It’s actually going to be just family.
+173	Janice	 Oh…wait…you two think of me as family?! Oh, I have to ask you something now and be honest; do you want me to sing Careless Whisper or Lady In Red?
+174	[Scene	 Central Perk, Joey is entering and arguing baseball with Erin. Phoebe and Rachel are already there.]
+175	Joey	 How can you say that?! The Mets have no closer!
+176	Erin	 What about Benitez?
+177	Joey	 What about Game 1 of the Series?
+178	Erin	 What about shut up?
+179	Joey	 You shut up! (To Phoebe and Rachel) I love arguing with her. (To Erin) I’ll be right back.
+180	Erin	 Okay. (Joey goes to get some coffee and Erin sits down.)
+181	Rachel	 So how’s it goin’ with Joey?
+182	Erin	 Uh, okay.
+183	Rachel	 Okay? Wait okay, tell-tell me that you like him, please? I mean tell me that you like him.
+184	Erin	 Look, he’s a really great guy and I know that you really want this to work out, but I just don’t see this having a future.
+185	Rachel	 But you said that you liked him! I mean what happened?! Did ya just change your mind?!
+186	Erin	 Kinda.
+187	Phoebe	 Then change it back!
+188	Erin	 I’m sorry I… It’s just there’s no real spark.
+189	Phoebe	 No spark? Didn’t you sleep together?
+190	Erin	 Yeah.
+191	Rachel	 Ugh, tramp!
+192	Phoebe	 Does Joey have any idea?
+193	Erin	 I really don’t think he does. And y’know what? Maybe you guys could help clue him in. Y’know, tell him I’m-I’m not interested in a serious relationship or something.
+194	Phoebe	 Yeah, you mean like that you’re kind of a loner.
+195	Erin	 Yeah! That would be great!
+196	Phoebe	 Yeah, and maybe that you’re a real (She says something in Italian, and it doesn’t matter what she said. It’s not important so I don’t need everyone who speaks Italian telling me what she said.)
+197	Erin	 I’m sorry?
+198	Phoebe	 Oh well, I guess Italian isn’t one of the four languages you speak.
+199	Joey	 (returning) Hey! You wanna go?
+200	Erin	 Yeah, let’s go.
+201	Joey	 Okay. See you guys later.
+202	Erin	 Bye guys.
+203	Rachel	 Yeah, see ya.
+204	Joey	 (whispers to Phoebe and Rachel) Hey, thank you so much. (They both exit.)
+205	Rachel	 Wow. Well, I guess it was Cupid who brought her here.
+206	Phoebe	 No, just a regular old flying dwarf.
+207	[Scene	 The library’s Paleontology section, Ross is patrolling as a couple walks up.]
+208	Ross	 Yes? Yes?! How can I help you?
+209	Guy	 Yeah, we were…we were just looking around.
+210	Ross	 Oh-oh, you’re-you’re fellow scholars. What exactly were you looking for, hmm? Perhaps, (Grabs a book from the shelf behind him) perhaps Dr. Chester Stock’s musings on the Smiledon Californicus?
+211	Guy	 Uhh….
+212	Ross	 Ah… Ah…Get out of here! (The couple retreats. Ross starts looking through the previously mentioned book as a beautiful woman walks into the section.) Uh, meeting someone? Or-or are you just here to brush up on Marion’s views on evolution?
+213	Woman	 Uh, actually I find Marion’s views far too progressionist.
+214	Ross	 I find Marion’s views far too progressionist.
+215	Woman	 I’m sorry, who are you?
+216	Ross	 I’m a professor here uh, Ross…Geller.
+217	Woman	 Ross Geller, why do I know that name? It’s uh—Wait! (Grabs his book off of the shelf.) Did you write this?
+218	Ross	 Yes! You’re the person who checked out my book?!
+219	Woman	 Y’know, you look nothing like I would’ve thought. You’re…you’re so young.
+220	Ross	 Well I uh, I skipped forth grade.
+221		[Time Lapse, Ross and the woman are now in a state of partial undress and are standing in front of the head librarian with two security guards watching them.]
+222	Ross	 I am very…very sorry.
+223	[Scene	 Joey and Rachel's, Phoebe and Rachel are watching TV as Joey enters.]
+224	Joey	 Hey!
+225	Phoebe	 Hey!
+226	Rachel	 Hi!
+227	Phoebe	 So how was, how was your date?
+228	Joey	 Oh, it was great! I mean we walked all around the village. We went to this ice cream place, split a milkshake, 70/30 but still… And guess what, I’m thinking about taking her upstate to one of those bed and breakfasts.
+229	Phoebe	 Oh really? She said she wants to go away with you?
+230	Joey	 No-no-no-no-no! It’s a surprise, but it’s gonna be tricky though because she said she was gonna be pretty busy at work for a while.
+231	Phoebe and Rachel	 Oh no, yeah.
+232	Rachel	 Jo-Joey, look honey we-we need to talk okay? Umm, I kinda got the feeling from her today that uh, she’s not lookin’ for a serious relationship.
+233	Joey	 Where are you gettin’ this?
+234	Rachel	 Well, she told me. She said she’s kind of a loner.
+235	Joey	 Oh. Oh.
+236	Rachel	 Joey…
+237	Joey	 No hey Rach, it’s cool okay? Y’know I’m a loner too! (Heads for his room.) Right?
+238	Phoebe	 Hey Joey, y’know what? You are way too good for her.
+239	Rachel	 Yeah and honey I promise next time that I will just say good-bye and tell ‘em you’re not looking for a relationship.
+240	Joey	 No! No. Don’t do that, just next time make sure she really likes me.
+241	Rachel	 Well that too. (Joey goes into his room.) Joey?
+242	Joey	 Yeah?
+243	Rachel	 Do you want some pancakes?
+244	Joey	 (coming back out) Finally!
+245	[Scene	 Monica, Chandler, and Phoebe's, Chandler and Monica are sitting at the kitchen table and are still trying to decide what to do about Janice.]
+246	Monica	 What are we gonna do?
+247	Chandler	 I say we go with Careless Whisper.
+248		(There’s a knock on the door and Janice enters.)
+249	Janice	 Chandler?
+250	Chandler	 (To Monica) Did she see us yet? Did she see us?
+251	Monica	 Janice, what umm, what are you doing here?
+252	Janice	 Well umm, I thought I was going to go back to my apartment but then I just felt I couldn’t really be alone tonight. (Joey walks into view of the open door behind Janice, sees her, gets a terrified look on his face, and flees in horror.) I was wondering if I could maybe stay here with you, just I really feel that I need to be with family.
+253	Monica	 (To Chandler) Our kids are gonna call her Aunt Janice aren’t they?
+254	Janice	 Please, it’s because otherwise I really don’t know what I might do.
+255	Chandler	 Aren’t you just a tinsy bit curious?
+256	Janice	 (starting to cry) Do you have any tissues?
+257	Monica	 Yeah, in-in-in the bathroom.
+258	Janice	 Okay! (She runs for the bathroom)
+259	Monica	 We’ll just…we’ll just let her stay.
+260	Chandler	 No-no-no-no, if we let her stay, she will stay forever!
+261	Monica	 Kinda like your barcalounger.
+262	Chandler	 Is that what you’re thinking about right now?
+263	Monica	 I never stop thinking about it.
+264	Janice	 Hey you guys, umm do either one of you want to get in there before I take my bath.
+265	Chandler	 Janice, I’m sorry but umm, you can’t stay here tonight.
+266	Janice	 Why not?
+267	Chandler	 Honestly? Our apartment is a hotbed for electromagnetic activity. Now Monica and I have been immunized, but sadly you have not.
+268		(And she does the laugh.)
+269	Janice	 Okay, I’m going to need a comforter, but did you have a hypoallergenic one because otherwise I get very nasal. (Makes some weird sound) Do you have a cat? ‘Cause it’s already happening. (Makes a nasal sound) Do you hear that? (She keeps making the nasal sound.)
+270		(Chandler does the same nasal sound to Chandler.)
+271	Monica	 Oh my God! Oh my God! You have to go!
+272	Janice	 Why?
+273	Monica	 Because Chandler still has feelings for you!
+274	Janice	 He does?
+275	Chandler	 Say again?
+276	Monica	 That’s right. That’s right. And that is why you can’t stay here tonight. And probably why you shouldn’t come to the wedding.
+277	Chandler	 Feelings, such strong feelings.
+278	Monica	 I mean, I realize that his feelings may never completely go away, but you can.
+279	Janice	 Oh…my Gawd, I-I understand. I-I am so sorry, I’ll go. (Starts for the door.) Good-bye Monica (hugs her), I wish you a lifetime of happiness with him. Chandler, (hugs him) you call me when this goes in the pooper. (Hurries out.)
+280		Ending Credits
+281	[Scene	 The library’s Paleontology section, Ross is on patrol and stops a security guard through the stack of books.]
+282	Ross	 (to the guard) Don’t sweat it, I’ve got this section covered. Yeah, in fact I’ve got this little baby (Turns on a mini-flashlight) to shine in people’s eye—(The guard walks away)—Okay, see you later.
+283		(Ross resumes his patrol when his best friend and sister walk up and start to take off their coats, but they stop when they see him.)
+284	Chandler	 I just wanted to show Monica your book. (Ross just glares at him.)
+285		End

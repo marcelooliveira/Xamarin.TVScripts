@@ -1,6 +1,10 @@
 1	Season 1
 2	Season 2
-3	Season 3		
-4	Season 4	
-5	Season 5	
+3	Season 3
+4	Season 4
+5	Season 5
 6	Season 6
+7	Season 7
+8	Season 8
+9	Season 9
+10	Season 10

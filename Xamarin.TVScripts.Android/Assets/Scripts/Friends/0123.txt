@@ -1,0 +1,329 @@
+1	Story by	 David Crane & Marta Kauffman Teleplay by
+2	[Scene	 The hospital, Ross, Rachel, Chandler, Joey, and Monica are in the waiting room, waiting for Carol and Susan to arrive.]
+3	Ross	 She's not here yet. She's not here. She's having my baby and she's not here.
+4	Monica	 I'm sure everything's fine. Has her water broke yet?
+5	Ross	 I don't know, but when I spoke to her, she said she had already passed the mucus plug.
+6		(Joey makes a sound of absolute disgust.)
+7	Joey	 Do we have to know about that?
+8	Monica	 Joey, what are you gonna do when you have a baby?
+9	Joey	 I'm gonna be in the waitin' room, handing out cigars.
+10	Chandler	 Yes, Joey's made arrangements to have his baby in a movie from the 50's.
+11	Ross	 God, I don't believe this. She could be giving birth in the cab.
+12	Rachel	 Oh, Ross, relax. It's probably like two dollars for the first contraction, and then fifty cents for each additional contraction.
+13		(Everyone looks at Rachel as though she made a tasteless comment.)
+14	Rachel	 What, it's ok when Chandler does it?
+15	Chandler	 You have to pick your moments.
+16		(Phoebe arrives, guitar in hand.)
+17	Phoebe	 Did I miss it, did I miss it?
+18	Ross	 She's not even here yet.
+19	Monica	 What's with the guitar?
+20	Phoebe	 I just thought we might be here for awhile. You know, things might get musical.
+21		(Carol and Susan arrive.)
+22	Ross	 (to Carol) Where the hell have you been?
+23	Susan	 We stopped at the gift shop.
+24	Carol	 I was looking at stuffed animals, and Susan wanted a Chunky.
+25	Ross	 Susan wanted a Chunky. We're having a baby, ok, a baby, you don't stop for Chunkys.
+26	Chandler	 I used to have that bumper sticker.
+27		(Everyone is amused by Chandler's comment.)
+28	Chandler	 (to Rachel) You see what I mean.
+29		Opening Credits
+30	[Scene	 Carol's Hospital Room, Carol is on the bed, Ross and Susan are at her side.]
+31	Ross	 Stopped for a Chunky.
+32	Carol	 Let it go, Ross.
+33	Susan	 I got an extra one. You want this? (holds the candy in front of Ross' face)
+34	Ross	 (weakly) No.
+35		(Carol's doctor, Dr. Franzblau arrives.)
+36	Dr. Franzblau	 Hey, how's my favorite parenting team doing?
+37	Ross	 Dr. Franzblau, hi.
+38	Dr. Franzblau	 So, I understand you're thinking of having a baby? Well, I see you're nine months pregnant. That's a good start. How you doing with your contractions?
+39	Carol	 Oh, I love them. Each one's like a little party in my uterus.
+40	Susan	 They're every four minutes and last 55 seconds.
+41	Ross	 59 seconds. (holds up his watch) Quartz, ha.
+42	Susan	 Swiss quartz, ha, ha.
+43	Carol	 Am I allowed to drink anything?
+44	Dr. Franzblau	 Ice chips, just ice chips. They're at the nurses' station.
+45	Ross	 I'll get it.
+46	Susan	 No, I'm getting it. I'll be right back.
+47	Ross	 I got it—I'm getting it!
+48		(They both leave just as Rachel enters the room, holding a cup.)
+49	Rachel	 Hi, I thought you might like some ice chips.
+50	Carol	 Thanks.
+51	Rachel	 And if you need anything else, I—(notices the handsome Dr. Franzblau)—do not believe we've met. Hi. I'm, uh, Rachel Green. I'm Carol's... ex-husband's... sister's roommate.
+52	Dr. Franzblau	 It is nice to meet you. I'm Dr. Franzblau. I'm your roommate's... brother's... ex-wife's obstetrician.
+53	Rachel	 Oh, that's funny!
+54	[Scene	 The Waiting Room, Chandler is falling asleep on Monica's shoulder.]
+55	Monica	 I want a baby.
+56	Chandler	 Mmmm. Not tonight, honey. I got an early day tomorrow.
+57	Monica	 Get up. Come on. Let's get some coffee.
+58	Chandler	 Oh, ok, 'cause we never do that.
+59		(Chandler and Monica leave. Cut to Joey, watching the Knicks/Celtics game on television.)
+60	Joey	 (to the screen) Shoot! Shoot! Shoot! Shoot, or just fall down. That's good too.
+61		(A young pregnant woman enters.)
+62	Lydia	 Knick fan?
+63	Joey	 Oh, yeah.
+64	Lydia	 Oh, boy, do they suck.
+65	Joey	 Hey, listen, lady....(sees that she's pregnant)...whoa.
+66	Lydia	 Look, look at your man, Ewing. Nice shot. You know what, he couldn't hit water if he was standing on a boat.
+67	Joey	 Oh yeah? And who do you like?
+68	Lydia	 The Celtics.
+69	Joey	 The Celtics? Ha. They couldn't hit a boat if...wait. They suck, alright?
+70	Lydia	 Oh, shut up. You know, it's a rebuilding year. You... waah!
+71	Joey	 Wha? Wha..aa? Let me get the father. Hey, we need a father over here! We need a father!
+72	Lydia	 There is no father.
+73	Joey	 Oh, oh, oh, sorry.
+74	Lydia	 Ok, that's ok. I'm fine. I'm... oh!
+75	Joey	 Oh, uh, ok. Right this way. All the other pregnant women seem to be goin' in here.
+76	Lydia	 Ok.
+77		(Joey accompanies Lydia to a hospital room.)
+78	[Scene	 The Waiting Room, Phoebe is playing a song. Chandler, Monica, and Ross are there as well.]
+79	Phoebe	 (singing)
+80		They're tiny and chubby and so sweet to touch, and soon they'll grow up and resent you so much. Now they're yelling at you and you don't know why, you cry and you cry and you cry. And you cry and you cry and you cry...
+81		(Ross gives Phoebe a dollar.)
+82	Phoebe	 Thanks, Ross.
+83	Ross	 Yeah. I'm paying you to stop.
+84	Phoebe	 Ok.
+85		(A woman passes by, carrying newborn twins.)
+86	Phoebe	 Oh, look, twins. Hi, guys. Oh, cute, cute.
+87	Monica	 No fair. I don't even have one. How come they get two?
+88	Chandler	 You'll get one.
+89	Monica	 Oh yeah? When?
+90	Chandler	 All right. I'll tell you what. When we're 40, if neither one of us are married, what do you say you and I get together and have one?
+91	Monica	 Why won't I be married when I'm 40?
+92	Chandler	 Oh, no, no. I just meant hypothetically.
+93	Monica	 Ok, hypothetically, why won't I be married when I'm 40?
+94	Chandler	 No, no, no.
+95	Monica	 What is it? Is there something fundamentally unmarriable about me?
+96	Chandler	 (trapped) Uh, uh.
+97	Monica	 Well?
+98	Chandler	 Dear God! This parachute is a knapsack! (throws himself over the back of the chair he was sitting in)
+99		(Rachel enters, in a formal dress.)
+100	Rachel	 Hey.
+101	Phoebe	 Hey. Ooh, look at you, dressy-dress.
+102	Monica	 Did you go home and change?
+103	Rachel	 Yeah, well, it's an important day. I wanna look nice. Um, has uh Dr. Franzblau been by?
+104	Monica	 No, I haven't seen him.
+105	Rachel	 Well, where is he? He is supposed to be here. (Pause) What if the baby needs him?
+106	Chandler	 Rachel, what is the deal with you and doctors, anyway? Was, like, your father a doctor?
+107	Rachel	 Yeah, why?
+108	Chandler	 No reason. (turns around, makes an 'Oh my God' gesture with his eyes)
+109	[Scene	 Joey and Lydia in the hospital room. Lydia is on the phone with her mother.]
+110	Lydia	 Mom, we've been through this. No, I'm not calling him. I don't care if it is his kid, the guy's a jerk. No, I'm not alone. Joey's here. (pause) What do you mean, Joey who? (covers the phone, to Joey) Joey who?
+111	Joey	 Tribbiani.
+112	Lydia	 Joey Tribbiani. Yes, ok. Hold on. (to Joey) She wants to talk to you. Take the phone.
+113	Joey	 (takes phone) Hi, yeah, it's me. (Listens) Oh, no no no, we're just friends. (Listens) Yeah, I'm single. (Listens) 25. (Listens) An actor. (Listens) Hello?
+114	Lydia	 She's not much of a phone person.
+115	Joey	 Yeah, so, uh, so, uh, what's the deal with this father guy, I mean, if someone was havin' my baby somewhere, I'd wanna know about it, you know?
+116	Lydia	 Hey, Knick fan, am I interested in your views on fatherhood? Uh, no.
+117	Joey	 Ok, look, maybe I should just go.
+118	Lydia	 Maybe you should.
+119	Joey	 Good luck, and uh, take care, huh?
+120		(He leaves, but then returns a moment later.)
+121	Joey	 You know what the Celtics problem is? They let the players run the team.
+122	Lydia	 Oh, that is so not true.
+123	Joey	 Oh, it is.
+124	Lydia	 It isn't.
+125	Joey	 It is.
+126	Lydia	 Isn't!
+127	[Scene	 Carol's Hospital Room, Ross and Susan are coaching Carol.]
+128	Ross	 Breathe.
+129	Susan	 Breathe.
+130	Ross	 Breathe.
+131	Susan	 Breathe.
+132	Ross	 Breathe.
+133	Susan	 Breathe.
+134	Carol	 You're gonna kill me!
+135	Ross	 15 more seconds, 14, 13, 12...
+136	Carol	 Count faster.
+137	Susan	 It's gonna be ok, just remember, we're doing this for Jordie. Just keep focusing on Jordie.
+138	Ross	 Who the hell is Jordie?
+139	Susan	 Your son.
+140	Ross	 No-no-no. I don't have a son named Jordie. We all agreed, my son's name is Jamie.
+141	Carol	 Well, Jamie was the name of Susan's first girlfriend, so we went back to Jordie.
+142	Ross	 What? Whoa, whoa whoa whoa, what do you mean, back to Jordie? We never landed on Jordie. We just passed by it during the whole Jessy, Cody, Dylan fiasco.
+143	Carol	 Ow, ow, ow, ow, leg cramp, leg cramp, leg cramp.
+144	Ross	 I got it.
+145	Susan	 I got it.
+146	Ross	 I got it! Hey, you get to sleep with her, I get the cramps.
+147	Susan	 No, you don't.
+148	Carol	 All right, that's it. I want both of you out.
+149	Ross	 Why?
+150	Susan	 He started it!
+151	Ross	 No, you started it.
+152	Susan	 You did!
+153	Carol	 I don't care. I am trying to get a person out of my body here, and you're not making it any easier.
+154	Ross	 But...
+155	Carol	 Now go!
+156	Ross	 (to Susan) Thanks a lot.
+157	Susan	 (to Ross) See what you did.
+158	Ross	 (to Carol) Yeah, listen...
+159	Carol	 Out!
+160		(Ross and Susan both angrily leave the hopsital room.)
+161	[Scene	 Lydia's Hospital Room, Joey is helping Lydia go through labor, a nurse is now present in her room as well.]
+162	Nurse	 Breathe, breathe, breathe...
+163	Lydia	 Oh, no.
+164		(Joey looks down at Lydia.)
+165	Joey	 Ew! What is that? Something exploded!
+166	Nurse	 It's just her water breaking. Calm down, will you?
+167	Joey	 (panicked) Water breaking, what do you mean? What's that, water breaking?
+168	Nurse	 (to Joey) Breathe, breathe, breathe.
+169	[Scene	 The Hall, Ross and Susan are arguing.]
+170	Ross	 Please. This is so your fault.
+171	Susan	 How, how is this my fault?
+172	Ross	 Look, Carol never threw me out of a room before you came along.
+173	Susan	 Yeah? Well, there's a lot of things Carol never did before I came along.
+174	Ross	 You tryin' to be clever? A funny lady?
+175	Susan	 You know what your problem is? You're threatened by me.
+176	Ross	 Oh, I'm threatened by you?
+177	Susan	 Yes.
+178		(Phoebe has heard them arguing and comes down the hall, taking them into a broom closet.)
+179	Phoebe	 Hey, hey, ok, all right, that's it! Get in here. Come on. My god, you guys, I don't believe you. There are children coming into the world in this very building and your negative fighting noises are not the first thing they should be hearing. So just stop all the yelling, just stop it!
+180	Ross	 Yeah, Susan.
+181	Phoebe	 Don't make me do this again, I don't like my voice like this.
+182		(Phoebe goes to leave the room, but the door is locked.)
+183	Phoebe	 Ok, who wants to hear something ironic?
+184		Commercial Break
+185	[Scene	 The Broom Closet, Ross and Susan are trying to get out.]
+186	All	 Help!
+187	Ross	 I'm having a baby in here! Ok, everyone stand back. (Walks backwards as if he is going to break down the door, but steps in a bucket and falls) Ow.
+188	[Scene	 Carol's room, Rachel and Dr. Franzblau are there with her.]
+189	Carol	 Are they here yet?
+190	Rachel	 No, honey, they're not, but don't worry, because we are going to find them, and until we do, we are all here for you, ok?
+191	Carol	 Ok.
+192	Rachel	 Ok?
+193	Carol	 Ok.
+194	Rachel	 (to Dr. Franzblau) Ok, so anyway, you were telling me about Paris, it sounds fascinating.
+195	Dr. Franzblau	 It really was. There was this great little pastry shop right by my hotel. (Carol sits up in pain, Rachel and Dr. Franzblau casually lay her back down) There you go, dear.
+196	[Scene	 Lydia's Room, Joey is helping her deliver.]
+197	Joey	 Come on, Lydia, you can do it. Push! Push 'em out, push 'em out, harder, harder. Push 'em out, push 'em out, way out! Let's get that ball and really move, hey, hey, ho, ho. Let's— (notices the nurse looking at him strangely) I was just—yeah, right. Push! Push!
+198	[Scene	 The Broom Closet, Ross has picked up a vacuum and is holding it at the door.]
+199	Susan	 What're you gonna do, suck the door open?
+200	Ross	 Help! Help!
+201	Phoebe	 (singing) They found their bodies the very next day, they found their bodies the very next...(sees Ross and Susan staring at her) la la la la la la.
+202	Susan and Ross	 (even louder) Help!
+203	[Scene	 The Waiting Room, Monica is on the phone with her mother, Chandler is standing behind her.]
+204	Monica	 Now, Mom, everything's going fine, really. (Listens) Yeah, Ross is great. He's uh, he's in a whole other place. (Listens) No, he's gone. (Listens) No no, you don't have to fly back, really. (Listens) What do you mean this might be your only chance? (Listens) Would you stop? I'm only 26, I'm not even thinking about babies yet.
+205		(Monica sees a woman pass by with a baby, puts the phone to her chest, and starts to cry. Chandler takes the phone, makes a noise in it resembling static, and hangs up. Joey enters.)
+206	Chandler	 Where have you been?
+207	Joey	 Oh, just had a baby.
+208	Chandler	 Mazel tov!
+209	[Scene	 The Waiting Room, Rachel and Dr. Franzblau have gone to get coffee.]
+210	Dr. Franzblau	 I don't know, could be an hour, could be three, but relax, she's doing great. So, uh, tell me, are you currently involved with anyone?
+211	Rachel	 (anxiously) No, no, not at the moment, no, I'm not. Are you?
+212	Dr. Franzblau	 No, it's hard enough to get women to go out with me.
+213	Rachel	 Right, yeah, I've heard that about cute doctors.
+214	Dr. Franzblau	 No, no, really. I suppose it's because I spend so much time, you know, where I do.
+215	Rachel	 Oh.
+216	Dr. Franzblau	 I try not to let my work affect my personal life, but it's hard, when you... do what I do. It's like uh...Well, for instance, what do you do?
+217	Rachel	 I'm a waitress.
+218	Dr. Franzblau	 Ok, all right, well aren't there times when you come home at the end of the day, and you're just like, 'if I see one more cup of coffee'...
+219	Rachel	 (getting the point) Yeah. Gotcha.
+220	Dr. Franzblau	 I'm gonna go check up on your friend.
+221	Rachel	 Ok. That's fine. (takes her earrings out)
+222	[Scene	 The Hall Outside Lydia's Room, Joey is walking up to Lydia's room with balloons, but before he enters he sees that the baby's father has arrived. He listens at the door.]
+223	Lydia	 So how did you know I was even here?
+224	Guy	 Your mom called me. So is this her?
+225	Lydia	 No, this is a loaner.
+226	Guy	 I'm sorry you had to do this by yourself.
+227	Lydia	 I wasn't by myself. I had a doctor, a nurse, and a helper guy. (Joey smiles) So, did you see who won the game?
+228	Guy	 Yeah, the Knicks by 10. They suck.
+229	Lydia	 Yeah, they're not so bad.
+230		(Joey closes the door and ties the balloons to the knob. Then he walks away, holding the hand of an inflated balloon animal he had brought.)
+231	[Scene	 The Broom Closet, Ross is trying to open the door with a credit card, with no success.]
+232	Ross	 Come on, come on. Damnit, damnit, damnit, damnit. (to Susan) This is all your fault. This is supposed to be, like, the greatest day of my life, y'know? My son is being born, and I should be in there, you know, instead of stuck in a closet with you.
+233	Susan	 The woman I love is having a baby today. I've been waiting for this just as much as you have.
+234	Ross	 No no no, believe me. No one has been waiting for this as much as I have, ok? And you know what the funny thing is? When this day is over, you get to go home with the baby, ok? Where does that leave me?
+235	Susan	 You get to be the baby's father. Everyone knows who you are. Who am I? There's Mother's Day, there's Father's Day, there's no... Lesbian Lover Day.
+236	Ross	 Every day is Lesbian Lover Day.
+237	Phoebe	 This is so great.
+238	Ross	 You wanna explain that?
+239	Phoebe	 I mean, well, 'cause when I was growing up, you know my dad left, and my mother died, and my stepfather went to jail, so I barely had enough pieces of parents to make one whole one. And here's this little baby who has like three whole parents who care about it so much that they're fighting over who gets to love it the most. And it's not even born yet. It's just, it's just the luckiest baby in the whole world. (pause) I'm sorry, you were fighting.
+240	[Scene	 Carol's Room, she is ready to give birth. Everyone is there except for Phoebe, Ross, and Susan, who are in the broom closet.]
+241	Carol	 Where are they?
+242	Monica	 I'm sure they'll be here soon.
+243	Rachel	 Yeah, honey, they wouldn't miss this.
+244	Joey	 Relax. You're only at nine centimeters. And the baby's at zero station.
+245	Chandler	 (to Joey) You are really frightening me.
+246		(Carol suddenly screams in pain and grabs Chandler by the shirt.)
+247	Chandler	 Somebody wanna help me, tryin' to rip out my heart. (they pull her hand off of him) Uh, that's great. (looking around) Anybody seen a nipple?
+248	Dr. Franzblau	 All right, ten centimeters, here we go.
+249	Nurse	 All right, honey, time to start pushing.
+250	Carol	 But they're not here yet!
+251	Dr. Franzblau	 I'm sorry, I can't tell the baby to wait for them.
+252	Carol	 Oh, god.
+253	[Scene	 The Broom Closet, Ross has used a broom to open the air vent in the ceiling. Phoebe is wearing a janitor's uniform, ready to go up in the vent.]
+254	Ross	 Ok, got the vent open.
+255	Phoebe	 (reading the nametag on the uniform) Hi, I'm Ben. I'm hospital worker Ben. It's Ben... to the rescue!
+256	Ross	 Ben, you ready? All right, gimme your foot. Ok, on three, Ben. One, two, three. Ok, That's it, Ben.
+257		(Ross and Susan lift Phoebe up into the vent.)
+258	Susan	 What do you see?
+259	Phoebe	 Well, Susan, I see what appears to be a dark vent. Wait. Yes, it is in fact a dark vent.
+260		(A janitor opens the closet door from the outside.)
+261	Ross	 Phoebs, It's open! It's open!
+262		(Ross and Susan run to the delivery room, leaving Phoebe dangling from the vent.)
+263	Janitor	 (to Ross and Susan) Wait! You forgot your legs!
+264	[Scene	 Carol's Room, Ross and Susan rush in.]
+265	All	 Push, push!
+266	Ross	 We're here!
+267	Carol	 (irked) Where have you been?
+268	Ross	 Long story, honey.
+269	Dr. Franzblau	 All right, Carol, I need you to keep pushing. I need—(reaches for an instrument, Rachel's hand is on it) Excuse me, could I have this?
+270	Nurse	 All right, all right, there's a few too many people in this room, and there's about to be one more, so anybody who's not an ex-husband or a lesbian life partner, out you go!
+271	All	 Good luck!
+272		(Everyone heads for the door.)
+273	Chandler	 (to nurse) Let me ask you, do you have to be Carol's lesbian life partner?
+274	Nurse	 Out!
+275	Dr. Franzblau	 All right, he's crowning. Here he comes.
+276	Ross	 Let me see, I gotta see, I gotta see. Oh, a head. Oh, it's, it's huge. Carol, how are you doing this?
+277	Carol	 (straining) Not.... helping!
+278	Dr. Franzblau	 You're doing great, you're doing fine.
+279	Ross	 (puts his head near the baby) Hello! (to Dr. Franzblau) Oh, sorry.
+280	Susan	 What do you see? What do you see?
+281	Ross	 We got a head, we got shoulders, we got arms, we got, oh, look at the little fingers, oh, and a chest, and a stomach. It's a boy, definitely a boy! All right! Ok, legs, knees, and feet. Oh, oh. He's here. He's a person.
+282	Susan	 Oh, look at that.
+283	Carol	 What does he look like?
+284	Ross	 Kinda like my uncle Ed, covered in Jell-o.
+285	Carol	 Really?
+286	Phoebe	 (from the air vent overhead) You guys, he's beautiful!
+287	Ross	 Oh, thanks, Pheebs!
+288		(They look up towards the vent and wave at Phoebe.)
+289	[Scene	 The Delivery Room, Carol is holding the infant.]
+290	Susan	 No shouting, but we still need a name for this little guy.
+291	Ross	 (thinking) How 'bout Ben?
+292	Susan	 I like Ben.
+293	Carol	 Ben. Ben. Ben's good. How come you never mentioned Ben before?
+294	Ross	 We uh, we just cooked it up.
+295	Susan	 That's what we were off doing.
+296		(Monica opens the door.)
+297	Monica	 Hi.
+298	Ross	 Hey.
+299	Monica	 Can we come in?
+300		(The whole gang enters.)
+301	Ross	 (to Ben) I know, I know. Everybody, there's someone I'd like you to meet. Yeah. This is Ben. Ben, this is everybody.
+302	Phoebe	 Susan, he looks just like you.
+303	Susan	 Thanks.
+304	Rachel	 Oh, god, I can't believe one of us actually has one of these.
+305	Chandler	 I know, I still am one of these.
+306	Monica	 Ross, can I?
+307		(Monica holds Ben.)
+308	Ross	 The head, the head. You gotta...
+309	Monica	 (getting choked up) Hi, Ben. Hi. I'm your Aunt Monica. Yes I am. I'm your Aunt Monica. I...I will always have gum.
+310		Closing Credits
+311	[Scene	 The Hospital, the camera is placed as though it were Ben's eyes.]
+312	Ross	 Ben, I want you to know that there may be some times when I may not be around, like this. (walks out of the picture) But I'll still always come back, like this. (returns) And sometimes I may be away longer, like this. (walks away) But I'll still always come back, like this. (returns)
+313		(Chandler comes into the picture.)
+314	Chandler	 And sometimes, I'll want you to steal third, and I'll go like this. (Does a baseball sign.)
+315		(The rest of the group come into the picture.)
+316	Monica	 He is so amazing.
+317	Rachel	 Oh, I know. Look at him.
+318	Joey	 Ben, Ben, hey Ben. Nothing. I don't think that's his name.
+319	Phoebe	 Oh, look, look, he's closing his eyes. (screen goes blank) Look, he's opening his eyes. (picture comes back)
+320	Joey	 He doesn't do much, does he?
+321	Ross	 No, this is pretty much it.
+322		(long moment of silence)
+323	Rachel	 You guys wanna get some coffee?
+324	All	 Yeah.
+325	Ross	 All right, I'll see you guys later.
+326		(They all leave but Ross, but they all come back a few seconds later. They make faces at the baby.)
+327	Phoebe	 Oh, look, he's closing his eyes again.
+328		(The screen fades to black.)
+329		End

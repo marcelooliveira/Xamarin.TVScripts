@@ -1,0 +1,4 @@
+1	Written by	 Brown Mandell Transcribed by
+2	[Scene	 Central Perk. Rachel, Monica, Joey, and Chandler are there.] [Rachel brings a muffin to Chandler and Monica who are sitting on the couch.] RACHEL
+3		END
+4	webbot bot="ImageMap" startspan rectangle=" (139,2) (197, 84) http	//thecfsi.com/season2/224bamw.htm" rectangle=" (71,1) (128, 84) http

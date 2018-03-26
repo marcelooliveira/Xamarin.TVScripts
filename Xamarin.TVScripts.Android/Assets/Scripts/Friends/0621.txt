@@ -1,0 +1,309 @@
+1	Teleplay by	 Scott Siveri Story by
+2	[Scene	 Central Perk, Phoebe, Rachel, Chandler, and Monica are there. Rachel is reading everyone’s horoscope.]
+3	Rachel	 Okay, Chandler!
+4	Chandler	 Okay.
+5	Rachel	 And your horoscope says, "On the fifth a special someone is going to give you a gift."
+6	Chandler	 (To Monica) Oh, well thank you in advance. (Kisses her.)
+7	Rachel	 Op, but the twelfth brings a lover’s spat.
+8	Monica	 (To Chandler) You are going to make a joke about my special present! Why would you do that?!
+9	Rachel	 Oh, wait and on the nineteenth a secret crush announces itself.
+10		(Phoebe winks and licks her lips while eyeing Chandler.)
+11	Joey	 (entering) Hey guys!
+12	Chandler	 Hey!!
+13	Rachel	 (ecstatic) Oh my God! It’s Joey Tribbiani of Mac and C.H.E.E.S.E.!!!!!!!
+14		(Everyone claps and cheers, Joey mimics looking about with a gun.)
+15	Chandler	 Oh that’s right. It’s your first day! So are you psyched to fight fake crime with your robot sidekick?
+16	Joey	 Am I psyched? The lead in my own TV series? I’ve dreamed about this for years! Why have I not been preparing?!
+17	Phoebe	 No! Joey, you’re going to be great!
+18	Joey	 But I got to act with a robot Pheebs, and-and I don’t know anything about technology! I can’t even use Chandler’s computer except to find porn! And-and that’s only ‘cause it’s right there when you turn it on!
+19	Monica	 I think our lover’s spat will start a little early this month.
+20	Phoebe	 (in a sexy voice to Chandler) I’ll be waiting.
+21		Opening Credits
+22	[Scene	 Central Perk, time lapse. Phoebe is now looking at the covers of two different books.]
+23	Chandler	 Are you judging them by their covers? Because you’re really not supposed to do that.
+24	Phoebe	 No, I’m just deciding which one to use—I’m gonna start writing another book!
+25	Rachel	 Be-because the last one was such a big seller?
+26	Phoebe	 Well, if you must know I have written 14 books. And as I am the only one who has read them, I can tell you that they all have been very well received.
+27	Ross	 (entering) Hey!
+28	Chandler	 Hey!
+29	Rachel	 Hey!
+30	Ross	 What are you guys doing later?
+31	Phoebe	 Oh, Rachel and I have appointments to get our hair cut.
+32	Rachel	 (To Phoebe) We do?
+33	Phoebe	 I want to see what he wants first.
+34	Rachel	 Okay.
+35	Ross	 (continuing) I just found out that Elizabeth’s dad wants to meet me.
+36	Chandler	 Wait a minute, hold the phone! You’re not Elizabeth’s dad?!
+37	Ross	 Come on guys, I-I really want this guy to like me. It-it would really help me out if you guys were here to make me look good.
+38	All	 Of course we’ll help! Yeah! We’ll be here!
+39	Ross	 Thanks!
+40	Monica	 We know how tough those parent/teacher conferences can be.
+41	[Scene	 Pier 59 Studios, it’s the set of Mac and C.H.E.E.S.E. The producer is showing Joey around the set.]
+42	The Producer	 (walking into Mac’s office) So uh, here’s your office set!
+43	Joey	 Wow! Huh? (Picks up the phone) Mac Macaveli, Private Investigator!
+44	The Producer	 (checking his watch) Let’s get you into wardrobe for a fitting.
+45	Joey	 Okay. Hey uh, when do I get to meet the robot?
+46	The Producer	 I’m sorry, why don’t we do that right now? He’s right here. (Points to a guy.)
+47	Joey	 Okay.
+48	The Producer	 Joey Tribbiani, this is…
+49	Joey	 Oh wow! He’s so lifelike! (Starts touching the guy’s cheeks) Unbelievable! (He starts tugging on the guy’s ears.
+50	The Producer	 This is Wayne, the man who created and operates C.H.E.E.S.E.
+51	Joey	 (slaps Wayne on his cheek) How do you do there, Wayne? (Backs away.)
+52	The Producer	 I’ll let you two guys get acquainted, huh? (Walks away.)
+53	Joey	 Okay. Sorry about that…(Mimics that cheek thing he just did.) Uh, so where’s C.H.E.E.S.E.?
+54	Wayne	 C.H.E.E.S.E. is right here. (He puts on his headset, picks up the controller, and wheels C.H.E.E.S.E. in. C.H.E.E.S.E. is just a plain old robot on tracks; he kinda looks like No. 5 in the movie Short Circuit.)
+55	C.H.E.E.S.E.	 (Wayne with a computerized voice) Nice to meet you Mac!
+56	Joey	 (laughs) This is like the temporary robot, right?
+57	Wayne	 No. Why?
+58	Joey	 Well, I-I just, I just it was going to be like a really cool robot, y’know? Like the terminator or uh, when I first saw you.
+59	Wayne	 I spent two years developing this machine, it’s absolutely state of the art.
+60	Joey	 I’m sorry, it just—I don’t know it doesn’t really look like it can do anything.
+61	Wayne	 It can do this. (He moves C.H.E.E.S.E.’s arm close to Joey’s special area and he jumps back.)
+62	[Scene	 Central Perk, Ross is at the counter drinking coffee as Elizabeth enters with her dad, Paul. Elizabeth goes to kiss Ross, but he just kisses her on the forehead. By the way Paul is played by Bruce Willis. Yes, that Bruce Willis from Moonlighting, Die Hard, and Armageddon.]
+63	Elizabeth	 This is my father, Paul Stevens. Dad, this is Ross Geller.
+64	Ross	 It-it’s great to meet you Paul.
+65	Paul	 I usually prefer Elizabeth’s boyfriends to address me as Mr. Stevens.
+66	Ross	 Of course, of course, Mr. Stevens.
+67	Paul	 So Ross, what your problem?
+68	Ross	 Eh-wh—Excuse me?
+69	Paul	 Why can’t you get a girlfriend your own age?
+70	Ross	 That’s funny. Umm…. (Pause, then serious) It’s not funny.
+71	Paul	 I don’t like you going out with my daughter Ross.
+72	Ross	 Okay. I can, I can see that. Umm, but I think if you give me umm, one chance I can, I can change your mind.
+73	Paul	 Okay.
+74	Ross	 What?
+75	Paul	 Okay. I’ll give you one chance to change my mind. (Ross laughs in relief) You got one minute. (Ross suddenly gets worried.)
+76	Elizabeth	 Daddy!
+77	Paul	 Fine! Two minutes. Go.
+78	Ross	 This is—you—(Ross starts laughing.)
+79	Paul	 (laughs then checking his watch) 1 minute 50 seconds.
+80	Ross	 Okay, umm I want you to know that I have never done anything like this before. I mean, I mean I’ve been in um, relationships in general, uh but I have never done it with a student—I mean I not—not it! I mean, I mean I don’t—We haven’t done it. Uh, I mean, I mean, we’ve-we’ve-we’ve done stuff. (Paul is not amused.) Okay, okay, a joke, a joke—lighten the mood. Umm, two guys go into a bar. One of them is Irish.
+81	Paul	 I’m Irish.
+82	Ross	 And the Irish guy wins the joke!
+83		(Monica, Chandler, and Phoebe enter.)
+84	Monica	 Ross!!
+85	Chandler	 Ross!
+86	Monica	 How crazy that we’d run into you!
+87	Ross	 Oh God, thank you! (Runs and gives all of them a group hug.) Umm, uh, Mr. Stevens I’d like you to meet my friends uh, this is Phoebe, Monica, and Chandler.
+88	Phoebe	 You’re Elizabeth’s father, huh? I can see now where she gets her rugged handsomeness.
+89	Monica	 (obviously attracted to him) Is-is-is there a-a Mrs. Stevens?
+90	Chandler	 There’s a Mr. Bing!
+91	Paul	 No, unfortunately Lizzie’s mom passed away shortly after she was born. I raised her by myself.
+92	Phoebe and Monica	 (sympathetic) Ohh!
+93	Paul	 I get that a lot.
+94	Ross	 Okay umm, why don’t we all take a seat, y’know? And uh, and I’ll get us all some uh some coffees—(He goes to pull out Elizabeth’s chair, but Paul steps in)—Yeah, why don’t you. (Paul pulls out her chair) Uh and you guys can talk about whatever, whatever you want. Y’know? Whatever pops into your head. (He turns his back to Paul and Elizabeth and points to himself for Chandler, Monica, and Phoebe. Then he goes to order the coffee.)
+95	Monica	 Y’know, it is so strange seeing Ross here this time of day, ‘cause usually he’s got the children’s hospital.
+96	Phoebe	 Yeah. Not looking for dates. (Monica turns in horror.)
+97	Elizabeth	 So uh, Monica is Ross’s sister.
+98	Monica	 And he’s a great brother!
+99	Paul	 I had a sister.
+100	Monica	 Ohh!
+101	Paul	 She passed away.
+102	Monica and Phoebe	 (sympathetic) Ohh!
+103	Paul	 Oh, you don’t have to do that every time.
+104	Chandler	 But uh Ross, Ross is a great guy! I was roommates with him in college. Uh, funny story… (He starts laughing then notices that Paul isn’t happy.) You’re roommate in college died didn’t he?
+105	Paul	 A part of him did yes.
+106	Ross	 (returning with the coffee) Okay here we are Paul, Elizabeth. (He sets down their cups.) So I hope you guys were finding something to talk about.
+107	Chandler	 Yes, we were just…
+108		(Rachel runs in.)
+109	Rachel	 Hi, I’m sorry I’m late but I am ready, ready to talk you up! When does Liz’s father get here?
+110	Paul	 I’m already here.
+111	Rachel	 Oh! Ross is sooo great!
+112	[Scene	 Monica, Chandler, and Phoebe's, Phoebe is working on her book at the kitchen table, Monica is on the couch, and Chandler is entering from the bathroom carrying a package of toilet paper.]
+113	Chandler	 Hey honey, you got the kind with the little girl, you said we were gonna to get the kind with the baby.
+114	Monica	 No, you said the baby creeps you out.
+115	Chandler	 No, the little girl creeps me out.
+116	Monica	 You said the baby.
+117	Chandler	 Why would the baby creep me out?
+118	Monica	 Why would the little girl creep you out?
+119	Phoebe	 (writing frantically) You guys, I’m sorry, could you please talk a little slower?
+120	Chandler	 This is going in your book?
+121	Phoebe	 Yeah, it’s about relationships. Y’know? The traps, the pitfalls, what not to do, keep going. This stuff is great!
+122	Monica	 What?! Excuse me!
+123	Phoebe	 And how none of it matters when the people really love each other. (Chandler and Monica kiss.) And how people will believe anything you tell them as long as it’s a compliment.
+124	[Scene	 Central Perk, Rachel is there alone as Paul enters.]
+125	Rachel	 (seeing him) Oh hi!
+126	Paul	 Hi! Hi. (He’s looking around.) I think I left my keys here somewhere.
+127	Rachel	 Oh! Well let’s look for them. (Finds some under one of the couch cushions. It has a pink, fuzzy ball on the key chain.) Oh-oh-hey! Are these them?
+128	Paul	 No.
+129	Rachel	 All right! (Throws them back under the cushion.)
+130	Paul	 Oh, here they are right here. (Picks them up from underneath the corner of the couch.)
+131	Rachel	 Oh good.
+132	Paul	 Thanks for your help. (Starts to leave.)
+133	Rachel	 (chasing after him) Oh, wait! Sorry, Mr. Paul? Mr. Paul?
+134	Paul	 Just call me Paul.
+135	Rachel	 Paul. Umm, I just wanted you to know that Ross really is a great guy.
+136	Paul	 Well maybe you can date him then that would save me the trouble of killing him. (Rachel laughs then starts looking at him.) Are you okay?
+137	Rachel	 You just don’t look old enough to have a twenty-year-old daughter.
+138	Paul	 Well, we were very young when we had her.
+139	Rachel	 Oh. We?
+140	Paul	 Well yeah, it usually, it takes two people to… (He taps his index fingers together.)
+141	Rachel	 Oh no! Yes! Of course, I know that! I just—I meant y’know are you still a ‘We’ or are you just ‘You?’
+142	Paul	 I’m just me, my wife died shortly after Lizzie was born.
+143	Rachel	 (sympathetic) Ohh. So you raised her all on your own?
+144	Paul	 Yes I did.
+145	Rachel	 Ohh. (She touches his arm for support and likes what she feels) Ooh!
+146	[Scene	 Monica, Chandler, and Phoebe's, Phoebe is still writing in her book, Chandler and Monica are in the kitchen as Joey enters.]
+147	Joey	 Hey!
+148	Chandler	 Hey!
+149	Phoebe	 Hey!
+150	Monica	 How was your first day?
+151	Joey	 Pretty great! Except I did get a little attitude from the robot.
+152	Chandler	 Damn those robots, they’re supposed to be our faithful servants!
+153	Joey	 Anyway, it wasn’t the robot, it was the guy who controls him. Yeah, he doesn’t like me. He had C.H.E.E.S.E. knock over the sandwich right when I was reaching for one! Ohh!
+154	Phoebe	 Well, why don’t you just get him fired?
+155	Joey	 I may have to, I hate to do it, but I’m the star! Y’know? There’s a limit to how many sandwiches I can eat off the floor. (His cell phone rings) Excuse me. (Answers it, on phone) Joey Tribbiani.
+156	Estelle	 (on the other end) Joe! I’m glad I found ya, I got an audition for ya!
+157	Joey	 Wow!
+158	Estelle	 The thing is it’s kinda on the Q.T. The actor who has the part doesn’t know he might be fired. It’s the lead in a series, Mac and C.H.E.E.S.E.
+159	Joey	 I’m the lead in Mac and C.H.E.E.S.E.!!
+160	Estelle	 Uh-oh!
+161	[Scene	 Joey and Rachel's, Ross is entering looking for Joey, but instead he finds Paul and Rachel making out on the couch.]
+162	Ross	 Joey?!
+163	Paul	 Hi Ross.
+164	Rachel	 I was just getting him to like you.
+165		Commercial Break
+166	[Scene	 Joey and Rachel's, scene is continued from earlier.]
+167	Ross	 Joey?! Joey!! (He runs into his bedroom.)
+168	Rachel	 Ross, Joey is not here.
+169	Ross	 Okay, I’ll just wait for him in here!
+170	Rachel	 Ross, it’s okay. You can come out.
+171	Paul	 Yeah Ross it’s okay, it’s me, Mr. Stevens.
+172	Ross	 (coming out of the bedroom) Oh! Oh my God! I didn’t even see you!
+173	Paul	 Sure you did! You came in, you got all awkward, and you ran into the bedroom. You were shouting, "Joey! Joey!" Bye Rach. (Kisses her.)
+174	Rachel	 Bye!
+175	Paul	 I’ll call you later. Bye Ross. (Leaves)
+176	Ross	 What-what-what the—how da-how did-what the-how did-what?!
+177	Rachel	 Well, y’know he lost his keys so he was looking for them…
+178	Ross	 (incredulous) In your mouth?!
+179	Rachel	 No! Downstairs! And we got to talking y’know, for like two hours, and I really liked him so I invited him up here for a cup of coffee.
+180	Ross	 You were at the coffeehouse!
+181	Rachel	 Ross, what’s the big deal? So I kissed the guy!
+182	Ross	 He is my girlfriend’s father, okay? It’s-it’s, it’s weird!
+183	Rachel	 Wh—You dated my sister!
+184	Ross	 That was different!
+185	Rachel	 What? Why?!
+186	Ross	 This is weird for me!
+187	Rachel	 Ross look, look this is good for you. Okay? Let’s face it, so far the guy’s not lovin’ ya! But I can turn that around! I got the inside track! We can all go out to dinner, y’know? And I can talk you up! Ross, the guy is a very, very successful lawyer!
+188	Ross	 How is that important?
+189	Rachel	 Oh it’s important!
+190	[Scene	 Monica, Chandler, and Phoebe's, Joey is telling everyone about his impending termination at Mac and C.H.E.E.S.E.]
+191	Joey	 Apparently, there’s like a million guys out there that can play Mac, and there’s only this one robot and this one guy who controls it! I didn’t know he could get me fired! What am I going to do?
+192	Monica	 Well y’know Joey, you’re a pretty charming guy.
+193	Joey	 Thanks, but I kinda have a problem to deal with here.
+194	Monica	 No sweetie, you’ve got to win over the guy that controls C.H.E.E.S.E.! You’ve got to kiss some serious robot ass!
+195	Joey	 That’s not a bad idea. Yeah. Okay, but if I got to turn on the charm tomorrow I’m not wasting anymore of it over here with you guys. (Starts to leave, but stops and turns to Phoebe.) Well, actually I got a little bit saved for you Pheebs. (Exits.)
+196	Chandler	 So do you think uh, Joey’s more charming than me?
+197	Monica	 Yeah! That’s why I’m sleeping with him on the side.
+198	Chandler	 Yeah, you wish. (Stops to think about it and gets depressed.)
+199	Phoebe	 (writing in her book) "You wish."
+200	Monica	 Phoebe, stop writing about us!
+201	Phoebe	 I’m not writing about you! I’m writing about other people.
+202	Chandler	 Who?
+203	Phoebe	 Marcia and Chester.
+204	Monica	 Okay fine! Fine! Then you know what, I’ll just write about Phyllis! Hmm!
+205	Chandler	 Hmm.
+206	Monica	 (writing on a piece of paper) Phyllis is sitting in a chair.
+207	Chandler	 Oh.
+208	Phoebe	 I see what you’re doing!
+209	Monica	 (still writing) Phyllis sees what I’m doing.
+210	Chandler	 Oh-oh.
+211	Phoebe	 Ooh, I have tasted my own medicine and it is bitter!
+212	[Scene	 Pier 59 Studios, Joey is walking up to C.H.E.E.S.E. and Wayne.]
+213	Joey	 Morning! Hey, how’s my favorite genius and my little robot buddy?! (Pats C.H.E.E.S.E. on the head.)
+214	Wayne	 Don’t touch him!
+215	Joey	 Okay! (He yanks his hand away.) All right. Umm, all right Wayne, level with me. Okay? I-I keep hearing all these rumors that I might get fired. Okay, they even have actors coming in to read for my part! Come on man, you-you got to give me a second chance! I mean, I love-I love this little guy! (He grabs C.H.E.E.S.E.’s arm and pulls it off at the elbow.) Ah-ah!! (Wayne is shocked.) Okay, that’s why you didn’t want me to touch him right? Here you go! Okay? (Hands Wayne the arm and he goes to fix it. Meanwhile Joey starts to berate himself.) Stupid! I can’t believe it! God! (A very beautiful woman walks by.) (To her) Hey, how you doin’? (He and her go over to talk and Wayne looks on with envy.)
+216	[Scene	 A Restaurant, Ross and Rachel are on their double date. Rachel is busy talking Ross up.]
+217	Rachel	 So it seemed that my prom date had stood me up, so Ross selflessly, offered to take me.
+218	Elizabeth	 What a nice story!
+219	Paul	 So Ross was in college and decided to jump at the chance to take a young girl to her high school prom.
+220	Rachel	 Wow! I definitely did not see that one backfiring! I’m gonna go to the bathroom.
+221	Ross	 Yeah, take your time.
+222		(Rachel heads for the bathroom.)
+223	Ross	 (to Paul) Just-just so you know I was a freshman and she was a senior. So it wasn’t as bad as-as…
+224	Paul	 Ross, look, I know I’ve been giving you a lot of jabs and it’s partly because I’m very protective of Lizzie, and partly because well, they just keep coming to me. But I have to admit that after all the wonderful things that Lizzie has told me and the many, many, (pause) many stories that Rachel has told me that, well (pause) you’re not (pause) all bad.
+225	Ross	 Not all bad.
+226	Paul	 And anyhow, I’m sorry I was so harsh before, but you have to understand that I (pause) still look at Lizzie like she’s a twelve-year-old girl.
+227	Ross	 Yeah. You know what? I know what you mean; I do that too.
+228	Paul	 I beg your pardon?
+229	Ross	 No! No! Not—I don’t mean I-I see her as a twelve-year-old girl! I mean I-I have a son, who’s umm six and I still think of him as a baby.
+230	Paul	 You have a son?
+231	Ross	 Yeah, well my-my ex-wife and I share custody of Ben and umm, uh, and just so you know, Carol and I are on excellent terms as I’m sure you are with your wife! (Realizes) Oh, I’m sorry! (To Elizabeth) It’s unbelievable!
+232	Paul	 Don’t worry about it, I just didn’t realize you were married. (Rachel returns and hears that.)
+233	Rachel	 Oh we were, but that was just a (pause as the audience reacts), I mean that was just a big drunken mistake.
+234	Ross	 You’re back.
+235	Paul	 You two were married?!
+236	Rachel	 Oh! Whoops! I’m sorry, you were talking about Emily!
+237		(Ross slams his head down on the table.)
+238	[Scene	 Monica, Chandler, and Phoebe's, Monica and Chandler are entering and they’re arguing.]
+239	Monica	 Chandler, we said we would meet at the coffeehouse at six.
+240	Chandler	 We said seven!
+241	Monica	 We said six!
+242	Chandler	 The only way that I said six would be if the seven’s, let meet at seven, not at six.
+243	Monica	 Yeah and if I had seven, maybe I would’ve said something like this, "Wow! My boyfriend’s such a wise ass—seven!"
+244	Phoebe	 (Turning around in the chair) Hi!
+245	Chandler	 Oh my good God.
+246	Monica	 Ugh!
+247	Phoebe	 I know what time you said.
+248	Chandler	 What?!
+249	Phoebe	 Well actually, I know what time Chester and Marcia said.
+250	Monica	 What time?
+251	Phoebe	 Quite an interesting turn of events, suddenly it’s my book to the rescue, huh? (Reading her book) Ooh, very interesting. Yeah, well this certainly clears things up.
+252	Chandler	 (disgusted) What does it say?!
+253	Phoebe	 I will tell you as soon as you thank me for writing my book.
+254	Chandler	 Thank you for writing your book. Its-its uh, great book and you are the queen of everything.
+255	Phoebe	 Thanks! So are you.
+256	Chandler	 (To Monica) I told you I should not wear this color. (He’s wearing a reddish-orange sweater.)
+257	Phoebe	 (reading from her book) Mon… (Pause as she restarts) Marcia and Chester are planning on seeing a movie on Sunday night. Marcia thinks they’re supposed to meet at six, Chester thinks it’s at seven.
+258	Chandler	 So you knew we were gonna miss the movie!
+259	Phoebe	 That’s right.
+260	Monica	 Inside of telling us you decided to write in your stupid book!
+261	Phoebe	 (writing in her book) Marcia and Chester are mad at Phyllis.
+262	[Scene	 Joey’s Dressing Room, Joey and Chandler are there.]
+263	Joey	 I can’t believe I’m going to lose this job!
+264	Chandler	 Oh I’m so sorry man! Is there anything I can do?
+265	Joey	 Yeah! Help me get this mini-fridge past the security guard.
+266		(There’s a knock on the door and Joey answers it to Wayne.)
+267	Wayne	 Hey Joey, I want to talk to you.
+268	Joey	 Yeah? Well, I don’t want to talk to you Wayne! I hate you! You ruined my life! Oh, Chandler, Wayne. Wayne, Chandler. (They shake hands.)
+269	Chandler	 Hi, how are ya?
+270	Wayne	 Joey, Joey, I-I-I’ll g-get you your job back if you help me out.
+271	Joey	 (incredulous) Why should I help you?!
+272	Chandler	 (whispering in Joey’s ear) The reason he just said.
+273	Joey	 (happily) What do you need?
+274	Wayne	 I-I-I saw you on stage talking to that beautiful woman, y’know Sarah?
+275	Joey	 Yeah?
+276	Wayne	 I wish I could talk to her.
+277	Joey	 What are you in love with her or something?
+278	Wayne	 Yeah. Her. All of them. Anyone.
+279	Chandler	 Yeah, I’ve been there my friend.
+280	Wayne	 Listen, I-I guarantee you keep your job if you can teach me how to talk to women like you do.
+281	Joey	 Oh wow Wayne, it’s not really something you can teach y’know? It’s pretty much something you’re born with if you—(Off Chandler’s look)—You-you can teach it! I’ll show you right how to do it.
+282	[Scene	 A Restaurant, Rachel is still trying to talk up Ross, not to much success.]
+283	Rachel	 I mean if you think about it, I mean Ross did learn something from each marriage.
+284	Paul	 How to make the next one even shorter?
+285	Rachel	 Now wait a minute that’s not fair. He was married to me a hell of a lot longer than he was married to Emily, he just didn’t tell me. (Everyone looks at her, Ross not happily.) Maybe I have to pee again. (Gets up to try to use the bathroom.)
+286	Paul	 Well, this is fun. So Ross, did you kill any of these wives?
+287	Ross	 Y’know what? I-I-I… I-I have had enough of this! Y’know, I-I-I care a great deal about your daughter and I have treated her with nothing but respect! So if-if you’ve got a problem with me, frankly…
+288	Paul	 Are you yelling at me?!
+289	Ross	 God no!
+290	Elizabeth	 Y’know what daddy? If you don’t like Ross, that’s fine. It doesn’t matter to me, I’m gonna go out with him anyway.
+291	Paul	 Really?! (She nods in the affirmative.)
+292	Ross	 Well if it doesn’t matter to her, it doesn’t matter to me! (to Paul) Still not yelling!
+293	Paul	 Wow. What can I say? (Pause, pointing at Ross) This doesn’t make me like you any better!
+294	Ross	 That’s okay, I’m not so crazy about myself right now either.
+295	Paul	 Then we agree?
+296	Ross	 Uh yeah, I guess—Yeah! I guess so.
+297	Paul	 Neither of us like Ross!
+298	Elizabeth	 I like Ross.
+299	Ross	 Ohhh! Kids!
+300	Rachel	 (returning) Wait-wait-wait, I just thought of another story about how nice Ross is!
+301	Ross	 That’s okay Rach, we’re not liking Ross right now.
+302	Rachel	 Oh! I’ve got a lot of those too!
+303		Ending Credits
+304	[Scene	 Mac’s Office, Mac is talking to C.H.E.E.S.E. about their case.]
+305	Joey	 Well, it turns out you were right C.H.E.E.S.E.
+306	C.H.E.E.S.E.	 The shipment never made it through Omaha?
+307	Joey	 You got it! And the rabbi’s beard, 100% horsehair. Nice catch C.H.E.E.S.E.! (Pauses as he waits for C.H.E.E.S.E.’s next line.) It’s your line C.H.E.E.S.E.! (Suddenly C.H.E.E.S.E. goes crazy and starts flinging it’s arms and advancing on Joey behind the desk.) Wayne! Wayne!!
+308		(The camera cuts to Wayne who’s busy making out with Sarah and rubbing C.H.E.E.S.E.’s controller on her back causing C.H.E.E.S.E. to go crazy. Joey starts throwing books at C.H.E.E.S.E. to get him to stop.)
+309		End

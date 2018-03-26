@@ -1,0 +1,685 @@
+1	Part 1 written by	 Shana Goldberg-Meehan & Scott Silveri Part 2 written by
+2	[Scene	 Central Perk]
+3	Joey	 (entering) Hey! I'm all packed and ready to go!
+4	Ross	 Oh, that's right! (to Emma) Daddy and uncle Joey are going on a trip today. We're going to a conference in Barbados, right?
+5	Joey	 Mmh-mmh.
+6	Ross	 (to Emma) Can you say Barbados?
+7	Joey	 Barbados!
+8	Ross	 Ok, I gotta say. I mean, it means so much to me that you guys are coming all the way over there to hear me do my speech! UH! And I've a surprise, uh... I had to pull some strings but I was able to get everyone passes to the entire conference! That's right! (he gives them their passes) This babies will get you into all the paleontology lectures and seminars.
+9	Rachel	 Do you have anything that would... get us out of them?
+10	Chandler	 Yeah Ross, I mean... we're excited to hear the speech but the rest of the time we're gonna wanna do, you know, "island's stuff".
+11	Phoebe	 I think David would probably wanna hear a few lectures.
+12	Ross	 Oh, right, because he's a scientist!
+13	Phoebe	 No, no, because, you know, he's been in Minsk for 8 years and if he gets too much direct sunlight, he'll die.
+14	Ross	 Ok, we gotta go, yeah? So, we'll see you guys tomorrow.
+15	Joey	 All right, let's do it! 5 hour flight with Charlie, have a couple of drinks, get under that blanket and do what comes naturally.
+16	Ross	 It's a blanket Joe, not a cloak of invisibility!
+17		Opening credits
+18	[Scene	 Paradise Hotel lounge in Barbados]
+19	Charlie	 Wow! This place is beautiful!
+20	Ross	 (very excited) Look at all these paleontologists!!
+21	Joey	 I know, there are gonna be some pasty folks by the pool tomorrow! (A woman goes towards them)
+22	Woman	 Oh my God, I can't believe you're here!
+23	Joey	 (to Charlie) I think I've been recognized, this happens all the time!
+24	Woman	 Doctor Geller, I'm such a huge fan!
+25	Joey	 That... never happens...
+26	Woman	 I've been following your career for years, I-I can't wait for your keynote speech.
+27	Ross	 Wow! This is very flattering, uh...
+28	Woman	 I would love your autograph. (hands him a notepad)
+29	Ross	 Uh, uh... Sure! Uhm... "Dear..." (he takes the notepad)
+30	Woman	 Sarah.
+31	Ross	 "... Sarah. I dig you", Uh? "Doctor Ross Geller".
+32	Sarah	 Thank you so much!
+33	Ross	 Yeah, oh and Sarah... I'd like to introduce you to my colleague, uh, Professor Wheeler, a-and this is Joey Tribbiani.
+34	Sarah	 (to Joey) Are you a paleontologist?
+35	Joey	 No, God, no! No! No no, I'm an actor. You'd probably recognize me from a little show called "The Days of Our Lives".
+36	Ross	 Dude, it's just "Days of Our Lives"... there's no the.
+37	Joey	 (thinking he's kidding) Ok, Ross! It's... It's fun, yeah! No, I-I play Doctor Drake Ramoray.
+38	Sarah	 I'm sorry, I don't own a TV.
+39	Joey	 You don't own a TV? What's all your furniture pointed at??
+40	[Scene	 Central Perk]
+41	Monica	 David, can you help me?! I'm trying to explain to Chandler how a plane stays in the air.
+42	David	 Oh, certainly. That's a combination of Bernoulli's principle and Newton's third law of motion.
+43	Monica	 (to Chandler) See?
+44	Chandler	 Yeah, that's the same as "it has something to do with wind".
+45	Monica	 Alright, I'm gonna go pick up a few things for the trip.
+46	Phoebe	 Oh, I should go, too. Oh, now... tomorrow do you guys wanna share a cab to the airport or should Mike and I just meet you there.
+47		(Everyone looks at her)
+48	Phoebe	 Mike?? Who's Mike?
+49	David	 Mike is your ex... uh... boyfriend!
+50	Phoebe	 That's right! Oh, yeah... Well, I've totally forgotten about im! AH! That's-That's... a blast from the past!
+51	David	 It's ok. Ho-honest mistake.
+52	Phoebe	 Really, it doesn't mean anything. I mean, you know, Monica refers to Chandler as Richard all the time!
+53	Chandler	 (upset) She does?
+54	Monica	 (pinching her) Let's get you out of here!! (they go outside)
+55		(Outside the Central Perk)
+56	Monica	 At least you took me down with you!
+57	Phoebe	 I'm sooo sorry!! I just... I keep thinking about Mike! I'm crazy about David, and we're having so much fun together. Why-Why do I miss Mike? That's-that's gonna go away, right?
+58	Monica	 I guess, in time.
+59	Phoebe	 Yeah.
+60	Monica	 I mean, my feelings for Richard are certainly gone.
+61	Phoebe	 You just did it again. Chandler, your feelings for Chandler are certainly gone!
+62	[Scene	 Inside Central Perk]
+63	David	 (to Chandler) Well, Phoebe's still pretty hung up on that Mike, uh?
+64	Chandler	 I wouldn't read too much into it.
+65	David	 Still you know, a girl calls you by your ex-boyfriend's name, that-that's not a good thing, right?
+66	Chandler	 David, let me stop you there 'cause I think I see where this is going. I'm not very good at giving advice. So if you want advice, go to Ross, Monica, or... Joey, if the thing you wanna advice about is pizza toppings or burning sensation when you pee.
+67	David	 Sorry, I just... I wish there was something I could do, you know? Well, you know Phoebe...
+68	Chandler	 Seriously, we're gonna do this?
+69	David	 I'm sorry, uh... I just wish I could make her forget about Mike already, you know... Why did Phoebe and Mike break up?
+70	Chandler	 Oh, because his penis was too big. (he notices that David is not amused) Oh, I'm sorry, that's the kind of thing I do. (pause) They broke up because Mike didn't want to get married. Hey, what if you just let Phoebe know you'd be open to marriage?
+71	David	 That's great! That's great! I-I'll propose to her!
+72	Chandler	 What?
+73	David	 Well, I was probably going to do it at some point.
+74	Chandler	 I didn't mean now...
+75	David	 Why not? It's brilliant! (talking to an imaginary Mike) Goodbye Mike, we'll see you at the wedding, fella! (pause) well, we probably won't invite you to the wedding... (to Chandler) Thank you, Chandler. Sincerely.
+76	Chandler	 Well, you're welcome! Glad I could help.
+77	David	 (after a while) How do you think I should propose?
+78	Chandler	 David, I'm pretending to read here!!
+79	[Scene	 Joey in his hotel in room in Barbados]
+80		(Trying on a hat and talking to his own reflection in the mirror)
+81	Joey	 Yeah! How you doin'? Yeah alright!
+82		(Charlie comes out the bathroom)
+83	Joey	 Hey, hey! You said you're gonna wear a thong, where's the thong?
+84	Charlie	 (laughing) I didn't mean a thong... I meant thongs...
+85	Joey	 You really should have been more clear about that!
+86		(Someone knocks the door, Joey goes to open it and Ross is on the other side)
+87	Ross	 Hey!
+88	Joey	 Hey!
+89	Ross	 (Excited) You're never going to guess who I just saw downstairs!
+90	Joey	 Oh! ah! eh... Britney Spears!?
+91	Ross	 Yeah, she never misses these conferences! (then to Charlie) No, I just saw Dr. Kenneth Schwartz!
+92	Charlie	 Oh my God! Did you talk to him?
+93	Ross	 Yeah... what am I going to say to Kenneth Schwartz?
+94	Joey	 You could say
+95	Ross	 (to Charlie) Ready to go?
+96	Charlie	 Yeah!
+97	Joey	 Wha...? You're gonna go now? I thought we could hang out?
+98	Charlie	 Oh I can't... I have seminars all day and I promised Ross I would look at his speech.
+99	Ross	 Yeah.
+100	Charlie	 But maybe we can have dinner later? On the balcony? Will be romantic.
+101	Joey	 (smiling) Will you wear a thong?
+102	Charlie	 I will if you will.
+103	Joey	 Oh... you got yourself a very weird deal!
+104	Ross	 (a little embarassed by their conversation) I'm good, I have dinner plans (moves away from them).
+105	Charlie	 So you'll be ok?
+106	Joey	 Yeah, yeah. I've got tons of stuff I could do. I'm gonna hit the beach, go swimming...
+107	Ross	 Uh, Joe, have you looked outside?
+108	Joey	 No, why?
+109		(Ross goes to the window and opens the curtains revealing that it's raining outside)
+110	Joey	 Oh man!
+111	Charlie	 There's an indoor pool, you can swim there! (Ross agrees)
+112	Joey	 I wasn't gonna swim, I was gonna dig a hole! (removes a small plastic spade used by children to play on the beach from his backpack)
+113	[Scene	 Back in New York, Monica and Chandler in Central Perk on the couch]
+114	Monica	 Wow! That Mike thing was interesting! I don't know what's gonna happen with Phoebe and David.
+115	Chandler	 (smiling cheekily) I do! Want a hint? huh? "I do" (Monica looks confused, so Chandler repeats) "I do".
+116	Monica	 Ok, I'm sensing that this is some kind of word play, because you are pink with barely controlled glee.
+117	Chandler	 David is going to propose to Phoebe.
+118	Monica	 What? (looks very shocked) Why?
+119	Chandler	 Be-cause, we were talking about ways that he could beat Mike and I told him that Phoebe wanted to get married.
+120	Monica	 Chandler, we have talked about this. You are not supposed to give people advice! Now couldn't you just have made some sort of inappropriate joke?
+121	Chandler	 I did! A penis one! Look, just so I know, what was so wrong about what I said?
+122	Monica	 They've only been going out for a few weeks and Phoebe is completely hung up on Mike! She'll say "No", David's heart will be broken, it will be too hard for them to recover from and then Phoebe will end up alone again.
+123	Chandler	 Man, that's some bad advice!
+124	[Scene	 Barbados, hotel lounge. David, Phoebe and Rachel have just arrived.]
+125		(Joey spots them and walks towards them)
+126	Joey	 Oh! Hey! Thank God you guys are here!
+127	Rachel	 Hey! Hey what's going on?
+128	Joey	 Everything is upside down here! It rains all day long, nobody watches tv and Ross is famous!
+129		(Rachel turns around and sees Chandler and Monica arriving)
+130	Rachel	 Alright, I don't wanna alarm anybody, but Monica's hair is twice as big as it was when we landed!
+131		(Monica and Chandler reach the group)
+132	Monica	 Ok! When I go places with high humidity, it gets a little extra body, ok?!
+133	Chandler	 That's why our honeymoon photos look like me and Diana Ross!
+134	Joey	 Come on, I'll show you guys where to check in (Joey, Chandler and David leave)
+135	Monica	 (to Chandler) Oh, honey, can you make sure we get a King size bed!
+136	Phoebe	 (shouts after David) Oh! David, get one for us too! Oh, oh, and see if they have a heart-shaped one! And with mirrors on the ceiling!
+137	Monica	 (shouts to Chandler) And make sure our room isn't next to theirs (points to Phoebe).
+138	Rachel	 Ooh! You guys are so lucky you are here with people, you known it's such a romantic place. That's all, I just wish I could (looks at Joey who is at the check in desk) share that with a guy.
+139	Phoebe	 Not Joey.
+140	Rachel	 Not Joey, no, I was just lusting after Chandler.
+141	Monica	 Yeah, right!
+142		[Cut to the guys]
+143	David	 So, ehm... I'm proposing to Pheobe tonight. (Removes a ring box from his pocket and opens it to show Chandler the ring)
+144	Chandler	 Tonight?! (looks at the ring) Isn't an engagement ring supposed to have a diamond? (squints at the ring to emphasize how tiny the diamond is) Oh, there it is!
+145	David	 Yeah, well, being a failed scientist doesn't pay quite as well as you might think. That's uhm... one seventieth of a karat. And the clarity is uhm... is quite poor.
+146	Chandler	 (slaps him on the shoulder) Nice! (goes to Monica)
+147	Chandler	 Monica, can I talk to you for a sec? (Pulls her away from Phoebe and Rachel)
+148	Monica	 Ok!
+149	Chandler	 David is going to propose to Phoebe tonight!
+150	Monica	 See what happens when you give people advice? I hope you told him not to?
+151	Chandler	 That would be advice!!
+152	Monica	 Ok fine. I'll handle this. (goes to Phoebe who's talking to Rachel) Phoebe?
+153	Phoebe	 Yeah?
+154	Monica	 (looking very serious) I need to talk to you.
+155	Phoebe	 Are you leaving "The Supremes"? (Monica and Phoebe go to one side)
+156	MOnica	 Ok, my husband just gave your boyfriend some very bad advice. Look, David is going to propose to you tonight.
+157	Phoebe	 Wow? Really? That's fantastic!
+158	Monica	 What are you serious? You wanna marry him? Wha... What about Mike?
+159	Phoebe	 Oh, ok, you want me to marry Mike? Alright, well, let's just gag him and handcuff him and force him down the aisle. I can just see it
+160	Monica	 Do you really think marrying someone else is the right answer?
+161	Phoebe	 Sure! Look, ok, bottom line
+162	[Scene	 Ross's hotel room. Ross and is reading his keynote speech to Charlie from his laptop]
+163	Ross	 By using CT scans and computer imaging we can in a very real way, bring the Mesozoic era into the 21st century.
+164	Charlie	 It's great. You're gonna be the hit of the conference.
+165	Ross	 Oh and you know what, it will be even better tomorrow, because I won't be constantly interrupted by Joey checking to see if they put chocolates on my pillow yet. (Someone knocks on the door, Ross goes to open and it's Joey, Rachel and Chandler).
+166	Joey	 Hey guys!
+167	Ross	 The chocolates aren't here yet.
+168	Joey	 Damnit!
+169	Charlie	 Ross just read me his speech. It's fantastic!
+170	Chandler	 Oh, is it on the computer, cuz I'd love to give it a read...?
+171	Ross	 If you want to check your email, just ask! (Chandler tries to look offended)
+172	Chandler	 (offended) What? (pause) May I?
+173	Rachel	 (looking out the window) What's with the rain, Geller? I mean, when I signed up for Dino Week, nobody said anything about it being monsoon season.
+174	Charlie	 Actually the wet season is June to December.
+175	Rachel	 It's not the time Charlie.
+176	Chandler	 (at the laptop) Oh, no, no, no dear God, no!
+177	Joey	 Oh what, did someone outbid you for the teapot? (Chandler looks annoyed at him and Joey leans in to him) Oh! Secret teapot?
+178	Chandler	 Your computer, I don't know wha... everything's gone!
+179	Ross	 Wha... what do you mean? (Goes to the laptop)
+180	Chandler	 It must be a virus. I think it erased your hard drive.
+181	Ross	 What, oh my God. What did you do?
+182	Chandler	 Someone I don't know sent me an e-mail and I opened it.
+183	Ross	 Why, why would you open it?
+184	Chandler	 Well, it didn't say "This is a virus"!!
+185	Ross	 What did it say?
+186	Chandler	 Nude... (Ross looks at him)... pictures of Anna Kournikova. I'm so sorry.
+187	Ross	 What... what am I gonna do? My speech is gone, Chandler!
+188	Chandler	 It's not gone! I mean, I'm sure you printed out a copy. You have a hard copy, right?
+189	Ross	 NO! I don't!!
+190	Chandler	 Well, you must be pretty mad at yourself right now...!
+191	[Time lapse	 Ross looks likes he's been trying to fix his computer but just closes it as if giving up]
+192	Joey	 It's really gone?
+193	Ross	 Yep! I'd like to thank you guys for coming down here to complain about the rain and ruin my career!
+194	Chandler	 I just feel awful.
+195	Ross	 Yeah, well you should! I mean, nude pictures of Anna Kournikova? I mean, she's never even won a major tournament!
+196	Chandler	 Well, I tried Billy Jean King, but... (Ross glares at him) you know, you and Monica have the same "I'm gonna kill you" look...? I can usually make it go away by kissing her... (Ross continues to glare at him and Chandler leans in as if he's going to kiss Ross)
+197	Ross	 Get out! (Chandler runs out)
+198	Rachel	 You know, this happens all the time to my computer at work.
+199	Ross	 Well, what do you do?
+200	Rachel	 Well, I usually go... play Tetris on somebody else's computer.
+201	Ross	 I can't believe this. I can't believe this is happening. I have to give the keynote speech tomorrow! Ok? I have to stand up in front of all these people. What am I gonna say?
+202	Joey	 I could teach you a speech that I memorized for auditions.
+203	Ross	 I don't think that your monologue from Star Wars is gonna help me right now, Joe!
+204	Charlie	 Ross, we can solve this. I just heard your speech. We can recreate it! We've got all night!
+205	Ross	 Wha... what you really think we can do that?
+206	Charlie	 Oh wait, Joey and I are supposed to have dinner (Looks at Joey).
+207	Joey	 Hey don't worry about that! I mean, Ross needs you! And Rachel and I will stay and help anyway we can.
+208	Rachel	 Ugh.
+209	Ross	 Alright, ok, let's do it. (Ross sits down at the desk and they all gather around him) Uhm, I know we start by discussing the shortcomings of carbon dating... uhm, and then, then I move on to what is clearly the defining moment of the Mesozoic era, the breakup of Pangea, hello! (Rachel and Joey look confused) And then, there's the... eh... there's the overview of the Triassic.
+210	Joey	 Oh, oh! Any chance any of this happened in a "Galaxy far, far away"? (Ross turns aroud and glares at him. Joey and Rachel decide to leave).
+211	[Scene	 Mike's apartment. His phone rings and he picks up]
+212	Mike	 Hello?
+213	Monica	 Ok, Mike, enough is enough, now you love Phoebe and she loves you, so you need to get over your whole "I never want to get married" thing and step up!
+214	Mike	 Who is this?
+215	Monica	 This is Monica! I'm Phoebe's friend. Listen, Phoebe is back with David and he's going to propose to her, and she is going to say "yes" but I know she really wants to be with you!
+216	Mike	 (sounds shocked and sits down) He... he's gonna propose?
+217	Monica	 I... I'm sorry, did you say something? I can't hear through all this damned hair! (Tries to move her huge hair away from the phone, in vain)
+218	Mike	 Look, if Phoebe wants to marry David, she should, I'm not gonna stand in the way of that and neither should you.
+219	Monica	 You don't tell me what to do! I tell you what to do! Just call her. She's at the Paradise Hotel in Barbados. And while I've got you, you've got curly hair. What do you do in humidity? (Mike hangs up the phone) Damnit!
+220		(Chandler walks in)
+221	Monica	 (sarcastically) Well, I hope you're happy!
+222	Chandler	 (pretending not to sense the tone) Oooh! I hope you're happy too, honey!
+223	Monica	 Phoebe is going to say "Yes" to David. See, that's what happens when you meddle in people's lives!
+224	Chandler	 Phoebe is going to say "yes"? That's, that's great!
+225	Monica	 No it's not, b'cause she's still in love with Mike!
+226	Chandler	 And there's not chance that will work?
+227	Monica	 No, I called him. It's not gonna happen.
+228	Chandler	 (pointing at her) Oooooooh! Meddler! Meddler!
+229	Monica	 Well, if you hadn't meddled to start with, I wouldn't have had to go in there and meddle myself. Now, no matter how much we meddle, we will never be able to un-meddle the thing that you meddled up - in the first place!
+230	Chandler	 This vacation sucks!!
+231	[Scene	 The hall, full of paleontologists. Rachel and Joey are walking around]
+232	Joey	 I'm so bored! Stupid rain, we... we can't do anything.
+233	Rachel	 Well, I've brought some books. We could read.
+234	Joey	 Hey, it hasn't come to that yet.
+235		(A waiter walks by carrying appetizers or something on a tray)
+236	Joey	 (stopping the waiter) Hey hey hey! Don't mind if I do!
+237	Waiter	 I'm sorry sir, these are for the pharmaceutical convention (walks away)
+238	Joey	 Hey Rach, do you feel like going to a convention?
+239	Rachel	 We can't. We're not pharmacists!
+240	Joey	 (walking to a table with many badges on it) I know we're not, but (he picks up a badge) Frank Medeio and... (picks up another badge) Eva Trorro... womba...
+241	Rachel	 (picking up another random badge) Kate Miller?
+242	Joey	 Kate Miller it is. (he picks up the Kate Miller badge and sticks it on Rachel's breast)
+243	Rachel	 And... that's the most sex I'm gonna have this weekend.
+244	Joey	 In that case should I make sure it's on real good? (he does so, repeatedly tapping on her breast and stroking it)
+245	Rachel	 Thank you. (they walk away)
+246	[Scene	 Ross's room. Charlie is sitting on the bed, while Ross is walking up and down nervously]
+247	Charlie	 And then, and then you said that thing about, about bringing the Mesozoic era in the 21st century.
+248	Ross	 Yeah, that's it?
+249	Charlie	 Yeah.
+250	Ross	 Oh my God, we did it! (he sits beside her and skims through her notes excitedly)
+251	Charlie	 Actually I did it Ross. You remembered shockingly little of your own speech.
+252	Ross	 Yes, but I did make a pyramid out of the bath products. This is amazing, thank you, thank you so much. (he leans in, and they look at each other for a moment) That's a pretty necklace.
+253	Charlie	 Thank you.
+254	Ross	 Hey, what do you say we celebrate? Champagne? (he goes to get the champagne)
+255	Charlie	 Oh yeah! Hey, save the cork and then we can fill the bottle with water and put it back so they don't charge you.
+256	Ross	 Oh my God, I love you.
+257	Charlie	 Oh, this is such a cute picture of Emma. And is this your son... or just some kid whose picture you bring on vacation?
+258	Ross	 That's Ben, my son from my first marriage.
+259	Charlie	 Your first marriage?
+260	Ross	 Yeah.
+261	Charlie	 You're married more than once?
+262	Ross	 No. (they clink glasses and drink)
+263	Charlie	 So, why did you break up?
+264	Ross	 (embarassed) Oh, it was... it's complicated, you know? She... she was... eh... gay.
+265	Charlie	 Oh my God, this is so cool!
+266	Ross	 Ok, odd thing to get excited about!
+267	Charlie	 No, it's just... I was enganged to a guy who turned out to be gay!
+268	Ross	 Hey! High-five! (they high-five)
+269	Charlie	 Didn't you feel so stupid that you didn't see the signs? My fiancé was always going away on these long weekends with his tennis partner.
+270	Ross	 My wife had a workout friend she went to the gym with everyday for a year. She didn't get any fitter.
+271	Charlie	 Right and then everybody finds out and they're like
+272	Ross	 I know! It's like, if you knew, why didn't you tell me, you know? I mean, call, or leave a note
+273	Charlie	 I know!
+274	Ross	 And then, you try to make the best of a bad situation, so you float the idea of a threesome?
+275	Charlie	 I didn't do that.
+276	Ross	 (embarassed) Me neither.
+277	[Scene	 the Pharmacist convention. Joey and Rachel are walking out of it, drinking cocktails]
+278	Joey	 Well, who knew? Pharmacists are fun.
+279	Rachel	 I know, that old lady at the end was ready to take you home.
+280	Joey	 Not enough pills in the world, Rach. What about you, you're the single one, seen anybody in there you like?
+281	Rachel	 Well, let's see. There was a really big guy that I was talking to, with the really nice breasts...
+282	Joey	 But what about back home, anything going on there? Anybody you like?
+283	Rachel	 (takes a sip from her drink, embarassed) No.
+284	Joey	 There it is, you're blushing!
+285	Rachel	 No, I'm not blushing, I'm sunburnt! From, you know, the rain.
+286	Joey	 You like someone. Tell me who it is. Who is it? (tickles her a little)
+287	Rachel	 No.
+288	Joey	 Tell me who it is.
+289	Rachel	 Joey! (she walks away; Joey goes after her teasing and tickling her)
+290	Joey	 Come on who? Who do you like? Tell me. You're not getting away that easy. Who do you like, who?
+291	Rachel	 Joey, come on! It doesn't matter, you know, it's not like anything's gonna happen.
+292	Joey	 What? Why not? Rach, who can you not get?
+293	Rachel	 Oh! (pause) Ok. Ok, you really wanna know who it is?
+294	Joey	 (eagerly) Yeah, who is that?
+295	Rachel	 Do ya?
+296	Joey	 Yeah.
+297		(Ross and Charlie walk into the hall from Ross's room)
+298	Ross and Charlie	 Hey!
+299		(Joey smiles at them. Rachel looks annoyed)
+300	Charlie	 (to Joey) I just left you a message! Ross and I were gonna go grab a bite, but now that you're here, maybe we can go have that dinner.
+301	Joey	 Right, of course. Hey, did you guys finish the speech?
+302	Ross	 Yep, we got it, we got it. (To Charlie) Thank you so much.
+303	Charlie	 I had a great time.
+304	Joey	 Alright, hey look, and this isn't over, because I really wanna know who...
+305	Rachel	 Later! La...
+306	Charlie	 So, shall we?
+307	Joey	 Yeah. (they leave)
+308	Rachel	 Ok. See you, bye.
+309	Charlie	 Bye.
+310	Ross	 Good night.
+311	Joey	 Night.
+312		(Ross and Rachel watch them walk away and sigh. They look at each other, embarassed.)
+313	Ross and Rachel	 Ok, good night!
+314	[Scene	 The restaurant. Chandler and Monica are sitting at a table]
+315		(Phoebe and David walk in)
+316	Monica	 I can't believe she's gonna say yes to David. She's clearly in love with Mike.
+317	Chandler	 You know, it's very hard to take you seriously when you look like that.
+318		(David and Phoebe sit down at a table close to Chandler and Monica's)
+319	David	 Uh, Phoebe, uh, I have... something I wanna say.
+320	Monica	 Oh my God, he's gonna do it now. Please, I cannot watch this, let's go.
+321	Chandler	 I think we have some time. Have you ever heard him talk? (doing David) "Uh, Phoebe, uh, I would be honoured, uh..." Spit it out, David!
+322	David	 Uh, Phoebe, uh... (Chandler hits his own head) you're an amazing woman, and the time we spent apart was, was unbearable. Of course the sanitation strikes in Minsk didn't help!
+323	Phoebe	 Sure, ok, yeah.
+324	David	 But well, now that we're together again, I don't ever want to be apart. So, to that end...
+325		(David produces the ring. At the same time, Mike walks in, behind David)
+326	Phoebe	 Oh my God, Mike!
+327	David	 It's David, actually!
+328	Phoebe	 No, Mike's here.
+329	David	 (turns around) Hi Mike!
+330	Mike	 Hi David. Chandler. Monica... (Looks at Monica, checking her big hair, aghast) Oh!
+331	Monica	 IT'S THE HUMIDITY!
+332	Mike	 Hi Phoebe.
+333	Phoebe	 What are you, what are you doing here?
+334	Mike	 I have a question I need to ask you.
+335	David	 I have a question I was kinda gonna ask her myself.
+336	Mike	 Yeah, I understand, but before you do, she really needs to hear this.
+337	David	 (annoyed) Ok, would you care for my seat as well?
+338	Mike	 Actually yeah, that'll be great.
+339	David	 That's fair, you've had a long trip. (he leaves his seat to Mike, and stands there looking for a chair. He finally goes to Monica and Chandler's table)
+340	Mike	 Phoebe, I love you. I mean, I missed you so much these last few months and I thought we were apart for a good reason, but then I suddenly realized that there was no reason good enough to keep me from spending the rest of my life with you.
+341	David	 Kinda stepped on the toes of what I was going to say.
+342	Mike	 Sorry David, but she really has to know this.
+343	David	 Alright, but after this I want to see you outside. If the rain stops.
+344	Monica	 You're the most incredible woman I've ever met. How can I lose you? (Phoebe looks very flattered) Now, I don't actually have a ring...
+345	David	 I have a ring.
+346	Chandler	 I wouldn't brag too much about that thing, big guy.
+347	David	 Phoebe, will you marry me?
+348	Phoebe	 (smiles at him happily for a few seconds before answering) No!
+349	David	 Uhm... Ha ha!
+350	Phoebe	 I love you. But I never needed a proposal from you. I just needed to know that we were headed somewhere, you know, that we had a future.
+351	Mike	 We can have any future you want.
+352		(they hold their hands, gazing at each other)
+353	David	 Ok, I'm gonna take off.
+354	Phoebe	 David, I'm so sorry, I'm sorry.
+355	David	 Just so I know, if I had asked first...
+356	Phoebe	 Yeah, I might have said yes, but that would have been wrong.
+357	David	 Please, you don't have to explain. I mean, perhaps if I hadn't gone to Minsk things would have worked out for us. And I wouldn't have ruined my career, or lost that toe to frostbite. It was a good trip! (he leaves)
+358	Mike	 Is it ok if I hug you now?
+359	Phoebe	 Yes! (they hug)
+360	Monica	 (to everybody) BECAUSE OF OUR MEDDLING! Alright?
+361	[Scene	 Monica and Chandler's room. Monica and Chandler are in bed.]
+362	Chandler	 Oh, ain't this nice? It's so quiet, I could just lie here all day.
+363	Monica	 I know (she snuggles to him)
+364		(Rachel runs in)
+365	Rachel	 (walking in hurriedly) Open your drapes! Open your drapes!
+366	Chandler	 I'm so glad we've got adjoining rooms!
+367		(Rachel opens the drapes)
+368	Monica	 The sun is out!
+369	Chandler	 Hey! Remember when I had corneas?
+370	Monica	 Ok listen, you go down to the pool and reserve the chairs, and I'll get the magazines and the lotion.
+371	Chandler	 Ladies? Ross's speech is in 45 minutes.
+372	Rachel	 Nooo!
+373	Monica	 Damn it!
+374	Ross	 (from across the wall) Walls are pretty thin, guys!
+375	[Scene	 Conference room. Ross is making his keynote speech]
+376	Ross	 Then we have to await the data from recent MRI scans and DNA testing which call into question information gathered from years of simple carbon dating.
+377	Rachel	 Look at that woman sitting by the pool getting tan... so leathery and wrinkled, I'm so jealous!
+378	Ross	 Finally, factoring the profusion of new species recently discovered
+379	Chandler	 (to a paleontologist sitting next to him) Not to mention the cold sores.
+380		(the paleontologist glares at Chandler)
+381	Ross	 And that's just the herbivores. I'm not even gonna discuss the carnivores, their heads are already too big. Which is ironic considering their stunted cerebral development.
+382		(all the paleontologists laugh)
+383	Chandler	 (to the one sitting next to him) Really?
+384	Ross	 But all kidding aside, in much the same way that Homo ergaster [1] is now thought to be a separate species from Homo erectus...
+385		(Joey laughs)
+386	Charlie	 What?
+387	Joey	 He said "erectus"!
+388	Charlie	 You're... you're kidding, right?
+389	Joey	 No, he really said it.
+390	Ross	 ... and while there are certainly vast differences between these Mesozoic fossiles and the example of Homo erectus...
+391		(Rachel laughs)
+392	Joey	 Erectus?
+393	Rachel	 Homo.
+394	[Scene	 the hotel conference room]
+395	Ross	 (concluding his speech)... in a very real way we can bring the Mesozoic era into the 21st century. (pauses) Thank you!
+396		(Everybody stands up and applauds. Ross looks flattered and surprised. His friends and other members of the audience go to congratulate him)
+397	Ross	 Oh, thanks guys!
+398	Man with a bow tie	 (shaking hands with Ross) I thought... it was wonderful!
+399	Ross	 Oh!
+400	Man with a bow tie	 Jarvis Oberblau, Cornell. (sighs) I mean, the ideas you put forth and, and from someone... so... young... and... (sighs again and smiles at Ross blissfully).
+401	Ross	 (with a frozen smile on his face, realizing something's wrong with Jarvis) Ok... now... now we're just holding hands! (pulls his hand away)
+402	Rachel	 All right! Well, uh... (to Monica) we're gonna hit the beach?
+403	Monica	 Yeah!
+404	Rachel	 (to Ross, in a flattering tone) It was really... great!
+405	Ross	 Oh, thank you so much!
+406	Joey	 Yeah, and so funny!
+407	Rachel	 Oh!
+408		(Rachel, Joey and Chandler pat him on his shoulders and walk off, together with Monica)
+409	Ross	 (puzzled) Ok!... All right, thanks! Thank you so much, you guys! (to Phoebe) Oh, I can't tell you how much it means to me that you were here!
+410	Mike	 (popping by, smiling) You're kidding, we wouldn't have missed it!
+411		(Ross is dumbfounded to see Mike instead of David)
+412	Mike	 Oh... I'm back!
+413	Ross	 (skating over, embarrassed) Ok!... Uh... excuse me? Yeah?
+414	Phoebe & Mike	 Yeah! (they leave)
+415		(Ross goes towards Charlie, who's conversing with a fellow paleontologist, and touches her shoulder to get her attention)
+416	Ross	 Hey! (she turns to him) Well...? (in expectation)
+417	Charlie	 You were incredible!
+418	Ross	 Yeah?
+419	Charlie	 You blew them away!
+420	Ross	 Oh, I can't tell you how great it was to look at the crowd and see your face! I mean... uh, did you know you were (giggles) mouthing the words along with me?
+421	Charlie	 (smiling broadly) I was not!
+422	Ross	 No, it's ok! Made me feel like a rock star!
+423	Charlie	 Oh my God! (pauses) I'm your groupie!
+424	Ross	 (joking) I'd better not found you naked in my hotel room!
+425		(Ross giggles, but Charlie isn't amused at all.)
+426	Ross	 (realizing his joke wasn't so good, but still giggling) Look, I took it too far!
+427	[Scene	 the hotel lobby. Monica, Phoebe, Chandler and Mike walk in from the outside.]
+428	Monica	 (her hair bigger then before) I can't believe it's raining again! Oh, it's so unfair!!!
+429		(They approach the buffet, where a couple of paleontologists are sipping their drinks)
+430	Phoebe	 Well, on the bright side, now you won't have to see all these paleontologists with their shirts off. (Grabs a drink and notices that the two men are upset) Not you guys. You got it going on!
+431		(Monica, Phoebe, Chandler and Mike walk away, sipping their drinks)
+432	Monica	 So, what are we gonna do today?
+433	Mike	 They have a game room downstairs! Ping pong and stuff.
+434	Monica	 (pleasantly surprised) Ping pong? (to Chandler) Honey, they have ping pong! Let's play!
+435	Chandler	 I don't think so!
+436	Monica	 (disappointed) Why not?
+437	Chandler	 Because you know how competitive you get and well, I say it's cute, others disagree, and I'm lying!
+438	Monica	 I'm not always that bad!
+439	Chandler	 Oh, yeah? What happened when we played last time?
+440	Monica	 (hesitatingly) I punched you...?
+441	Chandler	 And...?
+442	Monica	 ... Phoebe...?
+443	Phoebe	 ... and...?
+444	Monica	 I clunked your heads together!
+445		(Chandler turns to Mike and gives him a "See what I mean?" look)
+446	[Scene	 Joey and Charlie's room]
+447		(Joey is sitting in an armchair and wearing a diving mask. He pulls out a grape from a bunch of fake grapes on the coffee table, puts it on the snorkel's breathing tube and blows it out, then giggles to himself)
+448	Charlie	 (walking in) Hey! There you are!
+449	Joey	 Hey! (stands up) As soon as it stops raining we have got to go snorkeling! Some kid told me about the sea turtle and, if you blow bubbles in its face, it chases ya! (smiles ecstatic)
+450	Charlie	 I'm sorry, I can't! I'm running a discussion group all afternoon.
+451	Joey	 (disappointed) Oh... oh, but that's ok, I'll find someone else to do it... I'll do it alone, but... I don't know what happens if the sea turtle catches you...
+452	Charlie	 You know... I feel so bad! I haven't seen you this whole trip and (pauses) especially last night...
+453	Joey	 (interrupting her) Hey! Don't worry about it! It was fine! I ended up having the best time with Rachel! I just felt bad for you, stuck in that room, working on Ross's speech... (pulls a face)
+454	Charlie	 Actually, it turned out to be a lot of fun!
+455	Joey	 (bewildered) Oh! Oh, well! At least we're both having fun!
+456	Charlie	 Yeah...
+457		(There's an awkward moment of silence)
+458	Charlie	 ... is it weird that it's not with each other?
+459	Joey	 Yeah! A little bit, yeah...
+460	Charlie	 (sitting down on the bed) I think we need to talk...!
+461		(pause)
+462	Joey	 Yeah... I think we do... (sighs, with folded arms)... about what?
+463	[Scene	 the hotel game room. There is a ping pong table in the middle of the room. Monica, Phoebe, Chandler and Mike walk in]
+464	Monica	 C'mon guys, it'll be fun!
+465	Phoebe	 All right, all right... I'll play if we don't keep score!
+466	Monica	 But then how do we know who wins?
+467	Phoebe	 Nobody wins!
+468	Monica	 So, we're just four losers... SUPER!
+469	Chandler	 I'm not playing with you.
+470	Phoebe	 Yeah, I'm out.
+471	Mike	 I'll play ya!
+472	Monica	 (smiling) OK!
+473	Phoebe	 Mike, you don't know, you don't know what you're doing!
+474	Chandler	 She gets crazy! This scar (points to his forehead) is from Pictionary!
+475		(Monica rolls her eyes)
+476	Mike	 (disbelieving) I think I will be all right! (to Monica) You wanna volley a bit for a serve?
+477	Monica	 Sure! Got to!
+478		(Monica and Mike start to play ping pong. Mike scores)
+479	Monica	 Aww!
+480	Mike	 Oh, by the way... I'm awesome!!
+481	Chandler	 (nearly whispering) Oh dear God, there's two of them!
+482	Mike	 You're ready to play?
+483	Monica	 Hell, yeah!
+484	Chandler	 (to Phoebe) Did you know this about him?
+485	Phoebe	 No idea! I though he was soft like you!
+486	Mike	 Wanna make it more interesting?
+487	Monica	 How much were you thinking?
+488	Mike	 Ten bucks a game?
+489	Monica	 Make it fifty!
+490	Mike	 I'll make it a hundred!
+491	Monica	 (nearly shouting) One thousand...
+492	Chandler	 (interrupting her) OK!
+493	Mike	 To see who goes first, you got a quarter?
+494	Monica	 (going through her pockets) No... (to Chandler and Phoebe) Either of you girls got a quarter?
+495	Chandler	 Honey, try to focus the trash talk on him!
+496	Phoebe	 (picks up a coin from her bra) Monica, you call it.
+497	Monica	 Heads! No, Tails! He-he-heads!
+498	Phoebe	 Tails!
+499	Monica	 (angry) Ow, what are the chances!
+500		(They start playing again)
+501	Monica	 Ha! My point!
+502	Mike	 Oh, no! I don't think so! You know, according to standard table tennis rules if at any time a player uses his non racket bearing hand to touch the playing surface he or she forfeits the point.
+503	Phoebe	 (smiling proudly) He was a lawyer!
+504	[Scene	 Rachel's hotel room. She is watching the Weather Channel on TV.]
+505	Alexandra Steele	 (meteorologist) (pointing to the East Coast)... all these coasts having beautiful weather. In New York, it's 72 and sunny!
+506	Rachel	 Oh! Weather bitch! (turns the TV off)
+507		(Someone knocks on the door)
+508	Rachel	 It's open! (Joey walks in) Hi, Joe!
+509	Joey	 (downhearted) Hey...
+510	Rachel	 (worried) What, is everything ok?
+511	Joey	 Uh... Charlie and I broke up.
+512	Rachel	 Nooooo, why?
+513	Joey	 Oh well, she said we have nothing in common.
+514	Rachel	 (laughing) Oh, that's crazy!
+515	Joey	 No, it's not, we have nothing in common!
+516	Rachel	 ... yeah, it's true.
+517	Joey	 I mean, she should be with someone like... Ross! You know what I mean, he uses all those big words too! Man, smart people are dull!
+518	Rachel	 (pretending to be offended) What, hey!
+519	Joey	 (laughing sarcastically) Ok, Rach!
+520		(He punches her on her shoulder mockingly, then goes and sits down on her bed)
+521	Joey	 I feel so stupid, you know? Why... why do I keep going after the wrong girls?
+522	Rachel	 W-What are you, what are you talking about?
+523	Joey	 Oh, c'mon, I mean, there's you, then there's Charlie, and it's like... (sighs) What the hell is my problem? OH! (He falls back on the bed)
+524	Rachel	 Ok... uh... maybe you're not always going after the wrong girl...
+525	Joey	 (sitting up again) I'm telling you, Rach, Charlie is not right for me!
+526	Rachel	 Yeah, I'm not talking about her...
+527	Joey	 But then who? The waitress I went out with last month? (gives her a meaningful look)
+528	Rachel	 You know? Forget it!
+529	Joey	 (stands up) No-no-no-no, no! Who, who were you talking about?
+530	Rachel	 No, I-I-I-I don't, I actually don't know who I'm talking about! So!
+531	Joey	 Ok! All right, well... I'm gonna see if I can get a room for the night and I'll... I'll see you later!
+532	Rachel	 Yeah, sure!
+533		(Joey walks out, while Rachel is pensive. Once he's out of her room, he suddenly realizes who she was talking about and goes back in. He looks at her in disbelief and she looks like she was caught red-handed)
+534	[Scene	 Rachel's hotel room. Joey is standing at the door, facing Rachel]
+535	Joey	 You like me? (shuts the door)
+536	Rachel	 (nearly whispering) Ok, let's not make a big thing about this!
+537	Joey	 (shocked) That's a huge thing!
+538	Rachel	 Not working with me, Joe! Here's the thing
+539	Joey	 What... for how long?
+540	Rachel	 Only like a month!
+541	Joey	 (outraged) A MONTH??
+542	Rachel	 What the... DIAL IT DOWN! (Joey goes to sit on the bed) Listen, ok, and maybe they're crazy thoughts, but sometimes I do, I have, I've been thinking about... you know, us! (looks at Joey, who's totally distraught) Ok, dial it up a little!
+543	Joey	 (stands up) I just have one question!
+544	Rachel	 Shoot!
+545	Joey	 (desperate) What the hell are you doin'???
+546	Rachel	 I don't know, I'm not trying to do anything, it's just, we have such a good time when we're together, you know... I mean, aren't you just a... little curious... (insinuating) what that would be like?...
+547	Joey	 Uh, am I curious? I mean, I am as curious as... as... George!!
+548	Rachel	 (puzzled) Who...?
+549	Joey	 CURIOUS GEORGE (see link)! You know, the monkey, and the guy with the yellow hat!
+550	Rachel	 Oh yes, of course, I remember him!
+551	Joey	 Yeah, he had a paper route.
+552	Rachel	 Yeah, he did! (smiling) Oh, see, this is what I'm talking about!
+553	Joey	 No, I know, yeah I know we're great but Rach no... this... this can't happen!
+554	Rachel	 But can it... just... happen a little bit?
+555	Joey	 (charmed, but then recoiling) NO, NO! It can't happen at all!
+556	Rachel	 But why, why not?
+557	Joey	 Because... look, no one wants this to happen more than me, ok? (in a trembling voice) I have gone over this moment in my head a hundred times and not once did I ever say no! (sighs) I couldn't do it to Ross!
+558	Rachel	 But that wasn't gonna stop you before!
+559	Joey	 I know, I know! But I've thought about it a lot since, and it just wouldn't be right... (painfully) I'm sorry...!
+560	Rachel	 (regretful) I'm sorry, too! (they look at each other sadly, then she recollects, and puts her hands over her eyes) OH GOD! I shouldn't have said anything!
+561	Joey	 NO! No-no-no-no-no-no! Hey! Hey, we'll be fine! Li... hey, like you said
+562	Rachel	 It's not a big deal!
+563	Joey	 NO BIG DEAL!
+564	Rachel	 It's so not a big deal!
+565	Joey	 Yeah! I'll see ya later! Yeah!
+566	Rachel	 Ok!
+567		(They shake hands, he walks out and shuts the door, then seems to change his mind, moves to open the door, than changes his mind again and leans over the door. Just then, Rachel opens the door)
+568	Rachel	 Ok, I...
+569		(Joey falls backwards into the room)
+570	Rachel	 AAAHHHH!
+571		(Joey hurriedly stands up, arms akimbo, gives her an embarrassed look and walks away)
+572	[Scene	 the hotel game room. Monica and Mike are still playing ping pong]
+573	Monica	 Ooh! I'm sorry! I think, I THINK, that may have missed the table!
+574	Mike	 Do you?
+575	Monica	 Ah, yeah!
+576	Mike	 Do you?
+577	Monica	 Ah, yeaaah!
+578	Mike	 DO YOU?
+579	Monica	 AH YEAAAAH!
+580	Chandler	 (to Phoebe) Do you really find this attractive on him?
+581	Phoebe	 (looking at Mike) Oh, yeah! (turning to Chandler) Are you telling me you... you're not even... a little turned on by Monica, right now?
+582		(Chandler turns to look at Monica, who has the biggest hair ever, is flushed and in a sweat, and is decidedly sniffing her armpits)
+583	Chandler	 I think this is the first time in our marriage that I've felt like the more attractive one.
+584	Phoebe	 C'mon Mike, you can beat her! Knock that dog off her head!
+585		(Mike scores)
+586	Monica	 Oh, damn it!
+587	Phoebe	 (pointing at Mike and shouting) I sleep with him!
+588	Mike	 (boasting) Game, point!
+589	Monica	 (threatening) Don't get too cocky! Remember I won the last one! Oh, by the way, how did that feel, losing to a girl?
+590	Mike	 You know, you should really look in a mirror before you call yourself that.
+591		(they continue to play ping pong and then Mike scores, winning the game)
+592	Monica	 NO, NO, NOOO!
+593	Mike	 And that's how it's done! (Phoebe kisses him)
+594	Chandler	 Okay-dokay, you've each won a game and I've lost what's felt like a year of my life. So everybody goes home a winner.
+595	Monica	 Best out of three?
+596	Mike	 That's what I'm thinking.
+597	Chandler	 Should I use my invisibility to fight crime or for evil?
+598	Monica	 (to Mike) Serve the ball, chump!
+599	Mike	 (doing Monica and mumbling)
+600	Phoebe	 (to Mike) Ok Mike, better come back Mike, better come back.
+601	[Scene	 hotel's bar, Ross and Mr. Oberblau are talking]
+602	Mr. Oberblau	 I'm just saying, I have a cabin in the Adirondacks if you ever want to get away from the city, well, that'd be (pause) just nifty!
+603	Ross	 Ooh, well. Ah, I kinda have got a lot on my plate right now, not that I wouldn't love a weekend in the country with a strange man. (Mr. Oberblau giggles)
+604	Woman	 Jarvis?
+605	Mr. Oberblau	 (seeing her) Oh, you're back... (to Ross) this is my wife, Nancy.
+606	Ross	 Get Out!
+607		(Charlie walks by)
+608	Charlie	 Ross, can I talk to you for a minute?
+609	Ross	 Yes, please! (they move and sit down on a sofa) So, what's going on?
+610	Charlie	 Uh, well... Joey and I broke up.
+611	Ross	 Oh my God, wh-what happened?
+612	Charlie	 Joey is a great guy, but we're just... so different! I mean, during your speech he kept laughing at homo erectus!
+613	Ross	 I knew that was him!
+614	Charlie	 Anyway I just, uh, I think it's for the best.
+615	Ross	 (holding her hand) Hey, you ok?
+616	Charlie	 I guess. There was hum... (she breathes deeply) there was another reason that I thought it was time to end it with Joey. I started to realize that I was having feelings for someone (pause) else.
+617		(some paleontologists interrupt them)
+618	Paleontologist	 (merrily) Ok Geller. Last day of the conference, you know what happens to the keynote speaker.
+619	Ross	 Oh, professor Clerk we're kind of in the middle of a conversation, here.
+620	Charlie	 Yeah, can you guys just throw him in the pool later?
+621	Professore Clerk	 Or we could throw you both in now!
+622	Ross	 (standing) Ok, gentlemen! Please! Aren't we a little old for this? I mean, we're scientists, right? We're academics. And most importantly I... you-you will have to catch us first. (he starts to run away with Charlie). GO, GO, GO! (the paleontologists starts chasing them)
+623	[Scene	 game room, Monica and Mike are still playing ping pong]
+624		(Chandler and Phoebe look bored to death. Monica scores and laughs)
+625	Mike	 Ok, so it's a tie again, 41 to 41.
+626	Chandler	 (exhausted) Ok, look! Enough is enough!
+627	Monica	 No, I have just to have two more points to beat him!
+628	Chandler	 Monica, that was also true an hour ago! I mean, please, look at you! Your hand is blistered, you can barely stand, your hair is inexplicable! Ok, you've already proven you are just as good as he is, now we've missed our dinner reservations, so now let's just go upstairs, order room service, take a shower and shave your head!
+629	Monica	 I can't just walk away! I've put in four hours!
+630	Chandler	 But...
+631	Monica	 Look! You knew this about me when you married me! You agreed to take me in sickness and in health. Well, this is my sickness!
+632	Chandler	 What about the obsessive cleaning?
+633	Monica	 That's just good sense!
+634		(they start playing again; suddenly Monica hits the table with her hand)
+635	Monica	 (in pain) Aww! (she holds her hand, moaning like she's biting back a scream)
+636	Chandler	 You ok?
+637	Monica	 No, no, no. Honey, I'm ok. Shake it off! (she shakes the wrist and it's more painful) Oh, no! No shaking, no shaking! Ooh! Ooh! (pause) Oh my God! I can't play!
+638	Mike	 So you forfeit?
+639	Phoebe	 Mike wins?
+640	Monica	 I can't believe it! (pause) I lost!
+641	Chandler	 No, you didn't.
+642	Monica	 What?
+643	Chandler	 Because I'm gonna play for ya.
+644	Phoebe	 You can't do that!
+645	Mike	 Oh, that's ok. I don't care which of them I beat.
+646	Phoebe	 Ok, we're taking that paddle home, mister.
+647	Monica	 (to Chandler) Honey, you don't have to do this.
+648	Chandler	 (In a loving voice) Yes, I do. Now, I may not understand why you have to win so badly, but if it's important to you then it's important to me, because I love you.
+649	Monica	 But... you suck!
+650	Chandler	 (Still in a loving voice) You're welcome, sweetheart.
+651		(Chandler prepares to play)
+652	Chandler	 All right Mike, let's get this over with. Sudden death. Whoever wins this point, wins.
+653	Mike	 Ok!
+654		(They start playing and Chandler does not suck at all)
+655	Monica	 Oh my God! You're good!
+656	Phoebe	 It's like watching porn!
+657		(Chandler scores and wins the match)
+658	Chandler	 And that's... how... it's done!
+659	Monica	 (to Chandler) Oh my God. That was so amazing! When did you (pause) Hold on! I almost forgot (she turns to Mike) loser! (back to Chandler) When did you stop sucking?
+660	Chandler	 I never sucked, I actually didn't want you to know how good I was!
+661	Monica	 Why?
+662	Chandler	 I don't know.
+663	Monica	 This is so great! Now we can enter into doubles tournaments!
+664	Chandler	 That's why!
+665	[Scene	 Hotel's bar. Ross is running to Charlie trying not to be seen with two cocktails in his hands. She's hidden behind a huge plant]
+666	Charlie	 Thanks!
+667	Ross	 Hi.
+668	Charlie	 Are they still looking for us?
+669	Ross	 Yeah. The bartender said that they split up into two search parties, the herbivores and the carnivores. (pause) You know, we as a group are not the coolest.
+670		(Three paleontologists walk by and Ross hugs Charlie trying not to be seen)
+671	Ross	 I don't think they saw us.
+672	Charlie	 I don't think they did.
+673		(They realize that they are hugging closely and he draws back)
+674	Charlie	 Hum, so, I started to say you something earlier, hum... (pause) There was another reason I realized it was time to end it with Joey. I kind of realized I... was starting to have feelings... for someone else.
+675	Ross	 (apparently unruffled) Oh. Can I... can I ask who?
+676	Charlie	 I think you know.
+677	Ross	 I think I know too but I've been really wrong about this stuff in the past, so...
+678		(Charlie kisses Ross, they stop for a moment and then he kisses her back)
+679	Ross	 I'm sorry... we... we can't.
+680	Charlie	 All right, all right.
+681	Ross	 I mean, you just went out with my best friend, and I just think it'd be a really really bad idea. (pause) Or-or not! (they kiss passionately)
+682		(Joey walks in and sees Ross and Charlie kissing. He gives a faint, rueful smile, then he seems to recollect something and suddenly he moves back to Rachel's room. He knocks on her door and she opens)
+683	Rachel	 What?
+684		(Joey says nothing, but enters the room and kisses her. They are kissing passionately only to stop for a brief "oh" from Rachel. They continue their passionate kiss and Joey closes the door with his foot and it shuts in the camera's "face". And that's the end of the ninth season.)
+685		End

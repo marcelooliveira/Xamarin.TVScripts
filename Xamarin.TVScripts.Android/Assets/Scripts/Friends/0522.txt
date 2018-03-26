@@ -1,0 +1,369 @@
+1	Teleplay by	 Wil Calhoun Story by
+2	[Scene	 Central Perk, everyone but Phoebe are there reading. Rachel is sitting on the couch flanked by Ross and Monica. She suddenly stops reading and starts blinking her left eye as if it's bothering her. The problem is that Joey is on her left and thinks she's winking at him and winks back. Ross is watching this and isn't quite sure of what to make of it.]
+3	Ross	 What's going on?
+4	Rachel	 Well, my eye is a little itchy.
+5		(Ross turns to look at Joey.)
+6	Joey	 Uhhh, mine too! Yeah.
+7	Monica	 (To Rachel) Wow! It's really red! You should go see my eye doctor.
+8	Rachel	 Richard? I'm not gonna go see your ex-boyfriend!
+9	Chandler	 Oh, Richard. That's all I ever hear, Richard, Richard, Richard!
+10	Monica	 Since we've been going out, I think I've mentioned his name twice!
+11	Chandler	 Okay, so Richard, Richard!
+12	Monica	 It's not Richard! Okay? It's this new guy and he's really good.
+13	Rachel	 Well, I'm sorry I'm not going to an eye doctor!
+14	Ross	 Oh God, here we go!
+15	Chandler	 What?
+16	Ross	 Anytime anything comes close to touching her eye or anyone else's she like freaks out. Watch! Watch! (He takes his finger and moves it towards his eye.)
+17	Rachel	 (flinches) Ross! Come on! That's all right! Fine--Okay, I have a weird thing about my eye. Can we not talk about it please?
+18	All	 All right, fine.
+19	Monica	 Hey Rach, remember that great song, Me, Myself, and I? (And on the "I" part she mimics poking her eye.)
+20	Rachel	 (flinches again) Monica! Come on!
+21	Ross	 Hey, does anybody want to get some lunch? All those in favor say I? (Pokes his eye)
+22	Rachel	 (freaks) Ross! Stop it! Come on!
+23	Chandler	 How much did I love The King and I? (Oh, you get the point by now.)
+24	Rachel	 Chandler!
+25	Joey	 Me too! Me too! Me too! (Yeah, he does the same thing.)
+26	Rachel	 Just stop it! Come on!
+27		(Joey howls in pain and holds his eye.)
+28	Chandler	 You okay there man?
+29	Joey	 Yeah, I got too excited!
+30		Opening Credits
+31	[Scene	 Monica and Rachel's, Ross, Chandler, Monica, and Phoebe are eating breakfast.]
+32	Ross	 All right, I gotta go. I'm taking Ben to the park.
+33	Phoebe	 Ohh, give him a kiss for me!
+34	Ross	 All right, bye!
+35	Monica	 Bye!
+36	Phoebe	 Bye!
+37	Ross	 Later! (Exits.)
+38	Phoebe	 (after he's gone) I am so sorry you got caught in the middle of that. I didn't mean to be so out there. I am furious with him!
+39	Chandler	 Wow umm, calm down.
+40	Phoebe	 I'm trying, but man that guy can push my buttons!
+41	Monica	 Why are so mad at him?
+42	Phoebe	 Look, I don't wanna talk about it. Okay?
+43	Monica	 Well, it just seems that…
+44	Phoebe	 You wanna be on my list too? Keep talking! Has anyone seem my list by the way?
+45	Chandler	 Uh, no Pheebs. What's it look like?
+46	Phoebe	 Uh, it's a piece of paper and it says, "Ross" on it.
+47	Joey	 (entering, depressed) Hey. I just got off the phone with Estelle and guess what. (Pause, then very excitedly) I GOT THE LEAD IN A MOVIE!!!!!!
+48	Chandler	 You got the lead in a movie? That's amazing! What's the movie about?!
+49	Joey	 It's called Shutter Speed, it's really cool! Yeah, umm, I meet this girl in the subway and we fall in love in like a day, right? And then, she disappears… But I find out where she lives and when I get there this like old lady answers the door and I say, "Where's Betsy?" Right? And she says, "Betsy's been dead for 10 years."
+50	Phoebe	 Ohh-oh, chilling!
+51	Joey	 And the best part is, we're filming in the desert outside Vegas! (To Chandler) And you know what that means buddy!
+52	Chandler	 Yeah, I know that means buddy!
+53	Joey	 Road trip! Yeah, we can rent a car! I just have to be there by Tuesday!
+54	Phoebe	 Oh wait, my grandmother's dead.
+55	Chandler	 Well, uh, we can talk about that too Pheebs.
+56	Phoebe	 No! No, her cab! She probably won't be using it; you can drive it to Las Vegas.
+57	Joey	 All right! Thanks Pheebs!
+58	Chandler	 Whoa-whoa-whoa, what are we going to do about my job?
+59	Joey	 Oh umm, not go.
+60	Chandler	 All right, great, road trip baby! (To Monica) This okay with you?
+61	Monica	 Chandler! You don't have to ask for my permission. (Quietly) You can go.
+62	Chandler	 Thank you.
+63	Monica	 Hey Rach, come on! We're gonna be late for the eye doctor appointment!
+64	Rachel	 (entering from her bedroom) All right! Let's get this over with! Ugh! (She walks by the table and notices that no one is looking and accidentally on purpose knocks over the open cereal box.) Ohhh! No! Look what I did! (She starts walking through the mess. {Also, notice the continuity error in this scene. Note the position of the box and dispersal pattern of the cereal before and after the camera cut.}) Oh, I mean, look at this mess! I mean, we're probably gonna have to clean this up! Y'know? We're gonna have to reschedule!
+65	Monica	 No. If you thought this mess is going to bother me, you are wrong! All right, let's go Blinky! (She ushers Rachel out the door, but before the door fully closes she sticks her head back in.) Chandler!!!! (Chandler agrees to clean up the mess.)
+66	[Scene	 Central Perk, Joey is reading a map as Phoebe enters.]
+67	Phoebe	 Oh hey Joey! What's up?
+68	Joey	 I can't decide which route to take to Vegas. Hey, you've traveled a lot right?
+69	Phoebe	 Yeah, I've been around.
+70	Joey	 Okay, so-so which route should I take the northern route or the southern route?
+71	Phoebe	 Ooh, if you take the northern route there's a man in Illinois with a beard of bees. {Okay, I must protest this, I've lived in Illinois all my life and know of no man with a beard of bees! Wisconsin, on the other hand, might be a different story.}
+72	Joey	 Great! Problem solved!
+73	Phoebe	 But on the southern route there's a chicken that plays tic-tac-toe.
+74	Joey	 Well, back to square one.
+75	Phoebe	 Oh, I know a way that you can decide! All right, I'm going to ask you a series of questions and you answer as quickly as you can.
+76	Joey	 (quickly) Yes!
+77	Phoebe	 Good, but wait. Okay, all right, here we go. Now I want you to relax. Take a deep breath. Clear your mind. (Quickly) Which do you like better peanut butter or egg whites?
+78	Joey	 Peanut butter!
+79	Phoebe	 Which would you rather be a fireman or a swimmer?
+80	Joey	 A swimmer!
+81	Phoebe	 Who would you rather sleep with Monica or Rachel?
+82	Joey	 Monica. Oh… huh, I always thought it would be Rachel.
+83	Phoebe	 No thinking! No thinking! Tie or ascot?
+84	Joey	 Ascot!
+85	Phoebe	 North route or south route?
+86	Joey	 North route!
+87	Phoebe	 Bamn! There you go! Huh?
+88	Joey	 Wow! That was incredible! Beard of bees, here I come!
+89	Ross	 (entering) Hey!
+90	Phoebe	 Oh, this guy again. (She ignores him.)
+91	Joey	 Hey man, what's up?
+92	Ross	 Uhh, not much. You guys want to see a movie tonight?
+93	Joey	 Sure, what do you want to see?
+94	Ross	 I don't know, umm…
+95	Joey	 Oh, I know how we can decide. Phoebe, show him your game!
+96	Phoebe	 Umm, no thank you. (She gets up and moves to the couch. They were at a table previously.)
+97	Ross	 What's with her?
+98	Joey	 I don't know. But hey, I know we can decide. Okay, I'm gonna ask you questions and you answer real quick. Okay?
+99	Ross	 Okay.
+100	Joey	 What do you like better action or comedy?
+101	Ross	 Action.
+102	Joey	 Who would you rather sleep with Monica or Rachel?
+103		(Ross pauses and looks at him, Joey motions for him to hurry up.)
+104	Ross	 Dude, you are sick.
+105	Joey	 Oh, I'm sorry. I forgot you had that whole Rachel thing.
+106	[Scene	 Monica's eye doctor's office, Monica and Rachel are waiting in an exam room and looking at this big white thing used to check eyes. I have no idea what it is, and if an ophthalmologist happens to know what that is, let me know.]
+107	Rachel	 Oh my God! What does that thing do?
+108	Monica	 (looks at it more closely) Oh that's an eye removal machine.
+109	Rachel	 All right, I'm outta here!
+110	Monica	 I'm kidding! I'm kidding!
+111		(Rachel heads for the door but is intercepted by the doctor.)
+112	The Doctor	 Hi Rachel!
+113	Rachel	 Hey!
+114	The Doctor	 I'm Dr. Miller. Monica told me you were a little nervous, but don't worry everything's gonna be just fine.
+115	Rachel	 So were done then!
+116	Dr. Miller	 Almost! But first, we gotta start.
+117	Rachel	 Okay.
+118	Dr. Miller	 This is a glaucoma test.
+119	Rachel	 Uh-huh.
+120	Dr. Miller	 Sit down.
+121	Rachel	 Okay.
+122	Dr. Miller	 But your chin here. (She does so.) Now, you'll feel a small puff of air in each eye.
+123	Rachel	 (jerks back from the tester) What?!
+124	Monica	 A small puff of air, now come on!
+125	Dr. Miller	 Here we go.
+126	Rachel	 All right.
+127	Dr. Miller	 1…2…3! (Rachel jerks back on 3.)
+128	Rachel	 I'm sorry. All right, I'll just stay in here this time. (Puts her head back.) Okay.
+129	Dr. Miller	 Ready?
+130	Rachel	 Uh-huh.
+131	Dr. Miller	 1…2… (She flinches on 2 this time.)
+132	Monica	 Y'know what, I'm gonna hold her head.
+133	Rachel	 Okay.
+134	Dr. Miller	 That's okay.
+135	Monica	 Okay. (Monica backs off.)
+136	Rachel	 Okay. Okay!
+137	Dr. Miller	 1…2! (She flinches again.) (Gives up.) Y'know what? You're young; you probably don't have glaucoma.
+138	Rachel	 (really excited) Great!! It was very, very nice to meet you sir--Ow! Hey! What are you doing?! Are you crazy! (He took out that thing they use to look at people's retinas and looked at Rachel's when she was shaking his hand causing her to flinch and scream at him.)
+139	Dr. Miller	 Okay. You've got a small, minor infection in that left eye. I want you to take these drops three times a day and you'll be as good as new.
+140	Rachel	 Yeah, no, I don't-I don't put things in my eye.
+141	Dr. Miller	 Okay then, I guess we'll see you back here in three months.
+142	Rachel	 Great!
+143	Dr. Miller	 And I'll fit you for a glass eye.
+144	Rachel	 Okay, just give me the damn drops! (Grabs them and storms out.)
+145	Monica	 Dr. Miller? (She covers her right eye and reads from the chart) P E C F D.
+146	Dr. Miller	 Very good Monica! You know where they are.
+147	Monica	 I sure do! (She runs over to a drawer, opens it, and grabs a lollipop.) (To Rachel) And you don't get one!
+148	[Scene	 Central Perk, Phoebe, Rachel, Monica, and Joey are there.]
+149	Rachel	 Y'know, I-I gotta tell ya, those eye drops are a miracle. My eye is a 100% better.
+150	Monica	 They're still in my coat.
+151	Rachel	 Damn!
+152	Chandler	 (entering) Hey!
+153	Joey	 Hey! You ready to go?
+154	Chandler	 Yeah, listen, how cold is it going to be there? Do I need a coat or will all these sweater vests be enough? (Holds up 3 of them in different colors.)
+155		(Monica stares at him.)
+156	Chandler	 What?
+157	Monica	 I love you.
+158		{There's another continuity error here. Before Monica says I love you, Chandler's holding the vests so that you couldn't see the collar, you could see all three, and they were folding nicely. After she says the line and the camera cuts back to Chandler, you can only see two out of the three, you can see the collar of the top one, and it looks like it was folded sloppily, unlike before. Hey, you notice things while spending this much time on this!}
+159	Joey	 Man, I wish Ross was coming with us! Y'know? I'm gonna miss him!
+160	Phoebe	 Thanks a lot! I just got that jerk out of my mind!
+161	Chandler	 Hey, so where are we staying? Is the movie putting us up in a big hotel suite?
+162	Joey	 Uh no, not really. It's an independent film y'know? So we don't have a real big budget. I figured I'd just stay in your room.
+163	Chandler	 I see, but once you get your first paycheck you'll be springing a big hotel suite, right? I mean, lead in a movie, they must be paying you a lot?
+164	Joey	 Oh yeah! For every dollar Shutter Speed makes, one penny of it goes right in Joey's pocket.
+165	Chandler	 So you don't get paid unless the movie makes money?
+166	Joey	 Did you not hear the plot of the movie? "She's been dead for ten years." I'm gonna be a millionaire!
+167	Ross	 (entering) Hey!
+168	Joey	 Hey!
+169	Ross	 I just wanna say good-bye to you guys and to see if you guys will place a little bet for me, huh? Twenty bucks on black 15.
+170	Joey	 You got it!
+171	Ross	 All right!
+172		(Joey nods to Chandler, no way!)
+173	Chandler	 All right, bye-bye now!
+174	Phoebe	 Bye!
+175	Rachel	 Bye you guys!
+176	Joey	 Bye-bye!
+177	Monica	 I wanna say good-bye at the car!
+178	Chandler	 Okay!
+179	Joey	 Anybody want to say good-bye to me at the car?
+180	Rachel	 Oh honey, I'll say good-bye to you at the car if you don't mind the puss.
+181		(Pause.)
+182	Joey	 See ya! (Walks out.)
+183	Rachel	 Well, wait a minute! The puss is good! It means it's healing! (Runs after him.)
+184	Ross	 Hey Pheebs, what 'cha reading? (Phoebe ignores him) Pheebs? (Turns away) Hello? (He sits down next to her and she moves over a bit.) Phoebe? (He moves closer and she keeps moving away.) Phoe-Phoebe! (They end up hanging over the arm rest.) Come on! (He grabs the magazine away from her.)
+185	Phoebe	 Oh, I'm sorry. I didn't see you there.
+186	Ross	 Phoebe, are you, are you mad at me, or something? 'Cause if are please, tell me what it is I did!
+187	Phoebe	 Well, if you don't know I can't help you.
+188	Ross	 Well, I don't know.
+189	Phoebe	 Well, I can't help you.
+190	Ross	 Well, whatever it is I'm-I'm very, very sorry. Okay?
+191	Phoebe	 Apology accepted.
+192	Ross	 Okay. So we're, we're good?
+193	Phoebe	 Uh-huh.
+194	Ross	 All right. (Gets up.) I'll uh, I'll see you later, okay?
+195	Phoebe	 (quietly) Bye, fat ass.
+196	Ross	 ALL RIGHT!! Phoebe now come on! Will you please tell me what it is I did that mad you so mad at me!
+197	Phoebe	 I don't know! I don't remember!
+198	Ross	 Well if you can't remember, can't we just forget about this?
+199	Phoebe	 Oh no, I am mad at you. I know that much. But, I am sorry about the fat ass thing. You actually have a very sweet little hiney.
+200		(Ross isn't sure what to do with that comment.)
+201	[Scene	 Phoebe's cab, Joey and Chandler are headed across the George Washington bridge on their way to Las Vegas. Joey is driving.]
+202	Joey	 Man, I'm getting pretty tired. You're might have to take over soon.
+203	Chandler	 We've been driving for a half-hour, and you haven't looked at the road once.
+204	Joey	 Don't worry, it's out there! (Just then a horn honks and Joey quickly looks at the road.) I think I just need lunch.
+205	Chandler	 Yeah.
+206	Joey	 You wanna eat? (Pulls out the twenty) My treat!
+207	Chandler	 Isn't that Ross's money?
+208	Joey	 Yeah. Okay. Ross's treat! Where do you wanna eat?
+209	Chandler	 I don't know.
+210	Joey	 Ooh, hey, I know how we can decide! All right, uh, I'm gonna ask you a bunch of questions and then you have to answer real fast. Okay? So uh, clear your mind Clear it right out! Clear it out! Clear!
+211	Chandler	 Okay!
+212	Joey	 Okay, uhh, would you rather be too wet or too dry?
+213	Chandler	 Too dry.
+214	Joey	 Do you believe in ghosts, yes or no?
+215	Chandler	 No!
+216	Joey	 Is this movie gonna be my big break?
+217	Chandler	 No!
+218	Joey	 (shocked) What?!
+219	Chandler	 Yes.
+220	Joey	 Dude you said, "No!"
+221	Chandler	 I also said, "Yes!"
+222	Joey	 You don't think this is going to be a big break for me?
+223	Chandler	 No! (Realizes) Ahhh!!!
+224	Joey	 I don't believe this!
+225	Chandler	 Look Joe, I just, I just don't want to get your hopes up real high.
+226	Joey	 What are you talking about?! I'm the lead in a movie!
+227	Chandler	 They're not even paying ya! This doesn't even sound like a real movie!
+228	Joey	 Y'know what? I don't need this! Okay? I don't know why you're dumping all over my big break.
+229	Chandler	 Joe, I don't think this is going to be your big break.
+230	Joey	 Is that why you're on this trip, huh? Make me feel like a loser? 'Cause if it is, I'll tell ya, I-I-I'd rather be alone.
+231	Chandler	 Oh, you don't want me on the trip?
+232	Joey	 Not if you're gonna be like this!
+233	Chandler	 All right, I'll tell ya what, the next time you ask me a question like that I'll lie.
+234	Joey	 Yeah! I don't want you on the trip!
+235	Chandler	 All right, fine! Fine! Why don't you pull over? I'll get out right now!
+236	Joey	 Fine! (He slams on the brakes, stopping the car on the bridge to the sound of numerous car horns.) Get out!
+237	Chandler	 You're not actually supposed to stop on the bridge.
+238	Joey	 Get out!!
+239	Chandler	 All right!! (Gets out and Joey speeds away.) Wait! Wait, there's no sidewalk! Yeah, I'm gonna die here.
+240		Commercial Break
+241	[Scene	 Central Perk, Ross, Phoebe, Rachel, and Monica are there. Ross is trying to figure out why Phoebe's mad at him.]
+242	Ross	 Okay, are you mad at me because my hair gel smells?
+243	Phoebe	 No.
+244	Ross	 Are you angry at me because I said your handwriting is childlike?
+245	Phoebe	 No that made me feel precious.
+246	Monica	 Oh, I know! Umm, is it because he's always correcting people's grammar? Whom! Whom! Sometimes it's who!
+247	Ross	 Yeah? Sometimes it's… (Does the fist thing.)
+248	Rachel	 Oh, did you beat him at a board game? He turns into such a baby when he starts to lose.
+249	Ross	 Okay, I'm the baby. (Points at his eye.)
+250	Rachel	 Eh! Stop it!
+251	Chandler	 (entering) Hey!
+252	Monica	 Chandler! What are you doing here?
+253	Ross	 Hey!
+254	Chandler	 Joey kicked me out of the car on the George Washington bridge!
+255	All	 Why?!
+256	Chandler	 I don't know! He went crazy! Y'know, we were playing that game where you-you ask a question and you answer it really fast.
+257	Phoebe	 That game should not be played without my supervision.
+258	Chandler	 Well, I don't know what mad him so mad, y'know? All I said was that uh, I didn't think this wasn't gonna be his big break, that this movie wasn't going to do anything for him, and that uh, y'know it didn't sound like a real movie--Okay, he should've pushed me off of the bridge.
+259	Phoebe	 What's in the bag?
+260	Chandler	 Oh, I figured you guys would all be mad at me. So I got you some gifts that I found on the side of the road. (Looks into the bag.) Who wants the teddy bear with one leg?
+261	Phoebe	 I do!
+262	[Scene	 Monica and Rachel's, Rachel is trying to apply her eye drops while Monica looks on.]
+263	Rachel	 Okay. (She tilts her head back and squeezes the eyedropper. The only problem is, it's not over her eye.)
+264	Monica	 Not even close.
+265	Rachel	 Okay, then y'know what? Help me! I need help! I can't do this!
+266	Monica	 Okay! All right! Let's do it!
+267	Rachel	 All right!
+268	Monica	 Sit down. (They sit down on the couch.)
+269	Rachel	 All right.
+270	Monica	 Put your head back.
+271	Rachel	 Yes!
+272	Monica	 All right.
+273	Rachel	 Okay.
+274	Monica	 Now, open your eyes.
+275	Rachel	 Okay, they are. (No they're not.)
+276	Monica	 How many fingers am I holding up? (She's not holding any up.)
+277	Rachel	 (thinks) Four.
+278	Monica	 Oh my God, I was thinking four.
+279	Rachel	 Really?!
+280	Monica	 Yes! All right, y'know what? Why don't we start with a practice run? Okay?
+281	Rachel	 Okay!
+282	Monica	 No drops!
+283	Rachel	 Great!
+284	Monica	 Okay.
+285	Rachel	 Okay.
+286	Monica	 On three, 1…2…3! (Rachel turns her head on three to avoid the drops.) Now my pillow's all wet! (She was trying to fool Rachel and squeezed the eyedropper.)
+287	Rachel	 Well, well, you said it was practice!
+288	Monica	 Then why did you move?!
+289	Rachel	 Because I knew you were lying!
+290	Monica	 All right, come here! (She gets up and drags Rachel off of the couch by her legs.)
+291	Rachel	 (as she's being dragged) What are you? Monica!! Stop it!! Oh my God! Stop it! (Monica drags her totally onto the floor and on her back.)
+292	Monica	 I am going… I'm going--Turn it over! (Rachel rolled onto her stomach and Monica rolls her back.) I'm… I am going to get these drops in your eyes. (She is holding Rachel down with both hands and has the eyedropper in her mouth.)
+293	Rachel	 Oh my God! You really are freakishly strong!
+294		(Monica starts biting on the eyedropper, spraying the fluid all over. But Rachel keeps turning her head back and forth and Monica keeps missing.)
+295	Rachel	 Monica! Stop it!
+296	Monica	 (spitting out the eyedropper) Damn! It's empty!
+297	Rachel	 Wow, y'know if Joey and Chandler walked in right now, we could make a fortune! (Monica is straddling Rachel and holding her arms down. In a rather risqu� pose, at least for primetime TV.)
+298	[Scene	 Monica and Rachel's, time lapse, Phoebe and Monica are playing cards as the phone rings.]
+299	Phoebe	 Ooh that is definitely Chandler, Joey, or Ross. (Thinks) Or-or Rachel!
+300	Monica	 (answers the phone) Hello? (Listens.) (To Phoebe) It's Joey. (Phoebe's proud of herself.) (To Joey) I'm so glad you called! Chandler told me what happened. Y'know he's really upset about it.
+301	Joey	 (on a pay phone holding a box) Not as upset as he's gonna be when he finds out what I did with his sweater vests!
+302	Monica	 What did you do to his sweater vests?
+303	Joey	 Let's just say there's a well-dressed pack of dogs in Ohio. Hey Monica listen is-is Phoebe there? I gotta ask her something about the car.
+304	Monica	 Yeah, she's here. Hold on a second. (She hands the phone to Phoebe.)
+305	Phoebe	 Hey, dude!
+306	Joey	 Hey Pheebs! Listen, this wooden box keeps sliding out from under the seat. What-what is it?
+307	Phoebe	 Oh that's my grandma. (Joey holds the box away from him.) And thanks Joey she's having a really great time. (Joey is happy now.)
+308	Chandler	 (who has just entered) Is that Joey? Is that Joey? Let me talk to him! I wanna talk to him!
+309	Phoebe	 Okay Joey? Chandler's here, he was wondering… (We hear the dial tone as Joey hangs up.) Okay, I guess he ran out of change.
+310	Chandler	 Y'know, he won't even talk to me. How am I going to apologize to him if he won't even talk to me?
+311	Monica	 Well, maybe you should send him something. So that when he gets to Las Vegas he'll know that you're sorry.
+312	Chandler	 That's a good idea. I wonder where I could (Pause) get a basket of porn…
+313	Phoebe	 No, don't-don't say I'm sorry with porn!
+314	Chandler	 Really?
+315	Phoebe	 Y'know what you should send him? A cartoon of cigarettes. 'Cause that why he could trade it for protection. No. That's prison.
+316	Ross	 (entering) Okay Pheebs, I know how we're going to figure this out. Okay, clear your mind and answer the first thing that comes into your head. Okay?
+317	Phoebe	 Uh-hmm.
+318	Ross	 What do you like better flora or fauna?
+319	Phoebe	 Fauna.
+320	Ross	 Who would you rather be Simon or Garfunkle?
+321	Phoebe	 Garfunkle.
+322	Ross	 Why are you mad at me?
+323	Phoebe	 You said I was boring--Ohh!
+324	Ross	 When did I say you were boring?!
+325	Phoebe	 Oh my God, I remember now! We were playing chess!
+326	Ross	 Phoebe! You and I have never played chess!
+327	Phoebe	 Oh, come on! Yes, remember that time on the frozen lake? We were playing chess, you said I was boring, and then you took off your energy mask and you were Cameron Diaz! (Realizes) Okay, there's a chance this may have been a dream.
+328	[Scene	 The desert outside of Las Vegas, Joey is arriving and we hear the song, Name. Y'know, (singing) I've been through the desert on a horse with no name! It felt good to be out of the rain. In the desert, you can't remember your name, 'cause there ain't no one for to give you no pain. La…la…la-la-la, la, la, la, la-la-la. You get the idea. Anyhoo, he pulls up and stops. As he gets out of the car, he spills a huge pill of fast food containers out of the foot well.]
+329	Joey	 Hey-hey! Stanley! Hey-hey! You're leading man is here! Let's get to work.
+330	Stanley	 Umm, slight change of plans. We've shut down.
+331	Joey	 Wh-what?! Why?!
+332	Stanley	 It's a money thing, we don't have any.
+333	Joey	 (laughs) You're kidding right?
+334	Stanley	 No.
+335	Joey	 What?!
+336	Stanley	 It-it's probably just temporary. We're hoping to get some more money soon, so if could just uh, hang out.
+337	Joey	 Uh, hang out?! How long?
+338	Stanley	 I don't know. A week? Maybe two? The money will turn up! People will always wanna invest in movies! Hey, you're not rich are ya?
+339	Joey	 No!
+340	Stanley	 Eh, worth a shot. (Gets into his car.) Look Joey, let me know where you're staying, okay? (The car peels away.)
+341		(I think one of the grips walk up to Joey, mainly because there's a credit for The Grip. What the heck is a grip anyway?!)
+342	The Grip	 Hey pal, are you Joey Tribbiani?
+343	Joey	 Yeah.
+344	The Grip	 These got left for ya. (He hands him a bunch of helium balloons.)
+345	Joey	 Thanks. (The grip walks away.) (Reading the card.) Congratulations on your big break.
+346		(The rest of the crew start to drive away leaving Joey sad, alone, and holding his congratulatory balloons as the song comes up again. La-la-la. See, I've been through the desert on a horse with no name! It felt good to be out of the rain! In the desert you can't remember your name, 'cause there ain't no one for to give you no pain. La-la-la, la, la, la…)
+347	[Scene	 Monica and Rachel's, the phone is ringing.]
+348	Monica	 (answering it) Hello?
+349	Joey	 (on phone from Vegas) Hey Monica, it's Joey!
+350	Monica	 Hey Joey! Aww, you remembered even though you're a big star!
+351	Joey	 Aw, come on! It'll be years before I forget you!
+352	Monica	 Joey, what's it like on a movie set, huh? Do you have a dressing room? Do you have a chair with your name on it?
+353	Joey	 Uh, well yeah-yeah, I've got all of that going on. Yeah, listen uh, I want you to make sure you tell Chandler that he couldn't have been more wrong! Uh-oh! I gotta go Monica, my uh, my sushi's here!
+354		[Cut to Joey hanging up the phone in Vegas. He's wearing a Roman gladiator's uniform and goes over to join a family to pose for a picture. You see, he's apparently taken a job at Caesar's Palace.]
+355	Joey	 (to the family) Sorry about that. Thanks for waitin'.
+356	The Husband	 Okay!
+357	Joey	 Everybody smile! (The picture is taken) Okay, thanks a lot! Enjoy your stay at Caesar's! We hope it's toga-rrific! (The family leaves.) Kill me. Kill me now.
+358		Ending Credits
+359	[Scene	 Monica and Rachel's, The gang is surrounding Rachel at key positions.]
+360	Ross	 Hey Rach, can you pass me the TV Guide?
+361	Rachel	 Yep!
+362		(As she moves to get it, Monica yells…)
+363	Monica	 Go!!
+364		(Phoebe jumps to the floor as Ross tackles Rachel off of the couch. Chandler helps push Rachel onto the floor by jumping over the back of the couch. Phoebe grabs Rachel's head to hold it still and opens Rachel's eye as Monica jumps onto Chandler's back to administer the torture--I mean medicine.)
+365	Rachel	 What?!! Stop it! Stop it! Oh my God!
+366	Monica	 Okay! Okay! Okay! (She succeeds in getting the eye drops in and everyone climbs off of Rachel.) We'll see you in about 3 to 4 hours.
+367	Rachel	 Oh! (She's trying to recover while still on the floor.)
+368		End
+369	webbot bot="ImageMap" startspan rectangle="(137,0) (194, 80) http	//thecfsi.com/season5.htm" rectangle="(68,0) (128, 80) http

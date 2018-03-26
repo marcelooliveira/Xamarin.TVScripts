@@ -1,0 +1,287 @@
+1	Teleplay by	 Sherry Bilsing & Ellen Plummer Story by
+2	[Scene	 Central Perk, Joey is giving Rachel, Chandler, Phoebe, and Ross their bills.]
+3	Joey	 Okay Rach, that muffin and espresso, $4.50. Ross, double latte, $2.75. Chandler, coffee and a scone, $4.25. And Pheebs, herbal tea, $1.25. So, all together that’s (pauses to figure the total) $12.75.
+4	Chandler	 This coming from the man who couldn’t split our 80 dollar phone bill in half.
+5		(A good-looking woman approaches.)
+6	Woman	 Hi!
+7	Joey	 Hi!
+8	Woman	 How much do I owe you for the muffin and the latte?
+9	Joey	 Oh that’s on the house courtesy of Joey Tribbiani.
+10	Woman	 Oh great! Well, tell him thanks. And since uh, Joey seems like such a nice guy, maybe we could go on a date sometime?
+11	Joey	 Well, he’s not used to women being so forward with him; but uh, I good check with him—He says it’s okay. (She hands him her card.) Great! Thanks! Bye-bye!
+12	Ross	 Hey Joey, how come our stuff isn’t free?
+13	Joey	 It will be when you look like that in a tight skirt! This is great! I’m getting more dates than ever!
+14	Rachel	 Wait a minute, you’re only giving free stuff away to the pretty girls?
+15	Phoebe	 Yeah Joey that is so gross!
+16	Joey	 How about a scone on the house baby?
+17	Phoebe	 (giggles) I’m pretty.
+18		Opening Credits
+19	[Scene	 Monica and Chandler's, everyone but Monica is there playing Monopoly.]
+20	Ross	 Hey does anyone have any gum?
+21	Phoebe	 Oh I do! (She grabs her huge purse and starts rummaging through it and taking out various items in a futile search for the gum.) Oh, y’know what? No. (Pause) Wait a second. (She removes a bag filled with water that has a goldfish swimming in it.) I know it’s in here somewhere.
+22	Ross	 Y’know what? I’m good! I’m good!
+23	Monica	 (entering) Hey!
+24	Ross	 Hey!
+25	Chandler	 Hey, what are you doing here? Shouldn’t you be at work?
+26	Monica	 (congested) Ugh, they sent me home. They said I can’t work if I’m sick.
+27	All	 Ohh!
+28	Chandler	 I’m so sorry you’re sick.
+29	Monica	 I’m not sick!! I don’t get sick! Getting sick is for weaklings and for pansies!
+30	Rachel	 Honey, no one thinks you’re a pansy, but we do think you need a tissue. (She notices something hanging from Monica’s nose, as does Joey.)
+31	Monica	 (wiping her nose) I have not been sick in over three years! (Sneezes.)
+32	Chandler	 I’m gonna grab you some tissue.
+33	Monica	 I don’t need a tissue! I’m fine-d!
+34	Ross	 When you put a ‘D’ at the end of ‘Fine’ you’re not fine.
+35	Monica	 I’m fine-d. I’m fine-d! Y’know, it’s a really hard word to say.
+36		(There’s a knock on the door. The gang is stunned and Phoebe counts to make sure that everyone is there. Out of curiosity Chandler goes and answers the door.)
+37	Chandler	 Yes?
+38		(A woman enters.)
+39	Woman	 Hi, is Rachel here? I’m her sister.
+40	Rachel	 Oh my God, Jill!
+41	Jill	 Oh my God, Rachel!
+42		(They run and hug each other.)
+43	Chandler	 Oh my God, introduce us!
+44	Rachel	 This is Chandler. (Points at him.)
+45	Jill	 Hi!
+46	Rachel	 And you know Monica and Ross!
+47	Ross	 Hi Jill.
+48	Rachel	 And that’s Phoebe (points), and that’s Joey.
+49	Joey	 Hey, (in the Joey voice) how you doin’?
+50	Rachel	 Don’t!! (Joey backs away frightened.) (To Jill) Honey, what are you doing here?!
+51	Phoebe	 (To Ross) Which-which sister is this? Is this the spoiled one or that’s bitter?
+52	Jill	 (To Rachel) Daddy cut me off.
+53	Phoebe	 Never mind, I got it.
+54	Jill	 And y’know what I said to him? "I’m gonna hire a lawyer and I’m gonna sue you and take all your money. Then I’m gonna cut you off!"
+55	Rachel	 Wow! What did he say?
+56	Jill	 That he wouldn’t pay for my lawyer! Then he told me to come here and learn about the value of money from the one daughter he’s actually proud off.
+57	Rachel	 Oh! Did you hear that?! My dad’s proud of me! My dad’s proud of me.
+58	Monica	 Rach? (Points to Jill.)
+59	Rachel	 Oh yeah, sorry. Wait honey, so what did you do that made dad cut you off?
+60	Jill	 Okay, I bought a boat.
+61	Monica	 You bought a boat?
+62	Jill	 Yeah but it wasn’t for me, it was for a friend.
+63	Chandler	 Boy did we make friends with the wrong sister! (Rachel glares at him.)
+64	Rachel	 Jill, honey, I think this is the best thing that could’ve ever happened to you. I mean you needed to get out on your own anyway! And you know when I did it, I-I-I at first I was scared, and look at me now! I’m the only daughter dad is proud of! Okay, well this is, this is what you’re gonna do. You’re gonna get a job, you’re gonna get an apartment, and then I’ll help you and you can stay with us. Right Pheebs, she can stay with us?
+65	Phoebe	 Of course, yeah!
+66	Jill	 Oh, that’s so great! Okay, I’m really gonna do this! I don’t know how to thank you guys.
+67	Phoebe	 Ooh, I like cards.
+68	[Scene	 Central Perk, Joey is working as Phoebe and Ross are sitting on the couch.]
+69	Joey	 (to a customer) Are you all finished here?
+70	Customer	 Yes.
+71	Joey	 Great! (Joey takes his cookie and finishes it.)
+72	Gunther	 Okay, here are the tips for this morning. Jen gets 50, 50 for me, and Joey owes eight dollars.
+73	Joey	 What?!
+74	Gunther	 For all the free food you gave away.
+75	Joey	 Well if it’s free food, how come you’re charging me for it?
+76	Gunther	 We don’t give anything away unless it’s someone’s birthday.
+77	Joey	 Well, what if they came in third in a modeling contest?
+78	Gunther	 No!
+79	Joey	 (to a woman who came in third in a modeling contest) Sorry! (He grabs her muffin away and returns it to the serving tray.)
+80	Jill	 (entering, carrying a bunch of shopping bags) I just had the hardest day. Those bags are so heavy. (Sets them down.)
+81	Ross	 Jill, how did you pay for all this? I thought your dad took away your credit card.
+82	Jill	 Oh please, I memorized those numbers when I was 15. But look at all the cool make-it-on-my-own stuff I got! (Holds up a red sweater) This is my "Please, hire me" sweater. (Holds up a pair of black pants) And these are my, "Don’t you want to rent me this apartment?" pants.
+83	Ross	 I don’t think charging new clothes too your dad qualifies as making it on your own.
+84	Jill	 Oh, Mr. Scientist has to get all technical!
+85	Phoebe	 Seriously, I don’t Rachel’s gonna think it’s a good idea.
+86	Jill	 So who made her queen of the world?
+87	Phoebe	 I would love that job!
+88	Rachel	 (entering) Hey! What’s goin’ on?
+89	Jill	 Hey!
+90	Rachel	 (notices Jill’s bags) Jill! Did you shop?!
+91	Jill	 No! They did! (Points to Phoebe and Ross)
+92	Phoebe and Ross	 Yeah, we went shopping!
+93	Rachel	 You went shopping?! What, and then you just came in here and paraded it right under Jill’s nose when you know she’s trying to quit. Wow, you guys are terrible!
+94	Phoebe	 Sorry Jill.
+95	Ross	 Sorry-sorry Jill.
+96	Rachel	 What’d you get?
+97	Phoebe	 Oh well, all right, I got (Ross hands her a bag) (To Ross) thank you, I got uh, this y’know "I want a job sweater." (Holds up the same sweater.)
+98	Rachel	 Oh.
+99	Phoebe	 And, and then I got uh, these are apartment pants.
+100	Rachel	 Apartment pants?
+101	Phoebe	 Yeah, you never heard of them?
+102	Rachel	 No, of course, of course I’ve heard of them! Ross, what did you get?
+103	Ross	 Huh? Oh, I got this—(Holds up this pink frilly thing)—this!
+104	Rachel	 A pajmena?
+105	Ross	 Yeah! Oh, I-I love this babies!
+106	Rachel	 Really?
+107	Ross	 Ross, wants a pajmena?
+108	Ross	 It’s a rug. (Jill winces.)
+109	Rachel	 Jill?
+110	Jill	 (covers her eyes and starts crying) I’m sorry Rachel, I’m sorry…
+111	Rachel	 Oh, come on! You think that’s gonna work on me?! I invented that!
+112	Jill	 Right! But, I am sorry.
+113	Rachel	 All right, it’s okay. One little setback is okay, just don’t let it happen again, all right? Now since daddy paid for all this stuff, I should take it all away. But I’m just gonna take the-the pajmena. (Ross hands it to her.) And the uh, and the uh pants. Y’know what, I’m just gonna take it all away, ‘cause that way you’ll just really learn the lesson. Okay? All righty, I’m gonna run a couple of errands and I will see you at dinner. (Leaves with all of Jill’s stuff.)
+114	Jill	 She took all my stuff.
+115	Ross	 Yeah. Everything but, the little blue one. (Holds it up for her.)
+116	Jill	 (gasps) That’s the best one! Oh my God, (hugs him) thank you so much!
+117	Ross	 Well. Hey…
+118	Jill	 Oh my gosh, that was so lame. Like a pajmena could be a rug!
+119	Ross	 Oh yeah, how about you and the, (mimics her fake cry) "I’m sorry!"
+120	Jill	 (hits him) Shut up! I did not sound like that at all!
+121	Phoebe	 What about, what about when I said y’know about the apartment pants, how dumb was I?
+122		(They both look at her.)
+123	Jill	 Were you this cute in high school?
+124	Ross	 Oh stop.
+125	Jill	 No you stop!
+126	Ross	 No, you stop!
+127	Jill	 You stop!
+128	Phoebe	 (gets up and sits between them) Okay-okay, why don’t I sit here and you’ll both stop it!
+129	[Scene	 Monica and Chandler's, Monica is still very sick and is entering the living room from the bathroom wearing a robe. Chandler is reading a magazine.]
+130	Monica	 Okay, so what do you, what do you want to do? Let’s do something crazy!
+131	Chandler	 I know, let’s rest and drink lots of fluids. (Holds up a glass of orange juice.)
+132	Monica	 Okay, I’ll rest. But y’know if I’m going to bed, then you’re coming with me.
+133	Chandler	 That would be impossible to resist if you weren’t all drippy here. (Points to his nose.)
+134	Monica	 (wiping her nose) Are you saying that you don’t wanna get with this? (Tries to do a little sexy body rub, but it doesn’t work all that well with the big robe.)
+135	Chandler	 Yeah, I don’t you should say that even when you’re healthy.
+136	Monica	 (in a sexy voice) Come on. (Coughs loudly.)
+137	Chandler	 Don’t take this personally okay? It’s just that I just can’t have sex with a sick person.
+138	Monica	 I’m with you Chandler! I mean I can’t have sex with a sick person either, that’s disgusting! But I’m not sick! Let me prove it to you. We are two healthy people in the pribe of libe.
+139	Chandler	 That’s the thing, see I would like to stay in the pribe of mwha-ah-libe.
+140	[Scene	 Phoebe and Rachel's, Rachel is putting away her new clothes as Phoebe enters.]
+141	Rachel	 Hey!
+142	Phoebe	 Hey.
+143	Rachel	 What’s up?!
+144	Phoebe	 Umm, I think there’s something you should maybe know.
+145	Rachel	 Well, it’d better not be about the apartment pants, because I just pitched the idea to my boss at Ralph Lauren and she loved it.
+146	Phoebe	 No. No. It’s just I was umm, I was with Ross and Jill after you left and umm, I’m pretty sure I saw a little spark between them.
+147	Rachel	 What?!
+148	Phoebe	 Yeah I mean it’s probably nothing, but I just wanted to warn you that there might be something there.
+149	Rachel	 With Ross and Jill?
+150	Phoebe	 Yeah!
+151	Rachel	 With Ross and my sister?
+152	Phoebe	 Yeah.
+153	Rachel	 With my sister Jill and my ex-boyfriend Ross?
+154	Phoebe	 Yeah.
+155	Rachel	 Oh there is no way.
+156	Phoebe	 Okay then.
+157	Rachel	 Oh my God! I can not believe that! I mean I don’t really like it when Ross goes out with anyone, but my sister isn’t that like incest or something?! Oh my God, and they’re gonna have sex! Oh! Oh no what if he marries her too?! Oh this is just terrible, this is just terrible. And I can’t stop it! I can’t—I don’t own Ross! Y’know? And Jill, she should be able to do whatever it is that she wants to do! And oh my God, I can’t believe Ross is marrying my little sister, this terrible. Oh my God, this is just the worst thing that could have ever happened to me.
+158	Phoebe	 But great news about the apartment pants, huh?
+159	[Scene	 Central Perk, Joey is giving the bill to the same beautiful woman from before.]
+160	Joey	 That’ll be $3.85.
+161	Woman	 What do you mean? Yesterday you said I was too pretty to pay for stuff!
+162	Joey	 It’s just I can’t because my manager said I… (Gets an idea) (Starts singing) "Happy birthday to you, happy birthday to you. Happy birthday dear Annie…
+163	Woman	 Amy!
+164	Joey	 (still singing) "…Amy! Happy birthday to you!"
+165	A Male Customer	 Hey, that’s weird, today’s my birthday too!
+166	Joey	 Yeah, not it here it isn’t.
+167	Jill	 (entering) Sorry I’m late, what’s up?
+168	Rachel	 (on the couch) Oh hi! Y’know, I just wanted to see if there were any leads on the old job front.
+169	Jill	 Oh no! But I just walked past three sales and I didn’t go in. How strong am I?
+170	Rachel	 That is great. Hey, y’know who doesn’t have to job hunt? Ross. He works at the university.
+171	Jill	 Yeah.
+172	Rachel	 Oh so you know that, you guys talked about that, so you get along, so you think you’re gonna go out?
+173	Jill	 Me go out with Ross?! No! God no! What would make you think that?
+174	Rachel	 I just, Phoebe, said y’know thought she saw something between you guys.
+175	Jill	 No! I mean he’s nice.
+176	Rachel	 Yeah.
+177	Jill	 He’s the kind of guy you’re friends with, y’know? But he’s not the kind of guy you date. He’s the kind of guy you’d date because you did. Me, not so much.
+178	Rachel	 Oh not-not so much. Umm, what-what do you, what do you mean is there something wrong with Ross?
+179	Jill	 Oh no-no-no, he’s just I don’t know, he’s just a little bookish.
+180	Rachel	 Are-are you saying he’s a geek?
+181	Jill	 You think so too?
+182	Rachel	 No! No I, no Ross is not a geek!
+183	Jill	 Fine, then let’s just say he’s not my type.
+184	Rachel	 What handsome is not your type? Smart? Kind? Good kisser? What those things aren’t on your list? Ross is a great guy! You would be lucky to be with him!
+185	Jill	 Well okay, if it means that much to you, then I’ll ask him out.
+186	Rachel	 Oh no-no-no, no-no-no, that’s not what I meant.
+187	Jill	 No! Y’know what Rachel? You’re right, y’know he has been really nice to me.
+188	Rachel	 Yeah but, he’s not your type.
+189	Jill	 Yeah but maybe that’s a good thing. Y’know I’m doing all these different sorts of things, and maybe I should try dating a geek too!
+190	Rachel	 Yeah but, you don’t, you don’t, you don’t want to try to much too fast. Y’know? I mean, you do remember what happened to the little girl that tried to much too fast don’t you?
+191	Jill	 What?
+192	Rachel	 She-she died Jill.
+193		Commercial Break
+194	[Scene	 Monica and Chandler's, Chandler has fallen asleep reading a book. Monica calls from the bedroom and wakes him up.]
+195	Monica	 (still sick) Chandler!
+196	Chandler	 Oh what is it honey, you need some tea? Some soup? (He gets up from the couch and goes into the bedroom to find Monica, still in the robe, lying seductively on the bed. Or at least she’s trying too and as he enters the room, she takes the robe off on of her legs.) Oh-ohhhh!
+197	Monica	 (trying to be seductive) Calling Dr. Big, Dr. Big to the bed.
+198	Chandler	 Oh Jeez honey, I thought, I thought you were asleep.
+199	Monica	 How could I be asleep knowing that you were in the next room.
+200	Chandler	 I was asleep. (She takes off her robe and starts to shiver) Oh no! No-no honey! Y’know what’s sexy? Layers. Layers are sexy. And blankets are sexy. And oh! Hot water bottles are sexy.
+201	Monica	 Come on, get into bed! I want to prove to you that I’m not sick! I wanna make you feel, as good as I feel. (Sneezes.)
+202	Chandler	 Would you please get some rest!
+203	Monica	 I’m fine. (She goes into one of those half sneezing, half-coughing fits that you get with a bad cold or flu.)
+204	[Scene	 Central Perk, Joey is singing Happy Birthday to yet another good-looking woman. Gunther is watching and is not very happy.]
+205	Joey	 (singing) "Happy birthday to you!"
+206	Gunther	 You’re paying for that.
+207	Joey	 What? No-no it’s her birthday!
+208	Gunther	 You’ve sung Happy Birthday to 20 different women today!
+209	Joey	 But it really…
+210	Gunther	 You are no longer authorized to distribute birthday muffins.
+211	Joey	 Damnit! (Storms off.)
+212	Ross	 (entering) Rach? Hi!
+213	Rachel	 Hi!
+214	Ross	 Did you tell your sister to ask me out?
+215	Rachel	 Well yeah…
+216	Ross	 Oh wow! I mean, wow! I mean, I-I-I think she’s cute but I-I would never have thought of going out with her, never!
+217	Rachel	 Really?!
+218	Ross	 Yeah but after you said it was okay, I figured, "Why not?!"
+219	Rachel	 Oh so-so not really never.
+220	Ross	 I have to say you are a much bigger person than I am. I mean after all we’ve been through, I just—y’know I wish I had a brother to reciprocate. Hey, if you ever want to go out with Monica, you have my blessing.
+221	Joey	 (overhearing them) Oh-ho, and mine!
+222	[Scene	 Monica and Chandler's, Monica is still sick and is hobbling out into the living room for some help from Chandler who’s on the couch reading.]
+223	Monica	 (entering) Chandler, I think I’m sick.
+224	Chandler	 Really? Struck down in the pribe of libe!
+225	Monica	 Okay, fine I admit it! I feel terrible! Would you please rub this on my chest? (She hands him some of that Vicks Vap-O-Rub to put on.)
+226	Chandler	 No-no-no-no-no-no-no, you are not getting me this way.
+227	Monica	 Come on! I really need your help!
+228	Chandler	 No-no-no-no-no!
+229	Monica	 Fine, I’ll rub it on myself.
+230	Chandler	 Okay.
+231		(To start this task, she lowers the top of her robe to reveal that she is naked from the waist up, well at least her back is, and starts to rub on the gunk. Chandler notices this, and has something start happening. I’ll let you fill in the blank here.)
+232	Chandler	 So you’re just, kinda rubbing it on yourself?
+233	Monica	 Yeah?
+234	Chandler	 It’s nice.
+235	Monica	 Are you kidding me?! Is this; is this turning you on?
+236	Chandler	 Yes! (Hangs his head in shame.)
+237	Monica	 I can’t believe it! What is it? Is it the rubbing or the smell?
+238	Chandler	 It’s all very, very good. (She covers up and sits down.) So you wanna go uh, mix it up?
+239	Monica	 Not now, I’m sick!
+240	Chandler	 Oh come on you big faker!
+241	Monica	 What happened to your rule about never sleeping with sick people?
+242	Chandler	 Well that was before all the vaporizing action.
+243	Monica	 Okay, if you really wanna have sex…
+244	Chandler	 Okay! (Runs into the bedroom.)
+245	Monica	 Worked like a charm.
+246	[Scene	 Central Perk, Rachel is there as Jill enters to start her date with Ross.]
+247	Jill	 (entering) Hi!
+248	Rachel	 Hi! Wh-what are you doing here?
+249	Jill	 This is where Ross and I are meeting for our date. So, what do you think? (She spins to show Rachel the outfit she’s wearing.)
+250	Rachel	 Well, I-I don’t like it.
+251	Jill	 Really?!
+252	Rachel	 It’s kinda slutty.
+253	Jill	 It’s yours!
+254	Rachel	 Yeah well, I’m-I’m a slut.
+255	Jill	 (laughs) Me too.
+256	Ross	 (entering) Hi Jill!
+257	Jill	 Hey!
+258	Ross	 Hi (sees Rachel and forgets her name for a moment).
+259	Rachel	 Rachel.
+260	Ross	 Rachel! Well, you-you’re not at home, you’re-you’re-you’re right here.
+261	Rachel	 Yeah I know, and I bet you thought it would be weird. But it’s not!
+262		(There’s an awkward silence.)
+263	Ross	 Okay. So well I’ll umm, (To Rachel) I’ll have her home by midnight.
+264		(Rachel laughs a little too hard as Ross and Jill leave for their date. After they have left, Rachel starts to break down.)
+265	[Scene	 Monica and Chandler's, Rachel enters and walks quickly over to the window to watch Ross’s apartment. We see that Ross’s apartment is empty.]
+266	Rachel	 Why aren’t you home yet?!
+267	Monica	 (calling from the bathroom) Is someone there?
+268	Rachel	 Oh yes, it’s me! Sorry!
+269	Chandler	 (calling from the bathroom) What are you doing here?
+270	Rachel	 Uh, I’m just, I’m just looking out your window. At-at the view. What are you guys doing?
+271	Chandler	 We got some Vap-O-Rub in some places.
+272		(We see that Ross is returning to his apartment with Jill.)
+273	Rachel	 (gasps) Oh, he brought her back to his apartment.
+274	Monica	 (entering with Chandler) Who? (She looks out the window at Ross’s apartment) Is that your sister?
+275	Rachel	 Ugh, she is a slut!
+276	Monica	 God, Ross is on a date with your sister! How weird is that?!
+277	Rachel	 Oh my God, look-look he’s taking off her clothes!
+278	Chandler	 He’s taking off her coat!
+279		(We see that Ross is taking off Jill’s coat.)
+280	Rachel	 Oh, this is just terrible.
+281	Monica	 Oh no it’s not, no it’s not. It’s a first date. I’m sure that nothing is gonna…(as she is talking we see Ross close his drapes.)
+282	Rachel	 Oh. (Squeaks again.)
+283	Chandler	 Ho-oh, he’s gonna get some! (Rachel looks at him.) Of the glare from the streetlight out of his apartment. Y’know so umm, he’s closed the drapes there so he can have a nice, pleasant conversation with your little sister. (Pause) Well, I’m off to bed! (Goes to bed.)
+284		To Be Continued
+285		Ending Credits
+286		(There is no credits scene, just a preview of the next couple of episodes.)
+287		End

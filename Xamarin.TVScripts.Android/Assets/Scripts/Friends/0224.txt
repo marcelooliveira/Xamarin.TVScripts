@@ -1,0 +1,6 @@
+1	Story by	 Ira Ungerleider Teleplay by
+2	[Scene	 Central Perk, the whole gang is there as Joey enters] RACHEL
+3	ROSS	 So don't, I don't see why we have to go to this thing anyway, it's your ex-fiancee's wedding. RACHEL
+4	[Scene	 Chandler and Joey's, Phoebe, Chandler, and Joey are there, Joey is on the phone.] JOEY
+5		END
+6	webbot bot="ImageMap" startspan rectangle=" (140,2) (197, 84) http	//thecfsi.com/season3/301plf.htm" rectangle=" (70,0) (131, 84) http

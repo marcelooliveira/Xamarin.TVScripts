@@ -1,0 +1,298 @@
+1	Teleplay by	 Brian Buckner & Sebastian Jones Story by
+2	[Scene	 Monica and Chandler's, Monica is trying on a pair of new boots as Chandler enters.]
+3	Monica	 Hey! So what do you think?
+4	Chandler	 New haircut? (Monica nods ‘No.’) Necklace? (No) Dress? (No) Boots? (Monica nods ‘Yes.’) Boots!
+5	Monica	 Yes! Now, they’re a little more than I normally spend on boots…or rent (Shows him the receipt.)
+6	Chandler	 Oh my God!
+7	Monica	 I know.
+8	Chandler	 I’m gonna miss being able to afford food.
+9	Monica	 I’m sorry, they just, they just look so good! And the saleswoman was looking at me like, "Oh, these are way too expensive for you."
+10	Chandler	 She had a point. (Shows her the receipt.)
+11	Rachel	 (entering) Hi!
+12	Monica	 Hey.
+13	Rachel	 Oh my God! (Notices the boots) Oh Monica! Those boots are amazing!
+14	Monica	 They’re mine!
+15	Chandler	 Yeah well, too bad we’re gonna have to return them.
+16	Rachel	 Return them?! Shh! They’re gonna hear you!
+17	Monica	 Honey, I’m not returning them. Okay? I mean I-I know they cost a lot, but I’m going to wear them all the time. You’ll see. Besides, I love the compliments. I mean, have you ever had something so beautiful everyone wanted it?
+18	Chandler	 I have you.
+19	Monica	 Nice try; I’m keeping the boots.
+20		Opening Credits
+21	[Scene	 Central Perk, Phoebe, Ross, and Rachel are sitting on the couch and Ross is talking to Rachel’s, who is now showing, stomach.]
+22	Ross	 That’s right, I love you! And-and I’m gonna play with you all the time.
+23	Phoebe	 How can you let him talk to your crotch like that?
+24	Rachel	 (pause) He’s talking to the baby.
+25	Phoebe	 Ohh! Okay! Okay, cause when-when he said, "I can’t wait to hear your first words," I thought, "There’s a trick."
+26	Rachel	 Okay. Well, I gotta go you guys. I’ll see you later.
+27	Phoebe	 Okay.
+28	Ross	 Bye.
+29	Rachel	 Bye. (She gets up to leave but is stopped by Joey)
+30	Joey	 Oh hey Rach, listen—Hi!
+31	Rachel	 Hi.
+32	Joey	 Umm, can you do me a favor? I was talkin’ to my sister and she knows you work at Ralph Lauren…
+33	Rachel	 No, forget it! No way! I am not sending anymore Ralph Lauren clothes to prison. It is a waste.
+34	Joey	 No-no-no-no-no-no, not her, not her. My youngest sister, Dina, she’s really interested in fashion, and she wants to talk to someone successful, y’know, to give her some advice.
+35	Rachel	 I guess I can talk to one of my supervisors…
+36	Joey	 Oh no-no-no-no, she wants to talk to you!
+37	Rachel	 Really?! Oh my God! I’m successful!
+38	Joey	 Okay, so will you meet with her?
+39	Rachel	 Yes! I’d love to! Have her come by the office.
+40	Joey	 Great! Thanks! You’re gonna love her so much. And—Oh, she’s the smartest of all the Tribbiani children. Hey, y’know the S.A.T’s?
+41	Rachel	 Yeah.
+42	Joey	 She took ‘em!
+43		(Joey goes to get coffee and Rachel exits as the camera pans to Phoebe and Ross on the couch.)
+44	Phoebe	 Hey Ross! Doesn’t Ben go to the Smithfield Day School?
+45	Ross	 Yeah. Why?
+46	Phoebe	 Sting has a son that goes there too!
+47	Ross	 Yeah I know; he’s in Ben’s class.
+48	Phoebe	 You knew this and you never said anything?! With all the stupid dinosaur stuff you tell us?!
+49	Ross	 Fine! No more dinosaur stuff! Can I talk about fossils? (Joey is about to sit down and hears this so instead he groans and exits.)
+50	Phoebe	 Sting’s son, seven years old and there’s a picture.
+51	Ross	 What are you reading? The Kidnappers Guide to Manhattan Private Schools?
+52	Phoebe	 No, it’s New York magazine. It’s an article about the best schools in the city. So how well do you know Sting?
+53	Ross	 Uh, I actually haven’t even met him.
+54	Phoebe	 Uh-huh, yeah that’s too bad. I really want to go to his concert Friday night, but it’s totally sold out. I know! Why don’t you meet him and get tickets?! If you get two I’ll take you.
+55	Ross	 Well actually, I’m picking Ben up tomorrow, maybe he’ll be there.
+56	Phoebe	 There you go! Oh, you are so lucky! You might actually get to meet Sting tomorrow! That’s why you have kids!
+57	[Scene	 Central Perk, the next day Rachel, Phoebe, and Chandler are there as Monica enters.]
+58	Monica	 Hey guys!
+59	Chandler	 Hey-hey.
+60	Rachel	 Hi Monica!
+61	Monica	 Hey. (Sits down on the arm of the couch.)
+62	Rachel	 Hi boots.
+63	Monica	 See Chandler? I’m getting a lot of use out of them already! They’re very practical. See, you can wear them with dresses, with skirts, with pants…
+64	Chandler	 You can wear them with shorts on a street corner and earn the money to pay for them. (Goes and gets some coffee at the counter.)
+65	Phoebe	 Wow! They’re beautiful!
+66	Rachel	 Ahh…
+67	Monica	 (almost crying) They hurt so much!
+68	Phoebe	 What?!
+69	Monica	 The guy who made these hates feet and wants to see them die!
+70	Rachel	 Well-well you can give them to me! I haven’t felt my feet in years!
+71	Monica	 I can’t! I spent so much money on them and I told Chandler that I’d wear them all the time, I just can’t give them away!
+72	Phoebe	 Well then get your money back and return them!
+73	Monica	 I can’t do that either! The soles’ are already a little scuffed up and the insides are filled with my blood.
+74	Ross	 (entering) Hey!
+75	Chandler	 (returning to his seat) Hey!
+76	Ross	 Hey I uh just picked up Ben from school…
+77	Chandler	 (spinning around looking for him) I don’t think you did a very thorough job!
+78	Ross	 I dropped him off at Carol’s. (To Phoebe) Anyway, it turns out that I’m not going to be able to get those tickets though.
+79	Phoebe	 Oh no! Why not?
+80	Ross	 Well it turns out that Ben and Sting’s son do not get along.
+81	Phoebe	 How come?!
+82	Ross	 Apparently, Sting’s son made fun of the fact that Ben’s moms are lesbinims.
+83	Phoebe	 Wait! But Ross if they don’t get along then you should smooth things over. Make them be friends.
+84	Ross	 Phoebe, you can’t force kids to be friends.
+85	Phoebe	 Sure you can! Give them some blocks, put them in a playpen!
+86	Ross	 Playpen?! Ben’s seven!
+87	Phoebe	 Your kid is seven?! (Ross nods, "Yes.") (To the rest) He’s really small. (To Ross) Please! Please get the tickets!
+88	Ross	 Look I’m sorry Pheebs, I can’t do it.
+89	Phoebe	 Yes you can! Sting says so himself!
+90	Ross	 What?
+91	Phoebe	 (singing) Rosssss can!
+92	Ross	 Look Phoebe, I’m sorry it’s just…
+93	Phoebe	 (singing) Rossss can!
+94	Ross	 Phoebe, I…
+95	Phoebe	 (singing) Rosss can! Give me the tickets! Ross can give me the tickets!!
+96		(Ross runs out to get the tickets.)
+97	[Scene	 Rachel’s Office, Joey has brought Dina to meet with Rachel.]
+98	Joey	 (entering, with Dina) Here she is! Future fashion superstar!
+99	Rachel	 Oh Joey, I’m hardly a…
+100	Joey	 My little sister Dina!
+101	Rachel	 Right! Hi Dina!
+102	Dina	 Hi.
+103	Rachel	 Nice to meet you. (They shake hands.)
+104	Dina	 Thanks so much for meetin’ with me. Joey’s told me so much about you!
+105	Joey	 This is so exciting for her. Well, I’ll let you two fash…ists get down to business. (Exits.)
+106	Rachel	 Okay. All right Dina, well let’s talk about the different areas of fashion that you could get involved in. Let’s see, there’s design, but you may need a whole other degree for that. Uh, there’s-there’s sales, which is great because you get to travel…
+107	Dina	 I…I don’t care about fashion! I’m pregnant! And I know you are too, so you gotta help me!
+108	Rachel	 (stunned) And there’s marketing…
+109	[Scene	 The Hallway, Monica is returning, but before she enters the apartment she stops on the step and changes from wearing tennis shoes to the boots and she moans in pain as she puts each boot on.]
+110	Monica	 (standing up) Ahhhhhhhh!
+111	Chandler	 (opening the door) What’s wrong?
+112	Monica	 Oh nothing I’m just—just was yawning. (Mimics the groan from before and stretches.)
+113	Chandler	 Oh don’t forget, my office holiday party is tonight. (They go into the apartment.)
+114	Monica	 Honey, we don’t really have to go to this thing tonight do we?
+115	Chandler	 Now sweetie, I know you don’t like my office parties, but you can wear your new boots. See? Every cloud has a…supple leather lining.
+116	Monica	 I-I don’t-I don’t think that I’m gonna wear the boots tonight.
+117	Chandler	 Why not?
+118	Monica	 Well y’know, I’m just-I’m just worried that bosses will see them and think they pay you too much money. Or! Or your assistant will see them and-and want a raise!
+119	Chandler	 Do you think I work at some kind of boot pricing company?
+120	Monica	 Anyway, I picked up this outfit that I want to wear and the, and the boots don’t really go with it.
+121	Chandler	 You said that you paid all that money because those boots go with skirts, dresses, and pants!
+122	Monica	 Fine! If you want me to wear the boots, I’ll wear the boots. In fact, I’ll go into my room right now and y’know try the outfit on.
+123	Chandler	 Okay.
+124	Monica	 Okay? (She starts to walk which causes her to start crying) Ooo wee! Christmas party in my boots! (Runs into the bedroom and mixes saying ‘ow’ with laughing.)
+125	[Scene	 The Hallway, Rachel is about to enter her apartment with Dina to tell Joey the news.]
+126	Dina	 I-I can’t go in there. I can’t tell him!
+127	Rachel	 Honey, it’s going to be okay. He’s been incredibly supportive of me, and if he gets a little upset; that’s what the meatball sub is for. (She gives Dina a sandwich wrapped in aluminum foil.)
+128	Dina	 Thank you.
+129	Rachel	 Okay.
+130		(They enter.)
+131	Joey	 Hey! It’s my fashion girls! (They don’t react.) What’s wrong?
+132	Rachel	 Honey, why don’t you sit down? Dina has something that she wants to tell you.
+133	Joey	 (concerned) Oh. What’s, what’s going on? Is it mom? Is she sick? Is it dad’s heart? Is that a sandwich?
+134	Dina	 Joe, mom and dad are fine…
+135	Joey	 Is that a sandwich?!
+136	Rachel	 Joey…there’s something that you…should know. Dina?
+137	Dina	 I’m pregnant.
+138	Joey	 (angrily) What?!
+139	Rachel	 (To Dina) Now! Give him the sandwich! Give him the sandwich! (She quickly sets the sandwich in front of him.)
+140	Joey	 Well obviously this is a mistake! You can’t be pregnant! Because you have to have sex to get pregnant!
+141	Dina	 Joe, I tried to wait until I was 25 like you did!
+142	Rachel	 What?! Dina…
+143	Joey	 (to Rachel) Bub!!! (Points at her and quiets Rachel.) (To Dina) I can’t believe this! You’re the good one! You went to college! Both years! Who did this to you?!
+144	Dina	 Bobby Corso, but he’s a real nice guy. I like him a lot. He’s real funny.
+145	Joey	 You got pregnant for funny?! Dina…if he’s funny…laugh! All right, I’ll be back in a little while! You stay here!
+146	Dina	 Why? Where are you going?
+147	Joey	 I can’t look at you right now! (Exits and slams the door behind him.)
+148	Dina	 Wow.
+149	Rachel	 I know.
+150		(Joey storms back in and covering his face so he doesn’t see Dina grabs the sandwich and heads back out.)
+151		Commercial Break
+152	[Scene	 The Midfield Day School, it’s after school and Ben is taking a drink of water as Phoebe enters.]
+153	Phoebe	 Oh, there you are Ben!
+154	Ben	 Aunt Phoebe, what are you doing here?
+155	Phoebe	 Well, I heard you’re having a problem with one of the boys in your class. And so I thought I would just come down here and sit you both down, have a little talk and make it all okay. Now umm, the boy’s name is Sting’s son.
+156	Ben	 Jack? I hate him! He’s a jerk.
+157	Phoebe	 Now Ben, sometimes people may seem like jerks on the outside, but they have famous fathers.
+158	Ben	 I have to go. My friend Doug is waiting for me over there. (Goes over to Doug.)
+159	Phoebe	 Him you’re friends with. (Starts looking at the children trying to find Jack and a teacher notices her.)
+160	The Teacher	 Excuse me. Can, can I help you with something?
+161	Phoebe	 Yes! Yes you can, I’m looking for Jack’s parents.
+162	The Teacher	 Are you with one of the students?
+163	Phoebe	 Uh-huh, I’m with Ben.
+164	The Teacher	 Are you one of Ben’s mothers?
+165	Phoebe	 I am one of Ben’s mothers. I’m a lesbian. It was, it was difficult coming out to my parents.
+166	The Teacher	 Well hi, I’m Jenny Boone. I’m the new teacher here.
+167	Phoebe	 Oh.
+168	The Teacher	 I’ve only met your partner Carol.
+169	Phoebe	 Ah! Okay so that would make me Susan.
+170	The Teacher	 Right. Are you looking for Jack’s parents to discuss the problems he’s having with Ben? (Phoebe nods ‘Yes.’) Yeah. Because I really do think the parents should sit down and have a conversation.
+171	Phoebe	 Yeah! Let’s do that!! That-that sounds good. We should sit down and talk, just me, my lover Carol, and the Stings. Umm, how-how will I get in touch with them?
+172	The Teacher	 Oh, their number is on the contact sheet.
+173	Phoebe	 Uh-huh. Uh-huh. Umm, could-could I get a copy of that? ‘Cause Carol threw it out, she lost ours. She’s such a scatterbrain, but man what a hot piece of ass.
+174	[Scene	 A Street, Chandler and Monica are walking down the sidewalk after his office holiday party.]
+175	Chandler	 Y’know, that party wasn’t bad.
+176	Monica	 Yeah! I didn’t know there would be dancing. That was a fun surprise!
+177	Chandler	 I don’t see any uh, cabs. Maybe we should just walk?
+178	Monica	 Oh no, we can’t walk!
+179	Chandler	 What honey, it’s like fifteen blocks to the subway. Let’s go.
+180	Monica	 Hey! Do you think that we can get to the subway right there if we climb down through the manhole cover?
+181	Chandler	 What’s going on?
+182	Monica	 I can’t walk. Okay? Okay? These boots were a huge mistake!
+183	Chandler	 What?
+184	Monica	 Okay you were right! All right, I never should have bought them! They’re killing me! One toe at a time!
+185	Chandler	 So I was right. This is what it feels like to be right. (Pause) It’s oddly unsettling.
+186	Monica	 How are we gonna get home? Maybe a piggy-back ride?
+187	Chandler	 Hop on.
+188	Monica	 Okay. Wait, just give me a second, I need to just get my boots off first. (She starts taking them off.) Ah…Ooh…Oohh…Ohh…Oh God…Ohh…Oh…Ohh…Ohhhh…
+189	Chandler	 Honey, I know you’re in pain right now, but I’m a little turned on.
+190	[Scene	 Joey and Rachel's, Dina and Rachel are reading pregnancy books, Dina Pregnancy for Dummies and Rachel something else.]
+191	Dina	 Do you ever worry that you’ll be walking and your baby will just like slip out?
+192	Rachel	 What college was that Dina?
+193		(Joey enters dragging a guy.)
+194	Dina	 Oh my God! Bobby!
+195	Bobby	 Hi Dina. Good to see you.
+196	Rachel	 Joey, what are you doing?
+197	Joey	 Just what needs to be done! Dearly beloved, we are gathered here to join this man and this woman…
+198	Rachel	 Oh Joey this is crazy!
+199	Joey	 Don’t interrupt me when I’m talkin’ to God! Now where were we? Oh right, okay. Do you Dina, take this man…
+200	Dina	 No!
+201	Joey	 Oh you’ll take ‘em!
+202	Dina	 No I won’t!
+203	Joey	 Hey! You don’t get a say in this!
+204	Dina	 Yes I do!
+205	Joey	 Ahhh! I heard "I do", we’re halfway there! Okay! (To Bobby) You!
+206	Rachel	 All right Joey! That is enough! (Grabs him and pulls him away from Bobby and Dina) Listen, as beautiful and moving as this ceremony is, it’s not legal. Okay? They-they don’t have a marriage license, they don’t have any witnesses, and the groom only has on one shoe!
+207	Bobby	 Yeah, he took the other one off and hit me with it.
+208	Joey	 Well what am I supposed to do?
+209	Rachel	 You’re supposed to realize that they are adults! And that they can make their own decisions.
+210	Joey	 No they can’t! They were stupid enough to get knocked up!
+211	Rachel	 Heyyyyy! Contraceptives are not always effective! (To Bobby and Dina) Right?
+212	Bobby	 Yeah…we kinda didn’t use any…
+213	Rachel	 Oh, come on kids! A little help here!
+214	[Scene	 Sting’s Apartment, Phoebe has come to talk about Jack and is waiting for Sting’s wife, Trudie Styler, to enter.]
+215	Phoebe	 Wow! This place is incredible! (Gasps) Sting’s pen…that he gave to Phoebe. (Puts the pen in her purse and goes over to a floor-to-ceiling bookcase) Come on! Secret passageway! (Starts pulling books at random as Trudie enters.)
+216	Trudie Styler	 Hi! (By the way, it’s actually her.)
+217	Phoebe	 Hi!
+218	Trudie Styler	 I’m Trudie.
+219	Phoebe	 Uh-huh.
+220	Trudie Styler	 You must be Ben’s mum.
+221	Phoebe	 Why else would I be here?
+222	Trudie Styler	 Do sit down.
+223	Phoebe	 Uh-huh. (They go and sit down.)
+224	Trudie Styler	 I gather Jack and Ben haven’t been getting along lately.
+225	Phoebe	 Yeah.
+226	Trudie Styler	 I’m told there are two sides to this story, but all I’ve heard is that Ben’s a bit of a poo-poo head.
+227	Phoebe	 Umm, I’m sorry. Won’t-won’t Jack’s father be joining us?
+228	Trudie Styler	 Oh I’m sorry, Jack’s father is not available.
+229	Phoebe	 Uh-hmm. Okay. Well then, could we reschedule? For say, Friday night perhaps at 8 o’clock?
+230	Trudie Styler	 Oh no, I know that wouldn’t work. My husband’s in concert.
+231	Phoebe	 Concert. Yeah. That does put us in…quite a pickle. Because you see I’m very busy before and after the concert, and he’s obviously busy during.
+232	Trudie Styler	 So, I guess you and I should talk about Jack and Ben right now.
+233	Phoebe	 Unless! Unless umm, okay I-I would be willing to go to the concert, umm, all the while thinking about the children of course.
+234	Trudie Styler	 Are you here for tickets?
+235	Phoebe	 Oh, thank you. Four would be great.
+236	Trudie Styler	 I’m not giving concert tickets to someone who’d use their son like this!
+237	Phoebe	 Oh good! Then you’re in luck! Ben’s not my son!
+238	Trudie Styler	 (stands up) Look, I’ve just pressed a button, triggering a silent alarm. Any minute now, the police will be here!
+239	Phoebe	 The Police? Here? A reunion?! (She gets out her camera.)
+240	[Scene	 The Street, Chandler is carrying Monica past a store window.]
+241	Chandler	 Okay, ten blocks down. Five to go.
+242	Monica	 (notices something in the window) Oh wait! Stop! Stop! Stop!
+243	Chandler	 Oh I’m sorry! Do you need a break?
+244	Monica	 My boots in tan! Hey! Can you get a little closer so I can see the price?
+245	Chandler	 I can see it from right here. It’ll cost you one husband.
+246	Monica	 Okay, I’m sorry. I think I can walk the rest of the way now. Just-just give me my boots.
+247	Chandler	 (pause) I don’t have your boots.
+248	Monica	 Well I don’t have them either. Where are they?
+249	Chandler	 Well, why don’t you check in one of my saddlebags while I chew on a bale of hay!
+250	Monica	 Okay. (She gets off him.) God well, we gotta go back and get them!
+251	Chandler	 Honey, are you seriously ever gonna wear the boots again?
+252	Monica	 Okay, I’m never gonna wear them again. I just didn’t get a chance to say goodbye.
+253	Chandler	 Y’know what? You can say goodbye to the tan ones.
+254	Monica	 Okay. (Climbs back on his back.) All right.
+255	Chandler	 Okay. (Moves closer to the window.)
+256	Monica	 (to the boots) Bye boots—Wait! Half off?! (Chandler runs off.)
+257	[Scene	 Joey and Rachel's, Joey and Rachel are still discussing Bobby and Dina’s situation.]
+258	Rachel	 Joey, just because they’re not getting married doesn’t mean this is going to be a disaster. Maybe they have a plan!
+259	Joey	 Oh? Oh! Okay! Okay! Let’s hear their plan! Now, what’s the future look like for Dina and Bobby?
+260	Bobby	 Well…I really have high hopes for my band.
+261	Joey	 (to Dina) You were right. He is funny.
+262	Rachel	 Hey, now wait a minute! I get when you told people at first that you wanted to be an actor they laughed at you! Now come on Bobby, why don’t you tell us a little bit about your band?
+263	Bobby	 Well it’s just me and my pal Rooster, the band’s name is Numb Nuts.
+264	Rachel	 (To Dina) Really? (Nods her head at Bobby.)
+265	Joey	 Dina, if you’re having a baby you should be married! Even if it is to Bobby! (Bobby gets happy.) Dude, that’s not a compliment!
+266	Dina	 No Joey! I knew you wouldn’t be supportive!
+267	Joey	 So whoa-whoa-whoa-whoa! What are you gonna do? You’re gonna have the baby and-and raise it by yourself…without a husband?! You can’t be a single mother alone! You’re gonna ruin your life!
+268	Rachel	 Oh excuse me! Am I ruining my life?
+269	Joey	 No! No! No! It’s different for you. You’re so strong and together. You’re not some dumb kid who doesn’t know what she’s doing.
+270	Dina	 Excuse me?
+271	Joey	 One pregnant woman at a time, please! I just want you to be okay.
+272	Rachel	 So forcing her to marry Bobby is gonna make that happen?
+273	Joey	 Maybe! (To Bobby) Well! Well…so-so uh, what kind of music does Numb Nuts—Oh forget it! I can’t!
+274	Dina	 Joey, I am scared to death about this. But I really think I can do it, I’m just gonna need some help. And Bobby’s gonna be here the whole time.
+275	Bobby	 You bet I am! (To Joey) And to answer your earlier question, we’re straight-up gangster rap. (Joey shakes his head as if he’s about to lose it.)
+276	Dina	 Look, Rachel’s told me how much easier you’ve made all this on her. Why can’t you do that for me?
+277	Joey	 Because! ‘Cause… ‘Cause you’re my baby sister!
+278	Dina	 And you’re my big brother! I mean, you’re my favorite guy in the whole world. I’m not even scared to tell mom and dad. I was scared of telling you.
+279	Joey	 Well I’d be scared of them, but all right.
+280	Dina	 Joey, I can’t stand the thought of having this baby with you mad at me. I want him to have his uncle. Is my baby gonna have his Uncle Joey?
+281	Joey	 Of course he’s gonna have his Uncle Joey!
+282	Dina	 We’re gonna be all right. I mean, even if we’re not married this baby is gonna be so loved. Not just by us.
+283	Joey	 That’s right! By his uncle too!
+284	Bobby	 And by you.
+285	Rachel	 Okay Bobby, why don’t we just come over here and let them have a little moment. (Drags Bobby away from Joey and Dina.)
+286	Joey	 Come here! (Hugs Dina and Bobby looks to hug Rachel.)
+287	Rachel	 No! Seriously! What’s wrong with you?!
+288		Closing Credits
+289	[Scene	 Central Perk, Phoebe and Ross are there.]
+290	Ross	 You’re gonna love me so much. I got Sting tickets!! (Holds up two.)
+291	Phoebe	 Oh my God! I do love you! How did you do it?!
+292	Ross	 Well…let’s just say… (singing) Rosss caaaaan!
+293	Phoebe	 Oo, where are the seats?
+294	Ross	 Uh, middle balcony.
+295	Phoebe	 Okay, now would you say that that’s more than 50 yards away from Sting, his wife, or a member of his family?
+296	Ross	 Yeah.
+297	Phoebe	 Then that’s not breaking the law! I’m there!
+298		End

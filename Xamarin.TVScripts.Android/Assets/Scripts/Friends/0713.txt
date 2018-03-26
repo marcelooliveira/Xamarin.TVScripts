@@ -1,0 +1,344 @@
+1	Teleplay by	 Brian Buckner & Sebastian Jones Story by
+2	[Scene	 Joey and Rachel's, Rachel is trying to move Joey’s chair and not having much luck at it as Joey enters.]
+3	Joey	 Hey.
+4	Rachel	 Hey.
+5	Joey	 What are you doing?
+6	Rachel	 Well, y’know I was thinking of moving the couch over here.
+7	Joey	 (laughs) Why would you want to do that?
+8	Rachel	 So that there will be a decent place for me to sit.
+9	Joey	 Rach, there is a decent place to…
+10	Rachel	 And your lap does not count! Okay? Come on, help me move this.
+11	Joey	 No. No. No.
+12	Rachel	 No?
+13	Joey	 No. Rosita does not move.
+14	Rachel	 I’m sorry, Rosita? As in…
+15	Joey	 As in Rosita does not move.
+16	Rachel	 Joey, it’s just a chair! What’s the big deal?
+17	Joey	 The big deal is that it is the exact equal distance from the bathroom to the kitchen and it’s at the perfect angle so you don’t get any glare coming off of Stevie.
+18	Rachel	 Stevie the TV?
+19	Joey	 (glaring at her) Is there a problem?
+20	Rachel	 No! (Joey sets his beer and bag of chips down and heads into his room.) Oh what does he know! Come on Rosita, us chichas got to stick together! (She tries pulling on the back of the chair, until the hinge breaks and the back falls off.) You bitch!
+21		Opening Credits
+22	[Scene	 Central Perk, Chandler and Ross are on the couch talking. Phoebe is getting coffee.]
+23	Ross	 Hey, y’know what’s weird? After you guys get married, when you introduce me to people you’re gonna have to say, "This is my brother-in-law Ross." Not, "My friend Ross," "brother-in-law Ross." That’s weird isn’t it?
+24	Chandler	 Couldn’t I just say, "This is Ross?"
+25	Ross	 (disappointed) Sure, do whatever you want.
+26		(Phoebe sits down between Chandler and Ross.)
+27	Monica	 (entering, carrying a newspaper) Hey Ross! So, I was checking out the uh, real estate section…
+28	Ross	 Yeah?
+29	Monica	 Look at this. (Hands him the newspaper.)
+30	Ross	 Oh, it looks like mom and dad’s house. Oh, it even has a tree with a broken limb out front and the uh, the window in the attic is…Oh my God!!
+31	Phoebe	 What? What happened to the window in the attic?!
+32	Monica	 I can’t believe mom and dad are selling the house!
+33	Ross	 I can’t believe they-they didn’t even tell us!
+34	Phoebe	 I can’t believe I still don’t know what happened to the window in the attic!
+35		(Ross calls his parents on his cell phone.)
+36	Ross	 (on phone) Uh, hello dad! Monica and I just saw the house in the paper! (Listens) Yes we’re surprised! (Listens) Who did you leave a message with?
+37	Chandler	 (knocking on the window while outside) Sorry! (Runs off.)
+38	[Scene	 Joey and Rachel's, Joey is examining the injury to Rosita while Rachel is apologizing to him.]
+39	Rachel	 Joey, Joey I am so sorry.
+40	Joey	 I told you not to move it! Rach, how would you feel if say, I wanted to move your mom, and you said don’t, and I did it anyway and her head fell off?
+41	Rachel	 Okay, come on—Joey, I’ll buy you a new one! All right? We’ll go down to the store right now and we’ll-we’ll get you a new chair.
+42	Joey	 (slowly turning and glaring at her) She’s not even cold yet!
+43	Rachel	 But don’t you think Rosita would’ve wanted you to move on? I mean y’know, she did always put…your comfort first.
+44	Joey	 That’s true.
+45		(Rachel turns for the door and makes the "Wow!" face.)
+46	Rachel	 (grabbing her coat) Okay? You ready?
+47	Joey	 Yeah, I… (Shuts off the TV.) I don’t want Stevie to see her like this.
+48	[Scene	 Monica and Chandler's, Ross and Monica are still going on about the house.]
+49	Ross	 I can’t believe we have to say goodbye to the house we grew up in. Man, some-some stranger’s gonna be living in my room.
+50	Monica	 Well, after 15 years of mom and dad keeping it as a shrine to you, it’s time the velvet ropes came down.
+51	Ross	 They kept your room for a while.
+52	Monica	 Oh please! Dad turned my room into a gym 20 minutes after I moved out! I gotta say, a tanning bed and a stack of Victoria’s Secret catalogues, not a gym!
+53	Ross	 Come on, you know they love you.
+54	Monica	 As much as they love you?
+55	Ross	 I was their first born! They thought she was barren! It’s not my fault.
+56	Phoebe	 (entering) Hey.
+57	Ross	 Hey.
+58	Monica	 Hey!
+59	Phoebe	 Ugh, I hate this year!
+60	Ross	 What’s wrong with this year?
+61	Phoebe	 Well okay, it’s already February and I’ve only given two massages and they were both the worst tippers in the world!
+62	Monica	 That was me and Ross.
+63	Phoebe	 Oh that’s right!
+64	Ross	 Hey, y’know if you want to pick up some extra cash? Some friends of mine made good money doing telemarketing.
+65	Monica	 Oh that’s a great idea. You’re really good on the phone.
+66	Phoebe	 Yeah and yeah, and it would probably be better than the last telephone job I had. Y’know, I probably wouldn’t have to say spank as much. (Monica and Ross are shocked.)
+67	Ross	 What?
+68	Phoebe	 Oh yeah, like you never called!
+69	[Scene	 The telemarketing office, Phoebe is getting shown to her desk by the supervisor.]
+70	Supervisor	 So basically this is very easy. You read from the script and try to sell as much toner as you possibly can.
+71	Phoebe	 Okay, I can do that! Oh, by the way, I love my office.
+72	Supervisor	 (laughs) Why don’t we do a trial run.
+73	Phoebe	 Oh okay. Umm, all right. (Picks up the phone and starts reading from the script.) Hi, this is Phoebe from Empire Office Supplies, can I speak to your supply manager please?
+74	Supervisor	 I’m the supply manager.
+75	Phoebe	 Umm, okay I would like to talk to you about your toner needs.
+76	Supervisor	 We don’t need any toner.
+77	Phoebe	 Oh okay, well I’m sorry to bother you. Bye-bye. (Hangs up the phone.) Yeah you’re right, this is easy.
+78	Supervisor	 Okay, what was wrong with that call?
+79	Phoebe	 Oh well, all right…um, no offense, but you were kind of rude.
+80	Supervisor	 They’re always going to tell you they don’t need toner, but that’s okay because whatever they say, you can find the answer to it here in this script.
+81	Phoebe	 Oh.
+82	Supervisor	 So, I think you’re ready to sell toner, do you have any last questions?
+83	Phoebe	 No. (Pause) Oh wait yes! I do, I do have one question. What is toner?
+84	[Scene	 Joey and Rachel's, Chandler is entering.]
+85	Chandler	 Joey! Joe! (Sees that he’s not here and starts investigating. He picks up the bag of chips.) Full bag. (He picks up the beer.) Beer’s still cold. Something terrible must’ve happened here! (He decides it’s not that important; sits down on Rosita, and the back falls off causing him to flip over.) Oh no-no-no-no-no-no! (Runs over to Stevie.) Stevie, I was never here! (Runs out.)
+86	[Scene	 Ross and Monica’s parent’s garage, Ross and Monica are arriving to go through their things. Mr. Geller is in the garage.]
+87	Ross	 Dad?
+88	Mr. Geller	 I’m here!
+89	Ross	 (entering with Monica) Hey!
+90	Mr. Geller	 Hi. God, it seems like just yesterday you guys used to come out to watch me work.
+91	Ross	 Dad, we-we can’t believe you’re selling the house.
+92	Mr. Geller	 Well, it’s time for a new family to start their memories here and hopefully their check will clear before they find the crack in the foundation and the asbestos in the ceiling.
+93	Ross	 (To Monica) Let’s grab our stuff and get the hell out of here.
+94	Mr. Geller	 I’m sorry we can’t store your childhood things anymore.
+95	Monica	 Oh, that’s okay, I can’t wait to see everything again! All of the memories…
+96	Mr. Geller	 Well, I don’t know what’s in the boxes down here, but I do know there are six or seven Easy Bake Ovens in the attic.
+97	Monica	 I used to love to play restaurant.
+98	Ross	 Yeah, not as much as you used to love to play uncooked batter eater.
+99	Monica	 Hey, it is unreasonable to expect a child to wait for a light bulb to cook brownies! (She goes to the attic.)
+100	Mr. Geller	 So, I think your boxes are over here. (They walk over to them.)
+101	Ross	 Wow! Great! (Finds a pack of cigarettes.) Wait, dad who-who’s cigarettes are these?
+102	Mr. Geller	 I don’t know. They-they must be your mother’s, but please, please don’t ask her. I’ll throw these away. (He puts them in his pocket as Ross finds something of interest in one of his boxes.)
+103	Ross	 Cool! Dad! My report cards! Hey, check this out dad, (reading his grades) Math, A. Science, A. History, A. Gym…(He puts it away and finds something else.) Oooh, my rock polisher!
+104	Mr. Geller	 Oh look, look there’s your old makeup kit!
+105	Ross	 It’s a clown kit! Clown kit!
+106	Mr. Geller	 Well, the white seems to be untouched. (He throws it back into the box as Mr. Geller moves a tarp and makes a discovery.) Uh-oh.
+107	Ross	 What?
+108	Mr. Geller	 Y’know how the garage floods every Spring?
+109	Ross	 How are you ever going to sell this place?
+110	Mr. Geller	 I think I accidentally used Monica’s boxes to keep the water away from the Porsche.
+111	Ross	 Oh no. Dad! Dad! What…(He goes to open one of her boxes and it rips apart.) Oh God…everything’s ruined! Dad, she’s gonna be crushed!
+112	Mr. Geller	 You don’t secretly smoke do you?
+113	Ross	 No!
+114	Mr. Geller	 So it’s just your mother then.
+115	[Scene	 The telemarketing office, Phoebe is hard at work.]
+116	Phoebe	 (on phone) Hi, this Phoebe from Empire Office Supplies, can I speak to your supply manager please? (Listens) Earl, thanks. (Listens) Hi Earl, this is Phoebe from Empire Office Supplies I’d like to talk to you about your toner needs. (She’s reading from the script.)
+117		[Cut to Earl’s office, who is played by Jason Alexander, George from Seinfeld. They cut back and forth between Phoebe’s and Earl’s offices with each of their lines.]
+118	Earl	 I don’t need any toner.
+119	Phoebe	 I’m hearing what you’re saying, but at our prices everyone needs toner.
+120	Earl	 Not me.
+121	Phoebe	 May I ask why?
+122	Earl	 You wanna know why. You wanna know why?
+123	Phoebe	 I surely do!
+124	Earl	 Okay, I don’t need any toner because I’m going to kill myself.
+125		(Phoebe desperately tries to find the scripted response to that line.)
+126	Phoebe	 (doesn’t have any luck) Umm, is-is that because you’re out of toner?
+127		Commercial Break
+128	[Scene	 The telemarketing office, Phoebe is still talking to Earl.]
+129	Earl	 Okay, so…no toner today. Thanks anyway, bye-bye.
+130	Phoebe	 No-no wait-wait! I can’t just let you hang up! Just please talk to me.
+131	Earl	 Well…I only have one thing to do today. (He looks at his board in his office that reads, "Today’s Tasks
+132	Phoebe	 Yeah! Now, why do you want to kill yourself?
+133	Earl	 It’s just that I uh, have been working for ten years now at this meaningless, dead-end job and nobody here even knows I exist!
+134	Phoebe	 Chandler?
+135	Earl	 I-I’m sorry?
+136	Phoebe	 No look, I-I’m sure that people know you exist!
+137	Earl	 Oh yeah? I work in a cubicle surrounded by people. I’ve been talking to you for five minutes now about killing myself and no one’s even looked up from their desk. Hang-hang on. (To the people standing around his cubicle.) Hey everybody! Uh, I’m gonna kill myself! (There’s no response; no one even looks up.) I’ll get back to ya. (To Phoebe) I got nothing. Wait. (He sets the phone down.) Uh, hey Marge! (Mimes putting a gun to his head, pulling the trigger, and splattering his brain on the wall behind him. Then points to himself. Marge watches this, then goes back to work.) (To Phoebe) Ehh, nothing. Nothing.
+138	[Scene	 Joey and Rachel's, Chandler has replaced Rosita with his chair.]
+139	Chandler	 My chair. Now, if anybody asks, your name is Rosita! (He runs out the door, grabs the back of Rosita, and we can hear Joey and Rachel talking as they are coming up the stairs. Neither of them have reached the landing yet.)
+140	Rachel	 You will like it!
+141	Joey	 No I won’t.
+142		(Chandler runs to check on them coming up the stairs.)
+143	Rachel	 You don’t even know!
+144	Joey	 Because, I know what I like and what I don’t like! It’s not the same thing!
+145		(Chandler throws the back of Rosita into his apartment and quickly starts pushing the base into his apartment.)
+146	Rachel	 Well look, if you don’t like this…(The audience’s laughter at Chandler’s progress cuts out the rest of Rachel’s line.)
+147	Joey	 I don’t know why you say that so soon.
+148		(Joey and Rachel reach the landing just as Chandler closes the door.)
+149	Rachel	 Come on Joey, I just bought you a new chair! The most expensive one in the store! Hey, y’know what I was thinking? We could name her Francette.
+150	Joey	 Francette? What is she? A couch?
+151		(They enter their apartment.)
+152	Joey	 Poor thing. Cut down in her prime.
+153	Rachel	 Joey, the new chair will be here in an hour. Maybe we should actually move Rosita out of here. Y’know, start the healing process?
+154	Joey	 Well, I guess you’re right. Maybe, maybe I’ll take her down to the incinerator. It’s gonna be so sad, and kinda cool. (He goes to remove the back, but it doesn’t come off. So he sits down in it, puts his feet up, stands up, and looks back at it.) She’s healed!
+155	Rachel	 That’s weird.
+156	Joey	 No it’s not weird, it’s a miracle!
+157	Rachel	 It’s not a miracle Joey! I’m sure there’s some explanation.
+158	Joey	 Oh there is! If you want something enough and your heart is pure, wondrous things can happen!
+159	Rachel	 Joey, I really don’t…
+160	Joey	 (interrupting her) Can you tell me how this happened?
+161	Rachel	 Well no.
+162	Joey	 Miracle!
+163	Rachel	 No, y’know what? Maybe somebody came in here and fixed it! Or something!
+164	Joey	 Someone like an…angel?
+165	Rachel	 That’s right Joey, the chair angel came in and healed your chair. (She sits down in the chair.)
+166	Joey	 (angrily) Get your non-believer ass outta my chair! (She gets up and heads for her room.)
+167	[Scene	 The Geller’s Garage, continued from earlier. Ross and Mr. Geller are still deciding what to do.]
+168	Mr. Geller	 Well, she’ll understand right? It’s not like I did it on purpose.
+169	Ross	 Dad, that won’t matter to her. Look, all my stuff is safe and dry and all hers is-is, is growing new stuff! See, this is exactly the kind of thing that makes her think you guys love me more than you love her.
+170	Mr. Geller	 Oh my God, does she really thinks that?
+171	Ross	 Well, can you blame her?
+172	Mr. Geller	 Well I don’t know, I-I suppose we may have favored you unconsciously, you were a medical marvel! The doctor said your mother could…
+173	Ross	 Dad, dad I don’t want to hear about it.
+174	Mr. Geller	 Really?
+175	Ross	 Well, not right now. Okay look, Monica came here for some memories and damnit, we’re gonna give her some! Okay, grab…grab some empty boxes. Okay? We’ll-we’ll take stuff from mine and whatever we can pass off as hers we’ll-we’ll put ‘em in there.
+176	Mr. Geller	 Great!
+177	Ross	 Like uh y’know like this! This! (He picks up one of those art projects that kids make in kindergarten and first grade.) She-she could’ve made this!
+178	Mr. Geller	 Sure!
+179	Ross	 Right? And this! (He picks up a trophy) She-she could’ve won this!
+180	Mr. Geller	 (grabbing a glove) This could’ve been hers!
+181	Ross	 Sure! Ooh-ooh, what about this?
+182	Mr. Geller	 Your make-up kit? I’d feel better.
+183		(Ross angrily throws the kit into one of Monica’s new boxes.)
+184	[Scene	 Joey and Rachel's, Joey is sitting on the now healed Rosita as Rachel is sitting in the newly arrived Francette. Francette is one of those new chairs from La-Z-Boy that has and does everything except cook and go to the bathroom for you. It’s got a small refrigerator under one armrest, it has phone jacks for the Internet and regular phone, and so much more.]
+185	Rachel	 (grabbing a beer out of the chair’s fridge) I am so psyched I kept this chair for myself!
+186	Joey	 Yeah, me too. (He flips up his armrest in disgust.)
+187	Rachel	 Hey, how’s…how’s the uh, miracle chair?
+188	Joey	 Fine.
+189	Rachel	 Yeah? Wow! Y’know, that this thing has speakers in the headrest!
+190	Joey	 No. Really?
+191	Rachel	 Yeah! You can hook it up to your TV and you get radio!
+192	Joey	 (quietly) My chair heals itself.
+193	[Scene	 The telemarketing office, Phoebe is still trying to talk Earl out of suicide.]
+194	Phoebe	 Earl, you’re not hearing me! All I’m saying is that you’re not alone, alright? Everybody hates the people they work with! (One of her coworkers overhears that, and she mimes that she didn’t mean him.)
+195	Guy	 (walking past Earl’s desk) Hey guy!
+196	Phoebe	 Wait, what was that? That sounded like someone being nice to you.
+197	Earl	 No! That’s just the "Hey Guy" guy. He says that to everybody! He’s the worst! I’d like to take him with me!
+198	Phoebe	 All right. So Earl, let’s just forget about the people at the office, okay? There-there’s gotta be someone else in your life worth sticking around for! What about-what about your family, your friends, or maybe your girlfriend?
+199	Earl	 (laughs) Yeah! Right!
+200	Phoebe	 Oh sorry, boyfriend!
+201	Earl	 Oh no.
+202	Phoebe	 No, whatever! Anything!
+203	The "Hey Guy" Guy	 Hey guy!
+204	Phoebe	 Yeah, he’s gotta go.
+205	Earl	 Okay, I should, I should probably be getting back to my thing now. See ya. (Hangs up.)
+206	Phoebe	 No! I’m not finished yet! Don’t! Don’t you dare hang up on me!!!
+207	Supervisor	 (walking by and overhearing that) (to the rest of the staff) The new girl’s good.
+208	[Scene	 The Geller’s Garage, Mr. Geller and Ross are finishing up recreating Monica’s memories as Monica enters.]
+209	Monica	 Hey guys! Hey!
+210	Ross	 Hey.
+211	Monica	 Hey, I just whipped us up some Easy Bake treats, they should be ready in about three days.
+212	Mr. Geller	 (overacting) That’s a good one! Do you hear that Ross? Three days!
+213	Ross	 (overacting as well) Yeah! Yeah! (Laughs.) Oh, this will make a great memory.
+214	Monica	 (wary) Okay. So, which boxes are mine?
+215	Ross	 Well, these. These are yours right here. (Pointing to the boxes they just created for her.)
+216	Monica	 Okay. (Starting to go through them) Oh! A coloring book! (Holding it up.)
+217	Ross	 Yeah. Yeah, oh you loved that thing. You always had it with you. You never went anywhere without-without that coloring book.
+218	Monica	 (looking through it) Really? Wow! It looks like I had some trouble staying inside the lines.
+219	Ross	 Nu-uh! (Grabs it and examines it.)
+220	Monica	 (holding up a glove) Oh, an old glove?
+221	Mr. Geller	 Oh, yeah you loved that glove! You took it every place you went. You never went any place without that glove.
+222	Monica	 Wow! Look at this! (Picking up a shirt.) I can’t believe I even fit into this shirt! (She holds it up and it reads
+223	Ross	 Oh, I don’t know how that got in there.
+224	Monica	 (holding up a small cowboy hat) This isn’t mine. (Sets it down and looks at the rest of the boxes.) Hey, this isn’t, this isn’t my stuff! Ugh, Ross! (Grabs and holds up a doll.) These are your boxes! Where are my boxes?
+225	Ross	 Umm, your boxes are umm…
+226	Monica	 What?
+227	Ross	 Dad?
+228	Mr. Geller	 Well, the garage flooded sweetie and it ruined everything in your boxes. I’m sorry.
+229	Monica	 Just mine?
+230	Mr. Geller	 I’m afraid so.
+231	Monica	 So why-why wasn’t Ross’s stuff ruined? (Pause) And if you say the words medical marvel I’m going to Easy Bake your head!
+232	Mr. Geller	 Well, I used your boxes to divert water away from the Porsche.
+233	Monica	 So wait, Ross’s stuff is fine, but I have no memories because you wanted to keep the bottom two inches of your car away from water!!!
+234	Mr. Geller	 There was also leaves and guk and stuff.
+235	Monica	 I can’t believe this! (Storms out.)
+236	Mr. Geller	 (To Ross) Screw it! I’m having one. (Takes out and lights a cigarette.)
+237		Commercial Break
+238	[Scene	 Monica and Chandler's, Chandler is writing a letter by the bay window as Rachel enters.]
+239	Rachel	 Hey Chandler!
+240	Chandler	 Hey!
+241	Rachel	 How would you like to sit in a chair that fully reclines, has a rolling massage, and speakers in the head rest?
+242	Chandler	 Yeah, I’d love to but I’ve tried that so many times they won’t even let me in the store anymore.
+243	Rachel	 Well what if I told you you can do it in my apartment?
+244	Chandler	 (excitedly) Are you telling me that you bought the chair that is making all other lounge systems obsolete? The chair that Sit magazine called the Chair of the Year?
+245	Rachel	 I just purchased the La-Z-Boy E-cliner 3000. (Which is an actual product by the way, I’m not sure about the 3000 part.)
+246	Chandler	 That’s awesome! That’s great! What made you do it?!
+247	Rachel	 Well, it’s a long story, but umm I broke Joey’s chair…
+248	Chandler	 Whoa-whoa-whoa! You broke Joey’s chair?
+249	Rachel	 Yeah.
+250	Chandler	 I thought I broke Joey’s chair! That’s why I replaced it with mine!
+251	Rachel	 Ohhhhh. That’s how it got fixed!
+252	Chandler	 Well, what did you think, that-that elves came in and fixed it?
+253	Rachel	 Noo! (Laughs) Angels.
+254	Chandler	 I’m gettin’ my chair back! (Heads for Joey and Rachel’s.)
+255	Rachel	 What? Wh-hey!
+256		(They enter Joey and Rachel’s to find that Joey has broken Chandler’s chair.)
+257	Joey	 Well, it looks like it wasn’t healed after all! Yeah! So, I guess this chair is mine now! (Sits down in it and groans.)
+258	Chandler	 Joey you broke my chair!!
+259	Joey	 Your chair?!
+260	Rachel	 Yeah, he thought he broke your chair so he switched the chairs!
+261	Joey	 So, there was no miracle?!
+262	Rachel	 No Joe, no miracle.
+263	Joey	 (sarcastic) Oh no this is devastating! My faith is shaken. I’m so glad I have the new chair to get my through this difficult time in my life.
+264	Rachel	 Uh-huh! Nice try, but you don’t get that chair anymore! All right? That is my chair now! You can sit on my lap! (Joey starts to get up.) No I take that back!
+265	Chandler	 I think I should get the chair!
+266		(Rachel and Joey both laugh at that suggestion.)
+267	Joey	 How do you figure?
+268	Chandler	 Because you (Points to Joey) broke a chair and you (Points to Rachel) broke a chair! The only one around here that hasn’t broke a chair, is me!
+269	Rachel	 No-no-no! This chair’s not going anywhere.
+270	Chandler	 Well, where’s the logic in that?!
+271	Rachel	 The logic is, that there are two of us and we are both strong enough to break a chair in half!
+272	Chandler	 So Joey breaks my chair and I get nothing!
+273		(Joey whispers in Rachel’s ear to confirm his response.)
+274	Joey	 That’s right!
+275	Chandler	 What are you guys? Like a gang or something?!
+276		(They confer again.)
+277	Joey	 Yeah! We are!
+278		(Rachel whispers in Joey’s ear.)
+279	Rachel	 We’re the Cobras!
+280	[Scene	 Earl’s Office, Earl has his head in his hands as Phoebe enters.]
+281	Phoebe	 (to Marge) Excuse me! Can you tell me where I can find Earl? He’s the supply manager around here.
+282	Marge	 Sorry, I don’t know any Earl.
+283	Earl	 (screaming) I’m right here!!!!
+284	Phoebe	 (goes over to his desk) Earl! I’m Phoebe.
+285	Earl	 Phoebe? The lady who sells toner?
+286	Phoebe	 Umm, look it, you-you can’t kill yourself.
+287	Earl	 (exhales) Look, um I really appreciate your coming down…
+288	Phoebe	 No-no I can’t! I can’t let you do it!
+289	Earl	 Why?!
+290	Phoebe	 Because it was fate that made me call you today!
+291	Earl	 I thought it was toner.
+292	Phoebe	 No! Think about it okay? This isn’t even my regular job! Okay? And my first day on the job, you’re my first call! And-and somebody else might’ve hung up on you, but I wouldn’t do that because I know about this stuff. My mom killed herself.
+293	Earl	 Really?!
+294	Phoebe	 Yes.
+295	Earl	 How?
+296	Phoebe	 I’m not gonna give you tips! Look don’t you see that this-this…this all came together so that I could stop you from doing this.
+297	Earl	 Couldn’t it just be a coincidence?
+298	Phoebe	 No, it’s fate!
+299	Earl	 It doesn’t really seem like enough to be fate.
+300	Phoebe	 Oh. Well umm, okay here’s a weird thing. My mother was also a supply manager.
+301	Earl	 I’m actually the office manager.
+302	Phoebe	 Oh my God! So was she! And! Get this, okay? Your-your name is Earl, right? Her name was Pearl, P-Earl.
+303	Earl	 Well, was there anything else?!
+304	Phoebe	 Sure! (Thinks.) Umm, where are you from?
+305	Earl	 Philadelphia.
+306	Phoebe	 Oh my God! So was she! Oh, I’ve got-I’ve got goose bumps. (She holds out her arm.)
+307	Earl	 (inspecting it) Really?
+308	Phoebe	 Well, y’know I’m wearing layers and it’s warm.
+309	Earl	 Yeah-yeah.
+310	Phoebe	 But if—no look, okay. These jerks might not care about you, but the universe does! And that says a lot!
+311	Earl	 (To All) Did you hear that?! I don’t need you guys to care about me! Because the universe cares! The whole universe! (Laughs as everyone ignores him.) (To Phoebe) I really wished they’d care just a little bit though.
+312	Phoebe	 Y’know, I don’t-I don’t think it’s you. This is a freaky place. (To All) Hey! Guys! (Everyone looks up.) (To Earl) Oh no, it’s you.
+313	Earl	 Yeah.
+314	[Scene	 The Geller’s Garage, Monica is picking through her ruined childhood heirlooms with Ross.]
+315	Monica	 Oh, this is terrible! Everything is destroyed! Look at this. (She picks up some kind of furry thing.) It obviously meant enough for me to save it, and I don’t even know what it is! Ohh, it’s still soft. (She rubs it against her cheek.) What do you think this is?
+316	Ross	 All right. I think it was a mouse.
+317		(Monica screams, throws the mouse down, and rubs her hands on Ross’s sweater to clean them.)
+318	Mr. Geller	 (entering) How are you honey?
+319	Monica	 How do you think I am?! You’ve wrecked all my childhood memories. You love Ross more than me. And I just rubbed a dead mouse on my face!
+320		(Ross gets up to let his dad sit next to Monica.)
+321	Mr. Geller	 Sweetheart, we love you just as much as Ross! Now, I’m sorry about everything that happened and I’d probably never be able to make it up to you, but here’s a start. (He hands her a small box.)
+322	Monica	 (opening it) What’s this?
+323	Mr. Geller	 It’s the key to my Porsche. Well, the key to your Porsche.
+324	Monica	 (shocked) What?!
+325	Ross	 (even more shocked) What?!!!
+326	Mr. Geller	 I’ve been thinking about getting rid of it. I was driving it the other day and saw my reflection in a store window. Your mother’s right, I do look like an ass.
+327	Monica	 Wait, you’re giving me your Porsche, you’re kidding me right?!
+328	Ross	 Well w-w-w-w-wait, w-wait, wait, wait a minute! I mean a couple of stupid boxes get wet and she gets a Porsche?!
+329	Mr. Geller	 (To Monica) Why don’t we take it for a spin?
+330	Monica	 All right!
+331	Ross	 Well, what about me?! I’m a medical marvel!!
+332		Ending Credits
+333	[Scene	 Joey and Rachel's, Rachel is sitting in Joey’s lap on Francette, and they’re both groaning.]
+334	Joey	 Oh yeah.
+335	Rachel	 Ahhhh….
+336	Joey	 Ahhh…… (To Rachel) Eh?
+337	Rachel	 Uh-huh.
+338	Monica	 (entering) Hey guys!
+339	Rachel	 Hey!
+340	Joey	 Hey!
+341	Monica	 Do you guys know what happened to Chandler’s barcalounger?
+342	Rachel	 Oh yeah, Joey broke it. Had to get rid of it.
+343	Monica	 Are you kidding?! I get a Porsche and the barcalounger’s gone?! This is the best day ever! (Runs out.)
+344		End

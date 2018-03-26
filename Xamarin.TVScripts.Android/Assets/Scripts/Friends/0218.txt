@@ -1,0 +1,4 @@
+1	Written by	 Transcribed by
+2	[Scene	 Monica and Rachel's apartment. Everyone except Ross is there watching Days of Our Lives.] AMBER
+3		END
+4	webbot bot="ImageMap" startspan rectangle=" (138,1) (197, 84) http	//thecfsi.com/season2/219ewg.htm" rectangle=" (71,2) (131, 84) http

@@ -1,0 +1,290 @@
+1	Teleplay by	 Andrew Reich & Ted Cohen Story by
+2	[Scene	 Central Perk, Chandler, Phoebe, Rachel and Monica are there. Ross walks in with a magazine in his hand.]
+3	Ross	 Hey, you’re not going to believe this. I made up a joke and sent it in to Playboy. They printed it!
+4	Phoebe	 I didn’t know Playboy prints jokes.
+5	Ross	 Yeah, they print jokes, interviews, hard-hitting journalism. It’s not just about the pictures.
+6	Monica	 That didn’t work on mom, it’s not going to work on us.
+7	Ross	 (showing them the page) Here, check it out. It’s the first one, too.
+8		(They all laugh indifferently, except Chandler, who’s a little angry.)
+9	Chandler	 That is funny. It was also funny when I made it up.
+10	Ross	 What?
+11	Chandler	 I made that joke up.
+12	Ross	 Uh, oh-oh, no you didn’t. I did.
+13	Chandler	 Yes, I did. I told it to Dan at work, and he said it was the funniest joke he’d ever heard.
+14	Ross	 Hey, tell Dan, ‘Thanks.’
+15		(Rachel is looking at the magazine and laughing.)
+16	Ross	 What?
+17	Rachel	 I’m sorry, I was just reading the joke below it. Man, that one is funny. (Ross grabs the magazine away from her.)
+18	Chandler	 Monica, you remember me telling you that joke, right?
+19	Monica	 No.
+20	Chandler	 Seriously?
+21	Monica	 Well, you tell a lot of jokes!
+22	Ross	 Look, Chandler, it’s my joke. But, hey, if it makes you feel any better they don’t print the name, so it doesn’t really matter who gets credit, right?
+23	Chandler	 Yeah, I guess.
+24	Joey	 (entering) Hey guys.
+25	Chandler	 (jumping up from his chair) Hey, Joey, Playboy printed my joke.
+26	Ross	 No, it’s my joke, it’s mine. You can call them, they’ll tell you.
+27	Chandler	 It’s my joke.
+28	Ross	 It’s my joke.
+29	Joey	 Whoa-whoa-whoa. Jokes? You guys know they have naked chicks in there, right?
+30		Opening Credits
+31	[Scene	 Joey’s apartment, Joey is sitting at the counter as Chandler enters.]
+32	Chandler	 Dude, you have got to turn on Behind the Music. The band Heart is having a really tough time, and I think they may break up.
+33	Joey	 Let’s go watch it at your place.
+34	Chandler	 Nah, Monica’s watching some cooking show. Come on, I don’t want to miss when they were skinny.
+35	Joey	 Chandler, Chandler, y’know what we should do? You and I should go out and get some new sunglasses.
+36	Chandler	 What? No, I want to watch this. (He turns on the television and the screen is completely covered in snow). Did your cable go out?
+37	Joey	 No, that’s VH-1. I gotta tell you, the music these kids listen to today . . . It’s like a lotta noise to me. I don’t know…
+38	Chandler	 Joey, why is your cable out?
+39	Joey	 I uh, oh! Because, uh, I haven’t really paid the bill
+40	Chandler	 If you need money, will you please-please just let me loan you some money?
+41	Joey	 No, Chandler. Look, forget about it, okay? Look, I know things have been a little tight since Janine moved out. Oh, was she hot.
+42	Chandler	 Whoa ho.
+43	Joey	 I know! Yeah, but, look I can handle it. All right? Look, I can listen to the radio, huh? And Ross gave me this great book (holds up the Playboy magazine).
+44	Chandler	 (picks up the phone) All right, you want to see if the joke stealer will let us watch the show at his place?
+45	Joey	 Sure.
+46	Chandler	 (with phone to ear, obviously hearing no dial tone) Paid your phone bill?
+47	Joey	 Not so much.
+48	[Scene	 Monica and Chandler's, Monica and Rachel are on the couch looking at the Playboy magazine. When they hear someone coming, Monica goes to hide it under the sofa cushions.]
+49	Phoebe	 (entering) Hey.
+50	Monica	 (relieved) It’s only you.
+51	Phoebe	 Wh-wh-what are you doing?
+52	Rachel	 We are looking at a Playboy.
+53	Phoebe	 Oh, I want to look too! (She runs over and sits down and checks out a picture). Yikes!
+54	Monica	 So do you think that these pictures—Are, are they trying to tell a story?
+55	Rachel	 Oh, yeah, sure. I mean, like in the case of this young woman, she has lost her clothes, so she rides naked on the horse, she’s crying out, ‘Where are they, where are they?’
+56	Monica	 Well, she’s not going to find them lying in the grass like that.
+57		(They flip through the pages to another picture.)
+58	Phoebe	 Oh, yeah. Aw, remember the days when you used to go out to the barn, lift up your shirt, and bend over?
+59	Rachel and Monica	 Yeah.
+60	Rachel	 You see, now, I would date this girl. She’s cute, she’s outdoorsy, you know, and she knows how to build a fire. I mean, that’s got to come in handy
+61	Monica	 Okay, I’ve got a question. If you had to pick one of us to date, who would it be?
+62	Rachel	 (thinks) I don’t know.
+63	Monica	 Me neither.
+64	Phoebe	 Rachel.
+65	Monica	 What?!
+66	Phoebe	 I don’t know. (Pause) Me neither.
+67	[Scene	 Central Perk, Joey, Chandler, and Ross are sitting on the couch.]
+68	Joey	 You forget how many great songs Heart had.
+69	Chandler	 Yeah.
+70	Ross	 You know, Barracuda was the first song I learned to play on the keyboard.
+71	Chandler	 So, you heard it, you repeated it, so that must mean you wrote it.
+72	Joey	 Oh, you guys, with this joke. I gotta say, I know I cracked up, but I’m not even sure I got it.
+73	Ross	 What, you didn’t get it? The doctor is a monkey.
+74		(He and Chandler crack up.)
+75	Chandler	 And monkeys can’t write out prescriptions.
+76		(He and Ross crack up again. Joey just sits there)
+77	Chandler	 (stops laughing, to Ross) You are not allowed to laugh at my joke.
+78	Ross	 Your joke? Well, I think ‘the Hef’ would disagree, which is why he sent me a check for one hundred ah-dollars.
+79	Chandler	 So, you stole my joke, and you stole my money.
+80	Ross	 Well, I was going to stick it in the ATM, but now I think I’ll show the sexy teller that I am a published writer.
+81	Chandler	 Well, she is going to know that you stole the joke.
+82	Ross	 Oh, what are you going to do, follow me down there?
+83	Chandler	 Yeah!
+84	Ross	 Well, I’m not going to go now anyway (he goes to sit down).
+85	Chandler	 Okay (he goes to sit down).
+86		(Ross leaps out of his chair and runs out the door, with Chandler in hot pursuit.)
+87	Gunther	 (handing Joey the bill) Here you go.
+88	Joey	 Ah, Gunther, I can’t pay for this right now because I’m not working, so I’ve had to cut down on some luxuries like uh, payin’ for stuff.
+89	Gunther	 Well, if you want, you can work here.
+90	Joey	 Uh, I don’t know. Ya see, it’s just, see I was a regular on a soap opera y’know? And to go from that to this, I just… Plus, I’d have to wait on all my friends.
+91	Gunther	 Okay, but the money’s good, plus you get to stare at Rachel as much as you want.
+92	Joey	 What?!
+93	Gunther	 Flexible hours.
+94	Joey	 Maybe I could be a waiter. Could I use the phone?
+95	[Scene	 Monica and Chandler’s bedroom, they are in bed together.]
+96	Monica	 (visibly upset) She picked Rachel. I mean, she tried to back out of it, but it was obvious. She picked Rachel.
+97	Chandler	 (visibly upset) He took my joke, he took it.
+98	Monica	 It’s wrong. You know what else is wrong? Phoebe picking Rachel.
+99	Chandler	 You know who else picked Rachel? Ross, and you know what else Ross did? He stole my joke. You know what? I’m going to get a joke journal. Y’know? And document the date and time of every single one of my jokes.
+100	Monica	 That’s a good idea.
+101	Chandler	 Yeah!
+102	Monica	 Do you know what’s a bad idea?
+103	Chandler	 Picking Rachel.
+104	Monica	 That’s right. (A noise comes from the living room.) Did you hear something?
+105	Chandler	 Maybe it’s the sound of Ross climbing into my brain and stealing my thoughts.
+106	Monica	 It’s coming from the living room.
+107		(They go out to investigate, and find Joey wrapped in a blanket watching their television.)
+108	Joey	 (sheepishly) I finished my book. (Chandler and Monica slowly retreat back to bed.)
+109		[Scene, Phoebe and Rachel’s, they’re sitting together on the couch.]
+110	Monica	 (entering) Hey, you guys.
+111	Phoebe and Rachel	 Hey.
+112	Monica	 (laughing) Oh, don’t you guys look cute. You guys make such a cute couple.
+113	Rachel	 Monica, what are you doing?
+114	Monica	 (laughing harder) Nothing, I’m just trying to recreate some of the fun that we had at my place the other day. (To Phoebe) Remember, when you picked Rachel over me? That was funny.
+115	Phoebe	 I guess it was kinda funny.
+116	Monica	 (angrily) It wasn’t funny at all! Why would you do that? Why didn’t you pick me?
+117	Phoebe	 Fine. The reason that I was leaning a little bit more toward Rachel than you is just that you’re … just … kinda high maintenance—Okay let’s go to lunch!
+118	Monica	 That is completely untrue. You think I’m high maintenance? Okay, prove it. I want you to make a list and we’re going to go through it point by point!
+119	Phoebe	 No, okay, you’re right. You’re easy-going. You’re just not as easy-going as Rachel. She’s just more flexible and-and mellow. That’s all.
+120	Rachel	 (To Monica) Well, people are different.
+121	Phoebe	 Ya, you know, Rachel … she’ll do whatever you want. Y’know, you can just walk all over her.
+122	Rachel	 What? Wait a minute. What are you saying, that I’m a pushover? I’m not a pushover.
+123	Phoebe	 Oh, okay, (laughing) you’re not a pushover.
+124	Rachel	 Oh my … you think I’m a pushover. Well wait, watch this, you know what? You’re not invited to lunch. What do you think of that? I think that’s pretty strong, that’s what I think. Come on, Monica, let’s go to lunch. (She leaves)
+125	Monica	 (to Phoebe) You start working on that list. (She grabs her coat and leaves, too.)
+126		[Cut to the hallway.]
+127	Rachel	 I cannot believe her.
+128	Monica	 I know. Where do you wanna go eat?
+129	Rachel	 Oh, oh, I love that Japanese place.
+130	Monica	 I’m sick of Japanese. We’re not going there.
+131	Rachel	 All right, wherever you wanna go is cool.
+132	Monica	 All right.
+133	[Scene	 Central Perk, Monica, Rachel, and Chandler are there as Ross enters and sees Gunther.]
+134	Ross	 (showing the Playboy magazine to Gunther) Oh, hey, Gunther, check this out.
+135		(Gunther looks at the joke and laughs.)
+136	Gunther	 Yeah, that-that Chandler cracks me up.
+137		(Ross begins to say something, realizes what Gunther just said, turns, and glares at Chandler. Chandler just shrugs it off.)
+138	Joey	 Hey Ross, listen, you want anything to drink, ‘cause I’m heading up there.
+139	Ross	 Uh, yeah, I’ll take a coffee. Thanks, man.
+140	Joey	 Sure. (To Monica and Rachel) Coffee? ‘Cause I’m going up there.
+141	Rachel	 No.
+142	Monica	 No, thank you.
+143	Joey	 (to a table of strangers) You guys need anything, ‘cause I’m heading up there.
+144	Woman	 I’d love an ice water.
+145	Joey	 You got it.
+146	Monica	 Joey, what are you doing?
+147	Joey	 Just being friendly. (He gives Monica a ‘what’s wrong with you?’ look and proceeds to walk behind the counter.)
+148	Rachel	 Joey, honey, I don’t think you’re supposed to go back there.
+149	Joey	 Nah, it’s okay. Right, Gunther? (Winks at him as if they’re in on a secret together.)
+150	Gunther	 Don’t wink at me. And put on your apron.
+151	Joey	 Okay, but I don’t see you asking any other paying customers to put on aprons.
+152	Monica	 Joey, do you work here?
+153	Joey	 No.
+154	Customer	 Hey, waiter.
+155	Joey	 Yeah?
+156		Commercial Break
+157	[Scene	 Central Perk, continued from earlier.]
+158	Monica	 Joey, what’s going on. What didn’t you tell us you work here?
+159	Joey	 It’s kind of embarrassing, y’know. I mean, I was an actor and now I’m a waiter. It’s supposed to go in the other direction.
+160	Chandler	 So is your apron. You’re wearing it like a cape.
+161	Joey	 I mean, the job’s easy and the money’s good, you know? I guess I’m going to be hanging out here anyway. I might as well get paid for it, right? I just feel kind of weird serving you guys.
+162	Rachel	 Come on, Joey, I did it and it was fine.
+163	Ross	 Yeah, why would it be weird? Hey, Joey, can I get some coffee?
+164	Joey	 Okay, I guess it doesn’t seem that weird.
+165	Ross	 Seriously, I-I asked you before and you still haven’t gotten it.
+166	Joey	 See, now it’s weird again.
+167	Chandler	 I think it’s great that you work here. You’re going to make a lot of money, and here’s your first tip
+168	Rachel	 Well, you know what? This is great. Finally, I have someone I can pass on my wisdom too. Let me tell you about a couple of things I learned while working at the coffeehouse. First of all, the customer is always right. (Joey nods.) A smile goes a long way. (Joey smiles) And if anyone is ever rude to you? Sneeze muffin.
+169	Joey	 Thanks, Rach. Look, you guys are just terrific. Y’know? Now, how about clearing out of here so I can get some new customers. It’s all about turnover.
+170	Ross	 Joey, seriously, can I get my coffee?
+171	Joey	 Oh, I’m sorry, Ross. I’ll get it for you right now. And since I made you wait, I’ll toss in a free muffin.
+172		(He looks at Rachel and winks, she gives him the thumbs-up sign.)
+173	[Scene	 Phoebe and Rachel’s, Phoebe is sitting on the couch as Rachel and Monica enter.]
+174	Rachel	 Phoebe. We would like to talk to you for a second.
+175	Phoebe	 Okay.
+176	Monica	 So, maybe I am a little high maintenance. And maybe Rachel is a little bit of a pushover. But you know what we decided you are?
+177	Rachel	 Yes, we are very sorry to tell you this, but you, Phoebe, are flaky.
+178	Monica	 Hah!
+179	Phoebe	 That true, I am flaky.
+180	Rachel	 So, what, you’re just, you’re just okay with being flaky?
+181	Phoebe	 Yeah, totally.
+182	Monica	 Well, then, I’m okay with being high maintenance.
+183	Rachel	 Yeah, and I am okay with being a pushover.
+184	Phoebe	 That’s great. Good for you guys.
+185	Monica	 I am not high maintenance!
+186	Rachel	 I am not a pushover!
+187	Phoebe	 Who said you were?
+188	Monica and Rachel	 You did!
+189	Phoebe	 Oh, I’m flaky. I’ll say anything.
+190	[Scene	 Central Perk, Joey is coming back from using the phone.]
+191	Joey	 Hey, Gunther. Can you uh, can you cover for me? I just got an audition.
+192	Gunther	 No, I’m leaving to get my hair dyed.
+193	Joey	 Really?! I like your natural color. Come on man, it’s a great part. Look, check it out. I’m the lead guy’s best friend and I wait for him in this bar and save his seat. Listen-listen. ‘I’m sorry, that seat’s saved.’
+194	Gunther	 That’s the whole part?
+195	Joey	 Okay, maybe he’s not his best friend, but …
+196	Gunther	 Okay, I’ll see you in an hour.
+197	Joey	 Oh, man, I could totally get that part. ‘I’m sorry, that seat is taken.’
+198	Patron	 Oh, excuse me.
+199	Joey	 No, no, I didn’t mean you. But, you believed me, huh?
+200	Patron	 I believed you were saving this seat for someone.
+201	Joey	 So, you’d hire me, right?
+202	Patron	 For what?
+203	Joey	 Exactly! All right, everybody, listen up. The coffeehouse is going to be closed for about an hour.
+204	Customers	 Huh? What?
+205	Joey	 Yeah, it’s for the kids. To keep the kids off drugs. It’s a very important issue in this month’s Playboy. I’m sure you all read about it.
+206	[Scene	 Monica and Chandler's, Chandler and Ross are both pouting and sitting on the couch.]
+207	Ross	 It’s my joke.
+208	Chandler	 It’s my joke.
+209	Ross and Chandler	 It’s my joke.
+210	Ross	 Y’know, I don’t think we’re going to settle this.
+211	Chandler	 Let’s have Monica decide.
+212	Ross	 Yeah!
+213	Chandler	 Yeah!
+214	Ross	 Hey Mon.
+215	Chandler	 Mon, get out here!
+216	Ross	 Monica! (She appears, not sure why she was summoned.)
+217	Chandler	 Okay, okay. You have to help us decide whose joke this is.
+218	Monica	 Why do I have to decide?
+219	Chandler	 Because you’re the only one that can be fair.
+220	Ross	 Yeah.
+221	Monica	 I can’t be fair. You’re my boyfriend.
+222	Ross	 Yeah, but I’m your brother. We’re family. That’s the most important thing in the world.
+223	Chandler	 (to Ross) Don’t try to sway her. (To Monica) (Softly) I’m your only chance to have a baby. Okay, let’s go.
+224	Ross	 We’ll each tell you how we came up with the joke and then you decide which one of us is telling the truth—me.
+225	Monica	 Okay, Chandler, you go first.
+226	Chandler	 Okay, I thought of the joke two months ago at lunch with Steve.
+227	Monica	 Oh, wait, is he the guy I met at Christmas?
+228	Chandler	 Can I finish my story?!
+229	Monica	 Do you want me to pick you?!
+230	Ross	 See, I would never snap at you like that.
+231		(Chandler motions to Monica that he’ll give her two babies.)
+232	Monica	 Continue.
+233	Chandler	 So Steve said he had to go to the doctor. And Steve’s doctor’s name is Doctor Muppy. So I said, ‘Doctor Monkey?’ And that is how the whole Doctor Monkey thing came up. (He slams his feet up on the table to emphasize his point.)
+234	Ross	 Are you kidding? Okay, look. I-I studied evolution. Remember, evolution? Monkey into man? Plus, I’m a doctor, and I had a monkey. I’m Doctor Monkey!
+235	Chandler	 I’m not arguing with that.
+236	Monica	 All right, I’ve heard enough. I’ve made my decision.
+237		(Both Chandler and Ross are eager to hear her decision.)
+238	Monica	 You are both idiots. The joke is not funny, and it’s offensive to women, and doctors, and monkeys! You shouldn’t be arguing over who gets credit, you should be arguing over who gets blamed for inflicting this horrible joke upon the world! Now let it go! The joke sucks!
+239		(Monica leaves the room)
+240	Ross	 It’s your joke.
+241	Chandler	 Is not.
+242	[Scene	 Central Perk, Rachel is sitting at a table and Phoebe is on the couch. Chandler and Monica can be seen outside, she’s lecturing him, and pushes him inside. He then nods to Rachel, and is obviously counting off the seconds in his head and then Monica makes a grand enterance.]
+243	Monica	 Hi, Chandler. There you are.
+244	Chandler	 Hi, oh hi.
+245	Monica	 Hey, it’s Phoebe and Rachel. Um, why don’t you tell them what you were telling me earlier about me not being high maintenance?
+246		(Rachel and Phoebe exchange looks.)
+247	Chandler	 (starts to recite a rehearsed speech) Monica is a self-sufficient, together lady. (Pause.) Being with her has been like being on a vacation. And what may be perceived as high maintenance is merely attention to detail and—(He falters and Monica prompts him.)—generosity of spirit.
+248	Rachel	 Wow, you know what? That is the best fake speech I think I’ve ever heard.
+249	Phoebe	 Really? I’ve heard better.
+250	Monica	 Wait, wait, he came up with that himself. Tell them, Chandler.
+251	Chandler	 (To Chandler) I’m out of words. Should I just say the whole thing again?
+252	Monica	 Look, I am not high maintenance. I am not. Chandler!
+253	Chandler	 (pauses as he struggles with what he has to say) You’re a little high maintenance.
+254	Monica	 Ahhh! You are on my list.
+255	Chandler	 I’m sorry. You’re not easy-going, but you’re passionate, and that’s good. And when you get upset about the little things, I think that I’m pretty good about making you feel better about that. And that’s good too. So, they can say that you’re high maintenance, but it’s okay, because I like … maintaining you.
+256	Monica	 (embarrassed) (To Phoebe and Rachel) I didn’t even tell him to say that. (They hug). All right you’re off my list.
+257	Chandler	 (happily) I’m off the list. (Sits on the couch.)
+258	Monica	 (sits next to him) Phoebe, it’s okay that you don’t want me to be your girlfriend because I have the best boyfriend.
+259	Phoebe	 (to Monica) Y’know, suddenly I find you very attractive.
+260		(Joey enters.)
+261	Chandler	 Hey, buddy boy, how’d the audition go?
+262	Joey	 Not good, no. I didn’t get the part, and I lost my job here, so …
+263	Phoebe	 Wow! That is a bad audition.
+264	Rachel	 How-how did you lose your job here?
+265	Joey	 Well, I had the audition but Gunther said I had to stay here and be in charge so he could go get his hair dyed. So, I went anyway, and then he fired me.
+266	Rachel	 He left work in the middle of the day to do a personal errand and left you in charge when you’ve been working here two days? That’s not, that’s not right.
+267	Joey	 Yeah, what are ya gonna do?
+268	Rachel	 Joey, you can’t let him get away with that. Ya know what, I’m not going to let him get away with that. I’m going to say something to him—No, I really shouldn’t say anything—No, I should say something to him. (Goes to the counter) Gunther, I want you to give Joey his job back. That is really not fair that you have to fire him…
+269	Gunther	 Okay.
+270	Rachel	 What?
+271	Gunther	 He can have his job back.
+272	Rachel	 That’s right, he can have his job back. I’m glad we got that all straightened out. There you go, Joey, you got your job back.
+273	Joey	 That’s great. Thanks Rach.
+274	Rachel	 Yeah, pretty nice, huh? Now who’s a pushover?
+275	Phoebe	 (returning from the bathroom) Rach, you’re in my seat.
+276	Rachel	 Oh, I’m sorry. (Gets up and moves.)
+277		Ending Credits
+278	[Scene	 Monica and Chandler's, Monica, Phoebe, and Rachel are sitting at the kitchen table, talking.]
+279	Phoebe	 Hey, I never got to hear who you guys would pick to be your girlfriend.
+280	Monica	 I pick you, Phoebe.
+281	Rachel	 Oh, yeah. Definitely you, Pheebs.
+282	Phoebe	 Yeah, well, I kinda thought.
+283		(Phoebe gets up from the table, and while her back is turned, Rachel and Monica indicate via sign language that they each would have picked the other.)
+284		(Joey, Chandler and Ross enter.)
+285	Chandler	 Hey.
+286	Rachel	 Hey. Oh, I have a question. If-if-if one of you had to pick one of the other two guys to go out with, who would you pick?
+287	Ross	 No way.
+288	Joey	 I’m not answering that.
+289	Chandler	 Joey! (Pause as they all stare at him.) No way. I’m not answering that.
+290		End

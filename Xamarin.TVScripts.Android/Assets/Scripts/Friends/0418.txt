@@ -1,0 +1,284 @@
+1	Teleplay by	 Jill Condon & Amy Toomin Story by
+2	[Scene	 Central Perk, Joey and Chandler are there as Phoebe enters carrying a drum.]
+3	Phoebe	 Hey!
+4	Chandler	 Hey! Wow, it is true what they say, pregnant bellies look like a drum.
+5	Phoebe	 (not amused) Ha-ha. (She sits down on the couch.) No, it’s just I’m so pregnant that I—my guitar doesn’t fit anymore. So I thought ‘til I’m not, I’m just gonna play all my songs on this drum. It sounds really cool!
+6	Chandler	 All right.
+7	Phoebe	 Listen. Listen. (She starts to play and sing.) Smelly cat, smelly cat, what are they feeding you?
+8	Joey	 Wow, Pheebs! That sounds great!
+9	Phoebe	 I know! I know, and I’ve only been playing for like an hour!
+10	Alice	 (entering) Phoebe! Phoebe! Hi! Hi!
+11	Phoebe	 Hey! What are you doing here?
+12	Alice	 Umm, actually, I came down to ask you a big favour.
+13	Phoebe	 Oh, well, don’t tell me you want to keep more of your stuff in my uterus.
+14	Alice	 (laughs) No. No. No. (Sits down.) Okay, now, see, I wanna name the girl baby Leslie, and Frank wants to name one of the boy babies Frank JR. JR.
+15	Chandler	 Wouldn’t that be Frank the III?
+16	Alice	 Don’t get me started. (To Phoebe) Anyway, umm, since there are three babies and umm, we both got to put our names in, we would be truly honoured if you named the other boy baby.
+17	Phoebe	 Wow! That’s so great! Oh! Oh! Cougar.
+18	Alice	 You think about it. (Leaves)
+19		Opening Credits
+20	[Scene	 Ross’s apartment, he and Emily are getting ready to go to the airport.]
+21	Emily	 I left a bra drying on the shower rod, you don’t think your son will think it’s yours and be horribly traumatised?
+22	Ross	 Hey, if mommy can have a wife, daddy can have a bra.
+23	Emily	 (checks the clock) Ohh, it’s time to go.
+24	Ross	 Oh, no-no-no, see, that-that clock’s a little fast, uh, we have 17 minutes. Huh, what can we do in 17 minutes? Twice?
+25	Emily	 Well that’s ambitious.
+26		(They kiss but are interrupted by a knock on the door.)
+27	Ross	 Hey, uh, you can ignore that.
+28	Emily	 That’s Carol with your son!
+29	Ross	 Uhh, believe me when he’s older, he’ll understand.
+30	Carol	 (knocking on the door) Ross!
+31	Ross	 I’ll be right there. (He goes over and opens the door to Carol, Susan, and Ben.) (To Ben.) Hello! (To Carol.) Hello! (To Susan.) Hey. Uhh, Emily, this is Carol and Susan.
+32	Susan	 Hey, it’s so nice to finally meet you!
+33	Emily	 Me too!
+34	Carol	 Ohh, y’know, Susan’s gonna be shooting a commercial in London next week.
+35	Susan	 Oh yeah, I’m so excited, I’ve never been there.
+36	Emily	 Oh, well, I’ll show you around.
+37	Susan	 That would be great! Also, uh, I was hoping to catch a show so if you can make any suggestions…
+38	Emily	 Oh, there’s tonnes of terrific stuff—I’ll go with you!
+39	Susan	 Ahh!
+40		(Ross accidentally, on purpose, bumps into Susan.)
+41	Ross	 Look at you two, bonding, making us late for the airport so…
+42	Emily	 Are you all right?
+43	Susan	 Oh, he’s fine. He’s fine. It’s just that us getting along is difficult for him, because he doesn’t like me.
+44	Ross	 Oh come on! That’s-that’s… true.
+45	[Scene	 Monica and Rachel's erm, Chandler and Joey's, Joey and Chandler are playing foosball as Phoebe enters.]
+46	Phoebe	 Hi!
+47	Joey	 Hey!
+48	Chandler	 Hey! Do we have a baby name yet?
+49	Phoebe	 Ugh! No! This is so hard! I went through this whole book (Holds up a book) and found nothing! I want a name that’s really like, y’know strong and confident, y’know? Like-like Exxon.
+50	Chandler	 Well, it certainly worked for that Valdez kid.
+51	Joey	 Ooh-ooh, Pheebs, you want a strong name? How about, The Hulk?
+52	Phoebe	 No, I’m-I’m not sure about Hulk, but I like the idea of a name starting with "The."
+53	Joey	 Oh, want a good name, go with Joey. Joey’s your pal. Joey’s your buddy. "Where is everybody?" "Well, they’re hanging out with Joey."
+54	Chandler	 Hey, y’know what, if you’re gonna do that, if you’re gonna name him Joey, you should name him Chandler. (Phoebe doesn’t think so.) Oh, come on! Chandler’s funny, sophisticated, and he’s very loveable, once you get to know him.
+55	Joey	 Oh well, hey, Joey’s loveable too! But the thing about Joey is, if you need him, he’ll be there.
+56	Chandler	 Well, Chandler will be there for you too. I mean, well, he might be a little late, but-but, he’ll be there. And he’ll bring you some cold soda, if want you need him for is that you’re really hot.
+57	Joey	 What do ya say? What do ya say?
+58	Phoebe	 Well, I, I like the idea of naming him after someone I love, and Joey and Chandler are great names. (They both stare at her.) But, all right, I don’t—maybe I’ll just name him The Hulk.
+59	Joey	 I knew I shouldn’t have mentioned it! That’s what I wanted to name my kid!
+60	[Scene	 Chandler and Joey's erm, Monica and Rachel's, Monica is cooking and Rachel is getting ready for a date with Joshua.]
+61	Rachel	 Hey, Mon, if you were hoping to sleep with Joshua the first time tonight, which one of these would you want to be wearing. (She’s holding two frilly, lace nighties.)
+62	Monica	 Y’know what? It really creeps me out choosing other people’s sex clothes.
+63	Rachel	 Sorry. I’m so exited! I’ve been waiting for this for months! I got my hair coloured! I got new sheets! I’m making him a very fancy meal.
+64	Monica	 Um-hmm.
+65	Rachel	 What am I making him by the way?
+66	Monica	 Well, you’re making him a frieze salad with goat cheese and pine nuts, wild nuts, wild rice, roast asparagus, and salmon au croup.
+67	Rachel	 I thought I was making him filet mignon?
+68	Monica	 Yeah, you were, but you decided to make salmon because you had some left over at the restaurant. And then you realised if you (Points at Rachel) bitched about it, then you (Points to herself) would stop cooking, and you (Points at Rachel) would have to make your famous baked potato and Diet Coke.
+69	Rachel	 Wow, I really get crabby when I cook.
+70	[Scene	 Monica and Rachel's erm, Chandler and Joey's, Joey, Chandler, and Phoebe are there as Ross enters.]
+71	Ross	 Hey!
+72	Joey	 Hey!
+73	Chandler	 Hey!
+74	Ross	 So uh, Emily called last night…
+75	Chandler	 And now you’re giving me the message!
+76	Ross	 Turns out them Emily is just crazy about Susan. Yeah, they’re going to the theatre together! They’re going to dinner! They’re going horseback riding!
+77	Phoebe	 God, Susan is so fun!
+78	Ross	 Look, this is just a little too familiar, okay? For like, for like six months before Carol and I spilt up, all I heard was
+79	Chandler	 You actually think that something can happen between Emily and Susan?
+80	Ross	 Hey, they’re going to the gym together! Two women! Stretching! Y’know they-they take a steam together! Things get a little playful—didn’t you see Personal Best?
+81	Joey	 No, but I’m gonna!
+82	Chandler	 Hi! Hi! You’re crazy! Okay? This is Emily. Emily is straight.
+83	Ross	 How do you know? I mean we thought Carol was straight before I married her!
+84	Phoebe	 Yeah, I definitely. I don’t like the name Ross.
+85	Ross	 What a weird way to kick me when I’m down.
+86	Phoebe	 No! No! I-I meant for the baby!
+87	Ross	 Oh. What’s wrong with Ross?
+88	Phoebe	 Well, it’s just y’know that something like this would never to like The Hulk, y’know…
+89	Ross	 Actually that-that’s not true, in The Incredible Hulk uh, No. 72, Dr. Bruce Banner found… (Sees everyone staring at him and stops.) Y’know, ugh, nevermind, my girlfriend’s a lesbian. (Leaves.)
+90	Phoebe	 So, I decided I’m definitely going to go with either Joey or Chandler.
+91	Joey	 Oh! Oh-oh, you gotta pick Joey! I mean, name one famous person named Chandler.
+92	Chandler	 Raymond Chandler.
+93	Joey	 Someone you didn’t make up!
+94	Chandler	 Okay, there are no famous Joey’s. Except for, huh, Joey Buttafucco.
+95	Joey	 Yeah, that guy really hurt us.
+96	Phoebe	 Well, how about a compromise then, okay? What if it’s like y’know, Chanoey?
+97	Chandler	 Okay, look, Joey! Come on, think about it, first of all, he’ll never be President. There’s never gonna be a President Joey.
+98	Joey	 All right look man, I didn’t want to bring this up, but Chandler, is the stupidest name I ever heard in my life! It’s not even a name; it’s barely even a word. Okay? It’s kinda like chandelier, but it’s not! All right? It’s a stupid, stupid non-name!
+99	Chandler	 Wow, you’re, you’re right. I have a horrible, horrible name.
+100	Joey	 I’m sorry man, I didn’t—I’m-I’m sorry. I’m sorry. (Goes over and comforts him.)
+101	Chandler	 Okay.
+102	Joey	 So I guess it’s Joey then!
+103	[Scene	 Chandler and Joey's erm, Monica and Rachel's, Rachel is on her dinner date with Joshua.]
+104	Joshua	 This is so nice. Thank you for doing this.
+105	Rachel	 Ohh, please! Cooking soothes me. (They kiss.) Ahh. So, dig in!
+106	Joshua	 Great! Oh, it all looks sooo good!
+107	Rachel	 (taking a bite) Hmmm!
+108	Joshua	 Oh my God!
+109	Rachel	 Oh I know, my God, this is so—this rice is so—I am so good.
+110	Joshua	 Behind you?
+111	Rachel	 (sees the chick and the duck) Oh, yeah, I’m sorry. They used to live here; sometimes they migrate back over.
+112	Joshua	 (getting up and backing away from they.) Is there ah, is there some way they can not be here. It’s just ah, farm birds really kinda freak me out!
+113	Rachel	 Yeah, sure, okay. Okay.
+114		(Rachel gets up and ushers them into the hall, as they pass Joshua, he leaps onto the counter to avoid them. Rachel drops them off in the hall, and knocks on Joey’s door.)
+115	Joey	 (answering the door.) Hey, how did you do that?! Come on in. (He brings them inside.)
+116		[Cut back to Rachel’s date.]
+117	Rachel	 All gone! So, farm birds, huh?
+118	Joshua	 Yeah, it’s-it’s my only weird thing, I swear. And I-I-I would’ve told you about it, but I didn’t know they would be here.
+119	Rachel	 Oh.
+120	Joshua	 So, all right.
+121		(They both sit back down.)
+122	Rachel	 Okay. So, can I serve you a little of—What? What? What? (She sees that Joshua isn’t relaxed.)
+123	Joshua	 Nothing I uh, it’s just that I know that they’re still out there.
+124	Rachel	 But, they’re across the hall! I mean that’s two doors away, it would take them a long time to peck their way back over here.
+125	Joshua	 Okay, that’s-that’s not funny. Uhh.
+126	Rachel	 Okay, y’know, would you feel better if we went someplace else? I mean we could pack all this stuff up and y’know go to your apartment.
+127	Joshua	 Oh, they’re working on this week, it’s a total mess. But uh, I’m staying at my parents’ house, we could go there.
+128	Rachel	 Your parents’?
+129	Joshua	 Yeah, they’re out of town.
+130	Rachel	 Ohh.
+131	Joshua	 Yeah-yeah, it’s this huge place, and-and it’s got this gorgeous view of the park, and very, very romantic. What do you say?
+132	Rachel	 Yeah that works.
+133		(He moves to kiss her, but stops when he hears the duck.)
+134	Joshua	 They-they-they can smell fear.
+135	[Scene	 Ross’s apartment, Carol has come to pick up Ben.]
+136	Ross	 (opening the door.) Hey!
+137	Carol	 Hey! How’s Ben?
+138	Ross	 Well, I asked him if he wanted to eat, he said, "No." I asked him if he wanted to sleep, he said, "No." I asked him what he wanted to do, he said, "No." So, he’s sweeping. (We see Ben playing with a broom and a dustpan.)
+139	Carol	 Hey, Ben! Hey!
+140	Ross	 So umm, any word from Susan?
+141	Carol	 Ooh, yeah! She said she’s having sooo much fun with Emily.
+142	Ross	 Uh-huh. Uh-huh. Uh, by the by, did it uh, did it ever occur to you that, I don’t know, maybe they might be having a little too much fun?
+143	Carol	 What’s too much fun?
+144	Ross	 Y’know, the kind of fun, you and Susan had when we were married.
+145	Carol	 Oh my God, you are so paranoid!
+146	Ross	 Am I?!
+147	Carol	 Yes!
+148	Ross	 Am I?!
+149	Carol	 I can’t speak for Emily, but Susan is in a loving, committed relationship.
+150	Ross	 Uh-huh, Carol, so were we. All right, just-just imagine for a moment, Susan meets someone and-and they really hit it off. Y’know? Say-say they’re coming back from the theatre, and they-they stop at a pub for a couple of drinks, they’re laughing, y’know, someone innocently touches someone else… There’s electricity, it’s new. It’s exciting. Are you telling me there isn’t even the slightest possibility of something happening?
+151	Carol	 Maybe.
+152	Ross	 OH MY GOD!! I didn’t really believe it until you just said it!!
+153	[Scene	 Joshua’s parents’ apartment, Rachel and Joshua are entering.]
+154	Joshua	 …and even though none of the other kids believed me, I swear to God, that duck pushed me!
+155	Rachel	 Wow! This place is fabulous!
+156	Joshua	 Yeah, yeah, let me show you around. This is the uh, downstairs living room.
+157	Rachel	 Whoa-whoa, there’s two living rooms? God, growing up here, this place must’ve been a real babe magnet.
+158	Joshua	 Yeah, well, it would’ve been, but uh, my parents just moved here.
+159	Rachel	 Ohh, you should know, this place is a real babe magnet. Wanna make out?
+160		(They kiss.)
+161	Joshua	 Hey, here’s an idea. Why don’t uh, I put the food in the fridge and we can eat it later?
+162	Rachel	 That sounds like a plan. Umm, is there a place I can go freshen up?
+163	Joshua	 Oh yeah, yeah uh, it’s down the hall and uh, second door to your left.
+164	Rachel	 Ah.
+165		(She goes down the hall. Joshua goes to put the food away when his parents walk in.)
+166	Mrs. Burgin	 Oh, hi, darling!
+167	Joshua	 Mom, Dad, what are you guys doing here?
+168	Mrs. Burgin	 Oh, well we cut the trip short.
+169	Mr. Burgin	 France sucks!
+170	Joshua	 Umm, this may be a little weird, but I-I-I got a date here.
+171	Mrs. Burgin	 Oh, say no more!
+172	Mr. Burgin	 We’ll just grab some food and take it with us right upstairs, and we’ll be right out of you hair.
+173	Joshua	 Oh, that-that would be great. So you didn’t even get to Italy?
+174	Mr. Burgin	 Yep, sucks!
+175		(They all go into the kitchen. Just then, Rachel comes back from the bathroom; she had removed her dress and is wearing nothing but a lace nightie. She tries to find someplace seductive to wait for Joshua. She tries to sit on the piano, but it makes too much noise. So she goes over to the couch and kinda half lays down to wait for Joshua. Joshua comes in from the kitchen, sees Rachel, and freezes.)
+176	Rachel	 Hi you!
+177	Joshua	 Oh my God!
+178	Rachel	 I know, I can do more than cook.
+179		(Just then, his parents enter. Rachel gasps.)
+180	Mr. Burgin	 I like her. She sees smart.
+181		Commercial Break
+182	[Scene	 Joshua’s parents’ apartment, continued from earlier.]
+183	Joshua	 Uhh, Rachel, my parents…
+184	Rachel	 Ohh! It’s so nice to meet you. (She goes over and shakes their hands.) Hello.
+185	Mr. Burgin	 Hi.
+186	Rachel	 Hello.
+187	Mrs. Burgin	 Hello. Well, Joshua, that $500 was for groceries.
+188	Rachel	 What? This-this, no, oh no, no-no-no, this is not—that’s-that’s not what it is. See, see, okay, I work in fashion, see and-and, this is a real dress actually. It’s-it’s, they’re-they’re wearing it in Milan, so part of my job is too wear the clothes, and then I see how people respond, and then I report back to my superiors at Bloomingdale’s, so… And obviously in uh, in-in this case, (She grabs a pen and paper) I am going to report back, "USA not ready."
+189	Mrs. Burgin	 Maybe in L.A?
+190	Rachel	 Yes!
+191	Joshua	 There you go.
+192	Mr. Burgin	 So, have you kids eaten yet?
+193	Rachel	 Well, we were going to do that after—I mean umm, next.
+194	Mr. Burgin	 Well, we’re starving, why don’t we all go get something to eat?
+195	Rachel	 Oh, yeah, well… Yeah, no use wasting this baby, just lyin’ around the house.
+196	Mr. Burgin	 So… We go eat.
+197	Rachel	 Yes.
+198	Mr. Burgin	 You’ll wear that. We’ll be eating, and of course, you’ll be wearing that.
+199	[Scene	 Monica and Rachel's erm, Chandler and Joey's, Chandler is looking for a new name in Phoebe’s book of names.]
+200	Joey	 Dude, I am sorry about what I said!
+201	Chandler	 No, no, you’re right, it is a ridiculous name!
+202	Joey	 It’s not that bad.
+203	Chandler	 Yes it is! From now on, I have no first name.
+204	Joey	 So, you’re just Bing?
+205	Chandler	 I have no name.
+206	Phoebe	 All right, so, what are we supposed to call you?
+207	Chandler	 Okay uh, for now, temporarily, you can call me, Clint.
+208	Joey	 No way are you cool enough to pull of Clint.
+209	Chandler	 Okay, so what name am I cool enough to pull off?
+210	Phoebe	 Umm, Gene.
+211	Chandler	 It’s Clint. It’s Clint! (He heads for his bedroom.)
+212	Joey	 See you later, Gene.
+213	Phoebe	 Bye, Gene.
+214	Chandler	 It’s Clint! Clint!
+215	Joey	 What’s up with Gene?
+216	[Scene	 Central Perk, Rachel is telling Phoebe and Monica of her date.]
+217	Monica	 So, you wore your nightie to dinner?
+218	Rachel	 Oh, yeah. And uh, the best part though, when the uh, waiter spilled water down my back, I jumped up, and my boob popped out.
+219	Phoebe	 Oh my God!
+220	Monica	 Oh, no!
+221	Rachel	 No, it’s all right. I got nice boobs. (Phoebe and Monica nod there heads in agreement.)
+222	Ross	 (returning from the phone.) So, I just picked up a message from Emily, she and Susan are going to a poetry reading together!
+223	Rachel	 So?
+224	Ross	 So! Poetry? Susan’s gay! They’re being gay together!
+225	Monica	 Emily’s straight.
+226	Ross	 Oh, wake up!
+227	Phoebe	 Wow, Carol really messed you up!
+228	Ross	 Excuse me?
+229	Phoebe	 Yeah, she turned you into this-this-this untrusting, crazy, jealous, sycophant. (They all look at her.) All right, so I don’t know what sycophant means, but the rest is right.
+230	Ross	 Look, I don’t know what you’re talking about, I am not a crazy, jealous person.
+231	Rachel	 Huh.
+232	Ross	 What?
+233	Rachel	 She’s totally right! When we were together, you got all freaked out about Mark and there was nothing going on.
+234	Monica	 This totally makes sense!
+235	Ross	 It does not!
+236	Monica	 Oh, sure it does! In high school, you weren’t jealous at all even though all your girlfriends were cheating on you!
+237	Phoebe	 All right, all right, so up until ‘92-93 he was very trusting, then ’94 hit, Carol left him and bamn! Paranoid city!
+238	Rachel	 Absolutely! Absolutely!
+239	Monica	 This is so much fun!
+240	Ross	 This is not fun!
+241	Monica	 Look, all we’re trying to say is, don’t let what happened with Carol ruin what you got with Emily.
+242	Phoebe	 Yeah. The ’92 Ross wouldn’t.
+243	Ross	 Well, I still think I was right about that whole Mark thing.
+244	Rachel	 What—yeah—what, y’know what? I hope Emily is a lesbian.
+245	[Scene	 Monica and Rachel's erm, Chandler and Joey's, Phoebe is showing off more of her drum skills to Joey by rubbing one of the sticks back and forth across the drum.]
+246	Phoebe	 Drum roll.
+247	Chandler	 (entering) Okay. Okay. All right. Help! Am I a Mark, or a John?
+248	Joey	 Nah, you’re not tall enough to be a Mark, but you might make a good Barney.
+249	Chandler	 All right look, am I serious, okay? Tomorrow at 3
+250	Phoebe	 You’re actually going through with this?
+251	Chandler	 Hey, look, this name has been holding me back my entire life. Okay, it’s probably why kids picked on me in school, and why I never do well with women… So, as of 4 o’clock tomorrow, I’m either gonna be Mark Johnson or John Markson.
+252	Phoebe	 You got problems because of you! Not your name! All right, this has got to stop! Chandler is a great name! In fact—yes, (To Joey) I’m, I’m sorry. I know you really wanted me to name the baby Joey, but eh, so, I’m-I’m, I’m gonna, I’m gonna name the baby Chandler.
+253	Chandler	 (pleased) Really?!
+254	Phoebe	 Yeah, but you have to keep the name too!
+255	Chandler	 Okay. Thanks.
+256	Phoebe	 Okay!
+257	Chandler	 You wanna hug it out?
+258	Phoebe	 Yeah!
+259		(They both hug.)
+260	Phoebe	 Yay!
+261	Chandler	 Yay!
+262	Phoebe	 Yay—oh—yay! Okay, I gotta go tell Frank and Alice! Right now!
+263	Chandler	 Okay!
+264	Phoebe	 Ooh, uh… (She grabs her coat and runs out.)
+265	Chandler	 Bye, Pheebs!
+266	Phoebe	 Okay, bye!
+267		(She exits, and after the door is closed, Chandler turns to Joey and…)
+268	Chandler	 Ha! Ha! Ha!
+269	Joey	 Ohh! (Realises it was all a trick to get Phoebe to name the baby Chandler.)
+270		Closing Credits
+271	[Scene	 The Airport, Carol and Ross are waiting for Emily and Susan to deplane. A gorgeous woman walks by and they both turn to watch her go.]
+272	Ross	 Nice luggage.
+273	Carol	 I was gonna say…
+274		(Susan and Emily get off.)
+275	Susan	 Hey!
+276		(They both run and hug they’re respective partners.)
+277	Ross	 Hi!
+278	Emily	 Hey! I missed you.
+279	Ross	 Oh, I missed you too.
+280	Susan	 (To Emily) Thanks for everything, I had such a great time.
+281	Emily	 Oh, so did I.
+282		(They hug and give each other a little peck on the cheek.)
+283	Ross	 (To Carol) No tongue. (And gives her the thumbs up.)
+284		End

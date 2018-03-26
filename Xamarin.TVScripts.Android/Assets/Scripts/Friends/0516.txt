@@ -1,0 +1,306 @@
+1	Story by	 Alicia Sky Varinaitis Teleplay by
+2	[Scene	 Chandler and Joey's, Monica and Chandler are sitting on one of the chairs doing a crossword puzzle.]
+3	Joey	 Hey!
+4	Chandler	 Hey!
+5	Monica	 Hey!
+6	Joey	 What are you guys doing up?
+7	Chandler	 Oh, we wanted to finish the crossword before we went to bed. Hey, do you know a six-letter word for red?
+8	Joey	 (thinks) Dark red.
+9	Chandler	 Yeah, I think that's wrong, but there's a Connect the Dots in here for you later. (To Monica) Hey, how about maroon?
+10	Monica	 (checks to see if it works) Yes, you are so smart! (Kisses him.)
+11	Joey	 Aww, you guys are so cute!
+12	Monica	 I know.
+13	Joey	 All right, I'll see you in the morning.
+14	Chandler and Monica	 Okay.
+15	[Scene	 Joey's bedroom, time lapse. He's asleep and dreaming. In his dream he's doing the crossword puzzle with…wait for it…Monica!]
+16	Dream Monica	 Y'know, I love doing crossword puzzles with you honey!
+17	Dream Joey	 Aww, me too. Now let's finish this and go to bed.
+18	Dream Monica	 Okay! There's only one left, three letter word, not dog but…
+19	Dream Joey	 Cat.
+20	Dream Monica	 Yes! You are so smart! (Kisses him.) I love you.
+21	Dream Joey	 I love you too.
+22		(They hug.)
+23		[Cut back to Joey in bed, he's smiling, enjoying the dream as he wakes up. Suddenly, he realized what he was dreaming about and bolts upright in bed.]
+24		Opening Credits
+25	[Scene	 Central Perk, everyone is there but Ross and Joey. Gunther hands them the bill, and Chandler gives some money to pay it.]
+26	Rachel	 (looking at the bill) Uhh, we still need a tip.
+27	Phoebe	 All right. Hold on. (She starts digging in the chair.) I got it. Nickel! (Donates it.) How much more do we need?
+28	Rachel	 A couple of bucks.
+29	Phoebe	 Okay, dime! (Donates that.) You guys should probably keep talking; this could take a while. (Finds something else.) Oh no, wait! Look it! Whoa! (Looks at it.) Oh my God, this is a police badge!
+30	Monica	 Wow!
+31	Chandler	 Oh that's so cool! Why would a cop come in here though? They don't serve donuts. (No one laughs.) Y'know what actually, could you discover the badge again? I think I can come up with something better than that.
+32	Rachel	 Phoebe, I bet somebody's missing that badge.
+33	Phoebe	 Yeah, I should probably take it back. Ooh, but you know what? While I'm at the police station, I could check their Ten Most Wanted lists because my friend Fritzy has been like number 11 forever, so this could be her year! (She crosses her fingers in hope.)
+34	Joey	 (entering) Hey, you guys!
+35	Chandler	 Hey!
+36	Rachel	 Hey Joey!
+37	Monica	 Hey.
+38	Joey	 (To Monica) Hey. That uh, that my sweatshirt?
+39	Monica	 Oh yes, it is. I'm sorry I borrowed it, I was cold. I hope its okay?
+40	Joey	 Well uh, it's just that uh, y'know if-if you're gonna be wearing someone's sweatshirt shouldn't it be your boyfriends--and I’m not him.
+41	Monica	 I'm sorry, I'll give it back to you.
+42	Joey	 No-no! No! I mean it's gonna be all smelling like Monica!
+43	Monica	 Are you saying I smell bad?
+44	Joey	 No! No, you smell like a meadow. (Pause.) I'm sorry. (Runs to the bathroom.)
+45	Monica	 What's with him?
+46	Chandler	 Oh, y'know what? The last time Joey went to a meadow, his mother was shot by a hunter.
+47	[Scene	 A couch store, Ross is trying to decide on a new couch for his place. He has dragged Rachel along for the trip, and she's not too happy about it. Ross is sitting on it in different ways to see how it feels. He tries to just sit on it normally, and then he tries flopping on it. One thing about this couch, it's huge. It's like twice the size of a normal full size couch. Whoever designed this thing, needs help and fast.]
+48	Rachel	 (disgusted at Ross's antics) Ugh!
+49	Ross	 (To Rachel) Yeah, I still don't know. (To the salesman who is hovering nearby) I'm sorry I just wanna make sure that I bought the right couch. I need a couch that says, "Kids welcome here." But that also says, (In a sexy voice) "Come here to me!"
+50	Rachel	 What?! You say that to kids?!!
+51	Ross	 No! No! No! The "Come here to me" is y'know for the ladies.
+52	Rachel	 Ross, honey, it's a nice couch. It's not a magic couch.
+53	The Salesman	 You picked a great couch.
+54	Ross	 Yeah?
+55	The Salesman	 Yeah. Could you just sign right here please? (Hands him a clipboard.)
+56	Ross	 Oh, sure. Whoa-whoa, what's this? The delivery charge is almost as much as the couch!
+57	Rachel	 Wait! No, that's ridiculous. Come on, he lives three blocks away!
+58	Ross	 Yeah, y'know what? I'll take it myself, thank you! (He signs the form and hands it back to the salesman.) All right Rach, let's go! (He picks up one end of the couch.)
+59	Rachel	 Yeah! (She puts on her coat and turns around and sees Ross is expecting her to help.) (Laughing.) Are you kiddin'?
+60	Ross	 Oh, come on it's only three blocks! And-and, it's not very heavy, try it! Come on! Come on!
+61	Rachel	 (Disgustedly she goes and tries to pick up the couch. Much to her amazement, she is successful.) Oh. Oh! I can do it!
+62	Ross	 Yeah!
+63	The Salesman	 You two are really gonna enjoy that couch.
+64	Ross	 Oh yeah, we're uh, yeah we're not together. (He starts backing out of the store.)
+65	The Salesman	 Ohh, okay. (Laughs.) Something didn't quite add up there. (Ross stops, walks back to talk to the salesman, and in the process pushes Rachel up against a wall.)
+66	Rachel	 Ross!
+67	Ross	 What's that supposed to mean?
+68	Rachel	 Ross!
+69	The Salesman	 Well you, her, I mean, she's very…y'know. And you're like…y'know.
+70	Ross	 Not that it's any of your business, but we did go out.
+71	The Salesman	 Really? You two?
+72	Ross	 Yeah! Rach?
+73	Rachel	 Come on, I don't really want to be doing this right now. I am carrying a very heavy couch.
+74	Ross	 Then tell him quickly.
+75	Rachel	 (To Ross) Fine! (To the salesman) We went out.
+76	Ross	 Not only did we go out, we did it 298 times!
+77	Rachel	 Ross!! Oh my--ugh!! You kept count?! You are such a loser!
+78	Ross	 A loser you did it with (To the salesman) 298 times!
+79		(Rachel pushes on the couch and pushes Ross out the door.)
+80	[Scene	 Outside of Central Perk, Phoebe is exiting and sees a woman put out her cigarette on a tree.]
+81	Phoebe	 Oh. Oh! Ma'am? Excuse me, ma'am?
+82	The Smoking Woman	 Yes?
+83	Phoebe	 You can't put your cigarette out on a tree!
+84	The Smoking Woman	 Yeah I can, it worked real well.
+85	Phoebe	 No but you shouldn't! Don't ever do that again.
+86	The Smoking Woman	 I won't! (Turns away) Until I have my next cigarette.
+87	Phoebe	 Hold it! (Grabs the badge) N.Y.P.D! Freeze punk!
+88	The Smoking Woman	 What?!
+89	Phoebe	 Yeah that's right you are so busted. (To no one in particular.) Book 'em.
+90	The Smoking Woman	 Who are you talking too?
+91	Phoebe	 Save it Red! Unless you wanna spend the night in the slammer, you apologize to the tree.
+92	The Smoking Woman	 I am not going to apologize to a tree!
+93	Phoebe	 You apologize to the tree right now or I am calling for backup. (The woman calls her bluff.) (Screaming at no one in particular) Backup! Backup!!
+94	The Smoking Woman	 I-I'm sorry! Sorry.
+95	Phoebe	 Okay, cancel backup! Cancel backup!
+96	[Scene	 Ross's building's lobby, he and Rachel are about to attempt to take the couch upstairs.]
+97	Ross	 Okay. (Throws off the last cushion.)
+98	Rachel	 Ross, didn't you say that there was an elevator in here?
+99	Ross	 Uhh, yes I did but there isn't. Okay, here we go.
+100		(They start the attempt. Ross is going backwards and reaches the first landing. This staircase has three steps then a landing, makes a 90-degree turn, and has more steps before another landing and another 90-degree turn.)
+101	Ross	 Okay, go left. Left! Left! (The bottom of the couch is hitting the railing.)
+102	Rachel	 Okay, y'know what? There is no more left, left!
+103	Ross	 Oh okay, lift it straight up over your head! Straight up over your head! You can do it! You can do it! (She gets it lifted up and they make the first turn.) Okay. You got it?
+104	Rachel	 Yeah.
+105	Ross	 Good-good-good.
+106	Rachel	 Oh-oh!
+107		(She can't stay at the end as the couch rounds the turn so she shifts to the back corner of the couch and is at a 90-degree angle to it.)
+108	Ross	 Yeah, you got it right? You got it right? You got it?
+109		(She don't got it as the couch slips out of their grips and falls over the bottom railing.)
+110	Rachel	 Any chance you think the couch looks good there?
+111	[Scene	 Chandler and Joey's, Phoebe is telling Chandler and Monica how she fought crime in her own way with the badge she found.]
+112	Phoebe	 …so this guy was all (Mumbles.) And I'm all, Buffay, Homicide. (Flashes the badge.) It was just so cool!
+113	Monica	 (cooking something) Phoebe, you were supposed to take that back!
+114	Phoebe	 I know but I'm having so much fun doing good deeds.
+115	Chandler	 Okay, but impersonating a police officer is a serious thing. You could get arrested.
+116	Phoebe	 You could get arrested, right now! (Flashes the badge and they glare at her.) All right, yeah, I gotta take it back. I'm totally drunk with power. (She heads for the door just as Joey enters.)
+117	Phoebe	 (To Joey) Hey.
+118	Joey	 (To Phoebe) Hey! (Sees that Monica's there.) Oh.
+119	Chandler	 Hi, Joe.
+120	Joey	 Yeah, I didn’t know you guys were going to be here.
+121	Monica	 Hey Joey, sweetie, taste this. (Holds out a spoon for him.)
+122	Joey	 (backing away) What?! Why?!
+123	Monica	 What is going on with you?
+124	Joey	 Nothing!
+125	Chandler	 Oh, come on! You've been acting strange all day!
+126	Joey	 All right! There is something. I kinda had a dream, (pause) but I don't want to talk about it. (Starts for his room.)
+127	Chandler	 Whoa-whoa-whoa-whoa-whoa-what-what if Martin Luther King had said that? (Imitating what his famous speech would sound like.) I kinda have a dream! I don’t want to talk about it.
+128	Joey	 Well, it involved Monica.
+129	Chandler	 You had a dream about a girl that I am seeing?! Oh, that is so cool! (To Monica) I can't tell you how many times I've dreamt about a girl that he was seeing. (Seeing Monica's stare.) (To Joey) Anyway we're talking about your dream. (To Monica) I love you. (To Joey) Your dream? (Leans in to listen closely.)
+130	Joey	 Don't worry, there wasn't any sex in it or anything. I haven't dreamt about her like that since I found out about you two--ish.
+131	Monica	 What was the dream about?
+132	Joey	 Well, okay. You were my girlfriend and we were doing the crossword puzzle. Y'know like you guys were doing last night. So, that's it. I'm in love with Monica and I'll be moving out.
+133	Monica	 Wait, Joey! Joey! That doesn’t mean that-that you're in love with me!
+134	Joey	 It-it doesn’t?
+135	Monica	 No!
+136	Chandler	 No, it can mean anything. Like uh, all of the sudden you're jealous because I've become the apartment stud.
+137	Joey	 That kinda sounds like your dream dude.
+138	Monica	 Or, it could mean that-that you saw Chandler and me together and we y'know were being close and stuff and then you just want to have that with someone too.
+139	Joey	 In the dream I did enjoy the closeness.
+140	Monica	 Um-hmm.
+141	Chandler	 Joey, look, are you attracted to Monica? Right here, right now, are you attracted to her?
+142	Joey	 (looks at her) Not really.
+143	Chandler	 Well there you have it!
+144	Monica	 Well sure! I'm just wearing sweats! (Looking at Chandler and slowly realizing what his point is.) But that's good that you're not in love with me, because you just want a girlfriend!
+145	Joey	 No, I don't think it's just about just getting a girlfriend. Y'know? I mean, yeah, I can get a girlfriend! Yeah, we could sit in the chair and do crosswords, but y'know are we ever going to have y'know the closeness like-like you guys have?
+146	Chandler	 Well y'know, Monica and I were friends before we started dating. So maybe-maybe that's it?
+147	Joey	 Friends first? That's interesting.
+148	Monica	 You become friends after?
+149	Joey	 No, never done that either.
+150	Rachel	 (entering) Hey, umm, do you guys have that tape measure?
+151	Chandler	 Oh yeah, it's actually in my bedroom.
+152		(Monica and Chandler both remember a special moment between them.)
+153	Monica	 (laughing) That's right.
+154		(They realize the implication of their behavior, stop instantly and head for his bedroom. In the meanwhile, Joey is starring at Rachel in a seductive way.)
+155	Rachel	 (noticing him) What's up Joey?
+156	Joey	 (in a sexy voice) How you doin'?
+157		(Rachel is stunned.)
+158		Commercial Break
+159	[Scene	 Outside Central Perk, Phoebe is walking up and notices a car that is parked half on the curb and right in front of the door, making it difficult for people to enter Central Perk.]
+160	Phoebe	 Excuse me, is this your car?
+161	Guy	 Yeah.
+162	Phoebe	 Well I don't think it's very nice of you to park here, y'know you're blocking the entrance.
+163	Guy	 Don't worry about it. It's not a problem.
+164	Phoebe	 Well, it's a problem for me, which means it's a problem for you 'cause I'm a cop. (Shows the badge.)
+165	Guy	 (he reaches into the car and slams his siren on the roof.) So am I!
+166	Phoebe	 Ohh, no. (Pause) Oh okay, so you're a cop which means you can park anywhere, 'cause I know that 'cause I'm a cop too. So, all right, keep up the good work. 10-4. (Tries to leave.)
+167	Cop	 (stopping her) Hey, wait a second! So wait, what precinct are you with?
+168	Phoebe	 I-I'm with the umm, the 57th.
+169	Cop	 Oh, I know a guy in homicide up there.
+170	Phoebe	 I'm in vice. Yeah, in fact I'm undercover right now. I'm a whore.
+171	Cop	 Who-who else is in vice up there?
+172	Phoebe	 Umm, do you know, umm Sipowicz?
+173	Cop	 Sipowicz? No, I don't think so.
+174	Phoebe	 Yeah, big guy, kinda bald.
+175	Cop	 No, I don't know him.
+176	Phoebe	 (starts to walk away, but stops) Don’t try to call him or anything, 'cause he's not there, he's out. His umm, his partner just died.
+177	Cop	 Wow umm, tell Sipowicz I'm real sorry for his loss.
+178	Phoebe	 I-I sure will, take care. (Starts walking off.)
+179	Cop	 (following her) Hey by the way, I'm sure Sipowicz is gonna be all right. I heard that kid from Silver Spoons is really good. (Phoebe's stunned) And where did you find my badge?
+180	Phoebe	 Oh. (She starts laughing. Then she throws the badge at him and runs away.)
+181	[Scene	 Monica and Rachel's, Joey is entering. Rachel is there getting some tools to help Ross out.]
+182	Rachel	 Hey! Joey, would you mind giving me and Ross a hand moving his couch?
+183	Joey	 Oh, I'd love too, but I got acting class. But y'know what? I guess I can blow that off, (In a sexy voice) for you.
+184		(He starts staring at her longingly.)
+185	Rachel	 Thanks!
+186	Joey	 Uh, hey, Rach let me ask you something. Uh, I was just over there talking to Monica and Chandler, boy they are really tight.
+187	Rachel	 I know.
+188	Joey	 Yeah that's not such a bad situation they got going over there. I'm thinking of getting me one of those.
+189	Rachel	 What's up Joe?
+190	Joey	 Well, the reason I think Monica and Chandler are so great…
+191	Rachel	 Yeah?
+192	Joey	 …is because they were friends first. Y'know? So I asked myself, "Who are my friends?" You and Phoebe, and I saw you first. So…
+193	Rachel	 (laughing) What are you saying?
+194	Joey	 I'm saying maybe you and I crank it up a notch.
+195	Rachel	 Y'know honey, umm, as uh, as flattered as I am that uh, you saw me first, uhh, I just, I-I don't think we should be cranking anything up.
+196	Joey	 I'll treat you real nice. (Pulls out a chair for her.)
+197	Rachel	 (laughs and pushes the chair back in) Yeah, well, y'know umm… No honey, listen I think it's a great idea to become friends with someone before you date them, but I think the way you do it is y'know you meet someone, become their friend, build a foundation, then you ask them out on a date. Don't hit on your existing friends!
+198	Joey	 Won't-won't that take longer?
+199	Rachel	 Yeah. Yeah. Oh, but once you find it, ohh it's so worth the wait.
+200	Joey	 Yeah. I understand. I understand. (Pause) Man, I wish I saw Phoebe first!
+201	[Scene	 The lobby of Ross's building, he's sitting on the couch at the bottom of the stairs, and he's practicing enticing women to join him on the couch.]
+202	Ross	 Come here to me. No-no, you come here to me.
+203	Rachel	 (entering) Hey Ross! I brought reinforcements.
+204	Ross	 Oh great! What, you brought Joey?
+205	Rachel	 Well, I brought the next best thing.
+206	Chandler	 (entering) Hey!
+207	Ross	 Chandler?! You brought Chandler?! The next best thing would be Monica!
+208	Chandler	 Y'know, I would be offended, but Monica is freakishly strong, so…
+209	Ross	 Look, I-I drew a sketch about how we're gonna do it. (Showing them) Okay Rach, (points to the sketch) that's you. That's the couch. (Points again.)
+210	Rachel	 Whoa-oh, what's-what's that? (Points.)
+211	Ross	 Oh, that's me.
+212	Rachel	 Wow! You certainly think a lot of yourself.
+213	Ross	 No! That's-that's my arm!
+214	Chandler	 (looking at the sketch) Oh, I see. I thought you just really, really liked your new couch.
+215	Ross	 Y'know what? Just-just follow my lead.
+216		(Chandler and Ross head for opposite ends of the couch.)
+217	Rachel	 Okay!
+218	Chandler	 Okay.
+219	Ross	 Come on, Chandler.
+220		(They pick up the couch and after throwing off the last pillow; Rachel helps out on Chandler's end.)
+221	Ross	 All right. (They start up the stairs. Ross is first.) Okay, here we go!
+222		(Chandler has moved forward and is now underneath the couch as it heads up the first set of stairs.)
+223	Ross	 All right, ready?
+224	Chandler	 Yeah.
+225	Ross	 Turn.
+226	Chandler	 (straining) Okay.
+227	Ross	 Turn! Turn!
+228		(As they turn the couch, Chandler gets sandwiched between the railing and the couch.)
+229	Chandler	 Okay, I don't think we can turn anymore!
+230	Rachel	 Ross, I don't, I just don't think it's going to fit.
+231	Ross	 Oh yeah it will! Come on, up! Up-up-up! Up! Yes! Here we go! Pivot! (They start up the stairs again. Chandler is between the couch and the wall now.) Pivot! Piv-ot! Piv-et!! Piv-ett!!! Piv-et!
+232	Chandler	 Shut up! Shut up! Shut up!!
+233		(They set the couch down.)
+234	Ross	 Okay, I don't think it's going to pivot anymore.
+235	Chandler and Rachel	 You think?!
+236	Ross	 All right, let's uh, let's bring it back down and-and try again.
+237		(As they start back down the couch drops a little bit and gets jammed. They try to free it to no avail.)
+238	Chandler	 Okay, yeah, I think it's really stuck now.
+239	Ross	 I can't believe that didn't work!
+240	Rachel	 I know, me neither! I mean, you had a sketch!
+241	Chandler	 Oh, y'know, what did you mean when you said pivot?
+242	[Scene	 Chandler and Joey's, Joey is returning and finds Chandler, Monica, and Rachel are there.]
+243	Joey	 (entering) Hey!
+244	Rachel	 Hey! How's it going? Did you make any new friends?
+245	Joey	 Yeah, yeah, I met this woman. (Starts for his room.)
+246	Chandler	 (stopping him) Hey, whoa-whoa! What's she like?
+247	Joey	 Uhh, well, she's…really good in bed.
+248	Monica	 Joey, I thought you were gonna try to be friends first!
+249	Joey	 (To Rachel) Well look, hey, it's all your fault!
+250	Rachel	 What?! Why?!
+251	Joey	 Well because you didn't give me advice! No! You gave me a pickup line! As soon as I told her I wanted to y'know, build a foundation and be friends first. I suddenly, through no fault of my own, became irresistible to her! (Pause) And her roommate!
+252	Monica	 What about the closeness?
+253	Joey	 Closeness-shmoshness! There was three of us for crying out loud!
+254	[Scene	 Monica and Rachel's, Joey is entering with a pizza and finds everyone but Ross there.]
+255	Joey	 (entering) All right! Hey, who wants pizza?!
+256	Chandler	 Ooh, I do! I do! I do!
+257		(They all walk over to get a slice.)
+258	Joey	 (taking a bite) Oh, great! Can you believe I found it on the second floor?
+259		(They all throw their pieces back as there is a knock on the door.)
+260	Monica	 Who is it?
+261	Voice	 N.Y.P.D!!
+262	Phoebe and Joey	 Oh my God!
+263	Joey	 Uhh, just a minute officer!!
+264		(He throws his piece back in the box, runs into the living room, looks for a place to hide the pizza, finds one, slides the box under the couch, sits down on the table, and tries to quickly chew the food in his mouth.)
+265	Cop	 I'm looking for Phoebe Buffay!
+266	Phoebe	 Ooh, God, it's him! It's that cop! God, I can't believe it! He found me!
+267	Rachel	 Oh my God, Phoebe, are you gonna go to jail?!
+268	Phoebe	 Well, if I'm going down, I'm taking you (Points at all of them) with me. (They all look at her.) Harboring a fugitive? That's one to three years minimum. Good luck Chandler. (She opens the door to the cop from before.) Okay, you can arrest me. Fine. But you'll never make it stick and you know it!
+269	Cop	 Yeah, but I kinda don't have a choice, it's my job. I mean, you understand right?
+270	Phoebe	 Yep! As long as you understand that I'm going to call my lawyer and once he puts you on the stand he'll make you look like a fool. A fool!
+271	Cop	 I don't like looking foolish. Y'know what? Maybe uh, I don't arrest you today. Maybe I came by and you weren't here.
+272	Phoebe	 I would love it if I weren't here!
+273	Cop	 Okay, so since umm, you're not going to jail tonight I was wondering if you would like to go to dinner with me?
+274	Phoebe	 Me?!
+275	Cop	 Yeah. Ever since you flashed my badge at me, I kinda can't stop thinking about you. You're the prettiest, fake undercover whore I've ever seen.
+276	Chandler and Joey	 Nice!
+277	Phoebe	 Wow! I didn't see that coming! You're-you're asking me out!
+278	Cop	 Yeah. I mean, I coulda done it better, but these people keep staring at me.
+279	Phoebe	 Umm, yeah, I'd like to go out with you officer…
+280	Cop	 Gary.
+281	Phoebe	 Gary.
+282	Gary	 Okay, so it's a date.
+283	Phoebe	 Yeah! So--ooh, I gotta ask you though. How did you know where to find me?
+284	Gary	 Well you're fingerprints were all over my badge so I just ran it through the computer and this was listed as your last known address so I just checked it out.
+285	Phoebe	 Ohh, impressive.
+286	Gary	 Not as impressive as you. I gotta tell you, I looked at your record and you've done some pretty weird stuff.
+287	Phoebe	 Yeah, we'll talk at dinner.
+288	Gary	 Okay. (He starts to leave.) So I'll come by in a couple hours and pick you up?
+289	Phoebe	 All right, I can't wait!
+290	Gary	 Okay. And don't worry, I'm not just gonna take you out for donuts.
+291		(Chandler busts out laughing and everyone just looks at him.)
+292	Chandler	 (To Rachel) He has a gun!
+293		Closing Credits
+294	[Scene	 The couch store, Ross is talking to a saleswoman.]
+295	Ross	 I'd like to return this couch. I'm not satisfied with it.
+296		[The camera cuts to show the couch, which has been cut in half.]
+297	The Saleswoman	 You wanna return this couch? (Ross nods yes.) It's cut in half!
+298	Ross	 That's what I'm telling you.
+299	The Saleswoman	 Did you cut this couch in half?
+300	Ross	 This couch, is cut in half! I would like to exchange it for one that is not cut in half!
+301	The Saleswoman	 You're telling me this couch was delivered to you like this?!
+302	Ross	 Look, I am a reasonable man. I will accept store credit.
+303	The Saleswoman	 I'll give you store credit in the amount of four dollars.
+304	Ross	 (thinks) I take it.
+305		End
+306	webbot bot="ImageMap" startspan rectangle="(136,1) (193, 80) http	//thecfsi.com/season5.htm" rectangle="(68,0) (126, 80) http

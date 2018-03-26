@@ -1,0 +1,6 @@
+1	Originally written by Transcribed by	 Josh Hodge With Minor Adjustments by
+2	[Scene	 Chandler and Joey's apartment. Joey and Chandler enter with Chandler covering his eyes and Joey leading him.] JOEY
+3	RACHEL	 Just one cheek. ROSS
+4	ROSS	 I've no idea, could be. Listen, I'm sorry I had to work tonight. RACHEL
+5		END
+6	webbot bot="ImageMap" startspan rectangle=" (139,3) (197, 84) http	//thecfsi.com/season2/216jmo.htm" rectangle=" (70,2) (131, 84) http

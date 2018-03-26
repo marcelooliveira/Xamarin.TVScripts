@@ -1,0 +1,316 @@
+1		- More Quiz's- General Updates
+2		- Support This Site!
+3		
+4		--------------------------------------------------------------------------------
+5	Written by	 Scott Silveri Produced by
+6	[Scene	 Central Perk. Everyone's sitting on the couch.Monica and Chandler enter]
+7	Chandler	 Hi!
+8	Ross	 Hey!
+9	Monica	 Hey!
+10	Chandler	 We're just here to say goodbye, we're off to Ohio.
+11	Phoebe	 Oh, right! Your adoption interview!
+12	Monica	 Yep, we're gonna meet the lady who could be carrying our baby.
+13	Joey	 I can't believe it. When you guys come back, you're gonna have a baby! That is so weird!
+14	Chandler	 And so incorrect!
+15	Monica	 She's only a couple of months pregnant. She liked our application but who knows if she's gonna like us.
+16	Ross	 Come on, she's gonna love you guys!
+17	Chandler	 Uhm, thank you, but we're really trying not to get our hopes up.
+18	Monica	 And a lot could still get in our way.
+19	Chandler	 Yeah. I mean, this girl could decide against adoption or she could like another couple better..
+20	Phoebe	 What are you gonna name the baby?
+21	Chandler	 I can develop a condition in which I talk and talk and no one hears a word.
+22	Joey	 But just think, ok? What if everything goes right? What if this woman does pick you guys?
+23	Monica	 Oh my God. She's gonna pick us!
+24	Chandler	 So we're standing firm on the 'not getting our hopes up'?
+25	Monica	 You know, I know that things could still go wrong but if they don't? If this works out, we're gonna have a baby Chandler, a baby!
+26	Chandler	 Yes, but...
+27	Monica	 Oh my God, it's gonna WORK! We're gonna make it work! I'm gonna be a mummy and (to Chandler) you're gonna be a daddy! All right, I'll see you suckers. I'm gonna get me... A BABY! (she leaves)
+28	Chandler	 Oh, screw it, I'm gonna be a daddy!!
+29	OPENING CREDITS [Scene	 Central Perk. Phoebe's speaking to a girl.] Rachel
+30	Joey	 I'm gonna say someone I'm gonna have sex with. (the girl leaves and Phoebe goes toward the couch) (to Phoebe) Hey!
+31	Phoebe	 Hey!
+32	Joey	 So... who's your friend?
+33	Phoebe	 Oh, that's Sarah. No, no. Don't you get any ideas, ok? No, I'm not setting you up with any more of my friends!
+34	Joey	 OW, why, why, why?
+35	Phoebe	 Because you'll date her once, sleep with her and then forget she exists!
+36	Joey	 Oh, name one friend of yours that I did that with.
+37	Phoebe	 Mandy.
+38	Joey	 Mandy, uh? Uh... really hot blonde, big boobs?
+39	Phoebe	 No.
+40	Joey	 I know why I don't remember her, huh? (he winks at Rachel)
+41	Rachel	 Do you think I'm someone else?
+42	Joey	 Ok, I may not have treated your friends well in the past, but I have grown up a lot, really. Honest, Rach?
+43	Rachel	 Well, believe it or not, it's true. When Joey and I were together, he was wonderful. He was thoughtful and mature. And for the one week that we went out, he didn't sleep with anybody else!
+44	Joey	 (pointing at himself) Growth!
+45	Phoebe	 Fine, I'll give you her number.
+46	Joey	 Ok, thank you. And I promise you I will not forget this one. (he starts writing on his hand) Mandy.
+47	Phoebe	 SARAH!
+48	Joey	 Saraaah.
+49	Ross	 (entering) Hey!
+50	Rachel	 Hi!
+51	Ross	 Hey you guys, I need some fashion advice.
+52	Rachel	 Oh!
+53	Ross	 (he takes a baby blue beret out of a shopping box and puts it on) How does this look?
+54	Rachel	 Well, it's a little low... pick up a little... (Ross picks it up) a little bit more... (he picks it up again) a little bit more... (he takes it off) There you go! (pause) Now throw it away!
+55	Ross	 C'mon! This looks good!
+56	Rachel	 Ross, please, trust me. I buy 30 fashion magazines a month. Now, I don't know who's running for president or who that... NATO guy is, but I do know that you have to get as far away as you can from that hat.
+57	Ross	 Damnit! I have this date tomorrow night and I have to look cool!
+58	Phoebe	 Well, you know, if you want fashion help, Rachel and I are going shopping tomorrow. You're more than welcome to come with us, right?
+59	Ross	 Really? That would be great. I mean, I have to do something, she kinda teased me about how I dress.
+60	Joey	 I can see why, nice shirt!
+61	Ross	 You're wearing the same shirt.
+62	Joey	 Stupid Gap on every corner!
+63	[Scene	 The Adoption Agency in Ohio. Monica and Chandler are entering with a man.]
+64	Agency guy	 Please, make yourself comfortable and I will back in a moment with Erica.
+65	Monica	 Ok, thank you.(the man leaves) Uh, well this is it. Are you OK?
+66	Chandler	 Yeah. Just weird, you know. It's like
+67	Monica	 Uh, we're gonna be great.
+68	Chandler	 You're gonna be great.
+69	Monica	 Well... obviously!
+70	Agency guy	 (he enters with Erica) Monica, Chandler. I'd like you to meet Erica.
+71	Monica	 Hi. It is so, so nice to meet you.
+72	Erica	 (whispering) Hi...
+73	Chandler	 Thank you so much for agreeing to see us.
+74	Erica	 Hi.
+75	Agency guy	 I'll let you get acquainted.
+76	Chandler	 Ok.
+77	Erica	 So, it's Monica and Chandler. I only know you as file 0W33815-D.
+78	Chandler	 That's what our friends call us.
+79	Erica	 Gosh, you know, you're just such an amazing couple. It's... kind of intimidating.
+80	Monica	 I don't know about that.
+81	Erica	 You're kidding me? I mean, it's enough that you are a doctor. But on top of it, you're married to a reverend?
+82	Chandler	 (astonished) I don't think that's exactly...
+83	Monica	 (overlapping) Let her finish, doctor.
+84		
+85	[Scene	 Central Perk]
+86	Phoebe	 Hey!
+87	Joey	 Hey.
+88	Phoebe	 Oh, my friend Sarah had a great time last night.
+89	Joey	 Well...
+90	Phoebe	 Yeah! So you're gonna call this one back?
+91	Joey	 Nope.
+92	Phoebe	 What are you talking about? Sarah's great!
+93	Joey	 Oh, really? You know what your great friend did? We're out to dinner, ok? (he starts talking about the date and we can see what happened through a flashback video) We're getting along, having a really nice time. I was thinking she was really cool. And then, out of nowhere...
+94		(Sarah picks up some fries from Joey’s plate and Joey looks very angry. Then we’re back to Central Perk and Joey does a you-see-what-I-mean look to Phoebe)
+95	Phoebe	 That’s it? That’s why you won’t go out with her again? So, she took some fries, big deal!
+96	Joey	 Hey, hey, look! It’s not about a few fries... it’s about what the fries represent.
+97	Phoebe	 What?
+98	Joey	 ALL FOOD!
+99	Phoebe	 I’m sorry, I can’t believe I set you up with such a MONSTER!
+100	Joey	 Hey, hey, hey, hey. Look. I take a girl out, she can order whatever she wants! The more, the better! All right? Just don’t order a Garden salad and then eat my food! That’s a good way to lose some fingers!
+101		(Rachel enters from the main door)
+102	Phoebe	 (to Rachel) Oh
+103	Rachel	 Hi
+104	Phoebe	 Thank God you’re here. Listen to this!
+105	Rachel	 what?
+106	Phoebe	 Joey and my friend were out last night and having dinner and she reaches over and takes a few of his fries...
+107	Rachel	 Oh! Oh, no!
+108		(Joey looks satisfied)
+109	Phoebe	 What? You know about the plate thing?
+110	Rachel	 Oh, yeah. Joey doesn’t share food. I mean, just last week we were having breakfast and he had a couple of grapes on his plate and ...
+111	Phoebe	 (to Joey) You wouldn’t let her have a grape?
+112	Rachel	 Oh no! Not me! Emma!
+113		(Phoebe looks horrified and she turns to watch Joey)
+114	Joey	 (mad and pointing a finger to himself) JOEY DOESN’T SHARE FOOD!
+115	Phoebe	 Well, I still think that it’s a stupid reason not to call someone again. You are calling her! And if you need to, just get an extra plate of fries for the table!
+116	Joey	 (he thinks a little, considering the option and seems to be quite satisfied) I like that! A sharing buffer! Yeah! I’ll order some extra fries! Maybe a plate of onion rings. Yeah. And a shrimp cocktail. And some buffalo wings. Maybe an individual pizza, uh? And some mozzarella sticks. (he looks absorbed in his food thoughts) What were we talking about?
+117	[Scene	 A clothes store. Ross and Phoebe are shopping]
+118	Phoebe	 (to Ross) This place is awesome!
+119	Ross	 You know, we should just go, I’m not gonna find anything here! This stuff is ridiculous!
+120		(Rachel arrives with a lot of clothes)
+121	Rachel	 Ah, this place is great!
+122	Phoebe	 Wow!
+123	Ross	 Rach, come on, I’m not gonna wear any of this! (he picks up a shirt) Nothing silver. (Rachel sighs). Ok? Nothing with hair! (Rachel sighs again) And nothing with padlocks on it! (Rachel heaves a long disappointing sigh).
+124	Rachel	 Ross, look, I know that some of this stuff is out there, but I mean, come on, look at this, look at this sweater! (she picks up a blue sweater). I mean, this is just beautiful!
+125	Ross	 (feeling the fabric) Wow, this is really soft (he looks the price). Three hundred and fifty dollars?
+126	Rachel	 Yeah, down from seven hundred, you are saving like two hundred bucks!
+127	Ross	 Both logic and math are taking a serious hit today.
+128	Phoebe	 (walking to Ross carrying a black leather jacket)
+129	Ross	 Wow!
+130	Phoebe	 Yeah!
+131		(Ross wears the jackets and look at himself in the mirror)
+132	Ross	 Actually this looks like pretty good! Yeah!(he turns and watches his back and there’s a sign on the back of the jacket, “boys will be boys”) Boys will be boys?
+133	Phoebe	 What? They will be!
+134	Ross	 All right, that’s it, I’m getting out of here.
+135	Rachel	 No, no, no, no! Ross, wait! Come on! You know, there’s other stuff. Here’s a nice shirt, look at these nice pants...
+136	Ross	 Uh, actually these might look pretty good on me.
+137	Rachel	 Yes, they will! You know what you should do? Just go take a walk, all right? I know your size and I’m... I’m gonna pick up some really good stuff for you.
+138	Ross	 Really?
+139	Rachel	 Yes! And I know what looks sexy on guys. Please, just wear what I suggest, and she’s gonna go nuts for you.
+140	Ross	 So, you’re saying, uh, if I wear these pants I might be getting into hers?
+141	Rachel	 (to Phoebe) Why do men keep talking to me like this?
+142	[Scene	 The Adoption Agency in Ohio. Monica and Chandler are still talking with Erica.] Chandler
+143	Erica	 Yeah, I read some great applications, but then I thought “who better then a minister to raise a child!”
+144	Monica	 Amen.
+145	Chandler	 Plus I thought the baby would be in good hands with a doctor!
+146	Monica	 Uh, good hands. (she holds Chandler hands) Healing hands.
+147	Erica	 Reverend, can I ask? Does the bible say anything about adoption?
+148	Monica	 It says "Do it!" And behold she did adopt unto them a baby. And it was good.
+149	Erica	 Wow.
+150	Chandler	 Yeah, wow.
+151	Erica	 I was wondering you both have such serious jobs. (to Monica) Would you have time to take care of a baby and your flock?
+152	Monica	 Oh, you know, my flock is good, I mean, yeah, my flock pretty much takes care of themselves at this point. Good flock. Flock, flock, flock.
+153	Erica	 (to Chandler) Being a doctor must take up a lot of time.
+154	Chandler	 Not for me it doesn’t.
+155		(The agency guy enters the room)
+156	Agency guy	 So, how’s everything going in here?
+157	Erica	 We’re great, I think I may have asked all my questions.
+158	Agency guy	 Do you have any question for Erica?
+159	Chandler	 Yeah, actually. So, you read a file that you liked and you gave the agency the serial number and they contacted us?
+160	Agency guy	 Yes, our system assures total anonymity. We’re very proud of it.
+161	Chandler	 You should be. You’re really on top of stuff..
+162	Agency guy	 (to Erica) Well, then if there’s nothing else, then the two of us should talk.
+163	Erica	 Actually, I don’t think we have to.
+164	Monica	 We don’t?
+165	Erica	 Yeah, when I read about you two, I was pretty sure I wanted you, but I just thought we should meet face to face. (to the agency guy). I've made my decision. I choose them.
+166	Monica	 Oh my God, this is great! This is so great! (to Chandler, who looks bewildered). Did you hear that?
+167	Chandler	 Yeah, I did.
+168	Monica	 (to Erica) Hey, thank you. Thank you so much. (they hugs). You are SO going to Heaven!
+169	[Scene	 Joey’s apartment. Rachel and Phoebe walk in, loaded with bags.]
+170	Rachel	 We got some really great stuff!
+171	Phoebe	 Yeah, yeah but I am not sure about some of the bra's I got.
+172	Rachel	 Oh! Really? Do you wanna try some of them on for me?
+173	Phoebe	 Oh! okay. Wait, are we in Joey's imagination?
+174	Rachel	 (looking into one of her shopping bags) Oh no! I took one of Ross' bags by mistake, and one of mine is missing.
+175	Phoebe	 oh, well, Ross probably has it, you can get it from him later.
+176		
+177	[Scene	 Ross walks into Central Perk, wearing a pink and white ladies shirt. Joey is on the couch]
+178	Ross	 (to Joey) So? What do you think? (Shows himself - Joey observes him with a strange look on his face.)
+179	Joey	 I think were not wearing the same shirt anymore!!
+180	Ross	 (not getting it) Yeah! Yeah! Rachel picked it out for me. She told me to trust her and you know what? I'm glad I did! I turned quite a few heads on my way over here.
+181	Joey	 (now laughing a little) Dude, I really don't think you should be wearing that.
+182	Ross	 Oh, I see, somebody is afraid of a little competition with the ladies?
+183	Joey	 (looking a little agitated now) Looks like someone IS the ladies!!
+184	Ross	 You're just jealous because you couldn't pull this off. Yeah, now if you'll excuse me (getting up and taking his coat) I have a date. (As he is walking out, everyone turns and stares at him) See? (To Joey) ALL eyes on ME!
+185		
+186	[Scene	 Monica and Chandler's hotel room. They enter.] Chandler
+187	Monica	 Why not?
+188	Chandler	 It's wrong. They made a mistake. They think we're somebody else.
+189	Monica	 God works in mysterious ways.
+190	Chandler	 You have gotta stop!
+191	Monica	 But she liked us.
+192	Chandler	 She likes Doctor Chandler and Reverend Monica.
+193	Monica	 Well, if you think about it, I am kind of like a Reverend. I mean, as a chef, I serve God, by feeing the hungry and poor. (looks very convinced about what she just said)
+194	Chandler	 Your Veal Chop is $34.95!
+195	Monica	 C'mon Chandler, I think we have been given an opportunity. I mean, the mistake has already been made. They are writing up the paper right now.
+196	Chandler	 But we are not the one she chose! How can you feel okay about this?
+197	Monica	 (very emotional) Because... We may not be who she thinks we are but no-one will ever love that baby more than us.
+198	Chandler	 I know..
+199	Monica	 I mean, who knows how long it's gonna take for someone else to give us a baby? What if, what if no one ever picks us?
+200	Chandler	 oh, honey..
+201	Monica	 (Almost crying) Please.. please, we are so close.
+202	Chandler	 Monica, I want a baby too, but this woman is giving away her child. She deserves to know who it's going to.
+203	Monica	 (realizes Chandler is right. She's almost crying) okay, right. (They hug)
+204	Chandler	 So, we'll tell the truth and who knows, maybe she'll like us for us.
+205	Monica	 (sniffing) Maybe she will. Uh! Why couldn't I have been a Reverend?
+206	Chandler	 You're Jewish.
+207	Monica	 Technicality!
+208		
+209	[Scene	 A restaurant. Joey is on his date with Phoebe’s friend, Sarah. They are sitting opposite each other on a table for two. Their waiter approaches with two plates.] Waiter
+210	Joey	 Oh, that looks great! Good ordering!
+211	Waiter	 Seafood platter for the gentleman and extra fries. Enjoy!
+212	Sarah	 Mmmh, those fries look delicious.
+213	Joey	 oh, I didn't know you liked French fries. Help yourself! What's mine is yours. (Sarah reaches over and takes a few fries)
+214	Sarah	 (looks over at Joey's platter) Oh wow, are those stuffed clams?
+215	Joey	 Uuuh.. yes, they are my stuffed clams.
+216		(Sarah, is grinning and starts to reach over to Joey's plate to take a few clams)
+217	Joey	 How about those fries though, huh? (Holds the plate between Sarah’s fingers and his plate, thus blocking her from reaching his)
+218	Sarah	 They are delicious (takes a few from the plate, puts one in her mouth and places the rest on her plate, then starts to reach over to Joey's platter again)
+219	Joey	 (Spotting her movements takes her hand into his own) You are beautiful, you know that?
+220	Sarah	 Oh, that is so sweet..
+221	Joey	 Oh (grinning, trying to hold in his impatience with her) okay.. (she takes her hand back)
+222		(Then she reaches over again and Joey moves his plate a little to the left, and she misses, then she reaches out again, and he moves his plate to the right , so she misses again. She tries a third time and this time, Joey pushes his plate so far to the left, it drops off the edge of the table)
+223	Joey	 (Visibly annoyed) NOW look what you did!!
+224	Sarah	 What? what is the matter with you?
+225	Joey	 I don't like it when people take food off of my plate, okay?
+226	Sarah	 But you just said "What's mine is yours"?
+227	Joey	 WELL, I DIDN'T MEAN IT!
+228	Sarah	 Fine, I'm sorry, I didn't think it was that big a deal.
+229	Joey	 I'm sorry, I'm overreacting. Okay, It's just when it comes to food, I have certain rules, okay, I mean (bends down and with his plate and his hands, scrapes the dropped dinner back onto the plate and puts it back on the table) There are things you do..and you know, things.. (takes something from the plate and blows it a little) that you don't do (He takes a bite from it).
+230		(Sarah looks a little disgusted)
+231		
+232	[Scene	 Ross and his date walk into a lobby. They are both wearing their jackets]
+233	Girl	 Wow, this place looks great.
+234	Ross	 Oh! You are gonna love it! (The girl is looking in the other direction as Ross is taking off his own coat, revealing the pink and white ladies shirt) and I'm so glad, we're finally doing this.
+235	Girl	 Me too! (starts to take her coat off)
+236	Ross	 Here (gets behind her to help. When the coat comes off we see she is wearing the exact same shirt Ross is wearing. They look at each other, shocked. They abruptly put their coat back on) So this was fun! (They leave the room and head into opposite directions)
+237		
+238	[Scene	 Back at the restaurant with Joey and Sarah. Joey is holding Sarah's hands] Joey
+239	Sarah	 Sure (smiling) Just not as much as clams.
+240	Joey	 (Jokingly) Well, stuffed clams.
+241		(The waiter arrives with their deserts)
+242	Waiter	 Chocolate Torte for the lady, cheesecake for the gentleman.
+243	Joey	 Uh, excuse me sir, there seems to be some sort of red crap on my cheesecake.
+244	Waiter	 Yes, that's Raspberry coule.
+245	Joey	 (More to himself than anyone else) So stupid, ordering cheesecake, trying to be healthy. (pushes it aside)
+246	Sarah	 (tasting hers) Oh my God! (Looks at the waiter and then to Joey)
+247	Joey	 Oh, all right, I'll just have what she's having instead.
+248	Waiter	 Oh, I'm sorry sir, that was our last piece.
+249	Sarah	 Mmmm! Mmm!
+250		(Sarah's beeper starts bleeping)
+251	Sarah	 Oh, no! This is work. I should call in. Can you excuse me?
+252	Joey	 Oh yeah, sure. No problem.
+253		(Joey's looking at Sarah's dessert, and takes her plate.)
+254	Sarah	 What are you doing? I thought you don't share food.
+255	Joey	 Sure I do. (holding up his own dessert) Coule?
+256	Sarah	 (laughing) No. If I can't have your clams, you can't have my dessert. This is a two way street.
+257	Joey	 (laughing) Really?
+258	Sarah	 Really! Now this all better be here when I come back. (puts her plate back at her side of the table)
+259	Joey	 Yeah, of course. I can control myself. (laughs uneasily and Sarah leaves the room)
+260		(Joey sits sideways on his chair, looking at Sarah's chocolate torte, and then looking away from it, nervously playing with his fork, drumming with it on the table every now and then.)
+261	Joey	 (to the torte) Stop staring at me!
+262		(He then straightens himself, and looks at the torte)
+263	Joey	 Why, just a tiny little...
+264		(He takes a little piece of Sarah's dessert. At first he doesn't think it's that special, but then...)
+265	Joey	 Oh-oh!
+266		TIME LAPSE
+267		(Sarah enters the room again, and stops when she sees her dessert is missing. Joey has emptied her plate, and has a chocolate covered mouth, just like a kid.)
+268	Joey	 I'm not even sorry.
+269		
+270	[Scene	 The Adoption Agency in Ohio. Monica and Chandler are entering.] Erica
+271	Adoption Agency guy	 Hey.
+272	Chandler	 Hey.
+273	Agency guy	 So, these are the preliminary forms for an open adoption. There's a lot to go over, but I'll explain everything as we go through it.
+274	Monica	 (pointing to a picture on the table) I-Is... Is that a picture?
+275	Erica	 Yeah. It's a sonogram they took of the baby last week. I thought you might want to see it. (gives it to Monica, who looks at it for a long time, and then shows it to Chandler)
+276	Monica	 Look, doctor!
+277		(Chandler takes Monica's hand, and gets serious) Look, before we sign anything we really have to talk...(pause) We're not who you think we are.
+278	Agency guy	 I don't understand.
+279	Chandler	 The agency must have made some mistake. My wife is not a reverend and I'm not a doctor.
+280	Erica	 What?
+281	Agency guy	 That's impossible.
+282	Chandler	 I could perform an operation on you and prove it if you'd like.
+283	Agency guy	 I'll go check your file. Excuse me.
+284	Erica	 So who are you?
+285	Chandler	 Well, our names really are Monica and Chandler. We're from New York.
+286	Monica	 Yeah, but the important thing to know about us, is how much we would care for this little baby. (holds up the sonogram)
+287	Erica	 So you lied to me before?
+288	Monica	 Well, we... (makes quotation signs in the air) "bore false witness"... See I could be a reverend.
+289	Erica	 I can't believe this.
+290	Monica	 But we were hoping that since we told you the truth that you still might consider...
+291	Erica	 Giving you my baby? You think I'd give you my child after this?
+292	Monica	 Well, you don't have to decide right now, but if you could just look at our file...
+293	Erica	 I don't want to look at your file! This is over.
+294		(She leaves the room, but Chandler runs after her. They meet in the hallway.)
+295	Chandler	 Erica wait!
+296	Erica	 I've nothing to say to you. (walks a few paces)
+297	Chandler	 You have every reason to be upset. We did lie. But only because we've been waiting and trying to have a baby for so long. Now we don't know how long it's gonna be before we can get another chance again.
+298	Erica	 Why don't you ask the reverend to pray on it?
+299	Chandler	 Erica, please. Just consider us. Ask them to see our file. Our last name's Bing. My wife's a chef and I'm in advertising.
+300	Erica	 Oh yeah. I actually liked you guys. But it doesn't matter, because what you did was wrong. (walks away again, but Chandler catches up with her again)
+301	Chandler	 But you did like us. And you should. My wife's an incredible woman. She's loving and devoted and caring. And don't tell her I said this but the woman's always right... I love my wife more than anything in this world. And I... It kills me that I can't give her a baby... I really want a kid. And when that day finally comes, I'll learn how to be a good dad. But my wife... she's already there. She's a mother... without a baby... Please?
+302		(They look at each other. We switch back to Monica. Chandler opens the door and she turns to look at him.)
+303	Chandler	 You still want that baby?
+304		(Monica plays those words back in her mind and then smiles and runs to Chandler, who is twisting with joy. They hug.)
+305	Monica	 God bless you Chandler Bing!
+306		COMMERCIAL BREAK
+307	[Scene	 Central Perk. Joey's on the couch when Ross walks to him, with his jacket closed.] Ross
+308	Joey	 (nods) So, why are you still wearing it?
+309	Ross	 Because it's soft... Hey, so how was your date?
+310	Joey	 Ooh... Not so good.
+311	Ross	 Well, looks like it's just the two of us tonight, huh old buddy?
+312	Joey	 Yeah, and you know what? We could do a lot worse.
+313		(they shake hands the way friends would. There's a muffin on the table, and Ross breaks off a piece and wants to put it in his mouth.)
+314	Joey	 (shouting to Ross) JOEY DOESN'T SHARE FOOD!
+315		(Ross puts the piece back on the plate)
+316		end

@@ -1,0 +1,395 @@
+1	Teleplay by	 Zachary Rosenblatt Story by
+2	[Scene	 Joey and Rachel's, Rachel is filing her nails as Ross and Ben enter.]
+3	Ross	 Hi.
+4	Rachel	 Hi! Hi Ben!
+5	Ben	 Hi.
+6	Ross	 Hi, we have a little bathroom emergency.
+7	Rachel	 Oh, yeah go ahead.
+8		(Ben starts to go, but Ross stops him.)
+9	Ross	 Uh, before we do uh, are any of Joey’s special romance magazines in there?
+10	Rachel	 No. No.
+11	Ross	 (to Ben) Okay! All clear!
+12	Ben	 (running to the bathroom) Thanks Phoebe!
+13	Rachel	 Ben, it's Rachel! (He closes the door.) But whatever.
+14	Ross	 (to Ben) Everything okay in there?
+15	Ben	 Don’t talk to me now!
+16	Rachel	 Awww, just like his daddy.
+17	Ross	 Hey listen can you do me a big favor? The dean’s office just called and said there was an urgent meeting. Can you watch Ben for like an hour?
+18	Rachel	 What-what about Monica?
+19	Ross	 Oh, she isn’t home.
+20	Rachel	 (nervous) So it would just be me alone?
+21	Ross	 Well, Ben would be there.
+22	Rachel	 Huh umm…
+23	Ross	 What’s the matter?
+24	Rachel	 Well that—y’know it’s just uh, I’ve never done that before. Me and him alone.
+25	Ross	 Rach, he’s not an ex-con.
+26	Rachel	 Okay. Okay. Okay. Uh, what do I, what do I do with him?
+27	Ross	 I don’t know! Just-just talk to him-entertain him and keep him alive.
+28	Rachel	 Okay.
+29	Ross	 Okay. (Ben enters) Ben? Come here. All right, I’m gonna leave you here with Aunt Rachel for about an hour. Okay? Are you gonna be okay?
+30	Rachel	 Yeah I think so.
+31	Ross	 (To Rachel) I wasn’t talking to you.
+32	Ben	 I’ll be okay.
+33	Ross	 Okay, I’ll see you soon buddy. (He hugs and kisses him.) Be back in an hour.
+34	Ben	 Bye dad.
+35	Rachel	 Bye. (Ross exits.) Ahhh… (Silence) So this is fun, huh?
+36	Ben	 Not really.
+37	Rachel	 Okay. Uh, want something-want something to drink?
+38	Ben	 Okay.
+39	Rachel	 Uh great! How do you feel about Diet Coke?
+40	Ben	 I’m not allowed to have soda.
+41	Rachel	 Okay. Well that’s pretty much all that we have—Oh! Oh! Have you ever had a virgin margarita? (Holds up a bottle of margarita mix.)
+42	Ben	 What’s a virgin?
+43	Rachel	 Water it is.
+44		Opening Credits
+45	[Scene	 Central Perk, Monica and Chandler are talking. Joey and Phoebe are getting coffee.]
+46	Monica	 What about the second minister we met with? I kinda liked him.
+47	Chandler	 You mean the spitter?
+48	Monica	 Come on! It wasn’t that bad!
+49	Chandler	 Easy for you to say; you’ll be wearing a veil.
+50	Monica	 All right, what about the third guy?
+51	Chandler	 You mean the guy who kept staring at your chest?
+52	Monica	 Can you blame him?
+53	Chandler	 Sorry, I just don’t like the idea of when I say "I do," he’s thinking, "Yeah, I’d do her too!"
+54	Monica	 Well then we still have a problem.
+55	Chandler	 Yeah!
+56	Phoebe	 (returning with Joey) With what?
+57	Monica	 Well, we’re trying to find someone to perform our wedding and they’re all either boring or annoying or y’know, can’t stop staring at the ladies. (Points to her chest.)
+58		(Joey nods his approval.)
+59	Phoebe	 Oo! You should have one of us do it!
+60	Monica	 Phoebe, we’re getting married, married; not sixth grade married.
+61	Phoebe	 No! No! It’s-it’s uh a real thing! Anyone can get ordained on the Internet and perform like weddings and stuff!
+62	Monica	 Are you serious?
+63	Phoebe	 Yes! A friend of mine did it and it’s totally legal!
+64	Joey	 I call it!!
+65	Phoebe	 What?! No! It was my idea!
+66	Chandler	 Guys thank you very much but neither of you is marrying us.
+67	Joey	 Does calling it not mean anything anymore?!
+68	Chandler	 We are going to have a legitimate member of the clergy! And when I say legitimate I mean, gay and in control of his saliva!
+69	[Scene	 Joey and Rachel's, Rachel and Ben are sitting on the couch bored out of their minds.]
+70	Rachel	 Ben y’know when uh, when you were a baby, you and I used to hang out all the time. ‘Cause I was, I was your daddy’s girlfriend.
+71	Ben	 But you’re not anymore!
+72	Rachel	 No, I’m not.
+73	Ben	 ‘Cause you guys were on a break.
+74	Rachel	 Hey! We were not on a—Okay. That’s fine! Fine. Y’know what Ben? One day when you are a lot older I am going to tell you that entire story over a pitcher of real margaritas, okay?
+75	Ben	 When’s my daddy coming back?
+76	Rachel	 (checks her watch) Fifty-two minutes. (Pause) So no-no brothers and sisters, huh? That must be nice. You don’t have to share stuff.
+77	Ben	 Sharing is good.
+78	Rachel	 Oh, you’re one of those. But y’know what? I have two sisters of my own and we just-just tortured each other.
+79	Ben	 Really? Like how?
+80	Rachel	 Well y’know, we would umm, repeat everything the other said, or uh, we’d jump out of closets to scare each other, or switch the sugar for the salt so they’d put salt on their cereal.
+81	Ben	 (laughs) That’s a good one.
+82	Rachel	 Yeah? You like that one?
+83	Ben	 Yeah, you’re funny.
+84	Rachel	 I’m funny? Oh thank God! Well hey, I’ve got a ton of these! Umm, oh here—Do you want a good one? Here’s a good one. Umm, you uh, you take a quarter, take a quarter and, and you blacken the edge. Right? (Does so.) And then you say to person, I bet you can’t roll this quarter from your forehead to your chin without it leaving your face. And then when they do it, they’re left with a big black pencil line right down the center of their face.
+85	Ben	 Can I do it to you?
+86	Rachel	 Yeah, I-I-I-I’m funny Ben, but I’m not stupid. Okay?
+87	[Scene	 Monica and Chandler's, Monica and Chandler are eating lunch as Joey enters.]
+88	Joey	 So, did you uh, find anyone to marry you guys yet?
+89	Chandler	 No, but Horny for Monica Minister called, wanting to know if we were still together.
+90	Monica	 We’re never gonna find anybody.
+91	Joey	 Well then let me do it!
+92	Chandler	 Joe…
+93	Joey	 No-no-no! Look, I’ve been thinking about it. I’m an actor right? So I won’t get nervous talking in front of people.
+94	Monica	 Joey look it’s really sweet…
+95	Joey	 No-no-no-no look no! I won’t spit, and I won’t stare at Monica’s breasts! Y’know? Everyone knows I’m an ass man!
+96	Monica	 That is true.
+97	Joey	 Yeah and the most important thing is that it won’t be some like, stranger up there who barely knows you. It’ll be me! And I swear I’ll do a really good job. Plus, y’know I love you guys and-and it would really mean a lot to me.
+98	Chandler	 (To Monica) Y’know, we haven’t found anybody else.
+99	Monica	 It might be kinda cool.
+100	Joey	 So I can do it?
+101	Chandler	 Yeah you can do it.
+102	Joey	 All right!!! Okay!! All right! Okay-okay, I gotta get started on my speech! Oh, wait a minute, Internet ministers can still have sex right?
+103	Chandler	 Yeah.
+104	Joey	 Okay.
+105		(Phoebe enters slowly.)
+106	Monica	 Hey Pheebs, how’s it going?
+107	Phoebe	 Oh, I have a headache. A horrible headache!
+108	Monica	 Oh, I’m sorry. Can I get you something?
+109	Phoebe	 Oh my God, you’ve got to stop chattering!
+110	Monica	 Here, take a couple of these. (She gets up to grab a couple of pills.)
+111	Phoebe	 What is it?
+112	Monica	 It’s Hexadrin.
+113	Phoebe	 Oh no, I don’t believe in Western medicine. No, if you just apply pressure to these points right here. (She’s pinching the bit of skin between her right thumb and forefinger with her left hand.) Then your hand starts to hurt and you still have a headache, so thanks. (Takes the pills.)
+114	Monica	 Okay, while we’re waiting for these pills to kick in, I’m gonna sit you down on the couch. Come on. (Phoebe gets up and goes with her.) Get some nice soft pillows under your head, I’m gonna turn the TV on and you can watch whatever you want. And I’m—Sit down—(She sits down on the couch)—gonna make you some tea. And then, I’m gonna rub your feet.
+115	Phoebe	 Oh.
+116	Joey	 Oh! My head! Oh! (He’s sitting on the chair, lies back, and puts his feet up for Monica to rub.) Oh!
+117	[Scene	 Joey and Rachel's, Rachel is reading and there is knock on the door which she answers.]
+118	Rachel	 Coming.
+119		(She opens the door to reveal Ross with a pencil mark from his forehead to his chin.)
+120	Ross	 I have a bone to pick with you.
+121	Rachel	 Uh-oh.
+122	Ross	 Yes! Ben learned a little trick.
+123	Rachel	 Oh yeah? Did he pull the old… (She is waving her hand up and down her face. She’s thinking about the pencil mark.)
+124	Ross	 That’s right! That’s right! Saran Wrap on the toilet seat so the pee goes everywhere!
+125	Rachel	 Oh that.
+126	Ross	 Yeah that! You know I hate practical jokes! They’re mean and they’re stupid and-and I don’t want my son learning them!
+127	Rachel	 Oh, come on! Saran Wrap on the toilet seat, you don’t think that’s just a little funny?!
+128	Ross	 I was barefoot. Now tell me, the toilet thing is the only thing you taught him right?
+129	Rachel	 (looking at his mark) Yes.
+130	[Scene	 Central Perk, Phoebe, Chandler, and Monica are there.]
+131	Phoebe	 It’s amazing! My headache is completely gone! What are those pills called?
+132	Monica	 Hexadrin. (She gets the box out of her purse.)
+133	Phoebe	 Oh, I love you Hexadrin! (She kisses the box.) Oh look! It comes with a story! (She pulls out the instructions and side effects paper.)
+134	Monica	 No Phoebe, those are like the side effects and stuff.
+135	Phoebe	 Say what?
+136	Monica	 Y’know, the possible side effects.
+137	Phoebe	 Oh my God! (Starts reading them.) Dizziness, nervousness, drowsiness, facial swelling, nausea, headache—Headache. Vomiting, stomach bleeding, liver damage! Now okay, I don’t recall any of this coming up when you gave me these little death capsules! Oh I’m sorry, extra strength death capsules!
+138	Monica	 Phoebe, relax none of that stuff ever happens! They just put it on there for legal reasons!
+139	Phoebe	 Why?
+140	Monica	 In case it happens.
+141	Joey	 (entering) Hey!
+142	Chandler	 Hey!
+143	Joey	 Say hello to Reverend Joey Tribbiani! (Holds up the piece of paper bearing the proof of his ordination.)
+144	Chandler	 Hey!
+145	Monica	 You did it! You got ordained?!
+146	Joey	 Yeah, I just got off the Internet! Man, there is a lot of porn out there!
+147	Chandler	 Our minister…
+148	Phoebe	 I have liver damage. Ow! Oh! (She grabs the left side of her torso.)
+149	Monica	 Phoebe, your liver is right here. (She points to the right side of her torso.)
+150	Phoebe	 Okay, then I must be disoriented.
+151	Joey	 Anyway, I started working on what I’m going to say for the ceremony, do you wanna hear it?
+152	Chandler	 Okay.
+153	Monica	 Yeah!
+154	Joey	 Now-now, listen this is just a first draft so… (Starts to read the piece of paper he brought.) "We are gathered here today on this joyous occasion to celebrate the special love that Monica and Chandler share." (Monica and Chandler like it so far.) Eh? (He continues reading.) "It is a love based on giving and receiving. As well as having and sharing. And the love that they give and have is shared and received. And through this having and giving and sharing and receiving." (Phoebe nods her approval.) "We too can share and love and have and receive."
+155	Chandler	 (To Monica) Should we call the spitter?
+156		Commercial Break
+157	[Scene	 Carol and Susan’s, there is a knock on the door and Carol opens it to reveal Rachel.]
+158	Carol	 Hey Rachel! (The camera cuts to her face and we see that Ben pulled the quarter trick with her as well.)
+159	Rachel	 Hi!
+160	Carol	 What a nice surprise! What are you doing here?
+161	Rachel	 Well y’know I was just in the neighborhood and I passed by your building and I thought to myself, "What’s up with Carol and sweet, little Ben?"
+162	Carol	 Can I ask what—Come on in.
+163	Rachel	 Okay.
+164	Carol	 Umm uh, I’ll make some coffee and we can uh, chat.
+165	Rachel	 I’d love that. I would loooove… (Carol goes to make the coffee and she sits down.) So uh, so where is sweet little Ben? I would love to have a little...
+166	Ben	 (jumping up from behind her chair) Gotcha!! (Rachel jumps up startled.)
+167	Rachel	 I found him! (To Ben) Very funny, come here! (She sits down on the coffee table and Ben walks up.) That is exactly why I’ve come here to talk to you okay?
+168	Carol	 (from the kitchen) Rach, do you want some sugar in your coffee?
+169	Rachel	 Yes oh—(To Ben)—Do I want sugar in my coffee? (Ben nods no.) No, just some milk would be good Carol. Thanks. (To Ben) Okay, do you remember all that stuff I taught you yesterday?
+170	Ben	 (mimicking her) Remember all that stuff I taught you yesterday?
+171	Rachel	 Don’t do that.
+172	Ben	 Don’t do that.
+173	Rachel	 Seriously, your dad doesn’t like pranks.
+174	Ben	 Seriously, your dad doesn’t like pranks.
+175	Rachel	 Oh damnit!
+176	Ben	 Oh damnit!
+177	Rachel	 No! Don’t say that! Don’t say that!
+178	Ben	 Damnit!
+179	Rachel	 No don’t! Go back to repeating!
+180	Ben	 Damnit!
+181	Rachel	 Oh crap!
+182	Ben	 Oh crap!
+183	[Scene	 Monica and Chandler's, Phoebe, Joey, Chandler, and Monica are returning from Central Perk.]
+184	Phoebe	 I feel like my face is swelling. (To Monica) Is my face swelling?
+185	Monica	 Phoebe, your face is fine! Come on, none of this stuff is going to happen to you! Stop being such a baby!
+186	Phoebe	 Oh, interesting you should call me that! Now that I may never have one! (Holds up the warning label.)
+187	Joey	 Okay you guys, I got a little more written. Are you ready?
+188	Chandler	 Yeah. O-okay.
+189	Joey	 (reading) "When I think of the love that these two givers and receivers share, I can not help but envy the lifetime ahead of having and loving and giving and…" And then I can’t think of a good word for right here. (He points to the stop on the paper where he left off.)
+190	Monica	 How about receiving?
+191	Joey	 Yes!
+192	Chandler	 See Joe, not that that’s not grrreat! But, one of the cool things about having somebody we know perform the ceremony is that it can be about us! Y’know, it can be more personal. You can tell stories about us!
+193	Joey	 Ooh, like the time you and I went to Atlantic City and I made you laugh so hard you threw up your whole steak?! Remember?
+194	Chandler	 No, not us… (Motions Joey and him.) Us! (Motions Monica and him.)
+195	Joey	 I gotcha. Sorry. (To Monica) So, did you ever make him throw up a whole anything?
+196	Phoebe	 Did you ever feed him a poison capsule that made him bleed from the eyes?
+197	Monica	 It doesn’t say that!
+198	Phoebe	 Oh! Suddenly somebody knows all about the side effects!
+199	Chandler	 See Joe, we want you to tell stories but y’know, romantic stories. Nice stories.
+200	Joey	 Oh. Okay. Ooh! Ooh! Okay, maybe I’ll talk about London! Y’know when you two hooked up! Only, only I won’t say hooked up. I’ll say, "Began their beautiful journey…"
+201	Monica	 There you go!
+202	Joey	 "…by doin’ it."
+203	Chandler	 Joe?
+204	Joey	 Okay. All right. Umm, so uh, so how did it happen? Did your eyes meet across the room? And then the next thing y’know you’re in the bathtub together and she’s feeding you strawberries?
+205	Chandler	 Isn’t that what happened with you and the bridesmaid?
+206	Joey	 Yeah!! I call that London style.
+207	Monica	 No that is not what happened with us. Well, I was umm, I was really sad that night because this guy thought that I was Ross’s mom.
+208	Joey	 Oh.
+209	Monica	 And then Chandler was, was really sweet and he consoled me. And well we drank too much…
+210	Joey	 Yeah baby!
+211	Chandler	 And I was a perfect gentleman and I walked her to her hotel room and said goodnight.
+212	Joey	 Oh.
+213	Chandler	 But then later that night…
+214	Joey	 Yeah baby!
+215		[Cut to London, Chandler’s hotel room. He is getting ready for bed by doing push-ups. One push-up. Just as he gets under the covers, there’s a knock on the door.]
+216	Chandler	 (answering the door) Hey!
+217	Monica	 (standing outside) Cute PJ’s! You’re really livin’ it up here in London huh?
+218	Chandler	 Well I was… I wasn't exactly expecting company after…(He looks at his watch.) 9
+219	Monica	 (entering) Is Joey here?
+220	Chandler	 Well, last time I saw him he was heading out the door with the bridesmaid and a bucket of strawberries. So uh, you’re not still upset about what that guy told ya are ya?
+221	Monica	 Wouldn’t you be?
+222	Chandler	 Well, look it’s been a really emotional time y’know, and you’ve had a lot to drink. And you’ve just got to let that go okay? I mean you were the most beautiful woman in the room tonight!
+223	Monica	 Really?
+224	Chandler	 You kidding? You’re the most beautiful woman in most rooms… (She jumps up and kisses him.) (Breaking the kiss.) Whoa! Whoa! Whoa! What’s going on? You and I just made out! You and I are making out?
+225	Monica	 Well, not anymore.
+226	Chandler	 But we don’t do that.
+227	Monica	 I know, I just thought it would be fun.
+228	Chandler	 How drunk are you?
+229	Monica	 Drunk enough to know that I want to do this. Not so drunk that you should feel guilty about taking advantage.
+230	Chandler	 (thinks) That’s the perfect amount!
+231	Monica	 Okay!
+232		(They run to the bed, sit down, and start making out again.)
+233	Monica	 (breaking the kiss) Y’know what’s weird?
+234	Chandler	 What?
+235	Monica	 This doesn’t feel weird!
+236	Chandler	 I know.
+237	Monica	 You’re a really good kisser.
+238	Chandler	 Well, I have kissed over four women. (They kiss again.) Do you wanna get under the covers?
+239	Monica	 Hm-hmm!
+240	Chandler	 Okay!
+241		(They do so and they take off their clothes.)
+242	Monica	 Wow! You are really fast!
+243	Chandler	 It bodes well for me that speed impresses you.
+244	Monica	 We’re gonna see each other naked.
+245	Chandler	 Yep!
+246	Monica	 Do you wanna do it at the same time?
+247	Chandler	 Count of three?
+248	Monica	 One!
+249	Chandler	 Two!
+250	Monica	 Two!
+251	Monica and Chandler	 Three! (They lift up the covers and check each other out, then come back up with silly grins on their faces.)
+252	Chandler	 Well I think it’s safe to say that our friendship is effectively ruined.
+253	Monica	 Eh, we weren’t that close anyway!
+254	Chandler	 Eh!
+255		(They start making out again, and it takes Joey trying to enter to stop them.)
+256	Chandler	 Joey! Joey! Joey! J-J-Joey-Joey-J-Joey! (Monica hides under the covers as Joey enters. Remember?)
+257	Joey	 Hey!
+258	Chandler	 Hey Joe! I was just watching a movie-e-e… (Notices that the TV is turned off.)
+259	Joey	 Oh, dude I’m so sorry!
+260	Chandler	 No! No! No!
+261	Joey	 Hey no-no-no-no! It’s cool! It’s cool! I-I’ll only be a second, I’m still with my bridesmaid, I just—Where are those condoms you brought?
+262	Chandler	 They’re in my bag over there. (Points.)
+263	Joey	 Ah. (Joey walks to Chandler’s bag by getting as far away from Chandler’s bed as possible.)
+264	Chandler	 Uh, could you leave me one?
+265	Joey	 (pause) For just you?
+266	Chandler	 Yeah.
+267	Joey	 Hey listen, why don’t you come downstairs with me? There’s some really nice girls down there.
+268	Chandler	 No I-I-I’m fine.
+269	Joey	 All right, here you go buddy. (He tosses him one.) Go nuts. (Exits.)
+270		[Cut back to Monica and Chandler telling Phoebe and Joey the story.]
+271	Joey	 That’s what that was?! ‘Cause that other thing? I thought you were on to something, but it did nothing for me.
+272	Monica	 Okay, can we change the topic? Because it’s really doing nothing for me.
+273	Joey	 Oh… (To Chandler) Can you imagine if I hadn’t left you that last one? You two might’ve never gotten together. Ooh-ooh! Could you imagine if I sent that hooker up to the room like I was gonna?! It’s like it was in the stars!
+274	Phoebe	 Yeah, it’s totally meant to be. (To Monica) Tell him who you originally wanted to hook up with that night.
+275	Monica	 What?!
+276	Chandler	 What?
+277	Phoebe	 (To Joey) What?!
+278	Chandler	 Who did you originally want to hook up with?
+279	Monica	 Okay, fine but please don’t be upset! Okay? I was really depressed okay? And really drunk! I just wanted something stupid and meaningless. I just wanted…just sex. So, when I…went to your room that night…I was actually looking…for Joey. (Joey smiles.)
+280	Joey	 Yeah baby! (Chandler glares at him.) No baby!
+281		Commercial Break
+282	[Scene	 Monica and Chandler's, scene continued from earlier.]
+283	Chandler	 (To Monica) So you came to the room looking for Joey? Did you ever in-intend on telling me about this?
+284	Monica	 No, because it-it didn’t seem important.
+285	Chandler	 Oh, it’s not important? It’s not important?! If it wasn’t for a bridesmaid you’d be marrying him (Points to Joey) not me!
+286	Monica	 Noo!! The point is that is was you that was there that night! It is you that I am marrying! It is you that I fell in love with!
+287	Joey	 And it is a love that is based on having and giving and receiv—(Shuts up on Monica’s glare.)
+288	Chandler	 I don’t believe it. The most romantic night of my life and I’m runner up.
+289	Monica	 Chandler, please! Do you know how unbelievably glad I am that Joey was not there that night?!
+290	Joey	 Hey! (Monica turns and looks at him) Now I’m a man of the cloth, but I still have feelings!
+291	Chandler	 (To Joey) Look there is no way you’re doing this wedding now. Okay?
+292	Joey	 What?! That’s not fair! It’s not my fault! I was off with my bridesmaid! And who’s to say I would’ve even said yes?! (To Monica) I mean I would’ve said yes. Chandler look y-y-you are making way too big a deal out of this, all right? Look, everything worked out okay!
+293	Chandler	 Okay, it’s just weird! Okay? I don’t want to be standing their saying my vows and then having the mental image of you and Monica! I-I-I need…I don’t know what I need. I need a walk.
+294	Monica	 Wait Chandler come on, let’s—it’s not a big deal!
+295	Chandler	 It is to me. You wanted to sleep with Batman, and instead you had to settle for Robin. (Walks out and slams the door.)
+296	Joey	 This is crazy.
+297	Phoebe	 I know! Robin is so gay!
+298	[Scene	 Carol and Susan’s, Rachel is talking with Ben.]
+299	Rachel	 So now what have we agreed?
+300	Ben	 No more pranks.
+301	Rachel	 And-and what else?
+302	Ben	 That you and daddy were not on a break.
+303	Rachel	 Very good.
+304		(There’s a knock on the door and Ross enters.)
+305	Ross	 Rachel! What are you doing here?
+306	Rachel	 I’m just visiting my good friend Carol.
+307	Ross	 Your good friend?
+308	Rachel	 Yeah!
+309	Ross	 What’s her last name?
+310	Rachel	 Carol…Lesbian?
+311	Ross	 Nice. And by the way that uh, that line down my face?
+312	Rachel	 What line?
+313	Ross	 Wh-wh-what line? The line that prompted a student in my last class of the day to say uh, (In a college frat boy voice) "Dude, don’t you ever wash your face?"
+314	Rachel	 All right, I’m sorry. I’m sorry I didn’t tell you but you were so mad already!
+315	Ross	 Of course I was mad! I told you I-I hate this stuff! Okay? It-it’s not funny!
+316	Carol	 (entering from the kitchen) Hey Ross!
+317	Ross	 Hi.
+318	Carol	 What’s not funny?
+319	Ross	 Practical jokes.
+320	Carol	 Oh I…I think they’re funny.
+321	Ross	 You have a line down your face.
+322	Carol	 What? (Goes and checks.)
+323	Rachel	 Okay, maybe they are not funny to you…
+324	Carol	 (yelling from the bathroom) Oh my God!
+325	Rachel	 Or Carol! But they’re funny to kids and who is it hurting?!
+326	Ross	 Uh, y’know what? I’ll tell you who it hurts! It hurts the kid who has all his clothes stolen in gym class so he has to go to the principal’s office wearing nothing but a catcher’s mitt!
+327	Rachel	 That was you?! We heard about you in Junior High! Did you really just shake your fist in the air and shout, "I will be revenged?!"
+328	Ross	 I will be! Listen, I don’t want you teaching my son that stuff anymore. Okay?
+329	Rachel	 Fine. Fine, but I’ll have you know that once I taught him that stuff he called me Fun Aunt Rachel. And I loved being Fun Aunt Rachel but I’ll go back to being Boring and Uncomfortable Aunt Rachel if that’s what you want!
+330	Ross	 No that’s not what I want. Uh, I’m glad you guys were bonding but I…
+331	Rachel	 Look he doesn’t have any brothers or sisters, somebody’s gonna have to teach him this stuff! And I haven’t taught him anything that a normal 6-year-old doesn’t know anyway!
+332	Ben	 (yelling from off camera) Crap!!
+333	Rachel	 I gotta go! (Runs out.)
+334	[Scene	 Central Perk, Chandler is sulking on the couch as Joey enters to talk with him.]
+335	Joey	 Hey.
+336	Chandler	 Hey. Do you want this scone? (Holds up his plate) It came for me but it would probably rather sleep with you!
+337	Joey	 Chandler, come on nothing even happened!
+338	Chandler	 Look Joe, I know you wanted to do the wedding…
+339	Joey	 No-hey-no! If you don’t want me to do it, I accept that. I don’t care about that. I just…I don’t want you to be upset.
+340	Chandler	 How can I not be upset? Okay? I finally fall in love with this fantastic woman and it turns out that she wanted you first!
+341	Joey	 Yeah for like a half an hour one night! Chandler, she wants you for the rest of her life! You’re so lucky! Look what I missed out on by not being there! Although you know what? It could never have worked like you guys did, ‘cause you guys are perfect for each other. Y’know, we look at you and-and we see you together and it just…it-it fits. Y’know? And you just know it’s gonna last forever.
+342	Chandler	 That’s what you should say.
+343	Joey	 What?
+344	Chandler	 When you’re marrying us; that’s what you should say.
+345	Joey	 Really? I can do it?
+346	Chandler	 I’d love it if you would do it.
+347	Joey	 Hey! (They hug.)
+348	Chandler	 But those are the words! Those exact words!
+349	Joey	 Well I don’t know if I remember exactly but, it’s-it’s pretty much about having and giving and sharing and receiving.
+350	[Scene	 Joey and Rachel's, Rachel is in the kitchen as Ross and Ben are entering.]
+351	Ross	 Hey!
+352	Rachel	 Hey!
+353	Ross	 Hey I’m sorry to do this to you again but uh, is there any way you can look after Ben for a little bit? I-I’ve got this meeting at school. And-and he-he asked for his uh, ‘Fun Aunt’ Rachel, so…
+354	Rachel	 Ohhh! Well of course I will watch him! We have fun, don’t we Ben? (He nods yes.)
+355	Ross	 Okay, I’ll see you later pal.
+356		(Ross turns to leave.)
+357	Rachel	 Ohh, okay. (Ross has a sign on his back that reads ‘Poop.’) Wh—Ah-ha! (Ross stops and turns.) Wait a minute. Uh Ben, I can’t do it.
+358	Ross	 What?
+359	Rachel	 I can’t let him go out that way, he’s got a meeting. (To Ross) You’ve got something here on your back.
+360	Ross	 What? (She takes the sign off and hands it to him.) That’s great. That is great. (Crumples up the paper and throws it down in anger.) What did we just finish talking about Ben?!
+361	Rachel	 Oh I…
+362	Ben	 What did we just finish talking about Ben?!
+363	Ross	 All right, that’s it! (He runs over to Ben, who runs past him and out the door.) Come—you—no! You are in big trouble young man!
+364	Rachel	 No! Wait! Come on!
+365		[Cut to the hallway, Ben runs upstairs with Ross in pursuit.]
+366	Ross	 Wait! No! Ben, come here! I am not kidding!
+367	Rachel	 No you guys… (She walks out into the hallway.)
+368	Ross	 I-I-am—(Suddenly Ross starts screaming and comes falling down the stairs landing just in front of Rachel.)
+369	Rachel	 EHHHHHHHHHHH!!!!!!! My God!!!!!!!!!!! Oh my God!!!!!!! (She runs over to him and finds that it was a dummy and that she had been had.)
+370	[Scene	 Central Perk, Chandler and Monica are entering. Phoebe and Joey are sitting on the couch.]
+371	Joey	 Hey!
+372	Monica	 Hey-hey.
+373	Joey	 So are guys doing okay?
+374	Chandler	 Yeah, we talked and Monica made me see that I over reacted a little bit and some things in life are more important.
+375	Monica	 Yeah baby! (Phoebe and Joey nod.)
+376	Phoebe	 I’m really glad you guys are okay but, I just keep thinking what would happen if-if you two (Points to Monica and Joey) actually had hooked up.
+377	[Scene	 Monica and Joey’s, Monica is cooking.]
+378	Monica	 Honey! Dinner’s ready!
+379		(Joey, whose new diet is working out great, he looks like he only weighs 375 down from 420 enters from the bedroom.)
+380	Fat Joey	 What’s my little chef got for me tonight?
+381	Monica	 Your favorite!
+382	Joey	 Ho-ho-ho, (pausing for a rest next to the fridge) fried stuff with cheese!
+383	Monica	 Yep! And lot’s of it!
+384	Fat Joey	 Thanks sweetheart. Give me a little sugar here. (They kiss.) Okay.
+385		(Joey sits down.)
+386	Monica	 Okay, in we go.
+387		(Monica gets behind him and in combination with his sliding the chair forward and her pushing with her leg manages to get up to the table.)
+388	Fat Joey	 Here we go! Here we go! Here we go! (Groans and picks up a piece of food.) How you doin’?
+389		Ending Credits
+390	[Scene	 Central Perk, Joey is getting Phoebe some coffee.]
+391	Joey	 Here you go.
+392	Phoebe	 (still reading the label) Oh my God! This is a six-hour pill! (Checks her watch) That’s it! I’m out of the woods! Ohh! What a relief!
+393	Joey	 Good for you!
+394	Phoebe	 Oh, it’s like a huge weight has been lifted! ‘Cause look, (reads the side effects) no hair loss, not a rash, no hives, I’m just so happy! Because no shortness of breath, no temporary euphoria—Oh.
+395		End

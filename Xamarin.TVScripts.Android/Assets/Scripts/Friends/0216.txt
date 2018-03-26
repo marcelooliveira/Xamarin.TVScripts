@@ -1,0 +1,5 @@
+1	Written by	 Betsy Bornes Transcribed by
+2	[Scene	 Chandler and Joey's apartment. Chandler and Joey are sitting at the bar, in their bathrobes, eating cereal] JOEY
+3	JOEY	 Listen, uh, I don't know when I'm gonna see you again. CHANDLER
+4		END
+5	webbot bot="ImageMap" startspan rectangle=" (140,2) (197, 84) http	//thecfsi.com/season2/217emi.htm" rectangle=" (71,1) (130, 84) http

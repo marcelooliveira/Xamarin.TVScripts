@@ -1,0 +1,292 @@
+1	Teleplay by	 Brian Buckner & Sebastian Jones Story by
+2	[Scene	 Central Perk, everyone is there except Monica as Ross enters carrying a huge stack of newspapers.]
+3	Ross	 Hey you guys I got some bad news. (He sets the stack of papers down on the table.)
+4	Phoebe	 Well that’s no way to sell newspapers. Why don’t you try, "Extra! Extra! Read all about it!"
+5	Ross	 No, Monica’s restaurant got a horrible review in the Post. (They all gasp.) I didn’t want her to see it, so I ran around the neighborhood and bought all the copies I could find. (He hands the paper to Phoebe and they all read it.)
+6	Joey	 Man, this is bad! And I’ve had my share of bad reviews. I still remember my first good one though. (Quoting) "Everything else in this production of Our Town was simply terrible. Joey Tribbiani was abysmal."
+7	Monica	 (entering) Hey!
+8	Chandler	 Hey.
+9	Monica	 (seeing the stack of newspapers) Oh my God! Look at all the newspapers! It must be a good review! Is it great?!
+10	Ross	 Umm…
+11	Monica	 (reading) Oh dear God!
+12	Ross	 But the good news is, no one in a two-block radius will ever know.
+13	Monica	 What about the rest of Manhattan?!
+14	Ross	 Yeah, they all know.
+15	Monica	 Oh my God, this is horrible!
+16	Chandler	 I’m so sorry.
+17	Monica	 I’m so humiliated!
+18	Rachel	 Yeah but y’know what they say Mon, "There’s no such thing as bad press."
+19	Monica	 You don’t think that umm, (reading) "The chef’s Mahi Mahi was awful awful," is bad press?
+20	Rachel	 I didn’t write it.
+21	Monica	 Is he right? Am I really—Am I awful?
+22	All	 No!
+23	Joey	 Yeah! Yeah Monica! You listen to me, okay? And I’m not just saying this because I’m your friend, I’m sayin’ it ‘cause it’s the truth. You’re food is abysmal!
+24		Opening Credits
+25	[Scene	 Ross and Rachel's, it’s late at night, Rachel is sitting on the couch in the dark wide-awake as Ross walks to the bathroom.]
+26	Rachel	 Ross!
+27	Ross	 (startling him) What?! What?
+28	Rachel	 I am freaking out!
+29	Ross	 Are ya?
+30	Rachel	 My due date is in one week!
+31	Ross	 What are you doing up?
+32	Rachel	 That is seven days!
+33	Ross	 Okay look, I had a lot of water before I went to bed. Can we do this after…
+34	Rachel	 (interrupting him) No-no-no-no-no Ross! Please, come on we do not have any of the big stuff we need! We do not a changing table! We do not have a crib! We do not have a diaper service!
+35	Ross	 It’s funny you should mention diapers.
+36	Rachel	 I’m serious.
+37	Ross	 Okay look, there’s nothing to worry about. We have plenty of time. There’s a great baby furniture store on west 10th. Tomorrow, we will go there and we will get you everything that you need. Okay?
+38	Rachel	 Okay. Thank you. That’s great. Thank you. Wait-wait! Where on west 10th? Because there’s this really cute shoe store that has like this little…
+39	Ross	 (interrupting her) Okay. Okay. If uh, if you’re gonna do this, then I’m gonna do that. (Points to the bathroom.) So… (Starts for the bathroom.)
+40	Rachel	 (stopping him) Oh, wait Ross! I’m sorry, one more thing!
+41	Ross	 (annoyed) Yeah!
+42	Rachel	 Umm, our situation. Y’know umm, what we mean to each other. And I mean we-we’re having this baby together, and we live together. Isn’t that, isn’t that weird?
+43	Ross	 (stunned) (thinks) Well uh…
+44	Rachel	 I’m just kidding! You can go pee! (He does so in a hurry.)
+45	[Scene	 Monica and Chandler's, Monica is cooking as Chandler looks on.
+46	Joey	 (entering) Hey uh Monica, I can’t remember. Did we say we were gonna meet here or at the movies?
+47	Monica	 We said at the movies, but…
+48	Joey	 Okay, I’ll see you there. (Starts to leave)
+49	Monica	 Joey! (He returns) Now that you’re here…
+50	Joey	 Sure, I can hang out ‘til I have to meet ya. (To Chandler) What uh—How come you’re not going?
+51	Chandler	 I have a job interview I have to get ready for.
+52	Joey	 I thought you already have a job.
+53	Chandler	 And people say you don’t pay attention. No, this is a much better job. It’s vice-president of a company that does data reconfiguration and statistical factoring for other companies.
+54	Joey	 Wow! How do you know how to do that?!
+55	Chandler	 That’s what I do now.
+56	Monica	 Hey Joey, come taste this.
+57	Joey	 What is it?
+58	Monica	 Remember that guy that gave me a bad review? Well… (Feeds him a spoonful of what she’s cooking.) I’m getting my revenge!
+59	Joey	 You cooked him?
+60	Monica	 No. He teaches a course on food criticism at the New School, so before we go to the movies I wanna go by there and make him try my bouillabaisse again. Oh, I cannot wait to read the front page of the Post tomorrow! "Restaurant reviewer admits
+61	Chandler	 The front page? You really do live in your own little world, don’t ya?
+62	[Scene	 The Baby Furniture Store, Ross and Rachel are checking out.]
+63	Cashier	 Do you uh, want these things delivered Mr. and Mrs. Geller?
+64	Rachel	 Oh.
+65	Ross	 Oh.
+66	Rachel	 No-no-no! No, no, no, we’re not married.
+67	Ross	 We are having a baby together, but we’re not involved. (The cashier, a very beautiful woman, looks confused) I mean, uh we-we were seeing each other a while ago, but then we were just friends. And then there was one drunken night. (Rachel looks at him angrily) Or, yes stranger, we’d like this delivered please.
+68	Cashier	 Why don’t you fill out this address card. (Hands him one.)
+69	Ross	 Oh, okay.
+70	Cashier	 I notice you picked out a lot of our dinosaur items.
+71	Rachel	 Oh yeah! Actually, that’s one of the reasons why we’re not a couple.
+72	Ross	 I chose those, I’m a paleontologist.
+73	Cashier	 Really?! That is so cool!
+74	Rachel	 Oh. Oh yeah, don’t get to worked up over it. I mean it-it sounds like he’s a doctor, but he’s not.
+75	Cashier	 Oh no-no, I’m fascinated by paleontology. Have you read the new Walter Alvarez book?
+76	Ross	 Yeah! I-I teach it in my class.
+77	Rachel	 Oh my God! I’m standing at a cash register, holding a credit card, and I’m bored.
+78	Cashier	 (looking at the completed address card) Oh, I love your neighborhood. There’s a great gym right around the corner from your building.
+79	Ross	 That’s my gym.
+80	Cashier	 I can tell you work out. (Ross is please and Rachel looks at him confused.) A paleontologist who works out, you’re like Indiana Jones. (Rachel has a disbelieving look on her face.)
+81	Ross	 I am like Indiana Jones.
+82	[Scene	 Central Perk, Phoebe is there as Rachel enters.]
+83	Rachel	 Hi Pheebs!
+84	Phoebe	 Hey! Oh, how did baby shopping go?
+85	Rachel	 Oh, it was great! We got everything that we needed! Oh and Ross, almost got something that wasn’t on the list. A whore.
+86	Phoebe	 What?!
+87	Rachel	 Well, we were paying for our stuff and this saleswoman just started flirting with him.
+88	Phoebe	 Well did she know you two weren’t married?
+89	Rachel	 Yeah.
+90	Phoebe	 Oh my God! Well the idea of a woman flirting with a-with a single man, we-we must alert the church elders!
+91	Rachel	 You don’t understand! You didn’t see how brazen she was.
+92	Phoebe	 Sounds like you’re a little jealous.
+93	Rachel	 No! I’m not! I-I-I just think it’s wrong! It’s-it’s that I’m—Here I am about to pop and he’s out picking up some shop girl at Sluts ‘R’ Us!
+94	Phoebe	 Is that a real place? (Rachel’s stunned) Are they hiring?
+95	Chandler	 (entering) Hey Phoebe! (To Rachel) Fatty!
+96	Phoebe	 Hey Chandler, why so fancy?
+97	Chandler	 Well, I got a job interview. It’s kinda a big deal too. Its a lot more money and I’d be doing data reconfiguration and statistical factoring.
+98	Phoebe	 Wait, I think I know someone who does that.
+99	Chandler	 Me! I do that. So… Seriously, do I look okay? I’m little nervous.
+100	Rachel	 Oh yeah! You really—You look great.
+101	Phoebe	 Yeah, just don’t get your hopes up.
+102	Chandler	 Why not?
+103	Phoebe	 Well, the interview…
+104	Chandler	 What about it?
+105	Phoebe	 Y’know! You don’t make a very good first impression.
+106	Chandler	 (shocked) What?!
+107	Phoebe	 Oh you don’t know.
+108	Chandler	 Are you serious?!
+109	Phoebe	 Yes, when I first met you, you were like, "Blah, blah, blah." I was like, shhh!
+110	Chandler	 What is it that I do?
+111	Phoebe	 Well it’s just like you’re trying too hard. Always making jokes, y’know, you just—You come off a little needy.
+112	Chandler	 (To Rachel) Did you like me when we first met?
+113	Rachel	 Chandler, I’m not gonna lie to ya, but I am gonna run away from you. (Gets up and hurries out.)
+114	[Scene	 The New School, Monica, carrying her dish, and Joey are confronting the food critic.]
+115	Monica	 Hi! Umm, I’m Monica Geller, I’m the chef at Alessandro’s.
+116	The Food Critic	 Still?
+117	Monica	 I think the things that you said about me are really unfair, and I would like for you to give my bouillabaisse another chance.
+118	The Food Critic	 I don’t see any reason why I would do that to myself again.
+119	Joey	 Either eat it, or be in it.
+120	Monica	 Spoon? (Hands him one and he tastes it.) So, what do you think?
+121	The Food Critic	 I’m torn, between my integrity and my desire to avoid a beating. But I must be honest, your soap is abysmal. (Throws down the spoon and walks out.)
+122	Joey	 Thata girl! Huh? We should get out of here; there’s a new class comin’ in.
+123		(They start to leave.)
+124	The Cooking Teacher	 Welcome to introduction to cooking. Now, before we start, can anyone tell me the difference between a hollandaise sauce and a bearnaise sauce? (No one can.)
+125	Monica	 I can.
+126	The Cooking Teacher	 Okay, go ahead.
+127	Monica	 Well umm, they both have a egg yolk and butter base, but a bearnaise has shallots, shirvel, and most importantly tarragon.
+128	The Cooking Teacher	 That’s very good, what’s your name?
+129	Monica	 Monica.
+130	The Cooking Teacher	 Monica, you go to the head of the class.
+131	Monica	 Okay. (Does so.)
+132	[Scene	 Ross and Rachel's, Ross and Rachel are unpacking and setting up their new purchases.]
+133	Rachel	 All this stuff takes up a lot of room. Hey how uh, how serious are you about keeping Ben in your life?
+134	Ross	 My son? Pretty serious. (There’s a knock on the door and Ross answers it.) Oh hey Katie! (The cashier from before) What uh, what are you doing here?
+135	Katie	 Well, the delivery went out to you and I realized they forgot this. (A blanket.)
+136	Ross	 Ah, must’ve been fairly obvious since it was the only thing left in your store.
+137	Katie	 Listen, to be honest, home deliveries are really a part of my job description.
+138	Ross	 Oh. (Reaches into his pocket for some money as Rachel enters the living room and watches holding two stuffed dinosaurs.)
+139	Katie	 Oh uh…I actually came here to ask you out.
+140	Ross	 Oh! Wow! Uh, yeah! That sounds great. I’m just gonna put this (The money) back in my pocket, pretend that didn’t happen. Uh yeah, actually I’m free now. Do you wanna grab some coffee or…
+141	Katie	 Sure!
+142	Rachel	 Horny bitch. (They both look at her, pretending that the dinosaurs she’s holding are arguing.) No! You’re a horny bitch! Noooo! You’re the horny bitch! No! You’re a horny bitch!
+143		Commercial Break
+144	[Scene	 Ross and Rachel's, continued from before.]
+145	Rachel	 So you guys go, have a really good time.
+146	Ross	 (To Katie) Yeah, I’m just gonna grab my coat. And uh, and my whip. (Katie looks worried.) Y’know because of the Indiana Jones? (Katie laughs) Not-not because I’m-I’m into S&M. (Katie’s worried again.) I’m not-I’m not into anything weird. Y’know? Just-just normal sex. (Katie is uncomfortable.) So, I’m gonna grab my coat. (Does so, leaving Katie and Rachel alone.)
+147	Rachel	 So, you had a good day huh? Big commission; picked up a daddy.
+148	Katie	 Are you okay with this?
+149	Rachel	 Oh yeah! Yeah please, you guys have fun.
+150	Katie	 Okay. It was nice to see you.
+151	Rachel	 Oh and it was great to see you too. And you look fantastic, although you missed a button.
+152	Katie	 Oh umm, actually I umm…
+153	Rachel	 Oh okay, I see what you’re doing there.
+154	[Scene	 Monica and Chandler's, Chandler and Phoebe are entering.]
+155	Chandler	 I can’t even believe this! I really come off that badly?
+156	Phoebe	 Oh! It’s okay, you calm down after a while and then people can see how really sweet and wonderful you really are.
+157	Chandler	 Oh good. Good, because I’m sure this interview is gonna last a couple of weeks.
+158	Phoebe	 All right, don’t freak out! Okay? I-I will help you. How long before you have to leave?
+159	Chandler	 An hour.
+160	Phoebe	 I can’t help you.
+161	Chandler	 Phoebe!
+162	Phoebe	 All right, all right, we’ll just do our best. Okay? So let’s say I’m the interviewer and I’m meeting you for the first time. Okay. "Hi! Come on in, I’m uh, Regina Philange."
+163	Chandler	 Chandler Bing.
+164	Phoebe	 Bing, what an unusual name.
+165	Chandler	 Well you should meet my uncle, Bada. (Pause) I’ll let myself out.
+166	[Scene	 The Cooking Class, Joey is trying to cook as the teacher walks over to him.]
+167	Joey	 Hi.
+168	The Cooking Teacher	 Your Fettuccini Alfredo looks a little dry, did you use all your cheese?
+169	Joey	 When you say used, do you mean eat as a pre-cooking snack?
+170	The Cooking Teacher	 And the cream?
+171	Joey	 Cheese makes me thirsty.
+172	The Cooking Teacher	 Okay. Let’s move on.
+173	Joey	 All right.
+174	The Cooking Teacher	 (To Monica) Oh! Something smells good over at Monica’s station! (She tries Monica’s fettuccini.) Oh my God! This is absolutely amazing! You’ve never made this before?
+175	Monica	 Oh no! I don’t know anything about cooking. I had to ask someone what it’s called when the, when the water makes those little bubbles.
+176	The Cooking Teacher	 Well, hats off to the chef.
+177	Monica	 I-I-I’m sorry, your-your mouth was full, I didn’t hear what you said. Umm, hats off to who now?
+178	The Cooking Teacher	 The chef!
+179	Monica	 That’s right.
+180	[Scene	 Monica and Chandler's, Chandler and Phoebe are still working on his interviewing techniques.]
+181	Chandler	 …I think you’ll find if I come to work here, I don’t micro-manage. I don’t shy away from delegating.
+182	Phoebe	 Um-hmm, that’s good to know. But let’s stop focusing on what you don’t do, and start focusing on what you do do.
+183	Chandler	 (suppressing a smile) What I do do…is manage to uh, create an atmosphere of support for the people working with me.
+184	Phoebe	 I see. Nice sidestep on the do do thing by the way.
+185	Chandler	 Hardest thing I’ve ever done in my life.
+186	Phoebe	 You gotta go!
+187	Chandler	 Oh! (Stands up.)
+188	Phoebe	 Okay, don’t worry. You’re ready.
+189	Chandler	 Really?
+190	Phoebe	 Absolutely! Just fight all your natural instincts and you’ll be great.
+191	Chandler	 Okay.
+192	[Scene	 The Cooking Class, everyone has finished baking a batch of cookies and the teacher is going around tasting them.]
+193	The Cooking Teacher	 Ah Monica, my star student.
+194	Monica	 Y’know, you called me that before so I-I took the liberty of fashioning a star out of aluminum foil. Now, no pressure, you like my cookies, you give me the star. (Hands it to her.)
+195	The Cooking Teacher	 (tasting the cookie and with her mouthful) Oh, yum-yum-yum. (Hands the star back.)
+196	Monica	 Wow! A star! (The class glares at her.) I know you all hate me and-and I’m sorry, but I don’t care.
+197		(The teacher goes to Joey’s station.)
+198	The Cooking Teacher	 Okay Joey, you’re up next. (Tries one of his cookies.) This are good! This is amazing! You get an A!
+199	Joey	 I can an A? In-in school? (To Joey) Hey, I’m a dork.
+200	Monica	 Joey! I’m so proud of you!
+201	The Cooking Teacher	 I think you should give him your star.
+202	Monica	 Excuse me? He doesn’t even know what he’s doing!
+203	The Cooking Teacher	 We’re all beginners here. Nobody knows what they’re doing.
+204	Monica	 I do! I’m a professional chef! (The class gasps.) Oh relax! It’s not a courtroom drama!
+205	The Cooking Teacher	 If you’re a professional chef, what are you doing taking Introduction to Cooking?
+206	Joey	 Yeah!
+207	Monica	 I’m-I’m sorry, it’s just that umm… Well I-I cook at this restaurant, Alessandro’s, and umm I just got a really bad review…
+208	The Cooking Teacher	 Oh Alessandro’s! I love that place!
+209	Monica	 You do?
+210	The Cooking Teacher	 Oh yes! You’re an excellent chef! As a person you’re a little…
+211	Monica	 Oh, I’m totally crazy, but you-you like the food?
+212	The Cooking Teacher	 Very much.
+213	Monica	 Okay then, I don’t stink. I’m a good chef. Okay. (Starts to leave.)
+214	Joey	 Whoa-whoa-whoa-whoa! I don’t want to go. I’m having fun.
+215	The Cooking Teacher	 Well actually, did either of you pay for this class?
+216	Joey	 Hey-hey-hey, if my friend says it’s time to go, it’s time to go. (Starts to leave, but comes back for his cookies.)
+217	[Scene	 An Office Building, Chandler is on his interview.]
+218	Chandler	 …also I was the point person on my company’s transition from the KL-5 to GR-6 system.
+219	The Interviewer	 You must’ve had your hands full.
+220	Chandler	 That I did. That I did.
+221	The Interviewer	 So let’s talk a little bit about your duties.
+222	Chandler	 (nervous) My duties? (Trying not to crack a joke) All right.
+223	The Interviewer	 Now you’ll be heading a whole division, so you’ll have a lot of duties.
+224	Chandler	 (trying not to laugh) I see.
+225	The Interviewer	 But there’ll be perhaps 30 people under you so you can dump a certain amount on them.
+226	Chandler	 (really try not to laugh) Good to know.
+227	The Interviewer	 We can go into detail…
+228	Chandler	 No don’t I beg of you!
+229	The Interviewer	 All right then, we’ll have a definite answer for you on Monday, but I think I can say with some confidence, you’ll fit in well here.
+230	Chandler	 (relieved) Really?!
+231	The Interviewer	 Absolutely. (They walk to the door.) You can relax; you did great.
+232	Chandler	 Yeah I gotta say thank you, I was really nervous. Y’know I’ve been told I come on to strong, make to many jokes, and then it was really hard to sidestep that duty thing. (The interviewer doesn’t understand) Duties. (Still doesn’t.) Duties! (Still doesn’t.) Poo. (Still doesn’t.)
+233	The Interviewer	 Poo?
+234	Chandler	 Oh my God this doesn’t count! Okay? The interview was over, that was the real Chandler Bing in there, this is just some crazy guy out in the hall! Call security! There’s a crazy guy out in the hall!
+235	The Interviewer	 Poo?!
+236	Chandler	 I’ll look forward to your call. (Walks away.)
+237	[Scene	 Ross and Rachel's, Ross is returning from his date.]
+238	Ross	 Hey.
+239	Rachel	 Hi! You’re back from your date!
+240	Ross	 How are you?
+241	Rachel	 I’m fine, but that’s not important. What’s important is how was she?
+242	Ross	 Uhh, it was fun. We, we just had coffee.
+243	Rachel	 Oh uh-huh, uh-huh, coffee, a little rub-rub-rub under the table.
+244	Ross	 What’s uh, what’s going on? Do you not, do you not like Katie?
+245	Rachel	 No! No, she’s—She was nice. I mean, she’s a little slutty, but who isn’t?
+246	Ross	 I liked her.
+247	Rachel	 Of course you did Ross, you would date a gorilla if it called you Indiana Jones!
+248	Ross	 Did you get like a fresh batch of pregnancy hormones today?!
+249	Rachel	 No! It’s just that, Kate bothered me.
+250	Ross	 Why? What was wrong with her?
+251	Rachel	 There was nothing wrong with her! All right? She was perfectly lovely!
+252	Ross	 Okay, so what’s the matter?
+253	Rachel	 I don’t want you to date her!
+254	Ross	 (laughs) Why? What, what are you jealous?
+255	Rachel	 Yes! And not because I want you to go out with me, but because I don’t want you to go out with anybody! Okay? I know it’s a terrible thing to even think this, and it’s completely inappropriate, but I want you to be at my constant beck and call 24 hours a day! I’m very sorry, but that is just the way that I feel.
+256	Ross	 Okay.
+257	Rachel	 What?!
+258	Ross	 I won’t date. I’ll uh, I’ll be here, with you, all the time.
+259	Rachel	 Really? But I’m being so unreasonable.
+260	Ross	 True, but you’re allowed to be unreasonable. You’re having our baby.
+261		(Pause.)
+262	Rachel	 (starting to cry) Oh Ross, thank you. Thank you. (They hug.)
+263	Ross	 Do you feel better?
+264	Rachel	 No, not really. You’re pressing the baby into my bladder and now I have to pee. Sorry. (She gets up and starts for the bathroom.)
+265	Ross	 Uh Rach?
+266	Rachel	 Yeah. (Stops and starts doing the I-have-to-go-to-the-bathroom dance.)
+267	Ross	 Just one thing umm…
+268	Rachel	 Uh-huh.
+269	Ross	 We live together. You’re having our baby. I’m not gonna see anybody else. Are you-are you sure you don’t want something more?
+270	Rachel	 (pause) Wow! I don’t know, maybe. I’m…
+271	Ross	 Oh-oh, Rach! I was just messin’ around! (She’s stunned) Like you did last night when I had to pee?
+272	Rachel	 (laughs) I knew that! I knew that! I was just messin’ with you too!
+273	Ross	 (pause) Okay. Okay. Because for a minute you said you…
+274	Rachel	 Oh no-no-no-no, no!
+275	Ross	 …that you actually…
+276	Rachel	 No that’s just—(Laughs)—That’s just ‘cause I’m such a good messer!
+277		(They both laugh. Ross sits down, but Rachel doesn’t move and is lost in thought.)
+278	Ross	 Rach?
+279	Rachel	 Yeah?
+280	Ross	 The bathroom?
+281	Rachel	 Right! (Heads for the bathroom.)
+282		Closing Credits
+283	[Scene	 The New School, Joey and Monica are walking down a hallway.]
+284	Joey	 Well I had a great time! Learned how to bake, ate great food, that’s the first A I’ve gotten since seventh grade, and I didn’t have to sleep with the teacher this time.
+285	Monica	 Oh, look! Acting for Beginners! Want to feel good about yourself?
+286	Joey	 What the hell!
+287	Monica	 Okay.
+288		(They enter.)
+289	The Acting Teacher	 All right, let’s start with some basics. Can anybody tell me what the difference between upstage and downstage is?
+290		(No one can and Monica looks at Joey expectantly.)
+291	Joey	 Yeah, this was a stupid idea. (Exits.)
+292		End

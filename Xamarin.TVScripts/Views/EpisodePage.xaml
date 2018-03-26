@@ -68,7 +68,7 @@
                                                     CommandParameter="{Binding Path=.}"/>
                                             </Image.GestureRecognizers>
                                         </Image>
-                                        <Image Source="mask.png"/>
+                                        <Image Source="_mask.png"/>
                                     </Grid>
                                     <Label
                                         IsVisible="{Binding ShowCharacterName}"
@@ -87,7 +87,7 @@
                                     <Image WidthRequest="24"
                                            HeightRequest="24"
                                            HorizontalOptions="Start"
-                                           Source="triangle.png"    
+                                           Source="_triangle.png"    
                                            Margin="2,0,0,0"></Image>
                                     <Frame CornerRadius="4"
                                             VerticalOptions="Center"
@@ -129,7 +129,7 @@
                                                     CommandParameter="{Binding Path=.}"/>
                                             </Image.GestureRecognizers>
                                         </Image>
-                                        <Image Source="mask.png"/>
+                                        <Image Source="_mask.png"/>
                                     </Grid>
                                     <Label
                                         IsVisible="{Binding ShowCharacterName}"
@@ -160,7 +160,7 @@
                                     <Image WidthRequest="24"
                                            HeightRequest="24"
                                            HorizontalOptions="End"
-                                           Source="triangle_inverted.png"
+                                           Source="_triangle_inverted.png"
                                            Margin="0"></Image>
                                 </Grid>
                             </Grid>

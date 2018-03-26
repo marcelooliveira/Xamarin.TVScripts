@@ -1,0 +1,4 @@
+1	Originally written by . Transcribed by	 Josh Hodge
+2	[Scene	 Chandler's bedroom. Chandler is sleeping and Eddie is there watching him.] [Chandler wakes up] CHANDLER
+3		END
+4	webbot bot="ImageMap" startspan rectangle=" (140,2) (197, 84) http	//thecfsi.com/season2/220oyd.htm" rectangle=" (71,1) (130, 84) http

@@ -1,0 +1,367 @@
+1		- More Quiz's- General Updates
+2		- Support This Site!
+3		
+4		--------------------------------------------------------------------------------
+5	Teleplay by	 Tracy Reilly Story by
+6	[Scene	 Chandler and Monica's apartment. They are having a diner party with Phoebe and Mike.]
+7	Mike	 (raising his glass) Thank you guys for having us over.
+8	Phoebe	 Oh! Yeah, this is fun, couples night.
+9	Chandler	 Yeah, I don't know why we hang out with married couples more often.
+10	Monica	 Well, because every time we do, you make jokes about swinging and scare them away.
+11	Chandler	 You mean that Portuguese couple? Yeah, like you wouldn't have done it. (she shrugs)
+12	Ross	 (entering) Hey, you guys... I have great news.
+13	Monica	 Ross, we're kind of in the middle of diner here.
+14	Ross	 Oh, well, er, I already ate, but sure...! (they all look at each other when Ross grabs a plate) Guess what happened at work today...
+15	Chandler	 A dinosaur died a million years ago?
+16	Ross	 Try sixty-five million years ago, and then try sssshhhhhh.... My tenure review board met today and I hear it's looking really good.
+17	Phoebe	 Wow!
+18	Ross	 Yeah. Do you have any idea what this means in academic circles, uh? I am gonna get laid.
+19	Rachel	 (while entering) Hi you guys.
+20	All	 Hey.
+21	Rachel	 Ooh, Italian! (she also grabs a plate)
+22	Monica	 No one wanted seconds, right?
+23	Ross	 No, no. I-I'm good.
+24	Rachel	 Hey you guys... You're never gonna believe it. This headhunter called me. I have a meeting tomorrow with Gucci. Gucci wants me.
+25	Ross	 I'm up for tenure.
+26	Rachel	 Congratulations!
+27	Ross	 You too! What are the odds?
+28	Rachel	 Ooh! (they hug)
+29	Joey	 (enters) Guess what? (they all look expectantly at him) I finally got that seed out of my teeth.
+30	Monica	 I don't know who I'm happiest for...
+31	Phoebe	 I do, he's been working on that all day! (looking at Joey)
+32		
+33		OPENING CREDITS
+34	[Scene	 Central Perk. Phoebe, Monica and Chandler on their couch.]
+35	Phoebe	 Hey Mon? Was it weird changing your name to Geller-Bing?
+36	Monica	 No, no. It felt nice to acknowledge this. (pats Chandler on his leg)
+37	Phoebe	 Where did you go to do it?
+38	Monica	 Uhm the... the ministry... of names... bureau...
+39	Chandler	 YOU NEVER DID IT!
+40	Monica	 I'm sorry. It's just the idea of being an official Bing.
+41	Chandler	 Hey! I will have you know that... aah, who am I kidding. Let's call the kid Geller and let Bing die with me.
+42	Mike	 (walks to the couch with coffee for Phoebe) Here you go.
+43	Phoebe	 Thanks! Honey, would you want me to take your name?
+44	Mike	 Oh, it's just... It's up to you. It's your name. You've got to live with it.
+45	Phoebe	 All right, let's see, call me mrs Hannigan.
+46	Chandler	 Mrs Hannigan?
+47	Phoebe	 What? Can't you see I'm in the middle of something? Ooh, I like it.
+48	Joey	 (enters) Hey guys.
+49	Chandler	 Hey Joe! We've got a couple of things we've got to check out at the new house. You want to come with us?
+50	Joey	 No, thank you.
+51	Monica	 All right. I know you're not happy about us moving, but you're the only one who hasn't seen the house.
+52	Chandler	 Yeah, come with us. You'll see how close it is to the city.
+53	Joey	 But no, it's not close. You said it was in escrow? I couldn't even find it on the map.
+54	Monica	 Joey, please come. It would mean so much to us.
+55	Joey	 You know what? You are my friends, I wanna be supportive, I will come with you. SHOTGUN!
+56	Chandler	 Damn it.
+57	Monica	 See you guys later.
+58	Phoebe	 Okay!
+59	Monica	 (to Joey) I'll pick you up at eleven. So glad you're coming.
+60	Phoebe	 Good for you. That was really mature.
+61	Joey	 What? No, the only reason I'm going to their stupid new house, is so I can point out everything that's wrong with it, so they don't move. I'm gonna make them stay here.
+62	Mike	 You're a strange kind of grown-up.
+63	Phoebe	 Joey, you can't make someone do something they don't want to do. Believe me, there's something I've been trying to get Mike to do in bed and there's... he's just...
+64	Mike	 Woo-wo-hey-hey-hey... Can we not talk about that right now?
+65	Phoebe	 All right, prude... Look, Monica and Chandler really love this house. You are not gonna talk them into staying here.
+66	Joey	 Hey, hey... I can convince people to do anything, you know. I bet I can even get Mike to do that "thing". What is it?
+67		(Phoebe whispers something in Joey's ear, but after hearing it he jumps up, shocked)
+68	Joey	 I AM NOT GONNA HELP YOU DO THAT! Goodbye! (he leaves)
+69		
+70	[Scene	 A restaurant. Rachel enters.]
+71	Rachel	 (to maitre d') Hi, I'm here to see mr Campbell... with Gucci. The reservation is probably under Gucci. It's spelled like Gukki, which could be confusing.
+72	Maitre d'	 Mr Campbell's not here yet. Let me show you to his table.
+73		(They walk to the table, but Rachel suddenly gasps. Sitting there is mr Zellner, her boss from her current job at Ralph Lauren.)
+74	Rachel	 Oh my God! That's my boss. You have to seat us somewhere else.
+75	Maitre d'	 I'm sorry. That's always mr Campbell's table.
+76	Rachel	 But my... but my boss cannot see me. I'm interviewing for another job.
+77	Maitre d'	 I know. With Gukki
+78	Rachel	 Sssshhhh!
+79	Mr Zellner	 Rachel?
+80	Rachel	 Hi... I'm on a date...
+81	Mr Zellner	 (confused) That's great!
+82	Rachel	 Yeah, it is. Yeah, you know, it's tough. Single mom, career... You gotta get out there.
+83	Mr Zellner	 Well, you got uhm... good energy.
+84	Rachel	 Oh.
+85	Mr Campbell	 Rachel?
+86	Rachel	 Yes, hi!
+87	Mr Campbell	 James Campbell...
+88	Rachel	 Hi! (to mr Zellner) Excuse us.
+89	Mr Campbell	 Please... (shows her to sit)
+90	Rachel	 Okay. Oh, yeah... (whispering to mr Zellner) Oh he's cute!
+91	Mr Campbell	 So... your resumé is quite impressive. (Mr Zellner who sits behind Rachel shrugs)
+92	Rachel	 Wha... My resumé? I wouldn't... I wouldn't call my online dating profile a resumé.
+93	Mr Campbell	 Dating profile? I-I-I'm talking about the work resumé.
+94	Rachel	 (starts singing la la la la) Whatever happened to just singing for no reason? Huh?
+95	Mr Campbell	 Maybe people... found it weird.... So, why do you want to leave Ralph Lauren?
+96	Rachel	 What? I-I don't.
+97	Mr Campbell	 You don't?
+98	Rachel	 No, I-I-I love it there.
+99	Mr Campbell	 Well, if you don't want to leave, why are we having this lunch?
+100		(Rachel mimes and mouths to mr Campbell "That is my boss", pointing to mr Zellner)
+101	Mr Campbell	 What?
+102		(Rachel now silently whispers "That's my boss".)
+103	Mr Campbell	 That's Hugo Boss?
+104		(Rachel holds her hand in order to support her head. Mr Zellner obviously overheard the conversation.)
+105		
+106	[Scene	 A counter at a government building. Phoebe's waiting in line.]
+107	Phoebe	 (to the woman behind her) This place is so depressing. If I had to work here I'd kill myself. (she turns around and the clerk behind the counter heard her.) But you obviously haven't.
+108	Clerk	 How can I help you?
+109	Phoebe	 I need to change my name, please. See, I need to change it because I'm-I'm hiding from the law. (the clerk shows no change in expression whatsoever) You're fun.
+110	Clerk	 You need to fill out this form. (motions for the next person in line)
+111	Phoebe	 Okay, well, I just don't, I don't know how it works exactly. See, my name is Buffay and my husband's name is Hannigan, so is it supposed to be Buffay-Hannigan or Hannigan-Buffay?
+112	Clerk	 It can be anything you want.
+113	Phoebe	 Well, not anything, I mean...
+114	Clerk	 Yeah... anything.
+115	Phoebe	 Oh, this could take a while.
+116	Clerk	 Get out of my line.
+117	Phoebe	 Okay.
+118		
+119	[Scene	 Central Perk. Chandler and Monica are there when Phoebe enters.]
+120	Phoebe	 Hey!
+121	Monica	 Hey Pheebs.
+122	Phoebe	 Oh, not anymore. I changed it today.
+123	Monica	 Oh, I'm sorry, mrs Hannigan.
+124	Phoebe	 Wrong again! Apparently you can change it to anything you want. So I thought, all right, here's an opportunity to be creative. So meet Princess Consuela Banana Hammock.
+125	Chandler	 That's what we were gonna name the baby.
+126	Monica	 Phoebe!
+127	Phoebe	 Uh! Princess Consuela.
+128	Monica	 You seriously changed your name to that?
+129	Phoebe	 Uh-huh!
+130	Monica	 Okay, so from now on we have to call you Princess Consuela?
+131	Phoebe	 Uhm, no. I'm gonna have my friends call me Valerie.
+132		(Rachel enters, looking depressed)
+133	Chandler	 Hey, how'd the interview go?
+134	Rachel	 Oh! It's not good.
+135	Chandler	 You know, I always feel that way after an interview. I'll bet it went better than you think.
+136	Rachel	 Well, I didn't get the job at Gucci and I got fired from Ralph Lauren.
+137	Chandler	 That is a bad interview.
+138	Phoebe	 What are you, what are you talking about? How did this happen?
+139	Rachel	 Well, my boss was at the same restaurant where I was having my interview and he heard everything. So later he calls me to his office and he tells me that he's gonna have to let me go, because I'm not a team player. And I said "Wait a minute! Yes I am." and I had to sit there for 45 minutes while he proved that that in fact... was true.
+140	Monica	 Oh God. I'm so sorry.
+141		(Ross enters with a bottle in his hand)
+142	Ross	 Hey! Wha-hoo! What's this? (showing the bottle) Well it's a, it's a bottle of champagne. Why is this here?
+143	Phoebe	 Ross...
+144	Ross	 I guess it's here because I GOT TENURE!
+145	All (except Rachel)	 Congratulations! (Rachel looks devastated)
+146	Ross	 This is the single greatest day of my professional career. Gunther, six glasses!
+147	Gunther	 Six? You want me to join you?
+148	Ross	 Oh, I thought Joey was here. Five is good. (Gunther leaves, hurt) Well, I'm gonna have a loogie in my coffee tomorrow.
+149	Chandler	 Ooh! Israeli champagne. And it's vanilla!
+150	Ross	 I got tenure. I didn't win the lottery... Hey Rach, so uh... how did your thing go?
+151	Rachel	 Oh it... good! Yeah, but I'm not gonna hear from that for a couple of days.
+152	Ross	 Oh, you know what? You're gonna get it. I-I-I-I can feel it.
+153	Phoebe	 Can you?
+154	Rachel	 Ah, all right. Here's to Ross!
+155	Ross	 And-and to years of hard work finally paying off.
+156	Phoebe	 And to knowing that your career doesn't mean everything. (Rachel mouths "aah")
+157	Ross	 But also knowing it means a lot.
+158	Monica	 But more importantly to full well-rounded lives.
+159	Ross	 ...that center around work.
+160	Chandler	 To Ross!
+161	All (except Rachel)	 Ross!
+162		(they all drink from the champagne, but clearly dislike the taste of it)
+163	Ross	 You know what the best part about this is? I can never be fired.
+164	Phoebe	 Oh God!
+165	Ross	 No seriously. I have job security for life. You know, I never have to worry. (Rachel starts crying) Oh, look at you. Look how happy you are for me.
+166	Rachel	 (crying) No, it's not that. I got fired today. And I didn't get the other job.
+167	Ross	 Rach, I'm so sorry.
+168	Rachel	 Oh!
+169	Ross	 Great. I feel like an idiot.
+170	Rachel	 No, it's okay, you didn't know.
+171	Ross	 Oh... (to the others) Little heads-up would have been nice.
+172		
+173	[Scene	 Chandler and Monica's future house. They enter the living room with the realtor and Joey.]
+174	Monica	 Thank you for letting us see the house again.
+175	Chandler	 And thank you for explaining to us what escrow means... I've already forgotten what you said, but thank you.
+176	Realtor	 Take as long as you want. Just let me know when you're through. (she leaves the room)
+177	Monica	 Ah, so glad you decided to come.
+178	Joey	 Me too. Yeah, this place is great. I'm so happy for you guys. Although, you know, I hope you like fungus.
+179	Chandler	 What?
+180	Joey	 Fungus! Yeah. Place is full of it.
+181	Monica	 No it's not. We had an inspection and they didn't find anything.
+182	Joey	 Okay. Then I guess I have dry eyes and a scratchy throat for no reason.
+183	Monica	 Maybe because it's you hung your head out of the window like a dog the whole ride here.
+184	Joey	 Maybe. So this is the living room huh? Ooh, it's pretty dark. (starts feeling around him like he's in a completely dark room, touching Chandler, who backs out and hits him)
+185	Monica	 No it's not!
+186	Joey	 (squinting his eyes) Are you kiddin'? I think I just saw a bat in the corner!
+187	Chandler	 When your head was hanging out the window, it didn't hit a mailbox, did it?
+188	Joey	 (glares at him for a moment, then admits grudgingly) Maybe. Well, I just think you guys can do better than this house, you know? Or any other house for that matter.
+189	Monica	 Oh Joey, look, we know you're having a hard time with this, but we really, we love it here.
+190	Joey	 FINE, ok, if you love this house so much, then you should just live here, okay? I just hope you get used to that weird humming sound. (He turns his back to them and starts humming) Hmmmmmmmmmmmmmm...
+191	Monica	 Joey, we know that's you.
+192	Joey	 no... hmmmmm... it's not... hmmmmmmmmmm
+193		
+194	[Scene	 Phoebe is at Central Perk. Mike enters.]
+195	Mike	 Hey (He kisses Phoebe)
+196	Phoebe	 Welcome back!
+197	Mike	 Ah! I missed you
+198	Phoebe	 Oh, me too!
+199	Mike	 So, what's new?
+200	Phoebe	 Well, I'm no longer Phoebe Buffay.
+201	Mike	 That's great! You changed you name?
+202	Phoebe	 Yes I did! Meet
+203	Mike	 (afraid) You're kidding right?
+204	Phoebe	 Nope.
+205	Mike	 You really did that?
+206	Phoebe	 Yep.
+207	Mike	 Yeah, but you can't do that.
+208	Phoebe	 Why? It's fun, it's different, no-one else has a name like it.
+209	Mike	 (looks at her astonished) Alright, then I'm gonna change my name.
+210	Phoebe	 Great, okay, what are you gonna change it to?
+211	Mike	 Crap Bag.
+212	Phoebe	(not amused) Mike Crap Bag?
+213	Mike	 No, no Mike, just Crap Bag. First name Crap, last name Bag.
+214	Phoebe	 You're not serious, right?
+215	Mike	 Yeah, I'm serious. (sarcastic) It's fun, it's different and no-one else has a name like that!
+216	Phoebe	 Uhu, uhu, well, then, great. If you love it, I love it.
+217	Mike	 I do love it, and I love your name. I love Princess Consuela.
+218	Phoebe	 And I love Crap.
+219		
+220	[Scene	 Joey is in Monica and Chandler's future house, sitting in a child's bedroom, looking at a quiz card which has "5+10=" printed on one side.]
+221	Joey	 (turns the card around, obviously had the wrong answer) Ow!
+222		(A young girl enters)
+223	Girl	 Who are you?
+224	Joey	 Oh, hi, I'm Joey. My stupid friends are buying this house. Who are you?
+225	Girl	 I'm Mackenzie. My stupid parents are selling this house.
+226	Joey	 (understanding) Oh.
+227	Mackenzie	 (sighs) I hate my parents.
+228	Joey	 I hate my friends. (They shake on it as if they just made a pact) Alright, look. There's gotta be a way that we can stop this from happening.
+229	Mackenzie	 Like what?
+230	Joey	 (thinking) Uhm... oh! Okay. You come with me, and you tell them that the house is haunted!
+231	Mackenzie	 What are you? Eight?
+232	Joey	 Woah, uh! Okay, let's hear your great idea.
+233	Mackenzie	 I don't have any great ideas. I am eight.
+234	Joey	 (frustrated) Ahh! There's gotta be a way. I mean, you know, if Monica and Chandler move out here and now Phoebe is married to Mike. That just leaves me and Ross and Rach, you know what I mean?
+235	Mackenzie	 I really don't.
+236	Joey	 What am I gonna do, I feel like I'm losing my friends.
+237	Mackenzie	 My parents say I'm gonna make new friends.
+238	Joey	 Oh, yeah, sure, easy for you, you're young. Me, I'm set in my ways.
+239	Mackenzie	 This is what my mom was talking about. Whiners are wieners. (Joey glares at her angrily) Look, you want your friends to be happy, right?
+240	Joey	 Yeah, yeah, I guess.
+241	Mackenzie	 Well, if moving here is gonna make them happy, don't you want them to do it?
+242	Joey	 (having difficulty admitting it) Yeah, maybe.
+243	Mackenzie	 Then you gotta let them go.
+244	Joey	 (In near tears, realizes she is right) I hate to admit it, but you're probably right. How did you get to be so smart?
+245	Mackenzie	 I read a lot.
+246	Joey	 (his mod changes instantly) Just when I thought we could be friends. (he leaves the room)
+247		
+248	[Scene	 Outside Ralph Lauren building. Rachel just walked out carrying a box of her stuff, and a strange man approaches her.]
+249	Man	 Hey Rach, I just heard. I'm so sorry.
+250	Rachel	 Oh, thank you... (looks at his face trying to remember his name)
+251	Man	 You still don't know my name, do you?
+252	Rachel	 (Is embarrassed for a moment, but it quickly passes) Well, now I don't have to. (The man leaves instantly)
+253		(In the meantime, Ross is trying to squeeze and push a rather large chair through the revolving doors of the Ralph Lauren building.)
+254	Rachel	 (annoyed) Ross, what is taking you so long?
+255	Ross	 (stares at her through the door and starts pushing the chair harder, looking very annoyed. He finally manages) (sarcastic) I'm sorry, it's almost as if this wasn't built for a quick getaway!
+256		(Mark, approaches from behind and recognizes her)
+257	Mark	 Rachel?
+258	Rachel	 (turns around) Mark? Oh my God! (puts the box on the chair and they hug each other)
+259	Mark	 How've you been?
+260	Rachel	 I'm fantastic. You remember Ross?
+261	Mark	 Sure, sure. (To Ross) What's with the chair. (Rachel signals him not to mention she's been fired)
+262	Ross	 Uh, you know, you can't always get a seat on the subway, so... (laughs stupidly)
+263	Mark	 Clever. (back to Rachel) So how are you?
+264	Rachel	 Oh, well, (looks at her box and chair) you're not catching me on my best day.
+265	Mark	 Yeah, a box full of your desk stuff doesn't exactly say big promotion.
+266	Rachel	 No, but it's good, you know, I'm gonna take some time off and do some charity work.
+267	Mark	 Are you sure, because we may have something at Louis Vuitton.
+268	Rachel	 Well, screw charity work. What've you got?
+269	Mark	 Why don't we have dinner tonight and talk about it?
+270	Rachel	 Great! I'll call ya!
+271	Mark	 (shakes Ross' hand) Nice to see you.
+272	Ross	 Yeah! yeah, I got tenure! (Mark looks at him strangely and walks off)
+273	Rachel	 (very excited) Oh my God!
+274	Ross	 See? I told you something good would come along. And he seemed really nice. I've met him before?
+275	Rachel	 Ross! That's Mark. From Bloomingdales? You were insanely jealous of him.
+276	Ross	 (realizing) That is Mark?
+277	Rachel	 Yes.
+278	Ross	 I hate that guy.
+279	Rachel	 Oh.
+280	Ross	 No, no, NO, you cannot go to dinner with him.
+281	Rachel	 What? You don't want me to get a job?
+282	Ross	 Oh yeah, I'm sure he's gonna give you a job. Maybe make you his SEXretary.
+283	Rachel	 Ugh.
+284	Ross	 I'm serious. I just don't trust that guy, okay?
+285	Rachel	 Ross, you know what? (looks over to the door and sees security staring at them) Okay, let's talk about it later, there comes security. (Takes her box and leaves. Ross follows her and then returns for the chair. He stands for a moment, then pushes it quickly in the general direction Rachel went into, and out of the camera's view, and then nonchalantly walks away)
+286		
+287	[Scene	 Chandler and Monica's new house. Sitting near the window, they look at the neighborhood.]
+288	Monica	 Oh, I love this street. The trees, the big front yards, the actual picket fences.
+289	Chandler	 Man, those two dogs are going at it!
+290	Joey	 (entering) Hey!
+291	Chandler	 Hey.
+292	Monica	 Hey, where have you been?
+293	Joey	 Oh, just er... you know, looking around. But you know what? This house... is great.
+294	Chandler	 Really? What changed your mind?
+295	Joey	 Oh well, the little girl who lives here made me feel a lot better about the whole thing.
+296	Chandler	 Joey, there was a little girl who lived here, but she died like 30 years ago.
+297		(Joey's eyes double in size)
+298	Joey	 (frightened) What?
+299	Chandler	 Ha! I'm just messing with you.
+300	Joey	 That's not funny! You know I'm afraid of little girl ghosts!
+301	Monica	 Joey, now that you're okay with the house, do you wanna go see your room?
+302	Joey	 What? I get my own room?
+303	Chandler	 You don't think we'd buy a house and not have a Joey room do you?
+304	Joey	 Oh my God! (they all hug) Oh! Hey, can I have an aquarium? And a sex swing?
+305	Chandler and Monica	 No!
+306	Joey	 Why not? I'll keep the tank clean.
+307		
+308	[Scene	 Central Perk. Phoebe and Mike are leaving.]
+309	Mike	 After you, miss Banana Hammock.
+310	Phoebe	 Thank you, mister Bag.
+311		(a woman enters and recognizes Phoebe)
+312	Woman	 Oh hey, how are you?
+313	Phoebe	 Oh hi Rita! Good! (to Mike) Oh, Rita's a massage client.
+314	Mike	 Oh! Why don't you introduce me?
+315	Phoebe	 (shrugs) Er, Rita, this is my husband.
+316	Rita	 Oh! (they shake hands)
+317	Phoebe	 Yeah.
+318	Mike	 Why don't you tell her my name?
+319	Phoebe	 (without moving her lips, wearing a fake smile) Okay, I will. (to Rita) This is my husband Crap Bag.
+320	Rita	 Crap Bag?
+321	Mike	 If you need an easy way to remember it, just think of a bag of crap.
+322	Rita	 Okay. Excuse me...
+323	Phoebe	 Yeah... Ogh... Okay, fine. You made your point. Can you please just be Mike Hannigan again?
+324	Mike	 Only if you'll be Phoebe Buffay.
+325	Phoebe	 How about uhm... How about Buffay-Hannigan?
+326	Mike	 Really?
+327	Phoebe	 Yeah. I'm Phoebe Buffay-Hannigan Banana Hammock.
+328	Mike	 Do you even know what a banana hammock is?
+329	Phoebe	 It's a funny word.
+330	Mike	 It's a Speedo.
+331	Phoebe	 ...Oh crap!
+332		
+333	[Scene	 Monica and Chandler's apartment. Ross enters.]
+334	Ross	 Hey, is Rachel here?
+335	Monica	 No.
+336	Ross	 She's still at dinner?
+337	Monica	 I guess. Why? Who's she with?
+338	Ross	 That guy Mark. From Bloomingdale's... She thinks he's just being nice to her. But I know he really wants to sleep with her.
+339	Chandler	 It's seven years ago. (he looks surprised) My time machine works!
+340	Ross	 We ran into him on the street today and he said he might have a job for her. But I know he just wants to get into her pants.
+341	Monica	 So what if he wants to sleep with her? I mean, she's single and he's cute.
+342	Chandler	 Excuse me?
+343	Monica	 Oh please! Yesterday on the subway? You couldn't stop staring at that woman with the big breasts the whole time.
+344	Chandler	 For your information, I was staring at her baby. We're about to be parents.
+345	Monica	 Oh, sorry!
+346		(She looks at Ross, a bit ashamed. Chandler mimes "big breasts" to Ross and lip syncs "Wow". Ross looks at him, astonished and then Monica looks at Chandler again. A little too late he changes the "big breasts" mime into "rocking a baby". When he realizes Monica might have seen it he also strokes his imaginary baby's head.)
+347	Rachel	 (entering) Hi you guys!
+348	Ross	 Hey, so uhm... How was dinner?
+349	Rachel	 Oh, it was great. Mark is so sweet.
+350	Ross	 (speaking without pause, agitated) Oh yeah? Yeah? I wonder why? What could that smarmy letch possibly want?
+351	Rachel	 Oh Ross, come on. He's happily married. His wife just had twins.
+352	Ross	 Should we send something?
+353	Chandler	 How did the job stuff go?
+354	Rachel	 He offered me one.
+355	Chandler	 That's great!
+356	Ross	 Congratulations!
+357	Rachel	 I know, it's amazing. It's amazing. It's so much better than what I had at Ralph Lauren. The money is great...
+358	Ross	 Can we, can we just stop for a second? Who said something better would come along, huh? You didn't believe me. I told you everything was gonna work out. (gasps) You know what? This calls for a bottle of Israels finest.
+359	Rachel	 The job is in Paris. (they all stare at each other)
+360		
+361		COMMERCIAL BREAK
+362	[Scene	 Joey and Rachel's. Joey's on the phone.]
+363	Joey	 I mean, this soap opera is a great gig, but... am I missing opportunities? You know, I've always thought of myself as a serious actor. I mean, should I be trying to do more independent movies?
+364	Mackenzie	 (at the other end of the line) I don't know... You know what? I'm gonna put you on with my bear. Hold on. (she puts the phone at the bears ear)
+365	Joey	 Hey bear, I need some career advice.
+366		THE END
+367		

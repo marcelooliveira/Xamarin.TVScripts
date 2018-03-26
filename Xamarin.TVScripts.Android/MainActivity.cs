@@ -78,9 +78,10 @@ namespace Xamarin.TVScripts.Droid
                 while ((line = sr.ReadLine()) != null)
                 {
                     string[] parts = line.Split('\t');
-                    int.TryParse(parts[0], out int number);
-                    var name = parts[1];
-                    episodes.Add(new Episode(1, number, name));
+                    int.TryParse(parts[0], out int seasonNumber);
+                    int.TryParse(parts[1], out int episodeNumber);
+                    var name = parts[2];
+                    episodes.Add(new Episode(seasonNumber, episodeNumber, name));
                 }
             }
         }
@@ -91,19 +92,16 @@ namespace Xamarin.TVScripts.Droid
 
             using (UserDialogs.Instance.Loading("wait..."))
             {
-                using (StreamReader sr = new StreamReader(assets.Open($@"Scripts/Lost/{seasonNumber:d2}{episodeNumber:d2}.txt")))
+                using (StreamReader sr = new StreamReader(assets.Open($@"Scripts/Friends/{seasonNumber:d2}{episodeNumber:d2}.txt")))
                 {
-                    sr.ReadLine(); //episode name
-
                     string line = "";
-                    int quoteNumber = 1;
                     while ((line = sr.ReadLine()) != null)
                     {
                         string[] parts = line.Split('\t');
-                        int.TryParse(parts[0], out int id);
-                        var character = parts[2];
-                        var speech = parts[3];
-                        quotes.Add(new Quote(seasonNumber, episodeNumber, quoteNumber++, character, speech));
+                        int.TryParse(parts[0], out int quoteNumber);
+                        var character = parts[1];
+                        var speech = parts[2];
+                        quotes.Add(new Quote(seasonNumber, episodeNumber, quoteNumber, character, speech));
                     }
                 }
                 return quotes;

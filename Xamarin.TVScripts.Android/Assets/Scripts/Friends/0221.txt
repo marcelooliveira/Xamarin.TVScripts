@@ -1,0 +1,4 @@
+1	Written by	 Sebastian Jones & Brian Buckner. Transcribed by
+2	[Scene	 Monica and Rachel's apartment. Everyone is there. Monica is watching stock prices on a business channel.] JOEY
+3		END
+4	webbot bot="ImageMap" startspan rectangle=" (139,1) (197, 84) http	//thecfsi.com/season2/222towtp.htm" rectangle=" (70,3) (130, 83) http

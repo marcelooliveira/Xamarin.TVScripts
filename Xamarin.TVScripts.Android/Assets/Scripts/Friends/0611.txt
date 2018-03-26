@@ -1,0 +1,315 @@
+1	Teleplay by	 Brian Boyle Story by
+2	[Scene	 Monica and Chandler's, everyone is there as Joey enters happily.]
+3	Joey	 Hey!
+4	Ross	 Hey!
+5	Joey	 Listen, do you guys think I have a chance with Janine?
+6	Monica	 Honey, we have been through this before!
+7	Rachel	 Yeah. Don’t do this to yourself.
+8	Phoebe	 She’s made it pretty clear, it is not going to happen.
+9	Joey	 Well all right then, I guess I shouldn’t get to excited about the fact (excitedly) that I just kissed her!
+10	Monica	 You serious?!
+11	Chandler	 That’s great!
+12	Monica	 Really?!
+13	Phoebe	 Yeah well, we’ll see.
+14	Ross	 You kissed her.
+15	Joey	 Oh we kissed it up real nice.
+16	Chandler	 So you kissed her, so what happened after that?
+17	Joey	 I came over here to tell you guys.
+18	Chandler	 So she’s just waiting over there for ya?
+19		(Joey nods yes, but suddenly realizes what he did and runs out of the apartment and back to his place.)
+20		Opening Credits
+21	[Scene	 Central Perk, Joey and Janine are pretty much making out at one of the tables as Monica and Rachel look on from the couch.]
+22	Janine	 I gotta go.
+23	Joey	 Okay. (They kiss.)
+24	Janine	 I’m gonna be really late for dance class!
+25	Joey	 Okay. (They kiss.)
+26	Janine	 Okay, now I’m really late. (Gets up.)
+27	Joey	 Okay, I’m all right, okay, but hey, could you just leave your lips? (She kisses him on the cheek and starts to leave.)
+28	Janine	 (to Monica and Rachel) Bye.
+29	Monica	 Bye. (Janine exits.)
+30	Joey	 Have you kissed her yet? It’s awesome! I could do it forever! Y’know what? She-she kisses better than my mom cooks!
+31	Monica	 I am so glad you said cooks.
+32	Rachel	 I know.
+33	Chandler	 (entering) Oh hey Rachel, sweetheart? You have got to tell the post office that you have moved. Okay? We are still getting all your bills and stuff. (Hands her all of her bills and stuff.)
+34	Rachel	 Oh-oh, Pottery Barn! (Grabs the aforementioned catalog and holds the rest back out to Chandler.) You can throw the rest away.
+35	Chandler	 I’m not your garbage man. I’m your mailman.
+36	Rachel	 Monica look! Look-look-look! Here is that table that I ordered. (Shows her the picture.)
+37	Monica	 You got it from Pottery Barn?!
+38	Rachel	 Yeah! It’s an apothecary table. Does anyone even know what an apothecary is?
+39	Chandler	 A pharmacist. (Rachel mocks him.)
+40	Monica	 Rach, Phoebe hates Pottery Barn.
+41	Joey	 I hate Pottery Barn too. They kicked me out of there just because I sat on a bed!
+42	Chandler	 You took off your pants and climbed under the sheets!
+43	Joey	 (indignant) I was tired!
+44	Rachel	 Phoebe hates Pottery Barn?!
+45	Monica	 Yeah, she hates all mass produced stuff. She thinks her furniture should have a history, a story behind it.
+46	Rachel	 Well this has story behind it! I mean they had to ship it all the way from the White Plains store.
+47	Monica	 It’s gotta be one of a kind. Y’know like umm, y’know uh, what’s that God awful ceramic fruit bowl she has on her counter?
+48	Joey	 Hey! I made that for her!
+49	Chandler	 You made pottery?
+50	Joey	 Yeah! I made it of this fruit bowl I found in the garbage.
+51	Monica	 I’m telling—If you put that in her apartment you’ll never hear the end of it.
+52	Rachel	 Okay fine! I’ll-I’ll just tell her it’s an antique apothecary table, she doesn’t have to know where it came from. Oh! Look at this little drawers! Oh look-look it says that it holds 300 CDs.
+53	Chandler	 Ahh, just like the apothecary tables of yore…
+54	[Scene	 The Hallway between the apartments, Joey, Janine, Chandler, and Monica are returning from a double date. Chandler is telling a joke.]
+55	Chandler	 …so then the farmer says, "That’s not a cow and you’re not milking it." (Everyone laughs.)
+56	Monica	 I am so glad you guys got together, Chandler and I are always looking for a couple to go out with and now we have one!
+57	Chandler	 Look at us, we’re a couple of couples!
+58	Janine	 I had so much fun tonight, and what a great restaurant.
+59	Monica	 Yeah.
+60	Joey	 And Chandler I can’t believe I let you pay for this one. (They hug and he whispers in his ear.) Thanks man.
+61	Monica	 So do you guys gonna come over tomorrow? I’ll make that pasta thing I was telling you about.
+62	Janine	 Oh that would be great!
+63	Joey	 Oh, but hey look, at least let us bring the wine.
+64	Monica	 Joey, you don’t have too!
+65	Joey	 Nope-op! I insist! (He hugs Chandler again and whispers to him.) You get the wine right?
+66	Chandler	 Yeah all right. (They part.) Okay, good night guys.
+67	Joey	 See ya tomorrow!
+68	Monica	 Tomorrow!
+69	Janine	 Can’t wait! (They each go into their respective apartments.)
+70		[Cut to Joey and Janine’s.]
+71	Janine	 How are we gonna get out of that one?
+72	Joey	 What?
+73	Janine	 I can’t handle two nights in a row with them.
+74	Joey	 What-what’s wrong with Monica and Chandler?
+75	Janine	 I don’t know, they’re just a little blah!
+76	Joey	 Blah?!
+77	Janine	 Well y’know, he’s blah, she’s just—she’s very loud for such a small person.
+78	Joey	 Uh, they’re like my best friends. Are you saying we can’t hang out with them? ‘Cause that would kinda be a problem.
+79	Janine	 No! Of course we can still hang out with them. Just y’know, not two nights in a row. Okay?
+80	Joey	 I guess.
+81	Janine	 Thank you. (They kiss.)
+82	Joey	 If you want, I’ll sell my friends and use the money to buy you presents.
+83	[Scene	 Phoebe and Rachel's, Rachel is placing CDs into her antique apothecary table as Phoebe returns home.]
+84	Phoebe	 Hey!
+85	Rachel	 Hey!
+86	Phoebe	 (sees the table) Ooh, what a great table! Where-where did you get it?
+87	Rachel	 Guess!
+88	Phoebe	 Umm, a flea market?
+89	Rachel	 Ha! See, I knew, I knew you’d get it on the first guess. Isn’t it cool! It’s an apothecary table.
+90	Phoebe	 Wow! Oh you can just imagine that this is where (She’s opening and closing the drawers) they kept all the stuff to make their potions.
+91	Rachel	 Ohh, yes.
+92	Phoebe	 Y’know? Ooh, you can almost smell the opium.
+93	Rachel	 Almost.
+94	Phoebe	 How much was it?
+95	Rachel	 It was only 500 bucks.
+96	Phoebe	 500 bucks at a flea market?!
+97	Rachel	 Oh, okay see I thought, I thought you meant how much was it when it was new, y’know like back then.
+98	Phoebe	 Oh no.
+99	Rachel	 Yeah no, I mean it was at a flea market, so it was y’know, it was like a dollar.
+100	Phoebe	 A dollar?
+101	Rachel	 And fifty. So it was like one and fifty dollars.
+102	Phoebe	 Ohh, okay, they gave you the old time pricing.
+103	Rachel	 Yeah.
+104	Phoebe	 Well, what period is it from?
+105	Rachel	 Uh, it’s from yore. Like the days of yore. Y’know?
+106	Phoebe	 Yes, yes I do. God, oh it’s just perfect! Wow! I bet it has a great story behind it too. Did they tell you anything? Like y’know where it was from or…
+107	Rachel	 Yes! That I know, this is from White Plains.
+108	Phoebe	 (gasps) White Plains. Oh, it sounds like such a magical place.
+109	[Scene	 Ross’s apartment, Rachel is entering as Ross comes out of the kitchen carrying popcorn.]
+110	Rachel	 Hey! We’re here!
+111	Ross	 Hey!
+112	Rachel	 (seeing his new table) Ohh! Oh my God!
+113	Ross	 You like it?
+114	Rachel	 Oh no!
+115	Ross	 It’s my new apothecary table!
+116	Rachel	 Ross! Phoebe’s gonna be here any second, she cannot see this!
+117	Ross	 Well why not?! She’ll-she’ll love it! It’s the real thing! I got it at Pottery Barn.
+118	Rachel	 I know you did! I bought the same one! And if she sees your table she’s gonna know that I lied to her. I told her ours was an original.
+119	Ross	 Why did you do that?
+120	Rachel	 Because she hates Pottery Barn.
+121	Ross	 She hates Pottery Barn?!!
+122	Rachel	 I know! I know, she says it’s all mass-produced, nothing is authentic, and everyone winds up having the same stuff. (Ross looks at his table.) So come on, she’s gonna be here any second! Can we please just cover this up with something?! Please?
+123	Ross	 What? No! No! I am not gonna hide it from Phoebe—Ooh, although I did get some great Pottery Barn sheets! (Gets them.)
+124	Rachel	 Ooo! Oh, I forgot they made sheets!
+125	Ross	 Uh, yeah! I still can’t believe she hates Pottery Barn!
+126	Rachel	 Ross, get over it! It’s not like she hates you.
+127	Ross	 Yeah but Pottery Barn! Y’know what I think? It’s just she-she’s weird. Y’know it’s because she’s a twin. Twins are weird.
+128	Rachel	 Ross, she’s not weird, she just wants her stuff to be one of a kind.
+129	Ross	 Huh. Y’know what’s not one of a kind? A twin!
+130	Phoebe	 (entering) Hey!
+131	Rachel	 Hey!
+132	Ross	 Hey!
+133	Rachel	 Ooh, Phoebe’s here! Okay, let’s turn out all the lights and we’ll just watch the movie!
+134	Phoebe	 Okay. Hey—Ooh, cool sheets! (Notices the sheet over the table.)
+135	Ross	 Oh, you like it? You wanna know where I got it?
+136	Phoebe	 Sure!
+137	Rachel	 He got it a flea market!
+138	Phoebe	 You bought your sheets at a flea market? Ross come on, you gotta loosen the purse strings a little.
+139	[Scene	 Joey and Janine’s, Joey is pacing around as Chandler and Monica enter.]
+140	Monica	 Hey!
+141	Joey	 Hi!
+142	Monica	 The dinner will be ready in twenty minutes. This is so exciting.
+143	Chandler	 And here is the bottle of wine for you to bring over tonight. (Hands it to him.) You were also going to buy Monica flowers but you couldn’t afford it, because you paid dinner last night.
+144	Joey	 Thanks. Thanks, but uh actually it’s just gonna be me again tonight.
+145	Monica	 What happened to Janine?
+146	Joey	 Oh, she’s uh-uh really sick.
+147	Chandler	 Oh that’s too bad.
+148	Joey	 Yeah, she’s been in there all day (Points to her room), uh high fever, a nose problem… Phlegm! Phlegm! Phlegm-phlegm-phlegm!
+149	Janine	 (entering from her room) Monica! Chandler! I’m really-really sorry about tonight. I don’t know if Joey told you; I just couldn’t get out of going to this play. I’m sorry. Have a great time.
+150	Joey	 ‘Kay!
+151	Janine	 Bye. (Exits)
+152	Chandler	 That’s funny, I saw no phlegm.
+153		Commercial Break
+154	[Scene	 Joey and Janine’s, continued from earlier.]
+155	Joey	 No-no, she really is sick!
+156	Chandler	 Then why-why is she going to a play?!
+157	Joey	 Uh, y’know, starve a fever, go to a play for a cold.
+158	Monica	 Joey! Why is Janine not coming over for dinner?!
+159	Joey	 Well uh, she didn’t want to hang out with you guys two nights in a row. I’m so sorry.
+160	Chandler	 Well, why does she not want to hang out with us?!
+161	Joey	 Because she uh, she-she thinks that you are blah and that you, Monica, are too loud.
+162	Monica	 (loudly) What?!! (Quietly) What?
+163	Chandler	 So she was just pretending to have a good time last night? She was lying to our faces?!
+164	Monica	 Ugh, I can not believe this! I mean, who is she to judge us? We could not have been nicer to her!
+165	Chandler	 And I am not blah, I am a hoot!
+166	Joey	 I know! I know! Come on, please-please you guys, don’t-don’t be mad. I’m sure she just, she just said that stuff because she was nervous and you guys are like my best friends! Y’know? And it was our first date! Plus, she’s really sick!
+167	Chandler	 No, you sh—No you said you made that up!!
+168	Joey	 I know, but don’t you think the sick thing is way better than the play thing?
+169	Chandler	 Eh, they’re both good. I generally just go with, Monica’s drunk again. (Monica glares at him.)
+170	Joey	 Come on you guys, come on please-please just give her another chance, huh? She’ll come around I promise.
+171	Monica	 Of course we will, come on we gotta make dinner.
+172	Chandler	 Okay.
+173		(They exit and close the door.)
+174	Monica	 (from the hallway) I do not like that woman!
+175	Joey	 (shouting) I can hear you!
+176	Monica	 I am loud!
+177	[Scene	 Ross's apartment, Ross, Rachel, and Phoebe are watching a movie.]
+178	All	 Aww! (They all laugh.)
+179	Rachel	 That’s funny. (Phoebe puts her feet up on Ross’s table.)
+180	Ross	 Hey Pheebs, could you please not put your feet up on my new…(On Rachel’s glare)…old sheet?
+181	Phoebe	 Oh sure! (She goes to take her feet off, but drags the sheet with her which spills the wine.) Noo!
+182	Rachel	 Ohh!!
+183	Ross	 My apothecary table!!!
+184	Phoebe	 What?!
+185	Rachel	 Noooooo!! (Phoebe lifts up the sheet to discover the exact same apothecary table they have.)
+186	Phoebe	 Ross, where did you get this?!
+187	Ross	 I got it at Pottery Barn!! Okay?!
+188	Rachel	 Oh my God, Phoebe, Pottery Barn has ripped off the design of our antique!
+189	Phoebe	 Wow! Oh my God, well if they’ve ripped off our table ours must be much more than one and fifty dollars!
+190	Rachel	 Oh yes.
+191	Phoebe	 Well this doesn’t even smell like opium.
+192	Ross	 Of course not, it smells like wine, which you spilled! And thanks for wrecking my sheet by the way.
+193	Phoebe	 Oh Ross, calm down, I’ll give you the 80 cents. (Ross glares at Rachel)
+194	[Scene	 Monica and Chandler's, Monica and Chandler are sitting at the kitchen table.]
+195	Chandler	 Okay, one more time.
+196	Monica	 Chandler, would you like some more orange juice?
+197	Chandler	 Perfect decibel.
+198	Monica	 (loudly) I know!!!
+199	Joey	 (entering) Hey!
+200	Chandler	 Hey.
+201	Joey	 So uh, what are you guys doing?
+202	Chandler	 Oh nothing, we’re just talking. Y’know, blah-blah-blah.
+203	Joey	 Look, come on you guys, you said you were gonna try! All right look, I came over here to invite you guys to a movie with me and Janine.
+204	Monica	 Well, I’d like to but, (extremely quietly) I’m not sure we have time to go.
+205	Joey	 Ha-ha, very funny—Look! I don’t know what to do! I really want you guys to get along. Just please come to the movie with us. I mean you owe me!
+206	Monica	 We owe you?!
+207	Joey	 That’s right! I helped you guys out a lot in the start of your relationship. Huh? I helped you guys sneak around for like six months, and I looked like an idiot! And I was humiliated. And I only made 200 dollars!
+208	Monica	 We didn’t give you any money! (Chandler is motioning, "No!")
+209	Joey	 You don’t think I know that!
+210	[Scene	 Phoebe and Rachel's, Rachel is showing Ross around the newly decorated living room.]
+211	Rachel	 …see I can’t decide whether it would go better next to the new wicker dining chair, the Sahara desk, or the Parker console table.
+212	Ross	 Wow! I didn’t know that there was a Pottery Barn up here.
+213	Rachel	 I know, I know. I went a little crazy.
+214	Ross	 A little? Your place looks like page 72 of the catalogue. Oh look at that! The ornamental bird cage! Large!
+215	Phoebe	 (entering) Hey!
+216	Rachel	 Hey.
+217	Phoebe	 (sees Ross) Oh Ross no. Be careful, that is very old! Okay? Early Colonial bird merchants used to bring their birds to market in that.
+218	Ross	 (glaring at Rachel) Fascinating.
+219	Phoebe	 (gasps) Another amazing find! Wow! Oh I bet this has a great story too!
+220	Rachel	 Oh it does, it does! It is a room separating apparatus from Colonial times.
+221	Phoebe	 Ah!
+222	Ross	 Hmm, a lot of this stuff is from Colonial times. Hey, what are some other time periods Rachel? (She glares at him.)
+223	Rachel	 Well there’s yore. And uh, y’know, yesteryear.
+224	Phoebe	 Yeah no, I’m telling you Rachel has such a great eye for this stuff. Ross, y’know if you ever decide you need to redecorate—And I think that you should. You should, you should ask Rachel to help.
+225	Rachel	 Oh honey he doesn’t need my help.
+226	Phoebe	 Oh, come on! I think he’s ready to get rid of, what did you call it? The cheap knock-offs and dinosaur junk.
+227	Ross	 Really?! (To Rachel) Hey, y’know what? Since you have such a great sense of what I need, uh ooh, here’s-here’s 60 bucks, why don’t you take Phoebe down to that Colonial flea market of yours and get me some stuff.
+228	Rachel	 (not sure of what to do) Y’know what? I don’t, I don’t think Phoebe really wants to come.
+229	Phoebe	 No! I do want to!
+230	Rachel	 Oh, she does want to.
+231	Ross	 She does want to.
+232	Phoebe	 Yeah!
+233	[Scene	 The Street, Phoebe and Rachel are heading back from that Colonial flea market.]
+234	Rachel	 Pheebs, I don’t know what to say. I guess the flea market was just better last time.
+235	Phoebe	 Well at least I got these sheets for Ross.
+236	Rachel	 Yeah.
+237		(They walk by a Pottery Barn window display.)
+238	Phoebe	 Uck, look at this! Pottery Barn, yuck!
+239	Rachel	 Yeah, y’know what? Don’t look at it. (Realizes the display is their living room) Seriously, don’t look at it. (Tries to pull Phoebe away.)
+240	Phoebe	 No! Look-look! There’s the coffee table they stole from us!
+241	Rachel	 Ugh, those bastards! Let’s go.
+242	Phoebe	 That fan kinda looks like ours. And the birdcage and the…wait a sec! This is our exact living room!
+243	Rachel	 No! No! No! No it’s not! No it’s not! Come on! Phoebe, ours is totally different! I mean we don’t have the… (Looks desperately for something different.) We don’t have the…that lamp! And-and that screen is y’know, on the other side.
+244	Phoebe	 Oh my God. This is where you got all our stuff, Pottery Barn! Oh my God!
+245	Rachel	 Okay! Okay-okay look—no I did, I just wanted this stuff and I know how you feel about Pottery Barn. Just… Come on don’t be mad.
+246	Phoebe	 No-no-no, but I am mad! I am mad! Because this stuff is everything that is wrong with the world! And it’s all sitting up in my living room and all I can think about is how I don’t have that lamp!
+247	Rachel	 Well then honey, buy the lamp! Hey, we have that 60 bucks from Ross.
+248	Phoebe	 I can’t! I can’t! Unless… Well are you saying that-that you would move out if-if I didn’t buy that lamp?
+249	Rachel	 What?! No! I’m not gonna move out!
+250	Phoebe	 But are you saying that you would move out if I didn’t buy that lamp?
+251	Rachel	 (gets it) Oh. Yes! I would so move out!
+252	Phoebe	 Okay then I don’t have a choice! I have to buy that lamp!
+253	Rachel	 That’s right!
+254		(They start to go inside.)
+255	Phoebe	 But at least the apothecary table is real.
+256	[Scene	 The hallway, Joey, Janine, Monica, and Chandler are returning from their second date.]
+257	Joey	 Well, this-this-this was great. Didn’t everybody have a great time?
+258	Janine	 Well I did. I really did. And you guys, I’ve got to say, I’m sorry if I was a little weird after the last time we went out. I guess I was just nervous or something.
+259	Chandler	 That’s totally understandable.
+260	Monica	 Don’t worry about it.
+261	Janine	 So we can go out again?
+262	Chandler	 Oh yeah!
+263	Monica	 Absolutely!
+264	Janine	 Oh good.
+265	Joey	 Oh well then, good night!
+266	Monica	 Good night! (They go into their respective apartments.)
+267		[Cut to Joey and Janine’s, they’re entering.]
+268	Joey	 See? Eh, wasn’t that fun?
+269	Janine	 We have got to move!
+270	Monica	 (bursting in) I knew it!! Y’know, you’re not so quiet yourself, missy!
+271	Chandler	 And I’m blah? Listen, the only thing more boring than watching modern dance is having to listen to you talk about it, (Imitating her) "Oh Chandler, I just lost myself in the moment."
+272	Janine	 Y’know, I know you’re talking, but all I hear is, "Blah. Blah. Blah-blah-blah."
+273	Monica	 (steps up and points at her) All right! You and me! Let’s go! Right now!
+274	Joey	 All right! All right! Enough! Enough! Enough!! Enough! (To Chandler and Monica) You two go home! I-I-I gotta talk to Janine! (They start to leave.)
+275	Chandler	 (To Monica) Y’know I think you can take her.
+276	Monica	 (to Janine) You’d better hope I don’t see you in the hallway!! (They exit.)
+277	Joey	 All right, uh, we’ve got a little bit of a problem here. These people are my friends; you can’t treat them that way.
+278	Janine	 They said stuff to me too, y’know!
+279	Joey	 I know! I know! And I’m going to talk to them about it. They mean so much to me. They… They’re like my family. If you guys are gonna be fighting all the time, I-I… I don’t think we can be together. It just, it just can’t work. It can’t. (Starts to break up) I’m very upset.
+280	Janine	 Okay. Okay. Would, would it help if I went over and apologized?
+281	Joey	 Yeah! Yeah! That would be very helpful! Yeah. (He opens the door for her and she exits into the hallway.)
+282		[Cut to the hallway, Janine is entering as Monica is taking out the garbage.]
+283	Monica	 What did I tell you about the hall?!
+284	Janine	 I was just coming over here to apologize for my behavior! I’d really like it if we could be friends.
+285	Monica	 Well, I know that would make Joey happy, so, I would like that too.
+286	Janine	 Great.
+287	Monica	 Now come on. (They hug like men.) Well, I’m glad we worked things out.
+288	Janine	 Me too.
+289	Monica	 Okay.
+290	Janine	 I’ll see you.
+291	Monica	 Bye. (Leaves to resume her garbage removal task.)
+292	Janine	 (muttering to herself) Or I’ll hear you.
+293	Monica	 (hearing that) That’s it big girl! (Hits Janine in the butt with the garbage bag) Come on!
+294	Janine	 Wait! (Janine pauses, then runs down the stairs.)
+295	Monica	 (chasing her) You’d better run!
+296		(Joey and Chandler both come into the hallway.)
+297	Chandler	 Did you hear that?
+298	Joey	 Yeah uh, what am I gonna do?
+299	Chandler	 Yeah, I’m sorry man. (Pause) You wanna go watch?
+300	Joey	 Yeah! (They head downstairs.)
+301		Ending Credits
+302	[Scene	 Central Perk, Ross, Chandler, and Monica are there as Joey enters.]
+303	Ross	 Hey!
+304	Joey	 How ya doin’?
+305	Chandler	 Hey so, did uh, did she move out?
+306	Joey	 Pretty much, yeah.
+307	Monica	 I cannot believe you broke up with her just like that.
+308	Joey	 Well, when it’s not right, you know it.
+309	Chandler	 You okay?
+310	Joey	 Yeah! Yeah. I’ll be all right.
+311	Ross	 Y’know what would cheer you up?
+312	Joey	 What?
+313	Ross	 I’m giving this lecture on erosion theories tomorrow night, I think you should come.
+314	Joey	 (laughing hysterically) You’re right! That did cheer me up!
+315		End

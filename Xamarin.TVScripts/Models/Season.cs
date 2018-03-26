@@ -23,6 +23,6 @@ namespace Xamarin.TVScripts.Models
         public string Name { get; set; }
 
         [Ignore]
-        public string ImageSource => $@"Season{SeasonNumber}.png";
+        public string ImageSource => $@"_season{SeasonNumber}.jpg";
     }
 }

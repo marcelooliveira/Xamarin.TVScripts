@@ -1,0 +1,4 @@
+1	Written by	 Adam Chase Transcribed by
+2	[Scene	 Joey's new apartment. Everyone but Chandler is there. Joey has decorated the place with tons of tacky stuff.] JOEY
+3		END
+4	webbot bot="ImageMap" startspan rectangle=" (138,2) (197, 84) http	//thecfsi.com/season2/218drd.htm" rectangle=" (70,3) (129, 84) http

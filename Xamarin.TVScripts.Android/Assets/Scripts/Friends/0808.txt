@@ -1,0 +1,287 @@
+1	Written by	 Andrew Reich & Ted Cohen Directed by
+2	[Scene	 Central Perk, Joey, Monica, and Chandler are sitting on the couch and chair as Phoebe is getting coffee.]
+3	Rachel	 (coming from the bathroom) Hey Pheebs?
+4	Phoebe	 Huh?
+5	Rachel	 I’m having dinner with my dad tomorrow night, do you wanna come?
+6	Phoebe	 Sure. Yeah, he’s kinda sexy.
+7	Rachel	 Oh no, no, I’ll be there too.
+8	Phoebe	 Okay so, we’ll just come up with some kind of signal if it’s going well you can take off.
+9	Rachel	 No Phoebe! I just need you there for support. I haven’t told him I’m pregnant yet.
+10	Phoebe	 Oh. Why not?
+11	Rachel	 ‘Cause I know he’s gonna flip out and I hate it when he’s angry.
+12	Phoebe	 Oh Rachel, this is all so ‘Papa don’t preach.’
+13	Rachel	 What Phoebe? Wait! One time he caught me smoking he said if he ever saw me doing that again he’d make me eat the entire pack.
+14	Phoebe	 Wow! Oh well, I will be there!
+15	Rachel	 Thank you.
+16	Phoebe	 Gosh. I’m not gonna let that man make you eat your baby. (They both sit down by the rest of the gang and Phoebe recognizes a man by the window.) Oh. Hey! Who is that guy? I think I know him.
+17	Monica	 (recognizing him and panicking) No you don’t!
+18	Rachel	 (panicking) No you don’t.
+19	Phoebe	 Oh my God!!! Monica!! He’s the stripper from your bachelorette party!!
+20	Chandler	 Her what?!!
+21	Phoebe	 Your secret bachelorette party…
+22	Chandler	 You had a bachelorette party?!
+23	Phoebe	 She untied his G-string with her teeth. (Pause) Somebody stop me!
+24	Chandler	 I thought we weren’t gonna have bachelor/bachelorette parties! Y’know, we agreed that it was a silly tradition.
+25	Joey	 It’s a grand tradition!
+26	Monica	 I’m sorry, they surprised me. There was nothing I could do!
+27	Rachel	 Well you could’ve untied it with your hands.
+28	Joey	 This is so unfair! The one thing I wanted to do was throw my best friend a bachelor party, but no, I wasn’t allowed to. All I got was a stupid steak dinner!
+29	Chandler	 You went home with the waitress.
+30	Joey	 Oh yeah, that was a pretty good night.
+31	Chandler	 I can’t believe you didn’t tell me! You know that the two pillars of marriage are openness and honesty!
+32	Monica	 Ugh, I knew giving you that book was gonna come back and bite me in the ass!
+33		Opening Credits
+34	[Scene	 A Restaurant, Rachel and Phoebe are having dinner with Dr. Green, and everyone is looking at the menu.]
+35	Dr. Green	 How about I order everyone the Moroccan chicken?
+36	Phoebe	 Oh, I-I don’t eat meat.
+37	Dr. Green	 It’s chicken.
+38	Phoebe	 Yeah, I don’t eat that either.
+39	Dr. Green	 I’ll never understand you lesbians. (To Rachel) So baby, tell me…what is new with you.
+40	Rachel	 Well actually umm…
+41	Waiter	 (interrupting) Your ’74 Lafite sir.
+42	Dr. Green	 ’74?! I ordered the ’75! That’s a magnificent wine! The ’74 is sewage! Why would you bring me sewage?! (The waiter’s dumbfounded) Is that a hard question? Are you an idiot? Is that why you’re a waiter?
+43	Waiter	 This is why I told the manager I wouldn’t wait on you tonight! (Runs off.)
+44	Dr. Green	 Oh come on! Don’t be such a baby! (Goes after him)
+45	Rachel	 (To Phoebe) In case you didn’t notice, that is a scary man.
+46	Phoebe	 He’s right though, the ’74 is absolute piss.
+47	Rachel	 This was such a huge mistake. I can’t tell him Phoebe. I can’t, I can’t, I can’t, I can’t…
+48	Phoebe	 Rachel!
+49	Rachel	 No it’s okay, this is what’s gonna happen. I’m gonna wait a couple years and then the baby will tell him.
+50	Phoebe	 Why, so he can get mad at the baby?
+51	Rachel	 Hey, that is the…baby’s problem. (Dr. Green returns.) Oh, everything okay with the waiter?
+52	Dr. Green	 I have no idea, I went to the bathroom. So sweetie, you were starting to tell me what is uh, what is new with you.
+53	Rachel	 Well… Umm, I got TiVo.
+54	Dr. Green	 What’s TiVo?
+55	Phoebe	 It’s slang for pregnant.
+56	Rachel	 Phoebe!
+57	Dr. Green	 Are you really pregnant?
+58	Rachel	 Well uh, yes and no. Except not no. So to sum it up, yeah.
+59	Dr. Green	 Who is the father? Oh no! Please don’t tell me it’s her! (Points at Phoebe.)
+60	Rachel	 No, it’s Ross. It’s Ross. You like Ross. (He just shakes his head.) Oh daddy, I hope you’re okay with all of this. I mean think about it, this is a good thing. You’re gonna—This is your first grandchild! You’re gonna be a poppy!
+61	Dr. Green	 That’s true.
+62	Rachel	 Yeah.
+63	Dr. Green	 (laughs) Poppy. (To Phoebe) Oh, I’m gonna be a poppy. (Stops laughing) So when is the wedding?
+64	Rachel	 Who?
+65	Dr. Green	 The wedding! There’s going to be a wedding. Young lady, don’t you sit there and tell me my first grandchild is going to be a bastard! (Rachel pauses) Rachel Karen Green, tell me there is gonna be a wedding!!
+66	Rachel	 February 2nd!
+67		(Dr. Green exhales in relief.)
+68	[Scene	 Central Perk, Chandler and Joey are reading a magazine and Ross is chatting with Mona.]
+69	Mona	 So it was really cool seeing you lecture today.
+70	Ross	 Oh thanks. Although it kinda seemed like you were falling asleep there a little.
+71	Mona	 Oh no-no, I-I had my eyes closed so I could concentrate and y’know take it all in.
+72	Ross	 Yeah, a lot of my students do that.
+73	Mona	 So, I gotta get going.
+74	Ross	 Okay, I-I’ll see you tonight.
+75	Mona	 Yeah.
+76	Ross	 Okay, bye.
+77		(They kiss and she starts to leave.)
+78	Mona	 Oh hey, thanks again for showing me your semi-precious stone collection. It was amazing! (She leaves.)
+79	Chandler	 My God! You must be good in bed!
+80	Joey	 So uh, you and Mona, been a while now. How’s it going?
+81	Ross	 Ah, it’s good. It’s going good. I mean, we get along great. She’s, she’s so…
+82	Joey	 Hot?
+83	Ross	 Well, I was gonna say sweet, but yeah-huh!
+84	Chandler	 She’s okay with Rachel and the baby?
+85	Ross	 Well I…I haven’t actually told her yet. I don’t want to scare her off, y’know?
+86	Chandler	 Well, you have to honest with her! Otherwise you may think that you’re going down the same path, but you’re really going down different ones.
+87	Joey	 I’m gonna take that book and beat you to death with it.
+88	Monica	 (entering) Oh my God! You are gonna love me so much! I felt really bad about the whole bachelorette party thing, so tonight you’re gonna have a bachelor party.
+89	Chandler	 What?
+90	Monica	 Yeah, I got this number from this guy at work and I hired a stripper to come dance for you. Am I going in the wife hall of fame or what?!
+91	Chandler	 Honey! That’s crazy! I don’t want you to get me a stripper…
+92	Joey	 Will you let the lady talk?!
+93	Monica	 Come on! Come on, it’ll be fun! It’ll make me feel so much better.
+94	Chandler	 Look, I appreciate it, but uh, it’s a little creepy. Y’know? I’m not a bachelor anymore.
+95	Monica	 So don’t think of it as a bachelor party, think of it as a…a two month anniversary present.
+96	Ross	 Sure, one year is paper, but two months is lapdance! (Joey nods his agreement.)
+97	Monica	 Please! I feel so bad! Just watch the hot woman get naked!
+98	Chandler	 All right fine! But I’m only doing this for you!
+99	Joey	 Yeah!
+100	Chandler	 And Joey.
+101	Monica	 Thank you. All right, now who else do you want to invite?
+102	Chandler	 Ah, no-no-no just Ross. Ross and Joey is embarrassing enough.
+103	Ross	 Uh actually, sorry I can’t even make it. I’m seeing Mona again tonight.
+104	Chandler	 I understand
+105	Joey	 (on cell phone) I’m sorry I gotta cancel tonight baby…
+106	[Scene	 The Restaurant, dinner has ended and Phoebe and Rachel are talking. Dr. Green is not at the table.]
+107	Phoebe	 I’m sorry I won’t be able to make it to your imaginary wedding, but I’m really busy that day. Yeah, I already have a unicorn baptism and a leprechaun bar mitzvah.
+108	Rachel	 I know. I know. I panicked, I panicked. I didn’t want him to start yelling at me like I was some ’74 Latour.
+109	Phoebe	 It’s Lafite. The ’74 Latour is actually drinking quite nicely.
+110	Rachel	 All right here he comes. I’m gonna do this, I’m gonna tell him, I’m gonna be strong.
+111	Dr. Green	 I just called a friend of mine.
+112	Rachel	 Yeah?
+113	Dr. Green	 I think I may be able to book The Plaza on short notice.
+114	Rachel	 Really?! The Plaza?!! Oh daddy!! (Hugs him and Phoebe glares at her.) Right. Daddy, I need to talk to you. Please, sit down.
+115	Dr. Green	 What is it sweetie?
+116	Rachel	 There’s not gonna be a wedding. Ross and I are not getting married.
+117	Dr. Green	 What?!
+118	Rachel	 I’m sorry daddy.
+119	Dr. Green	 I don’t believe this!!
+120	Rachel	 Oh now daddy, stay calm. Please.
+121	Dr. Green	 Stay calm?!! How do you expect me to stay calm?! This is unacceptable Rachel! And I wanna know why?!! Is it because that punk Ross won’t marry you?! That’s it! Is that it?!
+122	Rachel	 Yes. Yes, he says I’m damaged goods.
+123	[Scene	 Monica and Chandler's, Chandler’s bachelor party has begun, what there is of it, with only Joey (wearing a gold paper top hat) and Chandler (wearing what appears to be a Burger King paper crown) enjoying a nice product placement of Budweisers on ice.]
+124	Joey	 So you uh, nervous about getting married?
+125	Chandler	 What are you doing?
+126	Joey	 Look, look let’s pretend it’s a real bachelor party. Okay? Y’know? Before your wedding. Come on, it’ll be fun.
+127	Chandler	 Okay. I can’t believe tomorrow’s the big day.
+128	Joey	 How does it feel knowing you’re never gonna be with another woman again huh? Knowing you’re gonna have to wake up to the same face everyday until you finally have the sweet release of death.
+129	Chandler	 You’re right, this is more fun.
+130		(There’s a knock on the door.)
+131	Joey	 That’s her! Okay, come on! (They go over and open the door.)
+132	Stripper	 Hi!
+133	Chandler	 Hi. (Joey blows on a noisemaker.)
+134	Stripper	 So which one of you lucky boys is Chandler?
+135	Joey	 Uh, that-that’s-that’s me!
+136	Chandler	 That’s me.
+137	Joey	 Joey Tribbiani, a big fan.
+138	Stripper	 So is that a bedroom? (Points to the guestroom.)
+139	Chandler	 Yeah, yeah right over there.
+140	Stripper	 All right, whenever you’re ready. (She goes into the bedroom.)
+141	Chandler	 That was weird.
+142	Joey	 Why-why would she go in the bedroom?
+143	Stripper	 I’m waiting.
+144		(They both slowly enter the bedroom and quickly walk back out.)
+145	Chandler	 So she’s a…
+146	Joey	 Yeah, that’s one naked hooker!
+147	[Scene	 Ross's Apartment, Ross and Mona are sitting on the couch.]
+148	Mona	 I love your place! Where is this guy from? (A statue from the top of his apothecary table.)
+149	Ross	 Uh that’s an eighteenth century Indian artifact from Calcutta.
+150	Mona	 Oh wow! So, you’re more than just dinosaurs.
+151	Ross	 So much more.
+152		(They start making out and she kicks the eighteenth century Indian artifact from Calcutta off of his apothecary table from the days of yore and the magical city of White Plains.)
+153	Mona	 Oh my God! Oh my God! I’m so sorry!
+154	Ross	 Aw forget it, it’s from Pier One. (There’s an angry knock on the door.) Sorry. (Goes and opens the door to an irate Dr. Green.)
+155	Dr. Green	 You think you can knock up my daughter and then not marry her?! I’m gonna kill you!!
+156	Ross	 Y’know this is actually not a great time for me.
+157		Commercial Break
+158	[Scene	 Ross's Apartment, continued from earlier.]
+159	Dr. Green	 So? Come on! Explain yourself Geller! First you get my Rachel pregnant!
+160	Mona	 You got Rachel pregnant?!
+161	Ross	 Who did?!
+162	Dr. Green	 You did!
+163	Ross	 Yes. Yes, yes I did. (To Mona) But-but it was, it was just a one night thing. It meant nothing.
+164	Dr. Green	 Oh? Really? That’s what my daughter means to you? Nothing?
+165	Ross	 No! No sir umm, she means a lot to me. I mean, I care—I-I love Rachel.
+166	Mona	 What?!
+167	Ross	 (to Mona) Oh but not that way. I mean…I mean I’m not in love with her. I love her like a, like a friend.
+168	Dr. Green	 Oh really? That’s how treat a friend? You get her in trouble and then refuse to marry her?
+169	Ross	 (to Dr. Green) Hey! I offered to marry her!
+170	Mona	 Wh…
+171	Ross	 (To Mona) But I didn’t want to.
+172	Dr. Green	 Well why not? So you can spend your time with this tramp?!
+173	Mona	 Tramp?!
+174	Ross	 I’m sorry. Dr. Green, Mona. Mona, Dr. Green.
+175	[Scene	 Monica and Chandler's, Chandler and Joey are discussing what to do about the now naked hooker in the guestroom.]
+176	Chandler	 I can’t believe there is a naked hooker in there!
+177	Joey	 Wait! Wait! Maybe she’s a hooker and a stripper, but she got confused about what she’s supposed to do.
+178	Chandler	 Could be. I mean technically she did strip, we just, we just missed it. (Walks towards the bedroom.) Ma’am, are you also a stripper?
+179	Hooker	 Uh, no. But I could pretend to strip, but that’s gonna cost extra. Okay, here’s the extras, handcuffs, spanking… (Chandler grunts for her not to continue and Joey pulls him back into the kitchen.)
+180	Joey	 Maybe Monica’s playing a joke on ya. Y’know? Getting her own husband a hooker, that’s pretty funny.
+181	Chandler	 That is funny, maybe for my birthday she’ll murder someone.
+182	Joey	 I bet Ross was in on it too. I mean he was conveniently busy.
+183	Hooker	 Do you mind if I smoke in here?
+184	Chandler	 Oh actually, I’d rather you…Yeah, go ahead. We’re gonna have to burn that room down anyway.
+185	[Scene	 Ross's Apartment, continued from earlier.]
+186	Mona	 How could you have kept all of this from me?
+187	Ross	 I was going to tell you, but…
+188	Dr. Green	 But what?! You figured you’d get what you wanted and then dump her like you dumped Rachel!
+189	Ross	 Hey! I did not dump Rachel! (To Mona) Nor are we still together. (The phone rings and Ross goes to answer it, only he’s trapped behind the apothecary table by Dr. Green.) Can I just… (Dr. Green glares at him.) Why don’t we just let the machine get that?
+190	Joey	 (on machine) Hey Ross. It’s Joey. There’s a hooker over here and we thought maybe you’d know something about it.
+191	Ross	 No! No! No! No! No! I-I-I-I—I need to, I need to lie down.
+192	[Scene	 Monica’s Restaurant’s Kitchen, she’s cooking as one of her waiters, Stu, comes over to talk to her.]
+193	Stu	 So, tonight’s the night of the big bachelor party?
+194	Monica	 Yeah! Hey! Thanks for getting me that girl’s number.
+195	Stu	 No problem. So who’s the party for?
+196	Monica	 My husband.
+197	Stu	 You hired your husband a hooker?
+198	Monica	 She’s a stripper.
+199	Stu	 No, she’s a hooker.
+200	Monica	 Is that, is that what they call strippers sometimes?
+201	Stu	 When they’re hookers.
+202	Monica	 Oh my God Stu! I-I can’t believe you did this! Now are you absolutely sure she’s a hooker?
+203	Stu	 Either that or she’s just the best, most expensive date I ever had.
+204		(Monica runs out.)
+205	[Scene	 Monica and Chandler's, Joey and Chandler are still deciding what to do about the hooker.]
+206	Joey	 Maybe she meant to get you a hooker.
+207	Chandler	 Why would she do that?
+208	Joey	 Maybe she wants you to learn something. Huh? Now is there anything you’re really bad at y’know, sexually?
+209	Chandler	 This is the worst bachelor party ever!
+210	Hooker	 What’s taking you boys so long?
+211	Joey	 In a minute!
+212	Chandler	 (To Joey) In a minute? What’s gonna happen in a minute?!
+213	Joey	 All right, all right maybe-maybe you should just ask her to leave.
+214	Chandler	 Why me?!
+215	Joey	 Hey! It’s your bachelor party.
+216	Chandler	 Which is why you should do it.
+217	Joey	 I don’t want to. You do it!
+218	Chandler	 You do it!
+219	Joey	 You do it!
+220	Chandler	 All right Rock, Paper, Scissors who has to tell the whore to leave! (Joey smirks.) What?
+221	Joey	 I miss this.
+222	Chandler	 I don’t think we’ve actually done this before!
+223	Joey	 No, I-I miss hanging out with you.
+224	Chandler	 Well we…we still hang out.
+225	Joey	 Not like we used to. Remember? You and me used to be inseparable. Y’know now it’s like…things are different.
+226	Chandler	 Well y’know, things are different. I’m…I’m married now.
+227	Joey	 Oh sure—And hey, don’t get me wrong, I am so happy for you guys. I just…I miss…hanging out…just-just us, y’know?
+228	Chandler	 Yeah, I miss that too. I tell you what; from now on we’ll make time to hang out with each other.
+229	Joey	 You got it. Come here. (They hug and are observed by the hooker.)
+230	Hooker	 Oh God! Listen, I am this close to robbing you guys. (Does the close sign.)
+231	Monica	 (entering quickly) She’s a hooker! She’s a hooker! She’s a… (Stops as she sees her.) Hi! Uh, we spoke on the phone. (Goes and shakes the hooker’s hand.)
+232	[Scene	 Joey and Rachel's, Rachel and Phoebe are at the counter as Ross enters.]
+233	Ross	 So your dad dropped by. He’s a pleasant man!
+234	Rachel	 (quietly) Oh no…
+235	Phoebe	 I’d better go. (She goes and sits down in the La-Z-Boy E-cliner 3000, the chair that Sit magazine called chair of the year, and they both look at her.) Just over here
+236	Rachel	 Ross I’m so sorry. Okay. I-I will promise I will straighten this out with him tomorrow in person, or via e-mail.
+237	Ross	 I don’t care about your dad! I care about Mona! She was there and now she’s totally freaked out!
+238	Rachel	 Oh okay, I’ll fix that to. What’s her e-mail address?
+239	Ross	 Rachel!
+240	Rachel	 All right, I promise. I’ll fix this. I swear. I’ll-I’ll-I’ll-I’ll talk to her.
+241	Ross	 Okay!
+242	Rachel	 Okay.
+243	Ross	 Thank you!
+244	Phoebe	 That’s it?! You call that a fight? Come on! "We were on a break!" "No we weren’t!" What happened to you two?!
+245	[Scene	 Ross's Apartment, Ross is opening the door to Mona. Rachel is there as well.]
+246	Ross	 Thank you so much for coming back over.
+247	Mona	 Oh good, you’re here. Yeah, and I was worried that it was going to be uncomfortable.
+248	Rachel	 I know Mona, just hear me out. First of all, I’m so sorry about my father yelling at you, but I heard you totally held your own. You’re gonna have to tell me how you did that.
+249	Ross	 Focus.
+250	Rachel	 Okay. Um…But—Okay, yes Ross and I used to date. And yes we are gonna have a baby. But we are definitely not getting back together.
+251	Mona	 How can I be sure on that?
+252	Rachel	 Oh we just—we drove each other crazy!
+253	Ross	 Yeah.
+254	Rachel	 I mean he was possessive, he was jealous, he could never just let the little things go!
+255	Ross	 Trying to date this woman.
+256	Rachel	 Right! But, none of that compared to how kind and-and how gentle and thoughtful he is. (Rubbing his shoulder.)
+257	Ross	 Probably shouldn’t touch me.
+258	Mona	 Y’know, I-I-I just…I don’t want to get in the middle of something so complicated.
+259	Rachel	 I know, I get it, but Mona, what relationship is not complicated? I mean we all have our baggage! You must too! Why else would you still be single? (Mona looks at her.) I am so gonna leave right now. (Ross opens the door for her and she leaves.)
+260	Ross	 Should I leave this open for you too?
+261	Mona	 I’m not sure yet. Why didn’t you just tell me about all this?
+262	Ross	 Because what’s going on with Rachel has nothing to do with how I feel about you.
+263	Mona	 Yeah? Well you still shoulda told me.
+264	Ross	 I know and I was going to, but I thought it was better that you heard it from Rachel’s father. Look I…I made a mistake, but it’s only because I really, really like you. Really!
+265	Mona	 Okay, I guess you can…close the door now. (He does so and they kiss.)
+266	Rachel	 (entering) Forgot my purse! (Sees them kissing.) Oh, you guys made up. (To Mona) He’s a good kisser isn’t he? (Ross goes to close the door on her.) I’m going! (Quickly leaves and Ross locks the door.)
+267	[Scene	 Monica and Chandler's, the bachelor party has ended and Monica is trying to explain herself to Chandler.]
+268	Monica	 I swear I didn’t know she was a hooker! I mean wh—Did you let her smoke in here?
+269	Chandler	 Her ass print is still on your grandmother’s quilt, do you really want to talk about smoking?
+270	Monica	 Y’know what? I’m gonna make this up to you. I promised you a stripper (turns on the radio), and you’re gonna get a stripper. (She starts to strip.)
+271	Chandler	 Monica! Wait!
+272	Monica	 What?
+273	Chandler	 (puts on his crown) Carry on.
+274		(She does so by taking off her jacket seductively, only she has trouble getting one hand out and slams the jacket on the chair angrily to remove it.)
+275	Monica	 Ooh, these tennis shoes are so tight. I think I’ll take them off. (Goes to do so.)
+276	Chandler	 Could you not narrate?
+277	Monica	 Gotcha sailor. (Kicks one of her shoes off and it lands in the kitchen knocking something down, but she continues to strip.)
+278		Closing Credits
+279	[Scene	 Joey and Rachel's, Rachel is being yelled at by her dad over the phone, and he’s been going on for so long Rachel is holding the phone away from her ear and reading a book.]
+280	Dr. Green	 (on phone) …just because you’re not in love with the guy you can’t…
+281	Phoebe	 (entering, quietly) Wow, you told your dad the truth.
+282	Rachel	 About an hour ago.
+283	Phoebe	 Wanna go see a movie?
+284	Rachel	 Yes! (She gets up and sets the phone on the counter without hanging it up.) Bye daddy. (Phoebe and her leave.)
+285	Dr. Green	 (on phone, not hearing her) …there’s gonna be a wedding! (Joey enters from his room and goes to get a beer from the fridge.) That’s unacceptable Rachel! What the hell does love have to do with it anyway?! There are more important things in a marriage other than love! (Joey hears something and looks around for the source.) …constantly thinking about things! You have to think about the consequences of your decision. (Joey finds that the sound is coming from the phone and puts it to his ear.)
+286	Joey	 (on phone) Hey! I do too think about the consequences of my decisions! (Listens) What gives you the right to… (Listens) Go to hell! (Hangs up the phone and opens the fridge.) Stupid guy on my phone.
+287		End

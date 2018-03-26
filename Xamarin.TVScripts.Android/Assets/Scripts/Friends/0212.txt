@@ -1,0 +1,4 @@
+1	Originally written by Michael Borkow, Mike Sikowitz & Jeffrey Astrof Transcribed by Josh Hodge Minor additions and adjustments by Dan Silverstein. {Transcriber’s Note	 This is an hour-long special episode. Which means that the first part of this episode is episode 212. The second part of this episode is episode 213. Since episodes 212 and 213 are combined into one file, that’s why there is no episode 213 in the season 2 table of contents and the numbers jump from episode 212 to 214.}
+2	[Scene	 In a TV commercial that the gang is watching at Monica and Rachel's.] [A guy is sitting at his desk and his boss comes in and drops a huge pile of papers on his desk. The guy looks dejected.] COMMERCIAL VOICEOVER
+3		END
+4	webbot bot="ImageMap" startspan rectangle=" (139,0) (197, 84) http	//thecfsi.com/season2/214towpv.htm" rectangle=" (71,2) (129, 84) http

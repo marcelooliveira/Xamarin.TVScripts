@@ -11,7 +11,7 @@
                     <Image x:Name="imgStart"
                        HeightRequest="160"
                        Aspect="AspectFill"
-                       Source="poster.jpg"></Image>
+                       Source="_poster.jpg"></Image>
                 </Grid>
                 <ListView x:Name="ItemsListView" 
                 ItemsSource="{Binding Seasons}"
@@ -36,12 +36,12 @@
                                         <!--Season Image-->
                                         <Grid Grid.Column="0"
                                               HorizontalOptions="Fill">
-                                            <Image>
+                                            <Image WidthRequest="60">
                                                 <Image.Source>
                                                     <FileImageSource File="{Binding ImageSource}"/>
                                                 </Image.Source>
                                             </Image>
-                                            <Image Source="mask.png"/>
+                                            <Image Source="_mask.png"/>
                                         </Grid>
                                         <!--Season Name-->
                                         <Frame 

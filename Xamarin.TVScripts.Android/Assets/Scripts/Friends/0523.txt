@@ -1,0 +1,608 @@
+1	Part I Written by	 Andrew Reich & Ted Cohen Part II Written by
+2	[Scene	 Monica and Rachel's, Rachel is sitting in the living room and Phoebe is standing in the kitchen as the phone rings.]
+3	Rachel	 Pheebs? Could you get that? Please?
+4	Phoebe	 Why? Just 'cause you're too lazy to get up off your touchie?
+5	Rachel	 No! No! It's just that all the people in the entire world that I want to talk to are right here.
+6	Phoebe	 (smiles) Okay! (Goes to answer the phone.)
+7	Rachel	 (under her breath) Sucker!
+8	Phoebe	 (answering the phone) Hello? (Listens) Hey Joey!
+9		[Cut to Las Vegas, Joey is on the phone and wearing his gladiator costume.]
+10	Joey	 Hey Pheebs! Listen, uh can you do me a favor? I forgot the pin number to my ATM card can, can you get it for me?
+11	Phoebe	 Sure! Where is it?
+12	Joey	 Uh, I scratched it on the ATM machine down on the corner.
+13	Phoebe	 Ohh! So you're 5639?!
+14	Joey	 That's it! Thanks Pheebs!
+15		[Cut to Monica and Rachel's]
+16	Chandler	 (entering) Hey!
+17	Phoebe	 (to Joey) Ooh, do you want to talk to Chandler?
+18	Chandler	 (To Phoebe) Is that Joey?! (She nods yes) Let me talk to him!
+19		[Cut to Joey]
+20	Joey	 No! (She nods no to Chandler) Because he didn't believe in my movie! Which is a big mistake because it is real! Real!
+21	A Casino Boss	 Hey! Tribbiani! Get back to work! Break time's over!
+22		[Cut to Phoebe]
+23	Phoebe	 Who was that?
+24	Joey	 Uhh, my stunt double. Yeah, and y'know, he's getting a little too familiar for my tastes.
+25	Chandler	 (To Phoebe) Y'know what? I have been trying to apologize to him all week! If he's not gonna let me do it on the phone, I'm gonna go down there and do it in person.
+26		[Cut to Joey]
+27	Joey	 Uhh Pheebs, I heard that. Can you put him on?
+28		[Cut to Phoebe]
+29	Phoebe	 Yeah! (She hands the phone to Chandler.)
+30	Chandler	 (To Joey) Hey!
+31		[Cut to Joey]
+32	Joey	 Don't come out here!
+33		[Cut to Chandler]
+34	Chandler	 No-no-no-no, I've supported you one hundred percent and I want to prove that to you in person!
+35		[Cut to Joey]
+36	Joey	 I got that! I forgive ya! Don't come out here!
+37		[Cut to Chandler]
+38	Chandler	 Forgive me? You haven't been taking my calls in a week!
+39		[Cut to Joey]
+40	Joey	 Well, I'm totally over it Chandler. Friends forever! Don't come out here!
+41	A Tourist	 (To Joey) Would you mind doing a picture with us?
+42		[Cut to Chandler]
+43	Chandler	 Uh, what was that?
+44		[Cut to Joey]
+45	Joey	 Uh, Entertainment Tonight. [Cut to Chandler] Yeah, okay so, good talking to ya and don't come out here. All right. (Hangs up the phone and poses for that picture.)
+46		Opening Credits
+47	[Scene	 Monica and Rachel's, Phoebe is entering.]
+48	Phoebe	 Monica! I'm sorry I'm late! (Starts looking around for her) Monica? (Goes into Monica's bedroom.)
+49	Monica	 (entering) Phoebe? (Phoebe comes back into the living room) Oh, Phoebe, I'm so sorry. Have you been here long?
+50	Phoebe	 (saddened) It's okay. What the hell took you so long?
+51	Monica	 Okay, you can not tell Chandler. Okay? That I ran into Richard.
+52	Phoebe	 Which Richard?
+53	Monica	 The Richard.
+54	Phoebe	 Richard Simmons?! Oh my God!
+55	Monica	 Noo! My ex-boyfriend Richard! Y'know the tall guy, moustache?
+56	Phoebe	 Oh! Okay, that actually makes more sense. So how was it?
+57	Monica	 It was, it was really nice. We started talking and I-I ended up having lunch with him.
+58	Phoebe	 That is so weird! I had a dream that you'd have lunch with Richard.
+59	Monica	 Really?
+60	Phoebe	 But again, Simmons. Go on.
+61	Monica	 The strange part was, he was really nice, umm and he looks great, but I didn't feel anything at all!
+62	Phoebe	 Ooh! So now why can't we tell Chandler?
+63	Monica	 Because it would totally freak him out and tomorrow's our anniversary. I just don't want anything to spoil that.
+64	Phoebe	 Oh, I can't believe you guys lasted a whole year!
+65	Monica	 I know.
+66	Phoebe	 Wow! I owe Rachel 20 bucks!
+67	Monica	 What?
+68	Phoebe	 On a totally different bet.
+69	Chandler	 (entering) Hey!
+70	Monica	 It's almost our anniversary!
+71	Chandler	 I know. Can you believe it? One year ago today I was just your annoying friend Chandler.
+72	Phoebe	 Awww! Now you're just my annoying friend Chandler.
+73	Chandler	 Huh.
+74	Monica	 I got you a present!
+75	Chandler	 Oh, but it's not 'til tomorrow!
+76	Monica	 I know, but you have to open it today! (Hands it too him.)
+77	Chandler	 Okay.
+78		(He starts taking his time opening it. Finally Monica snaps.)
+79	Monica	 (grabbing the gift from him and opening it) Okay! There you go! It's two tickets to Vegas!
+80	Chandler	 Wow!
+81	Monica	 For this weekend! Oh gosh, it would be perfect, we get to see Joey plus we get to start our anniversary celebration on the plane. We can call it out plane-aversary.
+82	Chandler	 Do we have to?
+83	Monica	 No.
+84	Chandler	 Okay this is great, but Joey said he didn't want any of us out there.
+85	Monica	 Oh, he just doesn't want us to go through any trouble. Think of how excited he'll be when we go out and surprise him! Plus we get to have our own, ani-Vegas-ary! A-Nevadaversary!
+86	Chandler	 Yeah, I think we should see other people.
+87	Monica	 But we can go, right?
+88	Chandler	 Yes.
+89	Monica	 Okay!
+90	Chandler	 It's a great idea. (They kiss)
+91	Phoebe	 Okay, I'm gonna go too!
+92	Chandler	 Y'know Pheebs, it's kinda our (His and Monica's) anniversary.
+93	Phoebe	 Oh please, you are not gonna ditch again like you did with London.
+94	Monica	 Ditch you? Phoebe, you were pregnant with the triplets!
+95	Phoebe	 Uh-huh, great story! I'm going!
+96	Rachel	 (entering with Ross) Hi!
+97	Phoebe	 Hey!
+98	Ross	 Hey!
+99	Phoebe	 Hey, you guys, listen, this weekend we're all gonna go to Las Vegas to surprise Joey! Including me!! You wanna go?!
+100	Rachel	 Well, I guess I could take a couple days off work.
+101	Phoebe	 Of course you can take a couple days off work because this trip includes me!
+102	Rachel	 Oh no, wait a minute, wait, I've got a presentation tomorrow. I can't miss that.
+103	Ross	 Oh, but I've got tickets to the Van Gogh exhibit! I've been waiting like a year for this.
+104	Chandler	 (coughing) Art lover!
+105	Ross	 What'd you say?
+106	Chandler	 I said art lover.
+107	Ross	 Is that supposed to be an insult?
+108	Chandler	 I don't know, I'm very tired.
+109	Ross	 So Rach, maybe you and I could fly out together Saturday.
+110	Rachel	 That sounds great.
+111	Ross	 Yeah? All right I'll call the airlines. (Picks up the phone and does so)
+112	Rachel	 Okay. Yeah, that would be nice actually, to have the apartment to myself for a night.
+113	Phoebe	 Oh yeah, so you can walk around naked.
+114	Rachel	 No! So I can be by myself. Y'know? Have a little alone time.
+115	Phoebe	 Naked alone time.
+116	Rachel	 No! Phoebe just because I'm alone doesn’t mean I wanna walk around naked. I mean, you live alone, you don't walk around naked.
+117	Phoebe	 Uh-huh! Why do you think it takes me so long to answer the door?
+118	[Scene	 An airplane cabin, Phoebe has the aisle seat, Chandler the window, and Monica's stuck in that horrible middle seat.]
+119	Phoebe	 So, so far is this trip to Vegas better or worse than the trip to London?
+120	Chandler	 So it's pretty much the same Pheebs.
+121	Phoebe	 Okay, what about after I give you these candies? (Hands them each one from her purse.)
+122	Chandler	 Yeah, I guess it's a little better now.
+123	Phoebe	 Ah-ha! Okay, (takes out a notepad) Las Vegas 1, London 0! I'll be right back. (Gets up and heads aft.)
+124	Chandler	 (To Monica) Happy plane-aversary.
+125	Monica	 Aww! I love you!
+126	Chandler	 Can I give you a present now?
+127	Monica	 Okay!
+128	Chandler	 Okay! (He grabs his carryon and starts rummaging through it.) Oh man! Don’t tell me I did this!
+129	Monica	 I love the "I forgot the present" fake out!
+130	Chandler	 How do you feel about the, "I really did forgot the present, please forgive me" not fake out?
+131	Monica	 Oh that's okay. Don’t worry about it, you can give it to me when we get back.
+132	Chandler	 Ohh that's the worse thing that can happen on an anniversary ever!
+133	Phoebe	 (sitting down) Oh good! All right, so you decided to tell him about the Richard thing.
+134	Chandler	 What-what Richard thing?
+135	Phoebe	 Oh no. [The patented version.]
+136	Chandler	 What Richard thing?
+137	Phoebe	 (To Monica under her breath) Simmons! Go with Simmons!
+138	Monica	 Okay, I umm, I ran into Richard yesterday and he asked me if I wanted to go for a bite and I did. The only reason I didn't tell you is because I knew you'd get mad and I didn't want to spoil our anniversary.
+139	Chandler	 (talking out of the side of his mouth) I'm not mad.
+140	Monica	 Really?!
+141	Chandler	 Oh yeah! Yeah, so you-you bumped into Richard! You grabbed a bite! It's no big deal. (He still ain't happy.)
+142	Monica	 Great!
+143		(Pause.)
+144	Phoebe	 Okay, London 1…
+145	[Scene	 Monica and Rachel's, Rachel is coming out of the bathroom after a shower wearing only her bath robe, walks into the kitchen, and opens the fridge. As she bends over to grab a bottle of wine, her robe falls open (Damn this network primetime programming, we didn't see anything!) and she quickly closes it again. But then realizes she didn't have to do that. So she closes the fridge and stands next to the table, thinks about it for a little while and…]
+146	Rachel	 (takes off her robe) Oh! Look what happened! {Don't get your hopes up guys, we only get to see her from the back or from the neck up. Its times like these I wish that the networks would broadcast some nudity other than Denis Franz's butt.} (In her head.) Huh, check me out! I'm in my kitchen…naked! I'm picking up an orange. (Does so) I'm naked! (Goes into the living room) Lighting the candles, naked, and carefully. (She backs anything that might have a point like a candle on her body away.)
+147		[Cut to Ross's apartment, he's sitting by his window looking at an art book. As he's turning the page, he glances up and notices something.]
+148	Ross	 (in his head) Oh my God! That's Rachel naked! I can't look at that! I am looking at this. (Looks back at his book.) Okay, vivid colors, expressive brush strokes—Unless she wants me to be looking at that. She knows I'm home. She knows I can see her. What kind of game is she playing? I think maybe someone's lonely tonight. Oh-ho, Dr. Geller! Stop it! You're being silly! Or, am I?
+149		[Cut back to Monica and Rachel's apartment, Rachel is singing along with a song and dancing while facing the big picture window. Y'know, I think I'd pay real good money to be on the other side of that window!]
+150	Rachel	 (singing) Love to love ya baby! Ow! Love to love ya baby! Ow! (There's a knock on the door, she turns off the music, puts on her robe, and goes to answer the door.) Love to love ya, baby! (There's another knock.) Darnit! (Looks through the peephole and turns on the lights.) Ugh. (She opens the door to Ross who's leaning against the door jam.)
+151	Ross	 Hey.
+152		Commercial Break
+153	[Scene	 Monica and Rachel's, the scene is continued from where we left off before the break.]
+154	Ross	 May I come in?
+155	Rachel	 Uh, yeah, if you want too.
+156	Ross	 Do you want me too?
+157	Rachel	 Yeah, sure?
+158	Ross	 So do I. (Slowly walks in.) Okay Rach, before anything happens (He takes off his coat) I just want to lay down a couple of ground rules. (Turns back to face her.) This is just about tonight. I don't to go through with this if it's going to raise the question of "Us." (Rachel's confused) Okay? I just want this to be (Kicks off his left shoe) about what it is! (Kicks off the other one.)
+159	Rachel	 And um, what-what is that Ross?
+160	Ross	 The physical act of love. (Hisses at her.)
+161	Rachel	 (laughs) What?! Are you crazy?
+162	Ross	 Oh so-so you weren't trying to entice me just now with your-your nakedness?
+163	Rachel	 (gasps) Oh God, you saw me?! Oh!
+164	Ross	 You weren't trying to entice me with your nakedness.
+165	Rachel	 Noo!! No! You thought, you actually thought I wanted to have sex with you?!
+166	Ross	 No! No! (Grabs his coat) No! (Grabs a shoe.) No-no-no-no. (Grabs the other one and heads for the door.)
+167	Rachel	 Ohh wow! I’m sorry, but Ross you kicked off your shoes!
+168	Ross	 Can we, can we just forget this ever happened?
+169	Rachel	 Yes of course, absolutely! You're right. I'm sorry.
+170	Ross	 Thank you.
+171	Rachel	 Yes.
+172	Ross	 All right I guess I'm, gonna go pack. (Starts to leave)
+173	Rachel	 Okay. Oh wait! One more thing umm, do-do we still need to uh settle the question of "us?"
+174		(Ross storms off embarrassed.)
+175	[Scene	 Las Vegas, we have the typical glamour shots of Vegas, the Strip, slot machines, a couple other gaming tables all set to the tune of you guessed it, Money. Anyhoo, we finally get through that and watch Chandler, Monica, and Phoebe enter Caesar's Palace carrying their luggage.]
+176	Phoebe	 Hey you guys wait! Guys! (Catches up to them.) This place is so much better than London! Okay? This lady dressed like Cleopatra gave me a coupon, 99 cent steak and lobster dinner. Huh!
+177	Monica	 Phoebe, you don't eat animals.
+178	Phoebe	 For 99 cents, I'd eat you. (Sees the casino) Okay, I can totally settle down here. It's got everything I could ever want, including Joey! Look! (Points to Joey in his gladiator suit posing for a picture with two old ladies.) Oh! Look! Hi!
+179	Chandler	 Oh my God.
+180	Phoebe	 Hey! Joey! (They all head over to him, he spots them coming and panics.) Hey! Hey!! Wow! (She hugs him.)
+181	Joey	 Hi!
+182	Chandler	 Love your condoms my man.
+183	Joey	 What-what are you guys doing here? I thought I told you not to come.
+184	Phoebe	 Why are you dressed as a gladiator?
+185	Joey	 Uhh, because I'm shooting a scene right now. Yeah, I uh, I play a gladiator. Uh, y'know what? Hold-hold on a second. (To no one in particular) Can we cut? Yeah, my-my friends are here, I'm gonna take a little break.
+186	Monica	 Who are you talking too?
+187	Joey	 They uh director. Uhh, her. (Points to an old woman standing behind him. Who glares at him and walks off.) All right, all right, it's not a gladiator movie. I work here.
+188	Chandler	 Why?! What happened?!
+189	Joey	 Well, the movie got shutdown because they ran out of money, so I'm working here 'til it starts up again, if it ever does.
+190	Monica	 I'm so sorry.
+191	Joey	 Look, I'm sorry I didn't tell ya. (To Chandler) I'm sorry man.
+192	Chandler	 No-no, that's okay, apparently there's a new policy where we don't have to share everything with everybody.
+193	Monica	 I knew you were not okay with that.
+194	Phoebe	 So you're a gladiator! Wow!
+195	Joey	 Yeah, what-what's going on?
+196	Phoebe	 Monica had lunch with Richard.
+197	Joey	 Dawson?!
+198	Phoebe	 Noo! But that would've been so cool!
+199	Chandler	 No! Her boyfriend Richard!
+200	Monica	 It meant nothing! Okay? After all this time, how can you not trust me?
+201	Chandler	 When you go lunching with hunky moustache men and don't tell me about it!
+202	Monica	 You're right. I'm sorry. I should've told you.
+203	Chandler	 Thanks. (They hug.)
+204	Joey	 Aww, there we go.
+205	Phoebe	 I love Vegas!
+206	Monica	 I promise you, next time I will absolutely tell you.
+207	Chandler	 (pushing her away from another hug) Next time?
+208	Joey	 Ooh, so close.
+209	Chandler	 There's not gonna be a next time! You can not ever see him again!
+210	Monica	 I can not see him? I mean, you can't tell me what to do!
+211	Chandler	 That's so funny, because I think I just did!
+212	Monica	 Oh y'know what? If you're gonna be acting like this all night, I really, I don't even want to be around you.
+213	Chandler	 Fine with me!
+214	Monica	 Fine! Happy Anniversary!
+215	Joey	 Whoa! Whoa! Guys! Please! Come on! Come on! This is obviously just a big misunderstanding.
+216	Monica	 No it is not!
+217	Chandler	 What are you talking…
+218	Joey	 Hey-hey don't look at me! I just work here! (Walks away.)
+219	[Scene	 An aircraft cabin, Ross and Rachel are on their way to Vegas.]
+220	Rachel	 (taking off her sweater) Okay umm, Ross? I'm-I'm really warm, so I'm going to be taking off my sweater. Now, I'm just letting you know that this is not an invitation to the physical act of love.
+221	Ross	 (sarcastic) Yep! That's hilarious!
+222	Rachel	 I'm sorry. I'm done. I'm done.
+223	Ross	 Y'know, last night was embarrassing for you too.
+224	Rachel	 No, not really. I mean you've seen me naked hundreds of times.
+225	Ross	 Uh-huh. But it was a first for the rest of my building.
+226	Rachel	 Okay. All right, that's true! But y'know I just don't embarrass that easily.
+227	Ross	 What?! You totally get embarrassed!
+228	Rachel	 No, I don't! Ross, I think I'm just a more secure person than you are.
+229	Ross	 Is that so?
+230	Rachel	 Yeah.
+231		(Pause.)
+232	Ross	 (loudly so that everyone can hear) Hey lady! I don't care how much you want it! Okay?! I am not gonna to have sex with you in the bathroom! (Rachel sinks lower on her chair trying to hide.)
+233	[Scene	 Chandler's hotel room, he's sitting there with Joey who's talking about his helmet and running his hand through that feathery thing at the top.]
+234	Joey	 Hey, y'know in Roman times this was more than just a hat.
+235	Chandler	 Really?
+236	Joey	 Yeah, sure! Sure! They would uh, they would scrub the floors with it! They would use it to get the mud off their shoe. And sometimes underneath the horse would get dirty so they would stick it right…
+237	Chandler	 (interrupting in the nick of time) Joey, I uh! I can't believe this is how I'm spending my anniversary.
+238	Joey	 All right well, I'll take you someplace nice then. Look! A guy tipped me a hundred bucks today.
+239	Chandler	 Whoa!
+240	Joey	 Yeah-yeah, he was playing blackjack for like an hour and he won $5,000. Can you believe that? $5,000!
+241	Chandler	 Y'know, if I won $5,000 I'd join a gym, y'know build up my upper body and hit Richard from behind with a stick! (Mimics it.)
+242	Joey	 Wait a minute! Why don't I do what that guy did? I'll take this $100 and turn it into $5,000! And then I'll turn that into enough money to get my movie going again!
+243	Chandler	 Good luck!
+244	Joey	 Chandler! I don't need luck. I have thought this through!
+245	Chandler	 I see.
+246		(Joey exits as Chandler shakes his head.)
+247		Commercial Break
+248	[Scene	 The casino bar, Phoebe and Monica are sitting at the bar, while Wayne Newton's signature song Danke Schoen is playing in the background.]
+249	Monica	 (to the bartender) Thank you.
+250	Phoebe	 Thanks.
+251	Monica	 I can't believe this! This is like the worst night ever!
+252	Phoebe	 Y'know Monica you had a minor setback in your relationship with Chandler. Big deal! It's only Chandler. (Monica turns and stares at her.) I am so sorry.
+253	Monica	 This is crazy! I mean, it's such a stupid argument. I don't even wanna see Richard again.
+254	Phoebe	 So go fix it! Go find Chandler! He's probably up in your room! Tell him that you're sorry and that you love him.
+255	Monica	 Y'know what? You're right Phoebe. You're right. Thank you! (Gets up to find Chandler.)
+256	Phoebe	 Sure! (When Monica gets close to the door.) (Yelling) Yeah! Las Vegas, number one!
+257		[Cut to the casino, Monica is walking through it past the craps table when she notices a chip on the floor. She picks it up and heads to the table.]
+258	Monica	 Anybody lose this? (Holds up the chip and the woman next to her shakes her head no.)
+259	The Croupier	 Comin' out. Place your bet. (Monica does so.) Dice are out. (The woman next to Monica rolls the dice.) Double or nothin'! Pay the front line! (Monica won and doubled the chip.)
+260	Monica	 Hmm.
+261	[Scene	 An airplane cabin, Ross and Rachel are both reading as a guy stops by their row.]
+262	Guy	 (To Rachel) So uh, I'm on my way back to the bathroom. (Ross giggles.)
+263	Rachel	 Yeah, all right. All right! Just keep walkin'! All right?
+264		(Ross keeps giggling and Rachel decides upon revenge. She gets up and kisses the rather large man in the seat in front of Ross on the back of his head. The guy turns around angrily.)
+265	Rachel	 Ross! What are you… I'm sorry sir. I just, I think he just really likes you.
+266		[Time lapse, Ross is drinking something and decides to get Rachel again.]
+267	Ross	 (to the guy in the window seat next to him) Hey! Y'know that teacher who had a baby with her student? (He points at Rachel.)
+268		[Time lapse, Rachel pushes the flight attendant call button, takes Ross's drink, and spills it into his lap.]
+269	Ross	 What the? What…
+270	Rachel	 (to the flight attendant who appears in record time. It was only seconds after Rachel pushed the call button was she there. Once again, more proof that TV isn't real, IRL she would've been waiting for the rest of the flight and by then Ross's pants would be dry.) Hi!
+271	The Flight Attendant	 Miss? May I help you?
+272	Rachel	 Yes, I'm sorry. Do you have any extra pants? Umm, my friend seems to have had a little accident.
+273	[Scene	 Caesar's Palace Casino, Joey is approaching one of the blackjack tables on his quest to make enough money for his movie.]
+274	Joey	 (to the dealer) Can I change a hundred? (He hands him his chip.)
+275	Blackjack Dealer	 Changing one hundred! (Gives him the change.) Good luck sir.
+276	Joey	 (betting all 100) Let's ride.
+277	Blackjack Dealer	 (Deals the cards) 13.
+278	Joey	 Hit me! (He does so.) Ohh man! (Joey busts and loses all the money, but when the dealer starts to collect the cards Joey notices something.) Wait! (He holds his hand next to the dealer's hand.)
+279		[Cut to Chandler's room, Joey is relaying to Chandler his amazing discovery.]
+280	Joey	 Chandler! You are not gonna believe this! I have found my identical hand twin!
+281	Chandler	 (totally confused) What?
+282	Joey	 My identical hand twin!
+283	Chandler	 What's an identical hand twin?
+284	Joey	 What's it sound like? It's a guy with my identical hands! It was incredible! Chandler, the dealer's hands were exactly like me! It-it was like looking at my hands in a mirror!
+285	Chandler	 Are you sure you weren't (pause) looking at your hands in a mirror?
+286	Joey	 Don’t you see what this means?! I can forget about that stupid movie. I'm gonna be a millionaire!
+287	Chandler	 (totally confused) How?
+288	Joey	 Look, I don't have it all worked out yet, but it's gotta mean big money! Come on! Identical hands!
+289	Chandler	 Again I must go back to, how?
+290	Joey	 This is Vegas man! People will pay to see freaky stuff! Okay, how much would you pay to see this hand (Holds up his left hand) twice? Huh?
+291	Chandler	 (Pause) Y'know, I-I can't really put a price on that Joe.
+292	Joey	 Hey, are you unsupporting me again?
+293	Chandler	 No! No! I support you 100%! I just didn't, I didn't get it right away. Y'know now I'm caught up! Identical hand twins! It's a million-dollar idea!
+294		(Joey starts to leave to embark on his genius moneymaking scheme, but is freaked out slightly when as he goes to open the door, there's a mysterious knock. He calms himself down and opens the door to reveal Phoebe.)
+295	Phoebe	 Hey!
+296	Joey	 Pheebs!!
+297	Phoebe	 Yeah?
+298	Joey	 I found my identical hand twin!
+299	Phoebe	 Ohh, you are so lucky! (To Chandler) Hey! So, where's Monica? Did you guys make up?
+300	Chandler	 No!
+301	Phoebe	 But she just came up here!
+302	Chandler	 That was Joey!
+303	Phoebe	 I wonder where she is. That is so weird.
+304	Chandler	 Yeah, well, she's probably talking to Richard.
+305	Phoebe	 Would you stop that! Do you wanna know the first thing she said when she came back from her lunch with Richard? She didn't feel anything for him. She loves you!
+306	Chandler	 Really?
+307	Phoebe	 Yes! Now, she feels terrible! She really wants to make up! You gotta find her.
+308	Chandler	 Okay. (He gets up and goes to find her.)
+309	Phoebe	 Good. (After he leaves, she puts on Joey's gladiator helmet and checks herself out in the mirror) I should really start wearing hats!
+310	[Scene	 Caesar's Palace Casino, Chandler is looking for Monica while Tom Jones's signature song is playing in the background (Getting the theme yet? Tom Jones, Wayne Newton, casinos… They're in Vegas people! Catch up!) It's Not Unusual, y'know, "It's not unusual to be loved by anyone! It's not unusual to have fun with anyone! But when I see you hanging about with anyone, it's not unusual to see me cry! I wanna die." Well, while that's playing he spots Monica playing craps and in victory hug the guy next to her. Chandler turns and walks out.]
+311	[Scene	 That same plane cabin, Ross is working on a crossword puzzle and Rachel is asleep against his shoulder. She shifts a little bit and Ross suddenly gets an idea. An evil idea when he looks at his pen. Then we have a little time lapse, the plane has landed and everyone is disembarking. The flight attendant is saying bye-bye to everyone.]
+312	The Flight Attendant	 (to another passenger) Welcome to Las Vegas.
+313		(Rachel approaches and we see the fruits of Ross's evil plan. He has drawn a moustache and beard on Rachel. The flight attendant just ignores it.)
+314	The Flight Attendant	 (To Rachel) Thank you! (Not sure of herself) Enjoy your flight?
+315	Rachel	 Yes, I did. Thank you very much, it was excellent. (Disembarks)
+316	The Flight Attendant	 (To Ross) Hope you had a nice flight.
+317	Ross	 Ohh, it was the best!
+318		Commercial Break
+319	[Scene	 The casino, Ross and Rachel are entering.]
+320	Ross	 I think the check in is that way. (Points)
+321	Rachel	 Ahh.
+322		(A young boy sees Rachel, points, and starts laughing.)
+323	Rachel	 Hello! (She makes a face and the kid laughs harder. Finally, his parents drag him off.) Ohh, kids love me.
+324	Phoebe	 (sees Ross and Rachel) Hey!
+325	Ross	 Phoebe! (They hug.)
+326	Phoebe	 You guys are here! Yay!
+327	Rachel	 Hi! (Hugs Phoebe)
+328	Phoebe	 (sees Rachel's face) What? Did you go to a costume party? Let me guess umm Pancho Vila? (Points at Rachel) and you're Bob Saget. (An old lady has sat down at the slot machine Phoebe was just at.)
+329	Rachel	 Pancho Vila?
+330	Phoebe	 Yeah! (Motions to her face, indicating all of Rachel's "make-up.")
+331	Rachel	 What are you talking about Pheebs? (Takes out her compact) I don't… (She gasps when she looks in the mirror and sees her face.) (To Ross) Oh my God, you drew on me?!
+332	Ross	 Hey, you wet my pants!
+333	Phoebe	 Whoa, what kind of party was this?
+334	Rachel	 Ross, I have been walking around like this since the plane! I can—you have so crossed a line. (Heads for the bathroom)
+335	Ross	 Rach! Wait! The men's room is that way. (Points in the other direction. Rachel hits him with her purse and heads for the ladies room.)
+336		(The old lady at Phoebe's machine wins. Phoebe turns around in shock.)
+337	Phoebe	 Ugh!
+338	Ross	 What?
+339	Phoebe	 That's like the third time that lady's won on a machine I was playing.
+340	Ross	 Oooohhh, I'll bet she's one of those people.
+341	Phoebe	 M-M-Mole people?
+342	Ross	 What? No-no, a lurker.
+343	Phoebe	 Oh. What's a lurker?
+344	Ross	 Okay when you're playing a machine and it hasn't paid out, a lurker waits for you to give up and then…
+345	Phoebe	 Kills you?
+346	Ross	 No. They swoop in and steal your jackpot.
+347	Phoebe	 Ohhh!
+348	Ross	 Uh-hmm.
+349	Phoebe	 How do you know about this?
+350	Ross	 My nana used to do it. That's how she paid for all my dance—karate lessons.
+351	Phoebe	 Dance karate?
+352	Ross	 Yes, it's a deadly but beautiful sport. (Does a karate chop, then does a little dance-type sway.)
+353	Rachel	 (returning with her purse covering her face) All right, it won't come off!
+354	Ross	 What?!
+355	Rachel	 It won't come off!
+356	Ross	 Oh my God! Rach-Rach, are-are-are you sure?
+357	Rachel	 No, actually I took it off then I drew it back on.
+358	Joey	 (entering) Hey-hey-hey you made it!
+359	Ross	 Joey!!
+360	Joey	 All right! Hey-hey!
+361	Rachel	 Hi!!
+362	Joey	 Who's your friend? He's hot! (Ross laughs and Rachel smacks him with her purse.)
+363	Ross	 (To Joey) Thanks man.
+364	Rachel	 Hi. (She hugs Joey.)
+365	Ross	 Hey listen I uh, talked to Chandler, sorry about the movie.
+366	Joey	 No, don't be sorry. I don't need it anymore. I found my identical hand twin!
+367	Ross	 Your what?
+368	Joey	 My identical hand twin! The person whose hands are exactly like mine! This thing is a gold mine!
+369	Ross	 What?! That's not gonna make you any money!
+370	Joey	 Okay. Well, if that's how you feel about it, fine! None of you get to live with me in my great big hand-shaped mansion! Except uh, you Pheebs. You can live in the thumb.
+371	[Scene	 The craps table, Monica is on a big roll.]
+372	Monica	 All right baby, come on! (Rolls the dice) Yes! Yes! I am on fire!
+373	Chandler	 (walking by with his luggage) See you later Mon.
+374	Monica	 Wait Chandler, what are you doing?!
+375	Chandler	 What does it look like? I'm going home.
+376	Monica	 What? Wait! Why? (He turns and heads for the door and she chases after him.) Chandler! Chandler! Wait! I’m sorry, I was just playing for one second! I was trying to find you to tell you that, look if you don't want me to see Richard again, I won't! He means nothing to me!
+377	Chandler	 Come on! I was there! (He's propped up with his hand on a statute of a naked guy. He winces and pulls his hand away.) I know he's the love of your life.
+378	Monica	 Not any more.
+379	Chandler	 Really?!
+380	Monica	 Really! (They hug and kiss) All right? Let's forget about this going home stuff and celebrate our anniversary. (She picks up his suitcase.) Okay, this is empty.
+381	Chandler	 Yeah, I wanted to make a dramatic scene, but I hate packing.
+382	[Scene	 A blackjack table, it's the same one Joey's hand twin was working at, only he's not there anymore and has been replaced by a beautiful woman.]
+383	Joey	 (entering) Uhh, hey. Where's the other guy?
+384	The Woman Dealer	 Which guy?
+385	Joey	 He's kinda tall, dark hair, hand looks exactly like this. (Holds up his hand.) See?
+386	The Woman Dealer	 I don't know about the hands, but the guy that was here before me just went to the bathroom.
+387	Joey	 Okay! (Walks away, then turns back.) How you doin'?
+388	The Woman Dealer	 Very busy.
+389	Joey	 Right! Okay. (Heads for the bathroom.)
+390	[Scene	 Ross and Rachel's hotel room, Rachel is still trying to get the ink off and Ross is on the phone to the company. Wait a minute, why exactly are they sharing a hotel room? Didn't they like break-up or something? Did I miss a memo? Or maybe, it's just foreshadowing things to come. Who knows? Maybe the answer's at the bottom of the page. Then again, maybe it isn't and it's just one of those things TV writers just don't explain. Anyhoo…]
+391	Ross	 (on the phone) Yes, hello. I have a question. Umm, I used your pen to draw on my friend's face. (Listens) A beard and a moustache. (Listens and laughs) Thank you. (Rachel turns around and glares at him.) No, she didn't think so. (Listens) I know it's like (turns and sees Rachel staring at him and quickly changes the subject) anyway, umm well make-up didn't cover it and we've tried everything to get it off and nothing's worked. What-what do we do? (Listens) Yeah. (Listens) Uh-huh. (Listens) Yeah. (Listens) Oh! Okay. (Listens) Okay, thank you! (Rachel gets excited at his tone.) (Hangs up the phone) Yeah, it's not coming off.
+392	Rachel	 What?! What else did he say?
+393	Ross	 Umm, he said he thought I was funny. So…(Rachel stares at him.) Okay, look-look umm, let's just go downstairs, we'll have some fun, and you will forget all about it.
+394	Rachel	 Ross, no! There is no way I am leaving this room looking like this!
+395	Ross	 Oh, come on! Rach, it's-it's not that bad.
+396	Rachel	 Ross, I am a human doodle!!
+397	Ross	 Look, just because some idiot drew on your face doesn't mean you shouldn't have any fun! Okay? And besides, hey-hey-hey no one is even gonna look at you. Okay? This is Vegas! Hello! There are tons of other freaks here! (Rachel turns around and glares at him.) There are tons…of…freaks here. No other. No. Come on! No one will notice, I swear!
+398		(They both exit.)
+399		[Time lapse, they're both entering.]
+400	Ross	 Okay, there was some staring and pointing.
+401	Rachel	 Okay, I need a, I need a drink! (Makes a beeline for the mini-bar.)
+402	Ross	 Oh, hey y'know, they-they really overcharge you for that stuff. (Rachel glares at him.) But who cares?! Because it's all on me! (Rachel reaches into the fridge and pulls out two handfuls of those mini booze bottles.) (Watching her.) That is, one big drink!
+403	Rachel	 (she's finished reliving the fridge of its entire alcohol content.) Macadamia nut?
+404	Ross	 (looking at the price list) Umm… Wow! That's-that's some pricey nut!
+405	Rachel	 Hm-mmm! (Opens the container)
+406	Ross	 Really like those Macadamia nuts, huh?
+407	Rachel	 Nope! (She puts one in her mouth and spits it out, then does it again in another direction.)
+408	[Scene	 The casino, Phoebe is playing on a slot machine. Suddenly the lurker sticks her head around the aisle of slot machines.]
+409	Phoebe	 (seeing her) Get out of here you lurker! (She doesn't move) Go on! Get! (She throws a quarter at her.)
+410	Chandler	 (arm-in-arm with Monica) Hey Pheebs!
+411	Phoebe	 Ohh! You made up!
+412	Monica	 Yeah, I couldn't be mad at him for too long.
+413	Chandler	 Yeah, she couldn't live without the Chan Love. (They start kissing.)
+414	Phoebe	 Ohh, get a room.
+415	Monica	 We have one.
+416	Phoebe	 I know. Use it.
+417	[Scene	 The Men's room, Joey is entering and sees his hand twin washing his hands.]
+418	Joey	 Oh-oh-oh, yeah! (He grabs some towels and takes them to him.) That's right, you take good care of those babies!
+419	Joey's Hand Twin	 Excuse me?
+420	Joey	 It's me, Joey!
+421	Joey's Hand Twin	 Do I know you?
+422	Joey	 (holds up his hand) Joey!
+423	Joey's Hand Twin	 Oh-ho, yeah. Yeah, the hand guy.
+424	Joey	 Okay, so what are we going to do about this hand twin thing?!
+425	Joey's Hand Twin	 Nothing?
+426	Joey	 Look, you and I have been given a gift. Okay? We have to do something with it. Like-like, hand modeling! Huh? Or-or magic! And you know NASA's gonna wanna talk to us!
+427	Joey's Hand Twin	 (tries to leave) I have to get back to…
+428	Joey	 (stopping him) Whoa! Whoa! Whoa! Whoa-whoa! We could have our own show! Y'know we could clap our hands together people will love it! Huh? And-and-and I wrote a song for us! (Singing, to the tune of This Land is Your Land) This hand is your hand! This hand is my hand! Oh wait, that's your hand! No wait, it's my hand!
+429	Joey's Hand Twin	 That's okay. (Walks out.)
+430	Joey	 (following him) But you haven't even heard the chorus!
+431	[Scene	 Ross and Rachel's room, Ross is drinking a beer while Rachel is examining herself in the mirror.]
+432	Rachel	 Oh my God, I'm starting to look like my great aunt, Muriel.
+433	Ross	 (gets up) All right. Y'know what? We don’t have to go downstairs! We can bring Vegas up to us! (He grabs a deck of cards and pulls up a chair.) All right, come on, come on, we'll play some blackjack. Here we go. (Deals the cards.) 13.
+434	Rachel	 Hit me!
+435	Ross	 (does so) Oohh, 23. (Rachel looks at him.) Which is what we play to at this casino! You win 10 dollars! (Holds out a ten.)
+436	Rachel	 I bet 20.
+437	Ross	 You're right! (Gives her the twenty she won.)
+438	[Scene	 The Craps Table, Monica is still on her roll, only this time Chandler's with her and she has a huge crowd of people around.]
+439	Monica	 (shaking the dice) A new pair of shoes for the Chan-Chan man! (Rolls the dice.) Yes!
+440	Chandler	 Yes! I've-I've never seen a roll like this in my life!
+441	Monica	 That's right baby! Okay, what do I want now?
+442	Chandler	 Okay, ah umm, ah, a 8. Ah, a 6?
+443	Monica	 Pick a number! That is your only job!
+444	Chandler	 8. 8!
+445	Monica	 Thank you!
+446	Chandler	 If you get this one, we buy everybody here a steak dinner!
+447	All	 Yay!!
+448	The Croupier	 8!
+449	Monica	 Yes!
+450	All	 Yay!!
+451	Monica	 (To Chandler) We're not really gonna buy these people steak dinners are we?
+452	Chandler	 Noo!
+453	Monica	 Okay, good! Okay, what do I want now?
+454	Chandler	 Ahh, ooh, try a hard 8.
+455	Monica	 What?
+456	Chandler	 Two fours.
+457	Monica	 Okay. (Rolls the dice)
+458	The Croupier	 8!
+459	A Drunken Gambler	 (To Chandler) Don't you let her go! You're a lucky guy!
+460	Chandler	 Thank you, Mister Drunken Gambler! Okay, you get this and uh, we get the biggest suite in the place! (Everyone cheers) Wait-wait-wait-wait! We (motions to Monica and him.) get the biggest suite in the place.
+461	Monica	 All right, biggest suite in the place. Come on! (Rolls the dice.)
+462	Chandler	 (sees the roll) Yes!! I love you! I can't even remember what we were fighting about!
+463	Monica	 Oh, that's because I had lunch with Rich—Me neither! Okay, what do I want now?
+464	Chandler	 Another hard 8.
+465	Monica	 Hard 8?! We should call it easy 8!
+466	Chandler	 Okay, okay, I tell you what. You roll another hard eight; (pause) and we get married here tonight.
+467	Drunken Gambler	 Go! Come on! Roll!
+468	All	 Roll-roll!!
+469	Monica	 Shut up!! It just got interesting!
+470		Commercial Break
+471	[Scene	 The Craps table, continued from earlier.]
+472	Monica	 What did you just say?
+473	Chandler	 You roll another hard eight and we get married here tonight.
+474	Monica	 Are you serious?!
+475	Chandler	 Yes! I love you! I've never loved anybody as much as I love you.
+476	Monica	 I've never loved anybody as much as I love you.
+477	Chandler	 Okay, so if an eight comes up, we take it as a sign and we do it! {Whoa! Where have I heard that before? Matthew Perry talking about signs in Las Vegas. I guess it must've been some movie I saw.} What do you say?
+478	Monica	 Okay!
+479	Chandler	 Okay! Come on! Let's go! All right!
+480		(She rolls the dice, but one bounces out of the table.)
+481	Chandler	 (spots one) Okay! That's a four! And where-where's the other one?
+482	Drunken Gambler	 It went under the table.
+483	Monica	 Nobody move! (To Chandler) Okay, you look that way; I'll look this way!
+484	Chandler	 All right!
+485		(He searches to his right; she searches to her left. They're both on their hands and knees when they spot the die. It's propped up against the table leg, and it's not lying flat. Both the four and the five are showing.)
+486	Chandler	 Here it is! Here it is!
+487	Monica	 That could be a four or a five. It's your call.
+488		(Pause.)
+489	Chandler	 It's a four.
+490	Monica	 I think so too.
+491		(Cue up the music as they move in and kiss. This time I think it's Perry Como, but I'm not sure. It's Everybody loves somebody, sometime! Everybody falls in love somehow! Something in your kiss, just told me, my sometime, is now!)
+492	[Scene	 The slot machines, Phoebe is still feeding quarters into the one-armed bandit as the lurker peeks over the top of the machines.]
+493	Phoebe	 Oh well, lost again. (She gets up and slowly moves away. The lurker scurries in and takes her spot, only this time Phoebe set a trap for her and catches her in the act.) That's it! You and me, outside!
+494	The Lurker	 I don't want to see you lose a chunk of that pretty blond hair!
+495		(They start smacking each other's cups, but Phoebe notices a security guard approaching.)
+496	Phoebe	 Be cool! (They both pretend to have a nice conversation as the guard walks by, but after he leaves they both start fighting again.) Okay lady, your lurking days are over!
+497	The Lurker	 What?!
+498	Phoebe	 Yeah, from now on everyone you lurk, I'm gonna lurk first! You move on to someone else, I'm gonna be one step ahead of you, every single time! And then I'll be on your ass every hour of every day 'til Monday, because that's when I go home. When do you leave?
+499	The Lurker	 Also Monday.
+500	Phoebe	 What time? Maybe we can share a cab!
+501	[Scene	 Ross and Rachel's room, they've pretty much consumed the entire mini-bar. Needless to say, they're feeling no pain and are still playing blackjack.]
+502	Rachel	 Hit me. (He does so.) Hit me. (He does so.) Hit me. (He does so.) Hit me. (He does so.) Hit me. (He does so.) Hit me. (He does so.) Hit me. (She slows down with each one.)
+503	Ross	 (runs out of cards) We need more cards.
+504	Rachel	 Yeah, and also we need more umm, drinks. Hold on a second. (Gets up but stumbles a little bit.) Whup, okay. (She makes it to the phone and picks it up, without dialing.) Hello! Vegas? Yeah, we would like some more alcohol, and y'know what else? We would like some more beers. Hello? Ohh, I forgot to dial!
+505		(They both start laughing. There's a knock on the door.)
+506	Ross	 That must be our alcohol and beers! (Gets up to answer it.)
+507	Joey	 Hey!
+508	Ross	 Ohh, it's Joey! I love Joey! (Hugs him.)
+509	Rachel	 Ohh, I love Joey! Joey lives with a duck! (Goes and hugs Joey.)
+510	Joey	 Hi!
+511	Rachel	 Hey!
+512	Joey	 Look-look-look you guys, I need some help! Okay? Someone is going to have to convince my hand twin to cooperate!
+513	Ross	 I'll do it. Hey, whatever you need me to do, I'm your man. (He starts to sit down on the bed. There's one problem though, he's about two feet to the left of it. Needless to say, he misses and falls on his butt.) (Looking up at Joey.) Whoa-oh-whoa! Are you, are you okay?
+514	Joey	 Yeah! I'm fine! Thanks! (He starts to leave, but gets an idea and stops.) Hey Rach, how you doin'?
+515	Rachel	 I'm doin' good, baby. How you doin'?
+516	Joey	 Ross, don't let her drink anymore! (Exits)
+517	Ross	 Ohh, here's that Macadamia nut!
+518	Rachel	 Ohhh!!
+519	Ross	 (he puts it in his mouth) Nope! Something else. (Throws it back under the bed.)
+520	Rachel	 Oops! All right, so what do you want to do now?
+521	Ross	 I wanna get out of the room! Y'know, I…I really miss downstairs.
+522	Rachel	 Okay, y'know what? There's only one way I'm leaving this hotel room.
+523		[Cut to the casino, a very drunk and doodled on Rachel is walking arm in arm with an equally drunk and doodled on Ross are walking through the casino and greeting people on their way through. Ross has some whiskers and his nose colored in, along with his name on his forehead.]
+524	Ross	 Well hello! I'm Ross!
+525	Rachel	 Good luck to ya!
+526	Ross	 Excuse me sir, you've got a little something right here. (He points to the corner of his mouth and they both laugh.)
+527		(They've made their way to the statue of the naked man that Chandler was leaning against earlier.)
+528	Rachel	 Wow!
+529	Ross	 (bowing) Hello!
+530	Rachel	 (bowing) Hello!
+531	Ross and Rachel	 (bowing) Hello!
+532		(They both continue on and Ross meows like a cat.)
+533	[Scene	 The slot machines, we see some guy not having any luck. Both Phoebe and the Lurker are lurking him and each stick their heads around the corner at different times This is all set to that Pink Panther song. Finally the guy gives up and walks past the lurker's position, thus giving her the advantage. She scurries in and quickly drops a coin in the slot before Phoebe gets there. Phoebe arrives slightly later and pulls the arm just after the lurker deposits the coin and wins.]
+534	Phoebe	 I won! I won! I finally won!
+535	The Lurker	 I won! That was my quarter!
+536	Phoebe	 Fine! Here! Take a hike toots! (Gives back her quarter.)
+537		(The security guard approaches.)
+538	The Lurker	 (to the guard) Excuse me, sir! This lady played my quarter, this is my money. (Motions to the jackpot.)
+539	The Security Guard	 (To Phoebe) Is that true miss?
+540	Phoebe	 (quietly) Sells drugs to kids.
+541	The Security Guard	 What?!
+542	Phoebe	 She sells drugs to kids. (The guard looks at the lurker.)
+543	The Lurker	 It was my quarter!
+544	The Security Guard	 (To Phoebe) Was it her quarter?
+545	Phoebe	 How about we talk about this over dinner?
+546	The Security Guard	 Okay lady, you're out of here.
+547	Phoebe	 No! No, you can't arrest me! No!! I won't go back! I won't go back to that hell hole!!
+548	The Security Guard	 I'm just taking you outside!
+549	Phoebe	 Oh, okay. (Walks out.)
+550	[Scene	 The Gift Shop, Monica and Chandler are entering.]
+551	Monica	 Okay, come on, I can't get married until I get something old, something new, something borrowed, and something blue.
+552	Chandler	 Okay, all right, all right, all right! Okay! (Picks up a blue sweater.) Okay, here's something, here's something blue and new.
+553	Monica	 You're so efficient. I love you!
+554	Chandler	 Let's go! (Starts to leave.)
+555	Monica	 No-no-no! We need something old!
+556	Chandler	 Ohh, great, I have condom in my wallet I've had since I was twelve.
+557	Monica	 That'll work!
+558	Chandler	 I don't think so.
+559	Monica	 Okay, now we just need something borrowed!
+560	Chandler	 (looks around) Here just…take this. (Hands her the sweater.)
+561	Monica	 That's stealing!
+562	Chandler	 No, we'll-we'll bring it back! Just put it under your dress.
+563		(She does so and it makes her look pregnant.)
+564	Monica	 Ohh. (Rubs her fake stomach.)
+565	Chandler	 Okay, one thing at a time. (They run out to get married.)
+566	[Scene	 A blackjack table, Joey is moving in to try and get his hand twin (who's dealing) to join him in his evil plot to rule the world! "Join me, and together we'll rule the universe as father and son!" (Sorry, I had a little Star Wars creep in there—Ooh, I have a big spoiler for The Phantom Menace, Yoda lives at the end! Ha-ha, spoiled it! Now you don't have to see it!)]
+567	Joey	 (sitting down) Ahhh! (Slides his hands across the table.)
+568	Joey's Hand Twin	 Are you gonna play?
+569	Joey	 No-no, I don't really have any money. Not yet, anyway… (Shakes his hands.)
+570	Joey's Hand Twin	 You can't sit here if you're not gonna play.
+571	Joey	 (throws down a small wad of money, and as his hand twin starts to unfold it, Joey once again brings attention to their special gift to the world. {Y'know, looking at it now, they really don't have that similar of hands. Joey's are bigger.}) Ooh-ho-ho! (The dealer stares at him and he stops.)
+572	Phoebe	 (entering and sitting down at the table.) Hello. My name is Regina Phalange. I'm a businesswoman in town on business. Would you like to see my card? (Looks down) Ooh, what did I do with my file-a-facts? I must've left it in conference room B.
+573	Joey's Hand Twin	 (To Joey) 14.
+574	Joey	 Hit me! (He does so.)
+575	Phoebe	 Oh my God! May I just say that you two gentlemen have the exact same hands! They're identical! Now, I've never seen anything like that in the business world.
+576	Joey's Hand Twin	 Stop it!
+577	Joey	 Uhh, Ms. Phalange, may I ask you a question as an impartial person at-at this table?
+578	Joey's Hand Twin	 Please stop it!
+579	Joey	 Wouldn't you pay good money to see these identical hands showcased in some type of a uh, entertainment venue?
+580	Joey's Hand Twin	 (To Joey) If you leave now, I will chop off my hand and give it too you!
+581		(The security guard from before approaches and Phoebe tries to turn her back on him.)
+582	The Security Guard	 (To Phoebe) Didn't I just throw you out of here?
+583	Phoebe	 No, you threw out Phoebe. I'm Ms. Regina Phalange. Phalange!
+584	The Security Guard	 Come on, lady! (Starts to escort her out.)
+585	Joey's Hand Twin	 Please, please take him too. (Motions to Joey.)
+586	Joey	 Me?! Oh come on, man! You can't do this! Come on! (Being dragged out by the guard) I'm your hand twin!!
+587	[Scene	 A Little White Chapel, Chandler and Monica are entering.]
+588	Chandler	 Hello! One marriage please!
+589	Monica	 Yep, we wanna get married!
+590	The Attendant	 Well, there's a service in progress. Have a seat.
+591	Chandler and Monica	 All right.
+592		(They both sit down.)
+593	Chandler	 (singing) Dum! Dum-dum-dum! Dum! Dum! Dum! Dum-dum-dum!
+594	Monica	 What are you doing?
+595	Chandler	 Oh, that's The Wedding March. Does, does that freak you out?
+596	Monica	 No, only because that's the graduation song.
+597		(The real Wedding March begins playing from behind the closed doors of the chapel.)
+598	Chandler	 Okay! (Stands up) This is it! (Claps his hands) We're gonna get married!
+599	Monica	 Are you sure you wanna do this?
+600		(Suddenly the doors burst open, and ROSS AND RACHEL COME OUT ARM-IN-ARM!!!!! And Rachel's carrying a bouquet!!! THEY GOT MARRIED!!!!)
+601	Ross	 Well, hello, Mrs. Ross! (Throws some rice.)
+602	Rachel	 Well, hello, Mr. Rachel! (Throws some more rice.)
+603		(They storm out into the street.)
+604	Rachel	 Wait! (Gets her bearings) Okay!
+605		(She goes one way; he goes the other. The camera pans back to Chandler and Monica, and needless to say, they're standing there dumbstruck as The King's (Elvis Presley to the yougin's) Viva, Las Vegas begins to play. Sing along with me now, "Viva! Las Vegas! Vivaaaaaa! Vivaaaaa! Las Vegassssss!!" Fade to Black.)
+606		Ending Credits
+607		[That's all folks, no teaser; just the big cliffhanger for season 6. Yes, there will be a season 6, and it'll start again in September. Have a good summer everyone!]
+608	webbot bot="ImageMap" startspan rectangle="(136,0) (193, 80) http	//thecfsi.com/season6/601vegas.htm" rectangle="(68,0) (127, 80) http

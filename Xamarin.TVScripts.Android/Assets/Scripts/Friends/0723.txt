@@ -1,0 +1,593 @@
+1	Part I Written by	 Greg Malins Part II Written by
+2	[Scene	 Central Perk, everyone is there.]
+3	Monica	 Do you realize this is probably the last time we’ll all be here in the coffee house as six single people?
+4	Phoebe	 Why?! What’s happening to the coffee house?! (Monica looks at her.) Oh! (Realizes.)
+5	Chandler	 Yep! From now on its gonna be the four of you guys and me and the mrs. The little woman. The wife. The old ball and chain.
+6	Monica	 Old?
+7	Chandler	 The young hot ball and chain.
+8	Monica	 That’s much better.
+9	Rachel	 (checking her watch) Op! We gotta go! (The girls stand up.)
+10	Ross	 Oh, where are you guys going?
+11	Monica	 We’re gonna pick up the wedding dress, then we’re gonna have lunch with mom. (Joey stands up.)
+12	Ross	 Ah. Joey, you’re-you’re having lunch with my mom?
+13	Joey	 No, I-I just heard lunch. But yeah, I can go. Sure! (They all exit.)
+14	Ross	 (To Chandler) Y’know what? Actually I’m kinda glad they’re leaving ‘cause uh, I need to talk to you about something.
+15	Chandler	 What’s up?
+16	Ross	 Well this uh, this may be a little awkward.
+17	Chandler	 Listen, if you want to borrow money, its kind of a bad time. I’m buying dinner for 128 people tomorrow night.
+18	Ross	 No, its…Its not that. Umm, now what I’m going to say to you, I’m not saying as your friend. Okay? I’m-I’m saying as it as Monica’s older brother.
+19	Chandler	 But you’re still my friend?
+20	Ross	 Not for the next few minutes.
+21	Chandler	 During this time…are you, are you still my best man?
+22	Ross	 Nope.
+23	Chandler	 Do I still call you Ross?
+24	Ross	 Okay! You guys are getting married tomorrow and-and I couldn’t be more thrilled for both of you, but as Monica’s older brother I-I have to tell you this. If you ever hurt my little sister, if you ever cause her any unhappiness of any kind, I will hunt you down and kick your ass! (Chandler laughs.) What? I’m-I’m-I’m serious! (Chandler laughs harder.) Come—Hey! Dude! Stop it! Okay? I’m-I’m not kidding here!
+25	Chandler	 (smiling) Hey, I hear what your saying, okay? And, thanks for the warning.
+26	Ross	 No problem.
+27	Chandler	 So are we…friends again?
+28	Ross	 Yeah.
+29	Chandler	 Okay. (Pause) You won’t believe what Monica’s older brother just said to me!
+30		Opening Credits
+31	[Scene	 Monica and Chandler's, the girls are having breakfast.]
+32	Rachel	 What‘cha doing Mon?
+33	Monica	 I’m making a list of all the things that are most likely to go wrong at the wedding. Now, that way I can be prepared.
+34	Phoebe	 What are they?
+35	Monica	 Well, so far I have uh, my bridesmaids' dresses won’t get picked up, my veil gets lost, or I don’t have my something blue.
+36	Rachel	 Hey! Those are all the things I’m responsible for!
+37	Monica	 I had to go with the odds Rach.
+38	Joey	 (entering) Hey! You guys! Remember that audition I had a while ago and didn’t get the part?
+39	Rachel	 The commercial?
+40	Joey	 No!
+41	Phoebe	 That play?
+42	Joey	 No!
+43	Monica	 That other play?
+44	Joey	 Nooo!
+45	Phoebe	 The movie?
+46	Joey	 Yes!!
+47	Phoebe	 Ohh!
+48	Joey	 Yes, that’s the one about the soldiers who fight in World War I!
+49	Phoebe	 Oh, yeah! Back then y’know, we called it the Great War. It really was!
+50	Joey	 Well anyway, the guy they wanted backed out and now they want me! I start shooting today!
+51	Phoebe	 Congratulations!
+52	Rachel	 Oh that’s great!
+53	Monica	 Wait! Wait! Wait! You can’t start today! Today’s the rehearsal dinner!
+54	Joey	 Oh no, I’ll be done by then.
+55	Monica	 Oh. Well then way to go, you big movie star!
+56	Joey	 I know! All right, I’ll see you guys over there! I’m off to fight the Nazis.
+57	Rachel	 Oh, wait Joey! We fought the Nazis in World War II, not World War I.
+58	Joey	 Whoa! Okay. Yeah well, who-who was in World War I? (Rachel pauses as she thinks.)
+59	Phoebe	 Go ahead.
+60	Rachel	 You’re gonna be late! Go! Go! (He runs out.)
+61	Monica	 Who did we fight in World War I?
+62	Rachel	 Mexico?
+63	Phoebe	 Yes! Very good.
+64	[Scene	 Pier 59 Studios, Joey is in costume and standing at the craft services table. He checks his pockets and finds some prop coins in a pouch, which he replaces with some cookies.]
+65	The Assistant Director	 (approaching) Hey Joey! We’re ready.
+66	Joey	 Yeah! Me too. (He pats his pocket.)
+67	The Assistant Director	 (to another actor) Richard? We’re ready for you. (Richard approaches.) Joey Tribbiani? This is Richard Crosby, he’s playing Vincent.
+68	Joey	 I’m doing my scenes with you?
+69	Richard	 Nice to meet you Joey.
+70	Joey	 Wow! I can’t believe this! This is incredible. I mean you just won an Oscar!
+71	Richard	 No I didn’t.
+72	Joey	 I think you did.
+73	Richard	 I think I lost. Three times.
+74	Joey	 Uh…Cookie?
+75	The Director	 (approaching) Okay! We’re about an hour away from getting the scene lit. So uh, if you guys don’t mind, can we run it a couple of times?
+76	Richard	 Yeah, sure.
+77	The Director	 Okay, all right. Let’s do it. (He walks off.) And…Action!
+78	Joey	 We have to find the rest of the platoon!
+79	Richard	 Forget the platoon! The platoon is gone! (He is spitting on the hard Ps and Ts.)
+80	Joey	 (wiping his face) What?!
+81	Richard	 (still spitting) The platoon is dead! Face facts Tony!
+82	Joey	 (wipes face) So what are we gonna do?! We have no reinforcements! No-no food!
+83	Richard	 No, we still have food in the basement! I saw potatoes and some dry pasta!
+84		(Joey wipes his eye.)
+85	The Director	 Hang on a minute! Joey, you keep touching your face. Is something wrong?
+86	Joey	 (glances at Richard) No. Nope, I uh…I th—I thought it might be kind of a cool character thing. Y’know? He’s uh, he’s a face toucher. (Behind his back, Richard is nodding no.)
+87	The Director	 I don’t think so. Let’s take it back to Richard’s last line. (Walks off.) Action!
+88	Richard	 We may not have any weapons, but we still have food. In the basement I saw potatoes and some dry pasta, and a few tins of tuna! (Joey backs away and wipes his face again.)
+89	[Scene	 Monica and Chandler's, Monica is standing in the kitchen ready to leave for the rehearsal dinner.]
+90	Monica	 Honey, we gotta go!
+91	Chandler	 (entering from the bedroom) Okay. Here’s a question you never have to ask. My dad just called and wanted to know if he could borrow one of your pearl necklaces.
+92	Monica	 (laughs) I don’t have anything like that, but let me go see if Rachel does.
+93	Chandler	 Yes, include more people in this.
+94	Monica	 Hey, do you realize that at this time tomorrow we’ll be getting married?
+95	Chandler	 Wait a minute! I have a date tomorrow night.
+96	Monica	 I just, I can’t believe that we made it!
+97	Chandler	 Well you don’t have to sound so surprised.
+98	Monica	 I’m sorry but…nothing.
+99	Chandler	 What?
+100	Monica	 Well…honestly ever since we got engaged I have been waiting for something to.. to flip you out.
+101	Chandler	 Honestly? Me too.
+102	Monica	 Really?
+103	Chandler	 Yeah. Y’know I keep thinking that something stupid is gonna come up and I’ll go all…Chandler. But nothing has.
+104	Monica	 Ohh, I’m so glad. Thank you so much for staying so calm during this. I mean it’s really, it’s made me stay calm. (Chandler just looks at her.) I coulda been worse!
+105	Chandler	 Okay. I’ll be right there.
+106		(She exits and as Chandler picks up his coat, the phone rings and the answering machine gets it.)
+107	Monica	 (voice on answering machine) Hi! If you’re calling before Saturday, you’ve reached Monica and Chandler. But if you’re calling after Saturday, you’ve reached Mr. and Mrs. Bing! Please leave a message for the Bings!
+108		(Chandler freaks out and loosens his tie.)
+109	[Scene	 The Rehearsal Dinner, Chandler and Monica are greeting guests as they arrive. A woman enters.]
+110	Monica	 Hey Maureen! (They hug.) Gosh! Hey uh, Chandler? This is my cousin Maureen.
+111	Chandler	 We’re the Bings.
+112		(Phoebe and Rachel walk up.)
+113	Rachel	 Hi! Oh you guys look so beautiful!
+114	Chandler	 Mr. and Mrs. Bing! (Walks away.)
+115	Ross	 (walks up) Wow Monica! Hey, just so you know I had my uh, older brother chat with Chandler.
+116	Monica	 What is that?
+117	Ross	 Well I…I told him that if he ever hurt you I would hunt him down and kick his ass! (The girls all laugh.) What?! What?! What is the matter with everybody?! I am serious! I would kick his ass! (The laugh harder.)
+118	Phoebe	 Ross, please! My make-up! (He walks away angrily.)
+119		(Chandler’s Mom enters and Chandler meets her by the door.)
+120	Chandler	 Hi.
+121	Mrs. Bing	 Chandler!
+122	Chandler	 Mom. Thanks for wearing something. (They hug.) (She’s wearing a tight dress with a lot of cleavage showing.)
+123	Mrs. Bing	 Oh honey! This is so exciting! I thought we screwed you up so bad this day would never come. Oh and just think. Soon there’ll be lots of little Bings. (He freaks out and loosens the tie again.)
+124		(Monica and her parents walk up.)
+125	Monica	 Mrs. Bing? Here, these are my parents umm, Judy and Jack Geller.
+126	Mrs. Geller	 (shaking her hand) It’s lovely to meet you.
+127	Mr. Geller	 (shaking her hand) So are you his mother or his father?
+128	Mrs. Geller	 Jack!
+129	Mr. Geller	 What?! I’ve never seen one before!
+130	Monica	 Dad! There’s Ross (points), why don’t you go talk to him?
+131		(Mr. and Mrs. Geller start to walk away.)
+132	Mr. Geller	 I didn’t even have a chance to act as though I’m okay with it!
+133	Mr. Bing	 (entering) Hello all!
+134	Chandler	 Hi…dad.
+135	Monica	 Hi Mr.…Bing.
+136	Mr. Bing	 Nora!
+137	Mrs. Bing	 Charles.
+138	Monica	 It-it’s so great to see you both here.
+139	Mr. Bing	 Yes! Although, I think we may be seeing a little too much of some people. Aren’t you a little old to be wearing a dress like that?
+140	Mrs. Bing	 Don’t you have a little too much penis to be wearing a dress like that?
+141	Chandler	 Oh my God! (He and Monica walk away.)
+142		[Cut to Mr. and Mrs. Geller talking to Ross.]
+143	Mr. Geller	 …of course you can kick his ass son.
+144	Mrs. Geller	 You could kick anyone’s ass you want to.
+145	Ross	 Thanks you guys. (Walks away happily and his parents smile.)
+146		[Cut to Monica.]
+147	Monica	 Oh, Rach! Rach! Umm hey, could you do me a favor and would you talk to Chandler’s dad and try to keep him away from Chandler’s mom?
+148	Rachel	 Yeah! But I don’t know what he looks like!
+149	Monica	 He is the man in the black dress.
+150	Rachel	 Man in the black dress… (Monica walks away and Rachel looks around to find a woman in a black dress.) (To her) Hi! I’m Rachel! I’m a friend of Monica and Chandler’s!
+151	Woman	 I’m Amanda.
+152	Rachel	 Oh I get it! A…man…duh!
+153	Ross	 (clinking a wine glass) Can I have everyone’s attention please? I’m uh; I’m Ross Geller.
+154	Mr. Geller	 Doctor Ross Geller.
+155	Ross	 Dad…dad, please! As I was saying umm, I’m Dr. Ross Geller. Uhh, and I’m the best man. And uh, this marriage is doubly special for me umm, because not only is the groom my best friend but uh, the bride is my little sister. And, she’s the greatest sister a guy could ask for. So if you’d all please join me in raising a glass to the, the couple we’re here to celebrate. (Everyone does so.) To the Bings.
+156	All	 To the Bings!
+157		(Everyone clinks glasses and Chandler freaks out again.)
+158	[Scene	 Monica and Chandler's, Monica, Phoebe, and Rachel are in the kitchen.]
+159	Monica	 All right, I’m gonna go steam my wedding dress okay? Who wants the responsibility of making sure nothing happens to it?
+160	Rachel	 I’ll do it.
+161	Monica	 Who wants it? Anybody?
+162	Rachel	 I said I’ll do it!
+163	Monica	 Nobody wants to do it? All right, I’ll do it myself.
+164	Rachel	 Monica! I’m not gonna screw it up!
+165	Monica	 Y’know what? You’re right, I’m sorry. Actually you were a big help tonight. Yeah, and thanks for putting my grandmother in the cab and making sure she got to the hotel safely.
+166	Rachel	 Well of course that is what I’m here for!
+167	Monica	 Okay. Sorry. (Monica goes into the bathroom.)
+168	Rachel	 Ugh! (To Phoebe) What grandmother?
+169	[Scene	 Joey and Rachel's, Joey is wearing sunglasses and as he exits his bedroom, Ross enters the apartment.]
+170	Joey	 Hey! Where have you been?
+171	Ross	 Oh, taking my parents back to the hotel.
+172	Joey	 Oh.
+173	Ross	 What? Are you going back to work?
+174	Joey	 Yeah.
+175	Ross	 Nice shades.
+176	Joey	 Thanks. Yeah, I figure if I wear these in my scenes at least I won’t get spit in the eyes, y’know?
+177	Ross	 And if I remember correctly, Ray Ban was the official sponsor of World War I!
+178	Joey	 Great! All right. I’ll see you later. (He starts to leave.)
+179	Ross	 Hey, where’s Chandler?
+180	Joey	 Uh, I think he’s in Rachel’s room. See ya. (Exits.)
+181	Ross	 (going up to Rachel’s closed door) Chandler? (He opens the door and looks inside and doesn’t see him.) Chandler? (He checks the bathroom and still doesn’t find him. He then finds a note on the counter. He picks it up and reads it.)
+182	[Scene	 Monica and Chandler's, Phoebe and Rachel are in the kitchen as there is a knock on the door. Rachel answers it.]
+183	Ross	 Hey!
+184	Rachel	 Hi!
+185	Ross	 Is uh, is Monica here?
+186	Rachel	 She’s steaming her dress, why? What’s up?
+187	Ross	 I think Chandler’s gone. (He hands her the note.)
+188	Rachel	 What?!
+189	Ross	 He left that.
+190	Rachel	 (reading the note) Tell Monica I’m sorry.
+191	Phoebe	 (walking up) What’s up? (Rachel hands her the note and she reads it.) Tell Monica I’m sorry. (Pause) Tell her yourself!
+192		Commercial Break
+193	[Scene	 The Hallway, Ross, Phoebe, and Rachel are discussing the note.]
+194	Phoebe	 Oh my God! Chandler just left though!
+195	Rachel	 Yeah but, maybe it’s not what we think. Maybe it’s tell Monica I’m sorry I…drank the last of the milk.
+196	Phoebe	 Or maybe he-he was writing to tell her that-that he’s changed his name, y’know? Tell Monica I’m sorry.
+197	Ross	 I think it means he freaked out and left!
+198	Phoebe	 Don’t be so negative! Good God! Isn’t it possible that Sorry is sitting in there (Joey and Rachel’s apartment) right now?!
+199	Rachel	 Okay. Phoebe, I-I think Ross is right. What are we gonna do?
+200	Ross	 Look—Okay, I’m just gonna—I’m gonna have to go find him and bring him back! Okay? You-you make sure Monica does not find out, okay?
+201	Rachel	 Okay.
+202	Phoebe	 (pointing at Ross) Okay but if you don’t find him and bring him back, I am gonna hunt you down and kick your ass!
+203		(Ross laughs and Phoebe points harder.)
+204	Ross	 (scared) I will, I will find him.
+205	[Scene	 The Movie Set, Joey is getting his make-up touched up as Richard approaches.]
+206	Richard	 Hey Joey, could you uh, go through these lines with me? (He’s holding a script.)
+207	Joey	 Oh man! They-they just redid my make-up!
+208	Richard	 Just the last two pages.
+209	Joey	 Alright.
+210		(They go onto the set.)
+211	Richard	 I found the picture!
+212		(He’s still spitting and Joey holds his script in front of his face.)
+213	Joey	 Picture? What picture?
+214	Richard	 Could you uh, could you lower your script? I need to see your face so I can uh, play off your reaction.
+215	Joey	 Okay uh, look I know you’re a great actor, okay? And you play all those Shakespeare guys and stuff…
+216	Richard	 Oh, thanks.
+217	Joey	 But you’re spittin’ all over me man!
+218	Richard	 Well of course I am!
+219	Joey	 You know you’ve been spitting on me?!
+220	Richard	 That’s what real actors do! Annunciation is the mark of a good actor! And when you enunciate, you spit! (Spits on the t)
+221	Joey	 (wiping face) Wow! Didn’t know that.
+222	Richard	 Great!
+223	Joey	 Thanks! Okay-okay check it out! (Reading from the script) Picture? What picture? (He pauses then spits) Eh?
+224	[Scene	 Central Perk, Gunther is behind the counter as Ross enters looking for Chandler.]
+225	Ross	 Gunther have you uh, have you seen Chandler?
+226	Gunther	 No. No, I haven’t seen him.
+227	Ross	 Oh damn!
+228	Gunther	 He’s getting married tomorrow, right?
+229	Ross	 Yes. Yes. Don’t worry. Everything’s fine. We’ll uh, we’ll see you tomorrow at the wedding.
+230	Gunther	 I wasn’t invited.
+231	Ross	 Well then, we’ll-we’ll see you the day after tomorrow. (Walks away slowly, but notices something.) Mom?! Dad?! (They’re sitting by the window.) What-what…what you guys doing here?!
+232	Mr. Geller	 Well, you kids talk about this place so much, we thought we’d see what all the fuss is about.
+233	Mrs. Geller	 I certainly see why the girls like coming here.
+234	Ross	 Why?!
+235	Mrs. Geller	 The sexy blonde behind the counter. (She waves at Gunther who waves back.)
+236	Ross	 (shocked) Gunther?!
+237	Mr. Geller	 Your mother just added him to her list.
+238	Ross	 What? Your-your list?
+239	Mrs. Geller	 Yeah, the list that—of people we’re allowed to sleep…
+240	Ross	 Yes! No-no! I know, I know what the list is! Mom! Look if you see Chandler, could you just let him know I’m looking for him?
+241	Mr. Geller	 And if you see Rita Moreno, let her know I’m looking for her.
+242		(Ross points at him and exits.)
+243	[Scene	 The Movie Set, Richard and Joey are doing a scene.]
+244	The Director	 Action!
+245	Richard	 I found the picture!
+246	Joey	 What picture?!
+247	Richard	 The picture of my wife! In your pack!
+248	Joey	 You went through my personal property?
+249	Richard	 Why do have a picture of Paulette in your pack?!
+250	Joey	 (pause) Because Vincent, we were lovers. (Pause) For two years!
+251	The Director	 Cut! Wonderful!
+252		(Joey and Richard both wipe their faces and are given towels.)
+253	Joey	 Great scene yeah?
+254	Richard	 Oh you’re awesome! And, in that last speech? You soaked me.
+255	Joey	 Thanks a lot.
+256	The Assistant Director	 (To Joey) Here’s your call sheet for tomorrow.
+257	Joey	 Oh, I’m-I’m not working tomorrow.
+258	The Assistant Director	 You are now.
+259	Joey	 No! No! I can’t! You gotta get me out of it! I’ve got plans! (Spits.) Important plans! (Spits on the Ps.)
+260		(The AD walks away wiping his face.)
+261	[Scene	 Monica and Chandler's, the next morning, Rachel and Phoebe are eating breakfast.]
+262	Rachel	 (closing the door) Ross said there’s still no word from Chandler.
+263	Phoebe	 Oh man.
+264	Rachel	 Oh but he did say that they found the grandmother wandering down fifth avenue.
+265	Phoebe	 Okay. Well there’s one down.
+266	Monica	 (entering from her room, excitedly) I’m getting married today!!! (She trips and falls.) (Getting up) I think I just cracked a rib. But I don’t care because today’s my wedding day! My day is finally here!! (Runs back into her room.)
+267	Phoebe	 Y’know she might not even notice he’s gone.
+268	Monica	 (re-entering) I’m gonna start getting ready! (Goes back into her room.)
+269	Rachel	 God! Don’t—We can’t let her start getting ready! This is too awful! Oh God, but wait she’ll be in the gown and then he won’t show up and then she’s gonna have to take off the gown…
+270	Phoebe	 Shhh! Stop it! Stop it Rachel! You can’t do this here! (She drags her into the bathroom.)
+271	Rachel	 I’m sorry. I’m sorry. It’s just…It’s just so sad!
+272	Phoebe	 Yeah, but you’ve got to pull yourself together! Monica can’t see you like this! Then she’ll know something’s wrong!
+273	Rachel	 I know. I know. Oh God. (Looking around) There’s no tissue! Can you grab me some toilet paper?
+274	Phoebe	 Yeah. (Looks.) Oh, that’s gone too. This is Monica’s bathroom right?!
+275	Rachel	 Oh!
+276	Phoebe	 No-no! I-I…I found one.
+277	Rachel	 Okay.
+278		(Phoebe reaches into the trash can, pulls one out, and hands it to Rachel.)
+279	Rachel	 Oh thank you! (Wiping her nose.) Oh God! (She throws it out.) Can I have another one?
+280	Phoebe	 (looking into the trash can) Sure. (Reaching into the trash can.) Do you need some floss? (Grabs a piece of it.)
+281	Rachel	 Oh God I just cannot imagine what is gonna happen if Chandler doesn’t show up!
+282	Phoebe	 Oh here’s a whole bunch.
+283	Rachel	 Oh, I mean she’s gonna be at the wedding waiting for him and people will be whispering, "Oh that poor girl." Y’know? Then she’ll have to come back here and live all alone.
+284	Phoebe	 (finding something interesting in the trash can) Oh my God!
+285	Rachel	 What?
+286	Phoebe	 There was a pregnancy test in the garbage, and it’s positive. Monica’s pregnant. (Rachel covers her mouth.) So I guess she won’t be totally alone.
+287		Commercial Break
+288	[Scene	 Monica and Chandler’s bathroom, the scene is continued from earlier.]
+289	Rachel	 Oh my God!
+290	Phoebe	 I know! Monica’s gonna have a baby! Hey, can this count as her something new?
+291	Rachel	 Oh my God!
+292	Phoebe	 Hey, do you think this is why Chandler took off?
+293	Rachel	 No, she had to have just taken that test because I took out the trash last night.
+294	Phoebe	 Oh God, this is turning into the worst wedding day ever! The bride is pregnant. The groom is missing. And I’m still holding this. (She throws the test back into the trash.)
+295	Rachel	 Okay Phoebe, we cannot tell anyone about this.
+296	Phoebe	 Right.
+297	Rachel	 Okay?
+298	Phoebe	 Yeah, okay. Hey, wait. Do you know what kind of birth control she was using?
+299	Rachel	 No. Why?
+300	Phoebe	 Just for the future, this is hardly a commercial for it.
+301	[Scene	 Joey and Rachel's, Ross is just hanging up the phone as Rachel and Phoebe enter.]
+302	Rachel	 Anything?
+303	Ross	 No! I talked to Joey on the set, he hasn’t heard from him. I-I-I talked to Chandler’s parents again!
+304	Phoebe	 You told them he was missing?
+305	Ross	 No! I made it seem like I was just calling to chat. Pretty sure, they both think I’m interested in them.
+306	Rachel	 All right, we’ve got to tell her he’s gone. (Starts to leave.)
+307	Ross	 No! Hey! Hey! We can’t!
+308	Rachel	 Ross, she’s gonna start getting ready soon!
+309	Ross	 Well, can’t you at least stall her a little? I’ll-I’ll go back to some of the places I went last night.
+310	Rachel	 All right, well how much time do you need?
+311	Ross	 Well how much time before she absolutely has to start getting ready?
+312	Rachel	 One hour.
+313	Ross	 Give me two.
+314	Rachel	 Then why do you ask?!
+315		(They all go into the hallway.)
+316	Ross	 Okay, wish me luck.
+317	Phoebe	 Okay. I’m going with you.
+318	Ross	 Why?!
+319	Phoebe	 Ross, you’re tired. You’ve been looking all night. And clearly you suck at this.
+320	Rachel	 All right, I’ll see you guys later.
+321	Phoebe	 Okay. Wait, do you know how you’re going to stall her?
+322	Rachel	 I’ll figure something out.
+323	Phoebe	 All right. Good luck.
+324	Rachel	 Thanks.
+325		(Phoebe and Ross go to look for Chandler and Rachel enters Monica and Chandler’s.)
+326	Monica	 Hey! Okay, so I thought we’d start with my make up and then do my hair.
+327	Rachel	 Okay uh, but before you do that. I-I, I need you to talk to me.
+328	Monica	 About what?
+329	Rachel	 Umm… I’m never gonna getting married!
+330	Monica	 Yeah you will! The right guy is just around the corner! Okay, are we done with that?
+331	Rachel	 No Monica! I’m serious! Oh, maybe I should just forget about it. Become a lesbian or something.
+332	Monica	 Any woman would be lucky to have ya.
+333	Rachel	 Well maybe it would make me feel better if I slept with Joey.
+334	Monica	 (jumping up) Rachel! You okay?
+335	[Scene	 The Movie Set, Joey is reporting for work.]
+336	Joey	 Excuse me, Aaron? (The director turns around.) Hi! Umm, I have a little problem with the schedules. Originally, I wasn’t supposed to work today, and I have this wedding that I really have to be at. It’s my best friend’s, and I’m officiating so I really can’t work past four.
+337	The Director	 Joey, you gotta stay until the end. We can’t stop filming just for you. It’s not like it’s your wedding. (Starts to walk away.)
+338	Joey	 I’m having surgery!
+339	The Director	 What?!
+340	Joey	 Yeah, I-I just made up the stuff about the wedding because I didn’t want you to worry about me. But, I’m having surgery today.
+341	The Director	 What kind of surgery?!
+342	Joey	 Transplant.
+343	The Director	 But you’re supposed to work on Monday.
+344	Joey	 Hair transplant.
+345	The Director	 But you’re not bald.
+346	Joey	 It’s not on my head.
+347	The Director	 Look Joey, there’s nothing I can do. Besides, you’re probably gonna be out by four anyway. We’ve just got one short scene. It’s just you and Richard, and God knows he’s a pro. You’ll be fine. (Walks away and sees Richard entering.) Morning Richard.
+348	Joey	 Hey! You’re here! Great! Great! Great! Let’s get going buddy, we’ve got a scene to shoot!
+349	Richard	 I’m wearing two belts.
+350	Joey	 Are you drunk?
+351	Richard	 No!
+352	Joey	 Yes you are!
+353	Richard	 All right.
+354	[Scene	 A Street, Phoebe and Ross are exiting a pizza place.]
+355	Ross	 We are never gonna find him! He’s one guy in a huge city!
+356	Phoebe	 Oh my God! Is that him? (She points at someone.)
+357	Ross	 That is an old, Chinese woman!
+358	Phoebe	 He could be in disguise, y’know.
+359	Ross	 Aw, y’know…Y’know, maybe we’re-we’re just approaching this all wrong. If you’re Chandler and-and you wanna hide, where is the last place on Earth people would think you’d go?
+360		[Cut to an office building.]
+361	Ross	 So this is your office?
+362	Chandler	 How did you guys find me? I knew I should’ve hid at the gym!
+363	Phoebe	 What the hell are you doing?!
+364	Chandler	 Panicking! And using the Internet to try to prove that I’m related to Monica. How is she?
+365	Ross	 She’s fine. She doesn’t know you’re gone. And she doesn’t have to know, okay? Now come on, we’re going home.
+366	Chandler	 No! No! No! I can’t do that!
+367	Phoebe	 Why not?!
+368	Chandler	 Because if I go home, we’re gonna become the Bings! I can’t be the Bings!
+369	Ross	 What’s wrong with being the Bings?
+370	Chandler	 The Bings have horrible marriages! They yell. They fight. And they use the pool boy as a pawn in their sexual games!
+371	Ross	 Chandler, have you ever put on a black cocktail dress and asked me up to your hotel room?
+372	Chandler	 No.
+373	Ross	 Then you are neither of your parents!
+374	Chandler	 It’s not just their marriage! I mean, look at yours. Look at everybody’s! The only person that can make marriage work is Paul Newman! And I’ve met me; I am not Paul Newman. I don’t race cars! I don’t make popcorn! None of my proceeds go to charity.
+375	Phoebe	 But look Chandler, right now no-one has a lower opinion of you than I do. But I totally believe you can do this.
+376	Chandler	 I want to. I love her so much, but I’m afr…It’s too huge.
+377	Ross	 Y’know, okay. You’re right. It is huge. So why don’t we take it just a little bit at a time? Okay? Umm, forget getting married for a sec; just forget about it. Can you just come home and take a shower?
+378	Chandler	 Well yeah, but then…
+379	Ross	 (interrupting him) Yeah—No-but-but-but-but! We’re just gonna go home and take a shower. Now, that’s not scary right?
+380	Chandler	 Depends on what you mean by we.
+381	[Scene	 Monica and Chandler's, Rachel is still trying to stall Monica.]
+382	Rachel	 The nights are the hardest. (Checks her watch.) But then the day comes! And that’s every bit as hard as the night. And then the night comes again…
+383	Monica	 (interrupting) The days and nights are hard! I get it! Okay? Look umm, Rachel I’m sorry! I have to start getting ready! I’m getting married today!
+384	Rachel	 I know. At dusk. That’s such a hard time for me.
+385	Monica	 (getting up) I’m gonna go put my make-up on, we have to be at the hotel in an hour! (Starts for the bathroom.)
+386	Rachel	 Okay. But wait!
+387	Monica	 What?!
+388	Rachel	 Let’s go to lunch.
+389	Monica	 I can’t go to lunch!!
+390	Rachel	 Right.
+391		(Monica goes into the bathroom and Rachel thinks quickly.)
+392	Rachel	 Oh good God! I’ve fallen down! (She trips and falls.)
+393	Monica	 (entering) What’s going on?
+394	Rachel	 Okay. Alright. (Gets up.) Honey listen. When I tell you what I’m about to tell you, I need you to remember that we are all here for you and that we love you.
+395	Monica	 Okay, you’re-you’re really freaking me out.
+396	Rachel	 We can’t find Chandler…(Phoebe sticks her head and motions that they found Chandler)—‘s vest. We can’t find Chandler’s vest.
+397	Monica	 How can that be?! Oh wait! Wait! Are you, are you serious?!
+398	Phoebe	 (entering) Found the vest! I mean we’re gonna have to keep an eye on it, y’know make sure we don’t lose it again…
+399	Rachel	 Oh!
+400	Monica	 Oh wow! Okay. Don’t scare me like that okay? I mean for a minute there I was like, "Oh my God! The worst has happened!"
+401		(Monica goes into the bathroom and Phoebe and Rachel breathe a sigh of relief.)
+402	[Scene	 The Movie Set, Joey and Richard are in the middle of a scene. They are both holding swords.]
+403	Joey	 I would sooner die in this hellhole then see her back with you!
+404	Richard	 That can be arranged.
+405		(Richard thrusts, misses Joey by several feet and Joey screams in pain and drops to his knees.)
+406	The Director	 Let’s reset.
+407	Joey	 What?! He got me! Owwwwww!!!
+408	The Director	 Let’s take it from there.
+409	Richard	 (To Joey) Are you a little off today? It’s going terribly slowly.
+410	Joey	 Look, my best friends are getting married in like an hour. Okay? And I’m the minister. Please! Please! Can you pull it together?
+411	Richard	 Of course! I’m-I’m sorry. I-I’d hate you to miss anything like that on account of me. I can do this!
+412	Joey	 Thank you. Thank you.
+413	The Director	 Still rolling, annnnd action!
+414	Joey	 I would sooner die in this hellhole then see her back with you!
+415	Richard	 Now, that can be arranged! (He brings his sword back and drops it, causing it to fly over the wall.) Slippery little bugger!
+416	[Scene	 The Hotel, Monica’s room, Mr. and Mrs. Bing are staring at each other while Phoebe looks on.]
+417	Phoebe	 So-so you two were married huh? What happened? You just drift apart?
+418		(Rachel and Mrs. Geller enter.)
+419	Mrs. Geller	 Here comes the bride.
+420		(Monica enters wearing her wedding dress.)
+421	Phoebe	 Oh my God Monica!
+422	Monica	 I wanna wear this everyday.
+423	Rachel	 You look so beautiful.
+424	Monica	 (starting to cry) I’m so happy for me.
+425		(The phone rings and Rachel answers it.)
+426	Rachel	 Hello?
+427	Joey	 (on phone) Hey! Did Chandler show up yet?
+428	Rachel	 Yeah, we got him back. Everything’s fine.
+429	Joey	 Damnit!
+430	Rachel	 What? Why? Where are you?
+431	Joey	 I’m still on the set!
+432	Rachel	 Joey! The wedding is in less than an hour!
+433	Joey	 I know! I’m sorry! The guy’s drunk, they won’t let me go until we get this.
+434	Rachel	 Oh my God! I’m gonna have to find another minister.
+435	Joey	 No! No, I’m the minister! Alright, look-look, put ‘em both on the phone, I’ll marry them right now.
+436	Rachel	 Ugh! Joey, I have to go.
+437	Joey	 Hey! Don’t you hang up on me! I’ll marry you and me right now! I have the power!
+438		(She hangs up anyway.)
+439	[Scene	 Chandler’s Hotel Room, Ross is getting Chandler ready.]
+440	Ross	 There you go. You put on a tuxedo! Now that wasn’t so scary, was it?
+441	Chandler	 No.
+442	Ross	 I’m telling you, just a little bit at a time.
+443	Chandler	 Yeah okay. Well, what’s the next little bit?
+444	Ross	 Getting married. (Chandler panics.) Okay. Okay. You can, you can do that too! Just like you’ve done everything else!
+445	Chandler	 Yeah. You’re right. Hey I-I can do that.
+446	Ross	 Yeah.
+447	Chandler	 Okay, excuse me for a minute. (Starts to leave)
+448	Ross	 Wh—Hey—Whoa-whoa, where, where you going?!
+449	Chandler	 Ross, I am not gonna run away again! I just want to get a little fresh air.
+450	Ross	 Okay.
+451	Chandler	 Okay.
+452		(Chandler goes out into the hall and lights up a cigarette.)
+453	Chandler	 Oh fresh air!
+454		(He hears Phoebe and Rachel coming and hides in the ice machine room.)
+455	Phoebe	 (To Rachel) Wait! Maybe, maybe you’re overreacting! You do that y’know.
+456	Rachel	 Well Phoebe, we gotta do something! (They turn the corner.) Well, y’know. I mean there’s no way Joey’s gonna make it in time. So I’m gonna go through the hotel and see if there’s any other weddings going on.
+457	Phoebe	 Okay. Oh but don’t tell them Monica’s pregnant because they frown on that.
+458	Rachel	 Okay.
+459	Phoebe	 Okay.
+460		(They head in separate directions and Chandler emerges and he’s so shocked that his cigarette is hanging from his lip.)
+461		Commercial Break
+462	[Scene	 The Hotel, Rachel is walking through the ballroom area and comes upon the sign for the Anastassakis/Papasifakis wedding.]
+463	Rachel	 Anastassakis/Papasifakis wedding, excellent! {It’s a good thing Jennifer Aniston is Greek, because she had to pronounce those names. Luckily for me, they were written on a sign.}(The happy couple emerges.) Congratulations. (To the best man and maid of honor) Mazel Tov! (The rabbi emerges.) Hi! Oh, great hat. (He’s wearing an interesting hat and she takes him over to talk.) Listen umm, I need you to perform another wedding. Can you do that?
+464	The Rabbi	 I don’t know. Are they Greek Orthodox?
+465	Rachel	 Yeah! Yeah. They’re…they’re-they’re my friends, uh, Monica Stephanopolus and uh, and Chandler Acidofolus.
+466	[Scene	 Monica’s Hotel Room, Chandler and Monica’s parents and Phoebe are there as Ross enters.]
+467	Ross	 Hi! (To Mrs. Bing) Hi! (Mr. Bing starts rubbing his arm.) Hi. Has umm, anyone seen Chandler?
+468	Mr. Geller	 I thought he was with you.
+469	Ross	 He-he was with me umm, we’re playing a little game, y’know? Hide and seek.
+470	Mr. Geller	 You can’t ask us son, that’s cheating.
+471	Ross	 (pause) You’re right, thanks for keeping me honest dad.
+472	Mrs. Geller	 Well, he better not come by here. He can’t see the bride in the wedding dress.
+473	Mrs. Bing	 As I recall when we got married, I saw the groom in the wedding dress.
+474	Mr. Bing	 But that was after the wedding, it’s not bad luck then.
+475	Mrs. Bing	 Honey, it isn’t good luck.
+476		(Monica enters.)
+477	Ross	 Oh my God! Monica!
+478	Monica	 I know! Hey, how’s Chandler doin’?
+479	Ross	 Great. He’s doing great. Don’t you worry about Chandler.
+480	Monica	 Are you okay?
+481	Ross	 Uh-huh.
+482	Monica	 Well, you’re-you’re sweating.
+483	Ross	 These-these are beads of joy.
+484	Monica	 Oh that’s sweet. Don’t touch me.
+485	Ross	 Uh Phoebe, can I see you for a second?
+486	Phoebe	 Yeah!
+487		(They both go out into the hall.)
+488	Phoebe	 What’s going on?
+489	Ross	 Chandler’s gone again!
+490	Phoebe	 Oh my God! Why would you play hide and seek with someone you know is a flight risk?!
+491		(Ross just glares at her.)
+492	[Scene	 The Movie Set, Joey is walking up to the director, pleading with him to let him go.]
+493	Joey	 Aaron! You gotta let me go. The guy’s hammered!
+494	The Director	 I’m sorry Joey, as long as he’s here and he’s conscious we’re still shooting.
+495		(He walks away and Joey does Ross’s fist thing. He then enters Richard’s dressing room, to find Richard cutting his steak with his sword.)
+496	Richard	 You wouldn’t happen to have a very big fork?
+497	Joey	 So I uh, I just talked to the director. That’s it, we’re done for the day.
+498	Richard	 Well have we finished the scene?
+499	Joey	 Yeah! You…you were wonderful.
+500	Richard	 As were you.
+501	Joey	 So I got your car, it’s right outside.
+502	Richard	 Why? Are we done for the day?
+503	Joey	 That’s what you told me.
+504	Richard	 Oh, thank you. You’re welcome. (He stands up, staggers to the couch, and starts to lie down.)
+505	Joey	 No-no-no! We gotta go! Come on! (Joey picks him up in a fireman’s carry and carries him out.) Here we go.
+506	Richard	 Is that my ass? (He’s looking at Joey’s.)
+507		(And as Joey walks out the door, Richard grabs a bottle of Scotch, just as the door closes and carries it with him.)
+508	[Scene	 The Hotel, Phoebe and Ross are looking for Chandler.]
+509	Ross	 (turning a corner) There he is!!
+510	Chandler	 What?
+511		(Ross runs over and tackles him.)
+512	Phoebe	 Hey! Oh!
+513	Ross	 You’re not getting away this time mister! Unless you want that ass kicking we talked about!
+514	Chandler	 Ross! (He starts to get up.)
+515	Ross	 Hiiii-Ya!! (Chandler lies back down.) I’m serious! You’re not walking out on my sister!
+516	Chandler	 (standing up) That’s right! I’m not!
+517	Ross	 Then where the hell have you been?!
+518	Chandler	 I know about Monica.
+519	Phoebe	 You know?!
+520	Ross	 What?
+521	Chandler	 Yeah, I heard you and Rachel talking.
+522	Ross	 What?! What?! Talking about what?!
+523	Chandler	 You don’t know?
+524	Ross	 Know what—If somebody doesn’t tell me what’s going on right now…
+525	Phoebe	 What? You’ll hi-ya?
+526	Chandler	 Monica’s pregnant.
+527	Ross	 Oh my God. Oh my God! And you’re-you’re…you’re not freaking out?
+528	Chandler	 Well I was! Then I went down to the gift shop because I was out of cigarettes…
+529	Phoebe and Ross	 Cigarettes?!!
+530	Chandler	 Big picture please! So I was in the gift shop, and that’s when I uh, saw this. (He holds up a little, tiny baby jumper that reads I (heart) New York.) Yeah, y’know what? I thought anything that can fit into this, can’t be scary.
+531	Phoebe	 Well you obviously didn’t see Chucky 3.
+532	Chandler	 But come on, look at how cute and small this is! So I got it to give Monica so she’d know I was okay.
+533	Ross	 Dude. (Hugs him.)
+534		(Mr. Geller turns the corner.)
+535	Mr. Geller	 Way to go son! I knew you’d find him!
+536	[Scene	 The moment we waited for has finally arrived. It’s time for Monica and Chandler’s wedding. We’ve got violins playing Every Breath You Take, we’ve got guests seated, and Chandler starts walking down the aisle with his parents on either arm.]
+537	Mr. Bing	 Our little boy is getting married.
+538	Mrs. Bing	 Oh look at you! So handsome!
+539	Chandler	 You look beautiful mom. (His dad clears his throat.) You look beautiful too dad. I love you both. (He kisses his dad on the cheek) I’m so glad you're here. (He kisses his mom.)
+540		(He walks up onto the altar and notices the rabbi.)
+541	The Rabbi	 Are you Chandler?
+542	Chandler	 Are you Joey?
+543		(Ross walks down the aisle with Phoebe and Rachel on his arms.)
+544	Ross	 Huh. This is nice.
+545	Phoebe	 What?
+546	Ross	 I’ve never walked down the aisle knowing it can’t end in divorce.
+547		(Finally, Monica with her parents on her arms start down the aisle.)
+548	Mrs. Geller	 Oh I wish your grandmother had lived to see this.
+549	Monica	 She’s right there.
+550	Mrs. Geller	 Not that old crow, my mother. (They stop and she kisses Monica on the cheek.) Congratulations darling.
+551	Mr. Geller	 I love you sweetheart. (He kisses her and they sit down.)
+552		(Chandler steps off the altar to greet his bride-to-be.)
+553	Chandler	 You look beautiful. Is this new? (Her dress.)
+554	Monica	 Not now.
+555	Chandler	 Okay.
+556		(They both step up onto the altar and she notices the rabbi.)
+557	Monica	 (To Chandler) Who is this?
+558	The Rabbi	 I am Father Kalebasous.
+559	Chandler	 (in Monica’s ear) He’s Greek Orthodox.
+560	Rachel	 (leaning in) As are you…
+561	The Rabbi	 Let us begin. Dearly beloved…
+562	Joey	 (entering) That’s my line! (He walks up the aisle and to the rabbi) I can take it from here, thanks. (To all) Dearly beloved, I’m sorry I’m a little late. You may be confused by this now, (He’s still in costume) but you won’t be Memorial Day weekend 2002. Well, let’s get started before the groom takes off again. Huh? (Monica is shocked and looks around.) We are gathered here today, to join this man and this woman in the bonds of holy matrimony. I’ve known Monica and Chandler for a long time, and I can not imagine two people more perfect for each other. And now, as I’ve left my notes in my dressing room, we shall proceed to the vows. Monica?
+563		(She turns to get her vows from Rachel.)
+564	Monica	 (To Rachel) He took off?
+565	Rachel	 Go on! Go on. (She turns back to Chandler.)
+566	Monica	 Chandler, for so long I…I wondered if I would ever find my prince, my soul mate. Then three years ago, at another wedding I turned to a friend for comfort. And instead, I found everything that I’d ever been looking for my whole life. And now…here we are…with our future before us…and I only want to spend it with you, my prince, my soul mate, my friend. Unless you don’t want to. You go!
+567	Joey	 Chandler?
+568		(Ross leans in to give Chandler his vows.)
+569	Chandler	 (To Ross) No, that’s okay. (Ross nods and retreats.) Monica I thought this was going to be the most difficult thing I ever had to do. But when I saw you walking down that aisle I realized how simple it was. I love you. Any surprises that come our way, it’s okay, because I will always love you. You are the person I was meant to spend the rest of my life with. You wanna know if I’m sure? (He leans in and kisses her.)
+570	Joey	 You may not kiss the bride. So, I guess by the powers vested in me by the state of New York and the Internet guys, I now pronounce you husband and wife. Oh wait! Do you take each other?
+571	Chandler	 I do.
+572	Monica	 I do.
+573	Joey	 Yeah you do!
+574	Ross	 Rings?
+575	Joey	 Aw crap! Okay—uh…uh let’s-let’s do the rings.
+576		(Chandler and Monica both turn, take the rings from Ross and Rachel respectively, and place them on each other’s fingers.)
+577	Joey	 We good? Yeah? Good? Once again, I pronounce you husband and wife. (To Chandler) Now kiss her again.
+578		(They kiss and everyone applauds.)
+579	Chandler	 (To Monica) I love you. And I know about the baby.
+580	Monica	 What baby?
+581	Chandler	 Our baby.
+582	Monica	 We have a baby?
+583	Chandler	 Phoebe found your pregnancy test in the trash.
+584	Monica	 I didn’t take a pregnancy test.
+585	Chandler	 Then…who did?
+586		[Cut to Phoebe and Rachel.]
+587	Phoebe	 Oh and they’re gonna have a baby.
+588	Rachel	 Uh-huh.
+589		(The camera zooms in on Rachel who has a very worried and frightened look on her face and she slowly takes a deep breath.)
+590		[Fade to black.]
+591		Ending Credits
+592	{Transcriber’s Note	 There was no trailer for this episode. See you in season 8; which will start this fall.}
+593		End
