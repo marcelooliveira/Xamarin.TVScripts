@@ -9,7 +9,7 @@
             <StackLayout>
                 <Grid>
                     <Image x:Name="imgStart"
-                       HeightRequest="160"
+                       HeightRequest="344"
                        Aspect="AspectFill"
                        Source="_poster.jpg"></Image>
                 </Grid>
