@@ -37,7 +37,8 @@ namespace Xamarin.TVScripts.Models
 
         public int QuoteNumber { get; set; }
 
-        public string Character { get; set; }
+        private string character;
+        public string Character { get => character.Trim().ToLower().Replace(".", "_"); set => character = value; }
 
         public string Speech { get; set; }
 
@@ -62,6 +63,7 @@ namespace Xamarin.TVScripts.Models
         public string ImageSource => $@"{Character}.jpg";
 
         private bool showCharacterImage = true;
+
         [Ignore]
         public bool ShowCharacterImage
         {
