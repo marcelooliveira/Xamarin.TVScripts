@@ -1,5 +1,6 @@
 ﻿using IronWebScraper;
 using System;
+using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -13,15 +14,18 @@ namespace TVScripts.Scraping
     {
         private readonly Episode episode;
 
+        private static readonly ConcurrentDictionary<string, int> characters = new ConcurrentDictionary<string, int>();
+        public static ConcurrentDictionary<string, int> Characters => characters;
+
         private readonly IList<Quote> quotes = new List<Quote>();
         public IList<Quote> Quotes => quotes;
+
 
         public EpisodeScraper(Episode episode)
         {
             this.episode = episode;
         }
-
-
+        
         public override void Init()
         {
             this.LoggingLevel = WebScraper.LogLevel.All;
@@ -48,6 +52,8 @@ namespace TVScripts.Scraping
                         character = parts[0].ToString();
                         speech = parts[1].ToString();
                     }
+
+                    characters.AddOrUpdate(character.Trim().ToLower(), 1, (c, count) => count + 1);
 
                     quotes.Add(
                         new Quote(
