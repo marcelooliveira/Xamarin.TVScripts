@@ -49,7 +49,7 @@ namespace TVScripts.Scraping
                     }
                     else
                     {
-                        character = parts[0].ToString().ToLower().Replace(".", " ").Replace("  ", " ");
+                        character = parts[0].ToString().ToLower().Replace(".", "_").Replace(" ", "_");
                         speech = parts[1].ToString();
                     }
 

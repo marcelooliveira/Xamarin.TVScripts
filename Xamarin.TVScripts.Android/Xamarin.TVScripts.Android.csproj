@@ -721,7 +721,7 @@
     <AndroidResource Include="Resources\drawable\eric.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable\dr green.jpg" />
+    <AndroidResource Include="Resources\drawable\dr_green.jpg" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable\kate.jpg" />
@@ -757,7 +757,7 @@
     <AndroidResource Include="Resources\drawable\mark.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable\mr treeger.jpg" />
+    <AndroidResource Include="Resources\drawable\mr_treeger.jpg" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable\will.jpg" />
@@ -769,19 +769,19 @@
     <AndroidResource Include="Resources\drawable\cecilia.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable\mr waltham.jpg" />
+    <AndroidResource Include="Resources\drawable\mr_waltham.jpg" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable\tim.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable\dr geller.jpg" />
+    <AndroidResource Include="Resources\drawable\dr_geller.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable\mr geller.jpg" />
+    <AndroidResource Include="Resources\drawable\mr_geller.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable\mrs geller.jpg" />
+    <AndroidResource Include="Resources\drawable\mrs_geller.jpg" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable\nopic.jpg" />
