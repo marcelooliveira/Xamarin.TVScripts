@@ -49,11 +49,11 @@ namespace TVScripts.Scraping
                     }
                     else
                     {
-                        character = parts[0].ToString();
+                        character = parts[0].ToString().ToLower().Replace(".", " ").Replace("  ", " ");
                         speech = parts[1].ToString();
                     }
 
-                    characters.AddOrUpdate(character.Trim().ToLower(), 1, (c, count) => count + 1);
+                    characters.AddOrUpdate(character.Trim(), 1, (c, count) => count + 1);
 
                     quotes.Add(
                         new Quote(

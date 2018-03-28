@@ -646,9 +646,6 @@
     <AndroidResource Include="Resources\drawable\emily.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable\mr. geller.jpg" />
-  </ItemGroup>
-  <ItemGroup>
     <AndroidResource Include="Resources\drawable\carol.jpg" />
   </ItemGroup>
   <ItemGroup>
@@ -656,9 +653,6 @@
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable\tag.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable\mrs. geller.jpg" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable\paul.jpg" />
@@ -727,7 +721,7 @@
     <AndroidResource Include="Resources\drawable\eric.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable\dr. green.jpg" />
+    <AndroidResource Include="Resources\drawable\dr green.jpg" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable\kate.jpg" />
@@ -763,7 +757,7 @@
     <AndroidResource Include="Resources\drawable\mark.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable\mr. treeger.jpg" />
+    <AndroidResource Include="Resources\drawable\mr treeger.jpg" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable\will.jpg" />
@@ -775,19 +769,19 @@
     <AndroidResource Include="Resources\drawable\cecilia.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable\mr. waltham.jpg" />
+    <AndroidResource Include="Resources\drawable\mr waltham.jpg" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable\tim.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable\dr. geller.jpg" />
+    <AndroidResource Include="Resources\drawable\dr geller.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable\mr.geller.jpg" />
+    <AndroidResource Include="Resources\drawable\mr geller.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable\mrs.geller.jpg" />
+    <AndroidResource Include="Resources\drawable\mrs geller.jpg" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable\nopic.jpg" />
