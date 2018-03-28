@@ -612,185 +612,173 @@
   <ItemGroup>
     <AndroidResource Include="Resources\drawable\_season1.jpg" />
   </ItemGroup>
- <ItemGroup>
-    <AndroidResource Include="Resources\drawable\rachel.jpg"/>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\rachel.jpg" />
   </ItemGroup>
- <ItemGroup>
-    <AndroidResource Include="Resources\drawable\ross.jpg"/>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\ross.jpg" />
   </ItemGroup>
- <ItemGroup>
-    <AndroidResource Include="Resources\drawable\chandler.jpg"/>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\chandler.jpg" />
   </ItemGroup>
- <ItemGroup>
-    <AndroidResource Include="Resources\drawable\monica.jpg"/>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\monica.jpg" />
   </ItemGroup>
- <ItemGroup>
-    <AndroidResource Include="Resources\drawable\joey.jpg"/>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\joey.jpg" />
   </ItemGroup>
- <ItemGroup>
-    <AndroidResource Include="Resources\drawable\phoebe.jpg"/>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\phoebe.jpg" />
   </ItemGroup>
- <ItemGroup>
-    <AndroidResource Include="Resources\drawable\.jpg"/>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\mike.jpg" />
   </ItemGroup>
- <ItemGroup>
-    <AndroidResource Include="Resources\drawable\[scene.jpg"/>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\all.jpg" />
   </ItemGroup>
- <ItemGroup>
-    <AndroidResource Include="Resources\drawable\mike.jpg"/>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\charlie.jpg" />
   </ItemGroup>
- <ItemGroup>
-    <AndroidResource Include="Resources\drawable\all.jpg"/>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\janice.jpg" />
   </ItemGroup>
- <ItemGroup>
-    <AndroidResource Include="Resources\drawable\charlie.jpg"/>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\emily.jpg" />
   </ItemGroup>
- <ItemGroup>
-    <AndroidResource Include="Resources\drawable\janice.jpg"/>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\mr. geller.jpg" />
   </ItemGroup>
- <ItemGroup>
-    <AndroidResource Include="Resources\drawable\emily.jpg"/>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\carol.jpg" />
   </ItemGroup>
- <ItemGroup>
-    <AndroidResource Include="Resources\drawable\mr. geller.jpg"/>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\david.jpg" />
   </ItemGroup>
- <ItemGroup>
-    <AndroidResource Include="Resources\drawable\carol.jpg"/>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\tag.jpg" />
   </ItemGroup>
- <ItemGroup>
-    <AndroidResource Include="Resources\drawable\written by.jpg"/>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\mrs. geller.jpg" />
   </ItemGroup>
- <ItemGroup>
-    <AndroidResource Include="Resources\drawable\david.jpg"/>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\paul.jpg" />
   </ItemGroup>
- <ItemGroup>
-    <AndroidResource Include="Resources\drawable\tag.jpg"/>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\frank.jpg" />
   </ItemGroup>
- <ItemGroup>
-    <AndroidResource Include="Resources\drawable\mrs. geller.jpg"/>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\richard.jpg" />
   </ItemGroup>
- <ItemGroup>
-    <AndroidResource Include="Resources\drawable\paul.jpg"/>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\gunther.jpg" />
   </ItemGroup>
- <ItemGroup>
-    <AndroidResource Include="Resources\drawable\frank.jpg"/>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\amy.jpg" />
   </ItemGroup>
- <ItemGroup>
-    <AndroidResource Include="Resources\drawable\richard.jpg"/>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\woman.jpg" />
   </ItemGroup>
- <ItemGroup>
-    <AndroidResource Include="Resources\drawable\gunther.jpg"/>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\mona.jpg" />
   </ItemGroup>
- <ItemGroup>
-    <AndroidResource Include="Resources\drawable\amy.jpg"/>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\pete.jpg" />
   </ItemGroup>
- <ItemGroup>
-    <AndroidResource Include="Resources\drawable\woman.jpg"/>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\joshua.jpg" />
   </ItemGroup>
- <ItemGroup>
-    <AndroidResource Include="Resources\drawable\mona.jpg"/>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\susan.jpg" />
   </ItemGroup>
- <ItemGroup>
-    <AndroidResource Include="Resources\drawable\pete.jpg"/>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\gary.jpg" />
   </ItemGroup>
- <ItemGroup>
-    <AndroidResource Include="Resources\drawable\joshua.jpg"/>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\elizabeth.jpg" />
   </ItemGroup>
- <ItemGroup>
-    <AndroidResource Include="Resources\drawable\susan.jpg"/>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\janine.jpg" />
   </ItemGroup>
- <ItemGroup>
-    <AndroidResource Include="Resources\drawable\gary.jpg"/>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\kathy.jpg" />
   </ItemGroup>
- <ItemGroup>
-    <AndroidResource Include="Resources\drawable\elizabeth.jpg"/>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\mnca.jpg" />
   </ItemGroup>
- <ItemGroup>
-    <AndroidResource Include="Resources\drawable\janine.jpg"/>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\jill.jpg" />
   </ItemGroup>
- <ItemGroup>
-    <AndroidResource Include="Resources\drawable\kathy.jpg"/>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\erica.jpg" />
   </ItemGroup>
- <ItemGroup>
-    <AndroidResource Include="Resources\drawable\mnca.jpg"/>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\rach.jpg" />
   </ItemGroup>
- <ItemGroup>
-    <AndroidResource Include="Resources\drawable\jill.jpg"/>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\joanna.jpg" />
   </ItemGroup>
- <ItemGroup>
-    <AndroidResource Include="Resources\drawable\erica.jpg"/>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\ursula.jpg" />
   </ItemGroup>
- <ItemGroup>
-    <AndroidResource Include="Resources\drawable\rach.jpg"/>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\ben.jpg" />
   </ItemGroup>
- <ItemGroup>
-    <AndroidResource Include="Resources\drawable\joanna.jpg"/>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\eric.jpg" />
   </ItemGroup>
- <ItemGroup>
-    <AndroidResource Include="Resources\drawable\ursula.jpg"/>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\dr. green.jpg" />
   </ItemGroup>
- <ItemGroup>
-    <AndroidResource Include="Resources\drawable\ben.jpg"/>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\kate.jpg" />
   </ItemGroup>
- <ItemGroup>
-    <AndroidResource Include="Resources\drawable\eric.jpg"/>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\man.jpg" />
   </ItemGroup>
- <ItemGroup>
-    <AndroidResource Include="Resources\drawable\dr. green.jpg"/>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\danny.jpg" />
   </ItemGroup>
- <ItemGroup>
-    <AndroidResource Include="Resources\drawable\kate.jpg"/>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\phoe.jpg" />
   </ItemGroup>
- <ItemGroup>
-    <AndroidResource Include="Resources\drawable\man.jpg"/>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\chan.jpg" />
   </ItemGroup>
- <ItemGroup>
-    <AndroidResource Include="Resources\drawable\danny.jpg"/>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\guy.jpg" />
   </ItemGroup>
- <ItemGroup>
-    <AndroidResource Include="Resources\drawable\phoe.jpg"/>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\steve.jpg" />
   </ItemGroup>
- <ItemGroup>
-    <AndroidResource Include="Resources\drawable\chan.jpg"/>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\nurse.jpg" />
   </ItemGroup>
- <ItemGroup>
-    <AndroidResource Include="Resources\drawable\guy.jpg"/>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\julie.jpg" />
   </ItemGroup>
- <ItemGroup>
-    <AndroidResource Include="Resources\drawable\steve.jpg"/>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\waiter.jpg" />
   </ItemGroup>
- <ItemGroup>
-    <AndroidResource Include="Resources\drawable\nurse.jpg"/>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\mark.jpg" />
   </ItemGroup>
- <ItemGroup>
-    <AndroidResource Include="Resources\drawable\julie.jpg"/>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\mr. treeger.jpg" />
   </ItemGroup>
- <ItemGroup>
-    <AndroidResource Include="Resources\drawable\waiter.jpg"/>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\will.jpg" />
   </ItemGroup>
- <ItemGroup>
-    <AndroidResource Include="Resources\drawable\mark.jpg"/>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\doug.jpg" />
   </ItemGroup>
- <ItemGroup>
-    <AndroidResource Include="Resources\drawable\mr. treeger.jpg"/>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\cecilia.jpg" />
   </ItemGroup>
- <ItemGroup>
-    <AndroidResource Include="Resources\drawable\will.jpg"/>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\mr. waltham.jpg" />
   </ItemGroup>
- <ItemGroup>
-    <AndroidResource Include="Resources\drawable\doug.jpg"/>
-  </ItemGroup>
- <ItemGroup>
-    <AndroidResource Include="Resources\drawable\cecilia.jpg"/>
-  </ItemGroup>
- <ItemGroup>
-    <AndroidResource Include="Resources\drawable\mr. waltham.jpg"/>
-  </ItemGroup>
- <ItemGroup>
-    <AndroidResource Include="Resources\drawable\the director.jpg"/>
-  </ItemGroup>
- <ItemGroup>
-    <AndroidResource Include="Resources\drawable\tim.jpg"/>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\tim.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <PropertyGroup>
